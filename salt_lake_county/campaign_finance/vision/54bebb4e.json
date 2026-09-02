@@ -1,0 +1,115 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2026-02-02",
+   "vendor_raw": "Jim Windert",
+   "purpose": "Reimburdement for campaign expense",
+   "amount": "26.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.29,22.14,73.12,3.00@p3",
+   "note": "recipient is a variant spelling of the filer's own name; purpose spelled 'Reimburdement' as printed (verified at 1200dpi)"
+  }
+ ],
+ "total_contributions": "0.00",
+ "total_expenditures": "26.50",
+ "beginning_balance": "0.00",
+ "ending_balance": "(26.50)",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "0.00"
+ },
+ "cover": {
+  "candidate": "James Winder",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Sheriff",
+  "district_number": "N/A",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "Yes",
+  "amendment_of": "2026-02-02",
+  "report_date": "2026-02-02",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Winder-James__D8816957.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Winder, James",
+  "office": "Sheriff",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Winder-James__D8816957.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026 form family 'Financial Disclosure Report For a Candidate' (no year in title; form_year blank). Final/Dissolution box checked AND amendment=Yes dated 2026-02-02. Recipient prints 'Jim Windert' - a variant spelling of the filer's own name. Purpose prints 'Reimburdement for campaign expense' verbatim (apparent typo of Reimbursement). No black bars on the itemized row; cover address/phone/email bar-redacted. Summary header block (last name/date) IS filled here (James Winder / 02/02/26), contrary to no expectation either way.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "no Schedule A page in the document; Summary line 1 Column A prints $0.00, so the absence is not a contradiction"
+    },
+    "expenditures": {
+     "stated": "26.50",
+     "schedule_total": "26.50",
+     "itemized": "26.50",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "single row 26.50 = Schedule B page subtotal = schedule grand total = Summary line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 26.50 = printed SUBTOTAL FOR THIS PAGE 26.50; TOTAL EXPENDITURES MADE 26.50",
+   "escalations": 2,
+   "escalation_note": "p3 purpose cell at 1200dpi x2 to fix the verbatim spelling 'Reimburdement'; whole row re-read at 600dpi",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026 form family 'Financial Disclosure Report For a Candidate' (no year in title; form_year blank). Final/Dissolution box checked AND amendment=Yes dated 2026-02-02. Recipient prints 'Jim Windert' - a variant spelling of the filer's own name. Purpose prints 'Reimburdement for campaign expense' verbatim (apparent typo of Reimbursement). No black bars on the itemized row; cover address/phone/email bar-redacted. Summary header block (last name/date) IS filled here (James Winder / 02/02/26), contrary to no expectation either way."
+  }
+ }
+}

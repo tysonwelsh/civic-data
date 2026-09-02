@@ -1,0 +1,131 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-10-20",
+   "donor_raw": "ADAM SUPPORTER",
+   "amount": "10.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=n/a;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.76,22.73,89.29,4.00@p2",
+   "note": "Amount printed '10' with superscript '00' over a rule and the word 'inkind' beside it - transcribed 10.00, in_kind=true. Address AND Occupation/Employer cells are both covered by the county's black bar: redacted at source (verified at 1200 dpi - the bar's right edge stops at the Amount column rule). No street address was read or recorded."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-10-20",
+   "vendor_raw": "PRINTER",
+   "purpose": "Business CARDS",
+   "amount": "10.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.35,24.00,80.88,4.27@p3",
+   "note": "Amount printed '10' with superscript '00' over a rule and 'in Kind' beside it - transcribed 10.00, in_kind=true."
+  }
+ ],
+ "total_contributions": "10.00",
+ "total_expenditures": "10.00",
+ "beginning_balance": "74.00",
+ "ending_balance": "73.12",
+ "aggregate": {
+  "total_contributions_to_date": "84.00",
+  "total_expenditures_to_date": "10.88",
+  "line5_subtotal": "84.00"
+ },
+ "cover": {
+  "candidate": "ADAM GUYMAN",
+  "party": "GREEN",
+  "office_sought": "COUNCIL AT LARGE",
+  "district_number": "",
+  "report_type": "Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "10/29/18",
+  "form_year": "2018"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__october__adam-guyman-10-30_redacted2.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "ADAM GUYMAN",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/2018_disclosures__october__adam-guyman-10-30_redacted2.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "PAGE ORDER IS NOT THE STANDARD ONE: p2 is Schedule A and p4 is the Summary Page (AGENT_BRIEF s1(4) 'page 2 is Schedule A rather than the Summary Page on another' - this is such a filing). Chunk-file agreement: candidate ADAM GUYMAN, office County Council At-Large C, date 2018-10-29, 'Seven days before a general election' - all confirmed at the form (Office line reads 'COUNCIL AT LARGE #C'; Office Sought reads 'COUNCIL AT LARGE' with District Number blank). The amendment question has NEITHER 'Yes' NOR 'No' checked - is_amendment is honestly ''. Clerk stamp: RECEIVED IN OFFICE OCT 29 2018. Party GREEN. Cents are written as a superscript over a rule throughout this filing and are transcribed with a decimal point per s5(g). Contributor name is literally 'ADAM SUPPORTER' - transcribed verbatim, no attempt made to resolve it to a person.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "10.00",
+     "schedule_total": "10.00",
+     "itemized": "10.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "The one row (10.00, marked 'inkind' by the filer) equals BOTH printed anchors: the Schedule A grand total '10 00 inkind' and Summary line 1 Column A '10 00'. Scope test: the schedule grand total equals Column A (10.00), NOT Column B (84.00), so both anchors are per-period and agree. In-kind IS included in this filing's schedule total (the only row is in-kind and the total equals it) - settled per filing per AGENT_BRIEF s1(2). No schedule-total-vs-summary-gap here."
+    },
+    "expenditures": {
+     "stated": "10.00",
+     "schedule_total": "10.00",
+     "itemized": "10.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "The one row (10.00, 'in Kind') equals the Schedule B grand total '10 00' and Summary line 2 Column A '10 00'. Scope test: the schedule grand total equals Column A (10.00), not Column B (10.88). NOTE the filer's own inconsistency: Summary line 6, which the form labels '(From Line 2 Column A)', carries 10.88 - the Column B figure - not the 10.00 in Column A. Line 6 is not an anchor for the schedule; it is retained verbatim and named here."
+    }
+   },
+   "page_subtotal_gates": "p2 SUBTOTAL FOR THIS PAGE is printed and LEFT BLANK; gated on the Schedule A grand total instead (rows 10.00 = printed total 10.00). p3 SUBTOTAL FOR THIS PAGE likewise printed and blank; gated on the Schedule B grand total (rows 10.00 = printed total 10.00).",
+   "escalations": 3,
+   "escalation_note": "p4 Summary lines 1-2 both columns, 1200 dpi cell crop (settled line 2 Col A = 10.00 vs Col B = 10.88); p4 lines 5-6 Column A, 1200 dpi (settled line 6 = 10.88); p2 Schedule A amount cell, 1200 dpi (settled '10 00 inkind' = 10.00 in-kind, and showed the black bar's right edge stops exactly at the Amount column rule, i.e. it covers the whole Occupation/Employer column).",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PAGE ORDER IS NOT THE STANDARD ONE: p2 is Schedule A and p4 is the Summary Page (AGENT_BRIEF s1(4) 'page 2 is Schedule A rather than the Summary Page on another' - this is such a filing). Chunk-file agreement: candidate ADAM GUYMAN, office County Council At-Large C, date 2018-10-29, 'Seven days before a general election' - all confirmed at the form (Office line reads 'COUNCIL AT LARGE #C'; Office Sought reads 'COUNCIL AT LARGE' with District Number blank). The amendment question has NEITHER 'Yes' NOR 'No' checked - is_amendment is honestly ''. Clerk stamp: RECEIVED IN OFFICE OCT 29 2018. Party GREEN. Cents are written as a superscript over a rule throughout this filing and are transcribed with a decimal point per s5(g). Contributor name is literally 'ADAM SUPPORTER' - transcribed verbatim, no attempt made to resolve it to a person."
+  }
+ }
+}

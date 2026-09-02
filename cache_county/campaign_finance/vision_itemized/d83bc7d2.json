@@ -1,0 +1,115 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C22.json",
+ "key": "d83bc7d2",
+ "index_path": "raw/2024/2024_cc_2024_General_Tennille_Johnson.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Tennille_Johnson.pdf"
+ ],
+ "sha256_prefix": "11f78fab6f938ee1",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "0",
+    "page_subtotal": "0",
+    "box_A_balance_begin": "",
+    "box_F_subtotal": ""
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==page-subtotal (the only printed anchors; both cover cells are blank)",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Schedule A (p2) has no inked ledger line at all; both its printed 'Subtotal for this page $' and 'Total Contributions Received $' cells carry a small hand-drawn zero (a plain closed circle, read at 600 dpi) = 0. Summary Boxes A, B, C, E and F were all left BLANK by this filer, so the cover offers NO scope evidence for the contributions side; the only printed anchor is the schedule's own per-report total, hence scope 'period'. A zero side cannot double-count under either scope."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_this": "$ 672.12",
+    "cover_expense_cum": "",
+    "cover_balance_end": "$ 672.12",
+    "schedule_total": "672.12",
+    "page_subtotal": "672.12",
+    "box_A_balance_begin": "",
+    "box_F_subtotal": ""
+   },
+   "itemized": "672.12",
+   "basis": "schedule-total==page-subtotal==cover Box D (this period)",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Two rows sum to exactly 672.12 = the printed 'Subtotal for this page $672.12' = the printed 'Total Expenditures Made $672.12' = Box D (Expenditures Made this Period). Box E (Expenditures Made Year to Date) was left BLANK, so the rows are anchored ONLY to a this-period figure — scope 'period', a different scope from the cumulative figure this module publishes (honest and expected, addendum §C). No cumulative figure was synthesized."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: zero rows = printed subtotal 0 = printed total 0 — gates. p3: rows sum 672.12 = printed subtotal 672.12 = printed Total Expenditures Made 672.12 = cover Box D 672.12 — gates EXACT on three printed figures.",
+  "row_count": "rowbands.py p3 (200 dpi): geometry_status ok, 15 data bands, pitch ~4.55%; ink in bands 1-2 only = 2 rows emitted, each confirmed by its own geometry-proof crop. p2: no ink in any band = 0 rows.",
+  "geometry_proof": "p3 row-1 box (600 dpi, x 80.00% w 14.00%, y 16.28% h 4.55%) renders '$ 597.12'; row-2 box (y 20.91%) renders '$ 75.⁰⁰'; the control one pitch below (y 25.46%) renders EMPTY.",
+  "balance_chain": "Cannot be closed: Boxes A, B, C, E and F are all blank. What IS printed is internally INCONSISTENT — 'Balance at Close of Reporting Period (Box F − Box D)' reads $672.12, the same POSITIVE figure as Box D, where F − D with F blank/zero would be −672.12. Retained verbatim as the FILER's arithmetic; nothing recomputed. Single filing by this filer in the cycle, so no cross-filing chain test is possible."
+ },
+ "escalations": 5,
+ "escalation_note": "600 dpi crops: p3 rows 1-2 band (full width, twice), p3 subtotal/total block, p2 subtotal cell, plus the three geometry-proof boxes.",
+ "notes": "Office line INSIDE the form reads 'Recorder' — agrees with the chunk file and index, in scope. This cover's title is 'Financial Campaign Report for County Offices' with NO school-board line. Report type marked 'Seven days preceding the General Election'; amendment: No. Date of Report 10/18/24 on p1 (index says 2024-11-01 — CMS posting date; the form governs); Clerk/Auditor received stamp 2024 OCT 18 PM4:13. The 'Date of Report' footer boxes on pages 2, 3 and 4 were left empty while the page numbers 2/3/4 are filled in — noted. Candidate home address, phone and email are printed in the clear on p1 and were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "597.12",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.00,16.28,14.00,4.55@p3",
+   "note": "Date written 'Jan 2, 24' (month name, two-digit year)."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2024-03-25",
+   "vendor_raw": "Ryan Smith",
+   "purpose": "Speech Writing",
+   "amount": "75.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.00,20.91,14.00,4.55@p3",
+   "note": "Date written 'march 25, 24' (lower-case month name, two-digit year). Amount written '$ 75.' with a superscript 'oo' after the point = 75.00 per core §3(g)."
+  }
+ ]
+}

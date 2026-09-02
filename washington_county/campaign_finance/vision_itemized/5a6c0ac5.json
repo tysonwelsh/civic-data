@@ -1,0 +1,412 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W06.json",
+ "key": "5a6c0ac5",
+ "index_path": "raw/live_wp/2022-Victor-Iverson.pdf",
+ "applies_to": [
+  "raw/live_wp/2022-Victor-Iverson.pdf"
+ ],
+ "sha256_prefix": "7d65f29153486058",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "second-report-cover",
+  "5": "form-A",
+  "6": "form-B"
+ },
+ "n_reports_in_pdf": 2,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen2-county-branded-grid",
+  "expenditures": "gen2-county-branded-grid"
+ },
+ "recon": {
+  "report_no": 1,
+  "pages": "1-3",
+  "report_date": "2023-01-05",
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "96.88",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "96.88",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A (p2) is the county-branded boxed grid, every data row empty, and its printed footer TOTAL cell is LEFT BLANK by the filer (not a zero glyph - anchor is \"\", the field exists and is empty). Rows-sum 0.00 equals the THIS-REPORT cell (a slashed-zero = 0) and not the cumulative 96.88, so the schedule is per-period. Cover cents are written as superscript pairs ('96' + underlined '88')."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "96.88",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "96.88",
+    "cover_balance_end": "0",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (p3) is empty and its printed TOTAL cell is likewise left blank. Rows-sum 0.00 = the THIS-REPORT slashed-zero, not the cumulative 96.88."
+  },
+  "balance_chain": "Cumulative: 96.88 (contributions) + 0 - 96.88 (expenses) = 0 = cover line 4 in all three columns (slashed-zero glyphs). Closes exactly."
+ },
+ "recon_by_report": [
+  {
+   "report_no": 1,
+   "pages": "1-3",
+   "report_date": "2023-01-05",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "96.88",
+     "cover_over50_this": "0",
+     "cover_over50_cum": "96.88",
+     "cover_le50_last": "0",
+     "cover_le50_this": "0",
+     "cover_le50_cum": "0",
+     "schedule_total": ""
+    },
+    "itemized": "0.00",
+    "basis": "cover-line1-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "Form A (p2) is the county-branded boxed grid, every data row empty, and its printed footer TOTAL cell is LEFT BLANK by the filer (not a zero glyph - anchor is \"\", the field exists and is empty). Rows-sum 0.00 equals the THIS-REPORT cell (a slashed-zero = 0) and not the cumulative 96.88, so the schedule is per-period. Cover cents are written as superscript pairs ('96' + underlined '88')."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "96.88",
+     "cover_expense_this": "0",
+     "cover_expense_cum": "96.88",
+     "cover_balance_end": "0",
+     "schedule_total": ""
+    },
+    "itemized": "0.00",
+    "basis": "cover-line3-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "Form B (p3) is empty and its printed TOTAL cell is likewise left blank. Rows-sum 0.00 = the THIS-REPORT slashed-zero, not the cumulative 96.88."
+   },
+   "balance_chain": "Cumulative: 96.88 (contributions) + 0 - 96.88 (expenses) = 0 = cover line 4 in all three columns (slashed-zero glyphs). Closes exactly."
+  },
+  {
+   "report_no": 2,
+   "pages": "4-6",
+   "report_date": "2022-06-21",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "0",
+     "cover_over50_this": "2,687.72",
+     "cover_over50_cum": "2,687.72",
+     "cover_le50_last": "0",
+     "cover_le50_this": "10.63",
+     "cover_le50_cum": "10.63",
+     "schedule_total": "2,698.35"
+    },
+    "itemized": "2,687.72",
+    "itemized_all_rows": "2,698.35",
+    "basis": "cover-line1-cumulative (over-$50 subset of the rows)",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "8 rows sum to 2,698.35 = the schedule's printed TOTAL. Exactly one of them is at or under $50 (10.63), and 2,698.35 - 10.63 = 2,687.72 = cover line 1 in BOTH the THIS and CUMULATIVE columns (the LAST column is a slashed-zero, so this is the first report of the cycle and the scopes coincide); the 10.63 row alone is cover line 2. Reconciled against line 1 only, per the sub-$50 rule. NOTE the filer first wrote 2,698.35 on line 1 (both the THIS and CUMULATIVE cells), scribbled it out, and wrote 2,687.72 above it - the correction is what makes line 1 the over-$50 figure; both the struck and the standing values are legible and are reported here."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "0",
+     "cover_expense_this": "2,698.35",
+     "cover_expense_cum": "2,698.35",
+     "cover_balance_end": "0",
+     "schedule_total": "2,698.35"
+    },
+    "itemized": "2,698.35",
+    "basis": "schedule-total==cover-line3-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "8 rows sum to 2,698.35 = the schedule's printed TOTAL = cover line 3 THIS = cover line 3 CUMULATIVE (LAST column is a slashed-zero; first report of the cycle, scopes coincide). A NINTH ledger line exists on p6 between rows 6 and 7 whose date and payee are scribbled out and whose purpose and amount cells are EMPTY - a cancelled entry the filer rewrote on the next line (same date, 3/22/2022). It is NOT transcribed, and the ARITHMETIC is the proof: the printed TOTAL closes exactly on the 8 remaining rows."
+   },
+   "balance_chain": "(2,687.72 + 10.63) - 2,698.35 = 0.00 = cover line 4 (slashed-zero in all three columns). Closes exactly."
+  }
+ ],
+ "gates": {
+  "page_subtotal": "p2/p3 (report 1): empty grids whose printed TOTAL cells the filer left BLANK; rows 0.00 = cover THIS cells (0). p5: 8 rows = 2,698.35 = printed TOTAL 2,698.35; the over-$50 subset 2,687.72 = cover line 1; the single sub-$50 row 10.63 = cover line 2. p6: 8 rows = 2,698.35 = printed TOTAL 2,698.35 = cover line 3. Every gate fires exactly; none failed.",
+  "row_count": "rowbands.py returns 'gaps' on all four schedule pages (the grid's inner rules are broken by the scan), so the count was scored by an INDEPENDENT ink profile of the amount column: p5 yields exactly 8 inked amount cells plus the footer TOTAL (8 rows emitted); p6 yields exactly 8 plus the footer TOTAL, with a clear EMPTY gap where the scribbled-out ninth ledger line sits (8 rows emitted); p2 and p3 yield zero inked cells. Cross-check by eye on the name column: p6 shows 9 inked name rows, one of them struck out with no amount - 8 names to 8 amounts, so the field-shift screen passes.",
+  "geometry_proof": "p5: first-row box renders '$ 750 -', last-row (8) box renders '$ 65.31', control one pitch below renders only the printed '$' (empty cell). p6: first-row box '$ 750 (superscript 00)', last-row (8) '$ 65.31', control one pitch below renders only the printed '$'.",
+  "balance_chain": "Per report: both close exactly (see recon_by_report). CROSS-FILING CHAIN RUN (two filings by one filer in this PDF): report 2's CUMULATIVE column (2,687.72 / 10.63 / 2,698.35 / 0) does NOT equal report 1's TOTALS-FROM-LAST-REPORT column (96.88 / 0 / 96.88 / 0). The two are not comparable as a chain: report 2 closes the 2022 election cycle at a zero balance in June 2022, and report 1 is the January 2023 filing for the period 10-01-2022 to 12-31-2022 with its own small 96.88 in and 96.88 out. Either an intervening filing exists that is not stapled here, or the filer restarted the cumulative after the election - the document does not say which, and no figure was synthesised to bridge them."
+ },
+ "escalations": 14,
+ "escalation_note": "both cover anchor grids, both report-1 schedule TOTAL cells (re-cropped once wider after the first crop missed the TOTAL line), the p5/p6 date columns, the p5/p6 payee-name columns, the p5/p6 amount columns, and 6 single-cell geometry-proof crops - all at 600 dpi. The struck cover figure on report 2 line 1 and the scribbled ledger line on p6 were each re-read twice.",
+ "notes": "BUNDLE of 2 reports, out of chronological order: the PDF opens with the 2023-01-05 filing (period 10-01-2022 to 12-31-2022, RECEIVED JAN 05 2023) and then the 2022-06-21 filing (period Jan 1 2022 to June 21 2022, RECEIVED JUN 21 2022). n_reports_in_pdf 2 agrees with the chunk file. Both are Generation 2 (WASHINGTON COUNTY CANDIDATE FINANCIAL CAMPAIGN REPORT, Washington County Code 1-7-1) with the boxed grid and a printed footer TOTAL on each schedule. index.csv says candidate 'Victor Moses Iverson', office 'Commission Seat B' - the forms agree: 'Full Name of Candidate Victor Moses Iverson'; report 1's Office line reads 'Washington County Commission Seat B' and report 2's reads 'County Commission Seat B'. Representative District: 'County wide' (report 1) / 'all areas of county' (report 2). EVERY contribution on report 2 is the candidate's own money (self-funding), entered once by name and then as a circled '(Same)' ditto in both the name and address columns. The In Kind? column exists on this form generation and is answered 'no' on all 8 rows, so in_kind is false throughout - a 'no', not an inference. Candidate home street address, ZIP and both phone numbers appear in the clear on both covers and were discarded at read time; the donor address column carries the same street address and ZIP and only the city was retained. Page rot 270; poppler renders all six pages upright portrait 1700x2200.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 2,
+   "date": "2022-01-05",
+   "donor_raw": "Victor Iverson",
+   "donor_city": "LaVerkin",
+   "donor_state": "",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.53,12.16,11.12,1.75@p5",
+   "note": "the candidate's OWN money - self-funding. The address cell carries a street line, the city LaVerkin, and a ZIP on the line below; street and ZIP were discarded at read time and only the city is retained. The cell prints no state. Amount written '750' with a trailing dash for no cents -> 750.00 per 3(g). In Kind? column answered 'no'"
+  },
+  {
+   "line_no": "2",
+   "report_no": 2,
+   "date": "2022-01-28",
+   "donor_raw": "(Same)",
+   "donor_city": "LaVerkin",
+   "donor_state": "",
+   "amount": "176.13",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.53,13.98,11.12,1.75@p5",
+   "note": "contributor and address cells both read the ditto '(Same)', circled, resolving to Victor Iverson / LaVerkin. In Kind? 'no'"
+  },
+  {
+   "line_no": "3",
+   "report_no": 2,
+   "date": "2022-02-25",
+   "donor_raw": "(Same)",
+   "donor_city": "LaVerkin",
+   "donor_state": "",
+   "amount": "206.65",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.53,15.84,11.12,1.75@p5",
+   "note": "ditto '(Same)' resolves to Victor Iverson / LaVerkin. In Kind? 'no'"
+  },
+  {
+   "line_no": "4",
+   "report_no": 2,
+   "date": "2022-02-28",
+   "donor_raw": "(Same)",
+   "donor_city": "LaVerkin",
+   "donor_state": "",
+   "amount": "10.63",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.53,17.66,11.12,1.75@p5",
+   "note": "ditto '(Same)' resolves to Victor Iverson / LaVerkin. In Kind? 'no'. THIS is the only row at or under $50 - it is the whole of the cover's 10.63 '$50.00 or less' aggregate"
+  },
+  {
+   "line_no": "5",
+   "report_no": 2,
+   "date": "2022-02-28",
+   "donor_raw": "(Same)",
+   "donor_city": "LaVerkin",
+   "donor_state": "",
+   "amount": "608.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.53,19.57,11.12,1.75@p5",
+   "note": "ditto '(Same)' resolves to Victor Iverson / LaVerkin. In Kind? 'no'"
+  },
+  {
+   "line_no": "6",
+   "report_no": 2,
+   "date": "2022-03-14",
+   "donor_raw": "(Same)",
+   "donor_city": "LaVerkin",
+   "donor_state": "",
+   "amount": "80.01",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.53,21.43,11.12,1.75@p5",
+   "note": "ditto '(Same)' resolves to Victor Iverson / LaVerkin. In Kind? 'no'"
+  },
+  {
+   "line_no": "7",
+   "report_no": 2,
+   "date": "2022-03-22",
+   "donor_raw": "(Same)",
+   "donor_city": "LaVerkin",
+   "donor_state": "",
+   "amount": "801.62",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.53,23.43,11.12,1.75@p5",
+   "note": "ditto '(Same)' resolves to Victor Iverson / LaVerkin. In Kind? 'no'"
+  },
+  {
+   "line_no": "8",
+   "report_no": 2,
+   "date": "2022-03-31",
+   "donor_raw": "(Same)",
+   "donor_city": "LaVerkin",
+   "donor_state": "",
+   "amount": "65.31",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.53,24.98,11.12,1.75@p5",
+   "note": "ditto '(Same)' resolves to Victor Iverson / LaVerkin. In Kind? 'no'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 2,
+   "date": "2022-01-05",
+   "vendor_raw": "WCRP",
+   "purpose": "Lincoln Day table",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.35,11.89,19.20,1.75@p6",
+   "note": "amount written '750' with superscript underlined '00' -> 750.00 per 3(g)"
+  },
+  {
+   "line_no": "2",
+   "report_no": 2,
+   "date": "2022-01-28",
+   "vendor_raw": "Lindt Chocolates",
+   "purpose": "booth supplies",
+   "amount": "176.13",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.35,13.70,19.20,1.75@p6",
+   "note": ""
+  },
+  {
+   "line_no": "3",
+   "report_no": 2,
+   "date": "2022-02-25",
+   "vendor_raw": "Steamroller Copies",
+   "purpose": "flyers",
+   "amount": "206.65",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.35,15.66,19.20,1.75@p6",
+   "note": ""
+  },
+  {
+   "line_no": "4",
+   "report_no": 2,
+   "date": "2022-02-28",
+   "vendor_raw": "Dollar Tree",
+   "purpose": "booth Supplies/balloons",
+   "amount": "10.63",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.35,17.48,19.20,1.75@p6",
+   "note": "purpose text runs to the edge of its cell"
+  },
+  {
+   "line_no": "5",
+   "report_no": 2,
+   "date": "2022-02-28",
+   "vendor_raw": "Washington County",
+   "purpose": "filing fee",
+   "amount": "608.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.35,19.11,19.20,1.75@p6",
+   "note": ""
+  },
+  {
+   "line_no": "6",
+   "report_no": 2,
+   "date": "2022-03-14",
+   "vendor_raw": "Lindt Chocolates",
+   "purpose": "convention chocolates",
+   "amount": "80.01",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.35,21.16,19.20,1.75@p6",
+   "note": ""
+  },
+  {
+   "line_no": "7",
+   "report_no": 2,
+   "date": "2022-03-22",
+   "vendor_raw": "Speak by Design",
+   "purpose": "Signs + Shirts",
+   "amount": "801.62",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.35,24.93,19.20,1.75@p6",
+   "note": "written 'Signs & Shirts' with a plus-shaped ampersand"
+  },
+  {
+   "line_no": "8",
+   "report_no": 2,
+   "date": "2022-03-31",
+   "vendor_raw": "Lindt Chocolates",
+   "purpose": "convention chocolates",
+   "amount": "65.31",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.35,26.75,19.20,1.75@p6",
+   "note": ""
+  }
+ ]
+}

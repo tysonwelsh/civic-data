@@ -1,0 +1,97 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C05.json",
+ "key": "e253d0aa",
+ "index_path": "raw/2012/2012_cc_Kathy_Robison_finance_campaign.pdf",
+ "applies_to": [
+  "raw/2012/2012_cc_Kathy_Robison_finance_campaign.pdf"
+ ],
+ "sha256_prefix": "611362281ba87ea0",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is entirely blank at 90 dpi and at 170 dpi normalized — an EMPTY SCHEDULE, zero rows. Cover line 1 reads 0 / 0 / 0 across LAST + THIS = CUMULATIVE, so the empty schedule agrees with the printed anchor. The Carr form prints NO schedule total on p2 (it ends with the 'If additional space is needed' note), so schedule_total is null by form design and the cover line is the only anchor. THIS and CUMULATIVE coincide (first/only report of the cycle on this cover)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "129.00",
+    "cover_expense_cum": "129.00",
+    "cover_balance_end": "129.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "129.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row on Form B (p3) reading 129.00 equals BOTH cover line 3 THIS (129.00) and CUMULATIVE (129.00); LAST is 0, so the two scopes coincide on this first/only report. Carr Form B prints no schedule total, so schedule_total is null by form design."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No printed schedule or page subtotal exists on the Carr Form A/Form B sheets (form design). Gate run against the cover instead: p3 rows 129.00 = cover line 3 THIS 129.00 = CUMULATIVE 129.00; p2 zero rows = cover line 1 0/0/0.",
+  "row_count": "p3 rowbands.py: geometry_status ok, 37 h-rules / 36 bands, deskew 0.3 deg. Band 1 (8.99-11.77 pct) is the only band carrying ink (the filer wrote just below the header rule) -> 1 row emitted, matches. p2 rowbands not needed: page is visually empty at 170 dpi normalized.",
+  "geometry_proof": "p3 first row = last row (single row). Crop x=150..4350 y=580..830 @600dpi renders '3/15/12  Kinkos  Brochures'; amount crop x=4200..5200 y=580..830 renders '129.00'; control one row-pitch below (x=4300 y=830 W=900 H=170 @600dpi) renders EMPTY (only the ruled line).",
+  "balance_chain": "Cover line 4 (balance at end) is written 0 / 129.00 / 129.00. The identity beginning + contributions - expenditures does NOT close: 0 + 0 - 129.00 = -129.00, but the filer wrote +129.00. This is the FILER's arithmetic (a sign error, or the filer read line 4 as 'total spent'); both figures retained verbatim, nothing recomputed. The internal cover identity LAST + THIS = CUMULATIVE closes on every line (0+0=0, 0+0=0, 0+129.00=129.00, 0+129.00=129.00)."
+ },
+ "escalations": 4,
+ "escalation_note": "p3 amount cell at 600 dpi tight crop (confirmed 129.00, not 1.29 or 129.80); p3 full row band at 600 dpi (date/vendor/purpose); p1 cover lines 1-2 at 600 dpi (confirmed handwritten '0' ovals, not dashes); p1 cover lines 3-4 at 600 dpi (confirmed 129.00 in both THIS and CUMULATIVE on both lines).",
+ "notes": "Chunk file says candidate 'Kathy Robison', office 'County Council'. The form's 'Full Name of Candidate' line reads 'Kathleen Ann Robison' and 'Name of Office' reads 'Cache County Council member', Office District 'Logan #2' — office AGREES; the given name on the form is the formal 'Kathleen Ann', not the chunk file's 'Kathy' (the signature reads 'Kathy Robison'). Cover Date '15 Oct 2012'; clerk stamp 'CACHE COUNTY CLERK RCVD 15 OCT 2012 PM 02:24'. Political party Republican. Candidate street address, city-of-residence line, ZIP and home phone are printed in the clear on this cover and were discarded at read time. Form A is a blank schedule (an honest zero, not a gap).",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2012-03-15",
+   "vendor_raw": "Kinkos",
+   "purpose": "Brochures",
+   "amount": "129.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.50,9.10,11.00,2.60@p3",
+   "note": "Date written '3/15/12' (two-digit year -> 2012). Cents written as a cursive double-o over the decimal point; 600 dpi crop confirms 129.00. The Carr form has no in-kind column, so in_kind is false by form design, not by inference."
+  }
+ ]
+}

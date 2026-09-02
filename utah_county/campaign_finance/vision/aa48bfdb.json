@@ -3,7 +3,12 @@
  "key": "aa48bfdb",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:15:00Z",
- "pages_read": [1, 2, 3, 4],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 12.23",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +57,52 @@
    "notes": "Handwritten on the printed v. 12.23 form (radio buttons are digital filled dots, the rest is ink). Boxes A, B, D, F and Balance at Close are each a hand-drawn open loop - the filer's zero glyph, transcribed as '0' at medium confidence; these are WRITTEN zeros, not blanks. Only C and E carry figures (1081.12), the year-to-date carry-forward from this filer's 7-days-before-General report (keys 52270376 / c7820527, same 1081.12). Schedules A (p2) and B (p3) have no line items - every row is empty and the Subtotal / Total lines were left blank by the filer. The Office field is hand-printed 'SURVEYOR' with no 'County' prefix (index.csv says 'County Surveyor'); the name is 'Anthony Canto' with no middle initial (index.csv says 'Anthony D Canto'). Street address, phone and signature are redacted upstream by the county (black bars); the hand-printed 'BENJAMIN UT 84660' survives. Email left blank by the filer."
   }
  ],
- "notes": "The chunk flagged pages 1, 2 and 3 as cover pages; in fact p1 is the cover, p2 is Schedule A and p3 is Schedule B (both blank). ONE report; p4 is the sole Summary Page."
+ "notes": "The chunk flagged pages 1, 2 and 3 as cover pages; in fact p1 is the cover, p2 is Schedule A and p3 is Schedule B (both blank). ONE report; p4 is the sole Summary Page.",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah, chunk r13_01)",
+   "transcribed_date": "2026-08-20",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' on the p4 Summary Page, which carries a HANDWRITTEN OVAL ZERO \u2014 read 0 under the repo-wide zero-glyph ruling (a glyph that DENOTES the digit zero transcribes as 0, with the glyph quoted). It is the side's ONLY anchor: Schedule A's own 'Subtotal for this page' and 'Total Contributions Received' rules are both wholly BLANK (crop-proved), which is a nil ABSENCE, not a numeral.",
+     "detail": "Schedule A exists and is WHOLLY UNMARKED \u2014 all 15 printed rows empty, both printed footers blank. Zero rows therefore sum to 0.00, which equals the summary's per-period Box B of 0. Box C 'Contributions Received Year to Date' prints 1081.12 and is the CUMULATIVE figure \u2014 it restates the filer's earlier 'Seven days preceding the General Election' report and is NEVER summed as an increment, and it was NOT used to synthesize anything for this side. The oval is this filer's own zero: the same hand writes unambiguous oval zeros inside '500.00' and '350.00' on his October report, and Boxes A, B, D, F and the close box all carry it here."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' on the p4 Summary Page, a HANDWRITTEN OVAL ZERO read 0 under the zero-glyph ruling. Schedule B's own 'Subtotal for this page' and 'Total Expenditures Made' rules are both wholly BLANK (crop-proved), so the summary box is the only anchor.",
+     "detail": "Schedule B exists and is WHOLLY UNMARKED \u2014 all 15 printed rows empty, both printed footers blank. Zero rows sum to 0.00 = Box D of 0. Box E 'Expenditures Made Year to Date' prints 1081.12, the cumulative restatement of the earlier report, never summed as an increment."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 the filing reports no activity at all for this period, so neither convention has anything to add; and the v. 12.23 Schedule A carries no in-kind checkbox on this blank in any case. Determined for THIS filing (in-kind is a per-FILING property, G1) and not inherited from the filer's other 2024 documents.",
+   "escalations": 0,
+   "escalation_note": "No figure needed settling \u2014 there are no entries. Two GHOST / SHOW-THROUGH SCREENS were run instead (K4), because a faint mark in the first bands of an unmarked schedule has previously been mistaken for entries: a 600 dpi full-width strip across bands 1-2 of Schedule A (pct:5.0,16.34,89.0,9.1@p2) and the same across bands 1-2 of Schedule B (pct:5.0,16.27,89.0,9.1@p3) each rendered clean white cells with only the printed rules \u2014 no ink, no bleed-through from the sheet behind. Two further 600 dpi strips over each schedule's footer block (pct:55.0,86.0,45.0,8.0 on p2 and p3) rendered 'Subtotal for this page $ ____' and 'Total Contributions Received $ ____' / 'Total Expenditures Made $ ____' with EMPTY rules \u2014 proving the blank footers are genuinely unfilled rather than faint.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "modern_boxAF, form revision v. 12.23, masthead 'Aaron Davidson, Clerk'. 4 pages, each classified from its own printed header: p1 cover, p2 'Schedule A - Itemized Contributions Received' (wholly unmarked), p3 'Schedule B - Itemized Expenditures Made' (wholly unmarked), p4 'Summary Page' (LAST \u2014 located by content). NO CHECKLIST bound. pdfinfo: 4 pages, EVERY PAGE /Rotate 270, rendered upright portrait. NO FRAMES ARE DECLARED because there are no rows to place: geometry is mandatory per ROW, and both sides are honest absences of entries. WHAT THE PAGES ACTUALLY PRINT: both schedules carry the filer's hand-written Name of Candidate, Date of Report 12/04/24 and page number in the footer boxes and NOTHING inside the 15-row grids; the summary prints A = oval zero, B = oval zero, C = 1081.12, D = oval zero, E = 1081.12, F = oval zero, and Balance at Close = oval zero. This is a genuine ZERO-ACTIVITY final report, not an unread page and not a missing page. THE 2024 CANTO CLUSTER \u2014 THIS IS KIND (4), A DIFFERENT REPORT ENTIRELY. The county published Canto's 2024 material under three filenames: '2024_Anthony_Canto.pdf' (52270376) and '2024_Anthony_Canto_Redacted.pdf' (c7820527) are ONE report published twice (the same 'Seven days preceding the General Election' report dated 10/24/24, once in the clear and once with a clerk redaction pass), while THIS document is a SEPARATE, LATER report. Evidence from the page faces alone: (a) the report-type radio ticked here is '30 Days after the General Election', not 'Seven days preceding the General Election'; (b) the Date of Report is hand-written 12/04/24 on all four sheets, six weeks after the other pair's 10/24/24; (c) its per-period boxes are ZERO where the other pair's are 1081.12, and its cumulative boxes C/E carry the 1081.12 that the other pair reported as the period figure \u2014 exactly the shape of a later report over a period with no activity; (d) both schedules are blank here and populated there; (e) the amendment question is ticked NO, so it does not claim to amend anything. Nothing was merged, netted or differenced between the three documents; each was transcribed independently and on its own terms. The three files carry three distinct sha256. index.csv labels this row '30 Days after General', agreeing with the page face. Page-face candidate 'Anthony Canto' (channel label 'Anthony D Canto' adds a middle initial the page does not print); page-face Office box reads 'SURVEYOR' in hand-printed capitals with no 'County' prefix (index.csv 'County Surveyor' from the channel listing) \u2014 the page face is recorded and no office was inferred. PRIVACY: the county blacked out the candidate's street address, telephone number and signature on this copy; the residence city/state (BENJAMIN, UT) remain in the clear on the cover. No street address or phone number is carried into any field or note here, and none was imported from the unredacted sibling copy."
+  }
+ }
 }

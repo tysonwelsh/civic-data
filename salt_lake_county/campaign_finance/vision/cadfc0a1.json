@@ -1,0 +1,113 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "93.84",
+ "ending_balance": "93.84",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": ""
+ },
+ "cover": {
+  "candidate": "SCOTT TINGLEY",
+  "party": "REPUBLICAN",
+  "office_sought": "COUNTY AUDITOR",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/2018",
+  "form_year": "2017"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "candidate": "high",
+  "office_sought": "high",
+  "report_type": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/scott-tingley_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "SCOTT TINGLEY",
+  "office": "Auditor",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/scott-tingley_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "CHUNK-FILE FLAG CONFIRMED AT THE PAGE: the cover's 'Office Sought' cell IS BLANK - verified at 600 dpi, left empty by the filer and NOT covered by the county's redaction bar - and the District Number cell beside it is blank as well. The office is therefore read from the TOP-ROW 'Office' cell, which reads 'COUNTY AUDITOR' in the filer's hand; that value is what is recorded in cover.office_sought, and this substitution is the reason to say so here. The 2008-era-form precedent (two office boxes, top-row value promoted when Office Sought is empty) applies. Everything else in the chunk file (candidate SCOTT TINGLEY, office Auditor, date 2018-01-31, Year-End) is CONFIRMED: the YEAR-END REPORT January 31 box is the only Type-of-Report box ticked, the signature is dated 1/31/2018, the Summary Page's own header box carries the last name TINGLEY and Date of Report 1/31/2018, and the clerk's RECEIVED IN OFFICE stamp reads JAN 31 2018. Form title is '2017 Financial Disclosure Report For a Candidate'. NEITHER amendment box (Yes / No) is ticked - is_amendment is honestly blank, not 'No'. Summary lines 1 and 2 carry a plain written numeral '0' in both columns (an ordinary zero, NOT a slashed-zero nil glyph); lines 4, 5 and 6 are left blank. THIS IS A ZERO-ACTIVITY YEAR-END FILING on an open account holding $93.84 - both schedules exist and are blank, which is a real zero, never 'no donors' inferred from an absent row set. The filing also carries the three trailing 'Other Campaign Accounts' pages (p5 Summary Page Other Campaign Accounts, whose Column B is 'Year to Date' and is a DIFFERENT table from the standard Summary Page; p6 Itemized Contributions from Other Campaign Accounts; p7 Itemized Expenditures from Other Campaign Accounts) - all three are entirely blank, including every total cell, and nothing from them is merged into the standard sides or emitted as rows. PAGE 8 IS A GHOST PAGE: measured at 200 dpi it is blank apart from a scanner shadow strip at the right edge (mean grey 254.9, 2,899 dark pixels in 3.74 M) - no form, no text, nothing to transcribe. Schedule A prints an Occupation/Employer column but it is empty along with the rest of the grid, so no occupation cells were captured for this filing. The county's redaction bar covers the cover's street-address block and the phone/fax/email block; there is no contributor address block to redact because Schedule A is empty.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "p3 is the county Schedule A grid, present and WHOLLY BLANK - all 15 ruled data rows empty, and the SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED cells are themselves left blank (blank, NOT a zero glyph - schedule_total is therefore honestly empty, not 0). Zero rows here is a REAL ZERO the transcriber looked at, and it agrees with Summary line 1 Column A, which the filer wrote as a plain '0' in both Column A and Column B."
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "p4 is the county Schedule B grid, present and WHOLLY BLANK - all 14 ruled data rows empty, SUBTOTAL and TOTAL EXPENDITUTRES MADE cells left blank. Real zero, agreeing with Summary line 2 Column A ('0', and Column B '0')."
+    }
+   },
+   "page_subtotal_gates": "Neither schedule page prints a filled subtotal - both the SUBTOTAL FOR THIS PAGE and the schedule TOTAL cells are blank on p3 and on p4, so the page-subtotal gate is NOT AVAILABLE on either side. Gated instead on the Summary Page: lines 1 and 2 Column A are each a plain written '0', and both schedules are empty, so rows-sum 0.00 = stated 0 on both sides.",
+   "escalations": 2,
+   "escalation_note": "p1 Office Sought + District Number value row at 600 dpi, twice (first crop landed on the printed labels; the second, on the value row beneath them, settled that BOTH cells are genuinely empty and that the black bar to their right is the phone/fax/email redaction, which does not reach either cell).",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "CHUNK-FILE FLAG CONFIRMED AT THE PAGE: the cover's 'Office Sought' cell IS BLANK - verified at 600 dpi, left empty by the filer and NOT covered by the county's redaction bar - and the District Number cell beside it is blank as well. The office is therefore read from the TOP-ROW 'Office' cell, which reads 'COUNTY AUDITOR' in the filer's hand; that value is what is recorded in cover.office_sought, and this substitution is the reason to say so here. The 2008-era-form precedent (two office boxes, top-row value promoted when Office Sought is empty) applies. Everything else in the chunk file (candidate SCOTT TINGLEY, office Auditor, date 2018-01-31, Year-End) is CONFIRMED: the YEAR-END REPORT January 31 box is the only Type-of-Report box ticked, the signature is dated 1/31/2018, the Summary Page's own header box carries the last name TINGLEY and Date of Report 1/31/2018, and the clerk's RECEIVED IN OFFICE stamp reads JAN 31 2018. Form title is '2017 Financial Disclosure Report For a Candidate'. NEITHER amendment box (Yes / No) is ticked - is_amendment is honestly blank, not 'No'. Summary lines 1 and 2 carry a plain written numeral '0' in both columns (an ordinary zero, NOT a slashed-zero nil glyph); lines 4, 5 and 6 are left blank. THIS IS A ZERO-ACTIVITY YEAR-END FILING on an open account holding $93.84 - both schedules exist and are blank, which is a real zero, never 'no donors' inferred from an absent row set. The filing also carries the three trailing 'Other Campaign Accounts' pages (p5 Summary Page Other Campaign Accounts, whose Column B is 'Year to Date' and is a DIFFERENT table from the standard Summary Page; p6 Itemized Contributions from Other Campaign Accounts; p7 Itemized Expenditures from Other Campaign Accounts) - all three are entirely blank, including every total cell, and nothing from them is merged into the standard sides or emitted as rows. PAGE 8 IS A GHOST PAGE: measured at 200 dpi it is blank apart from a scanner shadow strip at the right edge (mean grey 254.9, 2,899 dark pixels in 3.74 M) - no form, no text, nothing to transcribe. Schedule A prints an Occupation/Employer column but it is empty along with the rest of the grid, so no occupation cells were captured for this filing. The county's redaction bar covers the cover's street-address block and the phone/fax/email block; there is no contributor address block to redact because Schedule A is empty."
+  }
+ }
+}

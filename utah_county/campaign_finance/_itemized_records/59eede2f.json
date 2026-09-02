@@ -1,0 +1,123 @@
+[
+ {
+  "index_path": "raw/2010/2010_CountyCommissionSeatB-WitneyDouglas-111510.pdf",
+  "key": "59eede2f",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk r2_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_B": "4",
+  "sides": {
+   "contributions": "empty-schedule",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED on the p2 Summary Page, written as a STRUCK ZERO GLYPH and read 0 under the repo's zero-glyph ruling; line 4 'Total Contributions Received (From Line 1 Column A)' carries the same struck zero, and the filer's own p4 continuation sheet prints NO contributions block at all for this period",
+    "detail": "ZERO CONTRIBUTION ENTRIES EXIST FOR THIS PERIOD and that is a real absence, not an unread page. The filer's attached ledger (p3) is his cumulative sheet: its contribution column ends at the two 10/18/2010 lines that his OCTOBER report already covered, and the p4 continuation sheet \u2014 which does carry a fresh block of three EXPENDITURE lines for 11/2-11/15 \u2014 prints nothing whatever in the contribution column. A 900 dpi control crop of the contribution column across that block rendered an EMPTY area. The cover agrees: line 1 Column A and line 4 are both struck zeros, and the balance ladder closes without any contribution: 1,001.72 (line 3) + 0 (line 4) = 1,001.72 (line 5); 1,001.72 - 957.02 (line 6) = 44.70, the printed line 7 close, which the p4 sheet repeats as '11/15/2010 Remaining Balance $44.70'. Column B 'Year-to-Date Total' prints 10,370 \u2014 unchanged from the October report, exactly as a zero period requires \u2014 and is retained as cumulative, never summed as an increment. Both the monetary-only and monetary-plus-in-kind conventions give 0.00 here and both close."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE ($957.02) on the p2 Summary Page, which the filer's own p4 continuation sheet prints again as 'Period Expenditures $957.02' directly beneath the three lines",
+    "detail": "3 expenditure lines sum to 400.00 + 107.02 + 450.00 = 957.02 exactly = the p4 sheet's own printed 'Period Expenditures' = the cover's Column A. Line 6 of the balance ladder is the one cell on this filing whose glyphs are genuinely ambiguous \u2014 it renders as '957' with a raised pair that reads '72' rather than '02' \u2014 and the ARITHMETIC settles it without an escalation being able to: 1,001.72 - 957.02 = 44.70, the printed line 7, whereas 957.72 would give 44.00. Column A itself prints 957.02 cleanly, so the anchor is not in doubt; the line 6 oddity is recorded here and nothing was nudged (GOTCHAS: arithmetic closure outranks glyph reading). Column B YTD prints 10,325 on the cover and 10,325.30 on the p4 sheet = 9,368.28 + 957.02, and is retained as cumulative, never summed as an increment."
+   }
+  },
+  "in_kind_convention": "not applicable \u2014 nothing on either sheet is marked in-kind, neither the ledger nor the continuation sheet prints an in-kind column or line, and the p2 Summary Page has no separate in-kind line. Both conventions were tested rather than inherited: monetary-only gives 0.00 / 957.02 and monetary-plus-in-kind gives the identical 0.00 / 957.02, so both close on Column A.",
+  "escalations": 1,
+  "escalation_note": "One escalation, and it is the honest kind that does NOT resolve: the p2 line 6 cell ('Total Expenditures Made, From Line 2 Column A') renders as '957' with a raised pair that looks like '72' rather than '02', which is why the 2026-08-01 cover tranche listed it as unreadable. It is not re-read here as a truth claim: Column A two rows above prints 957.02 cleanly, the p4 sheet prints 'Period Expenditures $957.02', and 1,001.72 - 957.02 = 44.70 is the printed line 7 close. The arithmetic decides and the glyph oddity is recorded. Four further 900 dpi crops were the geometry proofs and the empty-contribution-column control described below.",
+  "frames": {
+   "4": {
+    "axis": "y",
+    "cell": [
+     84.0,
+     92.0
+    ],
+    "cells": [
+     [
+      7.0,
+      15.0
+     ],
+     [
+      15.0,
+      28.0
+     ],
+     [
+      28.0,
+      44.0
+     ],
+     [
+      44.0,
+      54.0
+     ],
+     [
+      54.0,
+      84.0
+     ],
+     [
+      84.0,
+      92.0
+     ]
+    ],
+    "rows": [
+     [
+      27.01,
+      28.79
+     ],
+     [
+      29.07,
+      30.85
+     ],
+     [
+      31.07,
+      32.91
+     ]
+    ],
+    "measure_note": "THIS PAGE IS NOT A COUNTY SCHEDULE FORM: it is the second sheet of the candidate's own TYPED LANDSCAPE ledger, a summary/continuation page carrying the October block's Period/Total figures, a dated 'Remaining Balance' line, then a FRESH BLOCK OF THREE EXPENDITURE LINES for this period, then 'Period Expenditures $957.02' / 'Total Expenditures $10,325.30' and '11/15/2010 Remaining Balance $44.70'. It has NO printed rules \u2014 rowbands.py returns 2 spurious rules \u2014 so bands were measured with the ADDENDUM A2 recovery, `rowbands.py 4 --text-lines --col 84,92`, restricted to the expenditure amount column. That returns eight text bands: 16.77 and 18.95 are the carried-forward Period/Total Expenditure figures, 20.36 (h 0.53) is the double rule beneath them, 27.31 / 29.37 / 31.37 are THE THREE DATA ROWS, and 35.43 / 37.49 are the new Period and Total Expenditure figures. `rows` holds only the three data bands, padded 0.30 either side. THIS SHEET HAS ZERO SKEW (rowbands reports 0.0 degrees, 0.00% drift), so unlike the October ledger a band does transfer across columns \u2014 but nothing needed to be transferred, since the contribution column is empty. PROOF OF EVERY ROW (there are only three), at 900 dpi: pct:83.5,27.01,9.0,1.78@p4 rendered '$400.00', pct:83.5,29.07,9.0,1.78@p4 rendered '$107.02', pct:83.5,31.07,9.0,1.84@p4 rendered '$450.00' \u2014 each the amount recorded for that row, no neighbour bleed. A fourth crop of the band below, pct:83.5,35.13,9.0,1.89@p4, rendered '$957.02', i.e. the printed period total and not a fourth entry. A fifth control crop of the CONTRIBUTION column across the same vertical span, pct:44.0,25.00,10.0,10.0@p4, rendered an EMPTY area \u2014 the evidence for the empty-schedule state on that side."
+   }
+  },
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "11/2/2010",
+    "vendor_raw": "Campaign Night Celebration",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single free-text column is headed 'Expenditures' and mixes PURPOSE and PAYEE in one string with no separator convention ('Campaign Night Celebration' names no vendor at all), so vendor_raw carries the printed string verbatim and `purpose` is left unset rather than split by guesswork. This sheet's expenditure table prints NO address column, so nothing is dropped for privacy here. First row of the period block \u2014 the crop rendered '$400.00'"
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "11/3/2010",
+    "vendor_raw": "Campaign Worker Lunch",
+    "amount": "107.02",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "11/15/2010",
+    "vendor_raw": "RED (Consulting and Design)",
+    "amount": "450.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own parenthetical gloss is kept verbatim; on his October ledger the same vendor is written 'RED [Research Enhanced Design]' with square brackets. Dated the same day as the report itself. Last row \u2014 the crop rendered '$450.00'"
+   }
+  ],
+  "notes": "PAGE-FACE candidate name 'Douglas Witney' (Republican, residence city Springville); index.csv names NO candidate for this row. \u26a0 THE PAGE-FACE OFFICE IS SHORTER HERE THAN ON HIS OTHER 2010 FILINGS: this cover's Office Seeking line reads simply 'Commission Seat B' with no 'Utah County' prefix, where his October report writes 'Utah County Commission SEAT B'. Transcribed as printed; the seat letter is the filer's own and was not inferred. legacy_colAB, 4 PDF pages, all four read full-page at 200 dpi: p1 cover ('30 Days after the General Election' ticked, 'Yes' ticked on the amendment question with '11-15-2010' written on the Date of Report line, signed 11-15-10, stamped received NOV 15 AM 9:44), p2 SUMMARY PAGE (located by CONTENT; its top-right Page/Last Name/Date box is left WHOLLY BLANK), p3 the candidate's own typed LANDSCAPE ledger, p4 its summary/continuation sheet. THERE IS NO COUNTY SCHEDULE A OR SCHEDULE B IN THIS FILING AT ALL \u2014 verified by reading every page \u2014 which is the ADDENDUM A2 pattern in its pure form and a THIRD distinct shape from this one filer in one cycle: May had no county schedules, October had them present but struck through with 'Refer to attached Spreadsheet', and November omits them again. THE CONTRIBUTIONS SIDE IS `empty-schedule`, NOT `no-schedule-page`: the filer's ledger IS his schedule under A2, it exists, and for this period it carries no contribution entries while the cover states a struck zero \u2014 a real absence of entries, not a missing document and not an unread page. FILER-INSTALLED SIGNS OF A CLOSING REPORT: the three expenditures are a campaign-night celebration, a worker lunch and a final consulting invoice dated the same day as the report. THE LEDGER'S p3 IS THE OCTOBER SHEET REPRINTED UNCHANGED, with one difference worth recording \u2014 Janene Crane's Address cell, blank in October, is now filled in (a Salt Lake County town), while Jeff Metler's remains truncated after four letters of the town name. Those rows belong to the OCTOBER period and are not republished here. This filing marks the amendment box 'Yes' exactly as the October one did, and it is ONE report, not a multi-report bundle, so no report_index is set. Not a *_Redacted.pdf \u2014 this era was published in the clear; the p3 ledger's donor street lines are plainly visible and were reduced at READ TIME, and the p4 expenditure block prints no address column at all, so nothing reaches any field or note."
+ }
+]

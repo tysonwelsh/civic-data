@@ -1,0 +1,101 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C21.json",
+ "key": "0baea867",
+ "index_path": "raw/2024/2024_cc_2024_Jon_David_Jorgensen_Final_Disclosure.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_Jon_David_Jorgensen_Final_Disclosure.pdf"
+ ],
+ "sha256_prefix": "a187205d4d8d7643",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "$50",
+    "cover_over50_cum": "$10,211.53",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "$2,137.20 (minus $2,137.20 of in-kind on prior report)",
+    "box_A_balance_begin": "$2,087.20 (minus in-kind)",
+    "box_F_subtotal": "$2,137.20 (minus in-kind)",
+    "schedule_total": "50",
+    "page_subtotal": "50"
+   },
+   "itemized": "50",
+   "basis": "schedule-total==page-subtotal==cover-boxB-this-period",
+   "result": "exact",
+   "scope": "period",
+   "detail": "One row, 50.00. Schedule A p2 prints BOTH 'Subtotal for this page $ 50' and 'Total Contributions Received $ 50 (Sum of all Schedule A pages in this report)'; both equal Box B (Contributions Received This Period, $50) and NOT Box C (Year-to-Date, $10,211.53). The itemised rows are therefore on the PERIOD scope, a different scope from the year-to-date figure. The CFD form has no separate $50-or-less aggregate line, so the le50 anchors are null."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "$0",
+    "cover_expense_cum": "$8,830.17",
+    "cover_balance_end": "$2,137.20 (minus $2,137.20 of in-kind on prior report)",
+    "schedule_total": "0",
+    "page_subtotal": "0"
+   },
+   "itemized": "0",
+   "basis": "schedule-total==page-subtotal==cover-boxD-this-period",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Schedule B p3 carries no inked lines; the filer wrote 0 in both 'Subtotal for this page' and 'Total Expenditures Made', which equals Box D (Expenditures Made This Period $0) and not Box E (Year-to-Date $8,830.17). Empty schedule = a real zero on the period scope, not a gap."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows sum 50.00 = printed 'Subtotal for this page $ 50' = printed 'Total Contributions Received $ 50'. p3 zero rows = printed subtotal 0 = printed total 0. Both gate exactly.",
+  "row_count": "p2: ~15 printed underline bands, exactly 1 carries ink (counted by an independent per-column ink-profile scan of the amount column x72-92%, which returned one value band at y18.2-19.3% above the first rule, and nothing else down to the subtotal block). p3: 0 inked bands. rowbands.py not needed - the ink profile is the independent count.",
+  "geometry_proof": "p2 first(=only)-row amount crop pct:75.96,19.00,16.00,2.20 at 600 dpi renders '$50'; the SAME box one row-pitch (4.35%) higher renders the printed 'Amount' column header (the page is skewed, so the header sits lower on the right than on the left - the reason the first naive band was wrong); the box one pitch BELOW the row renders empty.",
+  "balance_chain": "Box A 2,087.20 + Box B 50 = Box F 2,137.20 (closes exactly); Box F 2,137.20 - Box D 0 = Balance at Close 2,137.20 (closes exactly). The filer annotates both A, F and the close as '(minus in-kind)' / '(minus $2,137.20 of in-kind on prior report)' - kept verbatim in the anchors. No earlier filing by this filer in this chunk, so the cross-filing cumulative chain was not run here."
+ },
+ "escalations": 3,
+ "escalation_note": "600 dpi crops: (1) full row-1 band, (2) amount cell of row 1, (3) control cell one pitch below. No digit was in doubt; the escalations were the geometry proof and a re-read of the one amount.",
+ "notes": "Cover 'Office' line reads 'County Council - North District'; chunk file says 'County Council' - agrees, the form is more specific. Candidate name on form 'Jon-David Jorgensen' matches. This is an AMENDMENT: 'Is this report an amendment? Yes, Date of Original Report 6/18/2024', and '30 Days after elimination' is the marked report type. Date of Report 8/5/2024 (chunk says 2024-08-06 - the FORM says 8/5/2024 on the cover, the affirmation signature date and all three page footers). Candidate street address, phone and email printed in the clear on the cover were discarded at read time.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-07-14",
+   "donor_raw": "Gary Winger",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.96,19.00,16.00,2.20@p2",
+   "note": "Amount printed as '$50' with no cents; transcribed verbatim as printed. Address cell read '[street address discarded at read time per PRIVACY.md], Ste. 400, SLC, UT' - street and suite discarded at read time, city/state only. Form has no in-kind column."
+  }
+ ],
+ "expenditures": []
+}

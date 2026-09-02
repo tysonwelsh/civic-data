@@ -1,0 +1,1174 @@
+[
+ {
+  "index_path": "raw/2024/2024_Tom_Westmoreland_Redacted_Combine.pdf",
+  "key": "447d71b0",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah r13_02)",
+  "transcribed_date": "2026-08-20",
+  "report_index": 1,
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "itemized_pages_A": "",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "empty-schedule",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Box B 'Contributions Received this Period' on the p4 Summary Page, an oval ZERO, equal to Schedule A's own printed 'Subtotal for this page' and 'Total Contributions Received', both also oval zeros written in the filer's blue ink (p2)",
+    "detail": "ZERO rows against a printed zero, three times stated. Report 1's Schedule A (p2) carries NO entries and the filer wrote an oval 0 at both printed footers; Box B repeats it. Under the zero-glyph ruling an oval zero is a NUMERAL, so the honest reconciliation is zero rows summing to 0 against a printed 0. Box C 'Contributions Received Year to Date' prints 19,500 - the cycle figure carried from this filer's own earlier (pre-Primary) report bound at pp5-9 of the same PDF - and is NEVER summed as an increment and NEVER used to import that report's rows here. \u26a0\u26a0 THE \u00a7K4 GHOST SCREEN IS WHAT MADE THIS CALL: at 200 dpi p2's grid LOOKS like fourteen filled rows. It is not. A 900 dpi crop of the whole amount column (pct:72.89,22.71,10.71,14.0@p2) renders those marks as PALE GREY SHOW-THROUGH with no ink relief, while the same crop of the footers renders the filer's zeros in unmistakable BLUE ballpoint. The ghost text is legible enough to identify: it reads 'Yard signs for Convention', 'Repayment of Loan', 'Olive Garden / Dinner for Volunteers' - i.e. it is the EXPENDITURE ledger on the very next sheet (p3) bleeding through the paper under the photographer's light. Every one of those phrases appears on p3. So the page is genuinely blank and this is `empty-schedule`, not a missed transcription; publishing those ghosts would have invented fourteen contributions out of the filer's own expenditure list."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Box D 'Expenditures Made this Period' on the p4 Summary Page - printed '9854.66' STRUCK THROUGH with '9957.52' written beside it - equal to Schedule B's own printed 'Subtotal for this page' and 'Total Expenditures Made', each likewise struck from 9854.66 and corrected to 9,957.52 (p3)",
+    "detail": "14 Schedule B rows sum to 57.72 + 4.00 + 445.09 + 184.58 + 115.28 + 122.99 + 299.43 + 200.00 + 7500.00 + 425.00 + 500.00 + 24.00 + 49.43 + 30.00 = 9,957.52 EXACTLY = the CORRECTED page subtotal = the CORRECTED grand total = the CORRECTED Box D. The handwritten correction over the struck typed-in value GOVERNS (CHUNK_BRIEF \u00a77), and here it is independently confirmed by the summary ladder: F = A + B = 11,586.36 + 0 = 11,586.36 and the printed close box is 1,628.84, which is 11,586.36 - 9,957.52 to the cent - i.e. the close box was computed from the CORRECTED figure, not the struck one. The superseded 9,854.66 was retained verbatim in this note and published nowhere. Box E YTD prints 17,468.50 and is never summed as an increment; note for the record, adjudicating nothing, that it does not equal this report's 9,957.52 plus the other bundled report's 7,913.64 (17,871.16) - a filer inconsistency in the cumulative column that touches no itemized row."
+   }
+  },
+  "in_kind_convention": "monetary-only for report 1, and both conventions give the same figure: the v. 12.23 sheets bound here carry no in-kind checkbox and no in-kind line, no Schedule B row is annotated in-kind, and the contribution side has no rows at all. Tested on THIS report rather than inherited from report 2 of the same bundle - which is the point, because report 2 DOES carry an in-kind row and closes only WITH it (\u00a7G1: in-kind is per FILING, and here it differs between two reports inside one PDF).",
+  "escalations": 8,
+  "escalation_note": "Eight crops for report 1. THREE were the \u00a7K4 ghost screen on p2 (the full amount column at 900 dpi, plus the two footer lines) - they are what proved the apparent entries are grey show-through from p3 while the zeros are blue ink. THREE were the p3 geometry proofs (first row, last row, one-past control) at 1200 dpi. TWO were re-reads of the struck/corrected Box D and Schedule B totals. No figure was changed; the correction the filer himself wrote was adopted because the page's own close box requires it.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     73.82,
+     84.67
+    ],
+    "cells": [
+     [
+      17.08,
+      27.49
+     ],
+     [
+      27.9,
+      51.55
+     ],
+     [
+      51.55,
+      73.82
+     ],
+     [
+      73.82,
+      84.67
+     ]
+    ],
+    "rows": [
+     [
+      21.14,
+      24.39
+     ],
+     [
+      24.39,
+      27.69
+     ],
+     [
+      27.69,
+      31.01
+     ],
+     [
+      31.01,
+      34.37
+     ],
+     [
+      34.37,
+      37.73
+     ],
+     [
+      37.73,
+      41.14
+     ],
+     [
+      41.14,
+      44.55
+     ],
+     [
+      44.55,
+      47.96
+     ],
+     [
+      47.96,
+      51.37
+     ],
+     [
+      51.37,
+      54.82
+     ],
+     [
+      54.82,
+      58.3
+     ],
+     [
+      58.3,
+      61.8
+     ],
+     [
+      61.8,
+      65.32
+     ],
+     [
+      65.32,
+      68.87
+     ],
+     [
+      68.87,
+      72.42
+     ]
+    ],
+    "measure_note": "pdfinfo -f 3 -l 3: 612x792 pts, rot 0 (portrait, axis y) - rotation read BEFORE measuring (\u00a7K1). \u26a0 THIS FILING IS NOT A SCAN: every page is a PHONE PHOTOGRAPH of paper lying on a desk, so the sheet occupies only part of the frame, the margins are dark, and the row pitch GROWS DOWN THE PAGE with perspective (2.55 pct at the top to 2.78 at the foot on the sibling sheet p7). Each page therefore has its own frame and no pitch was assumed constant. rowbands.py at 200 dpi, skew +0.3, returns 16 rules on this page - a complete 15-row grid, tops 21.14 -> 68.87 with the closing rule at 72.42 - and six vertical rules of which 27.49/27.90 are a doubled detection of one printed rule; the amount band 73.82-84.67 is a clean detected pair. THREE-CROP PROOF at 1200 dpi: pct:73.82,21.14,10.85,3.25@p3 rendered '57.72' in blue ink beneath the printed 'Amount' header (recorded row 1 = 57.72, Costco); pct:73.82,65.32,10.85,3.55@p3 rendered '30.00' (recorded row 14 = 30.00, the last entry); the ONE-BAND-PAST control pct:73.82,68.87,10.85,3.55@p3 rendered an EMPTY ruled cell - so no \u00a7F1 trap-5 entry hides below the last row, which matters here because the side closes only on the CORRECTED total and a hidden row would have been the rival explanation."
+   }
+  },
+  "contributions": [],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "4/15",
+    "vendor_raw": "Costco",
+    "purpose": "Booth Supplies",
+    "amount": "57.72",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date written with NO YEAR ('4/15'), as on every row of this sheet; kept VERBATIM and a year is never filled in from the report date (CHUNK_BRIEF \u00a77). needs_review is set on this row's date only in the sense that the build will blank it - the amount is not in doubt."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "4/17",
+    "vendor_raw": "UVU meet the candidates",
+    "purpose": "Parking",
+    "amount": "4.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The vendor cell names the EVENT rather than a payee ('UVU meet the candidates') with the purpose 'Parking'; assigned by CONTENT, not position, and transcribed as the filer wrote it. Date has no year."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "4/19",
+    "vendor_raw": "Alphagraphics",
+    "purpose": "Yard signs for Convention",
+    "amount": "445.09",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date has no year. This row's text is one of the phrases legible as GHOST show-through on p2, which is how the p2 bleed was identified."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "4/19",
+    "vendor_raw": "Costco",
+    "purpose": "Booth supplies @ convention",
+    "amount": "184.58",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date has no year."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "4/20",
+    "vendor_raw": "Ridleys",
+    "purpose": "Doughnuts for Convention",
+    "amount": "115.28",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date has no year."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "4/20",
+    "vendor_raw": "Food trucks",
+    "purpose": "Lunch @ convention for volunteers",
+    "amount": "122.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Vendor given generically as 'Food trucks'; transcribed verbatim, nothing inferred. Date has no year."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "4/20",
+    "vendor_raw": "Olive Garden",
+    "purpose": "Dinner for Volunteers",
+    "amount": "299.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date has no year. Another of the phrases legible as ghost show-through on p2."
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "4/20",
+    "vendor_raw": "Olive Garden",
+    "purpose": "Gift cards for Volunteers",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Cents written as a raised 'oo'. Date has no year."
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "5/6",
+    "vendor_raw": "Tom & Rebekah Westmoreland",
+    "purpose": "Repayment of Loan",
+    "amount": "7500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The candidate and his wife repaid; the counterpart of the 7,500.00 'Tom & Rebekah Westmoreland loan' that report 2 books as a CONTRIBUTION on its Schedule A. Both are published, each under the heading its own sheet prints, and the two reports were never netted against each other. Cents written as a raised 'oo'. Date has no year."
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "5/6",
+    "vendor_raw": "Prose Political",
+    "purpose": "Political Communications",
+    "amount": "425.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date has no year."
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "date": "5/6",
+    "vendor_raw": "Becky Pirente",
+    "purpose": "Help with Campaign",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Cents written as a raised 'oo'. Date has no year."
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "date": "5/8",
+    "vendor_raw": "Becky Pirente",
+    "purpose": "ZeroBounce email list Validation",
+    "amount": "24.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date has no year."
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "date": "5/8",
+    "vendor_raw": "Becky Pirente",
+    "purpose": "Mailer Design",
+    "amount": "49.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date has no year."
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "date": "5/20",
+    "vendor_raw": "Becky Pirente",
+    "purpose": "Pay to Dorothy Volunteer",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "\u26a0 THE DATE CELL CARRIES A STRUCK-THROUGH FIRST ATTEMPT with '5/20' rewritten beneath it; the rewritten value is transcribed and the strike recorded here (handwritten corrections over struck values govern). Note the date is AFTER the report's own date of 5/7/24 - transcribed verbatim, flagged, and not adjudicated (\u00a7J6 precedent). Date has no year. Crop-proved at 1200 dpi as the LAST entry: '30.00', with the band below it empty."
+   }
+  ],
+  "notes": "\u26a0\u26a0 REPORT 1 OF 2 IN A GENUINE MULTI-REPORT BUNDLE - one of only two in the whole corpus. report_index=1. HOW THE BUNDLE WAS SPLIT, from the PAGES' OWN printed dates and headings and never by assuming an ordinal: PDF pp1-4 are REPORT 1 and pp5-9 are REPORT 2. The evidence is threefold and each part is on the page. (a) REPORT TYPE: p1's cover ticks '30 Days after withdrawal or elimination'; p5's cover ticks 'Seven days preceding the Primary Election'. (b) DATE OF REPORT: pp1-4 carry 5/7/24 (and 5/6/24 on the Schedule B sheet); pp5-9 carry 4/11/24 throughout. So the 30-days-after-withdrawal report is bound FIRST even though it POSTDATES the pre-Primary report it follows - exactly the inversion the chunk brief warns of. (c) THE FILER'S OWN FOLIATION RESTARTS: p1 'Page 1', p2 'Page 2', p3 (Page box left blank), p4 'Page 4'; then p5 'Page 1', p6 'Page 2', p7 'Page 3', p8 'Page 4', p9 'Page 5'. A four-sheet report followed by a five-sheet report = 9 pages, with nothing missing and nothing shared. Corroboration from the balances, used as a CHECK and never as the basis: report 2's close box (11,586.36) is report 1's Box A, the ordinary hand-off from the earlier period to the later one. THE TWO REPORTS WERE RECONCILED SEPARATELY, each against ITS OWN summary page - report 1 against the p4 Summary, report 2 against the p9 Summary - and NO ROW, NO SUBTOTAL AND NO BOX WAS EVER SHARED, MERGED OR DIFFERENCED ACROSS THEM. THIS REPORT: page-face candidate 'Tom Westmoreland' (signature block prints 'Tom W. Westmoreland'); Office box reads 'County Commissioner' with NO SEAT LETTER, so no seat is inferred here even though index.csv's channel label says 'County Commission Seat C' - the page does not print it (\u00a75, and the do-not-infer-a-seat rule). Report type '30 Days after withdrawal or elimination'. \u26a0 THE AMENDMENT QUESTION IS WHOLLY UNANSWERED on this cover - neither 'No' nor 'Yes' is marked - which is an honest BLANK and is never read as 'No' (\u00a7A4); note report 2's cover in the same PDF DOES tick 'No', so the two differ. Signature date 5/7/24, Date of Report 5/7/24. FORM: modern_boxAF, footer 'v. 12.23' on all four sheets, masthead 'Aaron Davidson / Clerk', four-column Schedule A, Schedule B with a real Purpose column, Summary located BY CONTENT on p4 with an UNLETTERED close box. NO CHECKLIST DECOY is bound anywhere in the 9-page bundle. \u26a0 NEW SOURCE PROPERTY - THE WHOLE FILING IS A SET OF PHONE PHOTOGRAPHS, not a scan: each sheet lies on a dark desk with the surrounding surface visible, lit unevenly (a lamp flare sits in the top-right of pp1 and 3), and the resulting PERSPECTIVE makes the row pitch grow measurably down every page. Two consequences worth recording as precedent: rowbands returns FEWER rules than there are rows on the more oblique sheets (14 of 16 on p7 and p8), so the last bands must be extrapolated at the GROWING pitch and crop-proved individually; and the photographic lighting is what produces the \u00a7K4 show-through that made p2 look filled. Sheets 5-9 are photographs of a PHOTOCOPY (a second generation), noticeably smaller in frame and greyer. REDACTION is the county's and covers the cover's Address block and Signature; the phone number and email are left in the clear on p1 and are NOT carried into this record (privacy applied at read time). Both sides of report 1 close EXACTLY - the contribution side on a printed zero, the expenditure side on the filer's own handwritten correction, which the summary's close box independently confirms."
+ },
+ {
+  "index_path": "raw/2024/2024_Tom_Westmoreland_Redacted_Combine.pdf",
+  "key": "447d71b0",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah r13_02)",
+  "transcribed_date": "2026-08-20",
+  "report_index": 2,
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "itemized_pages_A": "6",
+  "itemized_pages_B": "7,8",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Box B 'Contributions Received this Period' (19,500) on the p9 Summary Page, equal to Schedule A's own printed 'Subtotal for this page' and 'Total Contributions Received', each STRUCK from 21,500 and corrected in the filer's hand to 19,500 (p6)",
+    "detail": "10 Schedule A rows sum to 7500 + 500 + 1000 + 2500 + 500 + 500 + 2500 + 3000 + 1000 + 500 = 19,500.00 EXACTLY = the CORRECTED page subtotal = the CORRECTED grand total = Box B. The handwritten correction over the struck 21,500 GOVERNS (CHUNK_BRIEF \u00a77) and is confirmed by the summary ladder: F = A + B = 0 + 19,500 = 19,500 as printed, and the close box 11,586.36 = 19,500 - 7,913.64 to the cent. The superseded 21,500 is recorded here and published nowhere. Box C YTD also prints 19,500 (this is the cycle's first report) and is not summed as an increment. \u26a0 THE CLOSURE DEPENDS ON THE IN-KIND ROW: monetary-only gives 19,000.00 and fails; monetary-plus-in-kind gives 19,500.00 and closes - see in_kind_convention. LOAN LADDER (\u00a7B3): row 1 is the candidate's own 7,500.00 loan; Box A is a bare 0, leaving no beginning-balance slot, so the page books it as a contribution row and it is published as one."
+   },
+   "expenditures": {
+    "result": "delta",
+    "anchor": "Box D 'Expenditures Made this Period' (7,913.64) on the p9 Summary Page, equal to the 'Total Expenditures Made' printed on BOTH Schedule B sheets (7,913.64) and to the sum of their two printed page subtotals (5,325.96 + 2,587.68 = 7,913.64 exactly)",
+    "detail": "TRACED, LOCALISED, AND NOTHING NUDGED. The 30 Schedule B rows sum to 7,914.14, which is +0.50 over Box D. The PER-SHEET gate (\u00a7L2 - and both sheets do print their own subtotal, so each is a closable unit) localises it precisely: SHEET p8's 15 rows sum to 117.87 + 10.30 + 92.31 + 5.00 + 415.51 + 4.00 + 115.28 + 113.40 + 12.33 + 39.70 + 61.98 + 500.00 + 300.00 + 300.00 + 500.00 = 2,587.68, EXACTLY its printed subtotal; SHEET p7's 15 rows sum to 49.19 + 767.11 + 20.33 + 500.00 + 70.00 + 925.00 + 1246.22 + 117.87 + 750.61 + 47.92 + 152.81 + 225.00 + 70.00 + 84.40 + 300.00 = 5,326.46 against its own printed subtotal of 5,325.96. So the entire delta is +0.50 on ONE sheet, p7, and the whole of it is the filer's arithmetic: his two printed page subtotals add to his printed grand total and to Box D to the cent, so the figure he under-added is the p7 page subtotal itself. WHAT WAS RULED OUT BEFORE CALLING IT FILER ARITHMETIC: (a) MISREAD CELL - ALL FIFTEEN p7 amount cells were escalated to 1200 dpi and every one reproduced exactly as recorded; the only cell whose cents were even arguable, row 12's 225.00, was re-escalated to 1600 dpi and its raised 'co' cents match the same filer's 500.co / 925.co / 70.00 elsewhere on the sheet, so no single cell can absorb 0.50 and the attribution is NOT unique (the \u00a7C5 outcome: 'more than one cell could have explained it, so I changed none'). (b) \u00a7H3 DOUBLED BAND and (c) \u00a7F1 trap-5 A ROW BELOW THE LAST RULE - both EXCLUDED BY DIRECTION as well as by crop: a missed row makes a sum fall SHORT, and this sum runs OVER; the row-15 crop rendered the last entry and the strip below it rendered the printed subtotal label. (d) \u00a7H4 an in-grid subtotal - excluded, rows 1-14 total 5,026.46, not 300.00. (e) CORRELATED-ERROR SCREEN - run INSIDE the document, which is the only place it can honestly be run here: the same filer's OTHER report in this same bundle closes EXACTLY on its expenditure side (after his own correction), so the +0.50 is a one-off slip and not a repeating habit; his 2026 filing exists in index.csv but was NOT opened, because differencing across filings is forbidden. The printed subtotal is retained verbatim at 5,325.96, all 30 rows publish verbatim, and every p7 row carries needs_review=1 since the delta cannot be pinned to one of them."
+   }
+  },
+  "in_kind_convention": "MONETARY-PLUS-IN-KIND - tested on this report and NOT inherited (\u00a7G1), and the test is decisive. Report 2's Schedule A row 10 is annotated 'In Kind Donation' by the filer inside the NAME cell (the v. 12.23 sheet has no in-kind checkbox, so that annotation is the only marker available). Monetary-only sums the other nine rows to 19,000.00 and FAILS against the printed 19,500; monetary-plus-in-kind sums all ten to 19,500.00 and closes exactly on the corrected page subtotal, the corrected grand total AND Box B. So the stated total INCLUDES the in-kind gift. Note the contrast that makes \u00a7G1 concrete: report 1 of this very same PDF has no in-kind row at all and closes monetary-only - one filer, one bundle, two reports, two conventions.",
+  "escalations": 24,
+  "escalation_note": "Twenty-four crops for report 2. FIFTEEN were the full p7 amount column escalated cell by cell at 1200 dpi to hunt the +0.50 delta - the \u00a7G6 standard - plus a SIXTEENTH at 1600 dpi re-reading row 12 (225.00), the one arguable cell; every reading reproduced and nothing was nudged. TWO more read the printed page subtotals and grand totals on p7 and p8 at 1200 dpi (5,325.96 / 2,587.68 / 7,913.64 twice), which is what proved the filer's own two subtotals add to his grand total and localised the delta to p7. The remaining SIX are the geometry proofs on p6 and p8 (first row, last row, one-past control each), including the re-take that corrected p8's row indexing - the first p8 'row 1' crop rendered 10.30, i.e. the SECOND entry, revealing that rowbands' first detected rule on that photograph is row 1's BOTTOM rule and that row 1 must be extrapolated one pitch UP; re-cropped there it rendered 117.87.",
+  "frames": {
+   "6": {
+    "axis": "y",
+    "cell": [
+     51.8,
+     61.2
+    ],
+    "cells": [
+     [
+      9.3,
+      17.6
+     ],
+     [
+      17.6,
+      35.13
+     ],
+     [
+      35.13,
+      51.8
+     ],
+     [
+      51.8,
+      61.2
+     ]
+    ],
+    "rows": [
+     [
+      16.23,
+      18.71
+     ],
+     [
+      18.71,
+      21.23
+     ],
+     [
+      21.23,
+      23.78
+     ],
+     [
+      23.78,
+      26.37
+     ],
+     [
+      26.37,
+      28.92
+     ],
+     [
+      28.92,
+      31.49
+     ],
+     [
+      31.49,
+      34.1
+     ],
+     [
+      34.1,
+      36.71
+     ],
+     [
+      36.71,
+      39.37
+     ],
+     [
+      39.37,
+      42.08
+     ],
+     [
+      42.08,
+      44.8
+     ],
+     [
+      44.8,
+      47.55
+     ],
+     [
+      47.55,
+      50.3
+     ],
+     [
+      50.3,
+      53.05
+     ],
+     [
+      53.05,
+      55.85
+     ]
+    ],
+    "measure_note": "pdfinfo -f 6 -l 6: 612x792 pts, rot 0 (portrait, axis y) - rotation read BEFORE measuring (\u00a7K1). This sheet is a PHOTOGRAPH OF A PHOTOCOPY and occupies only the upper-left of the frame, so all percentages are small and the grid pitch grows with perspective (2.48 at the top to 2.75 at the foot). rowbands.py at 200 dpi, skew +0.2, returns 14 rules = 13 bands, tops 16.23 -> 47.55; the last two bands (14 and 15) are extrapolated at the GROWING pitch to 50.30/53.05 and 53.05/55.85 and are unused (only ten rows are filled). Only four vertical rules came back and just one of them (35.13) is a printed column rule, so the AMOUNT band 51.80-61.20 was hand-measured off the 200 dpi render and is recorded as hand-measured - and it is PROVED BY RENDER below rather than asserted. THREE-CROP PROOF at 1200 dpi: pct:51.8,16.23,9.4,2.48@p6 rendered '7,500.<sup>oo</sup>' (recorded row 1 = 7500.00); pct:51.8,39.37,9.4,2.71@p6 rendered '500.00' (recorded row 10 = 500.00, the in-kind row and the last entry); the ONE-BAND-PAST control pct:51.8,42.08,9.4,2.72@p6 rendered an EMPTY ruled cell. A FOURTH crop, pct:51.8,28.92,9.4,2.57@p6, was taken over row 6 to resolve the inked-out blot beside its figure and rendered '\u25ae 500.<sup>oo</sup>'."
+   },
+   "7": {
+    "axis": "y",
+    "cell": [
+     52.6,
+     61.3
+    ],
+    "cells": [
+     [
+      9.8,
+      17.9
+     ],
+     [
+      17.9,
+      35.5
+     ],
+     [
+      35.5,
+      52.6
+     ],
+     [
+      52.6,
+      61.3
+     ]
+    ],
+    "rows": [
+     [
+      14.18,
+      16.73
+     ],
+     [
+      16.73,
+      19.31
+     ],
+     [
+      19.31,
+      21.93
+     ],
+     [
+      21.93,
+      24.58
+     ],
+     [
+      24.58,
+      27.22
+     ],
+     [
+      27.22,
+      29.88
+     ],
+     [
+      29.88,
+      32.56
+     ],
+     [
+      32.56,
+      35.24
+     ],
+     [
+      35.24,
+      37.97
+     ],
+     [
+      37.97,
+      40.7
+     ],
+     [
+      40.7,
+      43.47
+     ],
+     [
+      43.47,
+      46.24
+     ],
+     [
+      46.24,
+      49.02
+     ],
+     [
+      49.02,
+      51.83
+     ],
+     [
+      51.83,
+      54.66
+     ]
+    ],
+    "measure_note": "p7 measured independently (\u00a7B5): rot 0, skew -0.2. rowbands.py returns only 14 rules for a FIFTEEN-row grid, tops 14.18 -> 46.24 with a closing rule at 49.02; the photograph's perspective makes the pitch grow monotonically (2.55, 2.58, 2.62, 2.65, 2.64, 2.66, 2.68, 2.68, 2.73, 2.73, 2.77, 2.77) so bands 14 and 15 were extrapolated at 2.81 and 2.83 rather than at a constant pitch, and BOTH were crop-proved. The five returned vertical rules are photograph edges, not column rules, so all four column bands are hand-measured off the 200 dpi render and recorded as hand-measured; the amount band 52.60-61.30 is proved by fifteen renders below. FULL-COLUMN PROOF at 1200 dpi - every one of the fifteen bands was cropped, not just three, because this sheet carries the traced delta: they rendered, in order, 49.19 / 767.11 / 20.33 / 500.00 / 70.00 / 925.00 / 1246.22 / 117.87 / 750.61 / 47.92 / 152.81 / 225.00 / 70.00 / 84.40 / 300.00 - exactly the fifteen amounts recorded, in exactly that order, so the band list is neither off by one nor doubled anywhere. The band BELOW the last row (pct:52.0,55.2,15.0,3.2@p7) rendered the printed 'Subtotal for this page $ 5,325.96', which is both the \u00a7J6 outside-the-grid control for a full grid and an independent re-read of the anchor the delta is measured against."
+   },
+   "8": {
+    "axis": "y",
+    "cell": [
+     52.0,
+     60.0
+    ],
+    "cells": [
+     [
+      10.68,
+      18.1
+     ],
+     [
+      18.1,
+      35.76
+     ],
+     [
+      35.76,
+      52.0
+     ],
+     [
+      52.0,
+      60.0
+     ]
+    ],
+    "rows": [
+     [
+      13.96,
+      16.39
+     ],
+     [
+      16.39,
+      18.82
+     ],
+     [
+      18.82,
+      21.25
+     ],
+     [
+      21.25,
+      23.73
+     ],
+     [
+      23.73,
+      26.2
+     ],
+     [
+      26.2,
+      28.7
+     ],
+     [
+      28.7,
+      31.23
+     ],
+     [
+      31.23,
+      33.7
+     ],
+     [
+      33.7,
+      36.25
+     ],
+     [
+      36.25,
+      38.8
+     ],
+     [
+      38.8,
+      41.39
+     ],
+     [
+      41.39,
+      44.0
+     ],
+     [
+      44.0,
+      46.64
+     ],
+     [
+      46.64,
+      49.27
+     ],
+     [
+      49.27,
+      51.9
+     ]
+    ],
+    "measure_note": "p8 measured independently: rot 0, skew 0.0. rowbands.py returns 14 rules for a FIFTEEN-row grid, 16.39 -> 49.27. \u26a0 AND THE FIRST DETECTED RULE IS NOT THE TOP OF ROW 1 - it is row 1's BOTTOM rule. That was caught by the mandatory proof rather than by inspection: a crop taken at [16.39,18.82] as 'row 1' rendered '10.30', which is the SECOND entry (Smiths), so the whole band list would have shipped shifted by one. Row 1 is therefore the band EXTRAPOLATED ONE PITCH UP to [13.96,16.39], and re-cropping there rendered '117.87' beneath the printed 'Amount' header - the header sitting directly above it independently proving no row was lost above the crop line (\u00a7N6). Bands 14 and 15 extrapolate at the growing pitch to 49.27 and 51.90. Column bands are hand-measured off the render except 35.76, which rowbands returned; the amount band 52.00-60.00 is hand-measured and proved by render. FOUR-CROP PROOF at 1200 dpi: row 1 rendered '117.87'; row 13 rendered '300.00' (Utah county Republic); row 15 rendered '500.<sup>oo</sup>' (Steve Westmoreland, the last entry); and the strip below the grid rendered the printed 'Subtotal for this page $ 2587.68' - the \u00a7J6 outside-the-grid control for a full grid, and an independent re-read of the subtotal this sheet closes on exactly."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 6,
+    "row": 1,
+    "date": "1/2/24",
+    "donor_raw": "Tom & Rebekah Westmoreland loan",
+    "donor_city": "Eagle Mountain",
+    "donor_state": "UT",
+    "amount": "7500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The candidate and his wife's LOAN to the campaign, written on Schedule A. Published as a CONTRIBUTION row because the page's ladder requires it (\u00a7B3), never because of the word: Box A 'Balance at Beginning' is a bare 0, so there is no beginning-balance slot, and the schedule's own corrected subtotal of 19,500 - which Box B repeats - includes it. Its repayment appears as an EXPENDITURE on report 1's Schedule B (7,500.00, 5/6); both are published under the heading their own sheets print and the two reports are never netted. Amount written '7,500.' with raised 'oo' cents. Street portion blacked out by the county; the 'Eagle Mountain, UT 84005' line survives beneath the bar."
+   },
+   {
+    "line_no": "2",
+    "page": 6,
+    "row": 2,
+    "date": "2/8/24",
+    "donor_raw": "Nathan & Amelia Dickinson",
+    "donor_city": "Saratoga Springs",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Joint donor entered as ONE line by the filer; kept as one row exactly as the document reports it, never split into two imagined donors. Street portion redacted by the county; city/state printed in the clear."
+   },
+   {
+    "line_no": "3",
+    "page": 6,
+    "row": 3,
+    "date": "2/20/24",
+    "donor_raw": "Peterson Homes",
+    "donor_city": "SLC",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City written by the filer as the abbreviation 'SLC'; kept VERBATIM rather than expanded to Salt Lake City. Street portion redacted by the county."
+   },
+   {
+    "line_no": "4",
+    "page": 6,
+    "row": 4,
+    "date": "2/23/24",
+    "donor_raw": "Eagle Mountain Storage",
+    "donor_city": "Eagle Mountain",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Amount written '2,500.' with raised 'oo' cents. Street portion redacted by the county. The same donor gives again on 3/13/24 (row 7) - two separate printed entries, transcribed separately and never merged."
+   },
+   {
+    "line_no": "5",
+    "page": 6,
+    "row": 5,
+    "date": "3/13/24",
+    "donor_raw": "Stokes Strategies LLC",
+    "donor_city": "SLC",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City written 'SLC' by the filer; kept verbatim. Street portion redacted by the county."
+   },
+   {
+    "line_no": "6",
+    "page": 6,
+    "row": 6,
+    "date": "3/13/24",
+    "donor_raw": "MJH Advisors",
+    "donor_city": "Cottonwood Heights",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "\u26a0 A SMALL INKED-OUT BLOT SITS IMMEDIATELY LEFT OF THE FIGURE in the amount cell - a struck first attempt, escalated to 1200 dpi where it resolves as a solid obliteration carrying no legible digit. The published value is the figure the filer left standing, 500.00, and the side's UNIQUE arithmetic closure on 19,500 admits no other reading (arithmetic outranks glyph, GOTCHAS). Nothing was reconstructed from the blot. Street portion redacted by the county."
+   },
+   {
+    "line_no": "7",
+    "page": 6,
+    "row": 7,
+    "date": "3/13/24",
+    "donor_raw": "Eagle Mountain Storage",
+    "donor_city": "Eagle Mountain",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Second gift from this donor (see row 4); a separate printed entry, never merged. Street portion redacted by the county."
+   },
+   {
+    "line_no": "8",
+    "page": 6,
+    "row": 8,
+    "date": "3/13/24",
+    "donor_raw": "Narwhal Homes",
+    "donor_city": "Eagle Mountain",
+    "donor_state": "UT",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Amount written '3,000.' with raised 'oo' cents. Street portion redacted by the county."
+   },
+   {
+    "line_no": "9",
+    "page": 6,
+    "row": 9,
+    "date": "3/23/24",
+    "donor_raw": "Brett Wright",
+    "donor_city": "Eagle Mountain",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Amount written '1,000.' with raised 'oo' cents. Street portion redacted by the county."
+   },
+   {
+    "line_no": "10",
+    "page": 6,
+    "row": 10,
+    "date": "3/25/24",
+    "donor_raw": "Steve Westmoreland In Kind Donation",
+    "donor_city": "Las Vegas",
+    "donor_state": "NV",
+    "amount": "500.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "\u26a0 THE FILING'S ONLY IN-KIND ROW, and it is LOAD-BEARING. The filer wrote 'In Kind Donation' into the NAME cell itself (this v. 12.23 Schedule A has no in-kind checkbox and no in-kind column, so the annotation is the only marker the form allows). Both conventions were tested per \u00a7G1: monetary-only gives 19,000.00 and FAILS against the printed 19,500; monetary-plus-in-kind gives 19,500.00 and closes EXACTLY on the corrected page subtotal, the corrected grand total and Box B. So this filing's convention is MONETARY-PLUS-IN-KIND, and it is the opposite of the family default - which is precisely why the convention is tested per filing and never inherited. Out-of-state donor (Nevada); street portion redacted by the county, 'Las Vegas, NV' printed in the clear."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 7,
+    "row": 1,
+    "date": "12/30",
+    "vendor_raw": "Nationbuilder",
+    "purpose": "Website & Communication Platform",
+    "amount": "49.19",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "2",
+    "page": 7,
+    "row": 2,
+    "date": "1/2",
+    "vendor_raw": "Utah County",
+    "purpose": "Filing Fee",
+    "amount": "767.11",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "The candidate filing fee, 2024 County Commissioner. Recorded as an OBSERVATION ONLY (\u00a7E1/\u00a7F5/\u00a7L3) and never used to corroborate anything - and note it differs from BOTH other 2024 fees read in this chunk (747.11 Commission Seat C, 818.23 Commission Seat C), which is one more demonstration that the fee is not constant even within an office and cycle. Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "3",
+    "page": 7,
+    "row": 3,
+    "date": "1/2",
+    "vendor_raw": "Utah County",
+    "purpose": "County Map",
+    "amount": "20.33",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "\u26a0 THE PURPOSE CELL CARRIES A HANDWRITTEN CORRECTION: the filer wrote 'Filing Fee', STRUCK IT THROUGH, and wrote 'County Map' above it. The correction governs (CHUNK_BRIEF \u00a77) and the struck text is recorded here rather than published. Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "4",
+    "page": 7,
+    "row": 4,
+    "date": "1/12",
+    "vendor_raw": "Becky Pirente",
+    "purpose": "Campaign Advisor",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "5",
+    "page": 7,
+    "row": 5,
+    "date": "2/7",
+    "vendor_raw": "Utah Republican Party",
+    "purpose": "Tickets for Republican Women vision for America",
+    "amount": "70.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "6",
+    "page": 7,
+    "row": 6,
+    "date": "2/8",
+    "vendor_raw": "Prose Political \"We Pay Purchase\"",
+    "purpose": "Political Communications",
+    "amount": "925.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "The vendor cell carries the filer's own quoted annotation '\"We Pay Purchase\"' under the payee name; transcribed verbatim as part of the vendor identity. Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "7",
+    "page": 7,
+    "row": 7,
+    "date": "2/13",
+    "vendor_raw": "Bell Printing & Design",
+    "purpose": "Flyers for Campaign",
+    "amount": "1246.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "8",
+    "page": 7,
+    "row": 8,
+    "date": "2/14",
+    "vendor_raw": "Nationbuilder",
+    "purpose": "Website communications Platform",
+    "amount": "117.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Not a duplicate of p8 row 1: that is a separate 3/14 charge of the same amount to the same vendor - a monthly subscription. Both are printed entries and both are published. Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "9",
+    "page": 7,
+    "row": 9,
+    "date": "2/16",
+    "vendor_raw": "Alphagraphics",
+    "purpose": "Yard Signs",
+    "amount": "750.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "10",
+    "page": 7,
+    "row": 10,
+    "date": "2/16",
+    "vendor_raw": "Walmart",
+    "purpose": "Booth Supplies",
+    "amount": "47.92",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "11",
+    "page": 7,
+    "row": 11,
+    "date": "2/16",
+    "vendor_raw": "Costco",
+    "purpose": "Booth Supplies",
+    "amount": "152.81",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "12",
+    "page": 7,
+    "row": 12,
+    "date": "2/9",
+    "vendor_raw": "Photographer Lindsey Rosenhan",
+    "purpose": "Pictures",
+    "amount": "225.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Dated 2/9, BEFORE the three rows above it - the ledger is not strictly chronological here; kept in printed row order, nothing reordered. This cell was escalated twice (1200 and 1600 dpi) because it is the one cell whose cents could conceivably have absorbed the side's +0.50; it renders '225.' with the filer's habitual raised 'co' cents form, identical to the '500.co' and '925.co' elsewhere on the same sheet and to the '70.00' in the band directly below, so it reads 225.00 and cannot absorb the delta. Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "13",
+    "page": 7,
+    "row": 13,
+    "date": "2/17",
+    "vendor_raw": "Elite Racing Colten Madsen",
+    "purpose": "Sign - Campaign Sticker",
+    "amount": "70.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Vendor cell names a business and a person on two lines; both kept verbatim as printed. Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "14",
+    "page": 7,
+    "row": 14,
+    "date": "2/20",
+    "vendor_raw": "Ridleys",
+    "purpose": "Booth Supplies",
+    "amount": "84.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "15",
+    "page": 7,
+    "row": 15,
+    "date": "3/11",
+    "vendor_raw": "Prose Political",
+    "purpose": "Political Communications",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. \u26a0 needs_review=1 on EVERY row of this sheet because the sheet as a whole carries a TRACED +0.50 delta against its own printed subtotal that no single cell could be shown to absorb - see recon.expenditures. The amount itself was escalated to 1200 dpi and reproduced exactly as recorded."
+   },
+   {
+    "line_no": "16",
+    "page": 8,
+    "row": 1,
+    "date": "3/14",
+    "vendor_raw": "Nationbuilder",
+    "purpose": "Website & Communications Platform",
+    "amount": "117.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Same vendor and amount as p7 row 8 but a different date (3/14 vs 2/14) - a monthly subscription charge, not a duplicated row. Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "17",
+    "page": 8,
+    "row": 2,
+    "date": "3/18",
+    "vendor_raw": "Smiths",
+    "purpose": "Booth Supplies",
+    "amount": "10.30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "18",
+    "page": 8,
+    "row": 3,
+    "date": "3/18",
+    "vendor_raw": "Costco",
+    "purpose": "Booth Supplies",
+    "amount": "92.31",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "19",
+    "page": 8,
+    "row": 4,
+    "date": "3/18",
+    "vendor_raw": "UVU visitor parking",
+    "purpose": "Event",
+    "amount": "5.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "20",
+    "page": 8,
+    "row": 5,
+    "date": "3/18",
+    "vendor_raw": "Mario's Man Made",
+    "purpose": "Campaign Shirts",
+    "amount": "415.51",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "21",
+    "page": 8,
+    "row": 6,
+    "date": "3/19",
+    "vendor_raw": "UVU visitor parking",
+    "purpose": "Event",
+    "amount": "4.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "22",
+    "page": 8,
+    "row": 7,
+    "date": "3/23",
+    "vendor_raw": "Ridleys",
+    "purpose": "Booth Supplies",
+    "amount": "115.28",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "23",
+    "page": 8,
+    "row": 8,
+    "date": "3/23",
+    "vendor_raw": "Costco",
+    "purpose": "Booth Supplies",
+    "amount": "113.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "24",
+    "page": 8,
+    "row": 9,
+    "date": "3/28",
+    "vendor_raw": "Ridleys",
+    "purpose": "Booth Supplies",
+    "amount": "12.33",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "25",
+    "page": 8,
+    "row": 10,
+    "date": "3/29",
+    "vendor_raw": "Costco",
+    "purpose": "Booth Supplies",
+    "amount": "39.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "26",
+    "page": 8,
+    "row": 11,
+    "date": "4/5",
+    "vendor_raw": "Becky Pirente",
+    "purpose": "Website Banner",
+    "amount": "61.98",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "27",
+    "page": 8,
+    "row": 12,
+    "date": "4/5",
+    "vendor_raw": "Becky Pirente",
+    "purpose": "Campaign Advisor",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "\u26a0 THE AMOUNT CELL CARRIES A STRUCK FIRST ATTEMPT: a figure reading as '1000' is struck through beneath, with '500.00' written above it. The handwritten correction over the struck value GOVERNS, and the page's own subtotal confirms it - the fifteen rows close on 2,587.68 only with 500.00 here. Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "28",
+    "page": 8,
+    "row": 13,
+    "date": "4/11",
+    "vendor_raw": "Utah county Republic",
+    "purpose": "Lincoln Day Dinner Booth",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Vendor written 'Utah county Republic' (the filer's own truncation); kept verbatim, not expanded. Cents written as a raised 'oo'. Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "29",
+    "page": 8,
+    "row": 14,
+    "date": "4/11",
+    "vendor_raw": "Prose Political",
+    "purpose": "Political Communications",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Cents written as a raised 'oo'. Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   },
+   {
+    "line_no": "30",
+    "page": 8,
+    "row": 15,
+    "date": "4/11",
+    "vendor_raw": "Steve Westmoreland",
+    "purpose": "Website Design",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "A payment TO the same person who made this report's only in-kind contribution (row 10 of Schedule A). Both are printed entries on their own sheets and neither was used to interpret the other (\u00a7C3). Cents written as a raised 'oo'. Date written with NO YEAR; kept VERBATIM and never completed from the report date. This sheet closes EXACTLY on its own printed subtotal of 2,587.68."
+   }
+  ],
+  "notes": "\u26a0\u26a0 REPORT 2 OF 2 IN A GENUINE MULTI-REPORT BUNDLE - one of only two in the whole corpus. report_index=2. HOW THE BUNDLE WAS SPLIT, from the PAGES' OWN printed dates and headings and never by assuming an ordinal: PDF pp1-4 are REPORT 1 and pp5-9 are REPORT 2. The evidence is threefold and each part is on the page. (a) REPORT TYPE: p1's cover ticks '30 Days after withdrawal or elimination'; p5's cover ticks 'Seven days preceding the Primary Election'. (b) DATE OF REPORT: pp1-4 carry 5/7/24 (and 5/6/24 on the Schedule B sheet); pp5-9 carry 4/11/24 throughout. So the 30-days-after-withdrawal report is bound FIRST even though it POSTDATES the pre-Primary report it follows - exactly the inversion the chunk brief warns of. (c) THE FILER'S OWN FOLIATION RESTARTS: p1 'Page 1', p2 'Page 2', p3 (Page box left blank), p4 'Page 4'; then p5 'Page 1', p6 'Page 2', p7 'Page 3', p8 'Page 4', p9 'Page 5'. A four-sheet report followed by a five-sheet report = 9 pages, with nothing missing and nothing shared. Corroboration from the balances, used as a CHECK and never as the basis: report 2's close box (11,586.36) is report 1's Box A, the ordinary hand-off from the earlier period to the later one. THE TWO REPORTS WERE RECONCILED SEPARATELY, each against ITS OWN summary page - report 1 against the p4 Summary, report 2 against the p9 Summary - and NO ROW, NO SUBTOTAL AND NO BOX WAS EVER SHARED, MERGED OR DIFFERENCED ACROSS THEM. THIS REPORT: page-face candidate 'Tom Westmoreland' (signature block 'Tom W Westmoreland'); Office box reads 'County Commissioner' with NO SEAT LETTER, so no seat is inferred even though index.csv's channel label says 'County Commission Seat C'. Report type 'Seven days preceding the Primary Election'; the amendment question IS answered here - 'No' is ticked - unlike report 1's cover, which leaves it wholly blank. Signature date 4/11/2024, Date of Report 4/11/24, and every one of this report's five sheets repeats 4-11-24. FORM: modern_boxAF, footer 'v. 12.23' on all five sheets, masthead 'Aaron Davidson / Clerk', four-column Schedule A (no city/state column, NO in-kind checkbox), Schedule B with a real Purpose column, Summary located BY CONTENT on p9 with an UNLETTERED close box. NO CHECKLIST DECOY is bound. \u26a0 THESE FIVE SHEETS ARE PHOTOGRAPHS OF A PHOTOCOPY - a second generation, visibly smaller in frame and greyer than report 1's first-generation photographs - and the assembler's own page numbers ('2' through '6') are printed in the white space BELOW each sheet, outside the form frame; they are a combining artefact, not part of the filing, and they are NOT the filer's foliation (the filer's own Page boxes read 1-5). \u26a0 A STRAY LINE OF TYPED TEXT, 'Rebekah Westmoreland', sits below the p9 image - the submitting sender's name carried into the assembled PDF. It is OUTSIDE the form frame and is not a cell, not an entry and not a signature (\u00a7I2 / \u00a7L6); it is recorded and nothing was assigned to it. REDACTION is the county's: the cover's Address block and Signature are barred, and on Schedule A every donor's STREET is barred while the city/state/zip line survives beneath - so every donor city/state in this record is read off the page, none inferred. The candidate's phone and email are left in the clear on p5 and are NOT carried here. THE FILER CORRECTED HIS OWN TOTALS IN BOTH DIRECTIONS ACROSS THIS BUNDLE - 21,500 struck to 19,500 here, 9,854.66 struck to 9,957.52 on report 1 - and in each case the handwritten correction governs and is independently confirmed by that report's own close box. The contribution side closes EXACTLY (only with in-kind); the expenditure side carries a +0.50 delta localised to one sheet and retained verbatim - see recon."
+ }
+]

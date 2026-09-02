@@ -1,0 +1,212 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C01.json",
+ "key": "56e2d1a7",
+ "index_path": "raw/2008/2008_wb_bjwhite.pdf",
+ "applies_to": [
+  "raw/2008/2008_wb_bjwhite.pdf"
+ ],
+ "sha256_prefix": "37f2239268f3e570",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "922",
+    "cover_over50_cum": "922",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "cover_expense_last": "",
+    "cover_expense_this": "922",
+    "cover_expense_cum": "922",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "922.29",
+   "basis": "cover-line1-cumulative",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "DELTA of $0.29, and it is the FILER's arithmetic, not a read. The four Form A rows are 40.00 + 417.00 + 119.00 + 346.29 = 922.29; cover line 1 prints 922 in BOTH the THIS and CUMULATIVE columns (LAST blank, so the scopes coincide). Every amount was re-read in a 1000 dpi cell crop: the first three carry a superscript '00' cents group over a rule, and the fourth unambiguously carries '29'. The same four transactions are re-listed on Form B, where the fourth is written '346' with NO cents, and Form B therefore sums to exactly 922. The filer rounded the 29 cents away when he carried the figure to the cover and to Form B; both figures are retained verbatim and nothing was adjusted to close. Cover line 2 (<=$50 aggregate) is blank in all three columns, so no small-donor money is hidden outside the itemisation."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "922",
+    "cover_expense_cum": "922",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "922.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Four Form B rows sum 40.00+417.00+119.00+346.00 = 922.00, equal to cover line 3 in BOTH the THIS and CUMULATIVE columns (LAST blank), so the scopes coincide on this single report. All four Form B amounts are written as whole dollars with no cents group at all."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr form prints no schedule total or page subtotal, and this filer wrote none. Cover lines are the only anchors. Form B: rows 922.00 = cover line 3 (922), gates. Form A: rows 922.29 vs cover line 1 (922) - does NOT gate, reported as a delta above with both figures named.",
+  "row_count": "rowbands.py p2 returns geometry_status 'gaps' - one interior rule at 14.26% is INTERPOLATED, not measured (the known tool DEBT), so the band map was crop-proved rather than trusted: measured rules 7.63 / 10.02 / 12.21 / [14.26] / 16.31 / 18.31 give writing lines 1-5, and ink sits on lines 1, 2, 3 and 5 with line 4 GENUINELY BLANK (the filer skipped a line before the Sept 22 entry). 4 rows emitted, line_no 1-4 in printed order, geometry pointing at bands 1, 2, 3 and 5. rowbands.py p3: geometry ok, 39 bands, ink on bands 1-4 consecutively = 4 rows emitted.",
+  "geometry_proof": "p2: 1000 dpi crop spanning bands 1-3 of the amount column renders '40 00', '417 00', '119 00' in order; a separate crop of band 5 renders '346 29'; the control crop one pitch below band 5 renders EMPTY. p3: 1000 dpi crop spanning bands 1-4 renders '40', '417', '119', '346' in order; the control crop one pitch below band 4 renders empty but for the descender of the row-4 digits.",
+  "balance_chain": "922 - 922 = 0; cover line 4 prints a hand-drawn 0 in the THIS column and a slashed 0 in the CUMULATIVE column. Closes exactly on the filer's own rounded figures. No earlier filing by this filer is in this chunk, so no cross-filing LAST-REPORT chain check was possible; the LAST REPORT column is blank on every line, consistent with this being the only report."
+ },
+ "escalations": 5,
+ "escalation_note": "1000 dpi amount-cell crops on p2 (bands 1-3, band 5, control) and p3 (bands 1-4, control); 700 dpi crops of the p2 and p3 name/date columns; 600 dpi crop of the cover anchor block.",
+ "notes": "index.csv calls the candidate Barnard Jon White / office County Council; the cover reads 'Barnard Jon White', 'Name of Office: Cache County Council', 'Office District: South' - agrees, in scope. WORTH A HUMAN EYE: this filer used Form A as a MIRROR of Form B - the same four transactions appear on both schedules, with the candidate himself named as the contributor on three of them (self-funding) and the VENDOR 'Macies' named as the contributor on the fourth. The Form A entries are transcribed exactly as written; no inference is drawn about whether row 3 is really a contribution. NO ROW ON EITHER SCHEDULE CARRIES A YEAR: the dates are written 'Mar 7', 'April', 'April', 'Sept 22', so every date field on all eight rows is BLANK with needs_review=1 and the verbatim kept in the row note - the report's own date (Oct 22, 08) was NOT used to fill them. Cover street address, ZIP and home phone discarded at read time; the Form A row-1 address cell also carried a street address, likewise discarded (city 'Paradise' and 'Utah' kept), and the row-2 address cell holds a bare ZIP, which is discarded leaving the city blank.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Jon White",
+   "donor_city": "Paradise",
+   "donor_state": "Utah",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.06,7.63,10.96,2.39@p2",
+   "note": "date cell reads 'Mar 7' - no year printed, so the date is left blank per contract. Name cell continues '... filing fee' after the donor name, which is a purpose annotation, not part of the name. Amount written '40' with a superscript '00' cents group over a rule -> 40.00. Street address discarded at read time; city/state kept. needs_review flags the side-wide 0.29 delta as well as the yearless date."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Jon White",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "417.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.06,10.02,10.96,2.19@p2",
+   "note": "date cell reads 'April' - no day and no year, left blank per contract. Name cell continues '(Banners)', a purpose annotation. Address cell holds only a bare ZIP, discarded at read time, so city/state are honestly empty. Amount written '417' with a superscript '00' cents group over a rule -> 417.00."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Macies",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "119.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.06,12.21,10.96,2.05@p2",
+   "note": "date cell reads 'April' - no day and no year, left blank per contract. Donor written 'Macies' followed by '(Treats' - the same payee appears on Form B row 3 as an EXPENDITURE, so listing it as a contributor is the filer's own doing; transcribed verbatim at low confidence, no name normalised or inferred. Address cell empty. Amount written '119' with a superscript '00' cents group over a rule -> 119.00."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Jon White",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "346.29",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.06,16.31,10.96,2.00@p2",
+   "note": "date cell reads 'Sept 22' - no year printed, left blank per contract. The name cell begins with a word HEAVILY STRUCK OUT (legible as 'Watkins', the Form B row-4 payee) and continues 'Jon White  Signs'; the struck word is not transcribed as the donor and 'Signs' is a purpose annotation. This row sits on writing line 5 - line 4 is blank. Amount written '346' with a superscript '29' cents group over a rule -> 346.29; the corresponding Form B row is written '346' with no cents, which is the source of the side's 0.29 delta."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Cache County",
+   "purpose": "Filing fee",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.21,7.84,10.90,1.94@p3",
+   "note": "date cell reads 'Mar 7' - no year printed, left blank per contract. Amount written as whole dollars with no cents group."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Sign Pro",
+   "purpose": "Banners",
+   "amount": "417.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.21,9.77,10.90,2.14@p3",
+   "note": "date cell reads 'April' - no day and no year, left blank per contract. Vendor glyphs read 'Sign Pro'. Amount written as whole dollars with no cents group."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Macies",
+   "purpose": "Treats",
+   "amount": "119.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.21,11.91,10.90,2.05@p3",
+   "note": "date cell reads 'April' - no day and no year, left blank per contract. Vendor written 'Macies' (a leading capital that could be M or Ml); transcribed as the legible-glyph string at low confidence rather than normalised to a real store name. Amount written as whole dollars with no cents group."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Watkins Printing",
+   "purpose": "Signs",
+   "amount": "346.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.21,13.97,10.90,2.14@p3",
+   "note": "date cell reads 'Sept 22' - no year printed, left blank per contract. This is the payee whose name the filer struck out on the matching Form A row. Amount written '346' with NO cents group, against '346 29' on Form A - both retained verbatim."
+  }
+ ]
+}

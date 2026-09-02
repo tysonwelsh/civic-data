@@ -1,0 +1,43 @@
+[{
+ "index_path": "raw/2010/2010_CountyAssessor-PoulsonKris-102210.pdf",
+ "key": "18c17be8",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "empty-schedule"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (500) on the p2 Summary Page, which is also Schedule A's own printed 'Subtotal for this page' ($500) and its printed 'Total Contributions Received' ($500), and is repeated at summary line 4",
+   "detail": "1 Schedule A row: 500.00 = the schedule's printed page subtotal = the schedule's printed total = the cover's promoted PER-PERIOD Column A cell. Column B 'Year-to-Date Total' prints 1,000 — the cycle total including this filer's earlier 6-15-2010 report — and is NOT summed as an increment; the 500 difference between the two columns is exactly what the per-period regime exists to keep separate, and NOTHING was differenced across the two filings to derive anything here. The p2 balance ladder closes on its own terms: line 3 -2,049.71 (a NEGATIVE carried balance, printed with a leading minus) + line 4 500 = line 5 -1,549.71; less line 6 (a slashed zero = 0) = line 7 -1,549.71."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE, written as a SLASHED ZERO (read 0 under the repo zero-glyph ruling), matched by Schedule B's own printed 'Subtotal for this page $ Ø' and 'Total Expenditures Received $ Ø'",
+   "detail": "Schedule B (p4) carries NO entries — every ruled line is empty, no date, no payee, no address anywhere on the page. Zero rows sum to 0.00 = the cover's promoted per-period Column A cell = both of the schedule's own printed totals, all three written as slashed zeros. Column B 'Year-to-Date Total' prints 2,549.71, which is this filer's earlier report's spending carried forward as a cumulative figure and is never summed as an increment."
+  }
+ },
+ "in_kind_convention": "monetary-only closed the contribution side at 500.00 and the expenditure side at 0.00; the monetary-plus-in-kind convention was tested and is identical, because no row is marked in-kind and this form prints no in-kind column or line.",
+ "escalations": 2,
+ "escalation_note": "Two tight crops at 900 dpi, both geometry proofs (the arithmetic had already closed on the schedule's printed subtotal): the row-1 amount box rendered '$500' (a slashed dollar sign then 500, NO cents written), and a control crop of the row-2 band rendered an empty cell between two rules — so the single entry is in band 1 and the band list is not shifted.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [81.87, 91.40],
+   "cells": [[8.53, 19.59], [21.07, 52.79], [54.20, 80.40], [81.87, 91.40]],
+   "rows": [[17.95, 21.76]],
+   "measure_note": "legacy_colAB UNDERLINE form, but note this filing's sheets are scanned at a slightly different scale from its sibling 86200276 — rowbands.py returns 17 rules at 21.76, 25.57, 29.40, 33.23, ... with a pitch of 3.82 (not 4.10), and the four segments ARE the column bands (Date 8.53-19.59, Name 21.07-52.79, Address 54.20-80.40, Amount 81.87-91.40); the pitch is therefore measured per page and never carried over from another filing. THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N]; row 1 is extrapolated one pitch up from the first rule to [17.95, 21.76]. Only one row is filled, so the proof covers every transcribed row: pct:81.87,17.95,9.53,3.81@p3 rendered '$500' (recorded 500.00) under the printed 'Amount' header, and the control box pct:81.87,21.76,9.53,3.81@p3 rendered an EMPTY cell bounded by two rules. Rules 2-17 are the blank ruled lines of the unused schedule."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "8/17/2010",
+   "donor_raw": "Republican Party", "amount": "500.00", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "the amount cell prints '$500' with NO cents written; recorded as the decimal 500.00 with the verbatim form noted. THE ADDRESS CELL IS LEFT ENTIRELY EMPTY BY THE FILER (this filing is not redacted, so the blank is the filer's own omission, not a county redaction bar) — donor_city and donor_state are honestly omitted rather than inferred. The donor is named only as 'Republican Party' with no county or state qualifier; not resolved further here (the same filer's June report names a different donor entirely)."}
+ ],
+ "expenditures": [],
+ "notes": "legacy_colAB variant on the 2010 blank; 4 pages: p1 cover ('Seven days preceding the General Election', signed 'Oct 22, 2010', stamped received OCT 22 twice — once over the 'For Office Use Only' box and once below it), p2 SUMMARY PAGE ('Page 1 of 3'), p3 Schedule A ('Page 2 of 3'), p4 Schedule B ('Page 3 of 3') — unlike this filer's own June filing, which numbered every sheet '1 of 1', this one foliates the three form sheets as a set and still EXCLUDES the cover, so a page ordinal remains untrustworthy for locating the summary page. THE AMENDMENT QUESTION IS AGAIN LEFT UNANSWERED: neither 'Yes' nor 'No' is checked. SCHEDULE B EXISTS AND IS BLANK — an `empty-schedule`, not a missing page and not a withheld side: the page prints its full ruled grid with nothing on it, a SLASHED ZERO written in the amount column of the first row area (a nil annotation, not an entry — no date and no payee accompany it), and slashed zeros in both the 'Subtotal for this page' and 'Total Expenditures Received' cells. All zero glyphs read 0 under the repo zero-glyph ruling with the glyph named here. The closing balance stays NEGATIVE (-1,549.71) and is kept negative. PAGE-FACE candidate name is 'Kris Poulson' (signing 'Kris W. Poulson'; Republican, residence city Payson) — index.csv names NO candidate for this row; page-face Office Seeking reads 'Assessor', agreeing with index.csv's 'County Assessor'. Not a *_Redacted.pdf."
+}]

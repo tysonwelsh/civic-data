@@ -1,0 +1,78 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W05.json",
+ "key": "50cf78bd",
+ "index_path": "raw/wayback_forms2020/Treasurer_David Whitehead_October 21 2020_10-21-2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Treasurer_David Whitehead_October 21 2020_10-21-2020.pdf"
+ ],
+ "sha256_prefix": "8f2412785deca4ee",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative (== this == last, all zero)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is entirely blank at 200 dpi - every one of its ~40 ruled rows empty and the printed TOTAL cell left blank by the filer (anchor '' = exists, blank). All six cover cells on lines 1 and 2 carry the filer's slashed-Oe zero glyph = 0 (core sec.3(f)), so all scopes agree at 0 and the scope test cannot discriminate; recorded cumulative. Zero rows here is a real zero, not a gap."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "571.00",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "571.00",
+    "cover_balance_end": "(571.00)",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "SAME PER-PERIOD PATTERN AS KIM HAFEN'S 2018 FILING (key 4ed5220e). Form B (p3) is entirely blank at 200 dpi, printed TOTAL cell blank. The cover's Total THIS report expense cell is a slashed-Oe zero = 0, which the zero rows match exactly; the Cumulative cell is 571.00, which they do not. So this filer's schedules are PER-PERIOD, not cycle-to-date - the 571.00 was itemized on an earlier 2020 report and is carried here only as 'Totals from Last Report' (also 571.00). That is a DIFFERENT SCOPE from the CUMULATIVE column the module publishes, so reconciles_* should be left blank for this side; not a failure. Both the LAST and CUM line-3 figures are written '571.' followed by a wave/tilde stroke in the cents position; per the core sec.3(g) no-cents convention that is 571.00, recorded with the glyph noted."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Neither schedule's printed TOTAL cell was filled in, so no page subtotal exists; both pages carry zero rows and the cover's THIS-report cells (0 and 0) are the anchors. Nothing failed to gate.",
+  "row_count": "Not applicable: p2 and p3 were each re-rendered at 200 dpi and read full-page; ZERO inked data cells on either sheet (the only ink anywhere on p2/p3 is a small scanner artefact in the top-left margin). No rows to count.",
+  "geometry_proof": "n/a - zero rows emitted on both sides.",
+  "balance_chain": "CLOSES EXACTLY. Cover line 4: Totals from Last Report <571.00>, This report slashed-Oe = 0, Cumulative <571.00>. The filer uses ANGLE BRACKETS rather than parentheses for the accounting negative, i.e. -571.00. Chain: -571.00 + 0 (contributions this) - 0 (expenses this) = -571.00, matching the printed cumulative balance; line 3 likewise 571.00 (last) + 0 (this) = 571.00 (cumulative). Cross-filing chain not runnable here - no earlier 2020 Whitehead filing is in my chunk, but the 571.00 'last report' figure proves one exists and should carry a 571.00 cumulative expense."
+ },
+ "escalations": 0,
+ "escalation_note": "No cell needed a high-dpi escalation: the only figures on the document are the four cover cells, all legible at 200 dpi, and both schedules are blank. The 200 dpi re-render of p2/p3 was done specifically to confirm the blankness rather than trusting the 90 dpi contact sheet.",
+ "notes": "*** THIS ONE NEEDS A HUMAN LOOK - SCOPE/OFFICE, NOT MONEY. *** The chunk file and the filename say office 'Treasurer', but THE FORM'S OWN 'Office' LINE IS COMPLETELY BLANK, and the line the filer DID complete in that block is 'In the ___________ School District', filled in with 'WASHINGTON'. 'Representative District' is blank. Read literally, the only office-identifying entry inside the form points at a SCHOOL DISTRICT, which addendum sec.E puts OUT OF SCOPE; read as a filer mis-using the line to name his county, it is the county Treasurer filing the portal says it is. I did NOT resolve this by the filename or the folder (core sec.7 forbids that), and I did not mark the sides out-of-scope, because an out-of-scope call needs a POSITIVE determination and the form makes none - the Office line is empty, not filled with a school-board office. Recording it as transcribed costs nothing either way: BOTH SCHEDULES ARE BLANK, so this document contributes zero itemized rows under any classification. Corroborating evidence FOR the county reading, offered as inference not as fact: the sole expense figure, 571.00, is the exact same figure Dean J. Cox reports for his 2020 Washington County candidate FILING FEE (key 4f4fc098 in this same chunk, itemized on his Form B as 'Wash. Co. Clerk / filing fee / 571.00') - a shared flat county filing fee. Cross-check: the module's own index.csv already carries office_source='person_roster', office_confidence='medium' and an EMPTY document_office_raw for this file, i.e. the office was never read off the document face - consistent with what I see. RECOMMEND a human adjudicates the office before this filing is published under 'Treasurer'. Other document facts: 'TO ____ County Clerk' names the clerk personally ('Kim Hafen'); reporting period certified as beginning 'June 16, 2020' and ending 'Oct [a struck-out token] 27 2020' - the ending day is written over a strike-out and the clerk's RECEIVED stamp is OCT 21 2020, six days BEFORE the stated end date, and the filer's own signature date is 10/21/20; the ending date is therefore internally inconsistent with the receipt and I have not reconciled it. PRIVACY: the cover prints the candidate's home street address, city, ZIP and two phone numbers in the clear - all discarded at read time per core sec.5.",
+ "contributions": [],
+ "expenditures": []
+}

@@ -121,12 +121,30 @@ links never break — verify after any rebuild).
 ## Gaps / follow-ons (root TODO.md "County content menu")
 
 RDA project-area financials; interlocal/development agreements; ~~county campaign
-finance~~ (BUILT 2026-08-01/02 — `campaign_finance/`, 989 filings ~2004–2026: EasyVote
-2024/2026 itemized-structured; stated totals vision-transcribed for the legacy + 2022 eras
+finance~~ (BUILT 2026-08-01/02 — `campaign_finance/`, **1,119 filings ~2004–2026** (989 + the 130
+paper-filed 2015–2021 PDFs harvested 2026-08-20): EasyVote
+**2022/2024/2026** itemized-structured (197 filings, after the 2026-08-20 office-gate repair);
+stated totals vision-transcribed for the legacy + 2022 eras
 (618 of 670 covers; 52 docs have no summary page); **legacy DONOR ITEMIZATION COMPLETE —
 22,871 rows over 496 of 496 filings (wave B2 + residue, closed 2026-08-03); 8 sides
-across 5 filings are documented no-schedule-at-source gaps**;
-2016–2021 portal era remains the honest gap; see its CLAUDE.md);
+across 5 filings are documented no-schedule-at-source gaps**.
+**2015–2021 PAPER SLICE ALSO CLOSED 2026-08-23 (wave W1)** — 130 of 130 filings, 717 pages,
+**6,028 rows** (3,422 contributions + 2,606 expenditures), 0 withheld, 0 amounts blank for
+illegibility.
+**EASYVOTE ROW-LESS RESIDUE CLOSED 2026-09-01 (wave W2)** — the derived queue of 240 filings
+(238 transcribed + 2 school-board out of scope) yielded **18,240 rows** (11,852 C + 6,388 E,
+100% `pct:` geometry) and **141 previously-missing covers**, taking `filing_totals` 971 →
+**1,112**. Per side (480): 359 exact · 33 delta-with-cause · 82 `none` · 2 unknown ·
+4 out-of-scope; **ZERO withheld**. 78 contribution amounts are blank BY SOURCE (77 on Wilson
+`B5D1F91C`, whose county bar spans the Amount column on pp.3/6 — a documented FLOOR).
+⚠ W2 is the **first non-Claude transcription** federated into `gov.db`
+(`extract_method = vision-itemized/W2 EasyVote residue (2026-08-24; kimi-k3)`); it was
+verified independently before federation.
+**So every document this county holds is now itemized.** The ONE remaining gap is
+ACQUISITION, not transcription: the **251 online-filed 2015–2021 reports, GRAMA-only**,
+because the county portal APPLICATION IS DEAD (not WAF-blocked — re-diagnosed 2026-08-20);
+they are COMPLEMENTARY to the paper slice, since 34 of the 54 portal filers have no
+clerk-page PDF at all. See its CLAUDE.md / AVAILABILITY.md / RECON.md);
 sub-county/WFRC projections + TAZ; cross-tier analytical views; one image-only HA minutes PDF
 (2021-12-15, re-OCR pending); 2019 HA minutes (below the 2020 floor). All honest, tracked,
 never fabricated.

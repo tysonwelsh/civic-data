@@ -1,0 +1,26 @@
+[{
+ "index_path": "raw/2012/2012_Ballard102912.pdf",
+ "key": "b9239f6a",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r2_03)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3],
+ "itemized_pages_A": "3",
+ "sides": {"contributions": "empty-schedule", "expenditures": "no-schedule-page"},
+ "withheld_reason": {
+  "expenditures": "THE DOCUMENT HAS NO SCHEDULE B. `pdfinfo` reports Pages: 3, and all three were read full-page and classified from their own printed headers: p1 the 2012 cover, p2 the SUMMARY PAGE, p3 SCHEDULE A - ITEMIZED CONTRIBUTIONS RECEIVED. There is no fourth sheet and no page anywhere in the file printing 'SCHEDULE B' or 'ITEMIZED EXPENDITURES MADE'. This is non-existence of the page, a property of the retained document - NOT a blank schedule and NOT an unread one. The filer's own foliation on p2 reads 'Page 1 of 1', which is consistent with him regarding the schedules as unnumbered attachments and filing only the one he had entries space for. The expenditure figure is nevertheless stated on the cover (Column A line 2 = an oval zero, line 6 likewise), so nothing is lost analytically - but no rows are claimed and no sum is asserted here."
+ },
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED on the p2 Summary Page, written as a handwritten oval ZERO (read 0 under the repo zero-glyph ruling), corroborated by summary line 4 'Total Contributions Received (From Line 1 Column A)' - also an oval zero. SCHEDULE A'S OWN TWO FOOTER LINES ARE BOTH BLANK on this filing, so the cover is the ONLY printed anchor and is named as such.",
+   "detail": "Schedule A (p3) carries NO entries: all 16 ruled lines empty in every column, and the sheet's own Page-of / Last Name / Date of Report header block is blank too. A 900 dpi crop of the footer (pct:76,85.0,22,9@p3) RENDERED the printed labels 'Subtotal for this page $' and 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $' over TWO EMPTY RULES - the filer wrote nothing on either, unlike his own 8/30/12 filing where he wrote an oval zero on the Total line. So the schedule offers no independent figure here and the reconciliation rests on the cover: 0 rows = 0.00 = Column A's oval zero = summary line 4. Column B Year-to-Date is likewise an oval zero and is never summed as an increment. ADDENDUM A3 was applied and was not needed: lines 1/2 Column A are not blank, they are written zeros."
+  }
+ },
+ "in_kind_convention": "not applicable - Schedule A is empty, no Schedule B exists, and this form prints no in-kind column or line anywhere. Both the monetary-only and the monetary-plus-in-kind conventions give 0.00 on the contributions side, which is what the cover states.",
+ "escalations": 1,
+ "escalation_note": "One 900 dpi crop of the p3 Schedule A footer to settle whether the two printed total lines are blank or carry a nil glyph. Both are genuinely blank - the distinction matters because it changes which printed figure gates the side.",
+ "frames": {},
+ "contributions": [],
+ "expenditures": [],
+ "notes": "Page-face candidate 'LARRY BALLARD' (verification block 'LARRY L. BALLARD'), Political Party 'CONSTITUTION', Office Seeking written 'UTAH COUNTY COMMISSION SEAT C', residence city Salem UT. index.csv names NO candidate for this row (channel label is the period string 'Ballard - 10/29/12'), so the page face supplies the name; its office agrees with index.csv. NOTE A PAGE-FACE FACT ABOUT THIS FILER'S CYCLE: the Political Party cell is left BLANK on his 8/30/12 filing and reads CONSTITUTION here on 10/29/12 - recorded as observed, not adjudicated. Report type: 'Seven days preceding the General Election' is ticked. Amendment: 'No' ticked, the Yes line clean (contrast his 8/30/12 filing, where a date fragment on the Yes line is struck through). Signed and dated 10/29/12; clerk stamp OCT 29 PM 1:57. FOLIATION, and why an ordinal never locates a page (ADDENDUM A4): this filer's summary page is foliated 'Page 1 of 1' here and 'Page 1 of 2' on his own 8/30/12 filing, while both filings' Schedule sheets carry a wholly BLANK foliation block - three different foliation practices inside one filer's own cycle. The summary page was located by its printed 'SUMMARY PAGE' heading. THE FILING IS A ZERO REPORT: all nine summary cells (lines 1-7 Column A plus lines 1-2 Column B) are the filer's hand-drawn oval zeros - written zeros, not bare dashes, so the zero-glyph ruling applies and each reads 0. The ladder is internally exact (0 + 0 - 0 = 0). CONTRAST WITH THE SAME FILER'S 8/30/12 FILING, which is a 4-page document whose Schedule A and Schedule B both exist and are both blank: here the expenditure schedule simply was not filed. The two honest states are different facts and the record says which is which."
+}]

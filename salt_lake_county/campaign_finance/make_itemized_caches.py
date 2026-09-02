@@ -56,9 +56,19 @@ DATE = "2026-08-02"
 _PX = re.compile(r"^p(\d+)(?:\(([^)]*)\))?:x(-?\d+),y(-?\d+),w(\d+),h(\d+)@(\d+)dpi$")
 _PCT = re.compile(r"^pct:")
 
-CONTRIB_KEYS = ("line_no", "date", "donor_raw", "donor_city", "donor_state", "amount",
-                "in_kind", "needs_review", "confidence", "cell_confidence", "verified",
-                "geometry", "geometry_px", "geometry_fit", "note")
+# `occupation` (2026-08-23, wave W1): the Occupation/Employer cell the county's 2015-2021
+# Schedule A pre-prints, VERBATIM. Kept in the cache alongside the other row fields; a row
+# from any earlier era simply has no such key and `_clean` drops it, so every existing cache
+# stays byte-identical.
+# `employer` sits beside `occupation` because THREE filings in this slice attach their own
+# spreadsheet, and that spreadsheet SPLITS the county form's single `Occupation/Employer` cell
+# into two columns. Both halves are preserved verbatim in the cache; `build_finance.py` composes
+# them into the one published `donor_occupation` value. Whitelisting `occupation` alone would
+# have dropped the employer half SILENTLY — caught by chunk 01 at the page, 2026-08-23.
+CONTRIB_KEYS = ("line_no", "date", "donor_raw", "donor_city", "donor_state", "occupation",
+                "employer", "amount", "in_kind", "needs_review", "confidence",
+                "cell_confidence", "verified", "geometry", "geometry_px", "geometry_fit",
+                "note")
 EXPEND_KEYS = ("line_no", "date", "vendor_raw", "purpose", "amount",
                "in_kind", "needs_review", "confidence", "cell_confidence", "verified",
                "geometry", "geometry_px", "geometry_fit", "note")
@@ -185,6 +195,57 @@ def _clean(row, keys):
     return out
 
 
+def load_geometry_withdrawals(rec_dir):
+    """Optional `geometry_withdrawals.csv` beside the records: pointers the COORDINATOR could
+    not confirm, withdrawn rather than published.
+
+    The calibration suite's geometry specimens all make the same point — a row's VALUE can be
+    exactly right while its stored `pct:` box aims at the wrong cell, and no arithmetic gate can
+    see it. The suite's passing answers are "frame corrected OR geometry withheld", so a pointer
+    that cannot be verified is BLANKED here, with the reason recorded on the row and in
+    `_meta.itemized.geometry`. The row's transcribed VALUES are never touched — withdrawing a
+    pointer is not withdrawing the data.
+
+    Columns: index_path, pages (comma-separated, or `*`), side (contributions|expenditures|*),
+    reason.
+    """
+    p = os.path.join(rec_dir, "geometry_withdrawals.csv")
+    if not os.path.exists(p):
+        return []
+    with open(p, newline="") as fh:
+        return [r for r in csv.DictReader(fh) if r.get("index_path")]
+
+
+def apply_withdrawals(rec, rules):
+    """Blank the geometry of every row a withdrawal rule names. Returns (n, reasons)."""
+    n, reasons = 0, []
+    for rule in rules:
+        if rule["index_path"] != rec["index_path"]:
+            continue
+        pages = None if rule.get("pages", "*").strip() == "*" else {
+            x.strip() for x in rule["pages"].split(",") if x.strip()}
+        side_sel = rule.get("side", "*").strip() or "*"
+        for side in ("contributions", "expenditures"):
+            if side_sel not in ("*", side):
+                continue
+            for row in rec.get(side) or []:
+                g = (row.get("geometry") or "").strip()
+                if not g:
+                    continue
+                pg = g.split("@p")[-1] if "@p" in g else ""
+                if pages is not None and pg not in pages:
+                    continue
+                row["geometry"] = ""
+                row["geometry_fit"] = "withdrawn"
+                row["note"] = ((row.get("note") or "")
+                               + ("; " if row.get("note") else "")
+                               + "GEOMETRY WITHDRAWN: " + rule["reason"])
+                n += 1
+        if n:
+            reasons.append(rule["reason"])
+    return n, reasons
+
+
 def merge(rec, cache, pdf_path, wave, date):
     crows = list(rec.get("contributions") or [])
     erows = list(rec.get("expenditures") or [])
@@ -216,6 +277,8 @@ def merge(rec, cache, pdf_path, wave, date):
 
 def main(rec_dir, dry=False, wave=None, date=None):
     wave, date = wave or WAVE, date or DATE
+    withdrawals = load_geometry_withdrawals(rec_dir)
+    n_withdrawn = 0
     with open(os.path.join(HERE, "index.csv"), newline="") as fh:
         idx = {r["path"] for r in csv.DictReader(fh)}
     seen, written, skipped, partial = set(), 0, [], []
@@ -246,7 +309,11 @@ def main(rec_dir, dry=False, wave=None, date=None):
                 skipped.append(ip)
                 continue
             cache = json.load(open(cpath))
+            nw, wreasons = apply_withdrawals(rec, withdrawals)
+            n_withdrawn += nw
             it = merge(rec, cache, os.path.join(HERE, ip), wave, date)
+            if nw:
+                it["geometry_withdrawn"] = {"rows": nw, "reasons": wreasons}
             tot_c += it["n_contrib_rows"]
             tot_e += it["n_expend_rows"]
             if not dry:
@@ -256,6 +323,9 @@ def main(rec_dir, dry=False, wave=None, date=None):
             written += 1
     print(f"{'would merge' if dry else 'merged'} itemized rows into {written} caches "
           f"({tot_c} contribution rows, {tot_e} expenditure rows)")
+    if withdrawals:
+        print(f"geometry WITHDRAWN on {n_withdrawn} row(s) by "
+              f"{len(withdrawals)} coordinator rule(s) — values untouched")
     if partial:
         print(f"SKIPPED {len(partial)} record file(s) mid-write (agent re-saving) — "
               f"they merge at the next checkpoint: {partial}")

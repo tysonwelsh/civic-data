@@ -3,7 +3,10 @@
  "key": "6ee0a784",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:10:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 4.20",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,151 @@
    "notes": "Born-digital typed fillable form, scanned. The form prints no political-party field. The signature block is redacted upstream by the county (black bar); the Date box survives (5/18/2020) and a clerk received-stamp reads '20 MAY 18 PM 3:48'. Balance at Close is printed as a NEGATIVE value (-1145.82) - transcribed as printed, not corrected. Page face agrees with candidate_index and office_index."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "3/13/20",
+   "donor_raw": "Ed Gifford",
+   "donor_city": "Highland",
+   "amount": "605.16",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.44,16.95,13.06,4.37@p2",
+   "geometry_frame": "p2 axis=y cell=79.44-92.50 rowband=16.95-21.32 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the address cell is NOT redacted \u2014 the county published it \u2014 but the fillable form field TRUNCATED its own value at both ends when the form was printed: the leading digit of the street portion is shaved by the left rule and the string is cut mid-state at the right rule, ending on a bare 'U'. donor_city 'Highland' is read from the cell itself (a Utah County city); donor_state is honestly BLANK because the printed value stops at that bare letter, and a state is NEVER inferred from a fragment or from a zip. That is an EIGHTH distinct cause of a blank donor state for this corpus: the document's own form field clipped the text. PRIVACY: the visible street fragment is deliberately not carried."
+  },
+  {
+   "line_no": "2",
+   "date": "3/25/20",
+   "donor_raw": "Becky McRae",
+   "donor_city": "SLC",
+   "donor_state": "UT",
+   "amount": "96.80",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.44,21.32,13.06,4.41@p2",
+   "geometry_frame": "p2 axis=y cell=79.44-92.50 rowband=21.32-25.73 (2 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "same field-truncation as row 1 at the LEFT edge only \u2014 the cell renders 'upiter Dr SLC, UT' with the leading 'J' of the street name shaved; the city and state survive intact at the right, so both are read from this row's own cell. donor_city is kept VERBATIM as the filer abbreviated it ('SLC'); it was not expanded to 'Salt Lake City' \u2014 expanding an abbreviation is inference, not reading. PRIVACY: the street fragment is deliberately not carried."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "4/19/20",
+   "vendor_raw": "Richard Jaussi",
+   "purpose": "Photos",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.49,16.73,13.09,4.43@p3",
+   "geometry_frame": "p3 axis=y cell=79.49-92.58 rowband=16.73-21.16 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the 2020 revision's REAL Purpose column is filled on every row of this schedule and captured verbatim"
+  },
+  {
+   "line_no": "2",
+   "date": "4/7/20",
+   "vendor_raw": "Maryann Walker",
+   "purpose": "AV services",
+   "amount": "800.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.49,21.16,13.09,4.39@p3",
+   "geometry_frame": "p3 axis=y cell=79.49-92.58 rowband=21.16-25.55 (2 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "3/13/20",
+   "vendor_raw": "Utah County Clerk",
+   "purpose": "Filing fee",
+   "amount": "605.16",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.49,25.55,13.09,4.40@p3",
+   "geometry_frame": "p3 axis=y cell=79.49-92.58 rowband=25.55-29.95 (3 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "\u26d4 the Utah County filing fee, transcribed as THIS document's own printed figure; it was NOT used to corroborate any other filing and no other filing's fee was used to settle it (E1/F5). Note in passing that it equals the same-day 605.16 contribution from Ed Gifford on Schedule A \u2014 the filer's fee appears to have been funded by that gift \u2014 but the two are separate printed entries and neither was used to validate the other."
+  },
+  {
+   "line_no": "4",
+   "date": "3/24/20",
+   "vendor_raw": "Richard Nye",
+   "purpose": "Photos",
+   "amount": "117.54",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.49,29.95,13.09,4.41@p3",
+   "geometry_frame": "p3 axis=y cell=79.49-92.58 rowband=29.95-34.36 (4 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "3/28/20",
+   "vendor_raw": "Constant Contact",
+   "purpose": "Email services",
+   "amount": "75.08",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.49,34.36,13.09,4.37@p3",
+   "geometry_frame": "p3 axis=y cell=79.49-92.58 rowband=34.36-38.73 (5 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer's rows are NOT in date order (4/19, 4/7, 3/13, 3/24, 3/28); transcribed in printed row order, nothing reordered"
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah r8_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' = 701.96 on the p4 Summary Page (located by its printed heading), which equals Schedule A's own printed 'Subtotal for this page' $ 701.96 AND its printed 'Total Contributions Received (Sum of all Schedule A pages in this report)' $ 701.96",
+     "detail": "2 Schedule A rows sum to 605.16 + 96.80 = 701.96 exactly = the schedule's printed page subtotal = the schedule's printed Total Contributions Received = the cover's PROMOTED per-period cell Box B. Box C 'Contributions Received Year to Date' prints 701.96 as well and is NEVER summed as an increment. Box F 'Subtotal before Expenditures (Box A + Box B)' independently prints 701.96 against a Box A of bare '0', so three printed figures plus the ladder agree."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' = 1847.78, which equals Schedule B's own printed 'Subtotal for this page' $ 1847.78 AND its printed 'Total Expenditures Made (Sum of all Schedule B pages in this report)' $ 1847.78",
+     "detail": "5 Schedule B rows sum to 250.00 + 800.00 + 605.16 + 117.54 + 75.08 = 1,847.78 exactly = the printed page subtotal = the printed schedule total = the cover's per-period Box D. Box E YTD prints 1847.78 and is retained as cumulative, never summed. The ladder closes independently and NEGATIVELY: Box F 701.96 minus Box D 1847.78 = the printed 'Balance at Close of Reporting Period' -1145.82, a negative closing balance printed with an explicit minus sign, and the sign is kept."
+    }
+   },
+   "in_kind_convention": "monetary-only, identical under both conventions: no in-kind column, line or marker anywhere on this v. 4.20 blank and no in-kind annotation on any of the 7 rows, so monetary-only and monetary-plus-in-kind give the same sums (701.96 / 1,847.78) and both close. Tested per filing (G1). Note the filer spent 1,145.82 more than he raised in the period, which the form books as a negative close, NOT as an unrecorded in-kind.",
+   "escalations": 8,
+   "escalation_note": "Eight crops. Geometry proof at 900 dpi --value: p2 row 1 rendered '605.16', p2 row 2 rendered '96.80', p2 row 3 (one past the last entry) rendered an EMPTY boxed cell; p3 row 1 rendered '250.00', p3 row 5 rendered '75.08', p3 row 6 (one past) rendered an EMPTY boxed cell. TWO ADDRESS-CELL CROPS at 700 dpi on p2 (the widened-crop discipline of G2 applied to a TEXT cell, because both address strings visibly run to the cell edges): row 1 rendered a clipped street fragment followed by 'Highland, U' \u2014 leading digit shaved, string ending mid-state; row 2 rendered a clipped street fragment followed by 'SLC, UT'. PRIVACY: the street fragments are not reproduced here. Widening the crop beyond the printed column recovers NOTHING further, which proves the truncation is in the DOCUMENT \u2014 the fillable field clipped its own value when the form was printed \u2014 not in the crop. No figure was changed by any crop.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 5,
+   "geometry": {
+    "measured": 7,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Doug Gifford, 2020 Utah County Recorder. modern_boxAF, revision 'v. 4.20' (footer-printed on all four pages), born-digital fillable form printed and re-scanned \u2014 every figure is MACHINE TYPE and no glyph was in dispute. FOUR pages, each classified from its own printed heading: p1 cover, p2 'Schedule A - Itemized Contributions Received', p3 'Schedule B - Itemized Expenditures Made', p4 'Summary Page' (LAST). No checklist decoy. PAGE FACE: candidate 'Doug Gifford', Office 'Utah County Recorder' (agreeing with index.csv), residence city Provo, report type radio filled = '30 Days after withdrawal or elimination', amendment answered 'No', signature Date and Date of Report both 5/18/2020, clerk received-stamp \"'20 MAY 18 PM 3:48\". This blank prints NO political-party field. FOLIATION: the Page box is numbered 1/2/3/4 counting the cover. REDACTION judged per cell (I4): the ONLY blacked-out region is the signature bar on p1; BOTH donor address cells on p2 are published in the clear and were reduced to city/state at read time \u2014 what limits them is the form's own field truncation, not the clerk's pen, and the notes say so. BOTH SIDES CLOSE EXACTLY (701.96 / 1,847.78) on the promoted per-period Box B / Box D, each corroborated by the schedule's own two printed footers, and the ladder closes to a printed NEGATIVE -1145.82 whose sign is kept. \u26a0 NEAR-DUPLICATE PAIR \u2014 MY VERDICT: this filing and d7926589 ('2020_Gifford_05.18.20_Redacted_Redacted.pdf') are BOTH Doug Gifford filings dated 5/18/2020 and arrive on DIFFERENT CHANNELS (this one county_2020_page, the other county_api). They were transcribed INDEPENDENTLY and neither was treated as a correction of the other. MY VERDICT (evidence set out in full in d7926589's own record): they are THE SAME REPORT published twice by the county at two redaction levels \u2014 identical page-face identity, identical filled radios, identical signature/report dates, identical clerk received-stamp to the minute, identical rows in identical printed bands on both schedules, identical six summary boxes, and identical rowbands rule positions and per-page skews (so one underlying scan, not two). The ONE substantive difference is that d7926589 has the two donor STREET addresses blacked out on p2 while THIS copy publishes them (limited only by the form field's own truncation). Different sha256 and different byte counts, so index.csv correctly kept both rows. CONSEQUENCE: the two records carry the same 7 rows and the same 701.96 / 1,847.78 sums and must NOT be added together in a candidate-cycle total. Nothing was merged and no figure was differenced between them."
+  }
+ }
 }

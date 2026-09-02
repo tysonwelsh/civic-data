@@ -3,7 +3,10 @@
  "key": "161ae673",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:30:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,77 @@
    "notes": "Handwritten, ALL-CAPS cover. Every money cell is 605.20; in line 1 Column B and line 2 Column A the filer omitted/blurred the decimal point (written '60520'), transcribed as 605.20 at medium confidence since the same figure is unambiguous in the other cells. Lines 3 and 7 are slashed-zero glyphs, transcribed as '0'. The summary page is PDF page 4 but the form's own header numbers it 'Page 3 of 3' and carries 'Date of Report 4/29/2018'. Office field 'UTAH COUNTY CLERK/AUDITOR' agrees with office_index; the candidate name is printed with the nickname in quotes."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "3/15/2018",
+   "donor_raw": "S.C. Hemingway",
+   "donor_city": "Provo",
+   "amount": "605.20",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.0,16.80,15.0,3.88@p2",
+   "note": "the candidate's own contribution to his campaign (page-face candidate STEPHEN \"HEMI\" HEMINGWAY), booked on Schedule A and not as a beginning balance - summary line 3 is a slashed zero. donor_state is honestly BLANK for ADDENDUM E4's FIFTH reason: the filer wrote a city and a zip but NO STATE; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. GEOMETRY WIDENED past the printed column because the figure overflows it (ADDENDUM G2)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "3/15/2018",
+   "vendor_raw": "Utah County Clerks Office",
+   "amount": "605.20",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.0,18.75,15.0,3.87@p3",
+   "note": "this is the 2018 Utah County CLERK/AUDITOR filing fee, paid the same day as the candidate funded his own campaign; the whole filing is the fee and nothing else. Recorded as an observation for the wave's fee table only - ADDENDUM E1/F5 forbid using a filing fee to corroborate a figure on any other filing. Schedule B on this form prints NO Purpose column and the filer wrote no purpose, so purpose is honestly blank. GEOMETRY WIDENED past the printed column (ADDENDUM G2)."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r6_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (605.20) on the SUMMARY PAGE, which on this filing is p4 (NOT p2 - located by its printed heading); the same figure is printed twice more on Schedule A itself as 'Subtotal for this page' 605.20 and 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' 605.20, and again at summary line 4 'From Line 1 Column A'",
+     "detail": "The single Schedule A row (605.20) equals the schedule's own printed page subtotal 605.20 AND its printed grand total 605.20 AND the cover's PROMOTED PER-PERIOD cell, Column A 605.20 - three printed anchors, all agreeing. Column B 'Year-to-Date Total' carries the same figure written WITHOUT its decimal point as '605 20'; it is retained as cumulative and never summed as an increment (this is the cycle's only report: '30 Days after withdraw or elimination'). The ladder closes independently: line 3 is a SLASHED ZERO = 0 under the zero-glyph ruling, line 4 = 605.20, line 5 = 605.20, line 6 = 605.20, line 7 = SLASHED ZERO = 0, and 605.20 - 605.20 = 0."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE on the p4 SUMMARY PAGE, written by the filer as '605 20' without its decimal point (605.20), which is also Schedule B's printed 'Subtotal for this page' 605.20 and its printed 'Total Expenditures Received (Sum of subtotals from all Schedule B pages)' 605.20, and summary line 6 605.20",
+     "detail": "The single Schedule B row (605.20) equals Schedule B's printed page subtotal 605.20 = its printed grand total 605.20 = summary line 6 605.20 = Column A. The only cell that is not a clean decimal is line 2 Column A itself, where the filer omitted the decimal point ('605 20'); it is NOT repaired here and the reconciliation is gated on the three unambiguous printed 605.20 figures instead. Column B YTD 605.20 is retained as cumulative and never summed."
+    }
+   },
+   "in_kind_convention": "not applicable - neither schedule prints an in-kind column, no row is marked in-kind, and no in-kind line appears anywhere on the summary page, so monetary-only and monetary-plus-in-kind give the same sum on BOTH sides and both close at 605.20. Tested on both sides as ADDENDUM G1 requires.",
+   "escalations": 6,
+   "escalation_note": "ADDENDUM G2 (value overflows its printed column) OCCURRED ON BOTH SCHEDULES. A 900 dpi crop bounded on the amount column's own detected rules (82.47->92.24 on p2, 82.35->92.05 on p3) CLIPPED the last digit of both figures, rendering '605.2'. Re-rendered with the box widened to x=82.0 w=15.0, both cells render '605.20' in full. Each of the two transcribed rows therefore carries an EXPLICIT WIDENED geometry string, which wins over the page frame; the frames still record the honest measurement of the printed grid.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 0,
+    "explicit": 2,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "STEPHEN \"HEMI\" HEMINGWAY, page-face office 'UTAH COUNTY CLERK/AUDITOR', party 'REPUBLICAN'; index.csv names NO candidate for this row, so the PAGE FACE governs and the coordinator may promote the name through office_overrides.csv (the Ainge precedent). 4 pages, legacy_colAB, cover ALL-CAPS handwriting: p1 cover ('30 Days after withdraw or elimination', not an amendment, signed 4/29/2018), p2 SCHEDULE A, p3 SCHEDULE B, p4 SUMMARY PAGE. *** THE SUMMARY PAGE IS THE LAST PAGE, NOT p2. *** On this filing the two schedules come BEFORE the summary - the exact reason the brief says to locate the summary page by CONTENT and never by ordinal (the module's own variant table predicts p2 for legacy_colAB). The filer's foliation agrees with the binding and counts only the three non-cover sheets: Schedule A 'Page 1 of 3', Schedule B 'Page 2 of 3', Summary 'Page 3 of 3' - a NINTH distinct foliation practice for the 2010-2018 tally, and the first seen where the summary page is foliated last. *** 2018-DATED STOCK, A SECOND STRAPLINE. *** ADDENDUM G5 left open whether genuinely 2018-dated sheets circulate; they do, and in more than one wording - this filing's inner sheets are strap-lined '2018 County Candidate(s)' (p2 plural, pp3-4 singular) where the Grunander 2018 filing in this same chunk uses '2018 County & Local School Candidates'. THE COVER IS A THIRD BLANK AGAIN: titled 'FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' (Utah County Code 2-5 & Utah State Code 17-16-6.5) but with the vertical sidebar reading 'COUNTY Commission CANDIDATES' - and it was used by a CLERK/AUDITOR candidate, so the sidebar is decorative stock, NOT an office claim. Schedule B heads its payee column 'Provider/Vendor' and prints no Purpose column. NIL MARKS: summary lines 3 and 7 are SLASHED ZEROS and read 0 under the zero-glyph ruling; no bare dashes appear anywhere. FILER NOTATION: the filer twice omitted the decimal point in a money cell (line 1 Column B '605 20', line 2 Column A '605 20'); neither was repaired - the reconciliation gates on the unambiguous printed 605.20 figures instead. PRIVACY: the county did NOT redact this filing; street lines are visible on both schedules and are reduced to city/state (contributions) or dropped entirely (expenditures) at read time."
+  }
+ }
 }

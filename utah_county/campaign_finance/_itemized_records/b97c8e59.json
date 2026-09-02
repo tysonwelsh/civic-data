@@ -1,0 +1,1850 @@
+[
+ {
+  "index_path": "raw/2020/2020_SakievichTom_Redacted.pdf",
+  "key": "b97c8e59",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah r9_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4,5",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "line 1 'TOTAL CONTRIBUTIONS RECEIVED' Column A 'Total this Period' ($38,237.00) on the p2 SUMMARY PAGE, which is also the ledger's own printed 'Gross Donations: Cash, Loaned, In-Kind: $ 38,237.00' at the foot of Schedule A, and is repeated at summary line 4",
+    "detail": "28 contribution rows on one Schedule A sheet. The 16 CASH rows sum to 28,615.00 = the ledger's printed 'Donations This Period' cash figure AND its printed 'Total Cash Donations: $ 28,615.00'. The 12 IN-KIND rows sum to 9,622.00 = the printed in-kind figure on the same 'Donations This Period' line. 28,615.00 + 9,622.00 = 38,237.00 exactly = the printed 'Gross Donations' = summary line 1 Column A = line 4. The 'Amt Loaned' column is a printed bare dash on every row and its total prints as a dash \u2014 no loan this period. Column B 'Year-to-Date Total' is handwritten 66,650.88 and is CUMULATIVE \u2014 never summed as an increment. The ladder closes as printed: line 3 (7,003.10) + line 4 (38,237.00) = line 5 (45,240.10), minus line 6 (37,182.65) = line 7 (8,057.45)."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "line 2 'TOTAL EXPENDITURES MADE' Column A 'Total this Period' ($37,182.65) on the p2 SUMMARY PAGE, which is also the ledger's own printed 'Gross Expenditures: $ 37,182.65' at the foot of Schedule B sheet 2, and is repeated at summary line 6",
+    "detail": "67 expenditure rows over two Schedule B sheets. The 55 CASH rows sum to 16,675.11 (p4) + 10,885.54 (p5) = 27,560.65 = the printed 'Summary of Expenditures/Loan Repayments' cash figure. The 12 IN-KIND rows (all on p4) sum to 9,622.00 = the printed in-kind figure beside it \u2014 the same 9,622.00 the contribution side carries, because this filer enters every in-kind gift TWICE, once as a contribution and once as an offsetting expenditure of the identical date and amount. 27,560.65 + 9,622.00 = 37,182.65 exactly = the printed 'Gross Expenditures' = summary line 2 Column A = line 6. Column B 'Year-to-Date Total' is handwritten 58,516.22 and is CUMULATIVE \u2014 never summed as an increment, and never differenced against another filing."
+   }
+  },
+  "in_kind_convention": "MONETARY-PLUS-IN-KIND on BOTH sides \u2014 and this filing is a live instance of ADDENDUM G1 (in-kind treatment is a per-FILING property). Both conventions were tested on both sides against the figures this document prints: monetary-only gives 28,615.00 / 27,560.65, which reconcile to the ledger's own 'Total Cash Donations' and cash-column footer but fall 9,622.00 short of the PROMOTED Column A on each side; monetary-plus-in-kind gives 38,237.00 / 37,182.65, which are exactly the promoted line 1 and line 2 figures. So the in-kind rows are inside the anchor and are published with in_kind=true. NOTE how different this is from the same filer's June report in this chunk (dd75bb17 / 0b284ae6), whose ledger has no in-kind column at all \u2014 the convention was NOT carried forward, it was tested here from scratch.",
+  "escalations": 1,
+  "escalation_note": "One escalation, for LEGIBILITY not truth: the Schedule A row-1 donor cell was cropped across the whole name column at 900 dpi (pct:14.0,12.24,48.0,1.3@p3) to establish whether its truncated text was a scan defect. It rendered 'heperd Grip & Lighting (Campaign HQ Lease: April 24, 2020 - June 24, 202(' \u2014 the truncation is IN THE DOCUMENT (a spreadsheet cell clipped against its occupied neighbours), so the cell is transcribed exactly as printed and nothing was reconstructed. No amount needed escalation: every figure is machine type and both sides close to the cent against two printed footers each.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     72.5,
+     80.5
+    ],
+    "cells": [
+     [
+      6.0,
+      17.0
+     ],
+     [
+      17.0,
+      46.5
+     ],
+     [
+      46.5,
+      72.0
+     ],
+     [
+      72.5,
+      80.5
+     ],
+     [
+      80.5,
+      87.0
+     ],
+     [
+      87.0,
+      95.5
+     ]
+    ],
+    "rows": [
+     [
+      12.24,
+      13.48
+     ],
+     [
+      14.07,
+      15.24
+     ],
+     [
+      15.83,
+      17.07
+     ],
+     [
+      17.66,
+      18.83
+     ],
+     [
+      19.42,
+      20.6
+     ],
+     [
+      21.19,
+      22.42
+     ],
+     [
+      23.01,
+      24.19
+     ],
+     [
+      24.84,
+      26.02
+     ],
+     [
+      26.6,
+      27.9
+     ],
+     [
+      28.43,
+      29.72
+     ],
+     [
+      30.25,
+      31.61
+     ],
+     [
+      32.08,
+      33.31
+     ],
+     [
+      33.9,
+      35.2
+     ],
+     [
+      35.73,
+      36.9
+     ],
+     [
+      37.55,
+      38.73
+     ],
+     [
+      39.38,
+      40.55
+     ],
+     [
+      41.14,
+      42.38
+     ],
+     [
+      42.97,
+      44.14
+     ],
+     [
+      44.79,
+      45.97
+     ],
+     [
+      46.62,
+      47.85
+     ],
+     [
+      48.38,
+      49.56
+     ],
+     [
+      50.15,
+      51.32
+     ],
+     [
+      51.97,
+      53.15
+     ],
+     [
+      53.8,
+      54.97
+     ],
+     [
+      55.56,
+      56.8
+     ],
+     [
+      57.33,
+      58.62
+     ],
+     [
+      59.15,
+      60.45
+     ],
+     [
+      60.92,
+      62.21
+     ],
+     [
+      62.74,
+      64.04
+     ],
+     [
+      64.57,
+      65.8
+     ],
+     [
+      66.33,
+      67.63
+     ],
+     [
+      68.16,
+      69.39
+     ],
+     [
+      69.98,
+      71.16
+     ]
+    ],
+    "measure_note": "These schedule sheets are the filer's own typed LANDSCAPE ledger; the PDF pages carry /Rotate 90 (pdfinfo), so poppler renders them UPRIGHT as 2203x1699 landscape images and both make_snippet and the measurement work in that ordinary frame: axis='y', rows top-to-bottom. rowbands.py returns no usable printed rules (the ledger is ruled only by whitespace), so bands were measured by INK PROJECTION restricted to the CASH column and cross-checked against ink in the DATE column, which is how the five blank ledger lines were identified as lines rather than gaps. Schedule A ('CONTRIBUTIONS RECEIVED / SCHEDULE A, PAGE 3 of 5' in the filer's hand) has SIX columns: Date / Donors' Name / Mailing Address / Cash Amount / Amt Loaned / Amt In-Kind. `cell` is the CASH column (72.5-80.5); the twelve IN-KIND rows carry an explicit per-row geometry into the Amt In-Kind column (87.0-95.5) instead, because their figure is not in the cash column. 33 ledger lines are stored (the printed column-header strip at 8.53-9.59 and the handwritten title above it are excluded); 28 carry entries and lines 15, 22, 24, 32 and 33 are blank separators printing only bare dashes. TWO-CROP PROOF at 900 dpi --value: the row-1 in-kind box pct:87.0,12.24,8.5,1.24@p3 rendered '$ 2,050.00' (recorded 2050.00) and the row-31 cash box pct:72.5,66.33,8.0,1.30@p3 rendered '$ 3,000.00' (recorded 3000.00). BOTH CONTROLS: the row-1 crop is the first-entry control and lands on the first written line under the header; the ONE-PAST-THE-END control pct:72.5,68.16,8.0,1.23@p3 rendered '$ -', i.e. an empty ledger line, and a further crop of the totals block (pct:60.0,73.16,35.0,2.0@p3) rendered 'Donations This Period: $ 28,615.00 $ - $ 9,622.00', confirming those are the ledger's own printed totals and not rows."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     78.5,
+     86.5
+    ],
+    "cells": [
+     [
+      6.0,
+      17.0
+     ],
+     [
+      17.0,
+      53.0
+     ],
+     [
+      53.0,
+      78.0
+     ],
+     [
+      78.5,
+      86.5
+     ],
+     [
+      86.5,
+      95.5
+     ]
+    ],
+    "rows": [
+     [
+      12.77,
+      14.13
+     ],
+     [
+      14.71,
+      16.07
+     ],
+     [
+      16.66,
+      18.01
+     ],
+     [
+      18.6,
+      19.95
+     ],
+     [
+      20.54,
+      21.9
+     ],
+     [
+      22.48,
+      23.84
+     ],
+     [
+      24.43,
+      25.78
+     ],
+     [
+      26.43,
+      27.78
+     ],
+     [
+      28.43,
+      29.78
+     ],
+     [
+      30.37,
+      31.72
+     ],
+     [
+      32.31,
+      33.73
+     ],
+     [
+      34.31,
+      35.67
+     ],
+     [
+      36.26,
+      37.67
+     ],
+     [
+      38.26,
+      39.61
+     ],
+     [
+      40.2,
+      41.55
+     ],
+     [
+      42.2,
+      43.56
+     ],
+     [
+      44.14,
+      45.5
+     ],
+     [
+      46.09,
+      47.44
+     ],
+     [
+      48.03,
+      49.38
+     ],
+     [
+      49.97,
+      51.32
+     ],
+     [
+      51.91,
+      53.27
+     ],
+     [
+      53.86,
+      55.21
+     ],
+     [
+      55.8,
+      57.15
+     ],
+     [
+      57.8,
+      59.21
+     ],
+     [
+      59.74,
+      61.04
+     ],
+     [
+      61.68,
+      63.04
+     ],
+     [
+      63.63,
+      64.98
+     ],
+     [
+      65.57,
+      67.04
+     ],
+     [
+      67.57,
+      68.92
+     ],
+     [
+      69.51,
+      70.87
+     ],
+     [
+      71.45,
+      72.81
+     ],
+     [
+      73.45,
+      74.81
+     ],
+     [
+      75.4,
+      76.75
+     ],
+     [
+      77.34,
+      78.69
+     ],
+     [
+      79.28,
+      80.64
+     ],
+     [
+      81.22,
+      82.58
+     ],
+     [
+      83.17,
+      84.52
+     ],
+     [
+      85.11,
+      86.4
+     ],
+     [
+      87.05,
+      88.4
+     ],
+     [
+      88.99,
+      90.35
+     ],
+     [
+      90.94,
+      92.29
+     ]
+    ],
+    "measure_note": "These schedule sheets are the filer's own typed LANDSCAPE ledger; the PDF pages carry /Rotate 90 (pdfinfo), so poppler renders them UPRIGHT as 2203x1699 landscape images and both make_snippet and the measurement work in that ordinary frame: axis='y', rows top-to-bottom. rowbands.py returns no usable printed rules (the ledger is ruled only by whitespace), so bands were measured by INK PROJECTION restricted to the CASH column and cross-checked against ink in the DATE column, which is how the five blank ledger lines were identified as lines rather than gaps. Schedule B sheet 1 ('EXPENDITURES MADE / SCHEDULE B, PAGE 4 of 5') has FIVE columns: Date / To/Name:Nature of Expense / Mailling Address / Expenditures in Cash / Expenditures In-Kind. `cell` is the CASH column; the twelve in-kind rows carry explicit geometry into the In-Kind column (86.5-95.0). 41 ledger lines are stored (header strip at 8.89-9.95 excluded); 40 carry entries and line 32 is a blank separator. TWO-CROP PROOF at 900 dpi --value: the row-1 in-kind box pct:86.5,12.77,8.5,1.36@p4 rendered '$ 2,050.00' (recorded 2050.00) and the row-41 cash box pct:78.5,90.94,8.0,1.35@p4 rendered '$ 46.79' (recorded 46.79). BOTH CONTROLS: row 1 is the first-entry control; the ONE-PAST-THE-END control pct:78.5,92.6,8.0,1.4@p4 rendered COMPLETELY BLANK \u2014 the sheet ends there and continues on p5."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     78.5,
+     86.5
+    ],
+    "cells": [
+     [
+      6.0,
+      17.0
+     ],
+     [
+      17.0,
+      53.0
+     ],
+     [
+      53.0,
+      78.0
+     ],
+     [
+      78.5,
+      86.5
+     ],
+     [
+      86.5,
+      95.5
+     ]
+    ],
+    "rows": [
+     [
+      8.36,
+      9.71
+     ],
+     [
+      10.3,
+      11.65
+     ],
+     [
+      12.18,
+      13.54
+     ],
+     [
+      14.13,
+      15.48
+     ],
+     [
+      16.13,
+      17.42
+     ],
+     [
+      18.07,
+      19.36
+     ],
+     [
+      20.01,
+      21.31
+     ],
+     [
+      21.95,
+      23.31
+     ],
+     [
+      23.9,
+      25.25
+     ],
+     [
+      25.84,
+      27.19
+     ],
+     [
+      29.78,
+      31.14
+     ],
+     [
+      31.78,
+      33.14
+     ],
+     [
+      33.73,
+      35.14
+     ],
+     [
+      35.73,
+      37.08
+     ],
+     [
+      37.67,
+      39.02
+     ],
+     [
+      39.67,
+      41.02
+     ],
+     [
+      41.61,
+      42.97
+     ],
+     [
+      43.56,
+      44.91
+     ],
+     [
+      45.5,
+      46.85
+     ],
+     [
+      47.5,
+      48.91
+     ],
+     [
+      49.44,
+      50.74
+     ],
+     [
+      51.38,
+      52.68
+     ],
+     [
+      53.33,
+      54.62
+     ],
+     [
+      55.27,
+      56.62
+     ],
+     [
+      57.21,
+      58.56
+     ],
+     [
+      59.15,
+      60.51
+     ],
+     [
+      61.09,
+      62.45
+     ],
+     [
+      63.1,
+      64.45
+     ],
+     [
+      65.04,
+      66.39
+     ],
+     [
+      66.98,
+      68.33
+     ],
+     [
+      68.92,
+      70.28
+     ],
+     [
+      70.92,
+      72.28
+     ]
+    ],
+    "measure_note": "These schedule sheets are the filer's own typed LANDSCAPE ledger; the PDF pages carry /Rotate 90 (pdfinfo), so poppler renders them UPRIGHT as 2203x1699 landscape images and both make_snippet and the measurement work in that ordinary frame: axis='y', rows top-to-bottom. rowbands.py returns no usable printed rules (the ledger is ruled only by whitespace), so bands were measured by INK PROJECTION restricted to the CASH column and cross-checked against ink in the DATE column, which is how the five blank ledger lines were identified as lines rather than gaps. Schedule B sheet 2 ('EXPENDITURES MADE / SCHEDULE B, PAGE 5 of 5'), same five columns, no repeated header strip. 32 ledger lines are stored; 27 carry entries and lines 6, 11, 19, 31 and 32 are blank separators (identified by zero ink in the DATE column). TWO-CROP PROOF at 900 dpi --value: the row-1 box pct:78.5,8.36,8.0,1.35@p5 rendered '$ 16.08' (recorded 16.08) and the row-30 box pct:78.5,66.98,8.0,1.35@p5 rendered '$ 61.13' (recorded 61.13). BOTH CONTROLS: row 1 is the first-entry control; the ONE-PAST-THE-END control pct:78.5,68.92,8.0,1.36@p5 rendered '$ -' (an empty ledger line), and a crop of the totals block (pct:60.0,74.5,36.0,2.2@p5) rendered '...y of Expenditures/Loan Repayments: $ 27,560.65 $ 9,622.00', the ledger's own printed totals."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "June 24, 2020",
+    "donor_raw": "heperd Grip & Lighting (Campaign HQ Lease: April 24, 2020 - June 24, 202(",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "geometry": "pct:87.00,12.24,8.50,1.24@p3",
+    "amount": "2050.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Amt In-Kind' column and the 'Cash Amount' cell is a bare dash. This filing's promoted Column A (38,237.00) is the ledger's 'Gross Donations: Cash, Loaned, In-Kind', so in-kind IS inside the anchor and the row is published with in_kind=true. Its geometry is given explicitly because the record's frame cell is the CASH column. *** THE DONOR CELL IS CLIPPED BY THE SPREADSHEET COLUMN, ON BOTH SIDES, IN THE DOCUMENT ITSELF. *** A 900 dpi crop of the whole name column renders exactly 'heperd Grip & Lighting (Campaign HQ Lease: April 24, 2020 - June 24, 202(' \u2014 the leading S of 'Shepherd' and the closing bracket are not printed on the page at all (Excel truncated the cell against its occupied neighbours), so they are NOT transcribed and nothing is reconstructed. The missing characters are a printing property, not a redaction and not a failed read. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "June 24, 2020",
+    "donor_raw": "Phil Shepherd (Campaign Video & Equipment Services)",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "geometry": "pct:87.00,14.07,8.50,1.17@p3",
+    "amount": "650.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Amt In-Kind' column and the 'Cash Amount' cell is a bare dash. This filing's promoted Column A (38,237.00) is the ledger's 'Gross Donations: Cash, Loaned, In-Kind', so in-kind IS inside the anchor and the row is published with in_kind=true. Its geometry is given explicitly because the record's frame cell is the CASH column. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "June 24, 2020",
+    "donor_raw": "Shepherd Grip & Lighting (Facebook Ad shoots)",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "geometry": "pct:87.00,15.83,8.50,1.24@p3",
+    "amount": "1250.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Amt In-Kind' column and the 'Cash Amount' cell is a bare dash. This filing's promoted Column A (38,237.00) is the ledger's 'Gross Donations: Cash, Loaned, In-Kind', so in-kind IS inside the anchor and the row is published with in_kind=true. Its geometry is given explicitly because the record's frame cell is the CASH column. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "June 24, 2020",
+    "donor_raw": "Lowell Nelson (KTalk Radio Time)",
+    "donor_city": "Murray",
+    "donor_state": "UT",
+    "geometry": "pct:87.00,17.66,8.50,1.17@p3",
+    "amount": "50.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Amt In-Kind' column and the 'Cash Amount' cell is a bare dash. This filing's promoted Column A (38,237.00) is the ledger's 'Gross Donations: Cash, Loaned, In-Kind', so in-kind IS inside the anchor and the row is published with in_kind=true. Its geometry is given explicitly because the record's frame cell is the CASH column. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "June 24, 2020",
+    "donor_raw": "Sam Sakievich (Sakievich Co. LLC)",
+    "donor_city": "Stonewall",
+    "donor_state": "LA",
+    "geometry": "pct:87.00,19.42,8.50,1.18@p3",
+    "amount": "275.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Amt In-Kind' column and the 'Cash Amount' cell is a bare dash. This filing's promoted Column A (38,237.00) is the ledger's 'Gross Donations: Cash, Loaned, In-Kind', so in-kind IS inside the anchor and the row is published with in_kind=true. Its geometry is given explicitly because the record's frame cell is the CASH column. out-of-state in-kind donor (Louisiana); the Schedule B row of the same date and amount describes it as 'Facebook Ad Layout Design'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "June 24, 2020",
+    "donor_raw": "Sam Sakievich (Sakievich Co. LLC)",
+    "donor_city": "Stonewall",
+    "donor_state": "LA",
+    "geometry": "pct:87.00,21.19,8.50,1.23@p3",
+    "amount": "3000.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Amt In-Kind' column and the 'Cash Amount' cell is a bare dash. This filing's promoted Column A (38,237.00) is the ledger's 'Gross Donations: Cash, Loaned, In-Kind', so in-kind IS inside the anchor and the row is published with in_kind=true. Its geometry is given explicitly because the record's frame cell is the CASH column. out-of-state in-kind donor (Louisiana); the largest in-kind gift on the filing. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "June 24, 2020",
+    "donor_raw": "Frank Anderson (MailChimp Services: Mar-Jun 2020)",
+    "donor_city": "Kamas",
+    "donor_state": "UT",
+    "geometry": "pct:87.00,23.01,8.50,1.18@p3",
+    "amount": "450.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Amt In-Kind' column and the 'Cash Amount' cell is a bare dash. This filing's promoted Column A (38,237.00) is the ledger's 'Gross Donations: Cash, Loaned, In-Kind', so in-kind IS inside the anchor and the row is published with in_kind=true. Its geometry is given explicitly because the record's frame cell is the CASH column. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "June 24, 2020",
+    "donor_raw": "Frank Anderson (Email List Management)",
+    "donor_city": "Kamas",
+    "donor_state": "UT",
+    "geometry": "pct:87.00,24.84,8.50,1.18@p3",
+    "amount": "575.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Amt In-Kind' column and the 'Cash Amount' cell is a bare dash. This filing's promoted Column A (38,237.00) is the ledger's 'Gross Donations: Cash, Loaned, In-Kind', so in-kind IS inside the anchor and the row is published with in_kind=true. Its geometry is given explicitly because the record's frame cell is the CASH column. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "June 24, 2020",
+    "donor_raw": "Don A. & Leslie C. Oldham",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "June 24, 2020",
+    "donor_raw": "Scott L. Dunn",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "date": "June 24, 2020",
+    "donor_raw": "Joann B. Cook",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "date": "June 25, 2020",
+    "donor_raw": "Lisa Shepherd: Website Redesign Services",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "geometry": "pct:87.00,32.08,8.50,1.23@p3",
+    "amount": "900.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Amt In-Kind' column and the 'Cash Amount' cell is a bare dash. This filing's promoted Column A (38,237.00) is the ledger's 'Gross Donations: Cash, Loaned, In-Kind', so in-kind IS inside the anchor and the row is published with in_kind=true. Its geometry is given explicitly because the record's frame cell is the CASH column. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "date": "June 25, 2020",
+    "donor_raw": "Mr. or Mrs. Richard S. Losee",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. the address cell is a rural route and box number; only the printed city/state are carried. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "date": "June 30, 2020",
+    "donor_raw": "Robert Armstrong",
+    "donor_city": "Chandler",
+    "donor_state": "AZ",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. out-of-state donor (Arizona). Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "15",
+    "page": 3,
+    "row": 16,
+    "date": "July 1, 2020",
+    "donor_raw": "Shepherd Grip & Lighting",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "geometry": "pct:87.00,39.38,8.50,1.17@p3",
+    "amount": "250.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Amt In-Kind' column and the 'Cash Amount' cell is a bare dash. This filing's promoted Column A (38,237.00) is the ledger's 'Gross Donations: Cash, Loaned, In-Kind', so in-kind IS inside the anchor and the row is published with in_kind=true. Its geometry is given explicitly because the record's frame cell is the CASH column. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 17,
+    "date": "July 1, 2020",
+    "donor_raw": "Shepherd Grip & Lighting",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "geometry": "pct:87.00,41.14,8.50,1.24@p3",
+    "amount": "75.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Amt In-Kind' column and the 'Cash Amount' cell is a bare dash. This filing's promoted Column A (38,237.00) is the ledger's 'Gross Donations: Cash, Loaned, In-Kind', so in-kind IS inside the anchor and the row is published with in_kind=true. Its geometry is given explicitly because the record's frame cell is the CASH column. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 18,
+    "date": "July 1, 2020",
+    "donor_raw": "Two Jack's Pizza",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "geometry": "pct:87.00,42.97,8.50,1.17@p3",
+    "amount": "97.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Amt In-Kind' column and the 'Cash Amount' cell is a bare dash. This filing's promoted Column A (38,237.00) is the ledger's 'Gross Donations: Cash, Loaned, In-Kind', so in-kind IS inside the anchor and the row is published with in_kind=true. Its geometry is given explicitly because the record's frame cell is the CASH column. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "18",
+    "page": 3,
+    "row": 19,
+    "date": "July 1, 2020",
+    "donor_raw": "Bennett Cookson",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "19",
+    "page": 3,
+    "row": 20,
+    "date": "July 16, 2002",
+    "donor_raw": "Michael Lawrence",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. THE PRINTED YEAR IS 2002, eighteen years before the cycle \u2014 well-formed but wrong on its face, and the rows around it are July 2020. Kept VERBATIM as printed and not corrected (needs_review=1); the address cell gives a mailing box with the city and state, and only city/state are carried. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "20",
+    "page": 3,
+    "row": 21,
+    "date": "July 20, 2020",
+    "donor_raw": "Skyler Beltran",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "21",
+    "page": 3,
+    "row": 23,
+    "date": "August 13, 2020",
+    "donor_raw": "Richard Jaussi",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "22",
+    "page": 3,
+    "row": 25,
+    "date": "September 11, 2020",
+    "donor_raw": "Utah Central Association of Realtors",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "23",
+    "page": 3,
+    "row": 26,
+    "date": "September 11, 2020",
+    "donor_raw": "Kyle & Kimberly Roberts",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "24",
+    "page": 3,
+    "row": 27,
+    "date": "September 14, 2020",
+    "donor_raw": "Mr. or Mrs. Richard S. Losee",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. second gift from the donor at row 13; the address cell is a rural route and box number, so only city/state are carried. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "25",
+    "page": 3,
+    "row": 28,
+    "date": "September 15, 2020",
+    "donor_raw": "Janene Lunt",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "26",
+    "page": 3,
+    "row": 29,
+    "date": "September 15, 2020",
+    "donor_raw": "Scot & Stacey Hazard",
+    "donor_city": "Eagle Mountain",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "27",
+    "page": 3,
+    "row": 30,
+    "date": "September 15, 2020",
+    "donor_raw": "Scott L. Dunn",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. second gift from the donor at row 10. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "28",
+    "page": 3,
+    "row": 31,
+    "date": "September 17, 2020",
+    "donor_raw": "Janene Lunt",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CASH row: the figure sits in the ledger's 'Cash Amount' column ('Amt In-Kind' is a bare dash), and it is inside both printed anchors \u2014 'Total Cash Donations 28,615.00' and the promoted 'Gross Donations 38,237.00'. second gift from the donor at row 28; LAST entry of the contribution side and the row-31 geometry proof, which rendered '$ 3,000.00'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "June 24, 2020",
+    "vendor_raw": "Sheperd Grip & Lighting",
+    "purpose": "Campaign HQ Lease: April 24, 2020 - June 24, 2020",
+    "geometry": "pct:86.50,12.77,8.50,1.36@p4",
+    "amount": "2050.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Expenditures In-Kind' column and the cash cell is a bare dash. The promoted Column A (37,182.65) is the ledger's 'Gross Expenditures', which the printed footer states as 27,560.65 cash + 9,622.00 in-kind, so in-kind IS inside the anchor. Explicit geometry given because the frame cell is the CASH column. the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that. The payee is spelled 'Sheperd' on this row and 'Shepherd' on rows 3/34/35 \u2014 the filer's own inconsistency, verbatim."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "June 24, 2020",
+    "vendor_raw": "Phil Shepherd",
+    "purpose": "Campaign Video & Equipment Services",
+    "geometry": "pct:86.50,14.71,8.50,1.36@p4",
+    "amount": "650.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Expenditures In-Kind' column and the cash cell is a bare dash. The promoted Column A (37,182.65) is the ledger's 'Gross Expenditures', which the printed footer states as 27,560.65 cash + 9,622.00 in-kind, so in-kind IS inside the anchor. Explicit geometry given because the frame cell is the CASH column. the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "June 24, 2020",
+    "vendor_raw": "Shepherd Grip & Lighting",
+    "purpose": "Facebook Ad shoots",
+    "geometry": "pct:86.50,16.66,8.50,1.35@p4",
+    "amount": "1250.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Expenditures In-Kind' column and the cash cell is a bare dash. The promoted Column A (37,182.65) is the ledger's 'Gross Expenditures', which the printed footer states as 27,560.65 cash + 9,622.00 in-kind, so in-kind IS inside the anchor. Explicit geometry given because the frame cell is the CASH column. the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "June 24, 2020",
+    "vendor_raw": "Lowell Nelson",
+    "purpose": "KTalk Radio Time",
+    "geometry": "pct:86.50,18.60,8.50,1.35@p4",
+    "amount": "50.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Expenditures In-Kind' column and the cash cell is a bare dash. The promoted Column A (37,182.65) is the ledger's 'Gross Expenditures', which the printed footer states as 27,560.65 cash + 9,622.00 in-kind, so in-kind IS inside the anchor. Explicit geometry given because the frame cell is the CASH column. the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "June 24, 2020",
+    "vendor_raw": "Sam Sakievich (Sakievich Co. LLC)",
+    "purpose": "Facebook Ad Layout Design",
+    "geometry": "pct:86.50,20.54,8.50,1.36@p4",
+    "amount": "275.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Expenditures In-Kind' column and the cash cell is a bare dash. The promoted Column A (37,182.65) is the ledger's 'Gross Expenditures', which the printed footer states as 27,560.65 cash + 9,622.00 in-kind, so in-kind IS inside the anchor. Explicit geometry given because the frame cell is the CASH column. the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that. The parenthetical here is part of the PAYEE (his company), and the purpose follows it \u2014 read from the content, not the punctuation alone."
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "June 24, 2020",
+    "vendor_raw": "Sam Sakievich (Sakievich Co. LLC)",
+    "purpose": "Facebook Ad Data Management",
+    "geometry": "pct:86.50,22.48,8.50,1.36@p4",
+    "amount": "3000.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Expenditures In-Kind' column and the cash cell is a bare dash. The promoted Column A (37,182.65) is the ledger's 'Gross Expenditures', which the printed footer states as 27,560.65 cash + 9,622.00 in-kind, so in-kind IS inside the anchor. Explicit geometry given because the frame cell is the CASH column. the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "June 24, 2020",
+    "vendor_raw": "Frank Anderson",
+    "purpose": "MailChimp Services: Mar-Jun 2020",
+    "geometry": "pct:86.50,24.43,8.50,1.35@p4",
+    "amount": "450.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Expenditures In-Kind' column and the cash cell is a bare dash. The promoted Column A (37,182.65) is the ledger's 'Gross Expenditures', which the printed footer states as 27,560.65 cash + 9,622.00 in-kind, so in-kind IS inside the anchor. Explicit geometry given because the frame cell is the CASH column. the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "June 24, 2020",
+    "vendor_raw": "Frank Anderson",
+    "purpose": "Email List Management",
+    "geometry": "pct:86.50,26.43,8.50,1.35@p4",
+    "amount": "575.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Expenditures In-Kind' column and the cash cell is a bare dash. The promoted Column A (37,182.65) is the ledger's 'Gross Expenditures', which the printed footer states as 27,560.65 cash + 9,622.00 in-kind, so in-kind IS inside the anchor. Explicit geometry given because the frame cell is the CASH column. the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "9",
+    "page": 4,
+    "row": 9,
+    "date": "June 24, 2020",
+    "vendor_raw": "Costco Gas",
+    "purpose": "Fuel to meet Utah County supporters and guide volunteers",
+    "amount": "31.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "10",
+    "page": 4,
+    "row": 10,
+    "date": "June 24, 2020",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Email Campaign",
+    "amount": "53.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "11",
+    "page": 4,
+    "row": 11,
+    "date": "June 25, 2020",
+    "vendor_raw": "Lisa Shepherd",
+    "purpose": "Reimburse first 100 Campaign Signs (larger size)",
+    "amount": "1205.27",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "12",
+    "page": 4,
+    "row": 12,
+    "date": "June 25, 2020",
+    "vendor_raw": "Lisa Shepherd",
+    "purpose": "Reimburse Campaign Sign Mounting Materials",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "13",
+    "page": 4,
+    "row": 13,
+    "date": "June 25, 2020",
+    "vendor_raw": "Lisa Shepherd",
+    "purpose": "Website Redesign Services",
+    "geometry": "pct:86.50,36.26,8.50,1.41@p4",
+    "amount": "900.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Expenditures In-Kind' column and the cash cell is a bare dash. The promoted Column A (37,182.65) is the ledger's 'Gross Expenditures', which the printed footer states as 27,560.65 cash + 9,622.00 in-kind, so in-kind IS inside the anchor. Explicit geometry given because the frame cell is the CASH column. the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "14",
+    "page": 4,
+    "row": 14,
+    "date": "June 25, 2020",
+    "vendor_raw": "Campaign Blip Billboards",
+    "purpose": "June 25-29, 2020",
+    "amount": "2536.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that. The purpose the filer printed is a DATE RANGE (the billboard flight), carried verbatim; the address column gives the vendor's URL."
+   },
+   {
+    "line_no": "15",
+    "page": 4,
+    "row": 15,
+    "date": "June 25, 2020",
+    "vendor_raw": "Campaign Facebook Ads",
+    "purpose": "June 20-25, 2020",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that. Purpose is the printed date range; address column gives the URL."
+   },
+   {
+    "line_no": "16",
+    "page": 4,
+    "row": 16,
+    "date": "June 25, 2020",
+    "vendor_raw": "SBD Printing",
+    "purpose": "Second 100 Campaign Signs (large)",
+    "amount": "1205.27",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "*** COLUMN ASSIGNED BY CONTENT (the ADDENDUM G3 class). *** The 'To/Name:Nature of Expense' cell on this row states only WHAT was bought and names no payee, while the 'Mailling Address' column names the business; the vendor is therefore taken from the address column and the whole name cell is carried as the purpose. The reading is recorded here rather than left to position."
+   },
+   {
+    "line_no": "17",
+    "page": 4,
+    "row": 17,
+    "date": "June 25, 2020",
+    "vendor_raw": "Savory Thai",
+    "purpose": "meals for volunteers",
+    "amount": "28.79",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "18",
+    "page": 4,
+    "row": 18,
+    "date": "June 26, 2020",
+    "vendor_raw": "Facebook Ads",
+    "purpose": "June 25-28, 2020",
+    "amount": "600.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "19",
+    "page": 4,
+    "row": 19,
+    "date": "June 27, 2020",
+    "vendor_raw": "Lowe's Hardware",
+    "purpose": "Large Sign Mounting Hardware (4 foot wooden poles & screws)",
+    "amount": "35.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "*** COLUMN ASSIGNED BY CONTENT (the ADDENDUM G3 class). *** The 'To/Name:Nature of Expense' cell on this row states only WHAT was bought and names no payee, while the 'Mailling Address' column names the business; the vendor is therefore taken from the address column and the whole name cell is carried as the purpose. The reading is recorded here rather than left to position."
+   },
+   {
+    "line_no": "20",
+    "page": 4,
+    "row": 20,
+    "date": "June 27, 2020",
+    "vendor_raw": "Savory Thai",
+    "purpose": "meals for volunteers",
+    "amount": "16.89",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "21",
+    "page": 4,
+    "row": 21,
+    "date": "June 27, 2020",
+    "vendor_raw": "Google Ad Services",
+    "amount": "221.68",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's combined 'To/Name:Nature of Expense' cell names the payee with no purpose separator, so the whole cell is the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "22",
+    "page": 4,
+    "row": 22,
+    "date": "June 30, 2020",
+    "vendor_raw": "www.simpletexting.com",
+    "purpose": "Text Messaging Campaign: June 15-30, 2020",
+    "amount": "625.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "*** COLUMN ASSIGNED BY CONTENT (the ADDENDUM G3 class). *** The 'To/Name:Nature of Expense' cell on this row states only WHAT was bought and names no payee, while the 'Mailling Address' column names the business; the vendor is therefore taken from the address column and the whole name cell is carried as the purpose. The reading is recorded here rather than left to position. Here the address column is the vendor's URL, which is what identifies the payee."
+   },
+   {
+    "line_no": "23",
+    "page": 4,
+    "row": 23,
+    "date": "June 30, 2020",
+    "vendor_raw": "Jeff Burningham",
+    "purpose": "Yard Sign \"H\" stakes, x100",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "24",
+    "page": 4,
+    "row": 24,
+    "date": "June 30, 2020",
+    "vendor_raw": "Keith Kuder",
+    "purpose": "Messaging, Marketing, & Web Services",
+    "amount": "1250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "25",
+    "page": 4,
+    "row": 25,
+    "date": "June 30, 2020",
+    "vendor_raw": "Leo Lines",
+    "purpose": "Sign Placement Coordination",
+    "amount": "475.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "26",
+    "page": 4,
+    "row": 26,
+    "date": "June 30, 2020",
+    "vendor_raw": "Danny Shepherd",
+    "purpose": "Website & Postcard Designs",
+    "amount": "350.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "27",
+    "page": 4,
+    "row": 27,
+    "date": "June 30, 2020",
+    "vendor_raw": "Jesse Shepherd",
+    "purpose": "Website & Postcard Designs",
+    "amount": "350.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "28",
+    "page": 4,
+    "row": 28,
+    "date": "June 30, 2020",
+    "vendor_raw": "Lisa Shepherd",
+    "purpose": "Campaign Manager 2020",
+    "amount": "5250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that. The largest cash expenditure on this sheet."
+   },
+   {
+    "line_no": "29",
+    "page": 4,
+    "row": 29,
+    "date": "June 30, 2020",
+    "vendor_raw": "Joey Smith",
+    "purpose": "Website Host",
+    "amount": "550.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "30",
+    "page": 4,
+    "row": 30,
+    "date": "June 30, 2020",
+    "vendor_raw": "Greg Fraizer",
+    "purpose": "Messaging Design",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "31",
+    "page": 4,
+    "row": 31,
+    "date": "June 30, 2020",
+    "vendor_raw": "Godaddy",
+    "purpose": "Website Address Renewed",
+    "amount": "6.42",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "32",
+    "page": 4,
+    "row": 33,
+    "date": "July 1, 2020",
+    "vendor_raw": "Facebook Ads",
+    "purpose": "June 29-30, 2020",
+    "amount": "454.32",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "33",
+    "page": 4,
+    "row": 34,
+    "date": "July 1, 2020",
+    "vendor_raw": "Shepherd Grip & Lighting",
+    "purpose": "Studio Parlor space for \"Thank You\" Social",
+    "geometry": "pct:86.50,77.34,8.50,1.35@p4",
+    "amount": "250.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Expenditures In-Kind' column and the cash cell is a bare dash. The promoted Column A (37,182.65) is the ledger's 'Gross Expenditures', which the printed footer states as 27,560.65 cash + 9,622.00 in-kind, so in-kind IS inside the anchor. Explicit geometry given because the frame cell is the CASH column. the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "34",
+    "page": 4,
+    "row": 35,
+    "date": "July 1, 2020",
+    "vendor_raw": "Shepherd Grip & Lighting",
+    "purpose": "Snacks, Water, Soda\u2019s for \"Thank You\" Social",
+    "geometry": "pct:86.50,79.28,8.50,1.36@p4",
+    "amount": "75.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Expenditures In-Kind' column and the cash cell is a bare dash. The promoted Column A (37,182.65) is the ledger's 'Gross Expenditures', which the printed footer states as 27,560.65 cash + 9,622.00 in-kind, so in-kind IS inside the anchor. Explicit geometry given because the frame cell is the CASH column. the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "35",
+    "page": 4,
+    "row": 36,
+    "date": "July 1, 2020",
+    "vendor_raw": "Two Jacks Pizza",
+    "purpose": "4 Extra-Large Pizzas for \"Thank You\" Social",
+    "geometry": "pct:86.50,81.22,8.50,1.36@p4",
+    "amount": "97.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND row: the figure sits in the ledger's own 'Expenditures In-Kind' column and the cash cell is a bare dash. The promoted Column A (37,182.65) is the ledger's 'Gross Expenditures', which the printed footer states as 27,560.65 cash + 9,622.00 in-kind, so in-kind IS inside the anchor. Explicit geometry given because the frame cell is the CASH column. the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "36",
+    "page": 4,
+    "row": 37,
+    "date": "July 12, 2020",
+    "vendor_raw": "Google Ad Services",
+    "amount": "222.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's combined 'To/Name:Nature of Expense' cell names the payee with no purpose separator, so the whole cell is the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "37",
+    "page": 4,
+    "row": 38,
+    "date": "July 13, 2020",
+    "vendor_raw": "Costco Gas",
+    "purpose": "Fuel to meet Utah County supporters and guide volunteers",
+    "amount": "28.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "38",
+    "page": 4,
+    "row": 39,
+    "date": "July 14, 2020",
+    "vendor_raw": "U.S. Post Office",
+    "purpose": "Postage for Donor & Volunteer Thank You Cards",
+    "amount": "22.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "*** COLUMN ASSIGNED BY CONTENT (the ADDENDUM G3 class). *** The 'To/Name:Nature of Expense' cell on this row states only WHAT was bought and names no payee, while the 'Mailling Address' column names the business; the vendor is therefore taken from the address column and the whole name cell is carried as the purpose. The reading is recorded here rather than left to position."
+   },
+   {
+    "line_no": "39",
+    "page": 4,
+    "row": 40,
+    "date": "July 14, 2020",
+    "vendor_raw": "Hallmark",
+    "purpose": "Donor & Volunteer Thank You Cards",
+    "amount": "10.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "*** COLUMN ASSIGNED BY CONTENT (the ADDENDUM G3 class). *** The 'To/Name:Nature of Expense' cell on this row states only WHAT was bought and names no payee, while the 'Mailling Address' column names the business; the vendor is therefore taken from the address column and the whole name cell is carried as the purpose. The reading is recorded here rather than left to position."
+   },
+   {
+    "line_no": "40",
+    "page": 4,
+    "row": 41,
+    "date": "July 15, 2020",
+    "vendor_raw": "www.gopshop.com",
+    "purpose": "Donor & Volunteer Thank You Gifts (x20 items)",
+    "amount": "46.79",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "*** COLUMN ASSIGNED BY CONTENT (the ADDENDUM G3 class). *** The 'To/Name:Nature of Expense' cell on this row states only WHAT was bought and names no payee, while the 'Mailling Address' column names the business; the vendor is therefore taken from the address column and the whole name cell is carried as the purpose. The reading is recorded here rather than left to position. LAST row of this sheet and the row-41 geometry proof, which rendered '$ 46.79'."
+   },
+   {
+    "line_no": "41",
+    "page": 5,
+    "row": 1,
+    "date": "July 20, 2020",
+    "vendor_raw": "Zoom Meeting Services",
+    "amount": "16.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's combined 'To/Name:Nature of Expense' cell names the payee with no purpose separator, so the whole cell is the vendor and `purpose` is honestly blank. FIRST entry of this sheet and the row-1 geometry proof, which rendered '$ 16.08'."
+   },
+   {
+    "line_no": "42",
+    "page": 5,
+    "row": 2,
+    "date": "July 21, 2020",
+    "vendor_raw": "Lisa Shepherd",
+    "purpose": "Reimburse Phone Campaign Fees",
+    "amount": "875.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "43",
+    "page": 5,
+    "row": 3,
+    "date": "July 24, 2020",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Email Campaign",
+    "amount": "53.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "44",
+    "page": 5,
+    "row": 4,
+    "date": "July 24, 2020",
+    "vendor_raw": "Costco Gas",
+    "purpose": "Fuel to meet Utah County supporters and guide volunteers",
+    "amount": "28.35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "45",
+    "page": 5,
+    "row": 5,
+    "date": "July 31, 2020",
+    "vendor_raw": "Sizzler",
+    "purpose": "Campaign Planning Lunch with Volunteers",
+    "amount": "20.71",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that. On this row the ledger prints NO in-kind cell at all (not even a dash) \u2014 an empty cell, not a nil mark."
+   },
+   {
+    "line_no": "46",
+    "page": 5,
+    "row": 7,
+    "date": "August 19, 2020",
+    "vendor_raw": "Zoom Meeting Services",
+    "amount": "16.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's combined 'To/Name:Nature of Expense' cell names the payee with no purpose separator, so the whole cell is the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "47",
+    "page": 5,
+    "row": 8,
+    "date": "August 21, 2020",
+    "vendor_raw": "Costco Gas",
+    "purpose": "Fuel to meet Utah County supporters and guide volunteers",
+    "amount": "39.49",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "48",
+    "page": 5,
+    "row": 9,
+    "date": "August 21, 2020",
+    "vendor_raw": "Sizzler",
+    "purpose": "Campaign Planning Lunch with Volunteers",
+    "amount": "20.71",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "49",
+    "page": 5,
+    "row": 10,
+    "date": "August 23, 2020",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Email Campaign",
+    "amount": "53.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "50",
+    "page": 5,
+    "row": 12,
+    "date": "September 3, 2020",
+    "vendor_raw": "Costco Gas",
+    "purpose": "Fuel to meet Utah County supporters and guide volunteers",
+    "amount": "34.15",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "51",
+    "page": 5,
+    "row": 13,
+    "date": "September 14, 2020",
+    "vendor_raw": "Sizzler",
+    "purpose": "Campaign Planning Lunch with Volunteers",
+    "amount": "39.18",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "52",
+    "page": 5,
+    "row": 14,
+    "date": "September 17, 2020",
+    "vendor_raw": "Fresh Market",
+    "purpose": "Lunch with Volunteers",
+    "amount": "7.78",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that. The address column gives only 'American Fork, UT 84003' \u2014 a city, no street."
+   },
+   {
+    "line_no": "53",
+    "page": 5,
+    "row": 15,
+    "date": "September 19, 2020",
+    "vendor_raw": "Costco Gas",
+    "purpose": "Fuel to meet Utah County supporters and guide volunteers",
+    "amount": "39.55",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "54",
+    "page": 5,
+    "row": 16,
+    "date": "September 19, 2020",
+    "vendor_raw": "Zoom Meeting Services",
+    "amount": "16.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's combined 'To/Name:Nature of Expense' cell names the payee with no purpose separator, so the whole cell is the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "55",
+    "page": 5,
+    "row": 17,
+    "date": "September 23, 2020",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Email Campaign",
+    "amount": "53.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "56",
+    "page": 5,
+    "row": 18,
+    "date": "September 30, 2020",
+    "vendor_raw": "Costco Gas",
+    "purpose": "Fuel to meet Utah County supporters and guide volunteers",
+    "amount": "28.35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "57",
+    "page": 5,
+    "row": 20,
+    "date": "October 7, 2020",
+    "vendor_raw": "Utah State Republican Party",
+    "purpose": "for post card printing, labeling, & postage fees",
+    "amount": "9030.68",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that. The largest expenditure on the filing."
+   },
+   {
+    "line_no": "58",
+    "page": 5,
+    "row": 21,
+    "date": "October 8, 2020",
+    "vendor_raw": "Savory Thai",
+    "purpose": "meals for volunteers",
+    "amount": "28.38",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "59",
+    "page": 5,
+    "row": 22,
+    "date": "October 9, 2020",
+    "vendor_raw": "Costco Gas",
+    "purpose": "Fuel to meet Utah County supporters and guide volunteers",
+    "amount": "37.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "60",
+    "page": 5,
+    "row": 23,
+    "date": "October 13, 2020",
+    "vendor_raw": "Lowes",
+    "purpose": "Rebars & ZipTies for large campaign Signs",
+    "amount": "119.30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "61",
+    "page": 5,
+    "row": 24,
+    "date": "October 17, 2020",
+    "vendor_raw": "Home Depot",
+    "purpose": "Rebars for large campaign Signs",
+    "amount": "77.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "62",
+    "page": 5,
+    "row": 25,
+    "date": "October 17, 2020",
+    "vendor_raw": "Costco Gas",
+    "purpose": "Placing Campaign Signs, Guide Volunteers",
+    "amount": "35.24",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "63",
+    "page": 5,
+    "row": 26,
+    "date": "October 20, 2020",
+    "vendor_raw": "Home Depot",
+    "purpose": "Rebars for large campaign Signs",
+    "amount": "65.83",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "64",
+    "page": 5,
+    "row": 27,
+    "date": "October 20, 2020",
+    "vendor_raw": "Zoom Meeting Services",
+    "amount": "16.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's combined 'To/Name:Nature of Expense' cell names the payee with no purpose separator, so the whole cell is the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "65",
+    "page": 5,
+    "row": 28,
+    "date": "October 23, 2020",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Email Campaign",
+    "amount": "53.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "66",
+    "page": 5,
+    "row": 29,
+    "date": "October 23, 2020",
+    "vendor_raw": "Costco Gas",
+    "purpose": "Fuel to meet Utah County supporters and guide volunteers",
+    "amount": "17.35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that."
+   },
+   {
+    "line_no": "67",
+    "page": 5,
+    "row": 30,
+    "date": "October 27, 2020",
+    "vendor_raw": "Savory Thai",
+    "purpose": "Thank You Meals for Volunteers",
+    "amount": "61.13",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'To/Name:Nature of Expense' column; the payee and the purpose are separated by the filer's own colon or trailing parenthetical, and the split follows that. LAST entry of the expenditure side and the row-30 geometry proof, which rendered '$ 61.13'."
+   }
+  ],
+  "notes": "legacy_colAB cover and SUMMARY PAGE ('FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES') with the filer's OWN typed landscape ledgers substituted for the county's Schedule A and Schedule B sheets (ADDENDUM A2/E5 class \u2014 the county FORM is missing for the schedules, the entries are not, so both sides are 'transcribed', never 'no-schedule-page'). 5 pages, each classified from its own printed header: p1 cover, p2 SUMMARY PAGE (foliated 'Page 2 of 5' \u2014 the usual p2 position for this variant, but located by its heading), p3 Schedule A, p4 Schedule B sheet 1, p5 Schedule B sheet 2. THIS IS A DIFFERENT REPORT FROM THE OTHER THREE SAKIEVICH FILINGS IN THIS CHUNK: the cover ticks 'Seven days preceding the General Election', the signature and Date of Report read 'OCTOBER 27, 2020', and the amendment question is ticked 'No'. Its line 3 'Balance at Beginning' prints 7,003.10 \u2014 which is what the June report's line 7 states \u2014 an observed chain recorded here, never used as a gate and never differenced. THE LEDGER GAINED TWO COLUMNS since June: Schedule A now prints Cash Amount / Amt Loaned / Amt In-Kind and Schedule B prints Expenditures in Cash / Expenditures In-Kind, and the in-kind rows are entered on BOTH sides (identical dates and amounts, 9,622.00 each), which is why both sides close only WITH in-kind. PAGE-FACE candidate 'Thomas V. Sakievich' vs channel label 'Tom Sakievich'; office is typed 'Utah County Commission' and hand-written again on the 'Office:' line, with NO SEAT LETTER, while index.csv carries 'County Commission Seat C' from the channel \u2014 the seat is NOT inferred. Political Party typed 'Republican'. REDACTION: only the signature block is blacked out by the county; every donor and vendor address is published in the clear and the reduction to city/state (contributions) and to nothing (expenditures) is applied by THIS transcription at read time. Schedule B prints ONE combined 'To/Name:Nature of Expense' column (ADDENDUM G3): payee and purpose are assigned BY CONTENT \u2014 the filer's own colon or trailing parenthetical where he uses one, the whole cell as the vendor where he names only a payee, and on SIX rows where the cell states only what was bought the payee is taken from the 'Mailling Address' column that names the business (SBD Printing, Lowe's Hardware, U.S. Post Office, Hallmark) or the vendor's URL (www.simpletexting.com, www.gopshop.com), each flagged in its own row note. One dated anomaly retained verbatim: a contribution dated 'July 16, 2002'. The channel labels this filing's reporting period 'General' while the page ticks 'Seven days preceding the General Election' \u2014 the page face governs and both are recorded."
+ }
+]

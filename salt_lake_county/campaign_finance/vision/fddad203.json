@@ -49,6 +49,52 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Typed/electronic form. The form TITLE reads \"2020 Financial Disclosure Report\" although this is the 2022-cycle year-end filing signed 01/30/23 (stale form template). Office Sought is printed with a leading underscore: \"_Assessor\"."
+  "notes": "Typed/electronic form. The form TITLE reads \"2020 Financial Disclosure Report\" although this is the 2022-cycle year-end filing signed 01/30/23 (stale form template). Office Sought is printed with a leading underscore: \"_Assessor\".",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "no Schedule A page exists in the document (2-page filing: cover + Summary Page only); Summary line 1 prints $0.00 (both columns) \u2014 matches the cached stated 0; nothing to itemize"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "no Schedule B page exists in the document; Summary line 2 prints $0.00 (both columns) \u2014 matches the cached stated 0; nothing to itemize"
+    }
+   },
+   "page_subtotal_gates": "n/a \u2014 no schedule pages in the document",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2-page filing: p1 cover, p2 Summary Page; no Schedule A or Schedule B page exists. Cover is the '2020 Financial Disclosure Report For a Candidate' form (form-year title 2020) filed for the 2022 cycle: YEAR-END REPORT 'January 31 of each year' box checked, amendment 'No' checked, e-signature timestamp 01/30/23 - 5:21 PM. Cover reads candidate 'Tyler Andrus', Office Sought 'Assessor', District Number 'Countywide', party 'Democrat' \u2014 index priors confirmed at the page. Summary: lines 1/2 $0.00 both columns; beginning and ending balance $1,264.01. Matches the audit prior and the cached stated totals."
+  }
  }
 }

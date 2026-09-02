@@ -1,0 +1,135 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-01-23",
+   "vendor_raw": "Ross Romero 4 Salt Lake County Council",
+   "purpose": "Campaign Contribution",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.60,23.53,76.18,3.68@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-03-05",
+   "vendor_raw": "Salt Lake County Democratic Party",
+   "purpose": "Snacks for HD 32 Caucus Night",
+   "amount": "125.73",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.60,27.21,76.18,3.68@p4"
+  }
+ ],
+ "total_contributions": "0",
+ "total_expenditures": "225.73",
+ "beginning_balance": "225.73",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "225.73"
+ },
+ "cover": {
+  "candidate": "ANN GRANATO",
+  "party": "DEMOCRAT",
+  "office_sought": "",
+  "district_number": "04",
+  "report_type": "Final / Dissolution Report \u2014 'For a Candidate' form",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2024-06-12",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Granato-Ann__88E73D3F.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Granato, Ann",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Granato-Ann__88E73D3F.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Form titled '2024 Financial Disclosure Report For a Candidate'; FINAL/DISSOLUTION box checked; neither amendment box checked; signature date 06/12/2024; clerk received stamp JUN 18 2024. Schedule B rows are TYPED (handwriting=0 prior confirmed). pp5-7 are the Other Campaign Accounts section: its Summary carries the SAME balance figures (3=225.73, 4=0, 5=225.73, 6=225.73, 7=0) with lines 1/2 blank in both columns, and its two itemized grid pages are wholly blank \u2014 recorded in page_map, not transcribed as county Schedule A/B activity. Office Sought cover cell blank (Office line reads 'SALT LAKE COUNTY COUNCIL'). Cover address/phone bar-redacted; no redaction on any itemized row (Schedule B has no address column).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "",
+     "itemized": "0",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A (p3) printed and wholly blank INCLUDING the subtotal and total cells \u2014 a real zero matching Summary line 1 Column A = 0 and line 4 = 0."
+    },
+    "expenditures": {
+     "stated": "225.73",
+     "schedule_total": "225.73",
+     "itemized": "225.73",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "rows 100.00+125.73 = 225.73 = Summary line 2 Column A = Schedule B TOTAL 225.73. The Schedule B page-SUBTOTAL cell is printed but left BLANK \u2014 gated on the grand total instead (\u00a75a)."
+    }
+   },
+   "page_subtotal_gates": "p4 SUBTOTAL FOR THIS PAGE cell printed but left BLANK \u2014 gated on TOTAL 225.73: rows 225.73 = printed TOTAL 225.73. p3 Schedule A blank, subtotal/total cells also blank.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Form titled '2024 Financial Disclosure Report For a Candidate'; FINAL/DISSOLUTION box checked; neither amendment box checked; signature date 06/12/2024; clerk received stamp JUN 18 2024. Schedule B rows are TYPED (handwriting=0 prior confirmed). pp5-7 are the Other Campaign Accounts section: its Summary carries the SAME balance figures (3=225.73, 4=0, 5=225.73, 6=225.73, 7=0) with lines 1/2 blank in both columns, and its two itemized grid pages are wholly blank \u2014 recorded in page_map, not transcribed as county Schedule A/B activity. Office Sought cover cell blank (Office line reads 'SALT LAKE COUNTY COUNCIL'). Cover address/phone bar-redacted; no redaction on any itemized row (Schedule B has no address column)."
+  }
+ }
+}

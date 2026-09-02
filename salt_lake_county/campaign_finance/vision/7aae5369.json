@@ -1,0 +1,98 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "-0-",
+ "total_expenditures": "-0-",
+ "beginning_balance": "110.21",
+ "ending_balance": "110.21",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "110.21"
+ },
+ "cover": {
+  "candidate": "JIM BRADLEY",
+  "party": "DEM",
+  "office_sought": "SALT LAKE COUNTY COUNCIL-C",
+  "district_number": "AT LARGE",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": "2016"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2016_disclosures__2016_year_end__jim-bradley_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "JIM BRADLEY",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2016_disclosures__2016_year_end__jim-bradley_redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "BOTH FLAGS VERIFIED, and the important one is settled in the filing's favour. (a) SIGNATURE DATE IS BLANK - the Date line beside the signature on the cover carries no writing at all. The document's only date evidence is the clerk RECEIVED stamp JAN 26 2017 (which matches index.csv's 2017-01-26) plus the printed 2016 form year; report_date is therefore honestly '' and was NOT filled from the stamp or the listing. (b) 2-PAGE FILING CONFIRMED: cover + Summary Page only, no schedules. BOTH pages were rendered and read in full, per the brief's instruction. This is the sides='none' case, and - critically - the Summary Page states ZERO on BOTH sides ('-0-' on lines 1, 2, 4 and 6), so the absent schedules conceal no money. It is NOT one of the documented no-schedule-page-against-a-non-zero-total gaps. (c) The Summary Page HEADER BOX is entirely blank (no page number, no last name, no Date of Report). (d) Column B (Aggregate Total) is BLANK on both lines 1 and 2 - the filer left it empty; recorded as '' (blank), never as zero. (e) The amendment question is answered: the 'No' box is checked (an X), the only filing in this chunk where either amendment box is marked. (f) The cover's address block and the phone/fax/email block are real BLACK REDACTION BARS (redacted at source). (g) Office line inside the form reads 'Salt Lake County Council-C' with District Number 'AT LARGE' - a county office, in scope, and consistent with the chunk file's 'County Council / At-Large C'.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "-0-",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "summary-line-1",
+     "result": "unknown",
+     "detail": "THE SIDE IS 'none' AND THE STATED TOTAL IS ZERO - so this is honest non-existence with NOTHING MISSING, not a gap. Both pages of the PDF were rendered and read: p1 is the cover and p2 the Summary Page, and there is no Schedule A page in the document. The brief's test was whether the Summary Page states a NON-ZERO total against a missing schedule; it does not. Summary line 1 Column A prints the glyph '-0-' and line 4 ('From Line 1 Column A') prints '-0-' as well. Per the repo-wide zero-glyph ruling a '-0-' DENOTES zero, so the filer states zero contributions this period and there is nothing a Schedule A could have itemized. No sum is claimed for the side because no schedule exists to sum."
+    },
+    "expenditures": {
+     "stated": "-0-",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "summary-line-2",
+     "result": "unknown",
+     "detail": "Same as the contributions side: no Schedule B page exists in the 2-page document, and the Summary states ZERO - line 2 Column A prints '-0-' and line 6 ('From Line 2 Column A') prints '-0-'. Honest non-existence against a stated zero, so no value is unaccounted for. No sum claimed."
+    }
+   },
+   "page_subtotal_gates": "Not applicable - the document contains no schedule page, so no SUBTOTAL FOR THIS PAGE line exists anywhere in it.",
+   "escalations": 0,
+   "escalation_note": "None needed - the page is a clean born-scan at 200 dpi with unambiguous figures, and the four '-0-' glyphs are large and clear.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BOTH FLAGS VERIFIED, and the important one is settled in the filing's favour. (a) SIGNATURE DATE IS BLANK - the Date line beside the signature on the cover carries no writing at all. The document's only date evidence is the clerk RECEIVED stamp JAN 26 2017 (which matches index.csv's 2017-01-26) plus the printed 2016 form year; report_date is therefore honestly '' and was NOT filled from the stamp or the listing. (b) 2-PAGE FILING CONFIRMED: cover + Summary Page only, no schedules. BOTH pages were rendered and read in full, per the brief's instruction. This is the sides='none' case, and - critically - the Summary Page states ZERO on BOTH sides ('-0-' on lines 1, 2, 4 and 6), so the absent schedules conceal no money. It is NOT one of the documented no-schedule-page-against-a-non-zero-total gaps. (c) The Summary Page HEADER BOX is entirely blank (no page number, no last name, no Date of Report). (d) Column B (Aggregate Total) is BLANK on both lines 1 and 2 - the filer left it empty; recorded as '' (blank), never as zero. (e) The amendment question is answered: the 'No' box is checked (an X), the only filing in this chunk where either amendment box is marked. (f) The cover's address block and the phone/fax/email block are real BLACK REDACTION BARS (redacted at source). (g) Office line inside the form reads 'Salt Lake County Council-C' with District Number 'AT LARGE' - a county office, in scope, and consistent with the chunk file's 'County Council / At-Large C'."
+  }
+ }
+}

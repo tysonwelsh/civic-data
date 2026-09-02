@@ -3,7 +3,10 @@
  "key": "7d1b8f22",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:20:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,170 @@
    "notes": "Handwritten in blue ink, block capitals. The filer writes cents as a raised superscript over the dollars ('2038' with a superscript '13'), transcribed here as 2038.13. STRUCK-THROUGH FIGURES on line 1: both Column A and Column B originally read a dash-zero-dash ('-0-') which the filer struck out and replaced with 2038.13 written above; the surviving value 2038.13 is what is transcribed. Lines 3 and 7 are written as a dash-flanked zero ('-0-'), an actually-written zero, transcribed as 0 at medium confidence. Office Seeking reads 'SURVEYOR' (index office 'County Surveyor' - naming convention, not a conflict). Page footer 'Page 1 of 3' although this is the 2nd page of the scanned PDF."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "2/14/14",
+   "donor_raw": "Gary Ratcliffe (self)",
+   "donor_city": "Springville",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.80,17.35,11.70,3.90@p3",
+   "geometry_frame": "p3 axis=y cell=81.80-93.50 rowband=17.35-21.25 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the candidate's own money, labelled '(self)' by the filer \u2014 NOT called a loan anywhere on the filing, and the ladder books it at line 1 CONTRIBUTIONS (line 3 beginning balance is a written zero), so it is an itemized contribution row on the same reasoning as ADDENDUM B \u00a7B3. Amount written '$500' with no cents. State written 'Ut.' and normalized to UT; PRIVACY: the street line printed in the address cell is deliberately not carried."
+  },
+  {
+   "line_no": "2",
+   "date": "3/14/14",
+   "donor_raw": "Gary Ratcliffe (self)",
+   "donor_city": "Springville",
+   "donor_state": "UT",
+   "amount": "682.19",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.80,21.25,11.70,3.84@p3",
+   "geometry_frame": "p3 axis=y cell=81.80-93.50 rowband=21.25-25.09 (2 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the name cell carries THREE DITTO MARKS (one under each of 'Gary', 'Ratcliffe' and '(self)') and the address cell carries ONE \u2014 the filer's own notation for 'same as above', so the values are carried from row 1 per \u00a77. Cents written as a raised superscript '19'."
+  },
+  {
+   "line_no": "3",
+   "date": "3/18/14",
+   "donor_raw": "Gary Ratcliffe (self)",
+   "donor_city": "Springville",
+   "donor_state": "UT",
+   "amount": "801.50",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.80,25.09,11.70,3.91@p3",
+   "geometry_frame": "p3 axis=y cell=81.80-93.50 rowband=25.09-29.00 (3 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "name and address are ditto marks repeating row 1; raised cents '50'"
+  },
+  {
+   "line_no": "4",
+   "date": "3/25/14",
+   "donor_raw": "Gary Ratcliffe (self)",
+   "donor_city": "Springville",
+   "donor_state": "UT",
+   "amount": "54.44",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.80,29.00,11.70,3.86@p3",
+   "geometry_frame": "p3 axis=y cell=81.80-93.50 rowband=29.00-32.86 (4 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "name and address are ditto marks repeating row 1; raised cents '44'. Last written row of Schedule A."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "2/14/14",
+   "vendor_raw": "BCR Political (contract)",
+   "purpose": "contract",
+   "amount": "500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.80,19.33,11.70,3.90@p4",
+   "geometry_frame": "p4 axis=y cell=81.80-93.50 rowband=19.33-23.23 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "THIS FILING'S SCHEDULE B IS ON THE OLDER (2012-vintage) SHEET \u2014 its payee column is headed 'Name of Contributor', not the 2014 blank's 'Purchased From/Source', and there is no Purpose column \u2014 but the filer wrote a purpose in PARENTHESES inside the payee cell on every row. vendor_raw keeps the cell verbatim and purpose repeats the parenthetical so the fact is not lost. Vendor city (Provo) not carried: expenditure rows have no address field."
+  },
+  {
+   "line_no": "2",
+   "date": "3/14/14",
+   "vendor_raw": "Ut. Co. Govt. (filing fee)",
+   "purpose": "filing fee",
+   "amount": "682.19",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.80,23.23,11.70,3.86@p4",
+   "geometry_frame": "p4 axis=y cell=81.80-93.50 rowband=23.23-27.09 (2 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "THE COUNTY FILING FEE, paid to Utah County government \u2014 a THIRD-PARTY CROSS-CHECK FIGURE for the 2014 cycle in the sense of ADDENDUM B \u00a7B5 (two unrelated 2012 filers both recorded 519.48 for the same fee). 682.19 is this filer's 2014 figure; it is offered as a corroboration signal for other 2014 filings, never as a source. Raised cents '19'."
+  },
+  {
+   "line_no": "3",
+   "date": "3/18/14",
+   "vendor_raw": "Printing (BCR Political)",
+   "purpose": "Printing",
+   "amount": "801.50",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.80,27.09,11.70,3.91@p4",
+   "geometry_frame": "p4 axis=y cell=81.80-93.50 rowband=27.09-31.00 (3 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer INVERTS his own convention on this row \u2014 the purpose is written first and the payee is the parenthetical \u2014 so vendor_raw keeps the cell verbatim and the purpose is read as 'Printing'. The payee is the same BCR Political as row 1. Raised cents '50'."
+  },
+  {
+   "line_no": "4",
+   "date": "3/25/14",
+   "vendor_raw": "Copies Plus (info. fliers)",
+   "purpose": "info. fliers",
+   "amount": "54.44",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.80,31.00,11.70,3.91@p4",
+   "geometry_frame": "p4 axis=y cell=81.80-93.50 rowband=31.00-34.91 (4 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "raised cents '44'; last written row of Schedule B"
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r3_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED = 2,038.13 on the p2 SUMMARY PAGE (written '2038' with a raised superscript '13', and restated at line 4 and line 5), which is also Schedule A's own printed 'Subtotal for this page $ 2038 \u00b9\u00b3' and its printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $ 2038 \u00b9\u00b3'",
+     "detail": "4 Schedule A rows sum to 500.00 + 682.19 + 801.50 + 54.44 = 2,038.13 exactly = the schedule's page subtotal = the schedule's own total = the cover's promoted per-period Column A cell. Column B 'Year-to-Date Total' also prints 2,038.13 \u2014 for this filer the per-period and cumulative figures coincide because this is his only money in the cycle, which removes any basis ambiguity rather than creating one. HANDWRITTEN CORRECTION OVER A STRUCK VALUE, and it governs: on the summary page BOTH line 1 cells and on Schedule A the 'Subtotal for this page' cell, the filer first entered a SLASHED ZERO and then wrote '2038 \u00b9\u00b3' above it and struck the zero through. The corrected figure is the one transcribed and the one the rows reconcile to; the struck zero is recorded here and not carried. The p2 ladder closes exactly: line 3 '-\u00d8-' (0 under the zero-glyph ruling) + line 4 2,038.13 = line 5 2,038.13; 2,038.13 - line 6 2,038.13 = line 7 '-\u00d8-' (0)."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE = 2,038.13 on the p2 SUMMARY PAGE (restated at line 6), which is also Schedule B's own printed 'Subtotal for this page $ 2038 \u00b9\u00b3' and its printed 'Total Expenditures Received (Sum of subtotals from all Schedule B pages) $ 2038 \u00b9\u00b3'",
+     "detail": "4 Schedule B rows sum to 500.00 + 682.19 + 801.50 + 54.44 = 2,038.13 exactly = both of the schedule's own printed footer figures = the cover's promoted per-period Column A cell = line 6. Neither Schedule B footer cell carries a struck-out zero (unlike Schedule A's subtotal). Column B 'Year-to-Date Total' also prints 2,038.13 and is not summed as an increment. \u26a0 THE TWO SIDES CARRY THE SAME FOUR AMOUNTS ON THE SAME FOUR DATES (500 / 682.19 / 801.50 / 54.44 on 2-14, 3-14, 3-18 and 3-25) and that is a real property of this filing, not a transposition: the candidate self-funded each expenditure with a matching same-day contribution from his own pocket, so the campaign opens and closes at zero. Both schedules were read independently, page by page, before the coincidence was noticed, and the two ledgers name entirely different counterparties."
+    }
+   },
+   "in_kind_convention": "monetary-only, closed at the first test on both sides \u2014 no in-kind column is printed on either schedule sheet, no row is marked in-kind, and the summary page prints no in-kind line, so both conventions give the same 2,038.13 on each side",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 4,
+   "geometry": {
+    "measured": 8,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "\u26a0 A NEW SOURCE PROPERTY WORTH CARRYING TO THE REST OF THE 2014 CYCLE: THIS FILING MIXES TWO FORM VINTAGES INSIDE ONE DOCUMENT. p1 (cover) and p2 (SUMMARY PAGE) are the 2014 blank \u2014 cover title '2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', summary subtitle '(NOTE: Complete this page after filling out Schedule A and Schedule B)'. But p3 and p4 are the OLDER (2012-era) schedule sheets: Schedule A's third column is headed 'Mailing Address & Zip Code' rather than the 2014 blank's 'Address, City & Zip', and Schedule B REUSES SCHEDULE A'S HEADINGS ('Name of Contributor' + 'Mailing Address & Zip Code') instead of printing the 2014 blank's 'Purchased From/Source' \u2014 which is exactly the 2012 quirk recorded in ADDENDUM B \u00a7B4. All three other 2014 filings read in this chunk (Buhman, Lee, Poulson) carry the 2014 headings on their schedules. So the 2014 cycle contains BOTH schedule templates, and a page's column headings must be read from the page, never assumed from the cover's year. This is the schedule-sheet companion to the `utah-template-vintage-year` trap and to Addendum A \u00a7A4's Poulson 2010 case. 4 pages: p1 cover, p2 SUMMARY PAGE (located by its printed heading), p3 SCHEDULE A, p4 SCHEDULE B. PAGE-FACE candidate 'GARY RATCLIFFE' (REPUBLICAN, Springville Utah), written in block capitals; office written simply 'SURVEYOR', compatible with and narrower than the channel's 'County Surveyor' \u2014 recorded, not adjudicated. index.csv names no candidate, so the page face supplies it. Report type ticked 'Seven days preceding the General Election'; amendment 'No' ticked; signed 10/28/14; the clerk's date-received box is EMPTY on this filing (no stamp), which is an honest blank, not a missed read. FOLIATION: 'Page 1 of 3' / '2 of 3' / '3 of 3' with 'RATCLIFFE' and '10/28/14' on each sheet \u2014 cover EXCLUDED, matching Buhman and Poulson and differing from Lee. HANDWRITING: blue ballpoint block capitals for names, cursive elsewhere; cents are consistently RAISED SUPERSCRIPTS over the dollar figure, on the summary page and on both schedules. A STRUCK-AND-CORRECTED ZERO appears in three cells (summary line 1 Column A, summary line 1 Column B, and Schedule A's page subtotal): the filer wrote a slashed zero, then wrote 2038 \u00b9\u00b3 above it and struck the zero through. Handwritten corrections over struck values govern, so 2,038.13 is transcribed and the ladder confirms it. PRIVACY: this filing is NOT redacted \u2014 the county published the candidate's own address block and every counterparty address in the clear; the reduction to city/state on contributions and the dropping of addresses on expenditures is mine at read time, per Addendum A \u00a7A5. A SELF-FUNDED CAMPAIGN: every dollar in came from the candidate and every dollar went out the same day, so line 3 and line 7 are both written zeros ('-\u00d8-') and the cycle nets to nothing."
+  }
+ }
 }

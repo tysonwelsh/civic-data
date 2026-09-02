@@ -3,7 +3,10 @@
  "key": "6e4d607a",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:18:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
@@ -55,5 +58,64 @@
    "notes": "Handwritten. NO DIGIT is written in lines 1 (both columns), 4 and 5 - the filer drew a plain horizontal DASH in each of those cells; a dash is not a zero, so those slots are '' (not '0'). Line 3 (Balance at Beginning) is genuinely EMPTY - no dash, no digit. Line 7 as written is 647.22 even though it is the same figure as line 6 expenditures with nothing on line 5 - a filer arithmetic inconsistency, transcribed verbatim and NOT corrected. Report-type: the 'Seven days preceding the General Election' box carries a clear handwritten check; the 'Seven days preceding the Primary Election' box a few lines above carries a faint smudge/partial mark that may be a scan artifact - only the General box is reported as checked (medium confidence). Neither amendment Yes nor No is checked, so is_amendment is ''. The summary page's own header boxes (Page, Last Name, Date of Report) were left blank; report_date is the cover signature date. Summary page prints the 2016 form year ('2016 County & Local School Board Candidates') in a 2018 filing - the filer reused an older summary sheet."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "15 Mar 2018",
+   "vendor_raw": "Utah County Auditor",
+   "amount": "647.22",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.5,16.4,15.5,4.6@p4",
+   "note": "the ONLY entry on the whole filing. Date written day-month-year in words ('15 Mar 2018'), this filer's habit, kept VERBATIM. The 'Mailing Address & Zip Code' column holds a real ADDRESS here (unlike this form's other filers, who put purposes in it), so there is no field inversion \u2014 but expenditure rows carry no address field in this schema, and no PURPOSE is printed anywhere on the form, so `purpose` is honestly blank because THE FIELD DOES NOT EXIST. OBSERVATION ONLY: the payee is the county's own Auditor and 647.22 is the same figure three separate 2016 Commission filers recorded paying the county (Voeks 3/11/16 to the 'Utah County Elections Office', Frost 3/17/16 to 'Utah County', Bowen 3/17/16 to the 'Utah County Clerk Filing Fee') \u2014 four payee names for one figure. Per addenda E1/F5 the filing fee is office- and cycle-specific and is NEVER used to settle a figure on another filing; nothing here was corroborated from it. Cents are RAISED and overflow the printed amount column; escalated to 1200 dpi and read '$ 647 . 22'."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "unknown",
+     "anchor": "NO PUBLISHED FIGURE EXISTS FOR THIS SIDE. Schedule A's own 'Subtotal for this page' and 'Total Contributions Received' lines are both BLANK, and on the p2 SUMMARY PAGE line 1 Column A, line 1 Column B, line 4 and line 5 are each a PLAIN HORIZONTAL DASH \u2014 a bare dash is a nil mark, not a numeral, so under the ZERO-GLYPH RULING every one of them stays BLANK and none of them is a zero.",
+     "detail": "ZERO ROWS, AND NO ANCHOR TO TEST THEM AGAINST \u2014 recorded as `unknown` rather than manufactured. Schedule A (p3) is a printed 16-row four-column grid with NOT ONE mark anywhere on it: no entry, no 'None' banner, no void stroke, and no figure on either printed footer. The side's state is therefore `empty-schedule` \u2014 the page exists and the filer entered nothing \u2014 and NOT `withheld` (nothing was unreadable) and NOT `no-schedule-page` (the sheet is present and headed SCHEDULE A). \u26a0 THE \u00a7A3 BLANK-COVER RECOVERY IS UNAVAILABLE HERE, which is the \u00a7B2 limit exactly: A3 says a blank Column A can be recovered from summary lines 4 and 6, but on this cover lines 4 AND 5 are themselves bare dashes, so there is nothing to lean on. Line 3 (Balance at Beginning) is left wholly EMPTY. Nothing was differenced across covers and no figure was synthesised: the honest statement is that the filer reported no contribution entries and stated no contribution total. Note the module's own cover tranche already publishes a BLANK stated_total_contributions for this filing, for the same reason."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (647.22) on the p2 SUMMARY PAGE, repeated at line 6 and at line 7. \u26a0 Schedule B's OWN two printed footers are BLANK on this filing \u2014 crop-verified \u2014 so the cover is the ONLY printed anchor for this side and the usual three-anchor agreement does not exist.",
+     "detail": "The single Schedule B row is 647.22, which equals the cover's PROMOTED per-period Column A cell exactly. The amount was escalated to a 1200 dpi tight crop and read '$ 647 . 22' with the cents raised. Column B Year-to-Date prints the SAME 647.22 and was NOT summed as an increment \u2014 consistent with this being the filer's first report of the 2018 cycle. \u26a0 THE COVER'S OWN LADDER DOES NOT CLOSE, and it is transcribed, not adjudicated: line 3 is empty, lines 4 and 5 are bare dashes, line 6 is 647.22 and line 7 'Balance at Close (Subtract Line 6 from Line 5)' is written 647.22 UNSIGNED, where the form's own formula gives a negative. This is the SAME unsigned-negative habit this filer showed across her 2016 cycle (de1c36cb line 7, carried forward into 950f13c0 line 3) \u2014 a stable property of this filer's hand, recorded as an observation and corrected nowhere. Both facts leave the itemized side untouched: one row, one anchor, exact."
+    }
+   },
+   "in_kind_convention": "not applicable / both conventions identical \u2014 no in-kind column is printed on either schedule, the single expenditure row is not marked in-kind, the contribution side has no rows, and the summary page carries no in-kind line, so monetary-only and monetary-plus-in-kind both give 647.22. Tested, not inherited.",
+   "escalations": 4,
+   "escalation_note": "4 crops. TWO at 1200 dpi on Schedule B \u2014 the single amount cell and the mandatory one-past control \u2014 plus a WIDENED re-crop of that same cell after the first one clipped the filer's raised cents where they overflow the printed column (the widened box rendered '$ 647 . 22' complete and is stored as the row's own geometry). TWO at 400 dpi over the printed footer blocks of Schedule A and Schedule B, which established that all four 'Subtotal'/'Total' lines on this filing are EMPTY \u2014 the evidence for the `unknown` contribution verdict and for the cover being the expenditure side's only anchor. No figure was changed by any escalation.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 0,
+    "explicit": 1,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "\u26a0 THE TEMPLATE-VINTAGE TRAP, LIVE AND UNMISTAKABLE \u2014 this is a 2018 filing whose INNER SHEETS are printed '2016 County & Local School Board Candidates'. The cover carries no year at all ('FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13, HEART of UTAH letterhead, 'County & Local School Board Candidates' down the left margin), and pp2-4 are strap-lined with the 2016 vintage. THE PRINTED YEAR IS THE BLANK'S VINTAGE, NOT THE CYCLE: the filing is signed 29 Oct 2018, its only itemized date is 15 Mar 2018, the clerk's received stamp reads OCT 29, and the office sought is County Commissioner Seat B, which is a 2018 contest. The year is NOT reclassified and this is NOT a bound-in prior report (`utah-template-vintage-year`, CHUNK_BRIEF \u00a75). \u26a0 AND THE STOCK IS TRACEABLE: these inner sheets are the SAME print run as R. Nathan Ivie's 11/1/2016 filing (68f90974) \u2014 identical '2016 County & Local School Board CandidateS' strapline and identical Schedule B column heading 'Name/Nature of Expenditure' \u2014 which is direct evidence that leftover 2016 sheets were still being handed out in 2018. Across this chunk the 2016 stock now shows TWO cover blanks, THREE inner-sheet straplines and THREE Schedule-B column vocabularies, mixed freely within one seat, within one filer's own cycle, and now across cycles. Read the headings off every page and never date a filing from them. 2018 FORM CHARACTERISATION (from this, the cycle's first filing read): variant `legacy_colAB`, four pages \u2014 p1 cover, p2 SUMMARY PAGE (lines 1-7, Column A 'Total this Period' / Column B 'Year-to-Date Total'), p3 SCHEDULE A, p4 SCHEDULE B \u2014 each located and classified by its OWN printed heading. The schedules are the UNDERLINE form: 17 per-column underlines = 16 data rows, four columns, text ABOVE its rule, and TWO printed footers per side ('Subtotal for this page' and 'Total \u2026'), BOTH of which this filer left blank. NO PURPOSE COLUMN, as in every 2016 variant. Whether 2018 also circulates genuinely 2018-dated sheets is NOT established by this filing and should be read off each page of the remaining twenty 2018 filings. FOLIATION: the Page __ of __ / Last Name / Date of Report block is printed on pp2-4 and left WHOLLY BLANK on all three \u2014 the same practice this filer used on both her 2016 filings. Page ordinals locate nothing here. PAGE-FACE NAME 'Jeanne Bowen' (Office Seeking 'Utah County Commissioner Seat B', party written lower-case 'democrat', residence Provo UT); index.csv names NO candidate for this row, so the page face supplies it. She is the same filer as 2016 keys de1c36cb and 950f13c0, where she sought Seat C \u2014 a genuine change of seat between cycles, printed on both covers, not an inference. \u26a0 TWO REPORT-TYPE BOXES CARRY MARKS: 'Seven days preceding the Primary Election' has a small mark and 'Seven days preceding the General Election' carries a clear tick. The filer's own inconsistency is transcribed, NOT adjudicated. The AMENDMENT QUESTION IS AGAIN LEFT WHOLLY UNANSWERED \u2014 neither Yes nor No \u2014 an honest BLANK (addendum A4) and this filer's settled practice on all three of her filings in this chunk. PRIVACY: not a redacted file; the filer's residence street line is on the cover and the single vendor's street address is on Schedule B. Neither was carried \u2014 expenditure rows hold no address field, and nothing but city/state would ever be carried on a contribution row. Row-index traps: the \u00a7A1 first-entry control and the \u00a7B5 one-past control both passed on Schedule B, and Schedule A is wholly unmarked, so none of the five mechanisms of addendum F1 occurs here."
+  }
+ }
 }

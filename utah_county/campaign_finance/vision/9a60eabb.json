@@ -3,7 +3,10 @@
  "key": "9a60eabb",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:05:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,95 @@
    "notes": "Born-digital typed fillable form; not handwritten. The Office field prints just 'Sheriff' (index.csv says 'County Sheriff' - a naming-convention difference, not a conflict). NEITHER amendment radio button (No / Yes) is marked, so is_amendment is left '' rather than assumed 'No'. Street address block and signature are redacted upstream by the county (black bars) - no residence city survives. This form labels the close box 'G'; the key 'balance_at_close' is kept to match the reference cache shape. Box B is a written '0' (a real zero, not a blank cell). Box C prints '15,228' with no cents."
   }
  ],
- "notes": "index.csv variant_guess was legacy_colAB; the filing is in fact the modern Box A-F form (Josh Daniels Clerk/Auditor letterhead), with no printed version string in the footer."
+ "notes": "index.csv variant_guess was legacy_colAB; the filing is in fact the modern Box A-F form (Josh Daniels Clerk/Auditor letterhead), with no printed version string in the footer.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "12/7/22",
+   "vendor_raw": "Meta",
+   "purpose": "advertising",
+   "amount": "195.34",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:74.60,14.73,13.80,4.27@p3",
+   "geometry_frame": "p3 axis=y cell=74.60-88.40 rowband=14.73-19.00 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "dated the SAME DAY as the report itself (report date 12/7/2022). Transcribed as printed, not adjudicated. This filer bought the same service under the name 'facebook' on his earlier 2022 filings and under 'Meta' here \u2014 kept verbatim, never normalised."
+  },
+  {
+   "line_no": "2",
+   "date": "11/1/22",
+   "vendor_raw": "Campaign Partner",
+   "purpose": "web service",
+   "amount": "52",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:74.60,19.00,13.80,4.30@p3",
+   "geometry_frame": "p3 axis=y cell=74.60-88.40 rowband=19.00-23.30 (2 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "amount printed as a bare '52' with no cents; carried as printed. OUT OF DATE SEQUENCE \u2014 this row is dated before row 1."
+  },
+  {
+   "line_no": "3",
+   "date": "12/3/22",
+   "vendor_raw": "campaign partner",
+   "purpose": "web service",
+   "amount": "52",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:74.60,23.30,13.80,4.29@p3",
+   "geometry_frame": "p3 axis=y cell=74.60-88.40 rowband=23.30-27.59 (3 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the SAME vendor as row 2 spelled in lower case by the filer \u2014 both kept verbatim, neither normalised to the other. Bare '52', no cents printed. Last transcribed row; the following twelve printed rows are empty (crop-proved)."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r10_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' on the p4 Summary Page, a typed bare '0'; corroborated by Schedule A's OWN two printed footers, 'Subtotal for this page $ 0' and 'Total Contributions Received (Sum of all Schedule A Pages in this report) $ 0'",
+     "detail": "The Schedule A page EXISTS at p2 and is wholly unmarked: all fifteen printed rows are blank across all five columns (Date / Name of Contributor / City and State / Amount / In-Kind) and no In-Kind box is ticked. Zero rows sum to 0.00 = all three printed figures, each a TYPED numeral '0' (not a dash, not an empty cell), which denotes zero under the repo zero-glyph ruling. This is a real absence of entries \u2014 empty-schedule \u2014 not an unread side. Box C 'Contributions Received Year to Date' prints 15,228 and is CUMULATIVE: never summed as an increment."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' (299.34) on the p4 Summary Page, which is also Schedule B's own printed 'Subtotal for this page' (299.34) AND its printed 'Total Expenditures Made \u2014 Sum of all Schedule B Pages in this report' (299.34)",
+     "detail": "The 3 Schedule B rows on p3 sum to 195.34 + 52 + 52 = 299.34 exactly, equal to all three printed figures; the page-subtotal gate and the sum-of-all-pages gate coincide because Schedule B is a single sheet. Box E 'Expenditures Made Year to Date' prints 14,828.66 and is CUMULATIVE \u2014 never summed. The summary ladder is internally consistent: Box F 698.68 = Box A 698.68 + Box B 0, and Box G 399.34 = Box F 698.68 \u2212 Box D 299.34."
+    }
+   },
+   "in_kind_convention": "monetary-only, and the expenditure side closes on it exactly (299.34). BOTH conventions were tested and are IDENTICAL here because no in-kind is claimed: this is the NEWER unversioned 2022 blank, which carries an 'In-Kind' checkbox column on both schedules, and per ADDENDUM J1 the Amount and In-Kind cells were cropped TOGETHER AS ONE BLOCK so the pairing is read from a single image rather than by vertical position. All three Schedule B checkboxes render EMPTY beside their own amounts, and the wholly-empty Schedule A's fifteen boxes are empty too.",
+   "escalations": 2,
+   "escalation_note": "(1) Schedule B rows 1-3, Amount + In-Kind cropped as ONE block at 900 dpi: rendered 195.34 / 52 / 52 with three EMPTY checkboxes. (2) the one-past-the-end control at 1200 dpi (see the frame measure_note). No figure was in doubt \u2014 this PDF is born-digital with 0.0 degrees of skew and the figures are machine type \u2014 and nothing was changed.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 3,
+   "geometry": {
+    "measured": 3,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Hyrum Cox, page-face office 'Sheriff' (index.csv says 'County Sheriff' \u2014 same office, naming convention only; the page face governs), report type '30 Days after the General Election', report date and Date of Filing both 12/7/2022. Page-face name agrees with index.csv.\n\nAMENDMENT QUESTION WHOLLY UNANSWERED: NEITHER the 'No' nor the 'Yes' box is ticked. That is an honest BLANK and is never read as 'No' (ADDENDUM A4 / J5) \u2014 note the same filer DID tick 'No' on both of his earlier 2022 filings.\n\nFORM: modern_boxAF on the NEWER UNVERSIONED 2022 blank (no version string in the footer), the same blank as his 5/9/2022 filing and NOT the v. 4.20 blank he used on 4/1/2022. Discriminators read off the page: Schedule A headed Date / Name of Contributor / 'City and State' / Amount / an 'In-Kind' checkbox column; close box LETTERED 'G'; SIX report types on the cover including End-of-Year; a 'Date of Filing' box; no Page field anywhere, so the filing is UNFOLIATED.\n\nFOUR PAGES, ALL FOUR REPORT SHEETS, AND NO CHECKLIST: p1 cover / p2 Schedule A (blank) / p3 Schedule B / p4 SUMMARY PAGE. Every page classified from its own printed header. There is no checklist page and no blank verso in this filing \u2014 which completes the chunk's picture of the decoy: of this filer's three filings here, one binds a checklist at p7, one at p5, and this one binds none.\n\nBORN-DIGITAL, NOT A SCAN: rowbands.py measures 0.0 skew on every page and all six vertical rules resolve cleanly. index.csv records format='scanned' for this filing; the page itself is a native render of the fillable PDF (the redaction bars over the address block and the signature were applied digitally). Recorded as an observation about the index's format column, not a correction \u2014 this record edits nothing.\n\nCONTRIBUTIONS ARE AN HONEST ZERO, NOT AN UNREAD SIDE \u2014 the Schedule A page exists and the filer entered nothing on it.\n\nCROSS-FILING OBSERVATION, NOT A GATE (no two covers were differenced): Box A 698.68 does NOT continue from his 5/9/2022 filing's closing 713.23, and Box C 15,228 / Box E 14,828.66 are far above that filing's 10,778.00 / 10,064.77. The explanation is on the index, not in these documents: a FOURTH Cox 2022 filing exists \u2014 raw/2022/2022_Cox_Hyrum_11.1.22.pdf, reporting period 'General' \u2014 which is not in this chunk and covers the intervening period. Nothing here is a gap.\n\nCORRELATED-ERROR SCREEN, COMPLETED FOR THE CHUNK'S ONE DELTA: this filing's expenditure side closes EXACTLY, as does 5/9/2022's, so the +0.01 recorded on 4/1/2022 (966dbc38) is a ONE-OFF slip, NOT a repeated filer habit \u2014 it is not the weber 'same +$40.00 on two filings' pattern. Screen result: not correlated.\n\nPRIVACY: the cover's address block and signature are county redaction bars; no street line exists to carry, and the contribution side has no rows."
+  }
+ }
 }

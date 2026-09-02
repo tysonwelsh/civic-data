@@ -1,0 +1,479 @@
+[
+ {
+  "index_path": "raw/2014/2014_PostPrimary-Grierson.pdf",
+  "key": "a23cc40d",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_02)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "4",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "delta",
+    "anchor": "the p2 Summary Page line 1 'TOTAL CONTRIBUTIONS RECEIVED' Column A 'Total this Period' (12,572.62, typed), which is also the printed grand total at the foot of the p4 'Campaign Donations' ledger (12,572.62)",
+    "detail": "4 transcribed rows sum to 155.00 + 131.31 + 500.00 + 11,000.00 = 11,786.31, against a printed anchor of 12,572.62 — a DELTA of -786.31 (the filer's total EXCEEDS his own rows). TRACED, UNIQUELY, AND NOT NUDGED: the ledger prints its own SUBTOTAL of 786.31 on the line between row 3 and the loan row, and 155.00 + 131.31 + 500.00 = 786.31 exactly, so that subtotal is the sum of the three rows above it. The printed grand total is 786.31 + 786.31 + 11,000.00 = 12,572.62 — i.e. the filer's SUM range INCLUDED ITS OWN SUBTOTAL LINE, double-counting the three donor rows. The attribution is unique because 786.31 is simultaneously (a) the printed subtotal, (b) the exact sum of rows 1-3, and (c) the exact size of the delta; no other cell on the page carries that figure. This is a NEW SUB-CLASS of the §D5 spreadsheet sum defect: not a range that starts or ends one line off, but a range that swallows an intermediate subtotal. The filer's arithmetic is retained verbatim as a fact about the document. Column B 'Year-to-Date Total' (52,515.93, handwritten) is cycle-scoped and was never summed as an increment; the 12,572.62 anchor is the PER-PERIOD cell as the utah regime requires."
+   },
+   "expenditures": {
+    "result": "delta",
+    "anchor": "the p2 Summary Page line 2 'TOTAL EXPENDITURES MADE' Column A 'Total this Period' (15,311.53, typed), which is also the printed grand total at the foot of the p3 'Campaign Expenses 2014 30 Days after Primary' ledger (15,311.53, crop-verified at 900 dpi)",
+    "detail": "18 transcribed rows sum to 16,313.11, against a printed anchor of 15,311.53 — a DELTA of +1,001.58 (the rows EXCEED the filer's printed total). TRACED, UNIQUELY, AND NOT NUDGED. All 18 amounts were re-read at 700 dpi and every one confirmed, and the row count was independently confirmed by the text-band scan (20 bands = header + 18 rows + total), so no row is missing and none is misread. An EXHAUSTIVE search over all 262,143 non-empty subsets of the 18 row amounts found EXACTLY ONE that sums to 1,001.58: rows 1, 2, 4 and 5 (291.45 + 174.70 + 40.01 + 495.42). The printed total is therefore the sum of the other fourteen rows. Those four rows are marked out on the page: their amount cells carry a literal '$' glyph and their Address cells are pasted CREDIT-CARD STATEMENT DESCRIPTORS ('WINCO FOO ... 06/13', 'THE HOME DEPOT ... 06/16') rather than typed addresses — the signature of cells pasted in as TEXT, which a spreadsheet SUM skips silently. (Row 18 also shows a '$' and IS inside the total, so the glyph alone does not predict exclusion; the subset search, not the glyph, is what settles it.) This is a further SUB-CLASS of the §D5 spreadsheet sum defect. Per §C5 the delta is retained verbatim with the omitted rows named, and no figure was adjusted. CORRELATED-ERROR SCREEN: not run across filings, because doing so would require differencing this filer's other covers, which the regime forbids; the attribution here is already unique inside this one document. Column B 'Year-to-Date Total' (54,863.96, handwritten) is cycle-scoped and was never summed as an increment."
+   }
+  },
+  "in_kind_convention": "monetary-only closed (as far as any convention can close here). Neither of the filer's own ledgers has an in-kind column, line or annotation, and the cover states single undivided figures with no separate in-kind line, so the monetary-only and monetary-plus-in-kind conventions give IDENTICAL sums on both sides (11,786.31 and 16,313.11) and neither convention can account for either delta. Both were tested; the deltas are spreadsheet-sum artefacts, not an in-kind treatment.",
+  "escalations": 2,
+  "escalation_note": "Two escalations, both raised because a side did not close, and both resolving LEGIBILITY only — the arithmetic did the deciding. (1) The whole p3 amount column plus its Vender and Address columns re-rendered at 700 dpi (pct:70,14,22,32@p3): all 18 amounts confirmed exactly as read at 200 dpi (291.45 / 174.70 / 148.00 / 40.01 / 495.42 / 110.00 / 1,000.00 / 20.00 / 341.34 / 802.47 / 176.07 / 850.00 / 50.33 / 100.00 / 1,875.00 / 7,057.00 / 101.70 / 2,679.62), so the +1,001.58 delta is NOT a misread; the same crop is what revealed that rows 1/2/4/5 carry a literal '$' and pasted statement-descriptor addresses. (2) The p3 printed grand total re-rendered at 900 dpi (pct:70,40,25,8@p3) and confirmed as 15,311.53, matching the cover's typed Column A. Neither escalation changed a value. Separately, the cover's line 3 'Balance at Beginning of Reporting Period' reads '2559.0' with its final character COVERED BY THE FORM'S OWN PRINTED BLACK ARROW; the filer's ladder recovers it uniquely as 2,559.61 (line 5 55,075.54 minus line 4 52,515.93), but it is a COVER cell that this itemized layer does not gate on, so it was left unrepaired and is reported rather than promoted.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     76.0,
+     90.0
+    ],
+    "cells": [
+     [
+      7.8,
+      15.9
+     ],
+     [
+      18.1,
+      35.3
+     ],
+     [
+      37.4,
+      73.1
+     ],
+     [
+      76.0,
+      90.0
+     ]
+    ],
+    "rows": [
+     [
+      16.95,
+      17.77
+     ],
+     [
+      19.14,
+      19.96
+     ],
+     [
+      20.68,
+      21.54
+     ],
+     [
+      22.27,
+      23.04
+     ],
+     [
+      23.82,
+      24.59
+     ],
+     [
+      25.32,
+      26.14
+     ],
+     [
+      26.86,
+      27.68
+     ],
+     [
+      28.41,
+      29.23
+     ],
+     [
+      29.95,
+      30.77
+     ],
+     [
+      31.5,
+      32.32
+     ],
+     [
+      33.04,
+      33.86
+     ],
+     [
+      34.59,
+      35.41
+     ],
+     [
+      36.14,
+      36.96
+     ],
+     [
+      37.68,
+      38.5
+     ],
+     [
+      39.23,
+      40.05
+     ],
+     [
+      40.77,
+      41.59
+     ],
+     [
+      42.32,
+      43.14
+     ],
+     [
+      43.86,
+      44.68
+     ]
+    ],
+    "measure_note": "⚠ THIS PAGE IS THE EXPENDITURE LEDGER, NOT SCHEDULE A — see the record's notes: the schedules are BOUND IN REVERSE (§F3). It is the filer's own typed sheet headed 'Campaign Expenses 2014   30 Days after Primary' with his own column heads Date / 'Vender' / Address / Amount, so rowbands.py returns ZERO printed rules (skew -0.1) and the §6 underline-grid method is inapplicable. RECOVERY per §A2: `rowbands.py <pdf> 3 --text-lines --col 76,90` restricted to the amount column returns 20 text bands = the printed 'Amount' HEADER (14.60-15.83) + 18 DATA ROWS + the printed grand total (47.41-48.23). The 18 middle bands are stored, one per printed ledger row; the band scan is also the independent evidence that the ledger has exactly 18 rows and that the +1,001.58 delta is not a missing row. `cells` are read off the printed column heads from the render and are APPROXIMATE provenance only; `cell` is the band proved by crop. PROOF CROPS at 1200 dpi and what they ACTUALLY RENDERED: (first row) pct:76,16.95,14,0.82@p3 --value rendered '$291.45' — the recorded row 1. (last row) pct:76,43.86,14,0.82@p3 --value rendered '$2,679.62' — the recorded row 18. (§B5 one-past control) pct:76,45.63,14,0.82@p3 --value, one pitch below the last row, rendered a completely EMPTY cell — so the bands are not off by one AND §F1 trap 5 is screened negative; the printed total lies further down at 47.41 with clear white space between."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     76.0,
+     90.0
+    ],
+    "cells": [
+     [
+      7.8,
+      14.9
+     ],
+     [
+      16.7,
+      23.0
+     ],
+     [
+      24.6,
+      46.0
+     ],
+     [
+      49.1,
+      55.3
+     ],
+     [
+      58.8,
+      63.1
+     ],
+     [
+      70.6,
+      75.7
+     ],
+     [
+      78.3,
+      86.1
+     ]
+    ],
+    "rows": [
+     [
+      17.95,
+      18.86
+     ],
+     [
+      19.82,
+      20.73
+     ],
+     [
+      21.64,
+      22.55
+     ],
+     [
+      25.32,
+      26.23
+     ],
+     [
+      27.14,
+      28.05
+     ]
+    ],
+    "measure_note": "⚠ THIS PAGE IS THE CONTRIBUTION LEDGER, NOT SCHEDULE B (§F3 reverse binding). The filer's own typed sheet headed 'Campaign Donations   30 days after Primary', with SEVEN of his own columns (Name / Last / Street / City / State / Zip / Amount) and no printed rules (skew 0.0). RECOVERY per §A2: `--text-lines --col 76,90` returns 7 text bands = the 'Amount' HEADER (16.32-17.00), 3 DONOR ROWS, the filer's own printed SUBTOTAL 786.31 (25.32-26.23), the LOAN row (27.14-28.05), and the printed grand total 12,572.62 (30.82-31.68). ⚠ FIVE bands are stored as `rows`, not four: THE FILER'S OWN SUBTOTAL LINE OCCUPIES PRINTED LINE 4 AND CONSUMES THE INDEX, exactly like the banner line of §E3 and the voided row of §C4 — it publishes NO row (it is an annotation, not an entry) but the loan therefore sits on printed line 5, and a transcriber who indexed by entry order would record it as row 4. Add it to the §F1 list: a filer's own intermediate SUBTOTAL is a sixth way a row index can be wrong while the grid looks fine. PROOF CROPS at 1200 dpi and what they ACTUALLY RENDERED, and with only four entries EVERY PUBLISHED ROW IS PROVED: pct:76,17.95,14,0.91@p4 --value rendered '155.00' (row 1); pct:76,25.32,14,0.91@p4 --value rendered '786.31' — the SUBTOTAL, confirming that printed line 4 is an annotation and not an entry; pct:76,27.14,14,0.91@p4 --value rendered '11,000.00' (row 5, the loan). (§B5 one-past control) pct:76,30.82,14,0.86@p4 --value rendered '12,572.62' — per §F1 a figure there means either trap 5 or the printed total, and it is the printed GRAND TOTAL, identified by equalling the cover's typed Column A; counting it as a row would triple-count the ledger."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "",
+    "donor_raw": "Judy Grow",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "155.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "⚠ NO DATE COLUMN EXISTS on this ledger — the filer's own 'Campaign Donations' sheet has columns Name / Last / Street / City / State / Zip / Amount and prints no date for any contribution, so `date` is honestly BLANK for a structural reason and needs_review=1. A date is NEVER inferred from the report date or from the expenditure sheet. Name assembled from the filer's own two name columns ('Judy' / 'Grow'). PRIVACY: the ledger prints Name / Last / Street / City / State / Zip in separate columns; only city and state are carried here and the street line and zip are deliberately not written into this record in any field or note. This filing was published UNREDACTED by the county."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "",
+    "donor_raw": "David Grow",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "131.31",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "No date column exists on this ledger (see row 1) — `date` honestly blank, needs_review=1. Name assembled from the filer's own two name columns ('David' / 'Grow'). PRIVACY: the ledger prints Name / Last / Street / City / State / Zip in separate columns; only city and state are carried here and the street line and zip are deliberately not written into this record in any field or note. This filing was published UNREDACTED by the county."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "",
+    "donor_raw": "Reagon",
+    "donor_city": "SLC",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "No date column exists on this ledger — `date` honestly blank, needs_review=1. The filer wrote 'Reagon' in the FIRST-NAME column and LEFT THE LAST-NAME COLUMN EMPTY, so the donor is carried verbatim as the single token the document gives; nothing was completed or corrected. City is written 'SLC' by the filer and is kept verbatim rather than expanded. PRIVACY: the ledger prints Name / Last / Street / City / State / Zip in separate columns; only city and state are carried here and the street line and zip are deliberately not written into this record in any field or note. This filing was published UNREDACTED by the county."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 5,
+    "date": "",
+    "donor_raw": "Lorne Grierson",
+    "donor_city": "",
+    "donor_state": "",
+    "amount": "11000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "THE CANDIDATE'S OWN LOAN. Verbatim: the Name/Last columns read 'Lorne' / 'Grierson' and the STREET column reads 'Loan to Self' — the filer put an ANNOTATION where the address goes, so this row's street/city/state/zip cells carry no geography at all and donor_city/donor_state are honestly BLANK for that reason (the filer used the field for something else), which is distinct from redacted, left-empty, form-has-no-city and lost-in-reproduction. `date` blank as on every row (no date column). ⚠ CLASSIFIED BY THE LADDER, NOT BY THE WORD 'LOAN' (§B3): the cover's line 1 Column A (12,572.62) is the ledger total that INCLUDES this 11,000.00, and line 3 carries a real non-zero beginning balance of its own (2,559.61) which therefore cannot be the loan's slot — so it IS an itemized contribution row. This is the Kirk-2010 / Grierson-2012 branch, and note ADDENDUM B §B3 cites THIS SAME FILER's 2012 'LOAN TO SELF' as its third instance: he treats his own loans as contributions consistently across cycles. ⚠ THE ROW INDEX IS 5, NOT 4: the filer's own printed SUBTOTAL line (786.31) sits on printed line 4 and consumes it — see the frame's measure_note. PRIVACY: the ledger prints Name / Last / Street / City / State / Zip in separate columns; only city and state are carried here and the street line and zip are deliberately not written into this record in any field or note. This filing was published UNREDACTED by the county."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "6/13/2014",
+    "vendor_raw": "Winco",
+    "amount": "291.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "⚠ THIS ROW IS ONE OF THE FOUR THE FILER'S OWN PRINTED TOTAL OMITS. Its amount cell carries a literal '$' glyph (as do rows 2, 4, 5 and 18) and its Address cell is a pasted CREDIT-CARD STATEMENT DESCRIPTOR rather than a typed address — the signature of a cell pasted in as TEXT, which a spreadsheet SUM silently skips. Rows 1 + 2 + 4 + 5 sum to exactly 1,001.58, which is exactly the amount by which the 18 transcribed rows exceed the filer's printed total, and an EXHAUSTIVE search of all 262,143 non-empty subsets of the 18 rows found this as the ONLY subset that sums to the delta. The row is retained VERBATIM and nothing was nudged; see recon.detail. The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "6/16/2014",
+    "vendor_raw": "Home Depot",
+    "amount": "174.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "⚠ THIS ROW IS ONE OF THE FOUR THE FILER'S OWN PRINTED TOTAL OMITS. Its amount cell carries a literal '$' glyph (as do rows 2, 4, 5 and 18) and its Address cell is a pasted CREDIT-CARD STATEMENT DESCRIPTOR rather than a typed address — the signature of a cell pasted in as TEXT, which a spreadsheet SUM silently skips. Rows 1 + 2 + 4 + 5 sum to exactly 1,001.58, which is exactly the amount by which the 18 transcribed rows exceed the filer's printed total, and an EXHAUSTIVE search of all 262,143 non-empty subsets of the 18 rows found this as the ONLY subset that sums to the delta. The row is retained VERBATIM and nothing was nudged; see recon.detail. The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "6/16/2014",
+    "vendor_raw": "Chad Landon",
+    "amount": "148.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "6/20/2014",
+    "vendor_raw": "Winco",
+    "amount": "40.01",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "⚠ THIS ROW IS ONE OF THE FOUR THE FILER'S OWN PRINTED TOTAL OMITS. Its amount cell carries a literal '$' glyph (as do rows 2, 4, 5 and 18) and its Address cell is a pasted CREDIT-CARD STATEMENT DESCRIPTOR rather than a typed address — the signature of a cell pasted in as TEXT, which a spreadsheet SUM silently skips. Rows 1 + 2 + 4 + 5 sum to exactly 1,001.58, which is exactly the amount by which the 18 transcribed rows exceed the filer's printed total, and an EXHAUSTIVE search of all 262,143 non-empty subsets of the 18 rows found this as the ONLY subset that sums to the delta. The row is retained VERBATIM and nothing was nudged; see recon.detail. The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "6/28/2014",
+    "vendor_raw": "Marleys",
+    "amount": "495.42",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "⚠ THIS ROW IS ONE OF THE FOUR THE FILER'S OWN PRINTED TOTAL OMITS. Its amount cell carries a literal '$' glyph (as do rows 2, 4, 5 and 18) and its Address cell is a pasted CREDIT-CARD STATEMENT DESCRIPTOR rather than a typed address — the signature of a cell pasted in as TEXT, which a spreadsheet SUM silently skips. Rows 1 + 2 + 4 + 5 sum to exactly 1,001.58, which is exactly the amount by which the 18 transcribed rows exceed the filer's printed total, and an EXHAUSTIVE search of all 262,143 non-empty subsets of the 18 rows found this as the ONLY subset that sums to the delta. The row is retained VERBATIM and nothing was nudged; see recon.detail. The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "6/17/2014",
+    "vendor_raw": "Mail Chimp",
+    "amount": "110.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filer entered a WEB DOMAIN in the Address column for this online-only vendor instead of a city. The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "6/20/2014",
+    "vendor_raw": "nson",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "⚠ THE VENDOR CELL READS ONLY 'nson' — the name is CLIPPED in the filer's own print-out (the leading characters are absent from the page, not from the read; confirmed at 700 dpi). It is kept VERBATIM as the four characters the document prints. It is NOT completed from row 12's 'Minson', which carries a different address: cross-row corroboration may raise confidence but may never supply a row's value (§C3). The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "6/24/2014",
+    "vendor_raw": "Facebook",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The Address cell is a URL rather than a place. The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "6/20/2014",
+    "vendor_raw": "Auto Dial",
+    "amount": "341.34",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "6/24/2014",
+    "vendor_raw": "Auto Dial",
+    "amount": "802.47",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "date": "6/7/2014",
+    "vendor_raw": "Staples",
+    "amount": "176.07",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "date": "6/6/2014",
+    "vendor_raw": "Minson",
+    "amount": "850.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "date": "6/14/2014",
+    "vendor_raw": "Chevron",
+    "amount": "50.33",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "date": "6/7/2016",
+    "vendor_raw": "Love Travel",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "⚠ DATE OUT OF CYCLE: the filer typed '6/7/2016' on a report signed 7/22/2014 and covering the 30 days after the 2014 primary. It is well-formed but wrong, and it is KEPT VERBATIM (§7); the year was not corrected to 2014 and the row was not moved. The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "15",
+    "page": 3,
+    "row": 15,
+    "date": "7/1/2014",
+    "vendor_raw": "BCR",
+    "amount": "1875.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 16,
+    "date": "6/19/2014",
+    "vendor_raw": "Utah Republican Party",
+    "amount": "7057.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 17,
+    "date": "7/1/2014",
+    "vendor_raw": "BCR",
+    "amount": "101.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   },
+   {
+    "line_no": "18",
+    "page": 3,
+    "row": 18,
+    "date": "6/23/2014",
+    "vendor_raw": "COPIES PLUS PRINTING",
+    "amount": "2679.62",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "This row's amount cell also carries a literal '$' glyph, but unlike rows 1/2/4/5 it IS inside the filer's printed total (the exhaustive subset search proves the omitted set is exactly {1,2,4,5}), so the '$' alone does not predict exclusion. Retained verbatim. The filer's own 'Campaign Expenses' sheet has columns Date / 'Vender' / Address / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). Expenditure rows carry no address field in this schema; the sheet's addresses are not written into this record."
+   }
+  ],
+  "notes": "PAGE-FACE candidate 'Lorne Grierson', party 'Republican', Office Seeking 'Utah County Commissioner' — index.csv names NO candidate for this row, so the page face fills an empty channel label. ⚠ THE PAGE PRINTS NO COMMISSION SEAT. index.csv carries 'County Commission Seat B' from the channel; the filing itself says only 'Utah County Commissioner'. Per the module's standing rule a seat the filing does not print is NOT inferred, and the divergence is left visible here rather than resolved.\n\n⚠⚠ THE SCHEDULES ARE BOUND IN REVERSE ORDER — a live §F3 specimen. p3 is the EXPENDITURE side ('Campaign Expenses 2014   30 Days after Primary') and p4 is the CONTRIBUTION side ('Campaign Donations   30 days after Primary'). Both were classified from their own printed headings, and `itemized_pages_A` is 4 while `itemized_pages_B` is 3. A page-ordinal assumption would have swapped both sides wholesale — and note the swap would NOT have been caught by any reconciliation gate on this filing, because both sides carry deltas anyway.\n\n4 PDF pages: p1 the county's COVER (the common 2014 blank, '...FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES'), p2 the county's SUMMARY PAGE, then pp3-4 the FILER'S OWN TYPED LEDGERS substituted for Schedule B and Schedule A in that order. Cover and summary page are BORN-TYPED except Column B, which is handwritten. Report type: '30 Days after the Primary Election' is ticked and the amendment question is answered 'No'. Signature date 7/22/2014. FOLIATION: the summary page's Page/of box, Last Name box and Date of Report box are ALL WHOLLY BLANK, and the filer's own sheets carry no foliation either — one more practice for the running tally, and one that locates nothing.\n\n⚠ THE FILER'S BALANCE LADDER RUNS ON THE CUMULATIVE COLUMN, WHICH BREAKS THE §A3 RECOVERY HERE. Line 4 is printed 'Total Contributions Received (From Line 1 Column A)' but he entered 52,515.93 — his Column B year-to-date figure, not his Column A period figure of 12,572.62. Line 6 does the same (54,863.96, not 15,311.53). So lines 4 and 6 on THIS filing are cycle-scoped and must NOT be used as a second per-period anchor; the ladder they close (2,559.61 + 52,515.93 - 54,863.96 = 211.58, matching the printed line 7) is a whole-cycle ladder sitting on a per-period cover. ADDENDUM A §A3 already has a limit at §B2 (nil marks differing by line); this is a second and different limit — lines 4/6 can carry figures and still be the wrong SCOPE. The per-period reconciliation in this record is gated on Column A and on each ledger's own printed grand total, never on lines 4/6.\n\nBOTH SIDES CARRY A TRACED DELTA, AND BOTH ARE SPREADSHEET SUM DEFECTS OF DIFFERENT KINDS — see recon.detail for the full arithmetic. Contributions: the printed total double-counts the ledger's own intermediate subtotal (-786.31). Expenditures: the printed total omits four rows whose amount cells were pasted in as text (+1,001.58, attribution proven UNIQUE by exhaustive subset search). Neither figure was nudged; both filer totals are retained verbatim and the cover's Column A agrees with each of them, so the defect is the filer's spreadsheet and not the transcription.\n\nTHE LOAN IS A CONTRIBUTION ROW HERE, decided by the ladder and not by the word: line 1 Column A is the ledger total that includes the 11,000.00, and line 3 carries its own non-zero beginning balance, so there is no balance slot for it. ADDENDUM B §B3 cites this same filer's 2012 'LOAN TO SELF' as its third instance — he is consistent across cycles. Contrast Tracy `7001a535` in this same chunk, whose loan is NOT a contribution: three filers, three ladders, three answers.\n\nSMALLER PROPERTIES, ALL ON THE PAGE: the contribution ledger prints NO DATE COLUMN AT ALL, so every contribution row has an honestly blank date with needs_review=1 and no date was inferred from the report date or borrowed from the expenditure sheet. One donor ('Reagon') is given a first name and NO last name. The loan row puts the annotation 'Loan to Self' in the STREET column, so its geography cells are used for something else and city/state are blank for that reason. On the expenditure side one vendor cell is CLIPPED to 'nson' in the filer's own print-out and is kept verbatim rather than completed from the 'Minson' row further down (§C3 forbids supplying a row's value from another row); one row is dated '6/7/2016', two years outside its own cycle, and is kept verbatim; and two rows give a web domain or a URL where a place would go.\n\nPRIVACY: published UNREDACTED. Contribution rows carry donor city and state only — the Street and Zip columns are not written into this record in any field or note. Expenditure rows carry no address field at all, and the pasted credit-card statement descriptors on rows 1, 2 and 4 are described in the notes by their KIND, never quoted. The candidate's own cover address and phone number are likewise not carried."
+ }
+]

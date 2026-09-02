@@ -1,0 +1,82 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C06.json",
+ "key": "6463726c",
+ "index_path": "raw/2012/2012_cc_K_Robison_campaign_finance_12_6_12.pdf",
+ "applies_to": [
+  "raw/2012/2012_cc_K_Robison_campaign_finance_12_6_12.pdf",
+  "raw/2012/2012_st_Kathleen_Ann_Robison_12_11_12_General.pdf"
+ ],
+ "sha256_prefix": "14c9ab7f8d7d0769",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Page 2 (Form A) is entirely blank -- re-rendered at 200 dpi and again with -normalize to rule out faint pencil; not one inked line in the grid. Cover line 1 reads a hand-written numeral 0 in ALL THREE columns (LAST, THIS, CUMULATIVE), as does line 2. Zero rows therefore equals the cumulative cell and the this-period cell alike; the two scopes coincide, so scope is recorded cumulative. The Carr form prints no schedule total. This is a real zero, not a gap: the candidate reports raising nothing."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "129.00",
+    "cover_expense_cum": "129.00",
+    "cover_balance_end": "129.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-cumulative",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "FILER OMISSION, retained verbatim and NOT repaired. Cover line 3 reports 0 (last) + 129.00 (this) = 129.00 (cumulative), but page 3 (Form B) is COMPLETELY BLANK -- checked at 200 dpi and again with -normalize, no ink anywhere in the 40-line grid. The schedule is provably empty, so the itemized set is complete-and-zero while the printed cover figure is 129.00: a 129.00 residual that is the filer's, not a transcription defect. There are no rows to publish and therefore no needs_review flags to set; the delta is recorded here and in notes. NEVER recomputed or overwritten -- the stated 129.00 stands as the form's own printed figure."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Neither Carr schedule prints a total or page subtotal, so the cover is the only anchor. Form A: 0 rows = cover line 1 '0' -- GATES. Form B: 0 rows vs cover line 3 CUMULATIVE '129.00' -- DOES NOT GATE; both figures named, no row adjusted.",
+  "row_count": "Counted by eye against ink on both schedules after -normalize: p2 Form A 0 inked bands of ~40, p3 Form B 0 inked bands of ~40. rowbands.py not needed -- with zero ink there is no row index to shift. 0 rows emitted on both sides.",
+  "geometry_proof": "Not applicable -- zero rows emitted on both sides.",
+  "balance_chain": "DOES NOT CLOSE, and the break is the filer's. Cumulative column: 0 contributions - 129.00 expenses = -129.00, but the printed line 4 balance is +129.00 (and the THIS column repeats 129.00). The filer appears to have copied the expenditure figure into the balance line rather than computing a negative (or zero) balance. Both figures transcribed verbatim into the anchor block; neither corrected."
+ },
+ "escalations": 2,
+ "escalation_note": "600 dpi tight crops of the cover money block, lines 1-2 and lines 3-4, to confirm (a) the marks on lines 1 and 2 are hand-written numeral zeros (closed ovals) and not dashes -- they are, so they are 0 per the zero-glyph ruling, and (b) the figure on line 3 THIS/CUM and line 4 THIS/CUM reads 129.00 and not 124.00 or 199.00. All four read '129.00' unambiguously at 600 dpi. No arithmetic anchor exists to cross-check them against, because the schedule is blank -- this is exactly the case where escalation cannot substitute for arithmetic, so the residual is reported as a delta rather than resolved.",
+ "notes": "Cover 'Name of Office' reads 'Cache County Council member', Office District 'Logan #2' -- the chunk file's office 'County Council' AGREES. Candidate 'Kathleen Ann Robison', signed 'Kathy Robison'; chunk says 'K Robison' -- agrees. Cover date '11 Dec 2012', clerk RCVD stamp 11 DEC 2012 (the chunk file's date column says 2012-12-06 -- the DOCUMENT says 11 Dec 2012; contradiction of the chunk file stated loudly here). IN-SCOPE (county office). THE HUMAN-VISIBLE ISSUE ON THIS FILING: the cover reports 129.00 of campaign expenses for the period and the itemized Form B page is entirely blank -- the filer filed the summary without the itemisation. Nothing is inferred to fill it. Both schedule pages are present in the document and both are empty, so both sides are 'transcribed' with zero rows (a real zero on the contribution side, an unexplained gap against the printed 129.00 on the expenditure side). The candidate's street address, ZIP and home phone on the cover were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

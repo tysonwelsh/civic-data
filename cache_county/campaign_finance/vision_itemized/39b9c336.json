@@ -1,0 +1,99 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C09.json",
+ "key": "39b9c336",
+ "index_path": "raw/2014/2014_cc_McAllister_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_McAllister_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "88f7fd9bdb2ca5aa",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "11,566.20",
+    "cover_over50_this": "500.00",
+    "cover_over50_cum": "12,066.20",
+    "cover_le50_last": "115.42",
+    "cover_le50_this": "0.00",
+    "cover_le50_cum": "115.42",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "500.00",
+   "basis": "cover-line1-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "ONE row on Form A, 500.00, equals cover line 1 THIS REPORT exactly. It does NOT equal the CUMULATIVE cell (12,066.20), so the row set is on the PERIOD scope — this is a summary report itemising only what has not been reported before, and the earlier 11,566.20 sits in the LAST-REPORT column un-itemised in this document. This is a DIFFERENT SCOPE from the cumulative figure the module publishes; that is honest and expected, and is why recon.scope is 'period'. SUB-$50 TRAP OBSERVED AND AVOIDED: the cover also carries a $50-or-less aggregate (line 2, 115.42 last / 0.00 this / 115.42 cumulative) which is never itemised; scoring the single row against line1+line2 would manufacture a false mismatch. Form A itself prints no schedule total."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "11,681.62",
+    "cover_expense_this": "0.00",
+    "cover_expense_cum": "11,681.62",
+    "cover_balance_end": "0.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "p3 Form B is entirely blank at 200 dpi (bleed-through only). Zero rows sum 0.00, which equals cover line 3 THIS REPORT (0.00) exactly. It does not equal the cumulative 11,681.62, so the side is on the PERIOD scope: nothing was spent in this reporting period, and the cycle's earlier 11,681.62 of expenditures is not itemised anywhere in this document."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "The Carr form prints no page subtotal and no schedule total; cover lines 1 and 3 are the only anchors. Both close exactly on the THIS-REPORT column.",
+  "row_count": "p2 rowbands.py: geometry_status ok, 37 bands, h_rules_pct 9.47/11.36/12.29/14.58/16.88/19.20/... pitch ~2.32%. Exactly ONE band carries ink (band 1, [9.47,11.36] — the filer wrote above the 11.36 rule); 1 row emitted. Band 2 (11.36->12.29) is a doubled scan rule, mapped out by eye. p3 carries no ink at all, so no band count applies.",
+  "geometry_proof": "p2 first row = last row (single row). Crop pct:81.37,9.32,11.76,3.18@p2 (1200 dpi, x=8300 y=1230 W=1200 H=420) renders '500.00'; the control one row-pitch below (1200 dpi y=1650, same box) renders EMPTY (bare rule only).",
+  "balance_chain": "DOES NOT CLOSE — filer arithmetic. On the cumulative column: 12,066.20 (line 1) + 115.42 (line 2) - 11,681.62 (line 3) = 500.00, but cover line 4 balance-at-end reads 0.00 in ALL THREE columns. The LAST-REPORT column, by contrast, closes exactly: 11,566.20 + 115.42 - 11,681.62 = 0.00, which is what the filer wrote there. The filer appears to have carried the prior period's zero balance forward without adding the new 500.00 contribution. All figures retained verbatim; none recomputed. No earlier filing by this filer is in this chunk, so the cross-filing cumulative chain was not runnable."
+ },
+ "escalations": 3,
+ "escalation_note": "p2 date cell at 1200 dpi (x=480 y=1230 W=1100 H=420) — the middle group is a two-stroke open-top 4, giving 11/14/14, not 11/17/14 or 11/24/14. p2 amount cell at 1200 dpi (x=8300 y=1230 W=1200 H=420) — '500' with a superscript 'oo' cents group written over the rule and a decimal point after the 500, transcribed 500.00 per the superscript-cents convention; cover line 1 THIS independently confirms it. One further 1200 dpi control crop one pitch below the row.",
+ "notes": "index.csv says candidate=McAllister, office=Treasurer, 2014. The cover confirms: 'Full Name of Candidate: CRAIG McALLISTER', 'Name of Office: TREASURER', 'Office District: CACHE', Political Party REPUBLICAN, dated 12/4/14, clerk stamp RCVD 04 DEC 2014. IN SCOPE (county office). No contradiction with the chunk file. This filing is a good illustration of the scope rule: the module's period_basis hypothesis for this corpus is 'carr_cumulative_column', but THIS document's rows are on the PERIOD scope, decided from the page. Donor address is written in the clear on Form A; only city and state were kept. Candidate street address, ZIP and both phone numbers on the cover were discarded at read time.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-11-14",
+   "donor_raw": "Steve Stokes",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.37,9.32,11.76,3.18@p2",
+   "note": "date written '11/14/14' (two-digit year), escalated to 1200 dpi to separate 4 from 7; amount written '500' with a superscript 'oo' cents group over the rule -> 500.00. Street address and ZIP were printed in the address cell and were discarded at read time; city and state kept."
+  }
+ ],
+ "expenditures": []
+}

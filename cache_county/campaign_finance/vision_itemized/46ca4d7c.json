@@ -1,0 +1,100 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C22.json",
+ "key": "46ca4d7c",
+ "index_path": "raw/2024/2024_cc_2024_General_Frank_C_Stewart.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Frank_C_Stewart.pdf"
+ ],
+ "sha256_prefix": "44ba8c3e3ac329d3",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "None",
+    "cover_over50_cum": "None",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "Ø",
+    "page_subtotal": "Ø",
+    "box_A_balance_begin": "",
+    "box_F_subtotal": ""
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==page-subtotal (both a slashed-zero glyph)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A (p2) carries the single word 'None' written across the first writing line and no ledger entries; its printed 'Subtotal for this page $' and 'Total Contributions Received $' cells each hold a large slanted slashed-zero glyph (read at 1200 dpi, crop f_p2sub) = 0 under the repo zero-glyph ruling. Summary-page Box B (this period) and Box C (year-to-date) both read 'None' in the filer's hand, so the two scopes coincide; this is the filer's only 2024 report in the module index. le50 keys are null: the 2022+ CFD prints no separate $50-or-less line."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_this": null,
+    "cover_expense_cum": null,
+    "cover_balance_end": null,
+    "schedule_total": "50",
+    "page_subtotal": "50",
+    "box_A_balance_begin": "",
+    "box_F_subtotal": ""
+   },
+   "itemized": "50.00",
+   "basis": "schedule-total==page-subtotal",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule B (p3) prints 'Subtotal for this page $ 50' and 'Total Expenditures Made $ 50' (both circled by the filer); the one itemized line is $50. Cover boxes D (Expenditures Made This Period), E (Expenditures Made Year-to-Date) and 'Balance at Close of Reporting Period' each carry a LONE hand-drawn '$' glyph and NO numeral — established at 1200 dpi: the mark is ~0.35 in wide and stroke-for-stroke identical to the '$' the same filer draws before '50' on p3 (which is 0.38 in on its own, and '$ 50' together spans 1.23 in). Recorded null (printed but not a legible figure), NEVER 0 and never 50. Scope recorded cumulative because Boxes B and C agree and this is the filer's only 2024 report."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: zero rows = printed subtotal/total, both a slashed-zero glyph (0) — gates. p3: rows sum 50.00 = printed 'Subtotal for this page $50' = printed 'Total Expenditures Made $50' — gates.",
+  "row_count": "rowbands.py p3 (200 dpi): geometry_status ok, 15 data bands, pitch ~4.54%; only bands 1-2 carry ink (the filer wrote one two-line entry above the rules) = 1 row emitted. p2 carries ink only in band 1 ('None') = 0 rows.",
+  "geometry_proof": "p3 amount box crop (600 dpi, x 78.08% w 14.63%, y 24.50% h 5.00%) renders '$ 50'; the control crop one full box-height below renders empty (only a descender tail from the row above).",
+  "balance_chain": "Cannot be evaluated: Box A (balance at beginning) and Box F (subtotal before expenditures) are left entirely blank, B/C read 'None', and D/E/Balance-at-Close carry only a '$' glyph. Schedule B's own $50 is reflected in no legible cover figure. Single filing by this filer in the cycle, so no cross-filing chain test is possible."
+ },
+ "escalations": 6,
+ "escalation_note": "1200 dpi tight crops on: p4 Box D (x2), p4 Box E, p4 Balance at Close, p2 subtotal/total pair, p3 amount cell; plus 600 dpi geometry-proof pair on p3.",
+ "notes": "OFFICE LINE IS BLANK ON THE FORM — the cover's 'Office' box is entirely empty (confirmed on the page at 200 dpi), matching the chunk file's empty office field and the index's scope_status='undetermined'. The only office-bearing text anywhere in the document is the single Schedule B line, which reads 'County Clerk Candidate Filing Fee' — a COUNTY office, so the filing is treated as in scope; the blank office line is one of this county's known honest states (addendum §D). Cover: name 'Frank C. Stewart', report type marked 'Seven days preceding the General Election', 'Is this report an amendment?' marked No, Date of Report 10/21/24 (index says 2024-11-01 — that is the CMS posting date, not the form's date; the form governs and reads 10/21/24). Clerk/Auditor received stamp 2024 OCT 22. Candidate home address, phone and email are printed in the clear on p1 and were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "County Clerk",
+   "purpose": "Candidate Filing Fee",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.08,24.50,14.63,5.00@p3",
+   "note": "Written as one free-hand phrase spanning the Provider/Vendor and Purpose columns over two writing lines, verbatim: '1) County Clerk Candidate Filing fee -'; the leading '1)' is the filer's own line number. Columns assigned by reading (payee = County Clerk, purpose = candidate filing fee) and the split is noted rather than asserted. The Date column is entirely empty — the filer never dated the entry. Amount printed '$ 50 -': trailing dash after whole dollars = no cents, transcribed 50.00 per core §3(g)."
+  }
+ ]
+}

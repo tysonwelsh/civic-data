@@ -1,0 +1,146 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-06-20",
+   "donor_raw": "Clint W. Ensign",
+   "occupation": "The Sinclair companies",
+   "amount": "$3,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.58,23.40,84.95,3.95@p3",
+   "note": "Occupation cell is written on two lines, 'The Sinclair' / 'companies', with a stray double-tick mark after 'Sinclair' and a stray 's' glyph at the cell's left edge against the redaction bar; both stray marks recorded here and not carried into the value. Address block redacted at source."
+  },
+  {
+   "line_no": 2,
+   "date": "2018-08-08",
+   "donor_raw": "Salt Lake Board o Realtors (BORPAC",
+   "occupation": "realtors",
+   "amount": "$1,500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.58,27.36,84.95,3.82@p3",
+   "note": "The contributor name overruns the Name column into the Complete Mailing Address column and its tail is COVERED BY THE COUNTY'S REDACTION BAR. Legible glyphs only are recorded: 'Salt Lake Board o' (line 1) / 'Realtors (BORPAC' (line 2); the closing characters are not visible and were NOT completed. Address block redacted at source."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-09-03",
+   "vendor_raw": "Home Depot",
+   "purpose": "screws QwikTies",
+   "amount": "$36.36",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.55,24.46,77.32,4.00@p4",
+   "note": "purpose written on two lines, 'screws' / 'QwikTies'"
+  }
+ ],
+ "total_contributions": "$4,500.00",
+ "total_expenditures": "$36.36",
+ "beginning_balance": "$33,263.94",
+ "ending_balance": "$37,727.58",
+ "aggregate": {
+  "total_contributions_to_date": "$57,703.50",
+  "total_expenditures_to_date": "$19,975.92",
+  "line5_subtotal": "$37,763.94"
+ },
+ "cover": {
+  "candidate": "Steven L DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "September 13, 2018",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__september__debry-steven-council-51.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L DeBry",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/2018_disclosures__september__debry-steven-council-51.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "\u26a0 THE FLAGGED DeBRY PATTERN IS PRESENT AND WAS VERIFIED AT THE PAGE \u2014 see recon detail on both sides. Form title prints 'Financial Disclosure Report For a Candidate' with NO year (matches the chunk file's form_family 'untitled-year'); form_year is therefore '' (the field does not carry a year), not null. Cover is the older SHERRIE SWENSEN letterhead. Office 'County Council', Office Sought 'County Council', District Number '#5' \u2014 agrees with the chunk file (District 5). Signature date 'September 13, 2018' agrees with the chunk file's 2018-09-13; clerk stamp RECEIVED IN OFFICE SEP 17 2018 (four days later). NEITHER amendment box is checked \u2014 is_amendment honestly blank. Summary/Schedule header boxes are filled: 'Page 2|3|4 of 4', last name 'DeBry', Date of Report 'Sept. 13, 2018'. Contributor mailing addresses redacted at source on p3.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$4,500.00",
+     "schedule_total": "$57,703.50",
+     "itemized": "4500.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "THE DeBRY BASIS INVERSION, CONFIRMED AT THE PAGE. Schedule A prints SUBTOTAL FOR THIS PAGE = $4,500.00, which equals Summary Column A (the PERIOD figure), while TOTAL CONTRIBUTIONS RECEIVED (Sum of subtotals from all Schedule A pages) = $57,703.50, which equals Summary Column B (the CYCLE-CUMULATIVE figure). The two printed anchors on the same sheet have DIFFERENT SCOPES. The 2 transcribed rows sum to 4,500.00 = the page subtotal = Summary line 1 Column A, so the side is EXACT. Gating on schedule-grand-total would have manufactured a $53,203.50 delta out of an exact filing."
+    },
+    "expenditures": {
+     "stated": "$36.36",
+     "schedule_total": "$19,975.92",
+     "itemized": "36.36",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "Same inversion on Schedule B: SUBTOTAL FOR THIS PAGE $36.36 = Summary Column A; TOTAL EXPENDITUTRES MADE $19,975.92 = Summary Column B (cycle-cumulative). The single transcribed row is 36.36 = the page subtotal = Summary line 2 Column A. EXACT."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 3,000.00 + 1,500.00 = 4,500.00 = printed SUBTOTAL FOR THIS PAGE $4,500.00. p4 row 36.36 = printed SUBTOTAL FOR THIS PAGE $36.36. Both schedule GRAND totals were tested against the Summary columns first, found to be Column-B (cumulative) figures, and were therefore NOT used as gates.",
+   "escalations": 2,
+   "escalation_note": "p3 name column (rows 1-2) crop at 900 dpi and p3 occupation+amount column crop at 900 dpi, to test how far the county's redaction bar covers the row-2 contributor name and to read the row-1 Occupation cell.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "\u26a0 THE FLAGGED DeBRY PATTERN IS PRESENT AND WAS VERIFIED AT THE PAGE \u2014 see recon detail on both sides. Form title prints 'Financial Disclosure Report For a Candidate' with NO year (matches the chunk file's form_family 'untitled-year'); form_year is therefore '' (the field does not carry a year), not null. Cover is the older SHERRIE SWENSEN letterhead. Office 'County Council', Office Sought 'County Council', District Number '#5' \u2014 agrees with the chunk file (District 5). Signature date 'September 13, 2018' agrees with the chunk file's 2018-09-13; clerk stamp RECEIVED IN OFFICE SEP 17 2018 (four days later). NEITHER amendment box is checked \u2014 is_amendment honestly blank. Summary/Schedule header boxes are filled: 'Page 2|3|4 of 4', last name 'DeBry', Date of Report 'Sept. 13, 2018'. Contributor mailing addresses redacted at source on p3."
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W13.json",
+ "key": "ce76d676",
+ "index_path": "raw/live_wp/Gil-Almquist-Financial-012026.pdf",
+ "applies_to": [
+  "raw/live_wp/Gil-Almquist-Financial-012026.pdf"
+ ],
+ "sha256_prefix": "bf0deb10fa26d70a",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "-0-",
+    "cover_over50_this": "5,000.00",
+    "cover_over50_cum": "",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "5,000"
+   },
+   "itemized": "5000.00",
+   "basis": "cover-line1-this == schedule-total",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked Form A row, 5,000.00 (written 5,000 with superscript 00 over the rule). Form A's printed footer TOTAL CONTRIBUTIONS reads '5,000' and the cover's THIS REPORT cell reads '5,000 00' - both equal the row sum. The cover's LAST REPORT cell is the zero glyph '-0-', so THIS == CUMULATIVE arithmetically and the two scopes coincide; the filer left the CUMULATIVE cell itself physically BLANK (recorded as '' , not 0). This is the January annual officeholder report for the period 1/1/2025-12/31/2025, i.e. the first report of that reporting cycle."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "-0-",
+    "cover_expense_this": "-0-",
+    "cover_expense_cum": "-0-",
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3 == schedule-total",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form B (p3) is an EMPTY SCHEDULE: the filer wrote 'N/A' in the first Date cell and a struck zero glyph in each of the Person Paid / Purpose / Amount cells, and the printed footer TOTAL EXPENDITURES carries the same zero glyph. Per the zero-glyph ruling that is a nil declaration, not a transaction - zero rows emitted, side transcribed. Cover line 3 is '-0-' in all three columns."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows sum 5000.00 = printed TOTAL CONTRIBUTIONS '5,000' (exact). p3 zero rows = printed TOTAL EXPENDITURES zero glyph (exact).",
+  "row_count": "rowbands.py p2: geometry ok, 19 bands (band 1 = the Date/Name/Amount/In Kind header at y=33.3; bands 2-19 = data rows at a 3.09-3.14pct pitch, plus the footer TOTAL row below the last detected rule). Only band 2 carries ink; 1 row emitted. Counted by eye against the ink: 1.",
+  "geometry_proof": "p2 first-row amount-cell crop (x955 y800 W440 H70 @200dpi) renders '5,000 00'; the control crop one row-pitch below (y870) renders EMPTY. First row == last row (single-row side).",
+  "balance_chain": "Cover line 4 (Balance at end of period): LAST cell blank, THIS '5,000', CUM '5,000'. 0 (beginning) + 5,000 (contributions) - 0 (expenditures) = 5,000 = the cumulative balance cell. Closes exactly. No earlier filing by this filer in this reporting cycle is in my chunk (the other Almquist document in the chunk, cf59d0b5, is the 2018 election cycle), so no cross-filing chain check was possible."
+ },
+ "escalations": 2,
+ "escalation_note": "p1 cover anchor grid re-rendered as a 200dpi crop (x400 y600 W1300 H350) to read the three-column grid; p2 rendered full at 200dpi and the amount cell crop-verified.",
+ "notes": "index.csv/chunk file call the candidate 'GILBERT M. ALMQUIST' and the office 'Commission Seat A'; the form's 'Full Name of Candidate' reads GILBERT M. ALMQUIST and 'Candidate for Office Of' reads WASHINGTON COUNTY COMMISSIONER SEAT A - AGREES. Period 1/1/2025-12/31/2025, signed 1-10-2026, clerk date-received stamp 1/12/26. PDF stores Page rot 270 (landscape media box) - poppler renders it upright portrait 1700x2200 at 200dpi and all pct: geometry below is in that portrait frame. Privacy: this cover prints no street address; the Form A donor row's address cell was left empty by the filer. The sole donor is the candidate himself.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2025-12-27",
+   "donor_raw": "GIL ALMQUIST",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "5000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:56.18,36.36,25.88,3.18@p2",
+   "note": "Date written '12-27-25'. Amount written '5,000' with a superscript '00' over the rule = 5,000.00 (per the superscript-cents convention). In Kind? column answered 'N' - explicitly NOT in kind. Address cell left empty by the filer."
+  }
+ ],
+ "expenditures": []
+}

@@ -1,0 +1,85 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C19.json",
+ "key": "8fd91d81",
+ "index_path": "raw/2022/2022_cc_Kathryn_A_Beus_14e5f5.pdf",
+ "applies_to": [
+  "raw/2022/2022_cc_Kathryn_A_Beus_14e5f5.pdf",
+  "raw/2022/2022_cc_Kathryn_A_Beus_22G.pdf",
+  "raw/2022/2022_wb_Kathryn_A_Beus_22G.pdf"
+ ],
+ "sha256_prefix": "bcd074cc91d8479a",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "",
+    "cover_over50_cum": "2350.00",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "0",
+    "page_subtotal": "",
+    "box_A_balance_begin": "",
+    "box_F_subtotal": ""
+   },
+   "itemized": "0",
+   "basis": "schedule-total ('Total Contributions Received ... Sum of all Schedule A pages in this report' = 0)",
+   "result": "exact",
+   "scope": "period",
+   "detail": "BLANK SCHEDULE, ZERO ROWS - a real zero, not a gap. Schedule A (p2) has no transaction lines at all. The 'Subtotal for this page $' cell is left BLANK (recorded \"\", never 0, per SS 3(f)) but 'Total Contributions Received $' carries a typed 0, and that is the anchor the zero row set is scored against: it is explicitly the sum of all Schedule A pages IN THIS REPORT, i.e. a per-report figure, so the rows are PERIOD-scoped. The rows do NOT equal Box C (Year-to-Date 2350.00), and Box B (This Period) is blank, so no cumulative anchor is available for them. Cache CFD prints no separate '$50.00 or less' aggregate line, so the le50 anchors do not exist (null, not zero). THE 2350.00 YEAR-TO-DATE FIGURE IS NOT ITEMIZED ANYWHERE IN THIS DOCUMENT - the itemisation for it lives in this filer's earlier 2022 filing (key 8d052c3e), which is transcribed separately in this chunk."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "",
+    "cover_expense_cum": "2479.01",
+    "schedule_total": "0",
+    "page_subtotal": "",
+    "cover_balance_end": "0.00"
+   },
+   "itemized": "0",
+   "basis": "schedule-total ('Total Expenditures Made ... Sum of all Schedule B pages in this report' = 0)",
+   "result": "exact",
+   "scope": "period",
+   "detail": "BLANK SCHEDULE, ZERO ROWS. Schedule B (p3) has no transaction lines; 'Subtotal for this page $' left blank (recorded \"\"), 'Total Expenditures Made $' carries a typed 0. Rows sum 0 = that per-report figure, so PERIOD scope. Box D (This Period) is blank; Box E (Year-to-Date) 2479.01 is a different scope and is NOT itemized in this document."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: the per-page 'Subtotal for this page' cell is BLANK, so that gate cannot fire; the report-level 'Total Contributions Received' 0 does gate against the zero row set - said explicitly rather than treating the blank cell as a zero. p3: same shape - blank per-page subtotal, 'Total Expenditures Made' 0 gates against zero rows.",
+  "row_count": "rowbands.py p2 geometry_status=ok, 15 bands, deskew 0.1 deg; rowbands.py p3 geometry_status=ok, 15 bands, deskew 0.1 deg. ZERO inked bands on either page - checked on the full 200 dpi renders, not just the contact sheet. 0 rows emitted on each side, consistent with the printed in-report totals of 0.",
+  "geometry_proof": "Not applicable - zero rows on both sides, so there is no row geometry to prove. Both p2 and p3 were read whole at 200 dpi to establish that no band carries ink.",
+  "balance_chain": "CANNOT BE EVALUATED FROM THIS DOCUMENT, and that is stated rather than computed around. Box A (Balance at Beginning), Box B, Box D and Box F are ALL LEFT BLANK; only the printed 'Balance at Close of Reporting Period' 0.00 exists, with nothing to derive it from on the page. Two things are worth a human's eye and are reported, not repaired: (1) the closing balance is printed 0.00 although the only two figures on the Summary Page are Box C year-to-date contributions 2350.00 and Box E year-to-date expenditures 2479.01, i.e. cycle spending EXCEEDS cycle receipts by 129.01, which a strictly cash reading would make a negative balance; (2) both YTD figures are handwritten onto an otherwise typed form. Both figures retained verbatim; neither recomputed. Cross-filing chain against this filer's earlier 2022 document in this chunk (key 8d052c3e) is reported on that record."
+ },
+ "escalations": 2,
+ "escalation_note": "900 dpi tight cell crops of Box C and Box E on p4 to settle the handwritten year-to-date figures (2350.00 and 2479.01 - the '7' and '9' in 2479.01 were the digits worth escalating). No row amounts exist on this filing to escalate.",
+ "notes": "NIL-ITEMISATION REPORT. Type of Report marked '30 Days after the General Election'; the 'Is this report an amendment?' question is left UNANSWERED (neither No nor Yes is marked) - a blank the filer left, recorded as such. Signature date 12/06/2022; clerk stamp 'CLERK/AUDITOR RCVD 2022 DEC 7 PM12:23'. || DATE OF REPORT IS BLANK ON EVERY PAGE. The p1 'Date of Report' box and the footer 'Date of Report' boxes on p2, p3 and p4 are ALL empty; the only date the filer wrote is the signature date. The addendum's free footer check therefore reduces to the candidate name ('Kathryn A Beus' on p2, p3, p4) plus the page numbering 1-4, both of which are present and consistent; n_reports_in_pdf=1. || OFFICE LINE AGREES WITH THE CHUNK FILE: the p1 'Office' box reads 'Cache County Council-Southeast'; the chunk file / index.csv say 'County Council'. In scope - a county office, and the form's own line adds the seat (Southeast). || REDACTED AT SOURCE: on p1 the candidate's Address, City, Zip Code AND Email cells are covered by solid black redaction bars applied by the county. Those cells would have been discarded at read time regardless, and nothing was backfilled from any sibling copy. The p1 phone number is legible in the clear and was discarded at read time. || DUPLICATE HANDLING: per the addendum this key is the one canonical transcription for three byte-identical index paths (2022_cc_Kathryn_A_Beus_14e5f5.pdf, 2022_cc_Kathryn_A_Beus_22G.pdf, 2022_wb_Kathryn_A_Beus_22G.pdf); it was transcribed once. || Field-shift screen: not applicable, zero rows on both sides. || Minor metadata note: the chunk file records index_format 'text', but pdftotext returns no text layer (4 bytes) - the PDF is image-faced and was read as images.",
+ "contributions": [],
+ "expenditures": []
+}

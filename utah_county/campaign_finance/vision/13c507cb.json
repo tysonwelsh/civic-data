@@ -3,7 +3,12 @@
  "key": "13c507cb",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:50:00Z",
- "pages_read": [1, 2, 3, 4],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 12.23",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +57,52 @@
    "notes": "Handwritten on the printed v. 12.23 form. Boxes A, B, D, F and Balance at Close are each the filer's round-loop zero - WRITTEN zeros, not blanks (medium confidence, the glyph is unambiguous here, unlike the same filer's amended report 48b509e4 whose Balance at Close glyph is not readable). Boxes C and E carry '$ 10,391.30', the year-to-date carry-forward matching this filer's earlier amended report. Schedule A (p2) and Schedule B (p3) have no line items and their Subtotal / Total lines are each written '0'. The Office field is hand-written 'Assessor' (index.csv says 'County Assessor' - naming convention only). Street address, phone and signature are redacted upstream by the county (black bars); the hand-written 'Orem UT 84057' survives. The cover page's own 'Date of Report' box was left blank by the filer; report_date is taken from the cover signature Date ('Dec. 5 2024'), which is also what the filer wrote in the Date of Report box on pages 2 and 3. The summary page's Name of Candidate / Date of Report / Page boxes were also left blank. Clerk RECEIVED stamp DEC 05 2024 on every page."
   }
  ],
- "notes": "The chunk flagged pages 1, 2 and 3 as cover pages; p1 is the cover, p2 is Schedule A and p3 is Schedule B (both zeroed out). One report; p4 is the sole Summary Page."
+ "notes": "The chunk flagged pages 1, 2 and 3 as cover pages; p1 is the cover, p2 is Schedule A and p3 is Schedule B (both zeroed out). One report; p4 is the sole Summary Page.",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah, chunk r13_01)",
+   "transcribed_date": "2026-08-20",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "THREE printed statements of the same figure, all zero: Schedule A's own 'Subtotal for this page $ 0' and its 'Total Contributions Received / Sum of all Schedule A pages in this report $ 0' (both handwritten oval zeros, crop-proved at 600 dpi), and Box B 'Contributions Received this Period' on the p4 Summary Page, also a handwritten oval zero. All read 0 under the repo-wide zero-glyph ruling \u2014 a glyph that DENOTES the digit zero transcribes as 0, and this filer's oval zero is corroborated by his own unambiguous zeros elsewhere in the cycle.",
+     "detail": "Schedule A exists and is WHOLLY UNMARKED \u2014 all 15 printed rows empty \u2014 while BOTH of its printed footers carry a written zero, so unlike a blank-footer case this side has a real printed anchor of its own. Zero rows sum to 0.00, which equals the schedule's own printed subtotal (0), its printed grand total (0), and the promoted per-period Box B (0). Box C 'Contributions Received Year to Date' prints $10,391.30 \u2014 the CUMULATIVE figure, restating the filer's amended 'Seven days preceding the General Election' report \u2014 and is NEVER summed as an increment and was NOT used to synthesize anything here."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Schedule B's own 'Subtotal for this page $ 0' and 'Total Expenditures Made / Sum of all Schedule B pages in this report $ 0' (both handwritten oval zeros, crop-proved), and Box D 'Expenditures Made this Period' on the p4 Summary Page, also an oval zero \u2014 all read 0 under the zero-glyph ruling",
+     "detail": "Schedule B exists and is WHOLLY UNMARKED \u2014 all 15 printed rows empty \u2014 with a written zero on both printed footers. Zero rows sum to 0.00 = the printed subtotal (0) = the printed grand total (0) = Box D (0). Box E 'Expenditures Made Year to Date' prints $10,391.30, the cumulative restatement, never summed as an increment. The filer's whole ladder is zero and internally consistent: A = 0, F = 0 = A + B, Balance at Close = 0 = F - D."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 the filing reports no activity at all for this period, so neither convention has anything to add; and this blank's Schedule A carries no in-kind checkbox in any case. Determined for THIS filing (in-kind is a per-FILING property) and not inherited from the filer's other 2024 document.",
+   "escalations": 0,
+   "escalation_note": "No figure needed settling \u2014 there are no entries. Instead a GHOST / SHOW-THROUGH SCREEN was run on both schedules (K4), since faint marks in the first bands of an unmarked grid have been mistaken for entries elsewhere in this wave: 600 dpi full-width strips across bands 1-2 of Schedule A (pct:6.0,16.75,88.0,8.8@p2) and bands 1-2 of Schedule B (pct:6.0,16.63,88.0,8.8@p3) each rendered clean white cells with only the printed rules \u2014 no ink, no bleed-through. Two further 600 dpi strips over each schedule's footer block (pct:55.0,85.0,45.0,8.5 on p2 and p3) rendered 'Total Contributions Received $ 0' and 'Total Expenditures Made $ 0' with the filer's handwritten oval zero clearly on the rule \u2014 proving these footers are WRITTEN ZEROS, not blanks, which is what separates this filing from the other zero-activity report in this chunk.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "modern_boxAF, form revision v. 12.23, masthead 'Aaron Davidson, Clerk'. 4 pages, each classified from its own printed header: p1 cover, p2 'Schedule A - Itemized Contributions Received' (wholly unmarked, both footers written 0), p3 'Schedule B - Itemized Expenditures Made' (wholly unmarked, both footers written 0), p4 'Summary Page' (LAST \u2014 located by content). NO CHECKLIST bound. pdfinfo: 4 pages, all rot: 0. NO FRAMES ARE DECLARED because there are no rows to place \u2014 geometry is mandatory per ROW, and both sides are honest absences of entries, not unread pages. WHAT THE PAGES PRINT: report type ticked '30 Days after the General Election'; amendment ticked NO; signed and dated Dec. 5 2024; a clerk RECEIVED stamp DEC 05 2024 across the masthead of pp1-4 (the whole document was stamped as one). The two schedule sheets carry the filer's Name of Candidate, Date of Report Dec. 5 2024 and page numbers 2 and 3; the cover's own Date-of-Report and Page boxes are LEFT BLANK and so is the summary page's footer block \u2014 an honest blank, not a missing sheet, and the surviving foliation (2, 3) is consistent with a 4-sheet document. This is a genuine ZERO-ACTIVITY final report. THE GARFIELD PAIR \u2014 THIS IS KIND (4), A DIFFERENT REPORT ENTIRELY, not a duplicate and not a re-redaction of '2024_Burt_Garfield_Amended_Redacted.pdf' (key 48b509e4). Evidence from the page faces alone: (a) the report-type radio ticked here is '30 Days after the General Election'; the other document's original cover ticks 'Seven days preceding the General Election' and its amended cover ticks nothing; (b) this report is signed and dated Dec. 5 2024 and stamped DEC 05 2024, six weeks after the other's Oct 23/25 2024 dates and stamps; (c) its per-period boxes are ZERO where the other's are 10,391.30, and its cumulative boxes C/E carry that 10,391.30 \u2014 the shape of a later report over a period with no activity; (d) both schedules are blank here and run to two sheets each there; (e) the amendment question is ticked NO, so it claims to amend nothing; (f) this is a 4-page document where that one is 7 pages with two covers. Nothing was merged, netted or differenced between them; each was transcribed independently. Page-face candidate 'Burt Garfield' (index.csv 'Burt  Garfield', double space only); page-face Office box reads 'Assessor' with no 'County' prefix, matching the wording on the other document's amended cover, and agreeing with index.csv 'County Assessor' \u2014 no office was inferred. PRIVACY: the county blacked out the candidate's street address, phone number and signature; the residence city/state (Orem, UT) remain in the clear on the cover and are not needed by any row here. No street address or phone number is carried into any field or note."
+  }
+ }
 }

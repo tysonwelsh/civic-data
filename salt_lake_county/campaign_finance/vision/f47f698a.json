@@ -1,0 +1,243 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2021-08-31",
+   "donor_raw": "Daniel Hardle",
+   "occupation": "unknown",
+   "amount": "350.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.29,23.89,84.36,3.89@p3",
+   "note": "address cells redacted at source (county black bar spans the whole Complete Mailing Address column). Occupation cell reads 'unknown' - that is the filer's own word, transcribed verbatim, not our uncertainty."
+  },
+  {
+   "line_no": 2,
+   "date": "2021-08-31",
+   "donor_raw": "Danielle Shroeder",
+   "occupation": "unknown",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.29,27.77,84.36,3.91@p3",
+   "note": "the surname runs to the very edge of the name cell and the redaction bar begins there; 'Shroeder' is fully formed at 600 dpi but a further clipped character cannot be excluded. address redacted at source."
+  },
+  {
+   "line_no": 3,
+   "date": "2021-09-16",
+   "donor_raw": "Billy Hesterman",
+   "occupation": "Holland & Hart LLP",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.29,31.68,84.36,3.84@p3",
+   "note": "occupation written on two lines, 'Holland &' / 'Hart LLP'. address redacted at source."
+  },
+  {
+   "line_no": 4,
+   "date": "2021-12-16",
+   "donor_raw": "Jim Bradley",
+   "occupation": "S.L.Co. councilman",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.29,35.52,84.36,3.91@p3",
+   "note": "occupation written on two lines, 'S.L.Co.' / 'councilman'. address redacted at source. (This donor is the filer of the fifth filing in this same chunk, forms__jim-bradley_redacted_1.pdf - noted as an observation, not a join.)"
+  },
+  {
+   "line_no": 5,
+   "date": "2021-12-16",
+   "donor_raw": "Leo Sotriou, MD, LLC",
+   "occupation": "Dermatology",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.29,39.43,84.36,3.86@p3",
+   "note": "the entity suffix runs under the redaction bar: at 600 dpi 'MD, LL' is complete and only the left half of the final 'C' survives. Read as 'LLC' at medium confidence; nothing beyond it is legible and nothing was completed. address redacted at source."
+  },
+  {
+   "line_no": 6,
+   "date": "2021-12-16",
+   "donor_raw": "Virginia Anne Russo",
+   "occupation": "unknown",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.29,43.30,84.36,3.89@p3",
+   "note": "address redacted at source; occupation is the filer's own word 'unknown'."
+  },
+  {
+   "line_no": 7,
+   "date": "2021-12-23",
+   "donor_raw": "S.L. Board of Realto[\u2026] PAC Fund",
+   "occupation": "Realtors",
+   "amount": "6,000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.29,47.18,84.36,3.91@p3",
+   "note": "written on two lines, 'S.L. Board of Realto[...]' / 'PAC Fund'. The redaction bar clips the first line after 'Realto' and the remaining glyphs are NOT legible even at 600 dpi, so the word is left un-completed (a plausible completion is exactly what the contract forbids). Largest row on the filing. A second, smaller black box sits immediately left of the Occupation cell but does not cover the word 'Realtors'. address redacted at source."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2021-12-01",
+   "vendor_raw": "Amazon",
+   "purpose": "(1) Box of Christmas Cards",
+   "amount": "18.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.99,25.27,75.98,3.89@p4",
+   "note": "purpose written on two lines, '(1) Box of' / 'Christmas Cards'."
+  },
+  {
+   "line_no": 2,
+   "date": "2021-12-01",
+   "vendor_raw": "Postmaster",
+   "purpose": "(2) Books of Stamps",
+   "amount": "22.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.99,29.16,75.98,3.86@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2021-12-14",
+   "vendor_raw": "Mo Bettah's",
+   "purpose": "Staff Appreciation Luncheon",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.99,33.02,75.98,3.89@p4",
+   "note": "purpose written on two lines, 'Staff Appreciation' / 'Luncheon'."
+  }
+ ],
+ "total_contributions": "$64,893.50",
+ "total_expenditures": "$25,547.16",
+ "beginning_balance": "$39,346.34",
+ "ending_balance": "$46,616.34",
+ "aggregate": {
+  "total_contributions_to_date": "$72,243.50",
+  "total_expenditures_to_date": "$25,627.16",
+  "line5_subtotal": "$46,696.34"
+ },
+ "cover": {
+  "candidate": "Steven L DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "Jan. 25, 2022",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/debry-steve-2021ye.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L DeBry",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/globalassets/debry-steve-2021ye.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "TWO RECEIVED STAMPS, BOTH REAL INK, RECORDED VERBATIM (the chunk-file flag is CONFIRMED at the page): (1) in the Report Verification box, upper right, a blue 'RECEIVED' over a red date 'JAN 25 2022' over blue 'SALT LAKE COUNTY CLERK'; (2) inside the 'For Office Use Only' box at the foot of the page, a DOUBLED impression - two stamps struck almost on top of each other so that the word RECEIVED prints twice offset ('REDCEIVED'/'RECEIVED') and the clerk line prints twice ('SASALTUTLAKAKEE / COUNTY CLERK') - carrying the red date 'NOV 0 3 2021', with a second date's digits overlapping it (a '2' tail from a 2022 impression is visible past the '2021'). The second date is NOT separately legible and is NOT reconstructed here. THE REPORT DATE USED IS THE FORM'S OWN SIGNATURE/DATE LINE, 'Jan. 25, 2022', which is also written into the Date-of-Report box on pages 2, 3 and 4 - not either stamp. That agrees with the chunk file's 2022-01-25. || COLUMN-A SEMANTIC: this filer puts the PRIOR CUMULATIVE in Summary lines 1 and 2 Column A and the NEW cumulative in Column B; the period figures exist only at lines 4 and 6. totals.total_contributions / total_expenditures are recorded VERBATIM as the form prints them in Column A ($64,893.50 / $25,547.16) per the cache contract, but they are NOT this filing's period activity and must never be compared with another filer's Column A. The period activity is $7,350.00 in / $80.00 out. This is the per-filer semantic already documented for DeBry 2022 and Gill 2007 (campaign_finance/CLAUDE.md finding 12), now confirmed on the 2021 year-end. || FORM VINTAGE: the older 'SHERRIE SWENSEN / Salt Lake County Clerk' letterhead, title 'Financial Disclosure Report / For a Candidate' with NO printed year, every page footed 'k://election/candidateinfo/financialdisclosures/04pccfindisc.doc'; form_year is honestly '' (the chunk file's form_family 'untitled-year' is confirmed) and the '04' in that path is a template name, not a year. || The YEAR-END box is ticked; NEITHER amendment box (Yes nor No) is ticked, so is_amendment is left blank rather than guessed as 'No'. || PRIVACY: the cover's street-address block and the phone/fax/email block are both black-barred at source; on Schedule A the county bar covers the whole 'Complete Mailing Address' column, so every row is 'redacted at source' - no city or state survives for any of the 7 donors, and nothing was inferred. || The chunk file's candidate/office/seat/date/reporting_period all agree with the form.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$7,350.00",
+     "schedule_total": "",
+     "itemized": "7350.00",
+     "basis": "summary-line-4",
+     "detail": "\u26a0 THE FLAGGED DeBRY BASIS TRAP IS PRESENT ON THIS FILING, AND IT RUNS ONE LEVEL DEEPER THAN ON HIS 2015-2018 FILINGS. Tested at the page, column by column: Schedule A (p3) prints SUBTOTAL FOR THIS PAGE = $7,350.00 and TOTAL CONTRIBUTIONS RECEIVED (Sum of subtotals from all Schedule A pages) = $72,243.50. The $72,243.50 cell equals Summary line 1 COLUMN B exactly (cycle-cumulative) - a DIFFERENT SCOPE, never an anchor for these rows. But on THIS filing Summary line 1 COLUMN A does NOT hold the period figure either: it reads $64,893.50, which is the PRIOR cumulative (it is byte-for-byte the schedule grand total of his 2018 year-end filing, chunk_13), and 72,243.50 - 64,893.50 = 7,350.00 exactly. The period figure is printed at Summary line 4 (Total Contributions Received, From Line 1 Column A) = $7,350.00, and that is the figure the page subtotal matches. The 7 transcribed rows sum to 7,350.00 = printed page subtotal = Summary line 4, so the side is EXACT. Anchoring on the schedule grand total would have manufactured a $64,893.50 delta; anchoring on Summary line 1 Column A would have manufactured a $57,543.50 one. The schedule's grand-total cell ($72,243.50) is recorded verbatim in totals.total_contributions_to_date and in page_subtotal_gates rather than in schedule_total, because on this filing it is a Column-B-scope figure and the screen would otherwise adopt it as the anchor.",
+     "result": "exact"
+    },
+    "expenditures": {
+     "stated": "$80.00",
+     "schedule_total": "",
+     "itemized": "80.00",
+     "basis": "summary-line-6",
+     "detail": "Same inversion on Schedule B and verified the same way. p4 prints SUBTOTAL FOR THIS PAGE = $80.00 and TOTAL EXPENDITUTRES MADE (Sum of subtotals from all Schedule B pages) = $25,627.16; the latter equals Summary line 2 COLUMN B (cycle-cumulative). Summary line 2 COLUMN A reads $25,547.16 = the PRIOR cumulative (25,627.16 - 25,547.16 = 80.00), so it is not the period figure either. The period figure is Summary line 6 = $80.00. The 3 transcribed rows (18.00 + 22.00 + 40.00) sum to 80.00 = printed page subtotal = Summary line 6. EXACT. Gating on the schedule grand total would have fabricated a $25,547.16 delta.",
+     "result": "exact"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 350.00+50.00+250.00+100.00+400.00+200.00+6,000.00 = 7,350.00 = printed SUBTOTAL FOR THIS PAGE $7,350.00 (EXACT). p4 rows 18.00+22.00+40.00 = 80.00 = printed SUBTOTAL FOR THIS PAGE $80.00 (EXACT). Both pages ALSO print a grand-total cell - $72,243.50 on p3 and $25,627.16 on p4 - and BOTH were tested against the Summary columns first, found to equal Column B (cycle-cumulative), and deliberately NOT used as gates.",
+   "escalations": 2,
+   "escalation_note": "p3 date+name columns re-rendered as a 600 dpi cell crop (x=540,y=1560,W=1620,H=1900) to settle the donor names running under the redaction bar; p1 signature/stamp block re-rendered at 600 dpi (x=2400,y=5080,W=2100,H=1200) to read the two overlapping RECEIVED impressions.",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "TWO RECEIVED STAMPS, BOTH REAL INK, RECORDED VERBATIM (the chunk-file flag is CONFIRMED at the page): (1) in the Report Verification box, upper right, a blue 'RECEIVED' over a red date 'JAN 25 2022' over blue 'SALT LAKE COUNTY CLERK'; (2) inside the 'For Office Use Only' box at the foot of the page, a DOUBLED impression - two stamps struck almost on top of each other so that the word RECEIVED prints twice offset ('REDCEIVED'/'RECEIVED') and the clerk line prints twice ('SASALTUTLAKAKEE / COUNTY CLERK') - carrying the red date 'NOV 0 3 2021', with a second date's digits overlapping it (a '2' tail from a 2022 impression is visible past the '2021'). The second date is NOT separately legible and is NOT reconstructed here. THE REPORT DATE USED IS THE FORM'S OWN SIGNATURE/DATE LINE, 'Jan. 25, 2022', which is also written into the Date-of-Report box on pages 2, 3 and 4 - not either stamp. That agrees with the chunk file's 2022-01-25. || COLUMN-A SEMANTIC: this filer puts the PRIOR CUMULATIVE in Summary lines 1 and 2 Column A and the NEW cumulative in Column B; the period figures exist only at lines 4 and 6. totals.total_contributions / total_expenditures are recorded VERBATIM as the form prints them in Column A ($64,893.50 / $25,547.16) per the cache contract, but they are NOT this filing's period activity and must never be compared with another filer's Column A. The period activity is $7,350.00 in / $80.00 out. This is the per-filer semantic already documented for DeBry 2022 and Gill 2007 (campaign_finance/CLAUDE.md finding 12), now confirmed on the 2021 year-end. || FORM VINTAGE: the older 'SHERRIE SWENSEN / Salt Lake County Clerk' letterhead, title 'Financial Disclosure Report / For a Candidate' with NO printed year, every page footed 'k://election/candidateinfo/financialdisclosures/04pccfindisc.doc'; form_year is honestly '' (the chunk file's form_family 'untitled-year' is confirmed) and the '04' in that path is a template name, not a year. || The YEAR-END box is ticked; NEITHER amendment box (Yes nor No) is ticked, so is_amendment is left blank rather than guessed as 'No'. || PRIVACY: the cover's street-address block and the phone/fax/email block are both black-barred at source; on Schedule A the county bar covers the whole 'Complete Mailing Address' column, so every row is 'redacted at source' - no city or state survives for any of the 7 donors, and nothing was inferred. || The chunk file's candidate/office/seat/date/reporting_period all agree with the form."
+  }
+ }
+}

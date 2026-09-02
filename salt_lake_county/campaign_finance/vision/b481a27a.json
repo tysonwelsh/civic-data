@@ -1,6 +1,62 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-05-01",
+   "donor_raw": "Kerry Soelberg",
+   "occupation": "Retired",
+   "amount": "282.63",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,20.84,89.60,3.89@p3",
+   "note": "city/state redacted at source (address cell bar-blackened)"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-08-31",
+   "donor_raw": "Kerry Soelberg",
+   "occupation": "retired",
+   "amount": "357.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,24.73,89.60,3.91@p3",
+   "note": "occupation printed lowercase 'retired' verbatim; city/state redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-05-01",
+   "vendor_raw": "Kerry Soelberg",
+   "purpose": "Loan to campaign - filing fee",
+   "amount": "282.63",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,22.18,81.28,3.93@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-08-31",
+   "vendor_raw": "WIX",
+   "purpose": "Loan to campaign - website",
+   "amount": "357.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,26.11,81.28,3.91@p4"
+  }
+ ],
  "total_contributions": "$640.02",
  "total_expenditures": "$640.02",
  "beginning_balance": "$0.00",
@@ -49,6 +105,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Form title reads 2020 (template reuse). Contributions equal expenditures exactly."
+  "notes": "Form title reads 2020 (template reuse). Contributions equal expenditures exactly.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "640.02",
+     "schedule_total": "640.02",
+     "itemized": "640.02",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "rows 282.63 + 357.39 = 640.02 = Summary line 1 Column A = schedule TOTAL; cached anchor confirmed at the page"
+    },
+    "expenditures": {
+     "stated": "640.02",
+     "schedule_total": "640.02",
+     "itemized": "640.02",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "rows 282.63 + 357.39 = 640.02 = Summary line 2 Column A = schedule TOTAL"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 640.02 = printed SUBTOTAL FOR THIS PAGE 640.02; p4 rows 640.02 = printed subtotal 640.02",
+   "escalations": 0,
+   "escalation_note": "400dpi row-band re-read crops for verification only; no disputes",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2022 filing on the '2020 Financial Disclosure Report For a Candidate' form (form_year 2020, cycle 2022). September 15 interim box checked; amendment = Yes, date of report amended 2022-09-13; signed 09/14/22. Party UUP; Office Sought '_Council - District', District Number 3. Both Schedule A rows are the candidate's own contributions (Schedule B purposes read 'Loan to campaign'); audit prior confirmed at the page. Contributor address cells bar-redacted at source; occupation survives the bar. Column B on the Summary prints $0.00 for lines 1-2 (filer left aggregate zero)."
+  }
  }
 }

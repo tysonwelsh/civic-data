@@ -1,0 +1,81 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C04.json",
+ "key": "32df275d",
+ "index_path": "raw/2012/2012_cc_B_Franklin_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2012/2012_cc_B_Franklin_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "2a94d7b6998d2b52",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "A TRUE ZERO FILING. Every one of the twelve cells in the cover's four-line grid carries a SLASHED ZERO glyph, which is 0 under the repo-wide zero-glyph ruling (the verbatim glyph is a slashed zero, not a bare dash). Form A (p2) is entirely blank - no ink on any of the ~40 ruled bands, and no strike-out mark. Zero rows against a printed zero, in all three columns, so the scopes coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form B (p3) is entirely blank - no ink on any ruled band, no strike-out. Cover line 3 reads a slashed zero in all three columns. Zero rows against a printed zero."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr form prints no schedule or page subtotal. p2 rows 0 = cover line 1 = 0 (slashed zero, all three columns). p3 rows 0 = cover line 3 = 0 (slashed zero, all three columns). Both gate.",
+  "row_count": "p2 and p3 each carry ~40 ruled writing bands with ZERO inked (verified on the full-page 200 dpi renders; the only marks on either page are two faint scanner specks in the top-left margin, outside the grid). 0 rows emitted on each side.",
+  "geometry_proof": "Not applicable - no rows on either side, so no geometry pointers are emitted. Both schedule pages were rendered and read in full at 200 dpi.",
+  "balance_chain": "CLOSES TRIVIALLY: 0 + 0 - 0 = 0 = cover line 4 balance (slashed zero in all three columns). Every printed cell on the cover is a zero glyph and they are mutually consistent."
+ },
+ "escalations": 0,
+ "escalation_note": "No escalation needed - nothing on either schedule to escalate, and the cover's twelve zero glyphs are unambiguous at 200 dpi.",
+ "notes": "Cover reads 'Barry Martin Franklin' (index.csv abbreviates it 'B Franklin' - agrees), office line verbatim 'County Council', Office District 'District 1, Logan' - a county office, in scope. Signature date line reads 'Oct 26, 201' with a trailing glyph the filer did not close (most likely a 2); the clerk stamp reads RCVD 26 OCT 2012, agreeing with the chunk date 2012-10 - so the report date is 2012-10-26. NOT a gap: this filer reported no money at all, on a fully-executed and clerk-received form. Empty here means ZERO, not un-transcribed. Candidate street address, ZIP and both phone numbers on the cover were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

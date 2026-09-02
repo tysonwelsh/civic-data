@@ -1,0 +1,75 @@
+[{
+ "index_path": "raw/2010/2010_CountyClerkAuditor-ThompsonBryanE-061510.pdf",
+ "key": "4592dac0",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED ($804.16, cents written raised and underlined) on the p2 Summary Page, which is also Schedule A's own printed 'Subtotal for this page' (804.16) and its printed 'Total Contributions Received' (804.16)",
+   "detail": "3 Schedule A rows sum to 500.00 + 290.00 + 14.16 = 804.16 exactly = the schedule's printed page subtotal = the schedule's printed Total Contributions Received = the cover's PROMOTED per-period cell Column A. ⚠ THIS ONLY CLOSES WITH THE IN-KIND ROW COUNTED INLINE: the filer wrote '(In-Kind)' beside the 290.00 PoliticalWS.com row, and a monetary-only sum is 514.16, which matches NOTHING printed on the filing. Both conventions were tested and the monetary-PLUS-in-kind one closes to the cent, so this filer books in-kind inside the Column A figure (the family default is cash-only — see in_kind_convention). Column B 'Year-to-Date Total' also prints 804.16 because this is the filer's first report of the cycle (line 3 is a slashed-zero), and it was never summed as an increment."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE ($804.16) on the p2 Summary Page, equal to Schedule B's printed 'Subtotal for this page' (804.16) and its printed 'Total Expenditures Made' (804.16 — the filer struck the printed word 'Received' and wrote 'Made')",
+   "detail": "4 Schedule B rows sum to 473.46 + 25.00 + 15.70 + 290.00 = 804.16 exactly = the printed page subtotal = the printed total = the cover's Column A. The 290.00 PoliticalWS.com line is the SAME transaction as the in-kind contribution on Schedule A, booked on both sides as the form's arithmetic requires — which is why contributions and expenditures are equal on this filing and the balance closes at zero. Row 3's cents (15.70) are confirmed by that closure. Column B YTD 804.16 is identical (first report of the cycle) and was not summed as an increment. The p2 ladder is internally consistent: line 3 slashed-zero + line 4 (804.16) = line 5 (804.16); 804.16 - line 6 (804.16) = line 7 slashed-zero."
+  }
+ },
+ "in_kind_convention": "MONETARY-PLUS-IN-KIND — tested both ways, and this is a per-filer departure from the legacy_colAB family default. Monetary-only contributions sum to 514.16, which appears nowhere on the document; counting the filer's own '(In-Kind)'-annotated 290.00 row gives 804.16, which is simultaneously Schedule A's page subtotal, its Total Contributions Received and the cover's Column A. The same 290.00 is also carried on Schedule B, so the in-kind transaction sits inside BOTH stated totals on this filing.",
+ "escalations": 3,
+ "escalation_note": "(1) p3 row 1 Date — a 1400 dpi crop rendered a heavily scribbled-out token followed by '2008', with 'August' inserted above the line: the date is 'August 2008' (a struck earlier entry the filer overwrote). Kept verbatim including the fact that it predates the 2010 cycle. (2) p3 in-kind attribution — an 1100 dpi crop of the amount column across rows 2-3 rendered '$290 00' on row 2's line with '(In-Kind' written directly beneath it inside a curly brace whose arrow curves up and points AT the 290 line; the 14.16 row below is separate and unlabelled. So the in-kind mark belongs to row 2, not row 3. (3) p4 row 3 cents (15.70) — settled by the page's own subtotal (804.16 less the other three rows), i.e. by arithmetic rather than by glyph.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [84.93, 95.17],
+   "cells": [[5.77, 18.25], [19.84, 53.97], [55.27, 83.34], [84.93, 95.17]],
+   "rows": [[15.02, 19.07], [19.07, 23.12], [23.12, 27.20]],
+   "measure_note": "legacy_colAB Schedule A underline form. rowbands.py (200 dpi, raw frame, skew +0.0) returns 17 per-column underline rules from 19.07 at a regular pitch of 4.05, each carrying the 4 segments that ARE the column bands (Date 5.77-18.25, Name 19.84-53.97, Address 55.27-83.34, Amount 84.93-95.17). THE TEXT SITS ABOVE ITS UNDERLINE: row N spans [rule N-1, rule N]; row 1 extrapolated one pitch up (19.07 - 4.05 = 15.02). TWO-CROP PROOF at 900 dpi: the FIRST row's amount box pct:84.93,15.02,10.24,4.05@p3 rendered '$500' with a raised underlined '00' (recorded 500.00), and the LAST transcribed row's amount box pct:84.93,23.12,10.24,4.08@p3 rendered '$14.16' (recorded 14.16) — with the '(In-Kind' annotation visible at the top of that box, i.e. written in the gap below row 2's amount. An 1100 dpi control crop across rows 2-3 rendered '$290 00' on row 2's own line, confirming the middle band is not shifted. NOTE the row-3 donor's address runs on into the two blank bands below it (the filer wrote three lines of address); that spill does not move the row's amount, which sits on row 3's own underline."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [84.99, 95.23],
+   "cells": [[6.47, 18.30], [19.89, 53.80], [55.15, 83.34], [84.99, 95.23]],
+   "rows": [[15.25, 19.30], [19.30, 23.35], [23.35, 27.42], [27.42, 31.50]],
+   "measure_note": "Same underline grid as p3 (skew +0.0): 17 rules from 19.30 at pitch 4.05; column bands Date 6.47-18.30, Name 19.89-53.80, Address 55.15-83.34, Amount 84.99-95.23. Row 1 extrapolated one pitch up (19.30 - 4.05 = 15.25). TWO-CROP PROOF at 900 dpi: the FIRST transcribed row's amount box pct:84.99,15.25,10.24,4.05@p4 rendered '$473.4' with the raised '6' at the band edge (recorded 473.46; the full-page read shows '473.46' with raised underlined cents), and the LAST transcribed row's amount box pct:84.93,27.42,10.24,4.08@p4 rendered '$290' with a raised '00' (recorded 290.00). The bands are therefore anchored at both ends of the 4-row ledger."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "August 2008",
+   "donor_raw": "Utah County Republican Party", "donor_city": "Provo", "donor_state": "UT",
+   "amount": "500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "DATE KEPT VERBATIM AND IT PREDATES THE CYCLE: the cell holds a heavily scribbled-out token followed by '2008', with 'August' inserted above the line, so the filer's final date is 'August 2008' on a 2010 report — well-formed but out of period; transcribed as printed and flagged, never corrected. Cents written as a raised, underlined '00' after '$500'. PRIVACY: the address cell prints a mailing-box line before the city; only city/state are carried."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "March-June 2010",
+   "donor_raw": "Political WS. com (Matt Thompson)", "donor_city": "Provo", "donor_state": "UT",
+   "amount": "290.00", "in_kind": true, "confidence": "medium", "verified": 1,
+   "note": "THE FILER'S OWN IN-KIND ROW: '(In-Kind)' is written under the amount inside a curly brace with an arrow pointing at this line (verified at 1100 dpi). Counting it is what closes Schedule A on 804.16. The date is a RANGE ('March-June 2010'), kept verbatim — no single day is invented. The name is written 'Political WS. com' with the payee's own name in parentheses; kept verbatim rather than normalized to a domain. PRIVACY: street address printed on the form is deliberately not carried. The same transaction is booked again on Schedule B row 4."},
+  {"line_no": "3", "page": 3, "row": 3, "date": "4/23/10",
+   "donor_raw": "Self - (Loan to Campaign)", "donor_city": "Spanish Fork", "donor_state": "UT",
+   "amount": "14.16", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the filer's own self-funding line, written 'Self - (Loan to Campaign)' and kept as one row exactly as reported. The address cell is the candidate's own residence, written over three lines; only city/state are carried. Counted as cash by the schedule's own subtotal."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "3/12/2010",
+   "vendor_raw": "Utah County Elections",
+   "amount": "473.46", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Schedule B on this legacy form prints no Purpose column, so purpose is honestly blank; the filer struck the printed header 'Name of Contributor' and wrote 'Vendor' above it. Cents written raised and underlined. PRIVACY: the address column is unredacted on this filing and prints street addresses; an expenditure row carries no address field and none of that text is reproduced."},
+  {"line_no": "2", "page": 4, "row": 2, "date": "4/22/2010",
+   "vendor_raw": "Utah County Republican Party",
+   "amount": "25.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "no Purpose column on this form. Cents written as a raised, underlined '00'."},
+  {"line_no": "3", "page": 4, "row": 3, "date": "4/23/2010",
+   "vendor_raw": "Maceys",
+   "amount": "15.70", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "no Purpose column on this form; payee written 'Maceys' without an apostrophe, kept verbatim. The cents are settled by the page's own subtotal (804.16 less the other three rows = 15.70), not by the glyph."},
+  {"line_no": "4", "page": 4, "row": 4, "date": "March10-June10",
+   "vendor_raw": "Political WS. com (Matt Thompson)",
+   "amount": "290.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "no Purpose column on this form. Date is a RANGE written 'March10-June10', kept verbatim. THIS IS THE EXPENDITURE SIDE OF THE SAME IN-KIND TRANSACTION recorded as contribution line 2 — but Schedule B prints NO in-kind marking on it, so in_kind is left false here and the relationship is stated in this note rather than asserted as a field the page does not carry."}
+ ],
+ "notes": "PAGE-FACE CANDIDATE: 'Bryan E. Thompson' — index.csv names NO candidate for this row; the page face governs. Office Seeking hand-written 'Utah County Clerk/Auditor'; party 'Republican'; residence city Spanish Fork, UT (the cover prints a street address, which is deliberately not recorded anywhere in this file). legacy_colAB variant, 4 pages, each classified from its own printed header: p1 COVER ('Seven days preceding the Primary Election' checked, amendment 'No', signed 6/14/10), p2 SUMMARY PAGE (its own printed header; the expected p2 ordinal — and the filer's own page box numbers it '1 of 3', leaving the cover uncounted), p3 SCHEDULE A ('2 of 3'), p4 SCHEDULE B ('3 of 3'). THE HEADLINE FINDING IS THE IN-KIND CONVENTION: this filer books in-kind INSIDE Column A (804.16 closes only with the 290.00 in-kind row counted; monetary-only gives 514.16 and matches nothing printed) — a per-filer departure from the cash-only family default, exactly the case the brief says to test rather than inherit. Both p2 zero cells (line 3 beginning balance and line 7 closing balance) are SLASHED ZEROS and read 0 under the zero-glyph ruling. FILER'S OWN EDITS TO THE FORM, retained as printed: on Schedule B the header 'Name of Contributor' is struck and 'Vendor' written above it, and the footer 'Total Expenditures Received' is struck and 'Made' written above it. A LARGE DIAGONAL PEN STROKE runs across the blank lower two-thirds of Schedule B (the conventional void of unused lines); it touches none of the four entries and no figure. The clerk's FILED stamp on p1 is printed UPSIDE DOWN ('FILED UTAH COUNTY 10 JUN 15 PM 1:54 CLERK / AUDITOR'), which is why the index period (06/15/10) is a day later than the filer's signature date (6/14/2010). This is the earlier of two Thompson 2010 filings in this chunk (the other is 9935eb94, 10/26/10); the two were transcribed strictly independently and no figure was differenced across covers."
+}]

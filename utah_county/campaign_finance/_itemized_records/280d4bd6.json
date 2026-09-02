@@ -1,0 +1,28 @@
+[{
+ "index_path": "raw/2021/2021_Powers__Gardner__2.pdf",
+ "key": "280d4bd6",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r9_02)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4, 5, 6],
+ "sides": {"contributions": "empty-schedule", "expenditures": "empty-schedule"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Schedule A's own two printed footers on p2 — 'Subtotal for this page $ 0' and 'Total Contributions Received $ 0' (typed numeral zeros, not nil marks)",
+   "detail": "The p2 Schedule A grid is COMPLETELY UNMARKED: all 15 boxed rows are blank in all four columns. Zero rows sum to 0, which equals both of the schedule's own printed footers. The p4 SUMMARY PAGE cannot be used as the anchor here because Box B ('Contributions Received this Period') and Box C ('... Year to Date') are BOTH LEFT WHOLLY EMPTY by the filer — an empty cell, not a zero and not a nil mark — so the schedule's own footers are the only printed contribution figure on the document, and they say 0. Nothing was synthesized."
+  },
+  "expenditures": {
+   "result": "unknown",
+   "anchor": "no single printed figure governs this side — Schedule B's own footers on p3 print 'Subtotal for this page $ 0' and 'Total Expenditures Made $ 0', while the p4 Summary Page's Box D holds a typed SENTENCE, '$1697.99 tranferred to Utah County Commission Report' (filer's spelling), not an amount",
+   "detail": "The p3 Schedule B grid is COMPLETELY UNMARKED: all 15 boxed rows are blank in all four columns, and the schedule's two printed footers both read 0. Zero rows sum to 0 and match those footers. BUT the document states elsewhere, in words, that 1,697.99 left this committee: Box A prints $1697.99, Box D prints the transfer sentence in place of a figure, Box E and Box F are empty, and the close balance prints $0. The module's cover tranche promoted 1697.99 out of that sentence as stated_total_expenditures. The two printed statements have different scopes and different kinds (an itemized-schedule total versus a narrative disposition of the closing balance), so NO reconciliation is asserted: this is a close-out report whose only 'expenditure' is a transfer the filer chose not to itemize on Schedule B. Recorded as unknown rather than exact so the divergence stays visible, and nothing was differenced across filings to resolve it."
+  }
+ },
+ "in_kind_convention": "not applicable — both schedules are wholly unmarked, so there is no row to test either convention on",
+ "escalations": 0,
+ "escalation_note": "",
+ "frames": {},
+ "contributions": [],
+ "expenditures": [],
+ "notes": "AMELIA POWERS GARDNER, County Clerk-Auditor, a CLOSE-OUT report with BOTH SCHEDULES HONESTLY EMPTY. modern_boxAF rev 'v. 4.20', born-digital typed fillable form, digitally signed ('Digitally signed by Amelia Powers Gardner, Date: 2022.04.01 12:23:29 -06'00''), printed and re-scanned. SIX pages, each classified from its own printed header: p1 cover, p2 'Schedule A - Itemized Contributions Received' (grid wholly unmarked; both footers typed 0), p3 'Schedule B - Itemized Expenditures Made' (grid wholly unmarked; both footers typed 0), p4 'Summary Page', p5 the CHECKLIST DECOY, p6 BLANK. THE SIDES ARE 'empty-schedule', NOT 'no-schedule-page' AND NOT 'withheld': both pages exist, are the county's own printed schedule forms, and the filer entered nothing on them, saying so with typed zeros on the footers. WHAT THE SUMMARY PAGE ACTUALLY PRINTS: Box A $1697.99; Box B EMPTY; Box C EMPTY; Box D the typed sentence '$1697.99 tranferred to Utah County Commission Report' (the filer's own misspelling of 'transferred', kept verbatim) written where an amount belongs; Box E EMPTY; Box F EMPTY; 'Balance at Close of Reporting Period' $0. The 1697.99 reappears as the Box A opening balance of this filer's OTHER 2021-filed report (key 8a0eb2ca, the Commission Seat A report dated one day later), which is what her sentence describes — recorded as an observation only; NOTHING WAS DIFFERENCED OR CARRIED BETWEEN THE TWO FILINGS, and this record makes no claim that rests on the other document. THE CHECKLIST DECOY IS BOUND IN AT p5 — 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST', reciting every summary-page label with ZERO dollar figures, printed twice on the one sheet with two staff review copies (Staff Signature #1 in red dated 4/4/22, Staff Signature #2 in purple dated 4/4/2022), and on THIS filing the top-right 'HOLD' box is circled in red. Not a summary page. REPORT TYPE IS AN HONEST BLANK: none of the five 'Mark the applicable report' radios is filled and the amendment question is answered neither Yes nor No; the channel's label is 'End of Term', which the page itself never prints. Page-face office reads 'Utah County Clerk Auditor' against the channel's 'County Clerk' — the page face governs and no seat or title was inferred. Page-face candidate agrees with the channel label. Foliation is cover-counted (Page 1/2/3/4 on pp1-4; checklist and blank sheet unfoliated). Date of Report 4/01/2022 on all four report pages, while the channel files the row under candidacyYear 2021 — recorded, not adjudicated. NO GEOMETRY FRAME IS DECLARED because there are no rows; the grids were nonetheless measured and inspected full-page (p2: 16 full-width rules 17.37..82.48, 15 empty bands; p3: 16 full-width rules 17.07..82.16, 15 empty bands) and the white space below each grid's last rule was inspected for an addendum-F1 below-the-rule entry — there is none on either page. PRIVACY: the county published this filing unredacted; the cover's street line was read and deliberately not carried."
+}]

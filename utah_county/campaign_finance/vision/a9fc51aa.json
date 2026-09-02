@@ -3,7 +3,10 @@
  "key": "a9fc51aa",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:22:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 12.23",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,81 @@
    "notes": "Born-digital typed fillable form. Office field reads 'Utah County Comm. Seat B' (index.csv 'County Commission Seat B' - agrees, abbreviated). The ENTIRE address row (its label bar as well as street/city/state/zip) and the signature block are redacted upstream by the county with wide black bars, so residence_city is ''; the phone number and email survive on this copy. Boxes A and the Balance at Close are typed '$0' with no cents. The cover page's own 'Date of Report' and 'Page' boxes are left BLANK; report_date is taken from the signature date 3/8/26, which matches the summary page's Date of Report box. This cover prints the office phone as (801)851-8683 where most v. 12.23 copies print (801)851-8128."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "1/8/2026",
+   "donor_raw": "Brian Voeks (loan)",
+   "amount": "901.50",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.50,15.98,13.80,4.54@p2",
+   "geometry_frame": "p2 axis=y cell=80.50-94.30 rowband=15.98-20.52 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The candidate's own loan to the campaign, written on Schedule A with '(loan)' inside the Name of Contributor cell and kept verbatim. It IS an itemized contribution row here because the summary ladder closes only that way (Box A = $0, Box F = A + B = $901.50) \u2014 the classification comes from the arithmetic, never from the word. donor_city / donor_state are honestly BLANK because THE COUNTY REDACTED the whole 'Address and Zip Code' cell: a solid black bar covers it edge to edge on an otherwise clean born-digital page. That is redaction by the clerk, NOT a cell the filer left empty. Date written in full four-digit form '1/8/2026', kept verbatim."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "1/8/2026",
+   "vendor_raw": "Utah County Clerk (Elections Division)",
+   "purpose": "Candidate filing fee",
+   "amount": "901.50",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.50,15.98,13.80,4.54@p3",
+   "geometry_frame": "p3 axis=y cell=80.50-94.30 rowband=15.98-20.52 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The 2026 v. 12.23 Schedule B carries a REAL Purpose column and the filer used it. The vendor's parenthetical is the filer's own text, kept verbatim. Expenditure rows carry no address field on this form and none is written."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5[1m]; 2026-08-20 wave B2 utah chunk r13_03)",
+   "transcribed_date": "2026-08-20",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' ($901.50) on the p4 Summary Page, corroborated by Schedule A's own printed 'Subtotal for this page $901.50' AND its printed 'Total Contributions Received (Sum of all Schedule A pages in this report) $ 901.50'",
+     "detail": "The single written Schedule A row sums to 901.50 exactly = the page subtotal = the sum-of-all-pages total = the promoted per-period Box B. Box C (Year to Date) prints the identical $901.50 and is NOT summed as an increment; this is the cycle's only report (a 30-days-after-withdrawal-or-elimination report filed 3/8/26), so period == year-to-date. THE LOAN QUESTION WAS RUN, NOT ASSUMED (ADDENDUM B3): the row is written 'Brian Voeks (loan)', but Box A 'Balance at Beginning of Reporting Period' prints $0 and Box F ($901.50) = A + B, so there is no beginning-balance slot for it and the ladder closes ONLY with the loan counted as an itemized contribution row. It is therefore published as a contribution row, exactly as the Kirk 2010 / Grierson 2012 / \u00a7L6 precedents resolved it, and NOT by the word 'loan'."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' ($901.50) on the p4 Summary Page, corroborated by Schedule B's own printed 'Subtotal for this page $901.50' AND its printed 'Total Expenditures Made (Sum of all Schedule B pages in this report) $901.50'",
+     "detail": "The single written Schedule B row sums to 901.50 exactly = the page subtotal = the sum-of-all-pages total = the promoted per-period Box D. Box E (YTD) prints the identical $901.50 and is never summed as an increment. The whole filing is one transaction in and one transaction out on the same date: a $901.50 candidate loan received 1/8/2026 and $901.50 paid the same day to the Utah County Clerk (Elections Division) for the candidate filing fee, closing the ladder at $0 (Box F - Box D = 901.50 - 901.50 = 0, which the close box prints as $0). NOTE: the 901.50 filing fee is recorded as an OBSERVATION only and was used to corroborate nothing \u2014 ADDENDUM L3 demolished the fee as a cross-filing signal."
+    }
+   },
+   "in_kind_convention": "monetary-only \u2014 and the two conventions are identical here. This filing's Schedule A prints FOUR columns (Date / Name of Contributor / Address and Zip Code / Amount) with NO in-kind checkbox column, neither row is annotated in-kind, and the Summary Page carries no in-kind line and no compound '+Inkind' cell. Both conventions give 901.50 on each side and both close exactly.",
+   "escalations": 3,
+   "escalation_note": "Three crops, all named with this filing's key. (1) p2 band 16, which rowbands.py reported as a data band, was cropped at 900 dpi (a9fc51aa_p2_r16.png) and renders the printed line 'Subtotal for this page $ 901.50' \u2014 NOT a grid row. The subtotal's own underline is what the tool detected as an extra rule, so the printed Schedule A grid is FIFTEEN rows and the frame stops at band 15 (crop-proved empty, a9fc51aa_p2_r15.png). Recorded because a transcriber trusting data_bands here would have indexed one row past the grid. (2-3) The two proof crops per page (see measure_note). Nothing on this filing was doubtful as to VALUE: it is a born-digital typed fillable form, every figure is machine type, and every printed total agrees to the cent.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 2,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "FORM CHARACTERISATION (2026 stock, second specimen) \u2014 and it DIFFERS FROM THE FIRST. Variant modern_boxAF, footer 'v. 12.23' on every page, masthead 'Aaron Davidson, Clerk'. Four pages, summary LAST, all classified by their own printed headers: p1 cover, p2 'Schedule A - Itemized Contributions Received', p3 'Schedule B - Itemized Expenditures Made', p4 'Summary Page'. NO CHECKLIST DECOY is bound in this document. ** THE MATERIAL FINDING: this filing's Schedule A third column is headed 'Address and Zip Code' \u2014 the 2024 v. 12.23 layout \u2014 whereas Brent Bowles's 2026 filing (key d4741fec), on the SAME v. 12.23 footer and the SAME masthead, heads that column 'City and Zip Code'. TWO SCHEDULE-A BLANKS CIRCULATE IN THE 2026 CYCLE UNDER ONE VERSION FOOTER. ** Neither has an in-kind checkbox column, and both keep the real Purpose column on Schedule B, so the difference is confined to what the third column asks for. The version footer identifies a print run, not the form \u2014 read the heading off every page. Report-type list is the five-option 12.23 set; '30 Days after withdrawal or elimination' is ticked, the amendment question is ticked 'No', and the Summary Page prints A, B/C, D/E, F and an UNLETTERED close box. Foliation is continuous counting the cover (Page 2 / 3 / 4 on the inner sheets; the cover's own Date of Report and Page boxes are left blank while every inner sheet carries them). A small intra-document inconsistency worth recording and not adjudicating: the Date of Report reads '3/8/2026' on pp2-3 and '3/8/26' on p1 and p4. BORN-DIGITAL, so every figure is machine type and no glyph was in doubt; but note that the pages were nonetheless printed, redacted and re-scanned, so row confidence stays at the OCR tier 'medium' per SCHEMA \u00a76. PAGE-FACE IDENTITY: cover, every sheet's candidate box and the affirmation line all read 'Brian Voeks', matching index.csv. The OFFICE BOX IS FILLED AND LEGIBLE \u2014 'Utah County Comm. Seat B' \u2014 which corroborates index.csv's 'County Commission Seat B' from the page itself (an abbreviation, not a conflict). REDACTION: the county blacked out (a) the entire address ROW of the cover including its own printed label bar, (b) the cover's signature block, and (c) the single donor's whole 'Address and Zip Code' cell on p2. The phone number and email on the cover were left in the clear \u2014 redaction on this document is per-cell and inconsistent, as ADDENDUM I1's rule predicts. Nothing from a redacted cell is reconstructed, and the p2 row's blank city/state is recorded as redacted-by-the-county rather than left-empty-by-the-filer. WHOLE FILING IN ONE LINE: a $901.50 candidate loan in on 1/8/2026 and the $901.50 candidate filing fee out the same day, closing at zero \u2014 the filer withdrew or was eliminated and filed the 30-day report. The filing fee figure is an observation only and was used to corroborate nothing (ADDENDUM E1/F5/L3)."
+  }
+ }
 }

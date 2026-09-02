@@ -1,0 +1,68 @@
+[{
+ "index_path": "raw/2010/2010_CommissionSeatBHouskeeperLinda052410.pdf",
+ "key": "9348e3c7",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Schedule A's OWN printed figures — 'Subtotal for this page $581.90' and 'Total Contributions Received $581.90' — corroborated on the p2 Summary Page by line 4, 'Total Contributions Received (From Line 1 Column A) 581.90', which the form itself declares to be the Column A per-period figure. THE COVER'S line-1 Column A CELL IS BLANK on this filing (a document-level property flagged by the 2026-08-01 cover tranche), so the schedule's own printed total is what gates this side.",
+   "detail": "1 Schedule A entry: 581.90 = the schedule's printed page subtotal = the schedule's printed Total Contributions Received = summary line 4 (which the form instructs the filer to copy 'From Line 1 Column A'). Column B 'Year-to-Date Total' prints 581.90 as well and is NOT summed as an increment; because line 3 'Balance at Beginning of Reporting Period' is 0 and this is the filer's only report of the cycle, the period figure and the YTD figure necessarily coincide, so nothing was differenced across filings to reach this. THREE summary cells are genuinely EMPTY and are not zeros: line 1 Column A, line 2 Column A and line 5 (Subtotal). The ladder that IS printed closes: line 3 0 + line 4 581.90, less line 6 581.90, = line 7 (a written zero flanked by dashes = 0)."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Schedule B's OWN printed figures — 'Subtotal for this page $581.90' and 'Total Expenditures Received $581.90' — corroborated by p2 summary line 6, 'Total Expenditures Made (From Line 2 Column A) 581.90'. The cover's line-2 Column A cell is BLANK, so the schedule's printed total is the gate.",
+   "detail": "5 Schedule B rows sum to 519.48 + 24.52 + 21.87 + 10.69 + 5.34 = 581.90 exactly = the printed page subtotal = the printed schedule total = summary line 6. Column B YTD 581.90 is retained as cumulative and never summed as an increment."
+  }
+ },
+ "in_kind_convention": "monetary-only closed both sides at 581.90; monetary-plus-in-kind was tested and is identical, because no row is marked in-kind and this form prints no in-kind column or line. The single Schedule A entry is headed 'Loan to campaign' by the filer — a LOAN, not an in-kind gift — and is transcribed as the money entry the filer made, not reclassified.",
+ "escalations": 3,
+ "escalation_note": "Three tight cell crops at 900 dpi, all geometry/legibility proofs rather than arithmetic (the arithmetic closed on the printed subtotals first): p3 band 3 rendered '581.90'; p4 band 2 rendered '519.48'; p4 band 6 rendered '5.34'. These also settled a per-filing property: on THIS filing the first written entry sits in the SECOND band (the filer skipped the first ruled line), whereas on the same-family 2008 Ellertson filing the first entry sits in the extrapolated first band — the first-row position is a filer habit and must be crop-proved per page, never assumed.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [84.99, 95.23],
+   "cells": [[6.65, 18.42], [20.01, 53.86], [55.39, 83.40], [84.99, 95.23]],
+   "rows": [[14.97, 19.07], [19.07, 23.17], [23.17, 27.22]],
+   "measure_note": "legacy_colAB UNDERLINE form: rowbands.py returns 17 per-column underline rules at 19.07, 23.17, 27.22, 31.27, ... pitch 4.07, whose four segments ARE the column bands (Date 6.65-18.42, Name 20.01-53.86, Address 55.39-83.40, Amount 84.99-95.23). THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N]; row 1 is extrapolated one pitch up to [14.97, 19.07] and is EMPTY on this page. Row 2 carries the filer's heading 'Loan to campaign' in the Name column with no date and no amount; row 3 carries the entry. PROOF at 900 dpi: the only transcribed row's box pct:84.99,23.17,10.24,4.05@p3 rendered '581.90' (recorded 581.90), and a control crop of the extrapolated row-1 box pct:84.99,14.97,10.24,4.10@p3 rendered only the PRINTED 'Amount' column header over an empty cell — no handwriting at all — confirming the entry is in band 3 and the band list is not shifted up."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [84.99, 95.23],
+   "cells": [[6.53, 18.36], [19.95, 53.86], [55.39, 83.40], [84.99, 95.23]],
+   "rows": [[15.34, 19.39], [19.39, 23.44], [23.44, 27.51], [27.51, 31.59], [31.59, 35.66], [35.66, 39.71]],
+   "measure_note": "Same underline grid as p3; 17 rules at 19.39, 23.44, 27.51, 31.59, 35.66, 39.71, ... pitch 4.06, row 1 extrapolated one pitch up to [15.34, 19.39] and EMPTY (this filer starts writing on the second ruled line). TWO-CROP PROOF at 900 dpi: the FIRST transcribed row box pct:84.99,19.39,10.24,4.05@p4 rendered '519.48' (recorded 519.48, the county filing fee) and the LAST transcribed row box pct:84.99,35.66,10.24,4.05@p4 rendered '5.34' (recorded 5.34, the second Carol's Copies line) — neither rendered its neighbour's figure, so the bands are correctly indexed with the entries at rows 2-6."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 3, "date": "Mar-Apr 2010",
+   "donor_raw": "Don & Linda Houskeeper", "donor_city": "Orem",
+   "amount": "581.90", "in_kind": false, "confidence": "medium", "verified": 1,
+   "needs_review": 1,
+   "note": "DATE IS A MONTH RANGE, not a day-precise date: the filer wrote 'Mar-Apr 2010' and it is kept VERBATIM (needs_review=1 for the build, which cannot normalize it — no day was ever printed and none is invented). The filer wrote 'Loan to campaign' as a heading on the ruled line immediately ABOVE this entry (row 2, which carries no date and no amount) — so this single 581.90 line is the candidate's and her husband's own LOAN to the campaign, reported on Schedule A as the filer chose to report it; it is not reclassified here. The address cell prints a city (Orem) but NO state on this schedule line, so donor_state is honestly omitted rather than filled from the cover; the street line the filer wrote is not carried, per the privacy rule."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 2, "date": "3/19/10",
+   "vendor_raw": "Utah County Clerks Office", "amount": "519.48",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Schedule B on this form prints no Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount) and this filer wrote no purpose text, so purpose is honestly blank. Amount is the candidate filing fee."},
+  {"line_no": "2", "page": 4, "row": 3, "date": "3/31/10",
+   "vendor_raw": "Office Depot", "amount": "24.52",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "3", "page": 4, "row": 4, "date": "4/2/10",
+   "vendor_raw": "Office Depot", "amount": "21.87",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "4", "page": 4, "row": 5, "date": "4/8/10",
+   "vendor_raw": "Carol's Copies", "amount": "10.69",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "5", "page": 4, "row": 6, "date": "4/19/10",
+   "vendor_raw": "Carol's Copies", "amount": "5.34",
+   "in_kind": false, "confidence": "medium", "verified": 1}
+ ],
+ "notes": "legacy_colAB variant on the 2010 blank; 4 pages: p1 cover ('30 Days after withdraw or elimination', signed 5/24/10, amendment box marked No, stamped received MAY 24), p2 SUMMARY PAGE (located by its printed header; its own Page/Last Name/Date of Report header box is left entirely blank, as it is on p3 and p4 — this filer filled in none of the four page headers), p3 Schedule A, p4 Schedule B. THE FLAGGED COVER PROPERTY IS CONFIRMED AT THE SOURCE: line 1 Column A, line 2 Column A and line 5 (Subtotal) are genuinely EMPTY CELLS — not zeros, not a failed read — while lines 3 (0), 4 (581.90), 6 (581.90) and 7 (a written zero flanked by dashes, read 0 under the repo zero-glyph ruling) are printed. Both sides therefore reconcile against the SCHEDULES' own printed subtotals/totals (581.90 each), corroborated by summary lines 4 and 6, which the form's own instruction defines as the Column A per-period figures. Neither side is withheld and no figure was synthesized by differencing covers. PAGE-FACE candidate name is 'Linda Houskeeper' (Republican, residence city Orem) — index.csv names NO candidate for this row; page-face Office Seeking reads 'County Commissioner B', agreeing with index.csv's 'County Commission Seat B'. CROSS-FILING OBSERVATION, recorded not adjudicated: the same-cycle Assessor filing 3ebf4721 (Steve Hemingway, also of Orem) carries a Schedule B line 'ROOM DONATION - LINDA Houskeper 20.00' dated 4/24/2010; the surname there is compressed handwriting and was transcribed as written. Nothing was joined between the two filings. Not a *_Redacted.pdf — published in the clear by the county; only city was carried from the donor's address block, at READ TIME."
+}]

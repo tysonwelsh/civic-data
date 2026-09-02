@@ -1,0 +1,1990 @@
+[
+ {
+  "index_path": "raw/2014/2014_6-14B-Grierson_1.pdf",
+  "key": "333c734e",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4,5",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (39,943.31) on the p2 Summary Page, which is also the filer's own ledger's printed and BOXED 'TOTAL 39,943.31' at the foot of p3, and is re-stated at summary line 4",
+    "detail": "The p3 ledger's 13 priced donor rows sum to 3000.00 + 2500.00 + 250.00 + 155.00 + 130.31 + 100.00 + 100.00 + 100.00 + 50.00 + 50.00 + 50.00 + 50.00 + 50.00 = 6,585.31. Adding the block aggregate 308.00 gives 6,893.31; adding the filer's own 'Loan to self' 30,400.00 gives 37,293.31; adding the two IN-KIND rows 150.00 + 2,500.00 gives 39,943.31 EXACTLY = the ledger's own boxed TOTAL = the cover's promoted PER-PERIOD Column A cell. Column B 'Year-to-Date Total' is LEFT WHOLLY EMPTY on this cover (both cells blank \u2014 not nil marks), so there is nothing cumulative to confuse it with. The p2 ladder closes on its own terms: line 3 2,168.13 + line 4 39,943.31 = line 5 42,111.44; 42,111.44 - line 6 39,552.43 = line 7 2,559.01. THE CLOSURE IS WHAT DECIDES TWO CLASSIFICATIONS: the loan is a contribution row here (line 3 is already occupied by a different figure), and in-kind is counted INLINE (monetary-only stops at 37,293.31, which appears nowhere on the document)."
+   },
+   "expenditures": {
+    "result": "delta",
+    "anchor": "the filer's own ledger's printed 'Total 39,552.43' at the foot of p5, which is also Column A 'Total this Period' TOTAL EXPENDITURES MADE (39,552.43) on the p2 Summary Page and summary line 6",
+    "detail": "TRACED, UNIQUE BY CONTIGUITY, and nothing nudged (\u00a7C5 / ADDENDUM D \u00a7D5 \u2014 the spreadsheet SUM-RANGE SLIP class). All 56 rows of the filer's own two-sheet expenses ledger sum to 42,058.99, which is 2,506.56 MORE than the printed Total of 39,552.43. The 43 rows on the FIRST sheet (p4) sum to 39,552.43 EXACTLY \u2014 to the cent, over 43 rows \u2014 and the 13 rows on the SECOND sheet (p5) sum to exactly the 2,506.56 difference. So the filer's SUM range covers the first sheet only and omits the whole of the second, and the omitted rows are a CONTIGUOUS BLOCK (the entire continuation page), which makes the attribution unique. A second, independent tell inside the same document points the same way: the main ledger is in date order, while the 13 omitted rows run 4/10, 4/10, 4/17, 4/27, 5/2, 5/2, 5/8, 5/9, 5/12, 3/4, 3/6, 3/18, 3/18 \u2014 out of order, i.e. appended below the summed range after it was written. The delta is retained verbatim, all 56 rows are published, and the published figure was not changed. NOT SCREENED FOR CORRELATION ACROSS FILINGS: this filer's other 2014 reports are outside this chunk and were not opened, so the one-off-vs-habit question is left open for the coordinator; the attribution inside this document does not depend on it."
+   }
+  },
+  "in_kind_convention": "MONETARY-PLUS-IN-KIND, INLINE \u2014 a per-filer departure from the legacy_colAB family default, and both conventions were tested. The filer heads a block 'In Kind' at the foot of his contributions ledger and prices both of its entries (150.00 'Beef' and 2,500.00 'Signs') in the same Amount column as his cash rows. Monetary-only gives 37,293.31, which matches NOTHING printed anywhere on the filing; monetary-plus-in-kind gives 39,943.31, which is simultaneously the ledger's own boxed TOTAL and the cover's Column A. In-kind counted is what closes it. (Contrast the Stanley filing in this same chunk and cycle, whose footnote excludes in-kind \u2014 the treatment really is per filer.)",
+  "escalations": 15,
+  "escalation_note": "Thirteen 900 dpi --value amount-cell crops (p3 rows 1, 13, 14, 49, 50, 53 and the line past the last row; p4 rows 1, 43 and the line past; p5 rows 1, 13 and the line past) plus two ~500-700 dpi block strips over p3's Name/Last/City columns to confirm 49 donor spellings on a faxed page. No figure was in dispute: every one of the three sheet totals closes on the page's own printed figure or is traced in recon.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     84.0,
+     93.5
+    ],
+    "cells": [
+     [
+      4.9,
+      13.6
+     ],
+     [
+      13.6,
+      24.5
+     ],
+     [
+      24.5,
+      45.0
+     ],
+     [
+      45.0,
+      53.5
+     ],
+     [
+      53.5,
+      68.5
+     ],
+     [
+      68.5,
+      76.5
+     ],
+     [
+      76.5,
+      83.5
+     ],
+     [
+      84.0,
+      93.5
+     ]
+    ],
+    "rows": [
+     [
+      11.42,
+      12.92
+     ],
+     [
+      12.74,
+      14.24
+     ],
+     [
+      14.24,
+      15.74
+     ],
+     [
+      15.65,
+      17.15
+     ],
+     [
+      17.33,
+      18.83
+     ],
+     [
+      18.65,
+      20.15
+     ],
+     [
+      20.15,
+      21.65
+     ],
+     [
+      21.65,
+      23.15
+     ],
+     [
+      23.29,
+      24.79
+     ],
+     [
+      24.65,
+      26.15
+     ],
+     [
+      26.1,
+      27.6
+     ],
+     [
+      27.6,
+      29.1
+     ],
+     [
+      29.24,
+      30.74
+     ],
+     [
+      30.74,
+      32.24
+     ],
+     [
+      32.24,
+      33.74
+     ],
+     [
+      33.69,
+      35.19
+     ],
+     [
+      35.06,
+      36.56
+     ],
+     [
+      36.74,
+      38.24
+     ],
+     [
+      38.01,
+      39.51
+     ],
+     [
+      39.51,
+      41.01
+     ],
+     [
+      41.19,
+      42.69
+     ],
+     [
+      42.69,
+      44.19
+     ],
+     [
+      44.02,
+      45.52
+     ],
+     [
+      45.65,
+      47.15
+     ],
+     [
+      46.97,
+      48.47
+     ],
+     [
+      48.42,
+      49.92
+     ],
+     [
+      49.92,
+      51.42
+     ],
+     [
+      51.42,
+      52.92
+     ],
+     [
+      52.88,
+      54.38
+     ],
+     [
+      54.38,
+      55.88
+     ],
+     [
+      56.01,
+      57.51
+     ],
+     [
+      57.56,
+      59.06
+     ],
+     [
+      58.88,
+      60.38
+     ],
+     [
+      60.47,
+      61.97
+     ],
+     [
+      61.79,
+      63.29
+     ],
+     [
+      63.28,
+      64.78
+     ],
+     [
+      64.79,
+      66.29
+     ],
+     [
+      66.33,
+      67.83
+     ],
+     [
+      67.92,
+      69.42
+     ],
+     [
+      69.42,
+      70.92
+     ],
+     [
+      70.74,
+      72.24
+     ],
+     [
+      72.19,
+      73.69
+     ],
+     [
+      73.69,
+      75.19
+     ],
+     [
+      75.19,
+      76.69
+     ],
+     [
+      76.65,
+      78.15
+     ],
+     [
+      78.15,
+      79.65
+     ],
+     [
+      79.65,
+      81.15
+     ],
+     [
+      81.1,
+      82.6
+     ],
+     [
+      82.65,
+      84.15
+     ],
+     [
+      84.24,
+      85.74
+     ],
+     [
+      87.64,
+      89.14
+     ],
+     [
+      89.19,
+      90.69
+     ],
+     [
+      90.47,
+      91.97
+     ]
+    ],
+    "measure_note": "THIS PAGE IS NOT A COUNTY FORM \u2014 it is the filer's own typed portrait ledger substituted for Schedule A (ADDENDUM E \u00a7E5 / A \u00a7A2), and rowbands.py returns ZERO printed rules on it. Geometry recovered by the sanctioned route: `rowbands.py <pdf> 3 --text-lines --col` run twice, once over the Name column (5-25) and once over the Amount column (84-94). The name-column scan returns 56 text bands = fax header + title + column header + 49 DATA ROWS (11.72 .. 82.95, even pitch 1.485) + the loan row 84.54 + the 'In Kind' heading 87.94 + two in-kind rows 89.49 and 90.77; the amount-column scan independently returns bands at the same 13 priced rows and at 82.96 / 84.42 / 89.46 / 90.87 / 92.32, agreeing with the name column to within 0.12 pct. Bands are [top-0.30, top+1.20]. The 51st band is the 'In Kind' HEADING: it publishes no row but CONSUMES an index (ADDENDUM E \u00a7E3), which is why the in-kind rows are 52 and 53. `cells` are read off the printed column headings (Name / Last / Street / Suite / City / State / Zip / Amount) and are approximate on this ruleless page; the AMOUNT band is the measured one. CONTROLS at 900 dpi --value: (1) \u00a7A1 FIRST-ENTRY CONTROL \u2014 band 1 pct:84.0,11.42,9.5,1.50@p3 RENDERED '3,000.00' (row 1 as recorded), so the ledger's first written entry really is band 1; (2) band 13 RENDERED '50.00'; (3) band 14 RENDERED an EMPTY cell \u2014 the internal control that proves the un-priced block starts exactly there and that the 36 blank amounts are the document's, not a frame error; (4) band 49 RENDERED '308.00'; (5) band 50 RENDERED '30,400.00'; (6) the LAST row, band 53, RENDERED '2,500.00'; (7) ONE LINE PAST THE LAST ROW, pct:84.0,92.02,9.5,1.50@p3, RENDERED the ledger's own BOXED TOTAL '39,943.31' rather than a 54th entry \u2014 proving the frame is not short by one."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     78.0,
+     90.0
+    ],
+    "cells": [
+     [
+      7.0,
+      17.0
+     ],
+     [
+      17.0,
+      39.0
+     ],
+     [
+      39.0,
+      72.0
+     ],
+     [
+      78.0,
+      90.0
+     ]
+    ],
+    "rows": [
+     [
+      15.3,
+      16.8
+     ],
+     [
+      17.03,
+      18.53
+     ],
+     [
+      18.84,
+      20.34
+     ],
+     [
+      20.57,
+      22.07
+     ],
+     [
+      22.39,
+      23.89
+     ],
+     [
+      24.11,
+      25.61
+     ],
+     [
+      25.93,
+      27.43
+     ],
+     [
+      27.71,
+      29.21
+     ],
+     [
+      29.48,
+      30.98
+     ],
+     [
+      31.3,
+      32.8
+     ],
+     [
+      33.02,
+      34.52
+     ],
+     [
+      34.8,
+      36.3
+     ],
+     [
+      36.57,
+      38.07
+     ],
+     [
+      38.39,
+      39.89
+     ],
+     [
+      40.16,
+      41.66
+     ],
+     [
+      41.93,
+      43.43
+     ],
+     [
+      43.71,
+      45.21
+     ],
+     [
+      45.48,
+      46.98
+     ],
+     [
+      47.25,
+      48.75
+     ],
+     [
+      49.03,
+      50.53
+     ],
+     [
+      50.8,
+      52.3
+     ],
+     [
+      52.57,
+      54.07
+     ],
+     [
+      54.34,
+      55.84
+     ],
+     [
+      56.11,
+      57.61
+     ],
+     [
+      57.89,
+      59.39
+     ],
+     [
+      59.66,
+      61.16
+     ],
+     [
+      61.43,
+      62.93
+     ],
+     [
+      63.21,
+      64.71
+     ],
+     [
+      64.98,
+      66.48
+     ],
+     [
+      66.75,
+      68.25
+     ],
+     [
+      68.57,
+      70.07
+     ],
+     [
+      70.34,
+      71.84
+     ],
+     [
+      72.07,
+      73.57
+     ],
+     [
+      73.89,
+      75.39
+     ],
+     [
+      75.61,
+      77.11
+     ],
+     [
+      77.44,
+      78.94
+     ],
+     [
+      79.16,
+      80.66
+     ],
+     [
+      80.93,
+      82.43
+     ],
+     [
+      82.71,
+      84.21
+     ],
+     [
+      84.43,
+      85.93
+     ],
+     [
+      86.2,
+      87.7
+     ],
+     [
+      87.98,
+      89.48
+     ],
+     [
+      89.71,
+      91.21
+     ]
+    ],
+    "measure_note": "The filer's own typed expenses ledger, sheet 1 \u2014 a boxed HEADER row (Date / Vender / Mailing Address / Amount) but NO printed row rules, so rowbands.py finds only 4 rules. Geometry recovered with `--text-lines --col`: the Amount column (78-90) returns 44 text bands = the 'Amount' header at 13.87 plus 43 DATA ROWS at 15.60 .. 90.01, even pitch 1.772; the Date/Vender column (8-30) independently returns the same 44 lines offset by ~0.2 pct. Bands are [top-0.30, top+1.20]. CONTROLS at 900 dpi --value: (1) \u00a7A1 FIRST-ENTRY CONTROL \u2014 band 1 pct:78.0,15.30,12.0,1.77@p4 RENDERED '1,500.00' with the printed header rule above it, so the first entry is band 1 and the header line is correctly excluded; (2) the LAST row, band 43, RENDERED '482.96'; (3) \u00a7B5 NEGATIVE CONTROL one line past it, pct:78.0,91.48,12.0,1.77@p4, RENDERED an EMPTY area \u2014 the sheet ends at row 43 and continues on p5."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     78.0,
+     90.0
+    ],
+    "cells": [
+     [
+      7.0,
+      17.0
+     ],
+     [
+      17.0,
+      39.0
+     ],
+     [
+      39.0,
+      72.0
+     ],
+     [
+      78.0,
+      90.0
+     ]
+    ],
+    "rows": [
+     [
+      9.35,
+      10.85
+     ],
+     [
+      11.16,
+      12.66
+     ],
+     [
+      12.89,
+      14.39
+     ],
+     [
+      14.67,
+      16.17
+     ],
+     [
+      16.44,
+      17.94
+     ],
+     [
+      18.21,
+      19.71
+     ],
+     [
+      20.03,
+      21.53
+     ],
+     [
+      21.75,
+      23.25
+     ],
+     [
+      23.53,
+      25.03
+     ],
+     [
+      25.3,
+      26.8
+     ],
+     [
+      27.07,
+      28.57
+     ],
+     [
+      28.89,
+      30.39
+     ],
+     [
+      30.62,
+      32.12
+     ]
+    ],
+    "measure_note": "Sheet 2 of the same typed ledger \u2014 no header row of its own, no printed rules, the rows simply continue. `--text-lines --col 78,90` returns 15 bands = the fax header line plus 13 DATA ROWS at 9.65 .. 30.92 (pitch 1.772, identical to sheet 1) plus the ledger's printed 'Total' line at 32.69; the Date/Vender scan returns the same 13 rows. Bands are [top-0.30, top+1.20]. CONTROLS at 900 dpi --value: (1) \u00a7A1 FIRST-ENTRY CONTROL \u2014 band 1 pct:78.0,9.35,12.0,1.77@p5 RENDERED '638.00' (row 1 as recorded), so no line was skipped at the top of the continuation sheet; (2) the LAST row, band 13, RENDERED '16.32'; (3) ONE LINE PAST THE LAST ROW, pct:78.0,32.39,12.0,1.77@p5, RENDERED the ledger's printed Total '39,552.43' rather than a 14th entry \u2014 which is also the figure the recon delta is measured against."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "donor_raw": "Joe Sorenson",
+    "donor_city": "Murry",
+    "donor_state": "UT",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "donor_raw": "Matt Heaton",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "donor_raw": "Lee McCann",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "donor_raw": "David Grow",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "155.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "donor_raw": "Judie Grow",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "130.31",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "donor_raw": "David Acheson",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "donor_raw": "Douglas Nielson",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "donor_raw": "James Blaylock",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "donor_raw": "James Grierson",
+    "donor_city": "Springville",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "donor_raw": "Linda Peterson",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "donor_raw": "Matt Richards",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "donor_raw": "Milton Moody",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "donor_raw": "Valine Jensen",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "typed on the filer's OWN ledger, which prints its own columns Name / Last / Street / Suite / City / State / Zip / Amount and carries NO DATE COLUMN AT ALL \u2014 so `date` is honestly blank for every contribution row on this filing (the ledger's heading '7 Days prior to Primary' is the only period marker). PRIVACY: the street (and suite) printed in the clear on this unredacted fax are not carried."
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "donor_raw": "Jay Ashworth",
+    "donor_city": "Saratoga Springs",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "15",
+    "page": 3,
+    "row": 15,
+    "donor_raw": "Ryan Lugo",
+    "donor_city": "Springville",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 16,
+    "donor_raw": "Andrew Jackson",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 17,
+    "donor_raw": "Cheree Boyarsky",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "18",
+    "page": 3,
+    "row": 18,
+    "donor_raw": "Kelsey Long",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "19",
+    "page": 3,
+    "row": 19,
+    "donor_raw": "Marlene Williams",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "20",
+    "page": 3,
+    "row": 20,
+    "donor_raw": "Shannon Magleby",
+    "donor_city": "AF",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "21",
+    "page": 3,
+    "row": 21,
+    "donor_raw": "Adam Bayless",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "22",
+    "page": 3,
+    "row": 22,
+    "donor_raw": "Fred Klass",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "23",
+    "page": 3,
+    "row": 23,
+    "donor_raw": "Kate Merryweather",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "24",
+    "page": 3,
+    "row": 24,
+    "donor_raw": "Leena Rodgers",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "25",
+    "page": 3,
+    "row": 25,
+    "donor_raw": "Melvin Luthy",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "26",
+    "page": 3,
+    "row": 26,
+    "donor_raw": "Troy Stephens",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "27",
+    "page": 3,
+    "row": 27,
+    "donor_raw": "William Tayler",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "28",
+    "page": 3,
+    "row": 28,
+    "donor_raw": "Andrew Grierson",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "29",
+    "page": 3,
+    "row": 29,
+    "donor_raw": "David Rodgers",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "30",
+    "page": 3,
+    "row": 30,
+    "donor_raw": "Francis Rodgers",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "31",
+    "page": 3,
+    "row": 31,
+    "donor_raw": "Jason Landau",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "32",
+    "page": 3,
+    "row": 32,
+    "donor_raw": "Jeny Grierson",
+    "donor_city": "Springville",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "33",
+    "page": 3,
+    "row": 33,
+    "donor_raw": "Kirstie Heaton",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "34",
+    "page": 3,
+    "row": 34,
+    "donor_raw": "Leena Rodgers",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "35",
+    "page": 3,
+    "row": 35,
+    "donor_raw": "Mark Grierson",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "36",
+    "page": 3,
+    "row": 36,
+    "donor_raw": "Mickeal Heaton",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "37",
+    "page": 3,
+    "row": 37,
+    "donor_raw": "Parker Peterson",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "38",
+    "page": 3,
+    "row": 38,
+    "donor_raw": "Zack Heaton",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "39",
+    "page": 3,
+    "row": 39,
+    "donor_raw": "Andrew Justing",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "40",
+    "page": 3,
+    "row": 40,
+    "donor_raw": "Ben Devey",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "41",
+    "page": 3,
+    "row": 41,
+    "donor_raw": "Bryan McDornan",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "42",
+    "page": 3,
+    "row": 42,
+    "donor_raw": "David Antivils",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "43",
+    "page": 3,
+    "row": 43,
+    "donor_raw": "Ethan Parker",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "44",
+    "page": 3,
+    "row": 44,
+    "donor_raw": "Farris Bush",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "45",
+    "page": 3,
+    "row": 45,
+    "donor_raw": "Gabrtiela Palacios",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "46",
+    "page": 3,
+    "row": 46,
+    "donor_raw": "Kimbery Clark",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "47",
+    "page": 3,
+    "row": 47,
+    "donor_raw": "Kimbery Addis",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "48",
+    "page": 3,
+    "row": 48,
+    "donor_raw": "Tessa Antirilo",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "49",
+    "page": 3,
+    "row": 49,
+    "donor_raw": "Tory Tai",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SUB-THRESHOLD DONOR: the ledger NAMES this contributor and gives his/her city and state but prints NO INDIVIDUAL AMOUNT \u2014 the block of 36 such donors is priced only in aggregate, 308.00, on the block's last line (see the separate aggregate row at line 49). The amount is honestly BLANK and nothing is imputed or divided out. No date column exists on this ledger."
+   },
+   {
+    "line_no": "49",
+    "page": 3,
+    "row": 49,
+    "donor_raw": "Total > 50 (aggregate of the 36 sub-threshold donors named above)",
+    "amount": "308.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "AN AGGREGATE LINE, published as ONE row and never split into imagined donors (ADDENDUM D \u00a7D4). The ledger prints the label 'Total > 50' in its Zip column and 308.00 in its Amount column, on the SAME printed line as the last sub-threshold donor (Tory Tai) \u2014 so this record and the Tory Tai row above it share printed line 49; that is what the page does. The label's wording is ambiguous on its face; ARITHMETIC settles its role \u2014 the ledger's own boxed TOTAL closes at 39,943.31 only with this 308.00 counted once, standing for the whole unpriced block. donor_city/donor_state are blank because the line names no single donor."
+   },
+   {
+    "line_no": "50",
+    "page": 3,
+    "row": 50,
+    "donor_raw": "Lorne Grierson (Loan to self)",
+    "amount": "30400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "THE CANDIDATE'S OWN LOAN, and on this filing the ladder makes it an itemized CONTRIBUTION row (ADDENDUM B \u00a7B3 \u2014 the arithmetic decides, never the word 'loan'). The words 'Loan to self' are the filer's own, written in his ledger's Street column. Summary line 3 'Balance at Beginning of Reporting Period' already carries a separate 2,168.13, so there is no beginning-balance slot for this 30,400.00; and without it the ledger reaches 9,543.31 against its own printed TOTAL of 39,943.31. It is inside the filer's own summed range. No city/state/zip printed on this line."
+   },
+   {
+    "line_no": "52",
+    "page": 3,
+    "row": 52,
+    "donor_raw": "Joe Sorenson",
+    "donor_city": "Murry",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "IN-KIND, under the filer's own 'In Kind' heading; the ledger states the gift as 'Beef' in its Suite column (its only purpose-like field). COUNTED IN THE SUM: this filer's in-kind convention is MONETARY-PLUS-IN-KIND, INLINE \u2014 his own boxed TOTAL 39,943.31 closes only with both in-kind rows counted (see in_kind_convention). Same donor as line 1, a separate transaction, not merged. City 'Murry' is the filer's own spelling, kept verbatim. PRIVACY: street not carried."
+   },
+   {
+    "line_no": "53",
+    "page": 3,
+    "row": 53,
+    "donor_raw": "Brook Roney",
+    "donor_city": "Lindon",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "IN-KIND, under the filer's own 'In Kind' heading; the gift is stated as 'Signs' in the Suite column. COUNTED IN THE SUM (see in_kind_convention). Last data line of the ledger \u2014 the boxed TOTAL 39,943.31 is printed on the line below it. PRIVACY: street not carried."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "1/30/2012",
+    "vendor_raw": "BCR",
+    "amount": "1500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "DATE PRINTED AS 1/30/2012 \u2014 well-formed but two years before this 2014 cycle. Kept VERBATIM and NOT corrected or dropped; the row is inside the filer's own summed range and the sheet closes with it. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "2/4/2014",
+    "vendor_raw": "Chase",
+    "amount": "18.94",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "2/5/2014",
+    "vendor_raw": "Costco",
+    "amount": "115.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "2/5/2014",
+    "vendor_raw": "Zurchers",
+    "amount": "41.55",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "2/10/2014",
+    "vendor_raw": "Costco",
+    "amount": "72.83",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "3/3/2014",
+    "vendor_raw": "Alph Graphics",
+    "amount": "102.52",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "3/4/2014",
+    "vendor_raw": "Costco",
+    "amount": "43.90",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "3/5/2014",
+    "vendor_raw": "Wendy's",
+    "amount": "25.49",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "9",
+    "page": 4,
+    "row": 9,
+    "date": "3/5/2014",
+    "vendor_raw": "Costco",
+    "amount": "136.04",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "10",
+    "page": 4,
+    "row": 10,
+    "date": "3/5/2014",
+    "vendor_raw": "Alph Graphics",
+    "amount": "122.47",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "11",
+    "page": 4,
+    "row": 11,
+    "date": "3/6/2014",
+    "vendor_raw": "Provo Library",
+    "amount": "121.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "12",
+    "page": 4,
+    "row": 12,
+    "date": "3/14/2014",
+    "vendor_raw": "Utah County",
+    "amount": "569.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Utah County COMMISSION 2014 candidate filing fee (569.48). Recorded as a page fact only \u2014 per ADDENDUM E \u00a7E1 the fee is office- AND cycle-specific and is NEVER used to corroborate a figure on another filing. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "13",
+    "page": 4,
+    "row": 13,
+    "date": "3/18/2014",
+    "vendor_raw": "Staples",
+    "amount": "9.07",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "14",
+    "page": 4,
+    "row": 14,
+    "date": "3/18/2014",
+    "vendor_raw": "Costco",
+    "amount": "48.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "15",
+    "page": 4,
+    "row": 15,
+    "date": "3/18/2014",
+    "vendor_raw": "Costco",
+    "amount": "68.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "16",
+    "page": 4,
+    "row": 16,
+    "date": "3/24/2014",
+    "vendor_raw": "Walmart",
+    "amount": "12.65",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "17",
+    "page": 4,
+    "row": 17,
+    "date": "3/26/2014",
+    "vendor_raw": "Costco",
+    "amount": "72.73",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "18",
+    "page": 4,
+    "row": 18,
+    "date": "3/31/2014",
+    "vendor_raw": "Chase",
+    "amount": "12.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "19",
+    "page": 4,
+    "row": 19,
+    "date": "4/1/2014",
+    "vendor_raw": "Merryweather",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "20",
+    "page": 4,
+    "row": 20,
+    "date": "4/7/2014",
+    "vendor_raw": "IHOP",
+    "amount": "12.49",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "21",
+    "page": 4,
+    "row": 21,
+    "date": "4/8/2014",
+    "vendor_raw": "Paradise Bake",
+    "amount": "5.11",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "22",
+    "page": 4,
+    "row": 22,
+    "date": "4/8/2014",
+    "vendor_raw": "Howard Knudsen",
+    "amount": "68.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "23",
+    "page": 4,
+    "row": 23,
+    "date": "4/11/2014",
+    "vendor_raw": "Daylight Donuts",
+    "amount": "387.42",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "24",
+    "page": 4,
+    "row": 24,
+    "date": "4/12/2014",
+    "vendor_raw": "Goodwood",
+    "amount": "154.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "25",
+    "page": 4,
+    "row": 25,
+    "date": "4/16/2014",
+    "vendor_raw": "BCR",
+    "amount": "4666.59",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "26",
+    "page": 4,
+    "row": 26,
+    "date": "4/29/2014",
+    "vendor_raw": "Merryweather",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "27",
+    "page": 4,
+    "row": 27,
+    "date": "5/1/2014",
+    "vendor_raw": "CPC Solutions",
+    "amount": "13000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "28",
+    "page": 4,
+    "row": 28,
+    "date": "5/3/2014",
+    "vendor_raw": "Costco",
+    "amount": "19.03",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "29",
+    "page": 4,
+    "row": 29,
+    "date": "5/9/2014",
+    "vendor_raw": "Target",
+    "amount": "104.13",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "30",
+    "page": 4,
+    "row": 30,
+    "date": "5/9/2014",
+    "vendor_raw": "Costco",
+    "amount": "445.92",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "31",
+    "page": 4,
+    "row": 31,
+    "date": "5/10/2014",
+    "vendor_raw": "Ace Rentals",
+    "amount": "440.01",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "32",
+    "page": 4,
+    "row": 32,
+    "date": "5/22/2014",
+    "vendor_raw": "Apollo Burger",
+    "amount": "9.66",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "33",
+    "page": 4,
+    "row": 33,
+    "date": "6/2/2014",
+    "vendor_raw": "Merryweather",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "34",
+    "page": 4,
+    "row": 34,
+    "date": "6/2/2014",
+    "vendor_raw": "CI",
+    "amount": "4400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "35",
+    "page": 4,
+    "row": 35,
+    "date": "6/2/2014",
+    "vendor_raw": "BCR",
+    "amount": "4966.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "36",
+    "page": 4,
+    "row": 36,
+    "date": "6/5/2014",
+    "vendor_raw": "Harbor Frieght",
+    "amount": "9.60",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "37",
+    "page": 4,
+    "row": 37,
+    "date": "6/5/2014",
+    "vendor_raw": "Lowes",
+    "amount": "171.21",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "38",
+    "page": 4,
+    "row": 38,
+    "date": "6/6/2014",
+    "vendor_raw": "IFA",
+    "amount": "110.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "39",
+    "page": 4,
+    "row": 39,
+    "date": "6/9/2014",
+    "vendor_raw": "Lowes",
+    "amount": "171.21",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "40",
+    "page": 4,
+    "row": 40,
+    "date": "6/10/2014",
+    "vendor_raw": "Linda Housekeeper",
+    "amount": "150.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "41",
+    "page": 4,
+    "row": 41,
+    "date": "5/27/2014",
+    "vendor_raw": "Randy Minson",
+    "amount": "2900.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "42",
+    "page": 4,
+    "row": 42,
+    "date": "4/9/2014",
+    "vendor_raw": "Post Office",
+    "amount": "784.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "43",
+    "page": 4,
+    "row": 43,
+    "date": "4/11/2014",
+    "vendor_raw": "Westpro, Buttons",
+    "amount": "482.96",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "LAST row of the first ledger sheet; the 43 rows of this sheet sum to 39,552.43, which is exactly the ledger's printed Total and the cover's Column A \u2014 see recon.expenditures. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "44",
+    "page": 5,
+    "row": 1,
+    "date": "4/10/2014",
+    "vendor_raw": "Copies Plus",
+    "amount": "638.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "45",
+    "page": 5,
+    "row": 2,
+    "date": "4/10/2014",
+    "vendor_raw": "Help U Mail",
+    "amount": "149.59",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "46",
+    "page": 5,
+    "row": 3,
+    "date": "4/17/2014",
+    "vendor_raw": "MailChimp",
+    "amount": "40.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "47",
+    "page": 5,
+    "row": 4,
+    "date": "4/27/2014",
+    "vendor_raw": "Orem",
+    "amount": "80.14",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "48",
+    "page": 5,
+    "row": 5,
+    "date": "5/2/2014",
+    "vendor_raw": "Fedex",
+    "amount": "32.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "49",
+    "page": 5,
+    "row": 6,
+    "date": "5/2/2014",
+    "vendor_raw": "Chamber",
+    "amount": "28.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "50",
+    "page": 5,
+    "row": 7,
+    "date": "5/8/2014",
+    "vendor_raw": "Saratoga Springs",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "51",
+    "page": 5,
+    "row": 8,
+    "date": "5/9/2014",
+    "vendor_raw": "Automated Calls",
+    "amount": "720.12",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "52",
+    "page": 5,
+    "row": 9,
+    "date": "5/12/2014",
+    "vendor_raw": "Facebook",
+    "amount": "39.89",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "53",
+    "page": 5,
+    "row": 10,
+    "date": "3/4/2014",
+    "vendor_raw": "Chamber",
+    "amount": "28.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "54",
+    "page": 5,
+    "row": 11,
+    "date": "3/6/2014",
+    "vendor_raw": "Chamber",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "55",
+    "page": 5,
+    "row": 12,
+    "date": "3/18/2014",
+    "vendor_raw": "North Star Printing",
+    "amount": "689.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   },
+   {
+    "line_no": "56",
+    "page": 5,
+    "row": 13,
+    "date": "3/18/2014",
+    "vendor_raw": "Staples",
+    "amount": "16.32",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ON THE SECOND SHEET OF THE LEDGER \u2014 this row lies OUTSIDE the filer's own printed Total (see recon.expenditures): the ledger's Total 39,552.43 is reached by the 43 rows of the first sheet alone. Retained verbatim; nothing nudged. the filer's OWN typed expenses ledger prints columns Date / Vender / Mailing Address / Amount and has NO PURPOSE COLUMN, so purpose is honestly blank. PRIVACY: the payee street addresses, printed in the clear on this unredacted fax, are not carried (expenditure rows carry no address field)."
+   }
+  ],
+  "notes": "PAGE-FACE candidate 'Lorne Grierson', party Republican, Office Seeking 'Utah County Commissioner' with NO SEAT PRINTED (index.csv carries 'County Commission Seat B' from the channel; the page names no seat and none is inferred). index.csv names no candidate for this row, so the page face supplies it. A TYPED, FAXED FILING: every sheet carries the sending machine's header 'JUN-17-2014 TUE 04:44/04:45 PM COLDWELL BANKER WEST  FAX NO. 801 375 2483  P. 01..05', which independently confirms the retained document is complete at 5 pages and that they are one transmission in order (the ADDENDUM D \u00a7D6 fax-counter evidence, here confirming presence rather than absence). THE COUNTY SCHEDULES ARE SUBSTITUTED, NOT MISSING (ADDENDUM E \u00a7E5 / A \u00a7A2): pp1-2 are the county blank (p1 cover, p2 SUMMARY PAGE located by its printed header) and pp3-5 are the filer's OWN typed portrait ledgers \u2014 p3 'Campaigne Donations / 7 Days prior to Primary' (his spelling) in place of Schedule A, and pp4-5 'Campaign Expenses 2014 / 7 Days prior to primary' in place of Schedule B. Both sides are therefore `transcribed`, never `no-schedule-page`: what is missing is the county's FORM, not the filer's entries. HIS LEDGER HAS NO DATE COLUMN ON THE CONTRIBUTIONS SIDE and no PURPOSE column on the expenditures side, so those fields are honestly blank throughout. COLUMN B IS WHOLLY EMPTY on the summary page \u2014 both Year-to-Date cells are blank space, not nil marks, so nothing is read as zero there; the cover's Page/of, last-name and Date-of-Report boxes are also left blank (yet another foliation practice: none at all). A DONOR ZIP DISAGREES WITH ITS OWN CITY on line 13 (Valine Jensen, 'Orem UT 84096', where the filer's other Orem rows read 84097) \u2014 transcribed as printed and NOT adjudicated; only city/state are carried in any case. NOT REDACTED BY THE COUNTY: this is not a *_Redacted.pdf and carries no bars \u2014 donor and vendor street addresses, suites and the candidate's phone are all visible on the page and NONE is carried here, not in a field and not in a note. THE UN-PRICED DONOR BLOCK IS AN HONEST FLOOR, NOT A GAP: 36 of the 49 contribution lines name a donor and a city but carry no individual amount, because the filer priced that block only in aggregate (308.00). Those 36 rows publish with a BLANK amount and needs_review=1; the cash side still reconciles EXACTLY, because the aggregate is what the document itself sums."
+ }
+]

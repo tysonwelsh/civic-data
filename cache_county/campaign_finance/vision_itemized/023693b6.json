@@ -1,0 +1,88 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C10.json",
+ "key": "023693b6",
+ "index_path": "raw/2014/2014_cc_Robison_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Robison_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "ea5807ce6d9f2076",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "cover_expense_last": "0",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "EMPTY SCHEDULE, not a gap. Form A (p2) carries no ledger ink at all: the filer drew one large S-shaped stroke down the full height of the sheet and wrote 'Didn't Run' across the top rows. Per the addendum that is the filer striking the schedule out - an empty schedule with zero rows, never a row and never a zero-valued transaction. The cover agrees: every one of the twelve cells (four lines x three columns) is a cursive zero glyph, so line 1 is 0 in the THIS and CUMULATIVE columns alike (the two scopes coincide). Zero rows sum to the printed 0."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "EMPTY SCHEDULE. Form B (p3) is struck out the same way - one large S-stroke down the sheet plus 'Didn't Run' - with no ledger ink. Cover line 3 is a zero glyph in all three columns. Zero rows against a printed 0."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints no schedule or page subtotal; the cover is the only anchor. p2 rows (none) = cover line1 0; p3 rows (none) = cover line3 0. Both gate.",
+  "row_count": "Inspected the full 200 dpi renders of p2 and p3 and the 600 dpi crop of p2's upper band: the ruled grid holds ~40 writing lines on each sheet and NOT ONE carries ledger ink - the only marks are the single sweeping S-stroke and the words 'Didn't Run'. Zero rows emitted on both sides, which matches.",
+  "geometry_proof": "Not applicable - zero rows emitted on both sides.",
+  "balance_chain": "0 + 0 - 0 = 0 = cover line 4, in all three columns. Closes trivially and exactly."
+ },
+ "escalations": 2,
+ "escalation_note": "600 dpi crops of the cover totals block and of Form A's upper band. The cover crop was needed to establish that the twelve marks are cursive ZERO glyphs (which the repo-wide ruling reads as 0) and not dashes (which would stay blank); at 600 dpi they are closed loops with an entry stroke, i.e. zeros. The Form A crop confirmed that the sweeping stroke is a strike-out and that the words read 'Didn't Run'.",
+ "notes": "index.csv calls the office County Council; the cover's 'Name of Office' line reads 'County Council member' with 'Office District: Seat 2' - agrees. Candidate on the form is 'Kathleen Ann Robison' (index: Robison) - agrees. Cover date '11/18/14'; clerk stamp 'RCVD 18 NOV 2014'; party Republican. THE FILER DID NOT RUN: both schedules are struck through with a single stroke and annotated 'Didn't Run', and the cover is all zeros. Recorded as two EMPTY schedules (transcribed, zero rows) - a real zero, not a gap and not an absent schedule.",
+ "contributions": [],
+ "expenditures": []
+}

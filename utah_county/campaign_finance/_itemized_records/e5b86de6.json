@@ -1,0 +1,755 @@
+[
+ {
+  "index_path": "raw/2020/2020_VoeksBrian_Redacted.pdf",
+  "key": "e5b86de6",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah r9_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "itemized_pages_A": "2,3",
+  "itemized_pages_B": "4",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Box B 'Contributions Received this Period' ($6,544.68) on the p5 Summary Page, which is also Schedule A's own printed 'Total Contributions Received $ $6,544.68 (Sum of all Schedule A pages in this report)' printed on BOTH sheets, and equals its two page subtotals 724.00 (p2) + 5,820.68 (p3)",
+    "detail": "TWO Schedule A sheets, 20 rows. Sheet 1 (p2, foliated 'Page 2', 15 rows, every printed row used): 50 + 50 + 20 + 20 + 50 + 20 + 69 + 25 + 40 + 50 + 100 + 100 + 30 + 50 + 50 = 724.00 = that sheet's printed 'Subtotal for this page $ 724.00'. Sheet 2 (p3, foliated 'Page 3', 5 rows): 200.00 + 1,658.15 + 50.00 + 500.00 + 3,412.53 = 5,820.68 = its printed subtotal. 724.00 + 5,820.68 = 6,544.68 exactly = the printed Total Contributions Received = Box B. The 1,658.15 IN-KIND row and the 3,412.53 candidate LOAN row are both inside that anchor and are therefore published as contribution rows. Box C 'Contributions Received Year to Date' prints $17,166.06 and is CUMULATIVE - never summed as an increment and never differenced against another filing. The ladder closes on the page: Box A $0.00 + Box B 6,544.68 = Box F 6,544.68, minus Box D 6,544.68 = the printed close $0.00."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Box D 'Expenditures Made this Period' ($6,544.68) on the p5 Summary Page, which is also Schedule B's own printed 'Subtotal for this page $ 6,544.68' AND its printed 'Total Expenditures Made $ $6,544.68'",
+    "detail": "The 13 Schedule B rows sum to 406.46 + 77.51 + 5.03 + 20.00 + 145.69 + 500.00 + 39.09 + 350.05 + 159.12 + 4,589.02 + 218.70 + 10.71 + 23.30 = 6,544.68 exactly = the printed page subtotal = the printed total = Box D. Rows 14 and 15 of the printed grid are empty (crop-proved) and nothing is written below the last rule. Box E 'Expenditures Made Year to Date' prints $17,166.06 and is CUMULATIVE - never summed as an increment. Note that Box B and Box D carry the IDENTICAL figure on this filing and the balance closes at zero; that is the filer's own arithmetic, transcribed as printed and not adjudicated."
+   }
+  },
+  "in_kind_convention": "MONETARY-PLUS-IN-KIND on the contribution side; not applicable on the expenditure side. Both conventions were tested against this document's own printed figures: the contribution side sums to 6,544.68 WITH the single in-kind row (Tactical Campaigns, 1,658.15, marked '(in-kind donation of services)' in the name cell) and to 4,886.53 without it, and 6,544.68 is what the sheet's subtotal, the Total Contributions Received line and Box B all print - so in-kind is inside the promoted anchor here. On the expenditure side no row is marked in-kind and the form prints no in-kind column, so both conventions give the same 6,544.68. NOTE this was tested from scratch on this filing (ADDENDUM G1) and NOT inherited: the same filer's other 2020 filing in this chunk (dd959f95) was tested independently.",
+  "escalations": 0,
+  "escalation_note": "No cell needed escalation: the filing is a born-digital typed fillable form, printed and scanned crisply, every figure is machine type, and both sides close to the cent against two printed footers each on the first reading. The nine geometry proof crops listed in the frames were rendered at 900 dpi.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     80.47,
+     94.24
+    ],
+    "cells": [
+     [
+      5.94,
+      19.65
+     ],
+     [
+      19.65,
+      51.06
+     ],
+     [
+      51.06,
+      80.47
+     ],
+     [
+      80.47,
+      94.24
+     ]
+    ],
+    "rows": [
+     [
+      15.98,
+      20.52
+     ],
+     [
+      20.52,
+      25.07
+     ],
+     [
+      25.07,
+      29.61
+     ],
+     [
+      29.61,
+      34.16
+     ],
+     [
+      34.16,
+      38.73
+     ],
+     [
+      38.73,
+      43.27
+     ],
+     [
+      43.27,
+      47.82
+     ],
+     [
+      47.82,
+      52.36
+     ],
+     [
+      52.36,
+      56.91
+     ],
+     [
+      56.91,
+      61.45
+     ],
+     [
+      61.45,
+      66.0
+     ],
+     [
+      66.0,
+      70.55
+     ],
+     [
+      70.55,
+      75.09
+     ],
+     [
+      75.09,
+      79.64
+     ],
+     [
+      79.64,
+      84.18
+     ]
+    ],
+    "measure_note": "modern_boxAF schedule: a fully BOXED 15-row grid, so a row lies BETWEEN its own two printed rules and NOTHING is extrapolated (ADDENDUM I3; the legacy 'row 1 above the first rule' rule does not apply). rowbands.py (skew 0.0) returns 18 h_rules; the first 16 (15.98 -> 84.18) bound the 15 data rows stored here, and the last two (89.05, 93.05) bound the footer 'Name of Candidate' and 'Date of Report' boxes - so the tool's 16th and 17th 'data bands' are NOT table rows and are excluded. v_rules gives the four column bands directly: Date 5.94-19.65, Name of Contributor / Provider-Vendor 19.65-51.06, Address / Purpose 51.06-80.47, Amount 80.47-94.24. TWO-CROP PROOF at 900 dpi --value: the row-1 box pct:80.47,15.98,13.77,4.54@p2 rendered '$50.00' (recorded 50.00, Lynda Roper) and the row-15 box pct:80.47,79.64,13.77,4.54@p2 rendered '$50.00' (recorded 50.00, Sierra Jeppesen). BOTH CONTROLS: the row-1 crop is the FIRST-ENTRY control and shows the first written entry inside band 1 directly under the printed 'Amount' header - no skipped line, no banner, no voided row; the ONE-PAST-THE-END control pct:80.47,84.18,13.77,4.87@p2 rendered the printed footer 'Subtotal for this page $ 724.00', i.e. the grid genuinely ends at band 15 and no entry hides below the last rule. All 15 rows of this sheet carry entries."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     80.47,
+     94.24
+    ],
+    "cells": [
+     [
+      5.94,
+      19.65
+     ],
+     [
+      19.65,
+      51.06
+     ],
+     [
+      51.06,
+      80.47
+     ],
+     [
+      80.47,
+      94.24
+     ]
+    ],
+    "rows": [
+     [
+      15.98,
+      20.52
+     ],
+     [
+      20.52,
+      25.07
+     ],
+     [
+      25.07,
+      29.61
+     ],
+     [
+      29.61,
+      34.16
+     ],
+     [
+      34.16,
+      38.73
+     ],
+     [
+      38.73,
+      43.27
+     ],
+     [
+      43.27,
+      47.82
+     ],
+     [
+      47.82,
+      52.36
+     ],
+     [
+      52.36,
+      56.91
+     ],
+     [
+      56.91,
+      61.45
+     ],
+     [
+      61.45,
+      66.0
+     ],
+     [
+      66.0,
+      70.55
+     ],
+     [
+      70.55,
+      75.09
+     ],
+     [
+      75.09,
+      79.64
+     ],
+     [
+      79.64,
+      84.18
+     ]
+    ],
+    "measure_note": "modern_boxAF schedule: a fully BOXED 15-row grid, so a row lies BETWEEN its own two printed rules and NOTHING is extrapolated (ADDENDUM I3; the legacy 'row 1 above the first rule' rule does not apply). rowbands.py (skew 0.0) returns 18 h_rules; the first 16 (15.98 -> 84.18) bound the 15 data rows stored here, and the last two (89.05, 93.05) bound the footer 'Name of Candidate' and 'Date of Report' boxes - so the tool's 16th and 17th 'data bands' are NOT table rows and are excluded. v_rules gives the four column bands directly: Date 5.94-19.65, Name of Contributor / Provider-Vendor 19.65-51.06, Address / Purpose 51.06-80.47, Amount 80.47-94.24. Same stock and same measured grid as p2 (identical rule list at skew 0.0), but only the first 5 rows carry entries. TWO-CROP PROOF at 900 dpi --value: the row-1 box pct:80.47,15.98,13.77,4.54@p3 rendered '$200.00' (recorded 200.00, Darrell Haag) and the row-5 box pct:80.47,34.16,13.77,4.57@p3 rendered '$3,412.53' (recorded 3412.53, the candidate loan). BOTH CONTROLS: row 1 is the first-entry control; the ONE-PAST-THE-END control pct:80.47,38.73,13.77,4.54@p3 rendered an EMPTY boxed cell, so rows 6-15 are genuinely unmarked and the ledger does not continue below them."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     80.47,
+     94.24
+    ],
+    "cells": [
+     [
+      5.94,
+      19.65
+     ],
+     [
+      19.65,
+      51.06
+     ],
+     [
+      51.06,
+      80.47
+     ],
+     [
+      80.47,
+      94.24
+     ]
+    ],
+    "rows": [
+     [
+      15.98,
+      20.52
+     ],
+     [
+      20.52,
+      25.07
+     ],
+     [
+      25.07,
+      29.61
+     ],
+     [
+      29.61,
+      34.16
+     ],
+     [
+      34.16,
+      38.73
+     ],
+     [
+      38.73,
+      43.27
+     ],
+     [
+      43.27,
+      47.82
+     ],
+     [
+      47.82,
+      52.36
+     ],
+     [
+      52.36,
+      56.91
+     ],
+     [
+      56.91,
+      61.45
+     ],
+     [
+      61.45,
+      66.0
+     ],
+     [
+      66.0,
+      70.55
+     ],
+     [
+      70.55,
+      75.09
+     ],
+     [
+      75.09,
+      79.64
+     ],
+     [
+      79.64,
+      84.18
+     ]
+    ],
+    "measure_note": "modern_boxAF schedule: a fully BOXED 15-row grid, so a row lies BETWEEN its own two printed rules and NOTHING is extrapolated (ADDENDUM I3; the legacy 'row 1 above the first rule' rule does not apply). rowbands.py (skew 0.0) returns 18 h_rules; the first 16 (15.98 -> 84.18) bound the 15 data rows stored here, and the last two (89.05, 93.05) bound the footer 'Name of Candidate' and 'Date of Report' boxes - so the tool's 16th and 17th 'data bands' are NOT table rows and are excluded. v_rules gives the four column bands directly: Date 5.94-19.65, Name of Contributor / Provider-Vendor 19.65-51.06, Address / Purpose 51.06-80.47, Amount 80.47-94.24. Schedule B, same boxed 15-row grid (17 rules here: the footer 'Date of Report' rule falls at 93.66). 13 of the 15 rows carry entries. TWO-CROP PROOF at 900 dpi --value: the row-1 box pct:80.47,15.98,13.77,4.54@p4 rendered '$406.46' (recorded 406.46, MailChimp) and the row-13 box pct:80.47,70.55,13.77,4.54@p4 rendered '$23.30' (recorded 23.30, USPS.com). BOTH CONTROLS: row 1 is the first-entry control; the ONE-PAST-THE-END control pct:80.47,75.09,13.77,4.55@p4 rendered an EMPTY boxed cell, ruling out both an off-by-one and a row hidden past the last entry."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 2,
+    "row": 1,
+    "date": "06/23/2020",
+    "donor_raw": "Lynda Roper",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "2",
+    "page": 2,
+    "row": 2,
+    "date": "06/23/2020",
+    "donor_raw": "Bonnie Bastian",
+    "donor_city": "El Dorado Hills",
+    "donor_state": "CA",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. the address cell gives a mailing box and the city/state but NO zip; only city/state are carried. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "3",
+    "page": 2,
+    "row": 3,
+    "date": "06/23/2020",
+    "donor_raw": "Jason Barthel",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "4",
+    "page": 2,
+    "row": 4,
+    "date": "06/23/2020",
+    "donor_raw": "Maverick Collette",
+    "donor_city": "El Dorado Hills",
+    "donor_state": "CA",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "5",
+    "page": 2,
+    "row": 5,
+    "date": "06/23/2020",
+    "donor_raw": "Renee Braddy",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "6",
+    "page": 2,
+    "row": 6,
+    "date": "06/23/2020",
+    "donor_raw": "Chris Forbush",
+    "donor_city": "Saratoga Springs",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "7",
+    "page": 2,
+    "row": 7,
+    "date": "06/23/2020",
+    "donor_raw": "Kristopher Butcher",
+    "donor_city": "New York City",
+    "donor_state": "NY",
+    "amount": "69.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. out-of-state donor. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "8",
+    "page": 2,
+    "row": 8,
+    "date": "06/24/2020",
+    "donor_raw": "Brian Firth",
+    "donor_city": "Woods Cross",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "9",
+    "page": 2,
+    "row": 9,
+    "date": "06/24/2020",
+    "donor_raw": "Anonymous Donation",
+    "amount": "40.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. the donor cell reads 'Anonymous Donation' and the ADDRESS cell repeats the same words \u2014 so city/state are blank because the filer wrote no address, not because the county redacted one and not because the form prints none. Transcribed as the document reports it; never expanded into an imagined donor."
+   },
+   {
+    "line_no": "10",
+    "page": 2,
+    "row": 10,
+    "date": "06/25/2020",
+    "donor_raw": "Jolene Kecher",
+    "donor_city": "Roseville",
+    "donor_state": "CA",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "11",
+    "page": 2,
+    "row": 11,
+    "date": "06/25/2020",
+    "donor_raw": "Heidi Mcgettigan",
+    "donor_city": "Sacramento",
+    "donor_state": "CA",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "12",
+    "page": 2,
+    "row": 12,
+    "date": "06/26/2020",
+    "donor_raw": "Steve Voeks",
+    "donor_city": "Anchorage",
+    "donor_state": "AK",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. out-of-state donor sharing the candidate's surname (Alaska). The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "13",
+    "page": 2,
+    "row": 13,
+    "date": "06/26/2020",
+    "donor_raw": "Sierra R. Jeppesen",
+    "donor_city": "Boise",
+    "donor_state": "ID",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. the address cell gives a mailing box with the city/state; only city/state are carried. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "14",
+    "page": 2,
+    "row": 14,
+    "date": "06/27/2020",
+    "donor_raw": "Lynda Roper",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. second gift from the donor at row 1. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "15",
+    "page": 2,
+    "row": 15,
+    "date": "06/27/2020",
+    "donor_raw": "Sierra Jeppesen",
+    "donor_city": "Ranch Cordova.",
+    "donor_state": "CA",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution; the printed 'Amount' column is the only money column on this v.4.20 Schedule A and no row on this sheet is marked in-kind. the city is printed 'Ranch Cordova.' with a trailing period (the filer's spelling of Rancho Cordova) and is carried VERBATIM, not corrected. Same-named donor as row 13 but a different address and no middle initial - not merged. LAST row of this sheet and the row-15 geometry proof, which rendered '$50.00'. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 1,
+    "date": "06/29/2020",
+    "donor_raw": "Darrell Haag",
+    "donor_city": "Sacramento",
+    "donor_state": "CA",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 2,
+    "date": "06/30/2020",
+    "donor_raw": "Tactical Campaigns (in-kind donation of services)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "1658.15",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "in-kind contribution. *** THE ONLY IN-KIND ROW ON THE FILING, and the filer marks it in the NAME cell: '(in-kind donation of services)'. *** It is INSIDE the promoted anchor: the sheet's printed 'Subtotal for this page 5,820.68' and the printed 'Total Contributions Received 6,544.68' (= Box B) both include it, so the monetary-plus-in-kind convention is the one that closes and the row is published with in_kind=true. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "18",
+    "page": 3,
+    "row": 3,
+    "date": "06/30/2020",
+    "donor_raw": "Dillon Jeppesen",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "19",
+    "page": 3,
+    "row": 4,
+    "date": "06/30/2020",
+    "donor_raw": "Blaze Jeppesen",
+    "donor_city": "Boise",
+    "donor_state": "ID",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution. the address cell gives a mailing box with the city/state; only city/state are carried. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "20",
+    "page": 3,
+    "row": 5,
+    "date": "07/01/2020",
+    "donor_raw": "Brian Voeks (Loan from candidate)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "3412.53",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cash contribution. *** A CANDIDATE LOAN, CLASSIFIED BY THE LADDER AND NOT BY THE WORD (ADDENDUM B3). *** The filer writes '(Loan from candidate)' in the donor cell, but the figure is inside the sheet's printed subtotal 5,820.68 and inside the printed 'Total Contributions Received' 6,544.68 = Box B, while Box A 'Balance at Beginning' is $0.00 and leaves no beginning-balance slot for it - so on this document the loan IS an itemized contribution row. LAST entry of the contribution side and the row-5 geometry proof, which rendered '$3,412.53'. The address cell is published in the clear by the county (this filing's only redaction is the cover signature); reduced to city/state at read time."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "06/23/2020",
+    "vendor_raw": "MailChimp",
+    "purpose": "Email servicing",
+    "amount": "406.46",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "06/23/2020",
+    "vendor_raw": "Blip",
+    "purpose": "Billboard",
+    "amount": "77.51",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "06/26/2020",
+    "vendor_raw": "Walmart",
+    "purpose": "Rubber bands",
+    "amount": "5.03",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "06/26/2020",
+    "vendor_raw": "GoDaddy",
+    "purpose": "Website + Marketing",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim."
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "06/28/2020",
+    "vendor_raw": "Blip",
+    "purpose": "Billboard",
+    "amount": "145.69",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim."
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "06/29/2020",
+    "vendor_raw": "Facebook",
+    "purpose": "Ads",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim."
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "06/29/2020",
+    "vendor_raw": "PayPal",
+    "purpose": "Processing fees",
+    "amount": "39.09",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim."
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "06/30/2020",
+    "vendor_raw": "Facebook",
+    "purpose": "Ads",
+    "amount": "350.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim."
+   },
+   {
+    "line_no": "9",
+    "page": 4,
+    "row": 9,
+    "date": "06/30/2020",
+    "vendor_raw": "Blip",
+    "purpose": "Billboard",
+    "amount": "159.12",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim."
+   },
+   {
+    "line_no": "10",
+    "page": 4,
+    "row": 10,
+    "date": "06/30/2020",
+    "vendor_raw": "Tactical Campaigns",
+    "purpose": "Texting and voicemail services",
+    "amount": "4589.02",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim. The same vendor appears on Schedule A as the filing's in-kind donor, for a different amount and a different service; the two rows are kept apart exactly as the document prints them and nothing is netted."
+   },
+   {
+    "line_no": "11",
+    "page": 4,
+    "row": 11,
+    "date": "07/01/2020",
+    "vendor_raw": "Blip",
+    "purpose": "Billboard",
+    "amount": "218.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim."
+   },
+   {
+    "line_no": "12",
+    "page": 4,
+    "row": 12,
+    "date": "07/05/2020",
+    "vendor_raw": "Amazon.com",
+    "purpose": "Thank you notes",
+    "amount": "10.71",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim."
+   },
+   {
+    "line_no": "13",
+    "page": 4,
+    "row": 13,
+    "date": "07/05/2020",
+    "vendor_raw": "USPS.com",
+    "purpose": "Stamps",
+    "amount": "23.30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PURPOSE column is real on the 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim. LAST row of the grid and the row-13 geometry proof, which rendered '$23.30'."
+   }
+  ],
+  "notes": "modern_boxAF, revision 'v. 4.20' (footer). 5 pages, each classified from its own printed header: p1 cover ('Financial Campaign Report for County and Local School Board Candidates'), p2 SCHEDULE A sheet 1, p3 SCHEDULE A sheet 2, p4 SCHEDULE B, p5 SUMMARY PAGE (LAST, as ADDENDUM I3 describes for this variant, but located by its heading). Foliation is CONTINUOUS ACROSS THE WHOLE DOCUMENT here (cover 'Page 1', Schedule A sheets 'Page 2' and 'Page 3', Schedule B 'Page 4', Summary 'Page 5') - a different practice from the per-schedule foliation seen on the Ivie filing in this same chunk and cycle, and one more reason a page ordinal locates nothing without reading the header. Page-face candidate 'Brian Voeks' matches the channel label; page-face office reads 'Utah County Recorder', which agrees with index.csv's 'County Recorder'. Report type: '30 Days after the Primary Election' (single radio); amendment ticked 'No'; signature date and Date of Report both 'July 9, 2020' while the channel labels the filing '7/30/20' - the page face governs and both are recorded. REDACTION: only the signature block is blacked out by the county; every donor address is published in the clear and the reduction to city/state is applied by THIS transcription at read time (ADDENDUM I4's 'a filename is not evidence of redaction', from the other direction). Two properties of the contribution side worth naming: the filer books a 3,412.53 CANDIDATE LOAN as a contribution row, and his single IN-KIND gift (1,658.15) is inside Box B - both established from the ladder and the printed subtotals, not from the words. A third: one row is an 'Anonymous Donation' whose address cell repeats the same words, so its city/state are blank because the filer wrote no address. All 15 printed rows of Schedule A sheet 1 are used, which is why the report needed a second sheet for five more entries."
+ }
+]

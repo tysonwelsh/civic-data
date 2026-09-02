@@ -1,0 +1,177 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2019-01-17",
+   "vendor_raw": "Lyon Printing",
+   "purpose": "Printing",
+   "amount": "235.07",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.50,24.68,78.60,4.02@p4",
+   "note": "cents written as a raised superscript ('235 ^07'); transcribed with a decimal point. Date printed with a 2-digit year ('1/17/19'). The '07' is confirmed by the schedule grand total: 235.07+2,500.00+425.98+300.00+250.00 = 3,711.05 exactly, and re-read in an 800 dpi cell crop."
+  },
+  {
+   "line_no": 2,
+   "date": "2019-02-25",
+   "vendor_raw": "Leslee Reberg",
+   "purpose": "Consulting Fee",
+   "amount": "2,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.50,28.70,78.60,4.00@p4",
+   "note": "superscript cents. 2-digit year ('2/25/19')."
+  },
+  {
+   "line_no": 3,
+   "date": "2019-05-24",
+   "vendor_raw": "SL County Democratic Party",
+   "purpose": "Donation",
+   "amount": "425.98",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.50,32.70,78.60,3.98@p4",
+   "note": "recipient cell holds two written lines, 'SL County Democratic' over 'Party'; joined here. superscript cents. 2-digit year ('5/24/19')."
+  },
+  {
+   "line_no": 4,
+   "date": "2019-07-15",
+   "vendor_raw": "Young Democrats of Utah",
+   "purpose": "Donation",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.50,36.68,78.60,4.00@p4",
+   "note": "recipient cell holds two written lines, 'Young Democrats of' over 'Utah'; joined here. superscript cents. 2-digit year ('7/15/19')."
+  },
+  {
+   "line_no": 5,
+   "date": "2019-09-03",
+   "vendor_raw": "Central Utah Federation of Labor",
+   "purpose": "Donation",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.50,40.68,78.60,4.05@p4",
+   "note": "recipient cell holds two written lines, 'Central Utah Federation' over 'of Labor'; joined here. superscript cents. 2-digit year ('9/3/19')."
+  }
+ ],
+ "total_contributions": "",
+ "total_expenditures": "3,711.05",
+ "beginning_balance": "14,725.97",
+ "ending_balance": "11,014.92",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "3,711.05",
+  "line5_subtotal": "14,725.97"
+ },
+ "cover": {
+  "candidate": "Ann Granato",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "January 31 of each year (YEAR-END REPORT)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/28/2020",
+  "form_year": "2019"
+ },
+ "confidence": {
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/ann-granato---redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ann Granato",
+  "office": "County Council",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/ann-granato---redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Chunk-file/index.csv metadata CONFIRMED at the page: Ann Granato, County Council District 4, Democrat, year-end. The form's checked box is 'YEAR-END REPORT: January 31 of each year'; report signed 1/28/2020; the clerk's blue 'RECEIVED IN OFFICE' stamp reads JAN 29 2020 and the grey 'For Office Use Only' box carries a second RECEIVED stamp JAN 31 2020. form_year is the printed title '2019' and here it IS the report's period year (the 2019 year-end filed January 2020) - unlike the McAdams filing in this same chunk. AMENDMENT: NEITHER the Yes nor the No box is ticked; is_amendment recorded as ''. The chunk file's flag 'county-schedule-a-observed' is CONFIRMED with a correction worth recording: the county Schedule A page exists but carries no lines at all - a real zero, not detail. This filing carries the 2019+ three-page trailing block (Summary Page OTHER CAMPAIGN ACCOUNTS on p5, plus its two itemized pages p6/p7); ALL THREE are wholly blank, and the Other-Accounts summary is a DIFFERENT table (its Column B is 'Year to Date') that was NOT read into the standard totals. ZERO CONTRIBUTION ROWS in the whole filing, so no Occupation/Employer cells were captured here - the column exists on p3 and p6 and is empty because there is nothing to record.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3 (present, wholly blank)",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "",
+     "result": "unknown",
+     "detail": "The county Schedule A page (p3) IS present and is WHOLLY BLANK - no lines, and its SUBTOTAL and TOTAL cells are empty too. That is a real zero, not a gap. But the filing states NO total for this side to reconcile against: Summary line 1 is blank in BOTH Column A and Column B, and the schedule prints no total either - so the result is honestly 'unknown', not 'exact'. The only zero the filer asserts anywhere is line 4 ('Total Contributions Received, From Line 1 Column A'), where he wrote a handwritten circle 0; that is line 4, not line 1, and it is consistent with a zero-contribution period. Nothing was synthesized."
+    },
+    "expenditures": {
+     "stated": "3,711.05",
+     "schedule_total": "3,711.05",
+     "itemized": "3711.05",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "5 rows sum to 3,711.05 = the printed 'TOTAL EXPENDITURES MADE' on p4 = Summary line 2 Column A (and Column B, which is identical here). SCOPE TEST: the schedule grand total equals Column A, so the two printed anchors share the per-period scope on this filing. No in-kind rows exist, so no schedule-total-vs-summary-gap. The 0.07 that a naive '235.00' read would have lost is the arithmetic that fixed the first row's cents."
+    }
+   },
+   "page_subtotal_gates": "p4 prints 'SUBTOTAL FOR THIS PAGE' and the filer LEFT IT BLANK, so the page-subtotal gate is NOT AVAILABLE on this filing (the sec.1(2) case). Gated instead on the schedule's own printed grand total: rows 3,711.05 = printed TOTAL 3,711.05. p3's subtotal/total cells are also blank, and its grid holds no rows.",
+   "escalations": 1,
+   "escalation_note": "p4 amount column rows 1-3 at 800 dpi to settle the superscript cents on row 1 ('07', not '00') - the schedule grand total had already decided it; the crop confirmed it.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Chunk-file/index.csv metadata CONFIRMED at the page: Ann Granato, County Council District 4, Democrat, year-end. The form's checked box is 'YEAR-END REPORT: January 31 of each year'; report signed 1/28/2020; the clerk's blue 'RECEIVED IN OFFICE' stamp reads JAN 29 2020 and the grey 'For Office Use Only' box carries a second RECEIVED stamp JAN 31 2020. form_year is the printed title '2019' and here it IS the report's period year (the 2019 year-end filed January 2020) - unlike the McAdams filing in this same chunk. AMENDMENT: NEITHER the Yes nor the No box is ticked; is_amendment recorded as ''. The chunk file's flag 'county-schedule-a-observed' is CONFIRMED with a correction worth recording: the county Schedule A page exists but carries no lines at all - a real zero, not detail. This filing carries the 2019+ three-page trailing block (Summary Page OTHER CAMPAIGN ACCOUNTS on p5, plus its two itemized pages p6/p7); ALL THREE are wholly blank, and the Other-Accounts summary is a DIFFERENT table (its Column B is 'Year to Date') that was NOT read into the standard totals. ZERO CONTRIBUTION ROWS in the whole filing, so no Occupation/Employer cells were captured here - the column exists on p3 and p6 and is empty because there is nothing to record."
+  }
+ }
+}

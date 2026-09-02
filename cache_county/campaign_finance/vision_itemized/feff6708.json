@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C02.json",
+ "key": "feff6708",
+ "index_path": "raw/2008/2008_wb_krobison1124.pdf",
+ "applies_to": [
+  "raw/2008/2008_wb_krobison1124.pdf"
+ ],
+ "sha256_prefix": "20baf2bca0490e48",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_last": "90 00",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "90 00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is ONE page: the Carr 5-5-PG cover only ('Page 1'). Form 'A' is not present. Line 1 (over $50, the ONLY line Form A anchors) is BLANK in all three columns - verified in a 600 dpi crop, the three rules are empty. All of this filer's money sits on line 2, the <=$50 AGGREGATE, which is never itemized on this form (core brief section 4): LAST 90 with superscript 00 over the rule (= 90.00), THIS 0, CUMULATIVE 90 with superscript 00 (= 90.00). So even if Form A were present it would be empty."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "1328.62",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "1328.62",
+    "cover_balance_end": "123862",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form 'B' is not present in the one-page PDF. Cover line 3 reads LAST 1328.62 / THIS 0 / CUMULATIVE 1328.62 (600 dpi crop). Line 4 balance reads LAST 1238.62 / THIS 0 / CUMULATIVE 123862 - the cumulative balance cell is written WITHOUT a decimal point; recorded verbatim as '123862'. It is not a malformed decimal (no stray separators), just an omitted point, and the LAST cell of the same line prints 1238.62."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "not applicable - no schedule page exists in this document; the Carr form prints no schedule total in any case (addendum A.1)",
+  "row_count": "not applicable - no ruled schedule page in this document",
+  "geometry_proof": "not applicable - zero rows emitted",
+  "balance_chain": "DOES NOT CLOSE, and the residual is the FILER's: cumulative contributions 90.00 minus cumulative expenses 1328.62 = -1238.62, yet the filer wrote the balance as a POSITIVE 1238.62 (LAST column) / 123862 (CUMULATIVE column) with no parentheses or minus sign. The magnitude matches exactly; only the sign convention is the filer's own. LAST + THIS = CUMULATIVE holds on every line (THIS is 0 throughout). Nothing was recomputed or overwritten."
+ },
+ "escalations": 4,
+ "escalation_note": "600 dpi cell crops of cover lines 1, 2, 3 and 4 (full amount band, all three columns): line 1 confirmed empty, line 2 90-superscript-00 / 0 / 90-superscript-00, line 3 1328.62 / 0 / 1328.62, line 4 1238.62 / 0 / 123862",
+ "notes": "ONE-PAGE DOCUMENT - cover only. index.csv says candidate 'Kathy Robison', office 'County Council'; the form's 'Full Name of Candidate' reads 'Kathleen Ann Robison' (signed 'Kathy Robison'), 'Name of Office' reads 'Cache County Council', 'Office District' 'Logan Seat #2', party Republican - in scope; the index's short form is the signature name, not a contradiction. Clerk RECEIVED stamp 2008 NOV 25 AM 11:45; filer's signature date '24 Nov 2008', matching the chunk file's 2008-11-24. SUB-$50 TRAP LIVE ON THIS FILING: the whole contribution total is the line-2 aggregate; any comparison against Form A would be a basis error. Superscript cents over a rule transcribed with a decimal point per core section 3(g). Candidate street address, ZIP and home phone are printed in the clear and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

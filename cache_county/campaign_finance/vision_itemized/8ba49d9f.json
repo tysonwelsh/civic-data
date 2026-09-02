@@ -1,0 +1,86 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C01.json",
+ "key": "8ba49d9f",
+ "index_path": "raw/2008/2008_wb_cyeates.pdf",
+ "applies_to": [
+  "raw/2008/2008_wb_cyeates.pdf"
+ ],
+ "sha256_prefix": "918dedd2d895fc25",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_last": "40",
+    "cover_le50_this": "",
+    "cover_le50_cum": "40",
+    "cover_expense_last": "40",
+    "cover_expense_this": "",
+    "cover_expense_cum": "40",
+    "cover_balance_end": "Ø",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is STRUCK OUT - three long vertical pen strokes with loops run down the Name, Address and Amount columns across roughly twenty writing bands. No date, no legible name, no legible figure sits on any single band; this is the filer voiding the schedule, so it is an EMPTY schedule (zero rows), not a row and not a zero-valued transaction. Cover line 1 (over-$50 contributions) is a hand-drawn circle = 0 in the only column the filer used, so zero rows is exact. Cover line 2 (<=$50 aggregate) is 40 and is NEVER itemized - excluded from the basis per the sub-$50 aggregate rule; scoring against line1+line2 would manufacture a false 40.00 mismatch here. Scope: the filer entered figures in the LAST REPORT column and repeated line 2 and line 3 in the CUMULATIVE column, leaving THIS REPORT wholly blank, so the cumulative reading is the one available."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "40",
+    "cover_expense_this": "",
+    "cover_expense_cum": "40",
+    "cover_balance_end": "Ø",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-cumulative",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "DELTA, and the cause is the filer's: Form B (p3) is struck out by a single long diagonal pen line running corner to corner across the whole grid, with no ink on any writing band - a provably EMPTY schedule, zero rows - while cover line 3 reports 40 in both the LAST REPORT and CUMULATIVE columns. The candidate reported a $40 expense (consistent with the county filing fee) and did not itemize it. Zero rows are published, so no row carries needs_review; the delta is between the printed cover figure 40 and an itemized total of 0.00. Nothing was invented to close it."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr form prints no schedule total or page subtotal on either schedule, and this filer wrote none. Cover lines are the only anchors. Form A: 0 rows vs cover line 1 = 0, gates. Form B: 0 rows vs cover line 3 = 40, DOES NOT GATE - reported above as a delta with the cause traced.",
+  "row_count": "Both schedules read full-page at 90 dpi and Form A again at 200 dpi: no ink lies on any writing band on either sheet - the only ink is the strike marks, which run VERTICALLY (p2) and DIAGONALLY (p3) across many bands at once and therefore belong to no band. 0 rows emitted on each side; rowbands.py not needed to count zero.",
+  "geometry_proof": "Not applicable - zero rows on both sides, so no row geometry is asserted.",
+  "balance_chain": "Cover line 4 (balance at end) carries a slashed zero in the LAST REPORT column = 0 and is blank in the other two columns. Contributions 40 (all of it the <=$50 aggregate on line 2) minus expenses 40 = 0, so the balance the filer printed is internally consistent with his own cover lines."
+ },
+ "escalations": 2,
+ "escalation_note": "600 dpi crop of the cover anchor block (to settle which COLUMN the filer used and to read the line-4 slashed zero); 200 dpi full-page re-render of Form A to confirm the vertical strokes sit on no writing band.",
+ "notes": "index.csv calls the candidate Cory Yeates / office County Council; the cover's 'Name of Office' line reads 'Cache County Council Seat #1' and 'Office District' reads 'Seat #1' - agrees, in scope. DOCUMENT-vs-FORM ODDITY worth a human eye: the filer entered his figures in the 'TOTALS FROM LAST REPORT' column (and echoed lines 2 and 3 into 'CUMULATIVE REPORT'), leaving 'TOTALS FOR THIS REPORT' completely blank - the column semantics are the filer's error, and both anchor sets are recorded verbatim rather than silently re-assigned. Cover street address, ZIP, home phone and business phone discarded at read time. A Cache County Clerk received stamp (2008 OCT 14 PM 3:19) is printed sideways over the right-hand cover column and clips the line-3/line-4 CUMULATIVE cells; line 3 CUM reads 40 through the stamp, line 4 CUM is blank beneath it.",
+ "contributions": [],
+ "expenditures": []
+}

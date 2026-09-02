@@ -3,7 +3,10 @@
  "key": "71705161",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:44:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,52 @@
    "notes": "TYPED (word-processed) form, not handwritten - the filer retyped the whole sheet, so the report-type checkboxes are gone and the selected option is marked with a typed 'XX' before 'Seven days preceding the General Election'. Street Address, City and ZIP are all blank; only State 'Utah' is filled, so residence_city is ''. Dollar signs are printed on every summary cell ('$0', '$520', '-$155.00' on line 3 and '$ -155.00' on lines 5 and 7); the '$' is dropped per spec and the minus retained. Cover signature date and summary Date of Report agree (25 OCT 2010 / 25 Oct 2010); the summary-page casing is used. Same filer as key b8aadb88 (the June faxed report), which closed at -155 - consistent, but nothing was carried across filings."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah)",
+   "transcribed_date": "2026-08-18",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED ('$0') on the p2 Summary Page, matching Schedule A's own printed 'Subtotal for this page' ('$ 0')",
+     "detail": "Schedule A (p3) is present and every one of its 15 underline rows is BLANK; the filer typed '$ 0' on the page subtotal. The cover's promoted per-period cell Column A likewise prints '$0'. Zero itemized rows against a printed zero \u2014 a real absence of entries this period, not an unread page. Column B 'Year-to-Date Total' prints '$520' and is NOT summed as an increment."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE ('$0') on the p2 Summary Page, matching Schedule B's own printed 'Subtotal for this page' ('$ 0')",
+     "detail": "Schedule B (p4) is present and every one of its 16 underline rows is BLANK; the filer typed '$ 0' on the page subtotal, and the cover's Column A prints '$0'. Zero rows against a printed zero. Column B YTD expenditures print '$675' and are never summed as an increment."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 no rows exist on either side and neither schedule prints an in-kind column, so both conventions give 0.00 and both close on Column A ($0)",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "PAGE-FACE CANDIDATE: 'Sean Hullinger' \u2014 index.csv names NO candidate for this row; the page face governs. Office Seeking typed 'COUNTY ATTORNEY', party 'Libertarian'. A ZERO-ACTIVITY REPORT: 4 pages, each classified from its own printed header \u2014 p1 COVER, p2 SUMMARY PAGE (its own printed header; the expected p2 ordinal), p3 SCHEDULE A (blank, subtotal '$ 0'), p4 SCHEDULE B (blank, subtotal '$ 0'). BOTH SIDES ARE EMPTY SCHEDULES, NOT UNREAD ONES: the schedule pages are retained and printed, every data line is blank, and the filer entered typed zeros on the page subtotals. FORM PROPERTY WORTH RECORDING: unlike its handwritten sibling, this filing is TYPED/word-processed onto a re-created form \u2014 the report-type checkboxes are replaced by a typed 'XX' before 'Seven days preceding the General Election', and the amendment answer is a typed [X] against 'No'. THE SAME-FILER COVER CHAIN HOLDS EXACTLY: this report's line 3 'Balance at Beginning of Reporting Period' prints -$155.00, which is precisely line 7 of the filer's earlier 2010 report (b8aadb88, 14 JUN 10, close -155), and this report's Column B year-to-date figures ($520 contributions / $675 expenditures) reproduce that report's figures to the dollar with no new activity in between. NO FIGURE WAS DIFFERENCED ACROSS THE TWO COVERS \u2014 the chain is reported as an observation, and each filing was transcribed strictly on its own terms. FILER CONVENTION NOTED, NOT CORRECTED: on both schedules the printed line 'Total Contributions/Expenditures Received (Sum of subtotals from all pages)' carries the CUMULATIVE figure ($520 / 675) rather than the sum of this report's own page subtotals ($0) \u2014 the filer used that line as a year-to-date line. Transcribed as printed; it does not alter the per-period anchor, which is Column A ($0 / $0). The cover's Street Address, City and Zip are blank (only State 'Utah'), so this filing states no residence city. Clerk stamp OCT 26 PM 3:44."
+  }
+ }
 }

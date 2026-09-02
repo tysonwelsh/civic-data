@@ -3,7 +3,10 @@
  "key": "f2a597fe",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:30:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,140 @@
    "notes": "Handwritten in pencil/black ink, clear throughout; no struck-through figures, no blank cells on the summary page. Page footer 'Page 2 of 4'. County date stamp OCT 27 AM11:37."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "7/1/2014-12/31/14",
+   "donor_raw": "IT Solutions LLC",
+   "donor_city": "Lehi",
+   "donor_state": "UT",
+   "amount": "60.00",
+   "in_kind": true,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.70,17.51,11.30,3.92@p3",
+   "geometry_frame": "p3 axis=y cell=81.70-93.00 rowband=17.51-21.43 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "IN-KIND, annotated by the filer beside the figure as '$60.00 - (In kind donation)' and booked INSIDE the schedule's printed 310.00 subtotal. \u26a0 THE DATE CELL HOLDS A DATE RANGE, NOT A DATE \u2014 '7/1/2014-12/31/14', the period over which the donated web hosting ran \u2014 and it is kept exactly as written; no single date is invented from it and the build will flag it. The donor's address occupies two written lines and the second (city/state/zip) sits on printed row 2, which is why row 2 carries no amount. PRIVACY: only city/state carried."
+  },
+  {
+   "line_no": "2",
+   "date": "10/24/2014",
+   "donor_raw": "Bryan E Thompson (Loan to Self)",
+   "donor_city": "Spanish Fork",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.70,25.39,11.30,3.91@p3",
+   "geometry_frame": "p3 axis=y cell=81.70-93.00 rowband=25.39-29.30 (3 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the candidate's own money, captioned '(Loan to Self)' by the filer. Classified as an itemized CONTRIBUTION row by the LADDER, not by the word 'loan' (ADDENDUM B \u00a7B3): it is inside the schedule's own printed 310.00 subtotal, and line 3 of the summary already carries an independent 565.29 beginning balance, so no beginning-balance slot is available for it. Address continues onto printed row 4; PRIVACY: only city/state carried."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "6/30/2014",
+   "vendor_raw": "Linda 4 Liberty",
+   "purpose": "Rent/ Participation fee",
+   "amount": "300.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.70,19.29,10.80,3.92@p4",
+   "geometry_frame": "p4 axis=y cell=81.70-92.50 rowband=19.29-23.21 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer wrote 'Linda for Liberty', STRUCK THROUGH 'for' and wrote a superscript numeral '4' above it \u2014 the handwritten correction governs, so the payee is 'Linda 4 Liberty'. THE PURPOSE IS REAL AND IS READ FROM THE PAGE, not from a Purpose column (the 2014 Schedule B prints none): this filer writes the payee on one printed row and the purpose on the next, so 'Rent/' trails the payee on row 1 and 'Participation fee' occupies row 2. Vendor city (Orem, Ut) not carried: expenditure rows have no address field."
+  },
+  {
+   "line_no": "2",
+   "date": "7/1 - 12/31/2014",
+   "vendor_raw": "IT Solutions LLC",
+   "purpose": "Web hosting fee",
+   "amount": "60.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.70,27.16,10.80,3.91@p4",
+   "geometry_frame": "p4 axis=y cell=81.70-92.50 rowband=27.16-31.07 (3 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "A DATE RANGE again, kept verbatim. Same vendor, same period and same 60.00 as the IN-KIND CONTRIBUTION on Schedule A row 1 \u2014 the standard in-kind double entry, booked on both sides by this filer. Purpose written on printed row 4."
+  },
+  {
+   "line_no": "3",
+   "date": "9/22/2014",
+   "vendor_raw": "KSTAR Radio 1400 AM",
+   "purpose": "Radio Air time",
+   "amount": "125.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.70,34.98,10.80,3.95@p4",
+   "geometry_frame": "p4 axis=y cell=81.70-92.50 rowband=34.98-38.93 (5 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "purpose written on printed row 6"
+  },
+  {
+   "line_no": "4",
+   "date": "10/24/2014",
+   "vendor_raw": "KSTAR Radio 1400 AM",
+   "purpose": "Radio Air time",
+   "amount": "375.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.70,42.84,10.80,3.91@p4",
+   "geometry_frame": "p4 axis=y cell=81.70-92.50 rowband=42.84-46.75 (7 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "purpose written on printed row 8; the last entry on the filing"
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r3_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED = 310.00 on the p2 SUMMARY PAGE (restated at line 4 'From Line 1 Column A'), which is also Schedule A's own printed 'Subtotal for this page $ 310.00' and its printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $ 310.00'",
+     "detail": "2 Schedule A rows sum to 60.00 + 250.00 = 310.00 exactly = the schedule's page subtotal = the schedule's own total = the cover's promoted per-period Column A cell = line 4. Column B 'Year-to-Date Total' prints 16,370.00 and is NOT summed as an increment. The p2 ladder closes exactly: line 3 565.29 + line 4 310.00 = line 5 875.29; 875.29 - line 6 860.00 = line 7 15.29. \u26a0 THE IN-KIND ROW IS INSIDE COLUMN A \u2014 see in_kind_convention; without the 60.00 in-kind donation the side sums to 250.00 against a stated 310.00. THE LOAN ROW IS A CONTRIBUTION ROW, decided by the ladder and not by the word 'loan' (ADDENDUM B \u00a7B3): 'Bryan E Thompson (Loan to Self)' 250.00 is inside the schedule's own printed subtotal, and line 3 already carries an independent 565.29 beginning balance, so there is no beginning-balance slot for it \u2014 this resolves the Kirk/Grierson way, not the Witney way."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE = 860.00 on the p2 SUMMARY PAGE (restated at line 6), which is also Schedule B's own printed 'Subtotal for this page $ 860.00' and its printed 'Total Expenditures Received (Sum of subtotals from all Schedule B pages) $ 860.00' \u2014 a heading the filer corrected by hand, writing 'Made' beneath the printed word 'Received'",
+     "detail": "4 Schedule B entries sum to 300.00 + 60.00 + 125.00 + 375.00 = 860.00 exactly = the schedule's page subtotal = the schedule's own total = the cover's promoted per-period Column A cell = line 6. Column B 'Year-to-Date Total' prints 16,854.71 and is retained as cumulative, never summed. Each entry occupies TWO printed rows (payee and amount on the odd row, purpose on the even row, address across both), so the four entries sit on printed rows 1, 3, 5 and 7 and rows 2, 4, 6, 8 carry no amount \u2014 the continuation rows print a BARE DASH in the date and amount cells, which under the zero-glyph ruling is a nil mark and NOT a numeral, so no phantom zero-value rows are created from them."
+    }
+   },
+   "in_kind_convention": "MONETARY-PLUS-IN-KIND on the contribution side \u2014 tested both ways before the verdict. Schedule A row 1 is annotated by the filer, in his own hand beside the figure, as '$60.00 - (In kind donation)', and that 60.00 is INSIDE the schedule's own printed 310.00 subtotal: monetary-only gives 250.00 against a stated 310.00 and fails by exactly 60.00, while monetary-plus-in-kind closes to the cent. The expenditure side needs no such test \u2014 its four entries carry no in-kind marking and sum to the stated 860.00 as cash \u2014 but note that the SAME 60.00 web-hosting fee appears on BOTH sides (as an in-kind donation from IT Solutions LLC and as a web-hosting expenditure to the same vendor over the same date range), which is the standard in-kind double entry and a second 2014 instance of the pattern Lee's filing shows. In-kind treatment remains per FILER, and this filer books it inline.",
+   "escalations": 1,
+   "escalation_note": "One legibility escalation on Schedule B row 1's payee cell (resolved inside the 600 dpi full-width row crop pct:5,19.29,90,3.92@p4): the filer wrote 'Linda for Liberty', then STRUCK THROUGH the word 'for' and wrote a superscript numeral '4' above it. Handwritten corrections over struck values govern, so the payee is read 'Linda 4 Liberty'; the struck word is recorded in the row note and not carried into the value.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 4,
+   "geometry": {
+    "measured": 6,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "THE MOST PURPOSE-RICH FILING OF THE CHUNK, and the one that shows the 2014 form's missing Purpose column being worked around three different ways across the cycle (Jackson appends the purpose after a hyphen inside the payee cell; Ratcliffe puts it in parentheses; Thompson writes it on the NEXT PRINTED ROW). 4 pages classified from their own printed headings: p1 cover, p2 'SUMMARY PAGE', p3 'SCHEDULE A \u2014 ITEMIZED CONTRIBUTIONS RECEIVED', p4 'SCHEDULE B \u2014 ITEMIZED EXPENDITURES MADE'; both schedules are on the 2014 template ('Address, City & Zip'; 'Purchased From/Source'). PAGE-FACE candidate 'Bryan E. Thompson' (Republican); office written 'Utah County Clerk/Auditor', agreeing with the channel's 'County Clerk/Auditor'; index.csv names no candidate, so the page face supplies it. Report type ticked 'Seven days preceding the General Election'; amendment 'No' ticked; signed 10/27/2014; clerk's date stamp present on the cover. FOLIATION: 'Page 3 of 4' and 'Page 4 of 4' on the two schedules \u2014 this filer COUNTS THE COVER (as Lee does; Buhman, Poulson and Smith do not). A THIRD 2014 DATE-FORMAT QUIRK: the same filer writes the report date '10/27/2014' in the foliation box on p3 and '27, Oct. 2014' in the same box on p4 \u2014 two formats on two consecutive sheets of one filing, so a date format is never a filing-level property. A FILER CORRECTING THE COUNTY'S OWN PRINTED HEADING: at the foot of Schedule B he writes 'Made' underneath the printed words 'Total Expenditures Received', fixing the county's wording \u2014 the companion to ADDENDUM B \u00a7B5's 2012 filer who struck 'Contributor' and wrote 'Payee'. DATE RANGES INSTEAD OF DATES appear on both sides ('7/1/2014-12/31/14' and '7/1 - 12/31/2014' for the same web-hosting arrangement); kept verbatim, never reduced to a single date. BARE DASHES sit in the date and amount cells of every continuation row on Schedule B \u2014 nil marks, not numerals, so they create no rows and no zeros. PRIVACY: this filing is NOT redacted \u2014 donor and vendor street lines are published in the clear; the reduction to city/state on contributions and the dropping of addresses on expenditures is mine at read time, per Addendum A \u00a7A5."
+  }
+ }
 }

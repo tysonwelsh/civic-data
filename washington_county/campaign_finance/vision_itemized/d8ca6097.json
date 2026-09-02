@@ -1,0 +1,122 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W13.json",
+ "key": "d8ca6097",
+ "index_path": "raw/state_disclosures/washington_2010 Elections_kim hafen 4-7-10.pdf",
+ "applies_to": [
+  "raw/state_disclosures/washington_2010 Elections_kim hafen 4-7-10.pdf"
+ ],
+ "sha256_prefix": "29bd8dfa92693867",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen1-ruled",
+  "expenditures": "gen1-ruled"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1 (the only anchor; this form generation prints no schedule total)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) verified BLANK at 200dpi across all ~44 ruled lines. Cover lines 1 and 2 are struck zero glyphs in all six cells, so 0.00 is exact and, LAST being zero, the THIS and CUMULATIVE scopes coincide - this is the filer's first report of the 2010 cycle. schedule_total is null because the field does not exist on the Carr 5-5-PG sheet, not because it was illegible."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "500.00",
+    "cover_expense_cum": "500.00",
+    "schedule_total": null
+   },
+   "itemized": "500.00",
+   "basis": "cover-line3-this == cover-line3-cumulative (no schedule total exists on this form)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Three Form B rows sum to exactly 500.00 = the cover line-3 THIS cell = the CUMULATIVE cell. Line 3's LAST cell was first written '500.00' then HEAVILY SCRIBBLED OUT and replaced with a struck zero glyph above it - the correction is the filer's and I read the corrected value (0), which is also what makes the line's own arithmetic close (0 + 500.00 = 500.00). First report of the cycle, so the two scopes coincide - recorded cumulative."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "NO printed schedule total exists on either sheet of this form generation, so no page-subtotal gate could be run - stated rather than invented. The gate that DID fire is the cover: p3 rows 75.00 + 400.00 + 25.00 = 500.00 = cover line 3 THIS and CUMULATIVE, exact.",
+  "row_count": "rowbands.py p3 returns geometry_status 'gaps' (26 bands; the Carr sheet's fine single rules are only partly detected: band 1 y=6.56 h=5.16 spans the header block, then a clean 2.32pct pitch from y=11.71). Counted against INK at 200dpi instead: exactly 3 inked lines, each with a date, a payee, a purpose and an amount, and every ruled line below is empty. Field-shift screen: 3 dates, 3 names, 3 purposes, 3 amounts - counts match; no name cell holds date-shaped content and no date cell holds name-shaped content.",
+  "geometry_proof": "p3 first-row amount crop (x1370 y145 W200 H55 @200dpi) renders '75 00'; second-row crop (y198) renders '400 00'; last-row crop (y253) renders '25 00'; control one row-pitch below the last (y306) renders EMPTY (bare rule).",
+  "balance_chain": "Cover line 4: LAST a struck zero glyph, THIS '(500.00)', CUM '(500.00)' - accounting PARENTHESES, i.e. NEGATIVE five hundred. 0 (beginning) + 0 (contributions) - 500.00 (expenditures) = -500.00 = the printed ending balance. Closes exactly, sign and all. No other filing by this filer in this cycle is in my chunk, so no cross-filing chain check was possible."
+ },
+ "escalations": 7,
+ "escalation_note": "p3 amount column at 1200dpi with an ImageMagick -normalize pass (the scan is faint), plus four separate 200dpi cell crops for the geometry proof; the cover anchor grid cropped twice at 400dpi (lines 1-2, then lines 2-4). THE DECIDING CHECK WAS ARITHMETIC, NOT RESOLUTION: row 1's leading digit is a bistable open-top glyph that the 1200dpi normalized crop still left arguable between 7 and 2, and row 3's leading digit is an unambiguous 2 of visibly different shape. 75 + 400 + 25 = 500.00 closes on the cover; 25 + 400 + 25 = 450.00 does not. The value is 75.00 - the document's own arithmetic settling a glyph, exactly the Rhodes pattern. The 200dpi cell crop independently reads '75'.",
+ "notes": "OFFICE VERIFIED IN THE DOCUMENT: 'Name of Office: WASHINGTON County Clerk/Auditor', 'Office District: County', 'Political Party: Republican' - a county row office, in scope, and it agrees with the chunk file's 'Clerk/Auditor'. Candidate 'KIM M HAFEN' agrees. Note the recursion: Kim Hafen is the very County Clerk/Auditor to whom the other filings in this chunk are addressed; here she files as a candidate and the RECEIVED APR 7 2010 stamp is her own office's. Signed 4/7/10; the form has NO period-beginning/ending line at all in this generation (the Carr 5-5-PG cover carries only a signature date) - that is a FORM LIMIT, not a lost crop, and it is why no reporting period is recorded here. PRIVACY: the cover prints home street address, city, ZIP, home phone and business phone in the clear - all discarded; there are no donor rows, and the three vendor rows carry no personal data. Channel is state_disclosures (a state-held copy of a county filing), page rot 0 and page size 595x789pt, so this PDF renders 1683x2200 at 200dpi - slightly narrower than the letter-size scans elsewhere in the chunk; the pct: geometry is relative to THAT frame.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-02-13",
+   "vendor_raw": "Washington Co Republican Party",
+   "purpose": "TABLE AT LINCOLN DAY BREAKFAST",
+   "amount": "75.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:81.40,6.59,11.88,2.50@p3",
+   "note": "Amount written '75' with superscript cents '00' over a short rule = 75.00. The leading digit is a bistable open-top glyph; escalation to 1200dpi did NOT settle it, the filing's arithmetic did (75+400+25=500.00 = the cover's expense line; a 2 would give 450 and break it). Row 3 on the same page shows this filer's unambiguous '2', which is a different shape. Confidence on the amount held at medium for that reason. This form generation has no in-kind column."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2010-03-12",
+   "vendor_raw": "WASHINGTON County",
+   "purpose": "FILING FEE",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.40,9.00,11.88,2.50@p3",
+   "note": "Amount written '400' with superscript cents '00' = 400.00. The candidate's own filing fee, paid to the county."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2010-04-06",
+   "vendor_raw": "Washington Co Republican Party",
+   "purpose": "ELECTIONEERING Table at Co. Convention",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.40,11.50,11.88,2.50@p3",
+   "note": "Amount written '25' with superscript cents '00' = 25.00. Payee written out in full (not a ditto of row 1)."
+  }
+ ]
+}

@@ -3,7 +3,10 @@
  "key": "a1c4ed41",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:25:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -54,5 +57,215 @@
    "notes": "Handwritten. The filer writes whole-dollar amounts with a DASH in the cents position ('2,250.-', '0.-'); transcribed exactly as printed rather than normalized to .00. Comma preserved as printed. REPORT-TYPE DISAGREEMENT with the portal: index.csv's reporting_period is '30 Day Commission B - Acheson', but the box the filer checked is 'INTERIM REPORTS - 30 Days after withdraw or elimination' (dated 5-12-14, i.e. before the June primary), not a 30-day-after-election report. Index candidate is blank; the page names David Acheson. Office printed 'Utah Co. Comm #B' agrees with index.csv 'County Commission Seat B'. Summary page header shows 'Page 1 of 3'."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "3-21",
+   "donor_raw": "Randy Spencer",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:85.94,18.80,9.94,3.95@p3",
+   "geometry_frame": "p3 axis=y cell=85.94-95.88 rowband=18.80-22.75 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "DATE CARRIES NO YEAR \u2014 written '3-21' and kept verbatim; a year is NEVER filled in from the report date (5-12-14) or from anywhere else, hence needs_review=1. The address cell holds ONLY 'Provo, UT' \u2014 this filer wrote no street line for any donor, so the privacy reduction costs nothing here and city/state are the cell's full content. Amount written '1000.-' with a DASH IN THE CENTS POSITION, the module's third whitelisted normalization; the reading is confirmed by unique arithmetic closure on the printed 2,250 subtotal, not by the glyph alone."
+  },
+  {
+   "line_no": "2",
+   "date": "3-28",
+   "donor_raw": "Andrew Gustafson",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:85.94,22.75,9.94,3.95@p3",
+   "geometry_frame": "p3 axis=y cell=85.94-95.88 rowband=22.75-26.70 (2 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "date '3-28' has NO YEAR, kept verbatim, never inferred (needs_review=1). Address cell holds only 'Provo, UT' as written. Amount '1000.-' \u2014 dash in the cents position, confirmed by closure."
+  },
+  {
+   "line_no": "3",
+   "date": "3-28",
+   "donor_raw": "Dick Nielsen",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:85.94,26.70,9.94,3.95@p3",
+   "geometry_frame": "p3 axis=y cell=85.94-95.88 rowband=26.70-30.65 (3 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "date '3-28' has NO YEAR, kept verbatim (needs_review=1). Address cell holds only 'Provo, UT'. Amount '250.-' \u2014 dash in the cents position, confirmed by closure."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "3-28",
+   "vendor_raw": "Wal-Mart",
+   "amount": "173.74",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:86.71,20.86,10.00,3.95@p4",
+   "geometry_frame": "p4 axis=y cell=86.71-96.71 rowband=20.86-24.81 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "This sheet prints NO Purpose column (and its payee column is mislabelled 'Name of Contributor'), and the filer supplied none of the three documented workarounds, so purpose is honestly blank. DATE CARRIES NO YEAR \u2014 '3-28', kept verbatim, needs_review=1; the filer wrote '2014' above the column HEADING, which is recorded in the notes but is NOT promoted into any row's date field (only the row's own cell may supply the row's value)."
+  },
+  {
+   "line_no": "2",
+   "date": "3-17.",
+   "vendor_raw": "Utah Co. Clerk Registration",
+   "purpose": "Registration",
+   "amount": "569.48",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:86.71,24.81,10.00,3.97@p4",
+   "geometry_frame": "p4 axis=y cell=86.71-96.71 rowband=24.81-28.78 (2 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the payee cell appends the purpose after the payee name without brackets or a hyphen \u2014 a fourth variant of the missing-Purpose-column workaround; payee cell kept verbatim and purpose read out of it. This is the candidate filing fee paid to the county. Date written '3-17.' with the filer's trailing full stop, kept verbatim, and it carries NO YEAR (needs_review=1)."
+  },
+  {
+   "line_no": "3",
+   "date": "4-4",
+   "vendor_raw": "FlexTech",
+   "amount": "251.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:86.71,28.78,10.00,3.91@p4",
+   "geometry_frame": "p4 axis=y cell=86.71-96.71 rowband=28.78-32.69 (3 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "amount written '251.-' \u2014 dash in the cents position, confirmed by unique closure on the printed 2,230.30 subtotal. No purpose stated by the filer; no Purpose column on the form. Date has NO YEAR (needs_review=1)."
+  },
+  {
+   "line_no": "4",
+   "date": "4-11",
+   "vendor_raw": "MC Printing",
+   "amount": "635.16",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:86.71,32.69,10.00,3.96@p4",
+   "geometry_frame": "p4 axis=y cell=86.71-96.71 rowband=32.69-36.65 (4 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "no purpose stated; no Purpose column on the form. Date has NO YEAR (needs_review=1)."
+  },
+  {
+   "line_no": "5",
+   "date": "4-4",
+   "vendor_raw": "Pride Signs",
+   "amount": "235.92",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:86.71,36.65,10.00,3.95@p4",
+   "geometry_frame": "p4 axis=y cell=86.71-96.71 rowband=36.65-40.60 (5 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the address cell for this row reads 'Pleasant Grove' with NO state, unlike the other rows; recorded here only as an observation since expenditure rows carry no address field. No purpose stated. Date has NO YEAR (needs_review=1)."
+  },
+  {
+   "line_no": "6",
+   "date": "4-4",
+   "vendor_raw": "Utah Co. Public Works",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:86.71,40.60,10.00,3.91@p4",
+   "geometry_frame": "p4 axis=y cell=86.71-96.71 rowband=40.60-44.51 (6 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "amount '35.-' \u2014 dash in the cents position, confirmed by closure. No purpose stated. Date has NO YEAR (needs_review=1)."
+  },
+  {
+   "line_no": "7",
+   "date": "4-11",
+   "vendor_raw": "Mean It Robocalls",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:86.71,44.51,10.00,3.96@p4",
+   "geometry_frame": "p4 axis=y cell=86.71-96.71 rowband=44.51-48.47 (7 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "amount '100.-' \u2014 dash in the cents position, confirmed by closure. The payee's own trade name states what was bought; no separate purpose was written and there is no Purpose column, so purpose stays blank rather than being derived from the name. Date has NO YEAR (needs_review=1)."
+  },
+  {
+   "line_no": "8",
+   "date": "4-12",
+   "vendor_raw": "Devin Renshaw",
+   "amount": "230.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:86.71,48.47,10.00,3.95@p4",
+   "geometry_frame": "p4 axis=y cell=86.71-96.71 rowband=48.47-52.42 (8 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "PRIVACY REDUCTION INSIDE THE PAYEE CELL: the filer wrote the payee's name and then, in the SAME 'Name of Contributor' cell, a street fragment. Only the personal name is carried; the street fragment was dropped at read time and is deliberately not quoted here or anywhere in this record, per the frozen privacy rule that a street address never enters a record, not even a note. The name portion is verbatim. Amount '230.-' \u2014 dash in the cents position, confirmed by closure. Date has NO YEAR (needs_review=1)."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r4_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (2,250.00, written '2,250.-' with a dash in the cents position) on the p2 SUMMARY PAGE \u2014 the same figure Schedule A prints on both of its own anchors, 'Subtotal for this page' $2250.- and 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' $2250.-",
+     "detail": "3 Schedule A rows sum to 1000.00 + 1000.00 + 250.00 = 2,250.00 exactly, matching all THREE printed anchors (page subtotal, schedule total, cover Column A line 1) plus the 2,250.- the filer re-copies at summary line 4 and again at line 5. The unique closure also validates the whitelisted dash-in-the-cents normalization this module already applies ('2,250.-' -> 2250.00): the three whole-dollar rows can only add to the printed subtotal if each trailing dash is read as .00, so the arithmetic, not a glyph judgement, settles it. Column B 'Year-to-Date Total' also prints 2,250.- \u2014 identical because this is the filer's FIRST and ONLY report of the cycle (he withdrew), so period and year-to-date coincide; that is not a cumulative-exact case (\u00a7A6) and the PER-PERIOD Column A cell remains the anchor."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (2,230.30) on the p2 SUMMARY PAGE \u2014 also Schedule B's own printed 'Subtotal for this page' $2230.30 and its 'Total Expenditures Received' $2230.30",
+     "detail": "8 Schedule B rows sum to 173.74 + 569.48 + 251.00 + 635.16 + 235.92 + 35.00 + 100.00 + 230.00 = 2,230.30 exactly, matching all three printed anchors and the 2,230.30 re-copied at summary line 6. Running check: 173.74+569.48=743.22; +251.00=994.22; +635.16=1629.38; +235.92=1865.30; +35.00=1900.30; +100.00=2000.30; +230.00=2230.30. The four dash-cents rows (251.- / 35.- / 100.- / 230.-) are again validated by unique closure rather than by reading the glyph. Column B YTD 2,230.30 is cumulative and never summed as an increment. The whole ladder closes to the cent: line 3 beginning 0.- (zero) + line 4 2,250.00 = line 5 subtotal 2,250.00, minus line 6 2,230.30 = line 7 close 19.70, exactly as printed."
+    }
+   },
+   "in_kind_convention": "monetary-only closed both sides (2,250.00 and 2,230.30). Neither schedule prints an in-kind column and no row is annotated in-kind, so monetary-only and monetary-plus-in-kind give identical sums; the cash-only family default was tested rather than inherited.",
+   "escalations": 6,
+   "escalation_note": "Six 450 dpi full-row-strip crops, the two mandatory geometry controls on each schedule page; no glyph was in dispute so nothing was escalated to settle truth. p3 (Schedule A): the \u00a7A1 first-entry crop of the extrapolated band 1 rendered the printed headings on its top edge and beneath them '3-21   Randy Spencer   Provo, UT   1000.-' \u2014 this filer did NOT skip the first ruled line \u2014 and the row-3 crop rendered '3-28   Dick Nielsen   Provo, UT   250.-'; the \u00a7B5 one-band-past control (row 4) rendered four EMPTY ruled lines. p4 (Schedule B): the band-1 crop rendered '3-28   Wal-Mart   Orem UT   173.74', the row-8 crop rendered '4-12   [payee name, with a street fragment reduced away at read time]   Provo, UT   230.-', and the one-past control (row 9) rendered four EMPTY ruled lines. The p4 crops also confirm the printed column heading over the payee column reads 'Name of Contributor' \u2014 the 2012-era Schedule B mislabel \u2014 see notes.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 8,
+   "geometry": {
+    "measured": 11,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Page-face candidate 'David Acheson' (Republican, Office Seeking 'Utah Co. Comm #B', residence city Provo); index.csv names NO candidate for this row, so the page face supplies it, and the seat is PRINTED (#B), agreeing with the channel's 'County Commission Seat B' \u2014 nothing was inferred. Report type '30 Days after withdraw or elimination' ticked, amendment answered 'No', signed 5-12-14. Handwritten in pencil. 4 pages (pdfinfo), all read full-page: p1 the 2014 blank cover; p2 the SUMMARY PAGE; p3 SCHEDULE A; p4 SCHEDULE B. \u26a0\u26a0 THIS FILING IS A SECOND MIXED-TEMPLATE SPECIMEN, and together with dc0b5328 (Tracy, in this same chunk) it shows the wave brief attributed the property to the wrong filer. The brief says the mixed-template case is Ratcliffe (6d40e35d) \u2014 it is not; his schedules are the 2014 blanks. HERE the p1 cover is the 2014 blank while BOTH schedule sheets are the older pre-2014 template, and this filing carries the FULL tell described in the brief: p3 and p4 both head their third column 'Mailing Address & Zip Code' (the 2014 blank says 'Address, City & Zip'), and p4's SCHEDULE B REUSES SCHEDULE A'S PAYEE HEADING, printing 'Name of Contributor' over the vendor column instead of the 2014 blank's 'Purchased From/Source'. The grids also sit ~2.6 pct further right than the 2014 sheets in this chunk. Read the headings off each page, never from the cover year. FILER ANNOTATIONS: on p4 he hand-wrote '2014' ABOVE the printed 'Date' heading, which is a column-scope note about a year the cells themselves omit; every row date is nonetheless kept VERBATIM without a year and flagged needs_review=1, because only a row's own cell may supply that row's value (\u00a7C3) and the check-mark ruling (\u00a7B1) is the governing analogy \u2014 an annotation whose scope is not the cell does not fill the cell. MONEY NOTATION: this filer writes whole dollars with a DASH IN THE CENTS POSITION ('2,250.-', '1000.-', '251.-', '35.-', '100.-', '230.-', and '0.-' at summary line 3). That is the module's third whitelisted normalization, and here it is independently validated by unique arithmetic closure on both sides rather than accepted on its face. FOLIATION excludes the cover: summary 'Page 1 of 3', Schedule A '2 of 3', Schedule B '3 of 3'; the Last Name and Date of Report boxes are filled on the summary page and left EMPTY on both schedules \u2014 a partial-completion practice worth noting. THIRD-PARTY FIGURE OBSERVATION (\u00a7B5, a check and never a source): the Utah County Clerk candidate registration fee appears here as 569.48 for County Commission in 2014, against 682.19 for County Surveyor on the Ratcliffe filing in this same chunk and cycle, and 519.48 on two 2012 filings recorded by an earlier chunk \u2014 i.e. the fee is office- and cycle-specific and must never be used to corroborate one filing from another."
+  }
+ }
 }

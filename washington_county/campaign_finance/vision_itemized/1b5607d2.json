@@ -1,0 +1,141 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W02.json",
+ "key": "1b5607d2",
+ "index_path": "raw/wayback_forms2018/Oct 29_Cory C Pulsipher_FCR_10-30-2018.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/Oct 29_Cory C Pulsipher_FCR_10-30-2018.pdf"
+ ],
+ "sha256_prefix": "b7c8ae32cab50d09",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "970.91",
+    "cover_over50_this": "500.00",
+    "cover_over50_cum": "1470.91",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": "500.00"
+   },
+   "itemized": "500.00",
+   "basis": "schedule-total==cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "One row, $500. Form A's printed TOTAL reads 500.00 and equals the cover's line 1 THIS REPORT cell (500.00), NOT the CUMULATIVE cell (1470.91). So this ledger is genuinely PER-PERIOD - it lists only what came in during this reporting period, not the cycle to date. That is a DIFFERENT SCOPE from the cumulative figure this module publishes, which is expected to leave reconciles_* blank downstream and is not a failure. Cover line 2 (the $50-or-less aggregate) is handwritten 0/0/0 and is never itemized, so Form A was scored against line 1 alone."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "906.00",
+    "cover_expense_this": "-21.00",
+    "cover_expense_cum": "-927.00",
+    "cover_balance_end": "543.91",
+    "schedule_total": "21.00"
+   },
+   "itemized": "21.00",
+   "basis": "schedule-total==cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Three rows 7.00 + 7.00 + 7.00 = 21.00 = Form B's printed TOTAL 21.00 = the cover's line 3 THIS REPORT cell, which the filer wrote as '- 21.00'. The leading dash is a hand-drawn fill stroke, NOT an accounting negative: the cover's own balance line proves it (970.91 - 906.00 = 64.91; 500.00 - 21.00 = 479.00; 1470.91 - 927.00 = 543.91 - all three printed balances close only with the expenses taken POSITIVE). Anchors are recorded verbatim as printed, dash included. Per-period, same as Form A."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 500.00 = printed TOTAL 500.00 (exact); p3 rows 21.00 = printed TOTAL 21.00 (exact). Both printed schedule totals also equal their cover THIS-REPORT cells, so the two independent anchors agree on each side.",
+  "row_count": "rowbands.py returns geometry_status 'gaps' on both sheets - this form rules the Amount column on a FINER pitch than the name/date columns, so band counts do not map 1:1 to ledger rows; counted by INK instead. p2: exactly 1 inked contributor line (its address wraps onto the sub-line below, which carries no separate amount) -> 1 row. p3: 3 contiguous inked lines, each with its own $ amount -> 3 rows. On both sheets the number of names equals the number of amounts (field-shift screen passed).",
+  "geometry_proof": "p2: the single row's amount crop renders '$ 500.', control one pitch below renders '$' and nothing else (EMPTY). p3: first-row crop renders '$   7.00'; last(3rd)-row crop renders '$   7.00'; control one pitch below renders '$' only (EMPTY).",
+  "balance_chain": "All three columns of the printed balance line close exactly: LAST 970.91 - 906.00 = 64.91; THIS 500.00 - 21.00 = 479.00; CUMULATIVE 1470.91 - 927.00 = 543.91. Also internally consistent across columns: 64.91 + 479.00 = 543.91, and 970.91 + 500.00 = 1470.91, 906.00 + 21.00 = 927.00. No other filing by this filer in this cycle sits in my chunk, so no cross-filing chain was available to run."
+ },
+ "escalations": 5,
+ "escalation_note": "600 dpi crops of p2's contributor row and p3's rows 1-3 amount cells, plus first/last/control geometry crops on both sheets.",
+ "notes": "Chunk file says candidate 'Cory Clarke Pulsipher', office 'Sheriff' - CONFIRMED at the page ('Full Name of Candidate: Cory Clarke Pulsipher'; 'Office: Sheriff'; 'Representative District: County'), dated Oct. 29 2018. THIRD FORM GENERATION, not either of the two in the county addendum: the header reads 'WASHINGTON COUNTY CANDIDATE / FINANCIAL CAMPAIGN REPORT' and cites 'Washington County Code 1-7-1' (not Utah Code 17-16-6.5 and not the Title 1 Chapter 7 wording of the logo form), it has NO county logo, and it carries the 4-line cover grid WITH the $50-or-less aggregate line AND an 'In Kind?' column AND printed schedule TOTAL lines - i.e. a hybrid of the addendum's Gen 1 and Gen 2. Worth adding to the form-generation catalogue. The 'In Kind?' cell on the single Form A row is left BLANK - a blank is not an 'N' and is not in-kind; in_kind is false only because the form does not mark it. All ledger dates on both sheets print MONTH/DAY with NO YEAR ('8/13', '6/12', '7/12', '8/14'), so every date is left blank with the verbatim in the row note - never back-filled from the 2018 report date. Privacy: the cover prints the candidate's street address, ZIP, home phone and business phone, and the Form A row's continuation line is a street address - all discarded at read time; only city/state kept.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Cory Pulsipher",
+   "donor_city": "ST George",
+   "donor_state": "UT",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;city=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.41,13.64,11.72,1.82@p2",
+   "note": "date cell reads verbatim '8/13' with NO YEAR printed - left blank per the no-year rule. Amount written '500.' (whole dollars, trailing period, no cents); the sheet's printed TOTAL for the same single row reads 500.00. 'In Kind?' cell left BLANK by the filer - noted, not read as 'N'. Street address discarded at read time (privacy). Candidate self-contribution."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Maintenance Fee",
+   "amount": "7.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.68,13.27,20.32,1.82@p3",
+   "note": "date cell reads verbatim '6/12' with NO YEAR printed - left blank per the no-year rule"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Maintenance Fee",
+   "amount": "7.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.68,15.09,20.32,1.81@p3",
+   "note": "date cell reads verbatim '7/12' with NO YEAR printed - left blank per the no-year rule"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Maintenance Fee",
+   "amount": "7.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.68,16.90,20.32,1.85@p3",
+   "note": "date cell reads verbatim '8/14' with NO YEAR printed - left blank per the no-year rule"
+  }
+ ]
+}

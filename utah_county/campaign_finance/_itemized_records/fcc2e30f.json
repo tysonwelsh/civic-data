@@ -1,0 +1,28 @@
+[{
+ "index_path": "raw/2022/2022_Mark_Clement_Redacted.pdf",
+ "key": "fcc2e30f",
+ "wave": "itemized-vision(claude-opus-5[1m]; 2026-08-20 wave B2 utah chunk r12_01)",
+ "transcribed_date": "2026-08-20",
+ "pages_read": [1, 2, 3, 4],
+ "sides": {"contributions": "empty-schedule", "expenditures": "empty-schedule"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' on the p4 Summary Page, a typed bare '0'; corroborated by Schedule A's own two printed footers on p2, 'Subtotal for this page $ 0' and 'Total Contributions Received (Sum of all Schedule A Pages in this report) $ 0'",
+   "detail": "The Schedule A page EXISTS at p2 and is wholly unmarked: all fifteen printed rows are blank in every one of the five columns (Date / Name of Contributor / City and State / Amount / In-Kind) and not one In-Kind checkbox is ticked. Zero rows therefore sum to 0.00, which equals all three printed figures. Each of those figures is a TYPED numeral '0' — not a bare dash, not an empty cell — so under the repo zero-glyph ruling it is the digit zero and the side closes at 0.00. Box C 'Contributions Received Year to Date' also prints 0. The page is born-digital form text and carries no stray marks, ghosting or show-through (§K4 screen applied at full-page 200 dpi: the grid is clean)."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' on the p4 Summary Page, a typed bare '0'; corroborated by Schedule B's own two printed footers on p3, 'Subtotal for this page $ 0' and 'Total Expenditures Made (Sum of all Schedule B Pages in this report) $ 0'",
+   "detail": "The Schedule B page EXISTS at p3 and is wholly unmarked: all fifteen printed rows blank across Date / Provider-Vendor / Purpose / Amount / In-Kind, no checkbox ticked. Zero rows sum to 0.00 = the printed page subtotal = the printed total = Box D. Box E year-to-date prints 0. The whole summary ladder is internally consistent at zero: A 0, B 0, C 0, D 0, E 0, F (A+B) 0, G (F-D) 0."
+  }
+ },
+ "in_kind_convention": "not applicable — this blank HAS a printed In-Kind checkbox column on both schedules (it is the newer unversioned 2022 blank), but no row exists and no box is ticked, so monetary-only and monetary-plus-in-kind both give 0.00 and both close.",
+ "escalations": 0,
+ "escalation_note": "",
+ "frames": {},
+ "contributions": [],
+ "expenditures": [],
+ "notes": "A COMPLETE, HONESTLY ZERO END-OF-YEAR REPORT. Page-face identity, quoted exactly as printed and not adjudicated: the 'Name of Candidate' box reads 'Mark Clement', the Affirmation line reads 'I, Mark Clement', and the 'Office' box IS BLANK — the filer typed nothing into it. Nothing else on any of the four pages names an office or a seat, so NO OFFICE AND NO SEAT IS INFERRED HERE; index.csv's office field is likewise blank, which is the correct state for this filing. THE FORM IS THE NEWER UNVERSIONED 2022 BLANK (§J1), positively identified from its own page face: SIX report types (the sixth being 'End-of-Year Report — Due on December 31 for current County and local school board officers', which is the one ticked); the cover box reads 'Date of Filing' rather than 'Date of Report'; there is NO Page box on the cover, so the filing is UNFOLIATED; the schedules' third column is headed 'City and State' rather than 'Address and Zip Code'; both schedules carry an IN-KIND CHECKBOX column; and the Summary Page's close box is LETTERED 'G' ('Balance at Close of Reporting Period (Box F - Box D)'). The masthead is the teal 'Josh Daniels Clerk/Auditor' vintage on all four pages — no masthead alternation on this filing. DOCUMENT SHAPE: 4 pages, all read full-page — p1 cover, p2 Schedule A, p3 Schedule B, p4 SUMMARY PAGE (located by its printed heading, and here it does fall last). NO CHECKLIST is bound into this filing. The amendment question is answered 'No'. Date of Filing and the schedules' 'Date of Report' boxes all read 12/22/2022. REDACTION: the county blacked out the candidate's whole address block and his signature; the cover's Date box beside the redacted signature is EMPTY (the filer left it blank — the redaction bar does not reach it), while the separate 'Date of Filing' box carries 12/22/2022. The filer's phone and email are published in the clear on the cover and are deliberately not carried into this record. Both schedules are unredacted because there is nothing on them to redact. WHY THIS IS 'empty-schedule' AND NOT 'no-schedule-page': both schedule pages exist, are printed in full, and were left blank by the filer — that is a real absence of entries, not a missing sheet, and the printed zeros in four separate footers plus five summary boxes state it affirmatively."
+}]

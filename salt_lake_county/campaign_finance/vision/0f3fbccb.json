@@ -1,0 +1,98 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Phil Conder",
+  "party": "Republican",
+  "office_sought": "County Treasurer",
+  "district_number": null,
+  "report_type": "Year-End Report: Period ending December 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2/10/26",
+  "form_year": null
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Conder-Phil__49D03A55.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Conder, Phil",
+  "office": "Treasurer",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Conder-Phil__49D03A55.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026 'Financial Disclosure Report For an Open Campaign Account' form (newer variant; NO year printed in the title, form_year null). YEAR-END 'Period ending December 31 of each year' box checked; NEITHER amendment Yes nor No box is checked (is_amendment left blank). Handwritten signature date 2/10/26; clerk RECEIVED stamp FEB 10 2026. Office reads 'County Treasurer', party Republican. Summary Page headers: Column A 'Totals for this Period', Column B 'Aggregate Total (YTD)'; the Page/of/Last-Name/Date-of-Report block at the top of p2 is left blank. Every Summary figure (lines 1-7, both columns) is a handwritten '0' glyph, transcribed verbatim as 0. No Schedule A or Schedule B page exists in the document (chunk prior confirmed). Cover street/city/phone/email bar-redacted at source (State 'UT' and ZIP are on the cover only; no itemized rows exist).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": null,
+     "itemized": "0",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "no Schedule A page exists in the document; Summary line 1 Column A is a handwritten '0', zero rows - a real zero, nothing to itemize"
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": null,
+     "itemized": "0",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "no Schedule B page exists in the document; Summary line 2 Column A is a handwritten '0', zero rows - a real zero, nothing to itemize"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages; nothing to gate",
+   "escalations": 1,
+   "escalation_note": "600dpi crop of the Summary lines 1-2 grid (c26sum) confirming the handwritten '0' glyphs in both columns",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026 'Financial Disclosure Report For an Open Campaign Account' form (newer variant; NO year printed in the title, form_year null). YEAR-END 'Period ending December 31 of each year' box checked; NEITHER amendment Yes nor No box is checked (is_amendment left blank). Handwritten signature date 2/10/26; clerk RECEIVED stamp FEB 10 2026. Office reads 'County Treasurer', party Republican. Summary Page headers: Column A 'Totals for this Period', Column B 'Aggregate Total (YTD)'; the Page/of/Last-Name/Date-of-Report block at the top of p2 is left blank. Every Summary figure (lines 1-7, both columns) is a handwritten '0' glyph, transcribed verbatim as 0. No Schedule A or Schedule B page exists in the document (chunk prior confirmed). Cover street/city/phone/email bar-redacted at source (State 'UT' and ZIP are on the cover only; no itemized rows exist)."
+  }
+ }
+}

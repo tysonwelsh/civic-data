@@ -1,0 +1,94 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W05.json",
+ "key": "4efaf6fe",
+ "index_path": "raw/state_disclosures/washington_2010 Elections_Arlin Hughes 4-9-10.pdf",
+ "applies_to": [
+  "raw/state_disclosures/washington_2010 Elections_Arlin Hughes 4-9-10.pdf"
+ ],
+ "sha256_prefix": "455e636a5d51e56f",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen1-ruled-lines",
+  "expenditures": "gen1-ruled-lines"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "0",
+    "schedule_total": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is completely blank - 35+ ruled writing lines, not one inked. Cover line 1: the LAST and THIS columns were left BLANK by the filer (anchor '' = the field exists and is empty) and only the CUMULATIVE cell is filled, with a slashed-Oe zero glyph = 0 (core sec.3(f)). Zero rows = 0 = the cumulative cell, exact. Line 2 (the never-itemized $50-or-less aggregate) is likewise a zero glyph, written as a dash immediately followed by the slashed Oe ('-Oe'); reported separately above and NOT added to the line-1 anchor, per addendum sec.B. schedule_total is null because THIS FORM GENERATION PRINTS NO SCHEDULE TOTAL AT ALL - the field does not exist, it is not an illegible or blank one. Received APR 9 2010 and the only expenditure is the March 2010 filing fee, so this is the first report of the 2010 cycle and the period/cumulative scopes coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "225.00",
+    "cover_balance_end": null,
+    "schedule_total": null
+   },
+   "itemized": "225.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One Form B row, 225.00, equals the cover's line-3 CUMULATIVE cell (written '225.' with a superscript '00' over the cents position => 225.00, core sec.3(g)); confirmed at 1200 dpi. The line-3 LAST and THIS columns were left blank by the filer, so the cumulative cell is the only printed figure and the scopes coincide on a first report. cover_balance_end is null-ILLEGIBLE, not null-absent: the line-4 cumulative cell carries a faint pencil-weight mark that survives neither 200 dpi nor escalation as a numeral - the field exists and I could not read it, so it is recorded null and NEVER as 0."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No printed schedule total exists on either Gen-1 sheet (the form prints none - see addendum sec.A), so the cover's own lines are the only anchors and were used: p3 rows 225.00 = cover line 3 cumulative 225.00; p2 rows 0.00 = cover line 1 cumulative 0. Both gate exactly. Nothing failed to gate.",
+  "row_count": "rowbands.py p3 geometry_status=ok, px 1689x2206, 36 bands / 35 data bands, v_rules EMPTY (this generation is ruled writing lines with no vertical column rules, so rowbands can offer no column geometry - the amount-column band below was measured by hand off the printed 'Amount' header underline). The ink of the single data row sits ABOVE the rule at 11.32%, i.e. inside band i=1 (y 8.53, h 2.79) - scored against INK, not band index. 1 inked line out of 35+ = 1 row emitted. p2 same grid, 0 inked.",
+  "geometry_proof": "p3, amount band x=82.70..93.00 measured off the printed 'Amount' header underline. The filing has only one row, so first-row and last-row are the same box: the 1200 dpi crop at (82.70, 8.53) renders '225. 00' - its own value. The control crop one row-pitch below (y 11.32) renders EMPTY (bare rule only). Row index confirmed unshifted.",
+  "balance_chain": "Does NOT close as printed, and the cause is on the page: contributions 0, expenses 225.00, so the arithmetic balance is -225.00, but the cover's line-4 cumulative cell holds only a faint illegible mark. I am NOT recomputing or filling that cell (core sec.3(c)) - it stays null. The line-1/2/3 columns themselves are internally consistent (blank + blank = the single filled cumulative figure on each line). No other Hughes filing is in my chunk, so no cross-filing chain test was possible."
+ },
+ "escalations": 3,
+ "escalation_note": "p3 1200 dpi crops of the row-1 amount cell and of the control band one pitch below; p3 900 dpi wide crop of the full row-1 band to resolve vendor and purpose. The cover's line-4 cumulative mark was also examined at 200 dpi full page and remains unreadable.",
+ "notes": "Chunk file says candidate 'Arlin S. Hughes', office 'Commission Seat A', 2010. The office line INSIDE the form reads 'Name of Office: County Comm. A' with 'Office District: A' - a COUNTY office, in scope, and it agrees with the chunk file. Political Party line reads 'Rep.'. THE DOCUMENT'S OWN DATE LINE IS INCOMPLETE: the filer wrote only '4' on the 'Date' line (no day, no year); the clerk's RECEIVED stamp reads APR 9 2010 and the sole expenditure is dated 3-17-10, which is why the chunk file's 2010 is right - but the filer's date field itself is a partial and I have not completed it. PRIVACY: the cover prints the candidate's home street address, city, ZIP and two phone numbers in the clear - all discarded at read time per core sec.5. Form B on this generation has no address column, so vendor city/state are structurally unavailable.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-03-17",
+   "vendor_raw": "Wash Co. Clerk",
+   "purpose": "filing Fee",
+   "amount": "225.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.70,8.53,10.30,2.79@p3",
+   "note": "Date written '3-17-10' => 2010-03-17. Amount written '225.' with a superscript '00' over the cents position => 225.00 (core sec.3(g)); re-read at 1200 dpi. Purpose is a small cursive hand read at 900 dpi as 'filing Fee' - the leading glyph is a cursive f with both ascender and descender and the vowel run is cramped, so 'Filing Fee' is the same reading with a capital; purpose=medium for the letterforms only, the meaning is not in doubt. Gen-1 Form B has no address column."
+  }
+ ]
+}

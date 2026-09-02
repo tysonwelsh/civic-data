@@ -1,0 +1,93 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W11.json",
+ "key": "ae8b444d",
+ "index_path": "raw/state_disclosures/washington_2010 Elections_Russell Shirts 4-5-10.pdf",
+ "applies_to": [
+  "raw/state_disclosures/washington_2010 Elections_Russell Shirts 4-5-10.pdf"
+ ],
+ "sha256_prefix": "557b2d3997cc23e4",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen1-carr-ruled-lines",
+  "expenditures": "gen1-carr-ruled-lines"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "",
+    "cover_le50_cum": "0",
+    "schedule_total": null
+   },
+   "itemized": "0",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is a completely blank ruled sheet -- an honest zero, not a gap. Cover line 1 CUMULATIVE is a slashed-zero glyph (Zero-glyph ruling: = 0); the LAST and THIS cells on line 1 are left empty. Generation-1 Carr Printing form: NO printed schedule total on Form A, so schedule_total is null and the cover line is the only anchor. Line 2 (<=$50 aggregate) cumulative is also a slashed zero and is never itemized."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "375.00",
+    "cover_expense_this": "375.00",
+    "cover_expense_cum": "375.00",
+    "cover_balance_end": "0",
+    "schedule_total": null
+   },
+   "itemized": "375.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row on Form B, 375.00, equals cover line 3 in ALL THREE columns: LAST (dark ink 375.00), THIS (a faint/light copy of 375.00) and CUMULATIVE (a slashed zero struck through, then a faint 375.00). The three scopes therefore coincide on this filing; recorded as cumulative. Generation-1 form prints no schedule total (schedule_total null)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Gen-1 form prints NO schedule total on either sheet -- no page-subtotal gate exists. Gated against the cover instead: p2 rows sum 0 = cover line 1 cum (slashed zero); p3 rows sum 375.00 = cover line 3 (all three columns).",
+  "row_count": "p2: ~40 ruled writing lines, ZERO inked -- 0 rows emitted. p3: ~40 ruled lines, exactly 1 inked (top line) -- 1 row emitted; counted by eye against the ink (the Gen-1 sheet is ruled lines, not a boxed grid).",
+  "geometry_proof": "p3 first(=only) row amount box crop at 600 dpi renders '375.^00'; the control crop one row-pitch below renders EMPTY (blank ruled line).",
+  "balance_chain": "Does NOT close: cover line 4 (balance at end) cumulative is a slashed zero = 0, but contributions cum 0 - expenses cum 375.00 = -375.00. The filer reported 375.00 of expense with zero contributions and a zero ending balance; the form has no self-funding line. Retained verbatim, not adjusted -- this is the filer's own arithmetic."
+ },
+ "escalations": 2,
+ "escalation_note": "p1 line-3 anchor row re-rendered at 600 dpi (to separate the dark LAST 375.00 from the faint THIS/CUM copies and confirm the struck zero); p3 row-1 amount cell + control at 600 dpi.",
+ "notes": "Cover confirms the chunk file: 'Full Name of Candidate RUSSELL BAIRD SHIRTS', 'Name of Office RECORDER', 'Office District WASHINGTON COUNTY', party REPUBLICAN, Date 4-5-2010, RECEIVED APR 5 2010 Washington County Clerk-Auditor. County office, in scope. Generation 1 (Carr Printing 5-5-PG, Utah Code 17-16-6.5) -- no in-kind column and no printed schedule total on either schedule. Candidate street address/city/ZIP/home phone are printed in the clear on the cover and were DISCARDED at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-03-12",
+   "vendor_raw": "Washington County",
+   "purpose": "Filing Fee",
+   "amount": "375.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.50,9.00,8.20,1.75@p3",
+   "note": "date written verbatim '3-12-2010'; amount written as 375 with superscript cents '00' over the rule -> 375.00"
+  }
+ ]
+}

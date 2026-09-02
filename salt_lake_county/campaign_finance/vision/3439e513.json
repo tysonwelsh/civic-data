@@ -1,0 +1,117 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2025-12-30",
+   "vendor_raw": "AARON DEKEYZER",
+   "purpose": "TRANSFER TO CITY CAMPAIGN",
+   "amount": "948.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.13,23.76,80.65,4.27@p4",
+   "note": "date printed '12|30|25' with slash glyphs; entire row written in caps; transfer of the remaining balance to the candidate's city campaign - closes the account to zero"
+  }
+ ],
+ "total_contributions": "0",
+ "total_expenditures": "948.16",
+ "beginning_balance": "948.16",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "948.16"
+ },
+ "cover": {
+  "candidate": "Aaron Dekeyzer",
+  "party": "Democrat",
+  "office_sought": "SLCO District 6",
+  "district_number": "",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2026-02-23",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Dekeyzer-Aaron__3082DA73.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Dekeyzer, Aaron",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Dekeyzer-Aaron__3082DA73.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026 form family: 'Financial Disclosure Report For an Open Campaign Account' (no year printed in the title - form_year left blank). Fully handwritten. Cover 'Office' field reads 'SLCO DISTRICT 6' - this form has no separate Office Sought/District Number row, so district_number is blank with the district carried in office_sought. Final/Dissolution box checked; NEITHER amendment Yes nor No box is checked (is_amendment left blank). Summary Column B cells contain only the printed instruction text (no figures) - total_*_to_date emitted as blank (''), not zero. Doc title in the index is 'Dissolution' but the document is the full standard 4-page form, as the audit prior noted; classified standard-report. Line 3 948.16 presumably chains from a prior filing (not in this chunk). Cover street/city/state/zip/phone/email block bar-redacted at source; signature block partially redacted. Index prior (candidate, District 6, 2026-02-23) confirmed at the page.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A p3 has 'N/A' written in the first row's name cell (not a transaction - zero rows emitted) with printed SUBTOTAL 0 and TOTAL 0, matching Summary line 1 Col A 0 and line 4 0. A real zero at this filing."
+    },
+    "expenditures": {
+     "stated": "948.16",
+     "schedule_total": "",
+     "itemized": "948.16",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "one row (12/30/25 transfer to city campaign 948.16) = Summary line 2 Col A 948.16 (and line 6 948.16). The filer left the Schedule B SUBTOTAL and TOTAL boxes BLANK, so no printed page gate exists; reconciled against the Summary figure, which also closes the balance chain."
+    }
+   },
+   "page_subtotal_gates": "p3 printed SUBTOTAL 0 = 0 rows; p4 SUBTOTAL/TOTAL boxes printed but left blank by the filer - gated against Summary line 2 (948.16) instead",
+   "escalations": 1,
+   "escalation_note": "400dpi re-read of the single Schedule B row (p4)",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026 form family: 'Financial Disclosure Report For an Open Campaign Account' (no year printed in the title - form_year left blank). Fully handwritten. Cover 'Office' field reads 'SLCO DISTRICT 6' - this form has no separate Office Sought/District Number row, so district_number is blank with the district carried in office_sought. Final/Dissolution box checked; NEITHER amendment Yes nor No box is checked (is_amendment left blank). Summary Column B cells contain only the printed instruction text (no figures) - total_*_to_date emitted as blank (''), not zero. Doc title in the index is 'Dissolution' but the document is the full standard 4-page form, as the audit prior noted; classified standard-report. Line 3 948.16 presumably chains from a prior filing (not in this chunk). Cover street/city/state/zip/phone/email block bar-redacted at source; signature block partially redacted. Index prior (candidate, District 6, 2026-02-23) confirmed at the page."
+  }
+ }
+}

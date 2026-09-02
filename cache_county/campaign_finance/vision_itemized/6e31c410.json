@@ -1,0 +1,102 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C25.json",
+ "key": "6e31c410",
+ "index_path": "raw/2026/2026_cc_2026_Financial_Disclosure_June16_D_Chad_Jensen.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_June16_D_Chad_Jensen.pdf"
+ ],
+ "sha256_prefix": "3cf52334fbfc3517",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "-752.56",
+    "schedule_total": "0",
+    "page_subtotal": "$0",
+    "box_A_balance_begin": "0",
+    "box_F_subtotal": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-box-B==cover-box-C",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A (p2) carries the single typed word 'None' and no transactions. Printed 'Subtotal for this page $0' and 'Total Contributions Received $ 0'; Box B = 0 and Box C = 0. Scopes coincide at zero. This CFD form has no separate <=$50 aggregate line, so the le50 keys are null."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "752.56",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "-752.56",
+    "schedule_total": "752.56",
+    "page_subtotal": "$ 752.56",
+    "box_A_balance_begin": "0",
+    "box_F_subtotal": "0"
+   },
+   "itemized": "752.56",
+   "basis": "schedule-total==cover-box-D-this-period",
+   "result": "exact",
+   "scope": "period",
+   "detail": "One expenditure line. Rows sum 752.56 = printed 'Subtotal for this page $ 752.56' = printed 'Total Expenditures Made $ 752.56' = Summary Box D (Expenditures Made This Period) 752.56. The rows do NOT equal Box E (Expenditures Made Year-to-Date), which the filer wrote as 0 - and 0 is arithmetically impossible as a year-to-date figure when this period alone is 752.56. That E cell is a FILER arithmetic error, transcribed verbatim, not corrected. Because the rows match the This-Period cell and not the Year-to-Date cell, scope is period."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: 0 rows sum 0.00 = printed Subtotal $0 = printed Total $ 0 (gates). p3: 1 row 752.56 = printed Subtotal $ 752.56 = printed Total $ 752.56 (gates exactly).",
+  "row_count": "Born-digital CFD, unruled schedule area below the header, so rowbands.py has no grid to score. Counted by ink from the page and from the PDF word-box extents: p2 one non-transaction token 'None' -> 0 transaction rows; p3 exactly one inked text line ('752.56 filing fee', all three words on one baseline at y 161.5-176.5 pt) -> 1 row emitted. No second inked line anywhere between the header rule and the footer block.",
+  "geometry_proof": "p3 first-and-only row: 600 dpi crop at x=280,y=1330,W=900,H=190 renders '752.56 filing fee'; the control crop one row-pitch below (y=1520, same W/H) renders EMPTY. Row index confirmed.",
+  "balance_chain": "Box A 0 + Box B 0 = Box F 0 (closes); Box F 0 - Box D 752.56 = Balance at Close -752.56 (closes). Chain closes exactly. Cross-filing chain NOT run: this chunk contains only one Jensen filing (the county also holds an Apr-3 2026 Jensen report, which is outside this chunk), so no second filing of the same filer was available to chain against."
+ },
+ "escalations": 1,
+ "escalation_note": "p3 row 1 re-rendered as a 600 dpi cell crop to confirm '752.56' and to run the geometry control. Born-digital vector text, read identically at both resolutions.",
+ "notes": "FIELD SHIFT ON SCHEDULE B, resolved not withheld. The filer typed the whole transaction into the leftmost (Date) cell: the PDF word boxes put '752.56' at x 37.4-71.7 pt and 'filing fee' at x 74.6-118.4 pt, all LEFT of the Provider/Vendor column label (x 122.0 pt) and far left of Purpose (x 318.3) and Amount (x 496.2). Columns were assigned from the content, corroborated by arithmetic: 752.56 is the only figure on the page and equals both printed schedule figures and Box D, so it is the AMOUNT; 'filing fee' is the PURPOSE. The date cell therefore holds no date and the vendor is not named anywhere on the page - both left blank, needs_review=1, nothing invented (the payee is almost certainly the county clerk, but the form does not say so and it was NOT written in). This is 1 of 1 rows shifted, but the columns could be assigned confidently, so the side is transcribed rather than withheld. index.csv calls the office 'Sheriff'; the form's Office line reads 'Cache County Sheriffs Office' (no apostrophe, as written) - agrees. index/chunk date 2026-06-16 matches the form's Date of Report 06-16-2026. Page order: p1 cover, p2 Schedule A, p3 Schedule B, p4 lettered Summary Page. Candidate's home street address, phone and email are printed in the clear on p1 and were discarded at read time. FILER ARITHMETIC DEFECT retained verbatim: Box E (Expenditures Year-to-Date) = 0 while Box D (This Period) = 752.56.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "",
+   "purpose": "filing fee",
+   "amount": "752.56",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;vendor=n/a;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.49,20.15,17.65,2.88@p3",
+   "note": "Whole row typed into the leftmost (Date) cell as the single line '752.56 filing fee'. Amount and purpose assigned from content + arithmetic (752.56 = printed page subtotal = printed schedule total = Summary Box D). Date cell contains no date and no vendor is named anywhere on the page - both left blank rather than inferred. Geometry points at the row's written band in the Date column, which is where the amount glyphs actually sit; there is nothing in the Amount column on this row."
+  }
+ ]
+}

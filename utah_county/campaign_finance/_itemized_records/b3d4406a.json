@@ -1,0 +1,101 @@
+[
+ {
+  "index_path": "raw/2026/2026_Travis_Hoban_Redacted.pdf",
+  "key": "b3d4406a",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah, chunk r14-01)",
+  "transcribed_date": "2026-08-20",
+  "pages_read": [1, 2, 3, 4],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Box B 'Contributions Received this Period' = 6790.18 on the p4 Summary Page — the PROMOTED per-period cell — equal to Schedule A's own printed 'Subtotal for this page' $6790.18 and its printed 'Total Contributions Received (Sum of all Schedule A pages in this report)' $6790.18.",
+    "detail": "The 4 Schedule A rows on p2 sum to 50.00 + 50.00 + 200.00 + 6490.18 = 6,790.18 exactly = the printed page subtotal = the printed sum-of-all-pages total = Box B. Single schedule sheet, so both footers share a scope; both were read rather than trusted on their captions (ADDENDUM N3 screen — neither carries a different-scope figure). Box C 'Contributions Received Year to Date' also prints 6790.18, which is consistent because this is the cycle's first and only report, but it is CUMULATIVE and was NOT used as the gate and is never summed as an increment. THE CANDIDATE'S OWN 6,490.18 IS A CONTRIBUTION ROW BY THE LADDER (ADDENDUM B3): Box A 'Balance at Beginning' prints 0, so there is no beginning-balance slot for it, and without it the rows total 300.00 against a stated 6,790.18; with it they close to the cent. It is not worded as a loan and no loan line appears anywhere on the filing.",
+    "cross_checks": "Box F 'Subtotal before Expenditures (Box A + Box B)' prints 6790.18 = 0 + 6790.18, and the unlettered 'Balance at Close (Box F - Box D)' prints 0 = 6790.18 - 6790.18. The filer's ladder is internally consistent and corroborates both promoted anchors."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Box D 'Expenditures Made this Period' = 6790.18 on the p4 Summary Page — the PROMOTED per-period cell — equal to Schedule B's own printed 'Subtotal for this page' $6790.18 and its printed 'Total Expenditures Made (Sum of all Schedule B pages in this report)' $6790.18.",
+    "detail": "The 14 Schedule B rows on p3 sum to 848.28 + 236.83 + 123.55 + 307.63 + 70.89 + 250.00 + 1363.15 + 1363.15 + 62.98 + 1162.80 + 212.82 + 54.46 + 112.48 + 621.16 = 6,790.18 exactly = the printed page subtotal = the printed sum-of-all-pages total = Box D. Box E 'Expenditures Made Year to Date' also prints 6790.18 (first and only report of the cycle) and is CUMULATIVE — not used as a gate, never summed as an increment. Rows 7 and 8 print the IDENTICAL amount 1363.15 to the same vendor on different dates (4/2 and 4/9); both were crop-checked and both exist — two real transactions, not a duplicate, and merging them would break the closure.",
+    "cross_checks": "Because Box A = 0 and the close box = 0, the filing's contributions and expenditures are identical by construction, and both sides independently close on the same figure from two different schedules — 4 rows on one and 14 on the other. That is two independent reconciliations, not one."
+   }
+  },
+  "in_kind_convention": "monetary-only closes both sides exactly. BOTH conventions were tested per ADDENDUM G1/O4 (per REPORT): this 2026 printing's Schedule A is Date / Name of Contributor / City and Zip Code / Amount with NO in-kind checkbox and NO in-kind column, Schedule B is Date / Provider/Vendor / Purpose / Amount, no row is annotated in-kind or as a donated good or service, and no amount is entered on both schedules (the two 1363.15 rows are both expenditures, and no contribution matches an expenditure by amount+date), so monetary-only and monetary-plus-in-kind give identical sums and both close at 6,790.18. in_kind=false throughout is a reading, not a default.",
+  "escalations": 8,
+  "escalation_note": "Eight tight-crop escalations at 900 dpi, none of which changed a figure. p2 (four entries, so EVERY row was proved plus a control): row 1 rendered '50', row 2 rendered '50', row 3 rendered '200', row 4 rendered '6490.18', and the row-5 control rendered an EMPTY boxed cell. Rows 2 and 3 additionally served as the proof that the two INTERPOLATED rules on p2 are real (see the p2 measure_note) — each crop shows one complete cell bounded by its own top and bottom rule, not a merged or straddling band. p3: row 1 rendered '848.28', row 14 rendered '621.16', and the row-15 control rendered an EMPTY boxed cell. No cell on this filing was doubtful: it is a born-digital fillable form, printed and re-scanned as a greyscale photocopy, so every figure is machine type rather than handwriting.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [79.33, 92.36],
+    "cells": [[8.50, 21.50], [21.50, 51.20], [51.20, 79.33], [79.33, 92.36]],
+    "rows": [
+     [17.97, 22.61], [22.61, 26.88], [26.88, 31.15], [31.15, 35.43], [35.43, 39.70],
+     [39.70, 43.94], [43.94, 48.21], [48.21, 52.45], [52.45, 56.70], [56.70, 60.97],
+     [60.97, 65.26], [65.26, 69.52], [69.52, 73.84], [73.84, 78.15], [78.15, 82.44]
+    ],
+    "measure_note": "modern_boxAF 2026 printing in its GREYSCALE rendering (ADDENDUM O4: the v.12.23 blank exists in two print renderings with measurably different geometry — this frame is NOT portable to the colour rendering, and it was measured on this page rather than carried from any other filing). Fully BOXED 15-row grid, so a row lies between its own two rules and nothing is extrapolated. rowbands.py (skew -0.7, drift 0.94) returns only 14 grid rules and leaves a 12.82-pct gap between 22.61 and 35.43 — THREE times the page's 4.27 pitch, i.e. TWO FAINT RULES MISSED (the ADDENDUM F6/I4 doubled-band signature, here tripled). The two missing rules were interpolated at the local pitch to 26.88 and 31.15 and then CROP-PROVED individually: pct:78.5,22.61,14.5,4.27@p2 rendered a single complete cell containing '50' and pct:78.5,26.88,14.5,4.27@p2 rendered a single complete cell containing '200', each with its own top and bottom rule visible, so the interpolation is right and no band straddles two printed rows. TWO-CROP PROOF: the row-1 box pct:78.5,17.97,14.5,4.64@p2 RENDERED '50' (recorded 50.00) and the row-4 box pct:78.5,31.15,14.5,4.28@p2 RENDERED '6490.18' (recorded 6490.18). THE ONE-BAND-PAST CONTROL pct:78.5,35.43,14.5,4.27@p2 RENDERED AN EMPTY CELL, so the first written entry is band 1 (ADDENDUM A1), nothing continues below row 4 (ADDENDUM F1), and there is no banner or voided row shifting the index. `cell` (the amount column) is measured from the detected v_rules 79.33 and 92.36; the two INTERNAL column boundaries in `cells` (21.50, 51.20) were read off the 200 dpi render because rowbands detects no vertical rule there on this pale greyscale copy — they are provenance only and no row's geometry depends on them."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [79.08, 92.32],
+    "cells": [[8.95, 22.20], [22.20, 51.50], [51.50, 79.08], [79.08, 92.32]],
+    "rows": [
+     [17.90, 22.15], [22.15, 26.46], [26.46, 30.76], [30.76, 35.05], [35.05, 39.30],
+     [39.30, 43.52], [43.52, 47.77], [47.77, 52.02], [52.02, 56.31], [56.31, 60.60],
+     [60.60, 64.92], [64.92, 69.26], [69.26, 73.63], [73.63, 77.99], [77.99, 82.33]
+    ],
+    "measure_note": "Measured on its OWN page, not carried from p2 (ADDENDUM B5), and the skew differs (-0.3 here vs -0.7 on p2). rowbands.py returns a COMPLETE 16-rule grid at 17.90 .. 82.33 with no missed rule (pitch 4.29), giving 15 boxed rows; the 17th rule at 91.66 is the candidate/foliation box below the footers. TWO-CROP PROOF at 900 dpi, widened to x=78.3 w=14.5 per ADDENDUM G2: the row-1 box RENDERED '848.28' (recorded 848.28) and the row-14 box, the LAST transcribed row, RENDERED '621.16' (recorded 621.16). THE ONE-BAND-PAST CONTROL pct:78.3,77.99,14.5,4.34@p3 RENDERED AN EMPTY BOXED CELL (row 15 of 15), so no row continues below the last entry and no band is doubled. `cell` is measured from the detected v_rules 79.08 / 92.32; the two internal column boundaries in `cells` were read off the 200 dpi render (no vertical rule is detected there on this greyscale copy) and are provenance only."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1", "page": 2, "row": 1, "date": "1/20/26",
+    "donor_raw": "Anna Gillespie", "donor_city": "Mesa", "donor_state": "AZ",
+    "amount": "50.00", "in_kind": false, "confidence": "medium", "verified": 1,
+    "note": "amount typed as a bare '50' with no cents; recorded 50.00. The county's 2026 column is headed 'City and Zip Code' and this filer typed city and STATE (no ZIP), so the privacy reduction is a no-op — no street address is printed."
+   },
+   {
+    "line_no": "2", "page": 2, "row": 2, "date": "1/24/26",
+    "donor_raw": "Lori Hoban", "donor_city": "Daytona", "donor_state": "FL",
+    "amount": "50.00", "in_kind": false, "confidence": "medium", "verified": 1,
+    "note": "amount typed as a bare '50'; recorded 50.00. An out-of-state donor sharing the candidate's surname; recorded as printed, with no relationship inferred."
+   },
+   {
+    "line_no": "3", "page": 2, "row": 3, "date": "1/31/26",
+    "donor_raw": "Jim Brookhart", "donor_city": "Provo", "donor_state": "UT",
+    "amount": "200.00", "in_kind": false, "confidence": "medium", "verified": 1,
+    "note": "amount typed as a bare '200'; recorded 200.00."
+   },
+   {
+    "line_no": "4", "page": 2, "row": 4, "date": "1/10/2026",
+    "donor_raw": "Travis Hoban", "donor_city": "Provo", "donor_state": "UT",
+    "amount": "6490.18", "in_kind": false, "confidence": "medium", "verified": 1,
+    "note": "THE CANDIDATE'S OWN SELF-CONTRIBUTION, and it is an itemized contribution row by the ladder, not by its wording (ADDENDUM B3): Box A prints 0, leaving no beginning-balance slot, and the sheet closes on its printed 6,790.18 only with this row. The date is typed with a FOUR-DIGIT year (1/10/2026) where the filer's other three rows use two digits, and it is EARLIER than all three of them — the sheet is not in date order. Both facts are kept verbatim and neither is adjudicated."
+   }
+  ],
+  "expenditures": [
+   {"line_no": "1", "page": 3, "row": 1, "date": "1/8", "vendor_raw": "Utah county", "purpose": "Filing", "amount": "848.28", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "DATE HAS NO YEAR — kept verbatim as '1/8' and flagged; a year is NEVER filled in from the report date (ADDENDUM G6). This is true of all 14 rows on this schedule. The candidate-filing fee paid to the county."},
+   {"line_no": "2", "page": 3, "row": 2, "date": "1/20", "vendor_raw": "Signs on the cheap", "purpose": "Signs", "amount": "236.83", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged."},
+   {"line_no": "3", "page": 3, "row": 3, "date": "1/12", "vendor_raw": "JC Penney", "purpose": "Photos", "amount": "123.55", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged. Out of date order relative to row 2; kept as printed."},
+   {"line_no": "4", "page": 3, "row": 4, "date": "1/27", "vendor_raw": "Custom ink", "purpose": "Tshirts", "amount": "307.63", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged."},
+   {"line_no": "5", "page": 3, "row": 5, "date": "2/28", "vendor_raw": "Godaddy", "purpose": "Website", "amount": "70.89", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged."},
+   {"line_no": "6", "page": 3, "row": 6, "date": "2/17", "vendor_raw": "Ucrp", "purpose": "Lincoln day", "amount": "250.00", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged. Amount typed as a bare '250'; recorded 250.00. Vendor typed in the filer's own casing 'Ucrp'; not expanded."},
+   {"line_no": "7", "page": 3, "row": 7, "date": "4/2", "vendor_raw": "Salt lake mailing and printing", "purpose": "Mailer", "amount": "1363.15", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged."},
+   {"line_no": "8", "page": 3, "row": 8, "date": "4/9", "vendor_raw": "Salt lake mailing and printing", "purpose": "Mailer", "amount": "1363.15", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged. IDENTICAL amount and vendor to line 7 on a different date; two separate printed rows, both real (the page closes only with both) — not a duplicate and not merged."},
+   {"line_no": "9", "page": 3, "row": 9, "date": "4/3", "vendor_raw": "Mailchimp", "purpose": "Emails", "amount": "62.98", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged."},
+   {"line_no": "10", "page": 3, "row": 10, "date": "4/8", "vendor_raw": "G1 consulting", "purpose": "Texts", "amount": "1162.80", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged."},
+   {"line_no": "11", "page": 3, "row": 11, "date": "2/21", "vendor_raw": "Walmart", "purpose": "Meet n greet supplies", "amount": "212.82", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged."},
+   {"line_no": "12", "page": 3, "row": 12, "date": "2/21", "vendor_raw": "Target", "purpose": "Meet n greet supplies", "amount": "54.46", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged."},
+   {"line_no": "13", "page": 3, "row": 13, "date": "2/21", "vendor_raw": "Costco", "purpose": "Supplies", "amount": "112.48", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged."},
+   {"line_no": "14", "page": 3, "row": 14, "date": "2/21", "vendor_raw": "Office max", "purpose": "Flyers", "amount": "621.16", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "date has no year — verbatim, flagged."}
+  ],
+  "notes": "TRAVIS HOBAN, 2026, County Auditor — '30 Days after withdrawal or elimination' (ticked), amendment No, Date of Report 5/18/2026 on the cover and '5/18/26' in the Date-of-Report box of all four sheets. ONE REPORT: continuous foliation 1/2/3/4 in the form's own Page boxes, one report type, one Date of Report, no restart at 'Page 1' (the ADDENDUM O4 bundle tell) — no report_index. Every page classified from its own printed header: p1 cover, p2 'Schedule A - Itemized Contributions Received', p3 'Schedule B - Itemized Expenditures Made', p4 'Summary Page' LAST. NO checklist decoy is bound in. || Page face agrees with index.csv on the candidate. THE OFFICE BOX PRINTS 'County auditor' IN THE FILER'S OWN LOWER-CASE — recorded with his casing; index.csv's 'County Auditor' is corroborated by the page, and nothing was inferred beyond what the box states. || FORM: modern_boxAF, footer 'v. 12.23' on every page (again NOT a cycle signal — ADDENDUM O1), masthead 'Aaron Davidson, Clerk', report-type and amendment controls are SQUARE CHECKBOXES ticked with a drawn check, 'Where to File' gives disclosures@utahcounty.gov while the footer prints elections@utahcounty.gov, close box UNLETTERED. This is the GREYSCALE PRINT RENDERING of the v.12.23 blank (ADDENDUM O4) — the whole document is a born-digital fillable PDF that was filled, printed, and re-scanned as a grey photocopy, so every value is machine type and no handwriting is involved anywhere except the two ticks. **Schedule A's third column is headed 'City and Zip Code'** — the SECOND independent instance of that heading in this chunk, and it is neither ADDENDUM M2's 'Address and Zip Code' nor the 2022 blank's 'City and State'. Schedule B has a real Purpose column. || REDACTION: one black bar on the cover, over the signature line. The candidate's own street address IS published in the clear in the cover address block and is deliberately not carried into this record in any field or note. Neither schedule is redacted, and no donor street address is printed anywhere — the 2026 sheet does not have a column for one. || DATE CEILING: every one of the 14 Schedule B rows carries a BARE M/D DATE WITH NO YEAR, so all 14 are verbatim with needs_review=1 and no year was ever supplied from the report date (ADDENDUM G6). Schedule A's four rows do carry years, and mix two-digit and four-digit forms in one column. Neither schedule is in date order. || The row-index screens all pass: first entry on band 1 on both sheets, no banner, no voided row, no doubled band, one-band-past control EMPTY on both. FIELD-SHIFT SCREEN passes by content — p2's third column holds place names and p3's third column holds purposes ('Filing', 'Signs', 'Photos', 'Tshirts', 'Website', 'Lincoln day', 'Mailer', 'Emails', 'Texts', 'Meet n greet supplies', 'Supplies', 'Flyers'), each matching its printed heading, so there is no ADDENDUM F2/G3 inversion. || OBSERVATION ONLY, never used to settle anything (ADDENDUM E1/L3): this filing's county filing fee is 848.28, the same figure the other 2026 filing in this chunk (Teri McCabe, a DIFFERENT office — County Clerk) pays its county fee. Two independent transcriptions agreeing across two offices in one cycle; recorded as an observation and used for nothing.",
+  "source_properties_for_coordinator": "(1) Second confirmation that the 2026 Schedule A column heading is 'City and Zip Code' (here on the GREYSCALE v.12.23 rendering, where the McCabe instance is the colour one) — so it is a property of the 2026 printing, not of one copy. (2) rowbands.py missed TWO CONSECUTIVE faint rules on the greyscale rendering, leaving a 3x-pitch gap — the ADDENDUM F6/I4 doubled-band signature extended to a tripled band; the pitch interpolation plus per-band crop proof recovered it."
+ }
+]

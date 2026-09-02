@@ -1,0 +1,94 @@
+[{
+ "index_path": "raw/2022/2022_Tomeny_Tom_11.1.22.pdf",
+ "key": "8367f134",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah, chunk r12_03)",
+ "transcribed_date": "2026-08-20",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' (2662.90) on the p4 Summary Page, which is also Schedule A's own printed 'Subtotal for this page $ 2662.90' and its 'Total Contributions Received (Sum of all Schedule A Pages in this report) $ 2662.90'",
+   "detail": "ONE Schedule A row: 2662.90 = the schedule's printed page subtotal 2662.90 = its printed Total Contributions Received 2662.90 = the promoted PER-PERIOD Box B 2662.90. Box C 'Contributions Received Year to Date' also prints 2662.90 (this is the filer's only contribution of the cycle, so period and YTD coincide) and is retained as cumulative, never summed as an increment. Rows 2-15 of the boxed grid are empty — crop-proved."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' (2662.90) on the p4 Summary Page, which is also Schedule B's own printed 'Subtotal for this page $ 2662.90' and its 'Total Expenditures Made (Sum of all Schedule B Pages in this report) $ 2662.90'",
+   "detail": "13 Schedule B rows sum to 729.29 + 12.00 + 36.00 + 12.00 + 12.00 + 12.00 + 12.00 + 12.00 + 600.00 + 65.00 + 146.68 + 13.93 + 1000.00 = 2,662.90 exactly = the printed page subtotal = the printed Total Expenditures Made = the promoted per-period Box D. (Intermediate: the eight Utah County/Google rows sum to 837.29; + 600.00 + 65.00 = 1,502.29; + 146.68 = 1,648.97; + 13.93 = 1,662.90; + 1,000.00 = 2,662.90.) Box E YTD prints 2662.90 and is cumulative, never summed. Rows 14 and 15 of the boxed grid are empty — crop-proved."
+  }
+ },
+ "in_kind_convention": "monetary-only — and no ambiguity existed to resolve: the form carries a per-row IN-KIND checkbox column and ALL 30 checkboxes across both grids are unticked. Both conventions therefore give the same sums (2662.90 / 2662.90) and both close on the printed figures. Per ADDENDUM J1 the Amount and In-Kind cells were cropped TOGETHER as one block on every proof crop, so the pairing was read off a single image rather than inferred from vertical position.",
+ "escalations": 0,
+ "escalation_note": "",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [73.60, 85.90],
+   "cells": [[10.27, 22.98], [22.98, 48.33], [48.33, 73.65], [73.65, 85.90], [85.90, 92.10]],
+   "rows": [[16.92, 20.96], [20.96, 24.96], [24.96, 28.98], [28.98, 32.99], [32.99, 37.05], [37.05, 41.05], [41.05, 45.05], [45.05, 49.05], [49.05, 53.08], [53.08, 57.10], [57.10, 61.08], [61.08, 65.10], [65.10, 69.10], [69.10, 73.14], [73.14, 77.10]],
+   "measure_note": "modern_boxAF (newer unversioned 2022 blank) Schedule A is a fully BOXED 15-row grid, so a row lies BETWEEN its own two printed rules and NOTHING is extrapolated (the legacy 'text above the rule' rule does not apply). rowbands.py (raw frame, skew +0.6) returned 15 h_rules; two interior rules are faint and were MISSED by the scan (the gaps 24.96->32.99 and 41.05->49.05 are exactly 2x the ~4.02 pitch, the doubled-band signature of ADDENDUM F6/I4), so 28.98 and 45.05 were interpolated at the pitch, giving 16 rules = 15 data rows ending at 77.10; the last detected rule at 90.99 is the Name-of-Candidate box below the grid, not a row. v_rules gave the left edge and three interior column rules (10.27 / 22.98 / 48.33 / 73.65); the Amount|In-Kind rule was not detected on this page and was taken as 85.90 from the sibling page 3 (85.48 there) AND PROVED BY RENDER on this page. TWO-CROP PROOF at 900 dpi with the Amount and In-Kind cells cropped as ONE block: the row-1 box pct:73.6,16.92,18.6,4.04@p2 rendered '2662.90' beside an UNTICKED In-Kind checkbox (recorded 2662.90), and the one-band-past control pct:73.6,20.96,18.6,4.00@p2 rendered an EMPTY amount cell and an unticked checkbox — the required B5 negative control on a grid with a single entry, and it also rules out ADDENDUM H3's doubled band."
+  },
+  "3": {
+   "axis": "y",
+   "cell": [72.92, 85.48],
+   "cells": [[9.70, 22.48], [22.48, 47.78], [47.78, 72.92], [72.92, 85.48], [85.48, 91.70]],
+   "rows": [[16.63, 20.66], [20.66, 24.68], [24.68, 28.68], [28.68, 32.68], [32.68, 36.68], [36.68, 40.63], [40.63, 44.63], [44.63, 48.61], [48.61, 52.61], [52.61, 56.68], [56.68, 60.65], [60.65, 64.61], [64.61, 68.63], [68.63, 72.59], [72.59, 76.54]],
+   "measure_note": "Same boxed 15-row grid on Schedule B (skew -0.5, pitch ~3.99). rowbands.py returned 15 h_rules; the two missing interior rules at 28.68 and 60.65 are again exact-pitch gaps (24.68->32.68 and 56.68->64.61 are both ~2x pitch) and were interpolated, giving 16 rules = 15 data rows ending at 76.54; the 90.75 rule is the Name-of-Candidate box. v_rules 22.48 / 47.78 / 72.92 / 85.48 give Date | Provider/Vendor | Purpose | Amount | In-Kind. TWO-CROP PROOF at 900 dpi, Amount+In-Kind cropped together: the row-1 box pct:72.9,16.63,19.2,4.03@p3 rendered '729.29' with an unticked checkbox (recorded 729.29) and the last transcribed row's box pct:72.9,64.61,19.2,4.02@p3 rendered '1000.00' with an unticked checkbox (recorded 1000.00, row 13). CONTROL past the end: pct:72.9,68.63,19.2,7.9@p3 spans rows 14 AND 15 and rendered both cells EMPTY with unticked checkboxes — so the ledger does NOT continue below the last transcribed row and no doubled band hides an entry."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 2, "row": 1, "date": "10/31/22",
+   "donor_raw": "Tom Tomeny", "donor_city": "Orem", "donor_state": "UT",
+   "amount": "2662.90", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the candidate's own self-contribution, entered as a single line funding the whole cycle. City-and-State cell prints 'Orem, UT' — on this blank that column IS 'City and State' by design (ADDENDUM J1), so the privacy reduction is a no-op and no street address appears in the cell. In-Kind checkbox UNTICKED (cropped together with the amount)."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "3/4/22",
+   "vendor_raw": "Utah County", "purpose": "Candidate Fee", "amount": "729.29",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the county filing fee. OBSERVATION ONLY — per ADDENDA E1/F5/L3 the fee is never used to corroborate or settle any figure; recorded because it is what the row says."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "1/12/22",
+   "vendor_raw": "Google", "purpose": "URL/Hosting", "amount": "12.00",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "3", "page": 3, "row": 3, "date": "4/30/22",
+   "vendor_raw": "Google", "purpose": "URLs/Hosting", "amount": "36.00",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "purpose printed 'URLs/Hosting' (plural) on this row only — kept verbatim"},
+  {"line_no": "4", "page": 3, "row": 4, "date": "5/9/22",
+   "vendor_raw": "Googe", "purpose": "URL/Hosting", "amount": "12.00",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "vendor typed 'Googe' by the filer (his other seven rows type 'Google') — kept VERBATIM, not corrected"},
+  {"line_no": "5", "page": 3, "row": 5, "date": "5/27/22",
+   "vendor_raw": "Google", "purpose": "URL/Hosting", "amount": "12.00",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "6", "page": 3, "row": 6, "date": "6/26/22",
+   "vendor_raw": "Google", "purpose": "URL/Hosting", "amount": "12.00",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "7", "page": 3, "row": 7, "date": "7/25/22",
+   "vendor_raw": "Google", "purpose": "URL/Hosting", "amount": "12.00",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "8", "page": 3, "row": 8, "date": "9/5/22",
+   "vendor_raw": "Google", "purpose": "URL/Hosting", "amount": "12.00",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "9", "page": 3, "row": 9, "date": "2/25/22",
+   "vendor_raw": "Heather Taylor", "purpose": "help gather signatures", "amount": "600.00",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "an individual paid for signature-gathering; this blank's Schedule B carries no address field at all, so nothing is withheld here"},
+  {"line_no": "10", "page": 3, "row": 10, "date": "2/25/22",
+   "vendor_raw": "David Douglas", "purpose": "help gather signatures", "amount": "65.00",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "11", "page": 3, "row": 11, "date": "2/4/22",
+   "vendor_raw": "Custom Ink", "purpose": "tshirts", "amount": "146.68",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "12", "page": 3, "row": 12, "date": "2/7/22",
+   "vendor_raw": "Office Depot", "purpose": "clipboards", "amount": "13.93",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "13", "page": 3, "row": 13, "date": "7/1/22",
+   "vendor_raw": "Compass Outdoor", "purpose": "billboard space", "amount": "1000.00",
+   "in_kind": false, "confidence": "medium", "verified": 1}
+ ],
+ "notes": "Tom Tomeny, 2022 cycle, 'Seven days preceding the General Election' (radio filled on p1; amendment answered 'No'); signed and filed 10/31/22. This is the SAME FILER as key 204f6f6d (his later '30 Days after the General Election' report, which is empty on both sides) — the two were transcribed independently and NOTHING was carried between them; note only that 204f6f6d's Box C/E YTD 2662.90 equals this report's per-period figures, which is consistent with this being his only active period. modern_boxAF, the NEWER UNVERSIONED 2022 BLANK of ADDENDUM J1, verified on the page: Schedule A = Date / Name of Contributor / CITY AND STATE / Amount / IN-KIND checkbox; Schedule B = Date / Provider/Vendor / PURPOSE / Amount / IN-KIND checkbox (a real Purpose column, used on all 13 rows); close box LETTERED 'G'; SIX report types on the cover including End-of-Year; no Page/of foliation anywhere (UNFOLIATED). No printed version string is legible (the footer band is a grey smear at 200 dpi). pdfinfo: 4 pages, letter, ALL /Rotate 0 — read before measuring per ADDENDUM K1. Pages classified BY CONTENT from their own printed headings: p1 cover, p2 Schedule A, p3 Schedule B, p4 Summary Page. NO CHECKLIST DECOY is bound in this filing. ROW-INDEX TRAPS: all six screened. No skipped first line (row 1 carries the first entry on both schedules, crop-proved); no continuation lines; no voided rows; no banner; the one-band-past controls on both pages rendered EMPTY cells, so the ledger does not run below the last printed rule; and no doubled band — the two missing rules on each page are exact-pitch scan misses, interpolated and crop-proved, not merged rows. FIELD-SHIFT SCREEN: passed — Schedule B's Provider/Vendor cells hold vendor names (Utah County, Google, Custom Ink, Office Depot, Compass Outdoor) and two individuals, while the Purpose cells hold purposes ('Candidate Fee', 'URL/Hosting', 'help gather signatures', 'tshirts', 'clipboards', 'billboard space'); the columns are assignable by CONTENT and are not inverted. OFFICE: the page's Office box contains only the word 'same' — a filer non-answer naming no office and no seat, identical to his other filing; index.csv's 'County Commission Seat A' is the CHANNEL label and is NOT corroborated by the page face. Nothing inferred. PRIVACY: the filer's own street address is printed on the cover and is deliberately not carried; the sole donor row is the candidate himself and its cell prints city and state only."
+}]

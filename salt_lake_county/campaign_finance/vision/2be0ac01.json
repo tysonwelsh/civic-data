@@ -1,0 +1,279 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2016-10-13",
+   "donor_raw": "Renee Milville",
+   "occupation": "retired / retired",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,18.90,89.00,1.95@p3",
+   "note": "address block redacted at source (single wide bar across all rows). Occupation captured from the attachment's two unheaded occupation-equivalent columns, joined profession-shaped / employer-shaped, i.e. the county field's own 'Occupation/Employer' order; the sheet prints no column headers."
+  },
+  {
+   "line_no": 2,
+   "date": "2016-10-13",
+   "donor_raw": "Dan Chirstenesen",
+   "occupation": "Self / Self",
+   "amount": "2,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,20.85,89.00,1.95@p3",
+   "note": "donor surname spelled 'Chirstenesen' by the filer - kept verbatim, not normalized to Christensen. Address redacted at source. Occupation from the two unheaded occupation-equivalent columns."
+  },
+  {
+   "line_no": 3,
+   "date": "2016-10-11",
+   "donor_raw": "Atla Ski Area",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,22.80,89.00,1.95@p3",
+   "note": "occupation BLANK because the filer left both occupation-equivalent cells empty on this row (the columns exist and carry values on every other row) - not a missing column and not a redaction. Name spelled 'Atla Ski Area' by the filer, kept verbatim. Address redacted at source."
+  },
+  {
+   "line_no": 4,
+   "date": "2016-09-30",
+   "donor_raw": "Dave Jolley",
+   "occupation": "retired / retired",
+   "amount": "50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,24.75,89.00,1.95@p3",
+   "note": "address redacted at source. Occupation from the two unheaded occupation-equivalent columns."
+  },
+  {
+   "line_no": 5,
+   "date": "2016-09-27",
+   "donor_raw": "Brandon Wall",
+   "occupation": "Engineer / ATS",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,26.70,89.00,1.95@p3",
+   "note": "address redacted at source. Occupation from the two unheaded occupation-equivalent columns (profession 'Engineer', employer 'ATS'), written in the county field's own Occupation/Employer order."
+  },
+  {
+   "line_no": 6,
+   "date": "2016-09-19",
+   "donor_raw": "Dale Gardiner",
+   "occupation": "Attorney / Fabian Vancott",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:5.50,28.65,89.00,1.95@p3",
+   "note": "address redacted at source. Occupation from the two unheaded occupation-equivalent columns (profession 'Attorney', employer 'Fabian Vancott'), written in the county field's own Occupation/Employer order."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2016-10-21",
+   "vendor_raw": "shout Signs",
+   "purpose": "design work",
+   "amount": "1050",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:30.42,38.85,39.16,1.95@p4",
+   "note": "filer wrote the vendor lower-case on this row and 'Shout Signs' on the next two - kept verbatim per row."
+  },
+  {
+   "line_no": 2,
+   "date": "2016-10-18",
+   "vendor_raw": "Shout Signs",
+   "purpose": "Signs",
+   "amount": "400",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:30.42,40.80,39.16,1.95@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2016-10-17",
+   "vendor_raw": "Shout Signs",
+   "purpose": "signs",
+   "amount": "750",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:30.42,42.75,39.16,1.95@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2016-09-29",
+   "vendor_raw": "Spot Marketing",
+   "purpose": "design work",
+   "amount": "600",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:30.42,44.70,39.16,1.95@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2016-09-15",
+   "vendor_raw": "Spot Marketing",
+   "purpose": "design work",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:30.42,46.65,39.16,1.95@p4"
+  },
+  {
+   "line_no": 6,
+   "vendor_raw": "Wells Fargo",
+   "purpose": "Bank Fees",
+   "amount": "59",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:30.42,48.80,39.16,1.95@p4",
+   "note": "date cell prints the word 'various' - not a parseable date, left BLANK per the date rule with the verbatim kept here. No year was filled in from the report date."
+  },
+  {
+   "line_no": 7,
+   "vendor_raw": "Anedot",
+   "purpose": "Fees",
+   "amount": "170.29",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:30.42,50.70,39.16,1.95@p4",
+   "note": "date cell prints the word 'various' - left BLANK per the date rule, verbatim kept here."
+  }
+ ],
+ "total_contributions": "3,250",
+ "total_expenditures": "3,529.29",
+ "beginning_balance": "367.55",
+ "ending_balance": "88.26",
+ "aggregate": {
+  "total_contributions_to_date": "52,783.99",
+  "total_expenditures_to_date": "52,695.73",
+  "line5_subtotal": "3,617.55"
+ },
+ "cover": {
+  "candidate": "Dave Robinson",
+  "party": "R",
+  "office_sought": "County Mayor",
+  "district_number": "",
+  "report_type": "Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "11/1/16",
+  "form_year": "2016"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2016_disclosures__november__dave-robinson_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Dave Robinson",
+  "office": "Mayor",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2016_disclosures__november__dave-robinson_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "SHAPE: attachment-is-the-schedule on BOTH sides - the 4-page PDF is cover, Summary Page, and two typed filer sheets. There is NO county Schedule A or Schedule B grid page anywhere in the document, so the wave hypothesis in the chunk file ('itemization is a typed filer ATTACHMENT, not the county Schedule A grid') is CONFIRMED, and specifically it is the third structural class, not a stub-plus-attachment. OCCUPATION: the attachment prints NO column headers at all on p3; the layout is [date][name][redaction bar over the address block][col-X][col-Y][$ amount], where col-X holds employer-shaped values ('Self', 'ATS', 'Fabian Vancott') and col-Y holds profession-shaped values ('Engineer', 'Attorney'). Both are captured, joined as 'profession / employer' - the county field's own 'Occupation/Employer' order, the same order used for the McAdams filing in this chunk - into the single county-form field Occupation/Employer, and each row note says so; the header names are NOT asserted because this page prints none. COVER vs CHUNK FILE: the chunk file's candidate/office/date/period all match the form. The cover's 'Office' box reads 'County Mayor' and the separate 'Office Sought' box is BLANK, so office_sought is taken from the top-row Office box (the documented 2008-era two-box substitution). The amendment question has NEITHER 'Yes' nor 'No' ticked - is_amendment is left '' (blank), never guessed to 'No'. PRIVACY: the address block on p3 is covered by a single wide black bar spanning every row - donor_city/donor_state are blank with 'redacted at source' on every contribution row; nothing was inferred from a name. Candidate's own phone/email on the cover are redacted by the county and were not read. Report received stamp NOV 01 2016.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "3,250",
+     "schedule_total": "3,250",
+     "itemized": "3250.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "6 rows sum 3250.00 = the attachment's own printed grand total ($ 3,250 at the foot of p3) = Summary Page line 1 Column A (3,250). Both anchors agree; no in-kind marker anywhere on the sheet."
+    },
+    "expenditures": {
+     "stated": "3,529.29",
+     "schedule_total": "3529.29",
+     "itemized": "3529.29",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "7 rows sum 3529.29 = the attachment's own printed grand total (3529.29 at the foot of p4) = Summary Page line 2 Column A (3,529.29)."
+    }
+   },
+   "page_subtotal_gates": "Neither attachment page prints a SUBTOTAL FOR THIS PAGE line (there is no county Schedule A/B grid in this document at all). The available gate is each attachment's own printed grand total on its only page: p3 rows 3250.00 = printed 3,250; p4 rows 3529.29 = printed 3529.29. Both gate exactly.",
+   "escalations": 5,
+   "escalation_note": "p3 date+name band, p3 occupation band and p3 amount column re-rendered as tight crops at 600 dpi; p4 date+vendor+purpose band and p4 amount column at 600 dpi. All five read identically to the 200 dpi full-page first read.",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "SHAPE: attachment-is-the-schedule on BOTH sides - the 4-page PDF is cover, Summary Page, and two typed filer sheets. There is NO county Schedule A or Schedule B grid page anywhere in the document, so the wave hypothesis in the chunk file ('itemization is a typed filer ATTACHMENT, not the county Schedule A grid') is CONFIRMED, and specifically it is the third structural class, not a stub-plus-attachment. OCCUPATION: the attachment prints NO column headers at all on p3; the layout is [date][name][redaction bar over the address block][col-X][col-Y][$ amount], where col-X holds employer-shaped values ('Self', 'ATS', 'Fabian Vancott') and col-Y holds profession-shaped values ('Engineer', 'Attorney'). Both are captured, joined as 'profession / employer' - the county field's own 'Occupation/Employer' order, the same order used for the McAdams filing in this chunk - into the single county-form field Occupation/Employer, and each row note says so; the header names are NOT asserted because this page prints none. COVER vs CHUNK FILE: the chunk file's candidate/office/date/period all match the form. The cover's 'Office' box reads 'County Mayor' and the separate 'Office Sought' box is BLANK, so office_sought is taken from the top-row Office box (the documented 2008-era two-box substitution). The amendment question has NEITHER 'Yes' nor 'No' ticked - is_amendment is left '' (blank), never guessed to 'No'. PRIVACY: the address block on p3 is covered by a single wide black bar spanning every row - donor_city/donor_state are blank with 'redacted at source' on every contribution row; nothing was inferred from a name. Candidate's own phone/email on the cover are redacted by the county and were not read. Report received stamp NOV 01 2016."
+  }
+ }
+}

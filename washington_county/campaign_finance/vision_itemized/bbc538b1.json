@@ -1,0 +1,93 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W12.json",
+ "key": "bbc538b1",
+ "index_path": "raw/wayback_forms2018/June 12_Kim M Hafen_FCR_06-13-2018.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/June 12_Kim M Hafen_FCR_06-13-2018.pdf"
+ ],
+ "sha256_prefix": "817057a5d2bb06d9",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "-0-",
+    "cover_over50_this": "-0-",
+    "cover_over50_cum": "-0-",
+    "cover_le50_this": "-0-",
+    "cover_le50_cum": "-0-",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is entirely blank and its printed TOTAL line is left empty; cover line 1 carries a slashed-zero glyph in all three columns (LAST/THIS/CUM), so 0 rows == 0. First report of the cycle (LAST column is a zero glyph throughout), so the THIS and CUMULATIVE scopes coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "-0-",
+    "cover_expense_this": "527.00",
+    "cover_expense_cum": "527.00",
+    "cover_balance_end": "(527.00)",
+    "schedule_total": "527.00"
+   },
+   "itemized": "527.00",
+   "basis": "schedule-total==cover-line3-this==cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "one inked row 527.00; Form B's printed TOTAL EXPENDITURES 527.00 equals BOTH the THIS and CUMULATIVE cover cells (first report of the cycle, so the two scopes coincide). Cover THIS cell is written with superscript cents over the rule ('527.' + oo) and the CUM cell in full as 527.00."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 0.00 vs printed TOTAL left blank (filer wrote nothing) -- consistent with an empty schedule; p3 rows 527.00 = printed TOTAL EXPENDITURES 527.00, gates exactly",
+  "row_count": "p3 rowbands.py: geometry_status=row-count-mismatch, 33 h-rule bands found against ~40 printed writing lines (the tool merged some rules); scored against INK instead -- exactly 1 inked row on p3, 1 row emitted. p2 has zero ink.",
+  "geometry_proof": "p3 600dpi crop of the row-1 band renders '3/1/18 | WASHINGTON COUNTY CLERK | FILING FEES | $527.00'; control crop one row-pitch below renders EMPTY (bare rules + printed $ signs only).",
+  "balance_chain": "0 + 0 - 527.00 = -527.00; cover line 4 prints (527.00) in both the THIS and CUMULATIVE cells -- closes exactly (accounting parentheses = negative). No earlier filing by this filer in this chunk, so no cross-filing chain run."
+ },
+ "escalations": 5,
+ "escalation_note": "p3 row-1 full-row crop at 600dpi + date cell at 1200dpi and 600dpi+ImageMagick normalize/resize (the underlying scan is low-res, so 1200dpi only pixelates); p1 cover anchor grid at 600dpi; p1 certification-date line at 600dpi",
+ "notes": "Generation 2 county-branded form ('WASHINGTON COUNTY CANDIDATE FINANCIAL CAMPAIGN REPORT ... Washington County Code 1-7-1'), but note this printing has NO In-Kind column on Form B and Form A's In Kind? column is present and entirely blank. Office line inside the form reads 'WASHINGTON COUNTY CLERK-AUDITOR' -- agrees with the chunk file's Clerk/Auditor. Candidate line reads 'KIM M HAFEN' -- agrees. FILER DATE ODDITY: the certification reads 'period beginning 1/1/18 and ending 6/12/19' and is signed 'Date 6/12/19', while the clerk's RECEIVED stamp reads JUN 12 2018 -- the '19' is a filer typo for '18'; retained verbatim here, not corrected. All zero cells on the cover are slashed-zero glyphs = 0 per the repo zero-glyph ruling.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-03-01",
+   "vendor_raw": "WASHINGTON COUNTY CLERK",
+   "purpose": "FILING FEES",
+   "amount": "527.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.52,12.55,18.45,2.00@p3",
+   "note": "date cell reads '3/1/18' -- the slash and the 1 are written as one joined stroke that renders like an 'A'; the filer's '1' elsewhere on the cover (period beginning '1/1/18') is the same plain stroke, which is what settles it. Form B on this printing has no in-kind column."
+  }
+ ]
+}

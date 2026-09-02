@@ -1,0 +1,78 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W02.json",
+ "key": "1baf6831",
+ "index_path": "raw/live_outpost/David Whitehead_Treasurer_Final_01-08-2025.pdf",
+ "applies_to": [
+  "raw/live_outpost/David Whitehead_Treasurer_Final_01-08-2025.pdf"
+ ],
+ "sha256_prefix": "c43b6ba63bdb1eed",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "640.20",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "640.20",
+    "cover_le50_last": null,
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "0"
+   },
+   "itemized": "",
+   "basis": "schedule-total==cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "EMPTY SCHEDULE, honestly zero. p2's grid is entirely blank except a hand-drawn SLASHED ZERO in the FIRST data row's Amount cell - that row has no date, no donor, no address and no In-Kind mark, so it is a nil mark, not a transaction (zero-glyph ruling: the glyph denotes 0, and a nil mark is not a row). The printed TOTAL CONTRIBUTIONS cell carries the same slashed zero. The cover's line-1 THIS REPORT cell also carries a hand-drawn slashed zero, so the zero rows equal the THIS figure; they do NOT equal the CUMULATIVE 640.20 carried in from the earlier filing, hence scope=period. This is the filer's FINAL report of the 2024 cycle (period 10-21-24 to 1-6-25). This cover generation has no $50-or-less line, so cover_le50_* are null (field absent), not zero."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "640.20",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "640.20",
+    "cover_balance_end": "0",
+    "schedule_total": "0"
+   },
+   "itemized": "",
+   "basis": "schedule-total==cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "EMPTY SCHEDULE, honestly zero. p3's grid is completely blank - even the first row's Amount cell is empty - and only the printed TOTAL EXPENDITURES cell carries the hand-drawn slashed zero. Equals the cover's line-2 (expenses) THIS REPORT slashed zero; not the cumulative 640.20."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 zero rows = printed TOTAL CONTRIBUTIONS slashed-zero (exact); p3 zero rows = printed TOTAL EXPENDITURES slashed-zero (exact). Both printed schedule totals agree with their cover THIS-REPORT cells, so the two independent anchors agree on each side.",
+  "row_count": "rowbands.py p2 and p3 both return geometry_status 'ok' with 19 bands = 1 boxed header row + 17 data rows + 1 TOTAL footer. Inked data rows: p2 zero (the single slashed-zero glyph occupies row 1's Amount cell but the row carries no other field), p3 zero. Zero rows emitted on both sides - consistent.",
+  "geometry_proof": "p2 first-data-row full-width crop (x 6.98-91.51%, y 35.38-38.48%) renders an empty date/name/address/in-kind row carrying only the slashed-zero in the Amount cell; the TOTAL-row crop (y 88.09-91.16%) renders 'TOTAL CONTRIBUTIONS $ <slashed zero>'. p3's matching crops render a wholly empty first row and 'TOTAL EXPENDITURES $ <slashed zero>'. No data rows emitted, so no per-row geometry pointers exist.",
+  "balance_chain": "640.20 contributions cumulative - 640.20 expenses cumulative = 0, and the cover's line-3 balance row prints hand-drawn slashed zeros in ALL THREE columns. Closes. The prior filing in this cycle is not in my chunk, so the cross-filing chain could not be run; the cover's own 'Total LAST Report' column (640.20 / 640.20) is internally consistent with a prior filing that had raised and spent 640.20."
+ },
+ "escalations": 4,
+ "escalation_note": "600 dpi crops of the p1 cover anchor grid (to separate the hand-drawn slashed zeros from the printed accounting dash), and full-width 600 dpi crops of p2/p3's first data row and TOTAL row.",
+ "notes": "Chunk file says candidate 'DAVID WHITEHEAD', office 'Treasurer' - CONFIRMED at the page: 'Full Name of Candidate: DAVID WHITEHEAD', 'Candidate for Office Of: TREASURER' (both hand-printed in block capitals), period 10-21-24 to 1-6-25, county RECEIVED stamp JAN 6 2025. \"AMERICA'S COUNTY\" county-branded generation with the THREE-line cover grid (no $50-or-less aggregate line). IMPORTANT READING NOTE for this filer's hand: he writes a NIL MARK as a long horizontal stroke through a small circle (a slashed zero) and places it BESIDE the printed Excel accounting dash, so several cells show 'slashed-zero  -' together. Every one of those is a zero, not a value and not a dash-only blank. The 640.20 figures are the county filing fee raised and spent earlier in the cycle. Both schedules are honest zeros for this final period, not gaps.",
+ "contributions": [],
+ "expenditures": []
+}

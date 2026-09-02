@@ -1,0 +1,86 @@
+[{
+ "index_path": "raw/2024/2024_Garrett_Mast_Redacted.pdf",
+ "key": "9a8e409a",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah r13_02)",
+ "transcribed_date": "2026-08-20",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' ($410.00) on the p4 Summary Page, equal to Schedule A's own printed 'Subtotal for this page' ($ 410.00) AND its 'Total Contributions Received / Sum of all Schedule A pages in this report' ($ 410.00)",
+   "detail": "4 Schedule A rows sum to 100 + 50 + 150 + 110 = 410.00 exactly = the schedule's printed page subtotal = the schedule's printed grand total = the promoted PER-PERIOD cell Box B. All three printed anchors agree. Box C 'Contributions Received Year to Date' also prints $410.00 (single report of the cycle: period = year to date) and is NOT summed as an increment. LOAN LADDER (§B3): three of the four rows are the candidate's OWN money (donor 'Garrett Mast'), and Schedule B row 7 is a 157.89 'Repayment of Personal Loans' to himself; the self-money is nonetheless booked on Schedule A and is inside the printed 410.00 subtotal that Box B repeats, with Box A = $0.00 leaving no beginning-balance slot — so the page books them AS contribution rows and they are published as such. The full ladder closes: F = A + B = 0 + 410 = 410.00, close = F - D = 410 - 410 = $0.00, exactly as printed."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' ($410.00) on the p4 Summary Page, equal to Schedule B's own printed 'Subtotal for this page' ($ 410.00) AND its 'Total Expenditures Made / Sum of all Schedule B pages in this report' ($ 410.00)",
+   "detail": "7 Schedule B rows sum to 96.69 + 22.58 + 1.07 + 6.19 + 15.99 + 109.59 + 157.89 = 410.00 exactly = the printed page subtotal = the printed grand total = the promoted PER-PERIOD cell Box D. Box E YTD also prints $410.00 and is never summed as an increment. The coincidence that contributions and expenditures are BOTH 410.00 is the filer's own doing — he zeroed the account by repaying himself 157.89 on the report date, which is what makes the close box $0.00; the two sides were reconciled independently against their own schedules' footers, never against each other."
+  }
+ },
+ "in_kind_convention": "monetary-only, and it is the only convention this filing supports: the v. 12.23 Schedule A prints FOUR columns with NO in-kind checkbox and no in-kind line anywhere, and no row carries an in-kind annotation. Both conventions therefore yield the same sums (410.00 / 410.00) and both close. Tested per §G1, not inherited from the previous filing.",
+ "escalations": 6,
+ "escalation_note": "Six 900 dpi tight --value crops, all geometry proofs (first row, last row, one-band-past control on each schedule page). No figure was in dispute: this is a born-digital fillable form, so every figure is machine type and the crops render crisp anti-aliased vector text.",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [80.70, 94.40],
+   "cells": [[6.00, 19.70], [19.70, 51.20], [51.20, 80.70], [80.70, 94.40]],
+   "rows": [[16.00, 20.55], [20.55, 25.09], [25.09, 29.64], [29.64, 34.18], [34.18, 38.73], [38.73, 43.27], [43.27, 47.82], [47.82, 52.36], [52.36, 56.91], [56.91, 61.45], [61.45, 66.00], [66.00, 70.57], [70.57, 75.11], [75.11, 79.66], [79.66, 84.21]],
+   "measure_note": "pdfinfo -f 2 -l 2: 612x792 pts, rot 0 (portrait, axis y) — rotation read BEFORE measuring per §K1. rowbands.py at 200 dpi, skew -0.1, returns 19 rules / 18 bands / 15 DATA bands with trim 0: tops 16.00 -> 79.66 at pitch 4.548, the closing rule extrapolated to 84.21. That is the ADDENDUM M2 15-row boxed grid, and because it is BOXED a row lies between its own two rules — nothing extrapolated upward, §A1 does not apply. This blank is the COLOUR (navy/red masthead) v. 12.23 stock, whose grid sits ~0.7 pct wider than the greyscale copy read on 5f688615: column rules 6.0 / 19.7 / 51.2 / 80.7 / 94.4 (vs 7.2 / 20.5 / 50.9 / 79.4 / 92.7), so the frame was measured on THIS page and not carried over. THREE-CROP PROOF at 900 dpi: pct:80.7,16.0,13.7,4.55@p2 rendered '$100' (recorded row 1 = 100); pct:80.7,29.64,13.7,4.54@p2 rendered '$110' (recorded row 4 = 110); the ONE-BAND-PAST control pct:80.7,34.18,13.7,4.55@p2 rendered an EMPTY ruled cell — no hidden row below the last entry, no off-by-one."
+  },
+  "3": {
+   "axis": "y",
+   "cell": [80.60, 94.40],
+   "cells": [[5.90, 19.70], [19.70, 51.10], [51.10, 80.60], [80.60, 94.40]],
+   "rows": [[15.98, 20.52], [20.52, 25.07], [25.07, 29.66], [29.66, 34.16], [34.16, 38.73], [38.73, 43.34], [43.34, 47.89], [47.89, 52.43], [52.43, 56.98], [56.98, 61.52], [61.52, 66.07], [66.07, 70.61], [70.61, 75.16], [75.16, 79.70], [79.70, 84.25]],
+   "measure_note": "p3 measured independently of p2 (§B5 — a grid is never interchangeable across pages): rot 0, skew +0.0, rowbands.py returns 17 rules / 15 bands / 15 data bands, tops 15.98 -> 79.70, pitch ~4.55, closing rule extrapolated to 84.25; column rules 5.9 / 19.7 / 51.1 / 80.6 / 94.4. The third band 51.1-80.6 is the REAL Purpose column of this revision (§M2) and is captured on every row. THREE-CROP PROOF at 900 dpi: pct:80.6,15.98,13.8,4.54@p3 rendered '$96.69' (recorded row 1 = 96.69); pct:80.6,43.34,13.8,4.55@p3 rendered '$157.89' (recorded row 7 = 157.89); the ONE-BAND-PAST control pct:80.6,47.89,13.8,4.54@p3 rendered an EMPTY ruled cell. Every band measures one pitch (~4.55), so no doubled band and no §H3 two-entries-in-one-row collapse."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 2, "row": 1, "date": "8 Jan 2024",
+   "donor_raw": "Garrett Mast", "donor_city": "Orem", "donor_state": "UT",
+   "amount": "100", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "The CANDIDATE'S OWN money, entered on Schedule A and inside the printed 410.00 subtotal, so published as a contribution row (the ladder decides, not the wording — §B3). Amount printed as '$100' with NO cents; the currency symbol is dropped and the digits kept verbatim. Address: the county blacked out the street portion; 'Orem, UT 84097' prints in the clear to the RIGHT of the bar on the same line (this blank's redaction leaves the city/state/zip visible). Redacted by the county, not left empty by the filer."},
+  {"line_no": "2", "page": 2, "row": 2, "date": "7 Feb 2024",
+   "donor_raw": "Garrett Mast", "donor_city": "Orem", "donor_state": "UT",
+   "amount": "50", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Candidate's own money again. Printed as '$50', no cents. Street portion redacted by the county; city/state/zip in the clear."},
+  {"line_no": "3", "page": 2, "row": 3, "date": "8 Apr 2024",
+   "donor_raw": "Sean Fitzgerald", "donor_city": "Provo", "donor_state": "UT",
+   "amount": "150", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "The filing's only third-party donor. Printed as '$150', no cents. Street portion redacted by the county; 'Provo, UT 84601' in the clear."},
+  {"line_no": "4", "page": 2, "row": 4, "date": "10 Apr 2024",
+   "donor_raw": "Garrett Mast", "donor_city": "Orem", "donor_state": "UT",
+   "amount": "110", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Candidate's own money. Printed as '$110', no cents. Street portion redacted by the county; city/state/zip in the clear."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "12 Feb 2024",
+   "vendor_raw": "Staples.com", "purpose": "Campaign Flyers",
+   "amount": "96.69", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "2", "page": 3, "row": 2, "date": "16 Feb 2024",
+   "vendor_raw": "Macey's Grocery Store Provo", "purpose": "Food for Campaign Event",
+   "amount": "22.58", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "3", "page": 3, "row": 3, "date": "8 Mar 2024",
+   "vendor_raw": "Target Orem Center St", "purpose": "Materials for Campaign Event",
+   "amount": "1.07", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "The vendor cell names the store BRANCH ('Target Orem Center St'), not an address — there is no street number and the Schedule B grid has no address column on this revision. Kept verbatim as the vendor identity."},
+  {"line_no": "4", "page": 3, "row": 4, "date": "21 Mar 2024",
+   "vendor_raw": "SendGrid/Twilio", "purpose": "Email Marketing Service",
+   "amount": "6.19", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "5", "page": 3, "row": 5, "date": "8 Apr 2024",
+   "vendor_raw": "SendGrid/Twilio", "purpose": "Email Marketing Service",
+   "amount": "15.99", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "6", "page": 3, "row": 6, "date": "12 Apr 2024",
+   "vendor_raw": "Staples.com", "purpose": "Campaign Flyers",
+   "amount": "109.59", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "7", "page": 3, "row": 7, "date": "22 Apr 2024",
+   "vendor_raw": "Garrett Mast", "purpose": "Repayment of Personal Loans",
+   "amount": "157.89", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "The candidate repaying himself, dated the same day as the report (22 Apr 2024). Transcribed as printed. Note the filer calls his own Schedule A entries 'Personal Loans' HERE while entering them as contributions THERE — recorded, not adjudicated; the contribution side is gated by the page's own arithmetic (§B3), not by this wording."}
+ ],
+ "notes": "PAGE-FACE identity: 'Garrett Mast', Office box prints 'County Recorder', report type ticked '30 Days after withdrawal or elimination', amendment ticked 'No', Date of Report '22 April 2024'. index.csv's channel label 'Garrett  Mast' / 'County Recorder' agrees with the page face on both. FORM: modern_boxAF, footer 'v. 12.23' on all four pages, masthead 'Aaron Davidson / Clerk'. ⚠ NEW SOURCE PROPERTY — the v. 12.23 blank exists in TWO PRINT RENDERINGS: this filing is the FULL-COLOUR original (navy 'Candidate Financial Disclosure' rule, navy/red UTAH COUNTY CLERK mark, navy bullet points) and is born-digital clean, whereas 5f688615 in the same chunk is a GREYSCALE photocopy-style rendering of the same v. 12.23 blank. The two differ measurably in grid geometry (column rules 6.0/19.7/51.2/80.7/94.4 here vs 7.2/20.5/50.9/79.4/92.7 there; pitch 4.55 vs 4.45), so a frame must never be carried between them. Everything else matches ADDENDUM M2 exactly: 4 pages cover / Schedule A / Schedule B / SUMMARY LAST (each located by its own printed heading); five report types with 'Convention' and 'End-of-Year' absent and '30 Days after the Primary Election' present; Schedule A four columns Date / Name of Contributor / Address and Zip Code / Amount with NO city-state column and NO in-kind checkbox; Schedule B with a real Purpose column; 15-row boxed grids each printing its own two footers; Summary A / B-C / D-E / F + an UNLETTERED close box. NO CHECKLIST DECOY is bound (4 pages, all accounted for). FOLIATION IS COMPLETE AND CONSISTENT here — 'Page 1 of 4' ... '4 of 4' — positive evidence that no sheet is missing (the §D6/§H6 fax-counter logic applied to the Page box). DATE ANOMALY, recorded not adjudicated: the cover's signature 'Date' box is EMPTY (the signature itself is blacked out by the county) while 'Date of Report' prints 22 April 2024 — so the filing carries no signature date. AMOUNT STYLE: this filer writes contributions with a leading '$' and NO CENTS ('$100', '$50', '$150', '$110') but expenditures with '$' and full cents; the currency symbol is dropped and the digits kept exactly as printed. Both sides close EXACTLY on the promoted per-period figures, and all three printed anchors per side agree."
+}]

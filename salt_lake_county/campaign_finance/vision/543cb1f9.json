@@ -1,6 +1,146 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-06-21",
+   "donor_raw": "Erin Litvack",
+   "occupation": "Deputy Mayor",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.94,21.33,85.12,3.77@p3",
+   "note": "city/state redacted at source"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-06-21",
+   "donor_raw": "Anthem Center, LLC",
+   "occupation": "(unknown)",
+   "amount": "4000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.94,25.10,85.12,3.80@p3",
+   "note": "city/state redacted at source; filer wrote '(unknown)' in the occupation cell; name wraps to a second line 'LLC'"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-06-30",
+   "donor_raw": "Des Barker",
+   "occupation": "Public Affairs / Public Relations Marketing",
+   "amount": "1500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.94,28.90,85.12,3.75@p3",
+   "note": "city/state redacted at source; occupation cell reads 'Public Affairs / Public Relations Marketing' over three lines"
+  },
+  {
+   "line_no": 4,
+   "date": "2022-06-30",
+   "donor_raw": "Ralph Chamness",
+   "occupation": "Chief Deputy DA's Office",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.94,32.65,85.12,3.73@p3",
+   "note": "city/state redacted at source"
+  },
+  {
+   "line_no": 5,
+   "date": "2022-07-07",
+   "donor_raw": "(Impact PAC)",
+   "occupation": "(unknown)",
+   "amount": "3000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.94,36.38,85.12,3.82@p3",
+   "note": "city/state redacted at source; name parenthesized as printed; filer wrote '(unknown)' in the occupation cell"
+  },
+  {
+   "line_no": 6,
+   "date": "2022-07-07",
+   "donor_raw": "Ken Hansen",
+   "occupation": "Retired police officer",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.94,40.19,85.12,3.73@p3",
+   "note": "city/state redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-06-21",
+   "vendor_raw": "Majority 51",
+   "purpose": "Social media",
+   "amount": "1869.42",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.56,23.99,80.91,3.95@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-06-29",
+   "vendor_raw": "Majority 51",
+   "purpose": "contract",
+   "amount": "2500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.56,27.95,80.91,3.98@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-06-30",
+   "vendor_raw": "Majority 51",
+   "purpose": "Balance on contract signs, etc.",
+   "amount": "2193.15",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.56,31.92,80.91,3.93@p4",
+   "note": "purpose printed 'Balance on contract' with the word 'contract' struck through and 'signs, etc.' written beneath; transcribed with the struck word retained"
+  },
+  {
+   "line_no": 4,
+   "date": "2022-07-05",
+   "vendor_raw": "Tyler DeBry",
+   "purpose": "Sign removal",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.56,35.86,80.91,3.93@p4",
+   "note": "recipient shares the candidate's surname"
+  }
+ ],
  "total_contributions": "$110,368.90",
  "total_expenditures": "$95,438.92",
  "beginning_balance": "$14,929.98",
@@ -49,6 +189,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten on the OLDER form (Sherrie Swensen letterhead, no year in the title - form_year left blank). Neither amendment box is checked. WORTH A HUMAN LOOK - the filer used Column A on Lines 1 and 2 for the PRIOR cumulative totals, not this period: Line 1 Column A is $110,368.90 while Line 4 (\"from Line 1 Column A\") is $8,900.00, and Line 2 Column A is $95,438.92 while Line 6 (\"from Line 2 Column A\") is $7,562.57. Lines 3-7 are internally consistent. Line 2 Column A's second digit is genuinely ambiguous between 5 and 6 even at 400 dpi; read as 5 by glyph comparison with the filer's other 5s and 6s (and Column B minus Line 6 gives the same figure) - recorded at medium confidence."
+  "notes": "Handwritten on the OLDER form (Sherrie Swensen letterhead, no year in the title - form_year left blank). Neither amendment box is checked. WORTH A HUMAN LOOK - the filer used Column A on Lines 1 and 2 for the PRIOR cumulative totals, not this period: Line 1 Column A is $110,368.90 while Line 4 (\"from Line 1 Column A\") is $8,900.00, and Line 2 Column A is $95,438.92 while Line 6 (\"from Line 2 Column A\") is $7,562.57. Lines 3-7 are internally consistent. Line 2 Column A's second digit is genuinely ambiguous between 5 and 6 even at 400 dpi; read as 5 by glyph comparison with the filer's other 5s and 6s (and Column B minus Line 6 gives the same figure) - recorded at medium confidence.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "110368.90",
+     "schedule_total": "119268.90",
+     "itemized": "8900.00",
+     "basis": "summary-line-4",
+     "result": "exact",
+     "detail": "rows 8900.00 = Schedule A page SUBTOTAL 8,900.00 = Summary line 4 (From Line 1 Column A) 8,900.00. Summary line 1 Column A prints 110,368.90, which equals Column B aggregate 119,268.90 MINUS this period's 8,900.00 (filer entered the prior cumulative figure in the period column). The schedule's printed TOTAL 119,268.90 equals Summary Column B line 1. Chunk stated prior 110,368.90 confirmed at page; period-scoped anchor is line 4."
+    },
+    "expenditures": {
+     "stated": "95438.92",
+     "schedule_total": "103001.49",
+     "itemized": "7562.57",
+     "basis": "summary-line-6",
+     "result": "exact",
+     "detail": "rows 7562.57 = Schedule B page SUBTOTAL 7,562.57 = Summary line 6 (From Line 2 Column A) 7,562.57. Summary line 2 Column A prints 95,438.92 = Column B aggregate 103,001.49 minus this period's 7,562.57. The schedule's printed TOTAL 103,001.49 equals Summary Column B line 2."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 8900.00 = printed SUBTOTAL FOR THIS PAGE 8,900.00; p4 rows 7562.57 = printed SUBTOTAL FOR THIS PAGE 7,562.57",
+   "escalations": 8,
+   "escalation_note": "600dpi tight band crops: p3 rows 1-3 left/right, rows 4-6 left/right, subtotal+total cell; p4 rows 1-4 left/right, subtotal+total cell - all read identically (verified=1 on all rows)",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Entirely handwritten on the county grid. Signature/cover date Sept. 13, 2022 with office-use Date Received stamp 9/13/22 - index.csv prior date 2022-09-14 contradicted by the page (page governs). 'September 15' interim box checked on cover; not an amendment (neither box checked). Office Sought 'County Council #5' at page. INTERNAL INCONSISTENCY recorded verbatim per the brief: Summary Column A lines 1/2 (110,368.90 / 95,438.92) carry the prior-period cumulative figures while lines 4/6 carry the period figures (8,900.00 / 7,562.57) that the itemization exactly matches; Column B aggregates (119,268.90 / 103,001.49) equal the schedules' printed grand TOTALS. Complete Mailing Address column bar-redacted on every Schedule A row (city/state/zip all under the bar); Occupation/Employer survives the bar on all 6 rows. Schedule B row 3 purpose printed 'Balance on contract' with 'contract' struck through, 'signs, etc.' written beneath - transcribed with the struck word, noted on the row. No school-board issue."
+  }
  }
 }

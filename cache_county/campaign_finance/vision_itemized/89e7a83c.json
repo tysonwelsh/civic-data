@@ -1,0 +1,84 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C21.json",
+ "key": "89e7a83c",
+ "index_path": "raw/2024/2024_cc_2024_General_David_Erickson.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_David_Erickson.pdf"
+ ],
+ "sha256_prefix": "9624fa71f986c8e9",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "$ 0.00",
+    "cover_over50_cum": "$ 3,363.08",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "$ 0.00",
+    "box_A_balance_begin": "$ 0.00",
+    "box_F_subtotal": "$ 0.00",
+    "schedule_total": "0.00",
+    "page_subtotal": "0.00"
+   },
+   "itemized": "0",
+   "basis": "schedule-total==page-subtotal==cover-boxB-this-period",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Schedule A carries no ledger line; the filer typed 'None received' in the contributor column of the first writing band (a statement, not a transaction) and wrote 0.00 in both the printed page subtotal and the printed 'Total Contributions Received'. Those equal Box B (This Period, $0.00) and NOT Box C (Year-to-Date, $3,363.08), so the rows - here, zero rows - are on the PERIOD scope. Box C is annotated by the filer '(contibutions for convention and primary)' [sic], i.e. the year-to-date money belongs to an earlier reporting period and is NOT itemised anywhere in this document. That is an honest, document-stated fact, not a gap in this transcription."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "$ 0.00",
+    "cover_expense_cum": "$ 3,363.08",
+    "cover_balance_end": "$ 0.00",
+    "schedule_total": "0.00",
+    "page_subtotal": "0.00"
+   },
+   "itemized": "0",
+   "basis": "schedule-total==page-subtotal==cover-boxD-this-period",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Schedule B carries no ledger line ('None expended' typed in the vendor column) and both printed totals read 0.00, equal to Box D (This Period $0.00) and not Box E (Year-to-Date $3,363.08, annotated '(expenditures for convention and primary)'). Period scope; the year-to-date expenditures are not itemised in this document."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: zero rows = printed 'Subtotal for this page $ 0.00' = printed 'Total Contributions Received $ 0.00'. p3: zero rows = printed subtotal 0.00 = printed 'Total Expenditures Made 0.00'. Both gate exactly.",
+  "row_count": "Independent ink scan of both schedule grids finds no value in any amount cell on either page; the only writing inside the grids is the single typed phrase 'None received' (p2) / 'None expended' (p3) in the name/vendor column of the first band. 0 rows emitted on each side, matching.",
+  "geometry_proof": "Not applicable - zero rows emitted on both sides, so no row geometry is claimed.",
+  "balance_chain": "CLOSES EXACTLY. Box A 0.00 + Box B 0.00 = Box F 0.00; Box F 0.00 - Box D 0.00 = Balance at Close 0.00. No earlier filing by this filer in this chunk, so the cross-filing cumulative chain was not run here - but note that the same filer's earlier (convention/primary) report is where the $3,363.08 year-to-date figures would have to chain from."
+ },
+ "escalations": 1,
+ "escalation_note": "500 dpi crop of the p4 Box B / Box C block, confirming '$ 0.00' against '$ 3,363.08 (contibutions for convention and primary)' - the two figures that decide the scope.",
+ "notes": "THE DOCUMENT CONTRADICTS THE CHUNK FILE ON OFFICE: the chunk says 'County Council', but the cover's 'Office' box is COMPLETELY BLANK on the form. Transcribed from the form; this is one of the county's known blank-office filings, an honest state. Candidate 'David Erickson' matches. Report type marked 'Seven days preceding the General Election'; amendment = No. Date of Report 10/29/2024 on the cover and every page footer; the chunk file's 2024-11-01 appears nowhere on the form. 'None received' / 'None expended' are the filer's own statements, not transactions, and are NOT emitted as rows. Box C and Box E carry the filer's parenthetical annotations, transcribed verbatim into the anchor block (including the source's own spelling 'contibutions'). Candidate street address, phone and email printed in the clear on the cover were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

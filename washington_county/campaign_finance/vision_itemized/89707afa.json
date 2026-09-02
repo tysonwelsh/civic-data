@@ -1,0 +1,77 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W08.json",
+ "key": "89707afa",
+ "index_path": "raw/live_outpost/Ryan Sullivan_ClerkAuditor-FCR_10-29-2024.pdf",
+ "applies_to": [
+  "raw/live_outpost/Ryan Sullivan_ClerkAuditor-FCR_10-29-2024.pdf"
+ ],
+ "sha256_prefix": "0bed3ac3f63db985",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen2-county-branded-grid (typed spreadsheet variant, 17 data rows)",
+  "expenditures": "gen2-county-branded-grid (typed spreadsheet variant, 17 data rows)"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "345.10",
+    "cover_over50_this": "",
+    "cover_over50_cum": "345.10",
+    "cover_le50_last": null,
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": ""
+   },
+   "itemized": "0",
+   "basis": "no NUMERIC anchor exists for this period -- both the cover's THIS REPORT cell and the schedule's printed TOTAL CONTRIBUTIONS are nil dashes",
+   "result": "unknown",
+   "scope": "period",
+   "detail": "Form A (page 2) is a wholly EMPTY 17-row grid: every data cell is blank and the printed footer reads 'TOTAL CONTRIBUTIONS $  -'. The cover's line-1 THIS REPORT cell likewise prints a bare dash. Under the repo-wide zero-glyph ruling a bare dash is a BLANK, not a 0, so there is no numeric figure to score the empty side against and the result is 'unknown' rather than 'exact'; the side itself is an honest zero (transcribed, zero rows), not a gap. FOR THE HUMAN, the document does carry internal evidence that this template's '-' is its zero FORMAT rather than an omission: line 1 CUMULATIVE 345.10 minus line 2 CUMULATIVE 345.10 = 0, and the balance row prints '-' in all three cells -- i.e. the dash occupies a cell whose value is provably zero. That is an argument about the template, not a transcription, so nothing was converted. NOTE ALSO that the 345.10 cumulative belongs to an EARLIER filing in this cycle; its itemisation is not in this document, so this PDF can never yield the donors behind that figure. IMPORTANT FORM VARIANT: this cover has NO '$50.00 or less' aggregate line at all -- the grid is three rows (contributions over $50, expenses, balance), so cover_le50_* is null (the field does not exist), not blank."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "345.10",
+    "cover_expense_this": "",
+    "cover_expense_cum": "345.10",
+    "schedule_total": ""
+   },
+   "itemized": "0",
+   "basis": "no NUMERIC anchor exists for this period -- both the cover's THIS REPORT cell and the schedule's printed TOTAL EXPENDITURES are nil dashes",
+   "result": "unknown",
+   "scope": "period",
+   "detail": "Form B (page 3) is a wholly EMPTY 17-row grid; printed footer reads 'TOTAL EXPENDITURES $  -', and the cover's line-2 THIS REPORT cell is a bare dash. Same reasoning as the contributions side: honest zero rows, no numeric anchor, result 'unknown'. The 345.10 cumulative expense figure belongs to an earlier filing in the cycle."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "This form generation DOES print schedule totals, and both of them are nil dashes rather than numerals: p2 'TOTAL CONTRIBUTIONS $ -' over an empty grid, p3 'TOTAL EXPENDITURES $ -' over an empty grid. With zero rows and no numeral in either footer there is no gate to fire -- reported as such rather than scored. The cover's own horizontal chains are the only numerals on the filing and they are consistent: 345.10 (LAST) + nil (THIS) = 345.10 (CUMULATIVE) on both line 1 and line 2.",
+  "row_count": "rowbands.py p2: geometry_status 'ok', 20 h-rules / 19 bands -- band 1 [31.93%,35.05%] is the column-header row, bands 2-18 are the 17 data rows, band 19 [87.91%,91.07%] is the printed TOTAL row. ZERO of the 17 data rows carries ink; 0 rows emitted. p3 identical: 20 rules, 19 bands, 17 data rows, zero inked, 0 rows emitted. Both pages were also read whole at 200 dpi to confirm no ink anywhere in the grid.",
+  "geometry_proof": "NOT APPLICABLE -- the filing has zero itemized rows, so there is no row geometry to prove and no row carries a geometry pointer. The grid was located instead: p2/p3 data rows run from 35.05% to 87.91% of page height in 17 bands of ~3.11%, with the amount column between the vertical rules at roughly 60% and 76% of page width; every one of those cells renders empty.",
+  "balance_chain": "Closes, and it is the only arithmetic the filing offers. Line 1 (contributions over $50): 345.10 LAST + nil THIS = 345.10 CUMULATIVE. Line 2 (campaign expenses): 345.10 LAST + nil THIS = 345.10 CUMULATIVE. Balance row: all three cells print a bare dash, consistent with 345.10 - 345.10 = 0 (see the recon detail on how the dash was handled). No cover-to-cover chain test was possible: the earlier filing that carries the 345.10 is not in my chunk, so a human wanting to verify the LAST-REPORT cells must pull Ryan Sullivan's prior 2024 filing."
+ },
+ "escalations": 0,
+ "escalation_note": "No escalation was needed or warranted: the document is a born-typed spreadsheet PDF, every character is crisp at 200 dpi, and both schedules are empty -- there was no disputed glyph, no cramped cents group and no row to re-verify.",
+ "notes": "Generation-2 county-branded form, TYPED SPREADSHEET VARIANT ('WASHINGTON COUNTY / AMERICA'S COUNTY' logo, 'Campaign Financial Disclosure Per Title 1 Chapter 7 of Washington County Code of Ordinances'). TWO WAYS THIS VARIANT DIFFERS FROM THE ADDENDUM'S GENERATION-2 DESCRIPTION, both worth carrying forward: (1) the cover has NO '$50.00 or less' aggregate line -- only three rows, contributions over $50 / expenses / balance -- so the sub-$50 trap cannot arise here and cover_le50_* is null rather than blank; (2) the schedules hold 17 ruled data rows, not ~20. Form A does carry the 'In Kind? Y/N' column, unused here. CHUNK FILE AGREES WITH THE DOCUMENT: candidate 'Ryan Sullivan' matches 'Full Name of Candidate: Ryan Sullivan' on all three pages, and office 'Clerk/Auditor' matches 'Candidate for Office Of: Clerk-Auditor'. County office, in scope. Certified period Start Date 7/1/2024, End Date 10/15/2024; candidate signature dated 10/15/2024 and the Office Use Only 'Date Received' hand-stamped 10/15/2024 -- note the index/file name carries 10-29-2024, which matches NEITHER date on the form; the DOCUMENT governs and the discrepancy is recorded here rather than resolved. THIS IS A NO-ACTIVITY PERIOD REPORT: both schedules are empty grids with nil-dash totals, and the only money on the filing (345.10 in and 345.10 out) is carried forward from an earlier filing of the same cycle whose itemisation is NOT in this PDF -- so 'empty' here means the period had no transactions, and it must not be read as 'this candidate had no donors'. No privacy-bearing donor detail exists to discard; the cover prints no candidate street address, phone or email in this variant.",
+ "contributions": [],
+ "expenditures": []
+}

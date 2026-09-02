@@ -1,0 +1,117 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2016-12-06",
+   "vendor_raw": "Spot Marketing",
+   "purpose": "Marketing",
+   "amount": "88.26",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.65,25.23,77.94,4.05@p4",
+   "note": "Amount printed with SUPERSCRIPT cents over a rule ('88' then a raised '26'); transcribed with a decimal point per the convention, and confirmed against Summary line 2 Column A. The recipient's final letter runs into the column rule (glyphs 'Spot Marketin' + a trailing stroke), and the purpose is written in a compressed hand (glyphs 'Marketg'); both are read at medium confidence as 'Spot Marketing' and 'Marketing'."
+  }
+ ],
+ "total_contributions": "",
+ "total_expenditures": "88.26",
+ "beginning_balance": "88.26",
+ "ending_balance": "",
+ "aggregate": {
+  "total_contributions_to_date": "52,783.99",
+  "total_expenditures_to_date": "52,783.99",
+  "line5_subtotal": ""
+ },
+ "cover": {
+  "candidate": "Dave Robinson",
+  "party": "R",
+  "office_sought": "Conty Mgor",
+  "district_number": "",
+  "report_type": "FINAL / DISSOLUTION REPORT",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/17",
+  "form_year": "2016"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2016_disclosures__2016_year_end__dave-robinson_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Dave Robinson",
+  "office": "Mayor",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2016_disclosures__2016_year_end__dave-robinson_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "FLAG VERIFIED - the form governs and it contradicts the clerk listing. The chunk file's flag reads \"listing '2016 Summary Report' vs form Final/Dissolution\": the cover's checked box is FINAL / DISSOLUTION REPORT, the Year-End box is NOT checked, and the report should be classified Final/Dissolution. (The filer drew one long diagonal stroke that starts near the Year-End box and ends as the X on the Final/Dissolution box; at 200 dpi full page the Year-End box itself is clearly empty.) Other findings: (a) NEITHER amendment box (Yes/No) is checked - is_amendment honestly blank. (b) Cover Office reads 'County Mayor'; the Office Sought cell is filled in the filer's compressed hand as 'Conty Mgor' and is recorded VERBATIM rather than silently expanded - the Office cell above resolves the office beyond doubt. (c) The cover's address block and the phone/fax/email block are real BLACK REDACTION BARS (redacted at source). (d) The SUMMARY PAGE HEADER BOX IS ENTIRELY BLANK on p2, p3 and p4 - no page number, no last name, no Date of Report on any of the three; the report date comes from the cover signature line (1/31/17) and the RECEIVED stamp (JAN 31 2017). (e) SUPERSCRIPT CENTS throughout: line 2 Column A reads '88' with a raised '26' over a rule, line 3 the same, and both Column B cells read '52,783' with a raised '99'. All are transcribed with a decimal point per the convention. (f) COLUMN B IS IDENTICAL ON BOTH SIDES - 52,783.99 for contributions-to-date AND expenditures-to-date. That is the documented 'Column B is unreliable' property of this corpus (the same $-figure-both-sides case already recorded for another filer); it is kept verbatim and is NOT evidence about either side. (g) Line 1 Column B's cents ('99') are written OUTSIDE the ruled cell, to the right of the table - transcribed as part of the figure. (h) Nothing on this filing marks in-kind.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "",
+     "result": "unknown",
+     "detail": "A REAL ZERO, not a gap. The Schedule A page (p3) EXISTS and is entirely blank - the only mark on the whole grid is a single pen dash drawn in the Name-of-Contributor cell of row 1, which is a nil mark and not a transaction, so zero rows are emitted. No anchor exists to reconcile against: Summary line 1 Column A carries only a long leader stroke ending in an arrowhead (a pen mark, not a numeral - BLANK per the zero-glyph ruling, which admits only a slashed zero, '-0-' or the word zero), line 4 carries a bare dash, and the Schedule A page's SUBTOTAL and TOTAL CONTRIBUTIONS RECEIVED cells are both printed and left empty. Hence result=unknown, never a fabricated 0.00 stated figure."
+    },
+    "expenditures": {
+     "stated": "88.26",
+     "schedule_total": "",
+     "itemized": "88.26",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "The single Schedule B row sums to 88.26 and equals Summary line 2 Column A (88 with superscript cents 26) and Summary line 3 (88.26, the beginning balance). The schedule's own SUBTOTAL FOR THIS PAGE and TOTAL EXPENDITUTRES MADE cells are printed and LEFT BLANK, so there is no schedule grand total to report - the Summary figure is the only anchor and it closes exactly."
+    }
+   },
+   "page_subtotal_gates": "NO page-subtotal gate is available on either side: p3 and p4 both print SUBTOTAL FOR THIS PAGE and the schedule grand-total line, and the filer left ALL FOUR cells empty. The expenditures side therefore gates on Summary line 2 Column A (88.26 = the one row's 88.26); the contributions side has no printed figure at all and is an inspected blank page.",
+   "escalations": 3,
+   "escalation_note": "p2 Summary lines 1-2 both columns at 600 dpi x1 and lines 3-7 Column A at 600 dpi x1 (to decide dash-vs-numeral in every balance cell); p4 row 1 at 1200 dpi x1.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FLAG VERIFIED - the form governs and it contradicts the clerk listing. The chunk file's flag reads \"listing '2016 Summary Report' vs form Final/Dissolution\": the cover's checked box is FINAL / DISSOLUTION REPORT, the Year-End box is NOT checked, and the report should be classified Final/Dissolution. (The filer drew one long diagonal stroke that starts near the Year-End box and ends as the X on the Final/Dissolution box; at 200 dpi full page the Year-End box itself is clearly empty.) Other findings: (a) NEITHER amendment box (Yes/No) is checked - is_amendment honestly blank. (b) Cover Office reads 'County Mayor'; the Office Sought cell is filled in the filer's compressed hand as 'Conty Mgor' and is recorded VERBATIM rather than silently expanded - the Office cell above resolves the office beyond doubt. (c) The cover's address block and the phone/fax/email block are real BLACK REDACTION BARS (redacted at source). (d) The SUMMARY PAGE HEADER BOX IS ENTIRELY BLANK on p2, p3 and p4 - no page number, no last name, no Date of Report on any of the three; the report date comes from the cover signature line (1/31/17) and the RECEIVED stamp (JAN 31 2017). (e) SUPERSCRIPT CENTS throughout: line 2 Column A reads '88' with a raised '26' over a rule, line 3 the same, and both Column B cells read '52,783' with a raised '99'. All are transcribed with a decimal point per the convention. (f) COLUMN B IS IDENTICAL ON BOTH SIDES - 52,783.99 for contributions-to-date AND expenditures-to-date. That is the documented 'Column B is unreliable' property of this corpus (the same $-figure-both-sides case already recorded for another filer); it is kept verbatim and is NOT evidence about either side. (g) Line 1 Column B's cents ('99') are written OUTSIDE the ruled cell, to the right of the table - transcribed as part of the figure. (h) Nothing on this filing marks in-kind."
+  }
+ }
+}

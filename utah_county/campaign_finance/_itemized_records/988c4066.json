@@ -1,0 +1,89 @@
+[{
+ "index_path": "raw/2010/2010_CountyCommissionSeatA-AndersonGaryJ-120210.pdf",
+ "key": "988c4066",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah)",
+ "transcribed_date": "2026-08-18",
+ "pages_read": [1, 2, 3, 4, 5],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4,5",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' contributions ($3,450.00) on the p2 Summary Page line 1, which is also Schedule A's own printed 'Subtotal for this page' ($3,450.00) and its handwritten 'Total Contributions Received' (3450.00)",
+   "detail": "3 Schedule A rows on p3 sum to 500.00 + 2500.00 + 450.00 = 3,450.00 exactly = the schedule's own printed page subtotal AND its printed Total Contributions Received AND the cover's PROMOTED per-period cell (Column A line 1). Column B 'Year-to-Date Total' prints $43,448.25 and is NOT summed as an increment (utah is a per-period regime) — it carries prior 2010 periods this schedule never itemizes. Summary line 4 restates the same 3,450.00 ('From Line 1 Column A'), a second printed instance of the anchor."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' expenditures ($18,691.00) on the p2 Summary Page line 2, which is also both Schedule B pages' printed 'Total Expenditures Received' (p4 handwritten 18,691.00; p5 typed $18,691.00)",
+   "detail": "TWO Schedule B pages, each gated by its OWN printed page subtotal. p4: 17 rows sum to 4000.00+150.00+1946.00+3000.00+700.00+1000.00+371.00+219.00+261.00+364.00+260.00+200.00+465.00+410.00+96.00+84.00+121.00 = 13,647.00 = its printed 'Subtotal for this page' $13,647.00. p5: 6 rows sum to 164.00+111.00+219.00+2800.00+129.00+1621.00 = 5,044.00 = its printed 'Subtotal for this page' $5,044.00. 13,647.00 + 5,044.00 = 18,691.00 = the printed 'Total Expenditures Received' = the cover's promoted Column A cell = Summary line 6. Column B YTD $55,601.11 is retained as cumulative and never summed."
+  }
+ },
+ "in_kind_convention": "not applicable — neither schedule prints an in-kind column, no row is marked in-kind, and the cover prints no separate in-kind line, so the monetary-only and monetary-plus-in-kind conventions give the same sums; both close (3,450.00 / 18,691.00). Tested both before recording.",
+ "escalations": 6,
+ "escalation_note": "6 tight amount-cell crops at 900 dpi, all as the mandatory two-crop geometry proof (first + last transcribed row of each of the three schedule pages); none was an escalation over a doubtful glyph — the page is a TYPED form and every amount was legible at 200 dpi full page.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [81.94, 91.60],
+   "cells": [[7.43, 18.67], [20.14, 52.46], [53.87, 80.47], [81.94, 91.60]],
+   "rows": [[16.88, 20.78], [20.78, 24.67], [24.67, 28.59]],
+   "measure_note": "legacy_colAB Schedule A, UNDERLINE form (no boxed grid): rowbands.py returns 19 rules of which the first two (2.88, 6.16) are the page/candidate header box; the 17 data underlines run 20.78 -> 83.25 at a pitch of 3.9044 (62.47/16). Each data rule carries 4 segments and THOSE ARE THE COLUMN BANDS (Date 7.43-18.67, Name of Contributor 20.14-52.46, Mailing Address 53.87-80.47, Amount 81.94-91.60). THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N]; row 1 has no rule above it and is extrapolated one pitch up from the first detected rule (20.78 - 3.90 = 16.88). TWO-CROP PROOF at 900 dpi: the row-1 box pct:81.94,16.88,9.66,3.90@p3 rendered '$500.00' under the printed 'Amount' header (recorded 500.00 for MHTN) and the row-3 box pct:81.94,24.67,9.66,3.92@p3 rendered '$450.00' (recorded 450.00 for Petro & Nielsen). Not off by one: the row-1 crop contains the header, i.e. it is the topmost data band, and the row-3 crop is bounded by two rules with only 450.00 between them."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [82.64, 92.47],
+   "cells": [[7.31, 18.66], [20.19, 52.80], [54.21, 81.17], [82.64, 92.47]],
+   "rows": [[17.08, 21.01], [21.01, 24.95], [24.95, 28.88], [28.88, 32.78], [32.78, 36.73], [36.73, 40.67], [40.67, 44.61], [44.61, 48.53], [48.53, 52.46], [52.46, 56.38], [56.38, 60.29], [60.29, 64.23], [64.23, 68.14], [68.14, 72.08], [72.08, 75.99], [75.99, 79.93], [79.93, 83.86]],
+   "measure_note": "Same underline grid as p3, Schedule B: 17 data rules 21.01 -> 83.86, pitch 3.9281 (62.85/16), segments give Date 7.31-18.66, Name 20.19-52.80, 'Mailing Address & Zip Code' 54.21-81.17 (the filer used this column for the PURPOSE), Amount 82.64-92.47. Row 1 extrapolated one pitch up from 21.01 to 17.08; all 17 printed rows are filled on this page, so the 17 rules give exactly 17 row bands. TWO-CROP PROOF at 900 dpi: the row-1 box pct:82.64,17.08,9.83,3.93@p4 rendered '$4,000.00' beneath the printed 'Amount' header (recorded 4000.00 for Blue Cattle Truck Trading Company) and the row-17 box pct:82.64,79.93,9.83,3.93@p4 rendered '$121.00' (recorded 121.00 for Olive Garden, the last row above the Subtotal line)."
+  },
+  "5": {
+   "axis": "y",
+   "cell": [82.00, 91.66],
+   "cells": [[7.43, 18.67], [20.20, 52.52], [53.93, 80.59], [82.00, 91.66]],
+   "rows": [[16.98, 20.89], [20.89, 24.79], [24.79, 28.70], [28.70, 32.61], [32.61, 36.51], [36.51, 40.43]],
+   "measure_note": "Same underline grid, Schedule B continuation: 17 data rules 20.89 -> 83.37, pitch 3.9050 (62.48/16); only the first 6 rows carry entries (rows 7-17 are blank ruled lines and are NOT transcribed). Columns from the rule segments: Date 7.43-18.67, Name 20.20-52.52, address column used for PURPOSE 53.93-80.59, Amount 82.00-91.66. Row 1 extrapolated one pitch up from 20.89 to 16.98. TWO-CROP PROOF at 900 dpi: the row-1 box pct:82.0,16.98,9.66,3.91@p5 rendered '$164.00' beneath the 'Amount' header (recorded 164.00 for Happy Sumo) and the row-6 box pct:82.0,36.51,9.66,3.92@p5 rendered '$1,621.00' (recorded 1621.00 for Copies Plus, the last filled row)."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1,
+   "donor_raw": "MHTN", "donor_city": "Salt Lake City",
+   "amount": "500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Date cell LEFT EMPTY BY THE FILER (the ruled Date column is blank on all three rows; not redacted) — date honestly blank. The address column printed an UNREDACTED street address plus the city; PRIVACY: only the city is carried, the street is deliberately not recorded. No state is printed anywhere in the cell, so donor_state is honestly blank (not inferred)."},
+  {"line_no": "2", "page": 3, "row": 2,
+   "donor_raw": "Drew Downs", "donor_city": "Lehi",
+   "amount": "2500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Date cell left empty by the filer. Address column unredacted by the county; street deliberately not carried, city only. No state printed."},
+  {"line_no": "3", "page": 3, "row": 3,
+   "donor_raw": "Petro & Nielsen", "donor_city": "Provo",
+   "amount": "450.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Date cell left empty by the filer. Address column unredacted by the county; street deliberately not carried, city only. No state printed."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "vendor_raw": "Blue Cattle Truck Trading Company", "purpose": "Loan repayment", "amount": "4000.00", "in_kind": false, "confidence": "medium", "verified": 1, "note": "Schedule B on this legacy form prints the same header as Schedule A ('Name of Contributor' / 'Mailing Address & Zip Code'); this filer typed the PURPOSE into the address column on every row, so purpose is read from there and no address exists to withhold. Date column blank on every Schedule B row."},
+  {"line_no": "2", "page": 4, "row": 2, "vendor_raw": "OfficeMax", "purpose": "Supplies", "amount": "150.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "3", "page": 4, "row": 3, "vendor_raw": "Copies Plus", "purpose": "Printing", "amount": "1946.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "4", "page": 4, "row": 4, "vendor_raw": "Anderson Family Org.", "purpose": "Loan repayment", "amount": "3000.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "5", "page": 4, "row": 5, "vendor_raw": "Fairways Graphics", "purpose": "Design", "amount": "700.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "6", "page": 4, "row": 6, "vendor_raw": "Zak Anderson", "purpose": "Loan repayment", "amount": "1000.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "7", "page": 4, "row": 7, "vendor_raw": "FlexTech", "purpose": "Labels", "amount": "371.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "8", "page": 4, "row": 8, "vendor_raw": "IFA", "purpose": "sign poles", "amount": "219.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "9", "page": 4, "row": 9, "vendor_raw": "Molly Anderson", "purpose": "Reimburse for supplies", "amount": "261.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "10", "page": 4, "row": 10, "vendor_raw": "Home Depot", "purpose": "Sign supplies", "amount": "364.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "11", "page": 4, "row": 11, "vendor_raw": "Lowe's", "purpose": "Fencepost, pounder, stakes", "amount": "260.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "12", "page": 4, "row": 12, "vendor_raw": "Linda Housekeeper", "purpose": "Firetruck rental", "amount": "200.00", "in_kind": false, "confidence": "medium", "verified": 1, "note": "vendor name transcribed exactly as typed; 'Housekeeper' is printed as a surname, not a job description"},
+  {"line_no": "13", "page": 4, "row": 13, "vendor_raw": "Fast Signs", "purpose": "Signs", "amount": "465.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "14", "page": 4, "row": 14, "vendor_raw": "R D Screen Design", "purpose": "Graphic design", "amount": "410.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "15", "page": 4, "row": 15, "vendor_raw": "Magleby's", "purpose": "Campaign Meeting", "amount": "96.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "16", "page": 4, "row": 16, "vendor_raw": "La Casita", "purpose": "Campaign Meeting", "amount": "84.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "17", "page": 4, "row": 17, "vendor_raw": "Olive Garden", "purpose": "Campaign Meeting", "amount": "121.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "18", "page": 5, "row": 1, "vendor_raw": "Happy Sumo", "purpose": "Campaign Meeting", "amount": "164.00", "in_kind": false, "confidence": "medium", "verified": 1, "note": "first row of the second Schedule B page; line numbering continues across the two pages (the form prints no line numbers)"},
+  {"line_no": "19", "page": 5, "row": 2, "vendor_raw": "Allen's", "purpose": "Meeting Supplies", "amount": "111.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "20", "page": 5, "row": 3, "vendor_raw": "Clyde Co.", "purpose": "Rebar", "amount": "219.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "21", "page": 5, "row": 4, "vendor_raw": "Mr. Shepherd", "purpose": "Trailer rental for signs", "amount": "2800.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "22", "page": 5, "row": 5, "vendor_raw": "Sunroc", "purpose": "Drill", "amount": "129.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "23", "page": 5, "row": 6, "vendor_raw": "Copies Plus", "purpose": "Printing", "amount": "1621.00", "in_kind": false, "confidence": "medium", "verified": 1, "note": "same vendor as p4 line 3, a second payment in the same period; kept as its own row"}
+ ],
+ "notes": "PAGE-FACE CANDIDATE: 'Gary J. Anderson', Republican, Office Seeking 'County Commissioner' (NO SEAT LETTER PRINTED ON THE PAGE) — index.csv names NO candidate for this row and carries office 'County Commission Seat A' from the channel's own directory path. The seat is not inferred here; the page face is the name. 5 pages, each classified from its own printed header: p1 cover ('30 Days after the General Election' checked, signature dated 12/2/10, 'Is this report an amendment?' = No, clerk date-received stamp 'DEC 2 AM 8:47'), p2 SUMMARY PAGE (its own 'Page 2 of 5' box), p3 Schedule A, p4 Schedule B, p5 Schedule B continuation ('Page 5 of 5'). The whole filing is a TYPED form (an unusual specimen in this 93%-handwritten corpus) with only the report dates, the p4 page number and the p4 'Total Expenditures Received' figure in hand. Both sides close EXACTLY on the promoted per-period Column A cells and each Schedule B page independently closes on its own printed subtotal. ONE DOCUMENT ODDITY, retained not adjudicated: Summary line 7 'Balance at Close' prints a typed $0.00 in the cell AND a handwritten '(-$12,152.86)' in the margin beside it; line 5 minus line 6 is 6,538.14 - 18,691.00 = -12,152.86, so the handwritten figure is the formula's own answer and the typed 0.00 is the filer's floor. Both are already recorded verbatim by the 2026-08-01 cover tranche; nothing was recomputed here and neither figure gates an itemized side. PRIVACY: this filing was published UNREDACTED (donor street addresses are legible on p3) — only donor city was carried, per the frozen rule, and no street appears anywhere in this record."
+}]

@@ -1,0 +1,289 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2017-05-26",
+   "donor_raw": "MARY STOKES",
+   "occupation": "HomeMaker",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.68,23.32,86.58,4.00@p3",
+   "note": "date written '5/26/17'. Address cells redacted at source (county black bar spans the whole Complete Mailing Address column) - donor_city/donor_state honestly blank. Occupation written in the filer's mixed-case hand as 'HoMeMaKer'; re-read at 600 dpi, the second glyph is an o - recorded as HomeMaker."
+  },
+  {
+   "line_no": 2,
+   "date": "2017-05-26",
+   "donor_raw": "CATHERINE KANTER",
+   "occupation": "Community Organizer",
+   "amount": "50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:8.68,27.32,86.58,4.00@p3",
+   "note": "date written '5/26/17'. Address redacted at source. Occupation written 'CommuNityOrganizer' as one run."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2017-01-19",
+   "vendor_raw": "HOLLADAY City",
+   "purpose": "UPD BENEFIT SPONSORSHIP",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.21,24.73,78.64,4.00@p4",
+   "note": "date written '1-19-17'. Purpose runs onto a second line inside the cell ('UPD BENEFIT' / 'SPONSORSHIP')."
+  },
+  {
+   "line_no": 2,
+   "date": "2017-04-05",
+   "vendor_raw": "SLCO Democratic Party",
+   "purpose": "SPONSORSHIP",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.21,28.73,78.64,4.00@p4",
+   "note": "date written '4-5-17'."
+  },
+  {
+   "line_no": 3,
+   "date": "2017-03-29",
+   "vendor_raw": "Cox FOR Council",
+   "purpose": "Campaign Contribution",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.21,32.73,78.64,4.00@p4",
+   "note": "date written '3-29-17'."
+  },
+  {
+   "line_no": 4,
+   "date": "2017-05-03",
+   "vendor_raw": "TARGET Group",
+   "purpose": "Consulting",
+   "amount": "5,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.21,36.73,78.64,4.00@p4",
+   "note": "date written '5-3-17'."
+  },
+  {
+   "line_no": 5,
+   "date": "2017-05-11",
+   "vendor_raw": "HABITAT FOR HUMANITY",
+   "purpose": "CONTRIBUTION",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.21,40.73,78.64,4.00@p4",
+   "note": "date written '5-11-17'."
+  },
+  {
+   "line_no": 6,
+   "date": "2017-06-19",
+   "vendor_raw": "Re-elect Larry Johnson",
+   "purpose": "Campaign Contribution",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.21,44.73,78.64,4.00@p4",
+   "note": "date written '6-19.17'. Surname re-read at 600 dpi and the glyph string is 'JoHNSSoN' - it is either Johnson or Johnsson in the filer's hand; recorded as Johnson at medium confidence, the doubled-s reading is recorded here rather than resolved."
+  },
+  {
+   "line_no": 7,
+   "date": "2017-05-24",
+   "vendor_raw": "Re-elect Jackie Biskupski",
+   "purpose": "Campaign Contribution",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.21,48.73,78.64,4.00@p4",
+   "note": "date written '5-24-17'. Purpose cell holds a ditto mark (\") under row 6 - resolved to 'Campaign Contribution'."
+  },
+  {
+   "line_no": 8,
+   "date": "2017-09-11",
+   "vendor_raw": "Malieh Free Clinic",
+   "purpose": "CONTRIBUTION",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.21,52.73,78.64,4.02@p4",
+   "note": "date written '9-11-17'. Written as one run 'MaliehFreeClinic'; kept verbatim as spelled by the filer (the SLC clinic spells its name Maliheh) - not corrected."
+  },
+  {
+   "line_no": 9,
+   "date": "2017-10-02",
+   "vendor_raw": "USHOFF",
+   "purpose": "SPONSORSHIP",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.21,56.75,78.64,4.02@p4",
+   "note": "date written '10-2-17'. Recipient re-read at 600 dpi: the cell holds exactly the six capitals USHOFF and nothing else - recorded verbatim, not expanded."
+  },
+  {
+   "line_no": 10,
+   "date": "2017-10-14",
+   "vendor_raw": "KINDRED FOR Mayor",
+   "purpose": "Campaign Cont.",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.21,60.77,78.64,4.00@p4",
+   "note": "date written '10-14-17'."
+  },
+  {
+   "line_no": 11,
+   "date": "2017-10-11",
+   "vendor_raw": "Fowler For City Council",
+   "purpose": "Campaign Cont.",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.21,64.77,78.64,4.00@p4",
+   "note": "date written '10-11-17' and is OUT OF ORDER (earlier than row 10) - kept verbatim. Purpose cell holds a ditto mark (\") under row 10 - resolved to 'Campaign Cont.'."
+  }
+ ],
+ "total_contributions": "550",
+ "total_expenditures": "10,250",
+ "beginning_balance": "26,484.36",
+ "ending_balance": "16,784.36",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "27,034.36"
+ },
+ "cover": {
+  "candidate": "SAMUEL F. GRANATO",
+  "party": "D",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-30-18",
+  "form_year": "2017"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high",
+  "candidate": "high",
+  "office_sought": "high",
+  "district_number": "high",
+  "report_type": "high",
+  "report_date": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/sam-granato_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Samuel F. Granato",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/sam-granato_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Chunk file's prior reading (candidate 'Samuel F. Granato', office 'County Council', seat 'District 4', date 2018-01-30, Year-End) is CONFIRMED at the form on every field. The cover's top-row 'Office' cell reads 'County Council' with '#4' written above it; the separate 'Office Sought' cell also reads 'County Council' with District Number '4' - the two office cells agree, so no substitution was needed. NEITHER amendment box (Yes / No) is ticked - is_amendment is honestly blank, not 'No'. Column B (Aggregate Total) is left entirely blank by the filer on both money lines. Filer writes whole dollars with no cents on lines 1, 2 and 6 and on every schedule amount; cents appear only on the balance lines. Schedule A prints an Occupation/Employer column and the filer filled it on both rows. The county's redaction bar covers the Complete Mailing Address column on p3 (both rows) and the cover's street/phone/fax/email blocks - donor city/state are therefore honestly blank with 'redacted at source' on each row.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "550",
+     "schedule_total": "550",
+     "itemized": "550.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "2 rows sum to 550.00 = the p3 printed SUBTOTAL FOR THIS PAGE (550) = the printed TOTAL CONTRIBUTIONS RECEIVED (550) = Summary line 1 Column A (550). All three printed anchors agree and share the same scope (per-period); no in-kind marker anywhere on the page, so no schedule-total-vs-summary-gap."
+    },
+    "expenditures": {
+     "stated": "10,250",
+     "schedule_total": "10,250",
+     "itemized": "10,250.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "11 rows sum to 10,250.00 = the p4 printed SUBTOTAL FOR THIS PAGE (10,250) = the printed TOTAL EXPENDITUTRES MADE (10,250) = Summary line 2 Column A (10,250) = Summary line 6. No in-kind marker on the page."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 550.00 = printed subtotal 550 (and printed schedule total 550); p4 rows 10,250.00 = printed subtotal 10,250 (and printed schedule total 10,250). Both pages gate exactly.",
+   "escalations": 4,
+   "escalation_note": "p3 Occupation/Employer cell row 1 at 600 dpi tight crop; p4 Name of Recipient rows 5-8 band at 600 dpi; p4 Name of Recipient row 9 (USHOFF) at 600 dpi; p1 'Is this report an amendment?' checkbox pair at 600 dpi (confirmed BOTH Yes and No unchecked).",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 11,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Chunk file's prior reading (candidate 'Samuel F. Granato', office 'County Council', seat 'District 4', date 2018-01-30, Year-End) is CONFIRMED at the form on every field. The cover's top-row 'Office' cell reads 'County Council' with '#4' written above it; the separate 'Office Sought' cell also reads 'County Council' with District Number '4' - the two office cells agree, so no substitution was needed. NEITHER amendment box (Yes / No) is ticked - is_amendment is honestly blank, not 'No'. Column B (Aggregate Total) is left entirely blank by the filer on both money lines. Filer writes whole dollars with no cents on lines 1, 2 and 6 and on every schedule amount; cents appear only on the balance lines. Schedule A prints an Occupation/Employer column and the filer filled it on both rows. The county's redaction bar covers the Complete Mailing Address column on p3 (both rows) and the cover's street/phone/fax/email blocks - donor city/state are therefore honestly blank with 'redacted at source' on each row."
+  }
+ }
+}

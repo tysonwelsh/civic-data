@@ -1,0 +1,260 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2024-04-30",
+   "donor_raw": "Nolan Kruse",
+   "amount": "81.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.56,20.84,90.32,3.89@p3",
+   "note": "address redacted at source; occupation cell left empty by filer"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-05-01",
+   "donor_raw": "Nolan Kruse",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.56,24.73,90.32,3.89@p3",
+   "note": "address redacted at source; occupation cell left empty by filer"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-05-03",
+   "donor_raw": "Adam Teuscher",
+   "amount": "21.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.56,28.61,90.32,3.93@p3",
+   "note": "address redacted at source; occupation cell left empty by filer"
+  },
+  {
+   "line_no": 4,
+   "date": "2024-05-03",
+   "donor_raw": "David Hinckley",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.56,32.55,90.32,3.91@p3",
+   "note": "address redacted at source; occupation cell left empty by filer"
+  },
+  {
+   "line_no": 5,
+   "date": "2024-05-15",
+   "donor_raw": "Laura Johnson",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.56,36.45,90.32,3.91@p3",
+   "note": "address redacted at source; occupation cell left empty by filer"
+  },
+  {
+   "line_no": 6,
+   "date": "2024-05-29",
+   "donor_raw": "Susan Kruse",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.56,40.36,90.32,3.89@p3",
+   "note": "address redacted at source; occupation cell left empty by filer"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-04-30",
+   "vendor_raw": "Nolan Kruse",
+   "purpose": "Wix Domain",
+   "amount": "17.35",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.00,22.18,73.13,3.93@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-04-30",
+   "vendor_raw": "Nolan Kruse",
+   "purpose": "Wix Premium",
+   "amount": "38.79",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.00,26.11,73.13,3.91@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-04-30",
+   "vendor_raw": "Nolan Kruse",
+   "purpose": "Good Party Pro",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.00,30.02,73.13,3.89@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2024-05-01",
+   "vendor_raw": "Nolan Kruse",
+   "purpose": "Google Business Email",
+   "amount": "7.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.00,33.91,73.13,3.89@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2024-05-30",
+   "vendor_raw": "Nolan Kruse",
+   "purpose": "Wix Premium",
+   "amount": "38.79",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.00,37.80,73.13,3.95@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2024-06-01",
+   "vendor_raw": "Nolan Kruse",
+   "purpose": "Wix Domain",
+   "amount": "7.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.00,41.75,73.13,3.91@p4"
+  }
+ ],
+ "total_contributions": "182.40",
+ "total_expenditures": "120.43",
+ "beginning_balance": "0.00",
+ "ending_balance": "61.97",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "182.40"
+ },
+ "cover": {
+  "candidate": "Nolan Kruse",
+  "party": "Utah Forward Party",
+  "office_sought": "County Council District",
+  "district_number": "4",
+  "report_type": "Seven days before a primary election (interim)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2024-06-18",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Kruse-Nolan__1A330CE1.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kruse, Nolan",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Kruse-Nolan__1A330CE1.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Form titled '2020 Financial Disclosure Report For a Candidate' filed for the 2024 cycle (form_year verbatim 2020, NOT the cycle). Cover 'Office' cell empty; 'Office Sought' reads 'County Council District' with District Number 4 - the chunk file's seat was blank; page governs. E-signed 06/18/24 9:05 AM. Column B (Aggregate Total) prints $0.00 on lines 1 and 2, recorded verbatim. Schedule A: Complete Mailing Address column bar-redacted across all 6 rows (city/state/ZIP all under the bar); Occupation/Employer column left empty by the filer (not redacted). Schedule B: every recipient is the candidate himself (self-reimbursement pattern, per audit prior).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "182.40",
+     "schedule_total": "182.40",
+     "itemized": "182.40",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "6 rows sum 182.40 = printed SUBTOTAL 182.40 = TOTAL 182.40 = Summary line 1 Column A $182.40"
+    },
+    "expenditures": {
+     "stated": "120.43",
+     "schedule_total": "120.43",
+     "itemized": "120.43",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "6 rows sum 120.43 = printed SUBTOTAL 120.43 = TOTAL 120.43 = Summary line 2 Column A $120.43"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 182.40 = printed subtotal 182.40; p4 rows 120.43 = printed subtotal 120.43",
+   "escalations": 5,
+   "escalation_note": "p3 rows 1-3 and 4-6 re-read in two 400dpi crops; p4 rows 1-3 and 4-6 re-read in two 400dpi crops plus a 400dpi amount-column crop (first p4 crops clipped the amount column); all read identically",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Form titled '2020 Financial Disclosure Report For a Candidate' filed for the 2024 cycle (form_year verbatim 2020, NOT the cycle). Cover 'Office' cell empty; 'Office Sought' reads 'County Council District' with District Number 4 - the chunk file's seat was blank; page governs. E-signed 06/18/24 9:05 AM. Column B (Aggregate Total) prints $0.00 on lines 1 and 2, recorded verbatim. Schedule A: Complete Mailing Address column bar-redacted across all 6 rows (city/state/ZIP all under the bar); Occupation/Employer column left empty by the filer (not redacted). Schedule B: every recipient is the candidate himself (self-reimbursement pattern, per audit prior)."
+  }
+ }
+}

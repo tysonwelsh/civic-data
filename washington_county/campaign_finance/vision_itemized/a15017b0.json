@@ -1,0 +1,109 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W10.json",
+ "key": "a15017b0",
+ "index_path": "raw/wayback_forms2020/Commission C_Slade Hughes_June 23 2020_04-20-2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Commission C_Slade Hughes_June 23 2020_04-20-2020.pdf"
+ ],
+ "sha256_prefix": "f2fef49c0c63fd6e",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "571",
+    "cover_over50_cum": "571",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": "571"
+   },
+   "itemized": "571",
+   "basis": "schedule-total==cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row, 571. Form A's printed TOTAL reads 571 and equals BOTH cover line-1 THIS (571) and CUMULATIVE (571); the 'Totals from Last Report' column is blank on every line, so this is the filer's first report of the cycle and the two scopes coincide. Cover line 2 (aggregate of $50.00 or less) is blank in all three columns, so line1 alone is the correct anchor and there is no small-donor residue."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "571",
+    "cover_expense_cum": "571",
+    "schedule_total": "571"
+   },
+   "itemized": "571",
+   "basis": "schedule-total==cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row, 571. Form B printed TOTAL 571 = cover line-3 THIS = cover line-3 CUMULATIVE (first report of cycle, scopes coincide)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows sum 571 = printed TOTAL CONTRIBUTIONS 571 (exact); p3 rows sum 571 = printed TOTAL EXPENDITURES 571 (exact). Both totals re-read in 600 dpi crops of the footer cell.",
+  "row_count": "rowbands.py p2 reports 13 usable bands (the scan is wavy, so rule detection drops the upper grid — 'gaps' status, not an oracle); ink counted by eye on the 200 dpi page = exactly 1 written row, the rest of the ~40-row grid empty. p3 rowbands 21 bands, 1 inked row by eye. 1 row emitted per side.",
+  "geometry_proof": "p2: crop pct:72.33,13.20,11.16,2.00 renders '$ 571' (row 1 amount); control one pitch below (y 15.20%) renders an empty ruled cell with only the printed '$'. p3: crop pct:71.43,14.30,12.00,2.00 renders '$ 571'; control one pitch below renders empty. Both pass.",
+  "balance_chain": "Cover line 4 (balance at end of period) CUMULATIVE cell holds a single written zero glyph; 0 + 571 - 571 = 0 closes exactly."
+ },
+ "escalations": 6,
+ "escalation_note": "600-900 dpi cell crops: p2 amount cell, p2 TOTAL footer, p2 name+address band, p3 amount cell, p3 TOTAL footer, p3 vendor and purpose cells; plus a 400 dpi crop of the cover money grid.",
+ "notes": "index.csv/chunk file call this Slade Rudy Hughes, Commission Seat C, 2020 — the cover's 'Full Name of Candidate' reads 'Slade Rudy Hughes' and 'Office' reads 'County Commission Seat C'; agrees. Certification period 3-19-2020 to 4-20-2020, signed 4-20-2020. Both schedule rows are the candidate self-funding the filing fee. Form A's Mailing Address cell holds ONLY a ZIP (no city/state), so donor_city/donor_state are honestly blank and the ZIP is discarded at read time per privacy. The Gen-2 'In Kind?' column exists on Form A and the filer left it EMPTY — a blank is not an 'N', recorded as in_kind:false with the blank noted. Scan is a CamScanner capture with pronounced page waviness (rules bow ~2% across the width); geometry boxes were proved by crop rather than trusted from rowbands.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-19",
+   "donor_raw": "Slade Hughs",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "571",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.33,13.20,11.16,2.00@p2",
+   "note": "Date written '3-19-20'; year expanded to 2020 from the printed two-digit form and confirmed by the certification period. Donor is the candidate himself (self-contribution); handwriting reads 'Slade Hughs' (index spells the candidate 'Slade Rudy Hughes') - kept verbatim. Address cell contains only the ZIP '[street address discarded at read time per PRIVACY.md]' - discarded at read time, no city/state on the form. 'In Kind?' cell left blank by the filer (blank, not 'N')."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-19",
+   "vendor_raw": "Selfe",
+   "purpose": "Filing Fee",
+   "amount": "571",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.43,14.30,12.00,2.00@p3",
+   "note": "Vendor cell reads 'Selfe' at 600 dpi (almost certainly 'Self' with a trailing flourish) - kept verbatim. Purpose glyphs read 'Filin Fee'/'Fiin Ree'; read as 'Filing Fee' at medium confidence. Date '3-19-20'. Form B on this generation has NO in-kind column, so in_kind is false by absence of the field, not by an answered 'N'."
+  }
+ ]
+}

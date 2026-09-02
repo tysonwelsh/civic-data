@@ -3,7 +3,10 @@
  "key": "bcb6f2af",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:04:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2012 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,52 @@
    "notes": "Handwritten block capitals. A ZERO REPORT: all nine summary cells carry the filer's hand-drawn oval zero (written zeros, not blanks). Office Seeking is written with the seat letter in quotation marks - 'COUNTY COMMISSION \"C\"' - transcribed verbatim including the quotes; it agrees with office_index 'County Commission Seat C'. The cover's field layout is scrambled by the filer: he wrote the CITY ('SALEM') on the City label line above the address row and put his phone number in the middle of the Street Address row, and a stray 'C' sits in the Fax Number cell. residence_city 'SALEM' is taken from the City label where he wrote it. AMENDMENT: 'No' is checked. Type of Report: '30 Days after the General Election' is the only checked box. Names differ slightly between blocks on this same page - cover 'LARRY L. BALLARD', verification 'LARRY LEE BALLARD'; both recorded here, candidate_printed uses the cover. candidate_index was blank. Page box reads 'Page 1 of 3'."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r2_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED on the p2 Summary Page, a handwritten oval ZERO (read 0 under the repo zero-glyph ruling), corroborated by summary line 4 'Total Contributions Received (From Line 1 Column A)', also an oval zero. Schedule A's own two footer lines are BOTH BLANK here, so the cover is the only printed anchor.",
+     "detail": "Schedule A (p3) carries NO entries. The only handwriting anywhere on the ruled grid is a single large 'N/A' scrawled diagonally across the Name-of-Contributor column over bands 2-3, with no date, no address and no amount beside it. Under the frozen contract that is an ANNOTATION, not an entry - and specifically 'N/A' is on the nil-mark list that stays BLANK, never a numeral - so the honest state is empty-schedule with ZERO rows, not a row with a blank amount. A 900 dpi crop of the footer (pct:70,84.0,26,10@p3) RENDERED the printed labels 'Subtotal for this page $' and 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $' over two EMPTY rules - the filer wrote nothing on either. So: 0 rows = 0.00 = the cover's Column A oval zero = summary line 4. Column B Year-to-Date is likewise an oval zero and is never summed as an increment."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 2 TOTAL EXPENDITURES MADE on the p2 Summary Page, a handwritten oval ZERO (read 0 under the repo zero-glyph ruling), corroborated by summary line 6 'Total Expenditures Made (From Line 2 Column A)', also an oval zero. Schedule B's own two footer lines are BOTH BLANK.",
+     "detail": "Schedule B (p4) carries NO entries. As on Schedule A the only handwriting on the grid is a single large 'N/A' scrawled across the payee column, here over bands 4-5 - an annotation, not an entry, and a nil mark that never becomes a numeral. A 900 dpi crop of the footer (pct:70,84.0,26,10@p4) RENDERED 'Subtotal for this page $' and 'Total Expenditures Received (Sum of subtotals from all Schedule B pages) $' over two EMPTY rules. So: 0 rows = 0.00 = the cover's Column A line 2 oval zero = summary line 6. Column B YTD is an oval zero and is not summed."
+    }
+   },
+   "in_kind_convention": "not applicable - both schedules are empty and this form prints no in-kind column or line anywhere. Both the monetary-only and the monetary-plus-in-kind conventions give 0.00, which is what every printed anchor states.",
+   "escalations": 2,
+   "escalation_note": "Two 900 dpi footer crops (p3 and p4) to settle whether the printed 'Subtotal for this page' / 'Total ... Received' lines carry a figure or a nil glyph. Both pages: both lines genuinely blank. The 'N/A' scrawls themselves were legible at 200 dpi and needed no escalation.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Page-face candidate 'LARRY L. BALLARD' (verification block 'LARRY LEE BALLARD'), Political Party 'CONSTITUTION', Office Seeking written 'COUNTY COMMISSION \"C\"' - the filer's third different rendering of the same office in one cycle (8/30/12 'COUNTY COMMISSION SEAT C'; 10/29/12 'UTAH COUNTY COMMISSION SEAT C'; 12/4/12 'COUNTY COMMISSION \"C\"'). All three agree on seat C and with index.csv, which names no candidate for this row (channel label 'Ballard - 12/04/12'), so the page face supplies the name. Report type: '30 Days after the General Election' ticked. Amendment: 'No' ticked. Signed and dated 12/4/12; clerk stamp DEC 4 PM 12:23. Note a cover-block oddity: the filer wrote his PHONE NUMBER in the Street-Address row's City slot and put SALEM up on the City label line, so the cover's address block is shifted one field - transcribed as observed, and no street line or phone number is carried into this record (PRIVACY). FOLIATION: the summary page is foliated 'Page 1 of 3' here, against 'Page 1 of 2' (8/30/12) and 'Page 1 of 1' (10/29/12) - three foliations across one filer's three filings in one cycle, and on all three the schedule sheets' own Page-of blocks are left blank. The summary page was located by its printed 'SUMMARY PAGE' heading. A ZERO REPORT: all nine summary cells are the filer's hand-drawn oval zeros; the ladder is internally exact (0 + 0 - 0 = 0). SOURCE PROPERTY WORTH CARRYING FORWARD: this filer uses THREE DIFFERENT NIL NOTATIONS across his own cycle - an oval zero written on the schedule's 'Total ... Received' line (8/30/12), everything left blank (10/29/12), and a large 'N/A' scrawled across the schedule grid (12/4/12). Under the repo rules the first is a ZERO GLYPH and the other two are not numerals, but all three describe the same fact (no entries), and in every case the cover's Column A is what gates the side."
+  }
+ }
 }

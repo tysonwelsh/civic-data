@@ -1,0 +1,2238 @@
+[
+ {
+  "index_path": "raw/2018/2018_CA.Leavitt.pdf",
+  "key": "6cae312c",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r6_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "itemized_pages_A": "3,4,5,6",
+  "itemized_pages_B": "8,9",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (81,992) on the p2 SUMMARY PAGE, echoed at summary line 4 ('From Line 1 Column A') and line 5 (Subtotal) as 81,992; Schedule A's own printed 'Total Contributions Received' line is BLANK on all four sheets, so the cover cell plus the three filled page subtotals are the anchors",
+    "detail": "62 Schedule A rows over four sheets sum to 81,992.00 EXACTLY = the cover's PROMOTED PER-PERIOD cell, Column A. Page by page against the printed 'Subtotal for this page': p3 17 rows = 14,467 = printed 14,467; p4 17 rows = 32,750 = printed 32,750; p5 17 rows = 4,775 = printed 4,775; p6 11 rows = 30,000, where the filer wrote '30,000' in the AMOUNT cell of the last grid row (band 17) and left the printed 'Subtotal for this page' line BLANK - the arithmetic identifies it as the page subtotal, not a twelfth entry (as an entry it would double the page to 60,000 and break the cover by 30,000). 14,467 + 32,750 + 4,775 + 30,000 = 81,992. Column B 'Year-to-Date Total' is ENTIRELY BLANK on both lines 1 and 2 - the filer left those cells empty, an honest blank, and nothing was synthesized from it. The cover ladder closes independently: line 3 = 0.00, line 4 = 81,992, line 5 = 81,992, line 6 = 76,291.12, line 7 = 5,700.88, and 81,992 - 76,291.12 = 5,700.88 exactly - note this is a WHOLE-DOLLAR contributions figure over a cents-bearing expenditure figure and the residue lands correctly on line 7, so ADDENDUM E5's rounding-residue case does NOT arise here."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (76,291.12) on the p2 SUMMARY PAGE, which is also the printed 'Subtotal for this page' on the county SCHEDULE B sheet (p7) and the printed 'TOTAL EXPENDITURES THROUGH 6/16/2018 $76,291.12' at the foot of the filer's own attached ledger (p9), and summary line 6",
+    "detail": "54 rows on the filer's own typed attached ledger sum to 76,291.12 EXACTLY: p8's 33 rows sum to 46,989.56 and p9's 21 rows to 29,301.56, and 46,989.56 + 29,301.56 = 76,291.12 = the ledger's own printed TOTAL = the county Schedule B sheet's printed 'Subtotal for this page' 76,291.12 = the cover's PROMOTED PER-PERIOD cell, Column A = summary line 6. Column B YTD is blank and is never summed. Neither attached sheet prints a per-sheet subtotal, so the per-page figures above are this transcription's arithmetic and the gate is the ledger's single printed total, which the rows reproduce to the cent."
+   }
+  },
+  "in_kind_convention": "not applicable, and TESTED BOTH WAYS on both sides as ADDENDUM G1 requires: no row on Schedule A is marked in-kind, the summary page prints no in-kind line, and the filer's own expenditure ledger has a Classification column with no in-kind category. Monetary-only and monetary-plus-in-kind therefore give the identical sum on each side, and both close - contributions at 81,992.00 and expenditures at 76,291.12.",
+  "escalations": 29,
+  "escalation_note": "No FIGURE needed correcting on this filing; every amount reproduced its full-page reading. The escalations were spent on (a) the twelve geometry control crops (first row, last row and one-past-the-end on each of pp3,4,5,6 plus the two rotated ledger sheets), (b) the band-5/band-6/band-7 crops on p6 that proved the CONTINUATION LINE consumes printed row 6 and shifts every row index below it, (c) a full-width p6 footer crop that showed bands 13-16 empty and located the '30,000' inside band 17's amount cell with the printed Subtotal line blank, and (d) seven donor-name cells at 900-1800 dpi. Two names remain genuinely doubtful and are flagged rather than guessed: line 9's surname (confidence low) and line 12's 'Weltmann'.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     81.99,
+     91.88
+    ],
+    "cells": [
+     [
+      6.17,
+      17.64
+     ],
+     [
+      19.11,
+      51.99
+     ],
+     [
+      53.46,
+      80.52
+     ],
+     [
+      81.99,
+      91.88
+     ]
+    ],
+    "rows": [
+     [
+      17.33,
+      21.27
+     ],
+     [
+      21.27,
+      25.23
+     ],
+     [
+      25.23,
+      29.18
+     ],
+     [
+      29.18,
+      33.09
+     ],
+     [
+      33.09,
+      37.05
+     ],
+     [
+      37.05,
+      41.0
+     ],
+     [
+      41.0,
+      44.96
+     ],
+     [
+      44.96,
+      48.86
+     ],
+     [
+      48.86,
+      52.82
+     ],
+     [
+      52.82,
+      56.75
+     ],
+     [
+      56.75,
+      60.68
+     ],
+     [
+      60.68,
+      64.61
+     ],
+     [
+      64.61,
+      68.57
+     ],
+     [
+      68.57,
+      72.52
+     ],
+     [
+      72.52,
+      76.46
+     ],
+     [
+      76.46,
+      80.41
+     ],
+     [
+      80.41,
+      84.34
+     ]
+    ],
+    "measure_note": "legacy_colAB SCHEDULE A, underline form: rowbands.py returns 17 per-column rules 21.27->84.34 (4 segments each = Date / Name of Contributor / Mailing Address & Zip Code / Amount) at a regular pitch of 3.942. Text sits ABOVE its rule, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch above rule 1: 17 printed rules = 17 usable lines and this filer used all 17. TWO-CROP PROOF at 900 dpi: row 1 pct:81.99,17.33,9.89,3.94@p3 rendered the printed 'Amount' header over '100.00' (recorded 100.00, Laura Ashton - so the filer did NOT skip line 1, the ADDENDUM A1 control) and row 17 pct:81.99,80.41,9.89,3.93@p3 rendered '300' (recorded 300.00). ONE-PAST-THE-END control pct:81.99,84.34,9.89,3.94@p3 rendered '14,467' - the PRINTED page subtotal in the footer band, not an 18th row (trap F1.5 ruled out)."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     81.99,
+     91.88
+    ],
+    "cells": [
+     [
+      6.17,
+      17.64
+     ],
+     [
+      19.11,
+      51.99
+     ],
+     [
+      53.46,
+      80.52
+     ],
+     [
+      81.99,
+      91.88
+     ]
+    ],
+    "rows": [
+     [
+      17.29,
+      21.23
+     ],
+     [
+      21.23,
+      25.18
+     ],
+     [
+      25.18,
+      29.14
+     ],
+     [
+      29.14,
+      33.07
+     ],
+     [
+      33.07,
+      37.0
+     ],
+     [
+      37.0,
+      40.96
+     ],
+     [
+      40.96,
+      44.91
+     ],
+     [
+      44.91,
+      48.84
+     ],
+     [
+      48.84,
+      52.77
+     ],
+     [
+      52.77,
+      56.73
+     ],
+     [
+      56.73,
+      60.64
+     ],
+     [
+      60.64,
+      64.59
+     ],
+     [
+      64.59,
+      68.52
+     ],
+     [
+      68.52,
+      72.48
+     ],
+     [
+      72.48,
+      76.43
+     ],
+     [
+      76.43,
+      80.36
+     ],
+     [
+      80.36,
+      84.32
+     ]
+    ],
+    "measure_note": "Same grid, 17 detected rules 21.23->84.32, pitch 3.943. TWO-CROP PROOF at 900 dpi: row 1 pct:81.99,17.29,9.89,3.94@p4 rendered '1,500' (recorded 1500.00, Vladimir Semek) and row 17 pct:81.99,80.36,9.89,3.96@p4 rendered '1000' (recorded 1000.00, Doris Judd). ONE-PAST control pct:81.99,84.32,9.89,3.94@p4 rendered the printed subtotal '32,75...' - no extra row."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     81.99,
+     91.82
+    ],
+    "cells": [
+     [
+      6.11,
+      17.58
+     ],
+     [
+      19.05,
+      51.93
+     ],
+     [
+      53.41,
+      80.52
+     ],
+     [
+      81.99,
+      91.82
+     ]
+    ],
+    "rows": [
+     [
+      17.16,
+      21.11
+     ],
+     [
+      21.11,
+      25.07
+     ],
+     [
+      25.07,
+      29.0
+     ],
+     [
+      29.0,
+      32.98
+     ],
+     [
+      32.98,
+      36.93
+     ],
+     [
+      36.93,
+      40.87
+     ],
+     [
+      40.87,
+      44.82
+     ],
+     [
+      44.82,
+      48.75
+     ],
+     [
+      48.75,
+      52.68
+     ],
+     [
+      52.68,
+      56.64
+     ],
+     [
+      56.64,
+      60.57
+     ],
+     [
+      60.57,
+      64.5
+     ],
+     [
+      64.5,
+      68.46
+     ],
+     [
+      68.46,
+      72.41
+     ],
+     [
+      72.41,
+      76.32
+     ],
+     [
+      76.32,
+      80.27
+     ],
+     [
+      80.27,
+      84.23
+     ]
+    ],
+    "measure_note": "Same grid, 17 detected rules 21.11->84.23, pitch 3.945. TWO-CROP PROOF at 900 dpi: row 1 pct:81.99,17.17,9.83,3.94@p5 rendered '100' (recorded 100.00, Matt Throckmorton) and row 17 pct:81.99,80.27,9.83,3.96@p5 rendered '100' (recorded 100.00, Benjamin Cook). ONE-PAST control pct:81.99,84.23,9.83,3.94@p5 rendered the printed subtotal '4775' - no extra row."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     81.59,
+     91.42
+    ],
+    "cells": [
+     [
+      5.89,
+      17.36
+     ],
+     [
+      18.83,
+      51.59
+     ],
+     [
+      53.12,
+      80.24
+     ],
+     [
+      81.59,
+      91.42
+     ]
+    ],
+    "rows": [
+     [
+      17.38,
+      21.32
+     ],
+     [
+      21.32,
+      25.27
+     ],
+     [
+      25.27,
+      29.2
+     ],
+     [
+      29.2,
+      33.13
+     ],
+     [
+      33.13,
+      37.09
+     ],
+     [
+      37.09,
+      41.0
+     ],
+     [
+      41.0,
+      44.95
+     ],
+     [
+      44.95,
+      48.91
+     ],
+     [
+      48.91,
+      52.82
+     ],
+     [
+      52.82,
+      56.77
+     ],
+     [
+      56.77,
+      60.7
+     ],
+     [
+      60.7,
+      64.61
+     ],
+     [
+      64.61,
+      68.57
+     ],
+     [
+      68.57,
+      72.5
+     ],
+     [
+      72.5,
+      76.43
+     ],
+     [
+      76.43,
+      80.41
+     ],
+     [
+      80.41,
+      84.32
+     ]
+    ],
+    "measure_note": "Same grid, 17 detected rules 21.32->84.32, pitch 3.938. This page carries ELEVEN entries spread over TWELVE bands, because ADDENDUM F1 trap 2 occurs here: band 6 is a CONTINUATION LINE holding the city and zip of the Governor's Leadership PAC entry on band 5, and it carries no figure. CROP-PROVED at 900 dpi: band 5 pct:81.59,33.13,9.83,3.96@p6 rendered '1,000' (the PAC's amount) and band 6 pct:81.59,37.09,9.83,3.91@p6 rendered an EMPTY cell, so band 7 (rendered '16,300', recorded for David Leavitt) is the seventh printed row and the row indices below it are shifted by one. FIRST/LAST PROOF: row 1 pct:81.59,17.38,9.83,3.94@p6 rendered '3,000' (recorded 3000.00, Muhammad Salama) and the last transcribed row 12 pct:81.59,60.70,9.83,3.91@p6 rendered '200' (recorded 200.00, Meg Corporon). ONE-PAST control pct:81.59,64.61,9.83,3.96@p6 rendered an EMPTY cell. A full-width footer crop shows bands 13-16 empty and the figure '30,000' written in band 17's AMOUNT cell with the printed 'Subtotal for this page' line left blank - see notes; that figure is the page subtotal, not an entry, and publishes no row."
+   },
+   "8": {
+    "axis": "x",
+    "cell": [
+     61.5,
+     68.6
+    ],
+    "cells": [
+     [
+      7.77,
+      12.45
+     ],
+     [
+      13.14,
+      23.95
+     ],
+     [
+      26.5,
+      58.77
+     ],
+     [
+      61.5,
+      68.6
+     ],
+     [
+      69.0,
+      80.8
+     ]
+    ],
+    "rows": [
+     [
+      81.41,
+      82.65
+     ],
+     [
+      79.29,
+      80.53
+     ],
+     [
+      77.18,
+      78.47
+     ],
+     [
+      74.82,
+      76.35
+     ],
+     [
+      72.76,
+      74.24
+     ],
+     [
+      70.65,
+      72.12
+     ],
+     [
+      68.71,
+      69.94
+     ],
+     [
+      66.53,
+      67.82
+     ],
+     [
+      64.41,
+      65.71
+     ],
+     [
+      62.35,
+      63.59
+     ],
+     [
+      60.24,
+      61.47
+     ],
+     [
+      58.06,
+      59.35
+     ],
+     [
+      55.88,
+      57.18
+     ],
+     [
+      53.76,
+      55.06
+     ],
+     [
+      51.47,
+      52.94
+     ],
+     [
+      49.53,
+      50.76
+     ],
+     [
+      47.41,
+      48.65
+     ],
+     [
+      45.29,
+      46.53
+     ],
+     [
+      43.12,
+      44.35
+     ],
+     [
+      41.0,
+      42.29
+     ],
+     [
+      38.88,
+      40.12
+     ],
+     [
+      36.76,
+      38.0
+     ],
+     [
+      34.59,
+      35.88
+     ],
+     [
+      32.47,
+      33.76
+     ],
+     [
+      30.29,
+      31.53
+     ],
+     [
+      28.12,
+      29.41
+     ],
+     [
+      26.0,
+      27.29
+     ],
+     [
+      23.88,
+      25.12
+     ],
+     [
+      21.76,
+      23.0
+     ],
+     [
+      19.47,
+      20.88
+     ],
+     [
+      17.53,
+      18.76
+     ],
+     [
+      15.41,
+      16.65
+     ],
+     [
+      13.29,
+      14.53
+     ]
+    ],
+    "measure_note": "ROTATED LANDSCAPE OWN-LEDGER (the ADDENDUM D6 'weber-rtl-rows' shape, in utah). The retained page is portrait as poppler renders it, with the filer's typed table rotated 90 degrees, so rows advance along the X axis and DESCEND in x (table row 1 is at the HIGHEST x, next to the printed column headers). rowbands.py returns ZERO rules on this page, so the bands were measured by projecting the ink inside the amount column's own y band (61.5-68.6) onto the x axis at 200 dpi: 34 clean runs, of which the highest (85.65-86.88) is the printed 'Amount' HEADER and the remaining 33 are the 33 data rows, listed here in table order (reversed). The five logical columns are the y bands in `cells`. TWO-CROP PROOF at 900 dpi (--value, then rotated 90 for reading): row 1 pct:81.41,61.5,1.24,7.1@p8 rendered '725.09' (recorded 725.09, Facebook) and row 33 pct:13.29,61.5,1.24,7.1@p8 rendered '83.11' (recorded 83.11, Wal-Mart). ONE-PAST-THE-END control pct:11.0,61.5,1.24,7.1@p8 rendered an EMPTY strip. A full-column read at 900 dpi also reproduced all 33 amounts in order, which is how the transcription was checked line by line."
+   },
+   "9": {
+    "axis": "x",
+    "cell": [
+     59.5,
+     68.7
+    ],
+    "cells": [
+     [
+      7.86,
+      12.36
+     ],
+     [
+      13.05,
+      26.3
+     ],
+     [
+      26.3,
+      58.7
+     ],
+     [
+      59.5,
+      68.7
+     ],
+     [
+      68.9,
+      80.7
+     ]
+    ],
+    "rows": [
+     [
+      85.71,
+      86.94
+     ],
+     [
+      83.18,
+      85.24
+     ],
+     [
+      81.41,
+      82.65
+     ],
+     [
+      79.29,
+      80.53
+     ],
+     [
+      77.18,
+      78.41
+     ],
+     [
+      74.88,
+      76.35
+     ],
+     [
+      73.0,
+      74.24
+     ],
+     [
+      70.88,
+      72.12
+     ],
+     [
+      68.71,
+      69.94
+     ],
+     [
+      66.59,
+      67.82
+     ],
+     [
+      64.47,
+      66.06
+     ],
+     [
+      62.12,
+      63.59
+     ],
+     [
+      60.24,
+      61.47
+     ],
+     [
+      57.88,
+      59.35
+     ],
+     [
+      55.94,
+      57.18
+     ],
+     [
+      53.59,
+      55.06
+     ],
+     [
+      51.71,
+      52.94
+     ],
+     [
+      49.35,
+      50.82
+     ],
+     [
+      47.24,
+      48.71
+     ],
+     [
+      45.12,
+      46.59
+     ],
+     [
+      42.71,
+      44.41
+     ]
+    ],
+    "measure_note": "Same rotated landscape own-ledger, sheet 2 of 2. Same method: ink projected inside the amount column's y band (59.5-68.7) onto the x axis gives 22 runs; the LOWEST run (38.71-40.24) is the printed 'TOTAL EXPENDITURES THROUGH 6/16/2018' figure, not a row, and the other 21 are the data rows, listed here in table order (reversed). TWO-CROP PROOF at 900 dpi: row 1 pct:85.71,59.5,1.23,9.2@p9 rendered '57.64' (recorded 57.64, Costco) and row 21 pct:42.71,59.5,1.70,9.2@p9 rendered '766.57' above the printed total rule (recorded 766.57, Utah County filing fee). The ONE-PAST-THE-END control pct:38.71,59.5,1.53,9.2@p9 rendered '$ 76,291.12' - which is the PRINTED FOOTER TOTAL, not a 22nd row (this is exactly the ADDENDUM F1.5 check, and it comes back negative: the figure is the document's own total and the rows already sum to it)."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "5/21/18",
+    "donor_raw": "Laura Ashton",
+    "donor_city": "Elk Ridge",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ADDENDUM E4's FIFTH cause of a blank donor state: the filer wrote a city (and in most cases a zip) but NO STATE. A state is never inferred from a zip. The zip printed just above this row belongs to the row below it."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "5/21/18",
+    "donor_raw": "LaDawn Moon",
+    "donor_city": "Duchesne",
+    "donor_state": "Utah",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "5/21/18",
+    "donor_raw": "Joel Wright",
+    "donor_city": "Cedar Hills",
+    "donor_state": "Ut",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer wrote the city and state ABOVE the address line and the zip on it"
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "5/21/18",
+    "donor_raw": "John Hecato",
+    "donor_city": "Evanston",
+    "donor_state": "IL",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "surname read at 900 dpi; the zip is written above the line"
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "5/21/18",
+    "donor_raw": "Jill Moulton",
+    "donor_city": "Provo",
+    "donor_state": "Ut",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "5/21/18",
+    "donor_raw": "Steven Whitehouse",
+    "donor_city": "Pleasant Grove",
+    "donor_state": "Ut",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "5/23/18",
+    "donor_raw": "John Lunt",
+    "donor_city": "Holladay",
+    "donor_state": "Ut",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "5/24/18",
+    "donor_raw": "Ron Barton",
+    "donor_city": "Farmington",
+    "donor_state": "Utah",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer gave only a city and state for this donor - no street line and no zip"
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "5/28/18",
+    "donor_raw": "Alvin Tubjaminlia",
+    "donor_city": "Highland",
+    "donor_state": "Ut",
+    "amount": "10000.00",
+    "in_kind": false,
+    "confidence": "low",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "SURNAME NOT CONFIDENTLY LEGIBLE. Escalated to 1800 dpi: the given name 'Alvin' is clear; the surname reads as a capital T, then 'u'/'h', a descender, then 'jamin' and a final 'lia'. Transcribed as the best available reading and flagged - no name was inferred from context. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "5/29/18",
+    "donor_raw": "Thomas Price",
+    "donor_city": "Indiana",
+    "donor_state": "PA",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "date": "5/29/18",
+    "donor_raw": "Kim Pickett",
+    "donor_city": "Gunnison",
+    "donor_state": "Ut",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell reads 'General Delivery' rather than a street line"
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "date": "5/24/18",
+    "donor_raw": "Ronald Weltmann",
+    "donor_city": "Austin",
+    "donor_state": "TX",
+    "amount": "117.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "surname settled at 900 dpi as 'Weltmann' (the letters after 'We' are an lt-ligature, then 'mann'); flagged because the ligature admits 'Wehmann'. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "date": "6/7/18",
+    "donor_raw": "John Sutherland",
+    "donor_city": "Provo",
+    "donor_state": "Ut",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "date": "6/7/18",
+    "donor_raw": "Barry Hansen",
+    "donor_city": "Gilbert",
+    "donor_state": "AZ",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "15",
+    "page": 3,
+    "row": 15,
+    "date": "6/8/18",
+    "donor_raw": "Marleen Williams",
+    "donor_city": "Orem",
+    "donor_state": "Ut",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 16,
+    "date": "6/10/18",
+    "donor_raw": "Brett Walker",
+    "donor_city": "Provo",
+    "donor_state": "Utah",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 17,
+    "date": "6/13/18",
+    "donor_raw": "Steven Cherrington",
+    "donor_city": "Orem",
+    "donor_state": "Utah",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "18",
+    "page": 4,
+    "row": 1,
+    "date": "6/18/18",
+    "donor_raw": "Vladimir Semek",
+    "donor_city": "State College",
+    "donor_state": "PA",
+    "amount": "1500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "the date is written over an earlier date (the day digit is corrected); the surviving handwriting reads 6/18/18. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "19",
+    "page": 4,
+    "row": 2,
+    "date": "6/18/18",
+    "donor_raw": "Ronald Ivie",
+    "donor_city": "Spanish Fork",
+    "donor_state": "Ut",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "20",
+    "page": 4,
+    "row": 3,
+    "date": "6/18/18",
+    "donor_raw": "Stirling Adams",
+    "donor_city": "Orem",
+    "donor_state": "Ut",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "21",
+    "page": 4,
+    "row": 4,
+    "date": "6/1/18",
+    "donor_raw": "Kit Augustine-Adams",
+    "donor_city": "Orem",
+    "donor_state": "Ut",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "22",
+    "page": 4,
+    "row": 5,
+    "date": "6/19/18",
+    "donor_raw": "Grant W. Morrison",
+    "donor_city": "Layton",
+    "donor_state": "Ut",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "23",
+    "page": 4,
+    "row": 6,
+    "date": "5/23/18",
+    "donor_raw": "Melissa Strasburg",
+    "donor_city": "American Fork",
+    "donor_state": "Ut",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "24",
+    "page": 4,
+    "row": 7,
+    "date": "5/23/18",
+    "donor_raw": "Larry Weiss",
+    "donor_city": "Salt Lake City",
+    "donor_state": "Ut",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "25",
+    "page": 4,
+    "row": 8,
+    "date": "5/23/18",
+    "donor_raw": "Ed Marley",
+    "donor_city": "Oldsmar",
+    "donor_state": "Fl",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "surname read at page scale; the city/state are written on a second line. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "26",
+    "page": 4,
+    "row": 9,
+    "date": "5/23/18",
+    "donor_raw": "Leavitt Land & Investment",
+    "donor_city": "Cedar City",
+    "donor_state": "Ut",
+    "amount": "15000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a corporate donor sharing the candidate's surname; transcribed as printed and not adjudicated. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "27",
+    "page": 4,
+    "row": 10,
+    "date": "5/23/18",
+    "donor_raw": "Mike & Jackie Leavitt",
+    "donor_city": "Washington",
+    "donor_state": "Ut",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "28",
+    "page": 4,
+    "row": 11,
+    "date": "5/23/18",
+    "donor_raw": "Dane & Ruth Leavitt",
+    "donor_city": "Cedar City",
+    "donor_state": "Ut",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "29",
+    "page": 4,
+    "row": 12,
+    "date": "5/23/18",
+    "donor_raw": "Mark & Jana Leavitt",
+    "donor_city": "Cedar City",
+    "donor_state": "Ut",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "30",
+    "page": 4,
+    "row": 13,
+    "date": "5/23/18",
+    "donor_raw": "Eric & Melissa Leavitt",
+    "donor_city": "Cedar City",
+    "donor_state": "Ut",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "31",
+    "page": 4,
+    "row": 14,
+    "date": "6/13/18",
+    "donor_raw": "Steve Lund",
+    "donor_city": "Provo",
+    "donor_state": "Ut",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "32",
+    "page": 4,
+    "row": 15,
+    "date": "6/13/18",
+    "donor_raw": "Ralph Yarro",
+    "donor_city": "Provo",
+    "donor_state": "Ut",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "33",
+    "page": 4,
+    "row": 16,
+    "date": "6/13/18",
+    "donor_raw": "Monte Stewart",
+    "donor_city": "Las Vegas",
+    "donor_state": "Nv",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer gave only 'Las Vegas Nv.' - no street line and no zip"
+   },
+   {
+    "line_no": "34",
+    "page": 4,
+    "row": 17,
+    "date": "6/13/18",
+    "donor_raw": "Doris Judd",
+    "donor_city": "American Fork",
+    "donor_state": "Utah",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer gave only a city and state"
+   },
+   {
+    "line_no": "35",
+    "page": 5,
+    "row": 1,
+    "date": "6/13/18",
+    "donor_raw": "Matt Throckmorton",
+    "donor_city": "Springville",
+    "donor_state": "Ut",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "36",
+    "page": 5,
+    "row": 2,
+    "date": "6/14/18",
+    "donor_raw": "Laura Cabinella",
+    "donor_city": "Provo",
+    "donor_state": "Ut",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "given name read at 900 dpi as 'Laura'; surname 'Cabinella'. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "37",
+    "page": 5,
+    "row": 3,
+    "date": "6/14/18",
+    "donor_raw": "Scott Sucher",
+    "donor_city": "Lehi",
+    "donor_state": "Utah",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "38",
+    "page": 5,
+    "row": 4,
+    "date": "6/14/18",
+    "donor_raw": "Mike Kennedy",
+    "donor_city": "Alpine",
+    "donor_state": "Utah",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "39",
+    "page": 5,
+    "row": 5,
+    "date": "6/15/18",
+    "donor_raw": "Ann Taliaferro",
+    "donor_city": "SLC",
+    "donor_state": "Ut",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor city written by the filer as the abbreviation 'SLC'; transcribed as printed. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "40",
+    "page": 5,
+    "row": 6,
+    "date": "6/15/18",
+    "donor_raw": "Natalie Jaresko",
+    "donor_city": "San Juan",
+    "donor_state": "P.R.",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a PUERTO RICO donor; the filer wrote 'San Juan P. R.' with a box number, which is not carried"
+   },
+   {
+    "line_no": "41",
+    "page": 5,
+    "row": 7,
+    "date": "6/15/18",
+    "donor_raw": "Fran Peterson",
+    "donor_city": "Nephi",
+    "donor_state": "Utah",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "42",
+    "page": 5,
+    "row": 8,
+    "date": "6/15/18",
+    "donor_raw": "Scott Wyatt",
+    "donor_city": "Cedar City",
+    "donor_state": "Ut",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "43",
+    "page": 5,
+    "row": 9,
+    "date": "6/15/18",
+    "donor_raw": "Robert Lockhead",
+    "donor_city": "Midway",
+    "donor_state": "Ut",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "surname read at page scale. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "44",
+    "page": 5,
+    "row": 10,
+    "date": "6/15/18",
+    "donor_raw": "Stephen Hill",
+    "donor_city": "Farmington",
+    "donor_state": "Ut",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "45",
+    "page": 5,
+    "row": 11,
+    "date": "6/15/18",
+    "donor_raw": "Zac Kerr",
+    "donor_city": "Lehi",
+    "donor_state": "Utah",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "46",
+    "page": 5,
+    "row": 12,
+    "date": "6/15/18",
+    "donor_raw": "Dennis Stringer",
+    "donor_city": "Eagle Mnt.",
+    "donor_state": "Utah",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "the filer abbreviates the city as 'Eagle Mnt.' (Eagle Mountain); transcribed as printed and not expanded. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "47",
+    "page": 5,
+    "row": 13,
+    "date": "6/15/18",
+    "donor_raw": "Jory Allen",
+    "donor_city": "Midvale",
+    "donor_state": "Utah",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "given name read at page scale; a struck word sits inside the address text. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "48",
+    "page": 5,
+    "row": 14,
+    "date": "6/16/18",
+    "donor_raw": "Randall Spencer",
+    "donor_city": "Provo",
+    "donor_state": "Ut",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "49",
+    "page": 5,
+    "row": 15,
+    "date": "6/17/18",
+    "donor_raw": "Annie Mack",
+    "donor_city": "Provo",
+    "donor_state": "Ut",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "50",
+    "page": 5,
+    "row": 16,
+    "date": "6/17/18",
+    "donor_raw": "Brigham & Kellie Daniels",
+    "donor_city": "Provo",
+    "donor_state": "Ut",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "51",
+    "page": 5,
+    "row": 17,
+    "date": "6/18/18",
+    "donor_raw": "Benjamin Cook",
+    "donor_city": "Provo",
+    "donor_state": "Ut",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "52",
+    "page": 6,
+    "row": 1,
+    "date": "5/23/18",
+    "donor_raw": "Muhammad Salama",
+    "donor_city": "Salt Lake City",
+    "donor_state": "Ut",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a pen mark precedes the date in the Date cell; the date itself is clear. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "53",
+    "page": 6,
+    "row": 2,
+    "date": "6/15/18",
+    "donor_raw": "Wing Enterprises",
+    "donor_city": "Springville",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ADDENDUM E4's FIFTH cause of a blank donor state: the filer wrote a city (and in most cases a zip) but NO STATE. A state is never inferred from a zip. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "54",
+    "page": 6,
+    "row": 3,
+    "date": "6/15/18",
+    "donor_raw": "Doug Wing",
+    "donor_city": "Springville",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ADDENDUM E4's FIFTH cause of a blank donor state: the filer wrote a city (and in most cases a zip) but NO STATE. A state is never inferred from a zip. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "55",
+    "page": 6,
+    "row": 4,
+    "date": "6/19/18",
+    "donor_raw": "Anthonys Antiques",
+    "donor_city": "SLC",
+    "donor_state": "Ut",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor city written as the abbreviation 'SLC'. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "56",
+    "page": 6,
+    "row": 5,
+    "date": "6/19/18",
+    "donor_raw": "Governor's Leadership PAC",
+    "donor_city": "Salt Lake City",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a PAC donor. Its city and zip are written on the NEXT printed line (band 6), which is a CONTINUATION LINE carrying no figure - ADDENDUM F1 trap 2. ADDENDUM E4's FIFTH cause of a blank donor state: the filer wrote a city (and in most cases a zip) but NO STATE. A state is never inferred from a zip."
+   },
+   {
+    "line_no": "57",
+    "page": 6,
+    "row": 7,
+    "date": "6/19/18",
+    "donor_raw": "David Leavitt",
+    "donor_city": "Orem",
+    "donor_state": "Ut",
+    "amount": "16300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE CANDIDATE'S OWN CONTRIBUTION to his campaign, booked on Schedule A (summary line 3, the beginning balance, is 0.00, so the ladder leaves no other slot for it - the ADDENDUM B3 test, run and resolved in favour of it being an itemized contribution row). The amount is written over an earlier figure: the last two digits are overwritten. Read 16,300, which is what closes the page at exactly 30,000 and the schedule at exactly 81,992. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "58",
+    "page": 6,
+    "row": 8,
+    "date": "6/15/18",
+    "donor_raw": "Nu Skin International",
+    "donor_city": "Provo",
+    "donor_state": "Utah",
+    "amount": "1500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a corporate donor; the filer gave no zip. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "59",
+    "page": 6,
+    "row": 9,
+    "date": "6/18/18",
+    "donor_raw": "Doug & Marylu Nelson",
+    "donor_city": "Orem",
+    "donor_state": "Ut",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "60",
+    "page": 6,
+    "row": 10,
+    "date": "5/10/18",
+    "donor_raw": "Nancy Roaty",
+    "donor_city": "Provo",
+    "donor_state": "Ut",
+    "amount": "1500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "surname read at 900 dpi as 'Roaty' (may be 'Roatty'). this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "61",
+    "page": 6,
+    "row": 11,
+    "date": "5/15/18",
+    "donor_raw": "Mil Kaplan",
+    "donor_city": "Salt Lake City",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "a STRUCK-OUT word sits between the given name and the surname and is not transcribed; the surviving handwriting reads 'Mil ... Kaplan'. ADDENDUM E4's FIFTH cause of a blank donor state: the filer wrote a city (and in most cases a zip) but NO STATE. A state is never inferred from a zip. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   },
+   {
+    "line_no": "62",
+    "page": 6,
+    "row": 12,
+    "date": "5/15/18",
+    "donor_raw": "Meg Corporon",
+    "donor_city": "Salt Lake City",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ADDENDUM E4's FIFTH cause of a blank donor state: the filer wrote a city (and in most cases a zip) but NO STATE. A state is never inferred from a zip. this filer runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column; the fields were assigned BY CONTENT, not by column position. PRIVACY: the street line is deliberately not carried."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 8,
+    "row": 1,
+    "date": "6/15/18",
+    "vendor_raw": "Facebook",
+    "purpose": "Advertising",
+    "amount": "725.09",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "2",
+    "page": 8,
+    "row": 2,
+    "date": "6/15/18",
+    "vendor_raw": "Facebook",
+    "purpose": "Advertising",
+    "amount": "24.91",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 8,
+    "row": 3,
+    "date": "6/15/18",
+    "vendor_raw": "Google (AdWords)",
+    "purpose": "Advertising",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "4",
+    "page": 8,
+    "row": 4,
+    "date": "6/15/18",
+    "vendor_raw": "The Daily Herald",
+    "purpose": "Advertising",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "5",
+    "page": 8,
+    "row": 5,
+    "date": "6/15/18",
+    "vendor_raw": "Videopeel",
+    "purpose": "Advertising",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is BLACKED OUT BY THE COUNTY on this row (a redaction bar, i.e. the document itself); no address is carried for expenditure rows in any case"
+   },
+   {
+    "line_no": "6",
+    "page": 8,
+    "row": 6,
+    "date": "6/13/18",
+    "vendor_raw": "Creative Stream",
+    "purpose": "Mailings/Advertising",
+    "amount": "15477.55",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "7",
+    "page": 8,
+    "row": 7,
+    "date": "6/13/18",
+    "vendor_raw": "Fee (Google)",
+    "purpose": "Fees & Charges",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "8",
+    "page": 8,
+    "row": 8,
+    "date": "6/13/18",
+    "vendor_raw": "Google (AdWords)",
+    "purpose": "Advertising",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "9",
+    "page": 8,
+    "row": 9,
+    "date": "6/12/18",
+    "vendor_raw": "Cubbys",
+    "purpose": "Food & Dining",
+    "amount": "42.58",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "10",
+    "page": 8,
+    "row": 10,
+    "date": "6/12/18",
+    "vendor_raw": "Costco",
+    "purpose": "Supplies",
+    "amount": "76.15",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "11",
+    "page": 8,
+    "row": 11,
+    "date": "6/12/18",
+    "vendor_raw": "Facebook",
+    "purpose": "Advertising",
+    "amount": "26.81",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 8,
+    "row": 12,
+    "date": "6/12/18",
+    "vendor_raw": "Facebook",
+    "purpose": "Advertising",
+    "amount": "723.19",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "13",
+    "page": 8,
+    "row": 13,
+    "date": "6/10/18",
+    "vendor_raw": "Google (AdWords)",
+    "purpose": "Advertising",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "14",
+    "page": 8,
+    "row": 14,
+    "date": "6/9/18",
+    "vendor_raw": "Costco",
+    "purpose": "Supplies",
+    "amount": "259.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "15",
+    "page": 8,
+    "row": 15,
+    "date": "6/9/18",
+    "vendor_raw": "Blip",
+    "purpose": "Billboard Advertising",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "16",
+    "page": 8,
+    "row": 16,
+    "date": "6/9/18",
+    "vendor_raw": "Lowe's",
+    "purpose": "Supplies",
+    "amount": "10.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "17",
+    "page": 8,
+    "row": 17,
+    "date": "6/8/18",
+    "vendor_raw": "Signs Now",
+    "purpose": "Signs",
+    "amount": "468.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "18",
+    "page": 8,
+    "row": 18,
+    "date": "6/8/18",
+    "vendor_raw": "Walgreens",
+    "purpose": "Supplies",
+    "amount": "12.32",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 8,
+    "row": 19,
+    "date": "6/7/18",
+    "vendor_raw": "Istock.com",
+    "purpose": "Uncategorized",
+    "amount": "12.82",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own classification for this row is the word 'Uncategorized'; kept verbatim"
+   },
+   {
+    "line_no": "20",
+    "page": 8,
+    "row": 20,
+    "date": "6/7/18",
+    "vendor_raw": "Facebook",
+    "purpose": "Advertising",
+    "amount": "719.07",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "21",
+    "page": 8,
+    "row": 21,
+    "date": "6/7/18",
+    "vendor_raw": "Facebook",
+    "purpose": "Advertising",
+    "amount": "30.93",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "22",
+    "page": 8,
+    "row": 22,
+    "date": "6/6/18",
+    "vendor_raw": "Hobby Lobby",
+    "purpose": "Supplies",
+    "amount": "63.52",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "23",
+    "page": 8,
+    "row": 23,
+    "date": "6/6/18",
+    "vendor_raw": "Los Hermanos",
+    "purpose": "Food & Dining",
+    "amount": "57.88",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "24",
+    "page": 8,
+    "row": 24,
+    "date": "6/5/18",
+    "vendor_raw": "International Fee",
+    "purpose": "Fees & Charges",
+    "amount": "4.63",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is BLACKED OUT BY THE COUNTY on this row"
+   },
+   {
+    "line_no": "25",
+    "page": 8,
+    "row": 25,
+    "date": "6/5/18",
+    "vendor_raw": "Straticsnetworks",
+    "purpose": "Telephone",
+    "amount": "462.92",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is BLACKED OUT BY THE COUNTY on this row"
+   },
+   {
+    "line_no": "26",
+    "page": 8,
+    "row": 26,
+    "date": "6/5/18",
+    "vendor_raw": "Wal-Mart",
+    "purpose": "Supplies",
+    "amount": "103.39",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "27",
+    "page": 8,
+    "row": 27,
+    "date": "6/5/18",
+    "vendor_raw": "Costco",
+    "purpose": "Supplies",
+    "amount": "345.83",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "28",
+    "page": 8,
+    "row": 28,
+    "date": "6/5/18",
+    "vendor_raw": "Springville City",
+    "purpose": "Parade",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "29",
+    "page": 8,
+    "row": 29,
+    "date": "6/5/18",
+    "vendor_raw": "Google (AdWords)",
+    "purpose": "Advertising",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "30",
+    "page": 8,
+    "row": 30,
+    "date": "6/4/18",
+    "vendor_raw": "Creative Stream",
+    "purpose": "Mailings/Advertising",
+    "amount": "22122.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "31",
+    "page": 8,
+    "row": 31,
+    "date": "6/3/18",
+    "vendor_raw": "Amazon.com",
+    "purpose": "Supplies",
+    "amount": "51.18",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "32",
+    "page": 8,
+    "row": 32,
+    "date": "6/2/18",
+    "vendor_raw": "Wal-Mart",
+    "purpose": "Supplies",
+    "amount": "10.86",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "33",
+    "page": 8,
+    "row": 33,
+    "date": "6/2/18",
+    "vendor_raw": "Wal-Mart",
+    "purpose": "Supplies",
+    "amount": "83.11",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "34",
+    "page": 9,
+    "row": 1,
+    "date": "6/1/18",
+    "vendor_raw": "Costco",
+    "purpose": "Supplies",
+    "amount": "57.64",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "35",
+    "page": 9,
+    "row": 2,
+    "date": "6/1/18",
+    "vendor_raw": "Blanca Pena",
+    "purpose": "Signs",
+    "amount": "340.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is BLACKED OUT BY THE COUNTY on this row"
+   },
+   {
+    "line_no": "36",
+    "page": 9,
+    "row": 3,
+    "date": "5/31/18",
+    "vendor_raw": "Facebook",
+    "purpose": "Advertising",
+    "amount": "520.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "37",
+    "page": 9,
+    "row": 4,
+    "date": "5/31/18",
+    "vendor_raw": "Facebook",
+    "purpose": "Advertising",
+    "amount": "16.97",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "38",
+    "page": 9,
+    "row": 5,
+    "date": "5/30/18",
+    "vendor_raw": "Google (AdWords)",
+    "purpose": "Advertising",
+    "amount": "350.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "39",
+    "page": 9,
+    "row": 6,
+    "date": "5/29/18",
+    "vendor_raw": "Blip",
+    "purpose": "Billboard Advertising",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "40",
+    "page": 9,
+    "row": 7,
+    "date": "5/26/18",
+    "vendor_raw": "Facebook",
+    "purpose": "Advertising",
+    "amount": "24.23",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "41",
+    "page": 9,
+    "row": 8,
+    "date": "5/26/18",
+    "vendor_raw": "Facebook",
+    "purpose": "Advertising",
+    "amount": "475.77",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "42",
+    "page": 9,
+    "row": 9,
+    "date": "5/24/18",
+    "vendor_raw": "Facebook",
+    "purpose": "Advertising",
+    "amount": "243.89",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "43",
+    "page": 9,
+    "row": 10,
+    "date": "5/24/18",
+    "vendor_raw": "Facebook",
+    "purpose": "Advertising",
+    "amount": "6.11",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "44",
+    "page": 9,
+    "row": 11,
+    "date": "5/21/18",
+    "vendor_raw": "Manychat.com",
+    "purpose": "Uncategorized",
+    "amount": "10.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is BLACKED OUT BY THE COUNTY on this row"
+   },
+   {
+    "line_no": "45",
+    "page": 9,
+    "row": 12,
+    "date": "5/21/18",
+    "vendor_raw": "Creative Stream",
+    "purpose": "Mailings/Advertising",
+    "amount": "4400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "46",
+    "page": 9,
+    "row": 13,
+    "date": "5/19/18",
+    "vendor_raw": "Utah Valley Chamber",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer left this row's Classification cell EMPTY - the only such row on his ledger, so purpose is honestly blank here"
+   },
+   {
+    "line_no": "47",
+    "page": 9,
+    "row": 14,
+    "date": "5/18/18",
+    "vendor_raw": "Speak by Design",
+    "purpose": "Signs/Mailers",
+    "amount": "8756.36",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "48",
+    "page": 9,
+    "row": 15,
+    "date": "5/14/18",
+    "vendor_raw": "Elias Aguiluz",
+    "purpose": "Signs/Mailers",
+    "amount": "540.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "49",
+    "page": 9,
+    "row": 16,
+    "date": "5/9/18",
+    "vendor_raw": "Creative Stream",
+    "purpose": "Mailings/Advertising",
+    "amount": "4000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "50",
+    "page": 9,
+    "row": 17,
+    "date": "4/23/18",
+    "vendor_raw": "Elias Aguiluz",
+    "purpose": "Signs",
+    "amount": "637.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "51",
+    "page": 9,
+    "row": 18,
+    "date": "4/23/18",
+    "vendor_raw": "Speak by Design",
+    "purpose": "Signs/Mailers",
+    "amount": "1844.82",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "52",
+    "page": 9,
+    "row": 19,
+    "date": "4/6/18",
+    "vendor_raw": "Speak by Design",
+    "purpose": "Signs/Mailers",
+    "amount": "3683.64",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "53",
+    "page": 9,
+    "row": 20,
+    "date": "3/26/18",
+    "vendor_raw": "Speak by Design",
+    "purpose": "Signs/Mailers",
+    "amount": "1577.07",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "54",
+    "page": 9,
+    "row": 21,
+    "date": "3/19/18",
+    "vendor_raw": "Utah County",
+    "purpose": "Filing Fee",
+    "amount": "766.57",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 2018 Utah County COUNTY ATTORNEY filing fee, and the filer classifies it as such in his own ledger. Recorded as an observation for the wave's fee table only - ADDENDUM E1/F5 forbid using a filing fee to settle a figure on another filing"
+   }
+  ],
+  "notes": "David O. Leavitt, page-face office 'County Attorney', party 'Republican'; index.csv names NO candidate for this row, so the PAGE FACE governs and the coordinator may promote the name through office_overrides.csv (the Ainge precedent). 9 pages, legacy_colAB: p1 cover ('Seven days preceding the Primary Election', not an amendment, signed 6/19/18, clerk stamp JUN 19), p2 SUMMARY PAGE, pp3-6 SCHEDULE A ('Page 1..4 of 4'), p7 the county SCHEDULE B sheet ('Page 1 of 3'), pp8-9 the filer's own attached typed ledger, hand-foliated '2 of 3' and '3 of 3'. All inner sheets are strap-lined '2018 County & Local School Candidates' - a THIRD confirmation this chunk that genuinely 2018-dated stock exists (ADDENDUM G5 left it open), and a different wording from the '2018 County Candidate(s)' sheets used by Hemingway in this same chunk. *** THE COUNTY SCHEDULE B GRID IS EMPTY AND THE SIDE IS STILL 'transcribed'. *** p7 carries nothing but the words 'See Attached list' written across the Provider/Vendor column and the printed subtotal 76,291.12; every expenditure is on the filer's own attached ledger. This is ADDENDUM A2/E5's rule - what is missing is the county's FORM, not the filer's entries - so the side is transcribed, NOT 'no-schedule-page' and NOT 'empty-schedule'. *** A NEW SOURCE PROPERTY: A NON-ROW FIGURE WRITTEN INSIDE THE GRID. *** On p6 the filer wrote his page subtotal '30,000' into the AMOUNT cell of the last printed grid row and left the printed 'Subtotal for this page' line blank. It is the mirror image of ADDENDUM F1 trap 5 (a ledger row written BELOW the last rule): here a figure that is NOT a row sits INSIDE the grid, where a band-driven reader would publish it as an entry. Only the arithmetic separates them - the eleven entries already sum to 30,000, and publishing it as a row would put the schedule 30,000 over its own cover. No row was published for it. *** THE ROTATED LANDSCAPE OWN-LEDGER HAS A PURPOSE COLUMN THE COUNTY FORM LACKS. *** pp8-9 are the filer's typed table (Date / Provider/Vendor / Mailing Address & Zip Code / Amount / Classification), rotated 90 degrees in the retained PDF. `purpose` on every expenditure row is that Classification cell, verbatim; one row (Utah Valley Chamber) has it empty and is honestly blank. On the county's own Schedule B there is no Purpose column at all. COLUMN ASSIGNMENT BY CONTENT: on Schedule A this filer routinely runs the donor's street address across the 'Name of Contributor' column and finishes it in the address column, so the name and address fields were assigned by what the cells CONTAIN (ADDENDUM F2/G3), never by position; the amounts are unaffected and the field-shift screen passes. PRIVACY: the county redacted FIVE address cells on the attached expenditure ledger with black bars (Videopeel, International Fee, Straticsnetworks, Blanca Pena, Manychat.com) - that is the document, not a failed read, and expenditure rows carry no address field in any case. Schedule A is UNREDACTED and full street lines are visible; they are reduced to city/state at read time and no street line, box number or phone reaches any field or note. Nine donor rows are honestly blank in donor_state for ADDENDUM E4's fifth reason (a city and usually a zip, but no state); the others carry the state as the filer wrote it ('Ut', 'Utah', 'IL', 'PA', 'TX', 'AZ', 'Nv', 'Fl', 'P.R.'), verbatim and un-normalized. CROSS-CHECK WORTH RECORDING (observation only): this filing's 2018 County Attorney filing fee is 766.57, the identical figure transcribed independently from Chad Grunander's 2018 County Attorney filing in this same chunk - agreement within one office and one cycle, which is what ADDENDUM F5 says such agreement is worth. It was NOT used to settle any figure here."
+ }
+]

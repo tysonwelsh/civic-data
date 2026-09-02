@@ -1,0 +1,129 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2015-10-09",
+   "donor_raw": "Contributions of $50 and under",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=n/a;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.18,22.59,88.47,3.82@p3",
+   "note": "the county form's pre-printed $50-and-under AGGREGATE row, not a person; the filer left the Complete Mailing Address and Occupation/Employer cells EMPTY (they are not redacted - the cells are visibly blank at 900 dpi)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2015-10-09",
+   "vendor_raw": "Stout for HD 40",
+   "purpose": "Contribution",
+   "amount": "79.84",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,24.64,80.88,3.50@p4",
+   "note": "the closing transfer of the whole remaining balance; equals the printed page subtotal and grand total"
+  }
+ ],
+ "total_contributions": "50.00",
+ "total_expenditures": "79.84",
+ "beginning_balance": "29.84",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "79.84"
+ },
+ "cover": {
+  "candidate": "Stout, Christopher",
+  "party": "",
+  "office_sought": "Auditor",
+  "district_number": "",
+  "report_type": "FINAL / DISSOLUTION REPORT",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/11/2016",
+  "form_year": "2015"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2015_disclosures__2015_year_end__c.-stout-ye-2015.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Stout, Christopher",
+  "office": "Auditor",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2015_disclosures__2015_year_end__c.-stout-ye-2015.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "CHUNK-FILE FLAG VERIFIED - BOTH HALVES TRUE. (a) The form's Type of Report has FINAL / DISSOLUTION REPORT ticked and the YEAR-END January 31 box UNTICKED, so the chunk file's reporting_period 'Final / Dissolution Report' / filing_type 'final' is what the FORM says; the clerk listing's '2015 Summary Report' label is the one that disagrees, and per GOTCHAS the form governs. (b) The Schedule A page header prints 'Date of Report 1/11/2015' while the cover signature, the Summary Page header and the Schedule B header all print 1/11/2016 - a filer YEAR TYPO on one page only, confirmed at 900 dpi, kept verbatim and NOT corrected anywhere. The row DATE inside Schedule A (10/9/2015) is well formed and is unaffected. 'Is this report an amendment?' is left entirely blank - neither Yes nor No ticked - so is_amendment is '' not 'No'. Political Party is blank on the form. Column B (Aggregate Total) is BLANK on every line of the Summary Page - the filer used Column A only; totals_to_date are '' (left blank by the filer), never 0. The Summary Page, Schedule A and Schedule B page boxes each read 'Page 1 of 1'. PRIVACY: the cover's street-address block and the phone/fax/email block are both redacted at source by solid bars. Schedule A's single row is the pre-printed AGGREGATE line, not a person - donor_raw carries it verbatim per AGENT_BRIEF s1(3) and city/state/occupation are honestly blank because the filer left those cells empty. Schedule B's recipient 'Stout for HD 40' is the filer's own Utah House District 40 campaign committee - a transfer between the candidate's two committees, transcribed verbatim with no interpretation added to the row.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "50.00",
+     "schedule_total": "",
+     "itemized": "50.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "The single Schedule A row (the $50-and-under AGGREGATE row) is 50.00 = Summary Page line 1 Column A 50.00. The schedule's own SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED cells are PRINTED BUT LEFT BLANK (verified in a 900 dpi cell crop of both footer cells), so no schedule grand total exists to report - schedule_total is '' by non-existence, not by illegibility, and the gate used is the Summary figure."
+    },
+    "expenditures": {
+     "stated": "79.84",
+     "schedule_total": "79.84",
+     "itemized": "79.84",
+     "basis": "schedule-grand-total",
+     "result": "exact",
+     "detail": "The single Schedule B row is 79.84 = printed SUBTOTAL FOR THIS PAGE 79.84 = printed TOTAL EXPENDITUTRES MADE 79.84 = Summary Page line 2 Column A 79.84. All four figures agree; no in-kind marker anywhere, so schedule and Summary share one scope."
+    }
+   },
+   "page_subtotal_gates": "p4 rows 79.84 = printed subtotal 79.84 = printed total 79.84 (gate FIRES, passes). p3 SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED are printed labels with EMPTY value cells - the page-subtotal gate is NOT AVAILABLE on Schedule A for this filing (the AGENT_BRIEF s1 case 2 pattern, here with BOTH footer cells blank), so contributions were gated on Summary line 1 instead.",
+   "escalations": 7,
+   "escalation_note": "900 dpi tight cell crops: p3 'Date of Report' header box (settles the 2015/2016 year), p3 row-1 date+name cell, p3 row-1 amount cell, p3 SUBTOTAL/TOTAL footer cells (confirmed EMPTY, not faint), p4 row-1 full band, p4 amount cell, p4 SUBTOTAL/TOTAL footer cells. Two crops were mis-positioned on the first attempt and re-cut; the count above is of the seven crops actually read.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "CHUNK-FILE FLAG VERIFIED - BOTH HALVES TRUE. (a) The form's Type of Report has FINAL / DISSOLUTION REPORT ticked and the YEAR-END January 31 box UNTICKED, so the chunk file's reporting_period 'Final / Dissolution Report' / filing_type 'final' is what the FORM says; the clerk listing's '2015 Summary Report' label is the one that disagrees, and per GOTCHAS the form governs. (b) The Schedule A page header prints 'Date of Report 1/11/2015' while the cover signature, the Summary Page header and the Schedule B header all print 1/11/2016 - a filer YEAR TYPO on one page only, confirmed at 900 dpi, kept verbatim and NOT corrected anywhere. The row DATE inside Schedule A (10/9/2015) is well formed and is unaffected. 'Is this report an amendment?' is left entirely blank - neither Yes nor No ticked - so is_amendment is '' not 'No'. Political Party is blank on the form. Column B (Aggregate Total) is BLANK on every line of the Summary Page - the filer used Column A only; totals_to_date are '' (left blank by the filer), never 0. The Summary Page, Schedule A and Schedule B page boxes each read 'Page 1 of 1'. PRIVACY: the cover's street-address block and the phone/fax/email block are both redacted at source by solid bars. Schedule A's single row is the pre-printed AGGREGATE line, not a person - donor_raw carries it verbatim per AGENT_BRIEF s1(3) and city/state/occupation are honestly blank because the filer left those cells empty. Schedule B's recipient 'Stout for HD 40' is the filer's own Utah House District 40 campaign committee - a transfer between the candidate's two committees, transcribed verbatim with no interpretation added to the row."
+  }
+ }
+}

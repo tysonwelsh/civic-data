@@ -1,0 +1,133 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2015-01-30",
+   "donor_raw": "Wells Fargo Bank",
+   "amount": ".03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.76,23.27,88.00,3.45@p3",
+   "note": "The 'Complete Mailing Address' cell does NOT hold an address - the filer wrote the word 'interest' in it (this row is bank interest credited to the campaign account). donor_city/donor_state are therefore blank because no geography was written, not because anything was redacted. The 'Occupation/Employer' column EXISTS on this form and the filer left it EMPTY. Amount printed '.03' with no leading zero, verbatim."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2015-01-30",
+   "vendor_raw": "Jeffrey Hatch",
+   "purpose": "repay loan to campaign",
+   "amount": "2248.28",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.29,26.73,80.94,3.27@p4",
+   "note": "Purpose is cursive and the final word runs into the column rule; read as 'repay loan to campaign' at medium confidence. The recipient is the candidate himself (repayment of a candidate loan). Amount confirmed by the balance chain: 2248.25 + .03 - 2248.28 = 0."
+  }
+ ],
+ "total_contributions": "",
+ "total_expenditures": "",
+ "beginning_balance": "2248.25",
+ "ending_balance": "-0-",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "2248.28"
+ },
+ "cover": {
+  "candidate": "Jeffrey Hatch",
+  "party": "Democrat",
+  "office_sought": "Auditor",
+  "district_number": "Countywide",
+  "report_type": "FINAL / DISSOLUTION REPORT",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "11/13/15",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2015_disclosures__dissolutions__j-hatch-final-dissolution_fdr.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jeffrey Hatch",
+  "office": "Auditor",
+  "election_year": "2014",
+  "source_pdf": "raw/globalassets/2015_disclosures__dissolutions__j-hatch-final-dissolution_fdr.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "FLAG VERIFIED. The form title is 'Financial Disclosure Report / For a Candidate' with NO year printed - untitled-year confirmed, so form_year is honestly '' (the field exists in the form family but this vintage prints no year). The page footer names the template path 'K:\\Elections\\Common_Folders\\Forms\\Candidate Filing Forms\\2012\\Financial_Disclosure' on every page - a 2012 TEMPLATE used for a 2015 report; that path is not a form year and was not used as one. Other findings: (a) Only the FINAL / DISSOLUTION box is checked; neither amendment box (Yes/No) is checked, so is_amendment is honestly blank. (b) The cover's address block and the phone/fax/email block carry real BLACK REDACTION BARS - redacted at source, not left empty by the filer. (c) The Schedule B page header self-dates '11-15-15' while the cover, the Summary Page header and the dissolution notice all say 11-13-15 - a filer inconsistency, retained verbatim, not corrected. (d) Line 7 prints the glyph '-0-', recorded verbatim; per the zero-glyph ruling it DENOTES zero. (e) Summary lines 1 and 2 are blank in both columns while lines 4 and 6 carry the period figures - reconciliation basis is therefore the schedules' own printed grand totals, per the matching-scope rule. (f) The Schedule A row's 'Complete Mailing Address' cell holds the word 'interest', not an address - see the row note. (g) The document's office line reads Auditor / County Auditor throughout: county office, in scope.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": ".03",
+     "itemized": ".03",
+     "basis": "schedule-grand-total",
+     "result": "exact",
+     "detail": "Summary line 1 is BLANK in BOTH columns, so there is no summary-line-1 anchor. The Schedule A page prints SUBTOTAL FOR THIS PAGE .03 and TOTAL CONTRIBUTIONS RECEIVED .03, and the single row sums to .03 - exact against the schedule grand total. Summary line 4 ('From Line 1 Column A') independently carries .03 and corroborates it, and the balance chain closes on that figure."
+    },
+    "expenditures": {
+     "stated": "",
+     "schedule_total": "2248.28",
+     "itemized": "2248.28",
+     "basis": "schedule-grand-total",
+     "result": "exact",
+     "detail": "Summary line 2 is BLANK in BOTH columns. The Schedule B page prints SUBTOTAL FOR THIS PAGE 2248.28 and TOTAL EXPENDITUTRES MADE 2248.28, and the single row sums to 2248.28 - exact. Summary line 6 ('From Line 2 Column A') independently carries 2248.28 and the balance chain closes on it."
+    }
+   },
+   "page_subtotal_gates": "p3 rows .03 = printed SUBTOTAL FOR THIS PAGE .03 = printed TOTAL CONTRIBUTIONS RECEIVED .03; p4 rows 2248.28 = printed SUBTOTAL FOR THIS PAGE 2248.28 = printed TOTAL EXPENDITUTRES MADE 2248.28.",
+   "escalations": 2,
+   "escalation_note": "p3 row 1 (date/name/address-cell) 1200 dpi cell crop x1; p4 row 1 (date/name/purpose) 1200 dpi cell crop x1.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FLAG VERIFIED. The form title is 'Financial Disclosure Report / For a Candidate' with NO year printed - untitled-year confirmed, so form_year is honestly '' (the field exists in the form family but this vintage prints no year). The page footer names the template path 'K:\\Elections\\Common_Folders\\Forms\\Candidate Filing Forms\\2012\\Financial_Disclosure' on every page - a 2012 TEMPLATE used for a 2015 report; that path is not a form year and was not used as one. Other findings: (a) Only the FINAL / DISSOLUTION box is checked; neither amendment box (Yes/No) is checked, so is_amendment is honestly blank. (b) The cover's address block and the phone/fax/email block carry real BLACK REDACTION BARS - redacted at source, not left empty by the filer. (c) The Schedule B page header self-dates '11-15-15' while the cover, the Summary Page header and the dissolution notice all say 11-13-15 - a filer inconsistency, retained verbatim, not corrected. (d) Line 7 prints the glyph '-0-', recorded verbatim; per the zero-glyph ruling it DENOTES zero. (e) Summary lines 1 and 2 are blank in both columns while lines 4 and 6 carry the period figures - reconciliation basis is therefore the schedules' own printed grand totals, per the matching-scope rule. (f) The Schedule A row's 'Complete Mailing Address' cell holds the word 'interest', not an address - see the row note. (g) The document's office line reads Auditor / County Auditor throughout: county office, in scope."
+  }
+ }
+}

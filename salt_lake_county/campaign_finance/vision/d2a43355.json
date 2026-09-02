@@ -1,0 +1,131 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Leslie Reberco",
+   "occupation": "Policy Advisor",
+   "amount": "328.29",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=low;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.26,23.53,85.85,3.97@p3",
+   "note": "DATE LEFT BLANK, NOT COMPLETED. The day and year read '17-16' cleanly, but the MONTH glyph is a closed slanted loop with a diagonal stroke drawn through it - a struck-through or overwritten digit - and at 1200 dpi it does NOT match this filer's clean two-bowl '3' on Schedule B. Verbatim: '[struck/overwritten digit].17-16'. The obvious completion from the Schedule B partner row is deliberately NOT applied. DONOR NAME at low confidence: the given name 'Leslie' is clear; the surname's final syllables are cramped and could read -erco / -ercio / -eiro. 'Leslie Reberco' is the legible-glyph string, not a resolved identification. Address block redacted at source (county black bar). in_kind=true from the filer's own hand-written 'IN KIND' in the right margin OUTSIDE the table's right rule, level with this row - this Schedule A has no in-kind column."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2016-03-17",
+   "vendor_raw": "S.L. Co Clerk",
+   "purpose": "Filing Fee",
+   "amount": "328.29",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.72,24.86,77.94,3.95@p4",
+   "note": "date re-read at 1200 dpi: the leading digit is an unambiguous two-bowl '3'. Amount's decimal point is faint where the pen crossed the 8, but 328.29 is confirmed by the page's own printed TOTAL and by Summary lines 2 and 6."
+  }
+ ],
+ "total_contributions": "$328.29",
+ "total_expenditures": "$328.29",
+ "beginning_balance": "38.29",
+ "ending_balance": "38.29",
+ "aggregate": {
+  "total_contributions_to_date": "328.29",
+  "total_expenditures_to_date": "328.29",
+  "line5_subtotal": "366,58"
+ },
+ "cover": {
+  "candidate": "Sam F. Granato",
+  "party": "D",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/16",
+  "form_year": "2016"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2016_disclosures__april__sam-granato-april.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sam F. Granato",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2016_disclosures__april__sam-granato-april.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Chunk-file agreement: candidate/office/seat/date/period all confirmed at the form (Sam F. Granato, Office 'County Council #4', Office Sought 'County Council', District Number 4, April 5 box checked, signed 4/5/16, RECEIVED APR 05 2016). No contradiction with index.csv. The amendment Yes/No pair is left entirely unchecked, so is_amendment is ''. Party is written as the single letter 'D' - kept verbatim, never expanded to Democrat. The Summary Page and BOTH schedule pages leave the pre-printed Page / Last Name / Date of Report header boxes ENTIRELY BLANK (unlike the other three filings in this chunk), so those pages carry no self-identification; they are bound to this filing only by being in this PDF. PRIVACY: Schedule A's Complete Mailing Address cell is covered by the county's black bar, so donor_city/donor_state are blank and the row note says 'redacted at source'. IN-KIND: the form has no in-kind column; the filer wrote 'IN KIND' by hand in the right margin OUTSIDE the table's right rule, level with the single Schedule A row, so in_kind=true on that row comes from the filer's own marker. The matching Schedule B row books the same $328.29 as a filing fee paid to the county clerk. LINE 5 CURRENCY: the Subtotal on line 5 is written '366,58' with a COMMA where this filer uses a period on every other line; recorded verbatim. Its value is unambiguously $366.58 under either convention and the balance chain confirms it (38.29 + 328.29 = 366.58).",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$328.29",
+     "schedule_total": "328.29",
+     "itemized": "328.29",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "The single row (328.29) = the printed TOTAL CONTRIBUTIONS RECEIVED (328.29) = Summary Page line 1 Column A ($328.29) = Column B. The page's SUBTOTAL FOR THIS PAGE cell is printed and LEFT BLANK, so the page-subtotal gate was unavailable here and the schedule grand total was used instead. In-kind scope tested per filing: the only row IS marked in-kind by the filer, and the printed total equals it, so BOTH the schedule total and the Summary figure INCLUDE the in-kind item - there is no schedule-total-vs-summary-gap on this filing (a cash-only reading would give 0.00 and match neither printed figure)."
+    },
+    "expenditures": {
+     "stated": "$328.29",
+     "schedule_total": "328.29",
+     "itemized": "328.29",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "The single row (328.29) = the printed TOTAL EXPENDITUTRES MADE (328.29) = Summary Page line 2 Column A ($328.29) = Column B. SUBTOTAL FOR THIS PAGE is again printed and blank."
+    }
+   },
+   "page_subtotal_gates": "p3: SUBTOTAL FOR THIS PAGE printed and LEFT BLANK - no page gate; gated on the printed TOTAL 328.29 = row 328.29. p4: SUBTOTAL likewise printed and blank; gated on the printed TOTAL 328.29 = row 328.29. Both schedules on this filing leave the page subtotal empty and fill only the grand-total line.",
+   "escalations": 5,
+   "escalation_note": "p3 date+donor cells at 1200 dpi x1; p3 occupation+amount cells at 1200 dpi x1; p3 leading date digit at 1200 dpi tight x1 (did NOT resolve - see the row note); p4 row 1 full width at 1200 dpi x1 plus its leading digit tight x1 (resolved cleanly as this filer's '3', which is what showed the p3 glyph is a different, struck-through mark); p2 Summary Column A lines 3-7 at 900 dpi x1.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Chunk-file agreement: candidate/office/seat/date/period all confirmed at the form (Sam F. Granato, Office 'County Council #4', Office Sought 'County Council', District Number 4, April 5 box checked, signed 4/5/16, RECEIVED APR 05 2016). No contradiction with index.csv. The amendment Yes/No pair is left entirely unchecked, so is_amendment is ''. Party is written as the single letter 'D' - kept verbatim, never expanded to Democrat. The Summary Page and BOTH schedule pages leave the pre-printed Page / Last Name / Date of Report header boxes ENTIRELY BLANK (unlike the other three filings in this chunk), so those pages carry no self-identification; they are bound to this filing only by being in this PDF. PRIVACY: Schedule A's Complete Mailing Address cell is covered by the county's black bar, so donor_city/donor_state are blank and the row note says 'redacted at source'. IN-KIND: the form has no in-kind column; the filer wrote 'IN KIND' by hand in the right margin OUTSIDE the table's right rule, level with the single Schedule A row, so in_kind=true on that row comes from the filer's own marker. The matching Schedule B row books the same $328.29 as a filing fee paid to the county clerk. LINE 5 CURRENCY: the Subtotal on line 5 is written '366,58' with a COMMA where this filer uses a period on every other line; recorded verbatim. Its value is unambiguously $366.58 under either convention and the balance chain confirms it (38.29 + 328.29 = 366.58)."
+  }
+ }
+}

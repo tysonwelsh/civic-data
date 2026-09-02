@@ -1,0 +1,194 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C10.json",
+ "key": "692065e1",
+ "index_path": "raw/2014/2014_cc_Norton_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Norton_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "55331e37ab4fae8b",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "1100.00",
+    "cover_over50_cum": "1100.00",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "cover_expense_last": "",
+    "cover_expense_this": "729.40",
+    "cover_expense_cum": "729.40",
+    "cover_balance_end": "370.60",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "1100.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A p2 has 2 inked rows, 300.00 + 800.00 = 1100.00, which equals cover line 1 in BOTH the TOTALS FOR THIS REPORT and CUMULATIVE REPORT columns (the LAST REPORT column is blank, i.e. this is the only report of the cycle, so the two scopes coincide). The Carr 5-5-PG sheet prints NO schedule total on Form A, so the cover line is the only anchor; schedule_total recorded null. Reconciled against line 1 ONLY, per the addendum: the le50 line is a separate zero (glyph 'slashed zero')."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "729.40",
+    "cover_expense_cum": "729.40",
+    "cover_over50_this": "1100.00",
+    "cover_over50_cum": "1100.00",
+    "cover_balance_end": "370.60",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "729.40",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form B p3 has 5 inked rows: 513.28 + 53.30 + 37.82 + 100.00 + 25.00 = 729.40, exactly the cover line 3 figure, which is identical in the THIS REPORT and CUMULATIVE columns (LAST REPORT blank). Form B prints no schedule total; schedule_total null."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints no schedule or page subtotal on either schedule (the sheet ends with the '(If additional space is needed...)' line) — the cover is the only anchor. p2 rows 1100.00 = cover line1 1100.00; p3 rows 729.40 = cover line3 729.40. Both gate exactly.",
+  "row_count": "rowbands.py p2: geometry_status 'gaps', 36 bands, deskew 0.7deg, no vertical rules detected (the form uses per-column underscores, not full verticals) — the grid is ~40 ruled writing lines; only the first 2 carry ink and 2 rows were emitted. p3: 35 bands, deskew 0.8deg; first 5 ruled lines carry ink and 5 rows were emitted. Ink counted by eye against the 200 dpi page as the tool's band list includes the header rule; both counts agree.",
+  "geometry_proof": "p2: crop of row1 amount box (x84%,y10.18%,w14%,h2%) renders '300 00'; row2 box (y12.27%) renders '800 00'; control one pitch below (y14.4%) renders EMPTY. p3: row1 box (y10.09%) renders '513 28'; last row box (y19.59%) renders '25 00'; control one pitch below (y21.9%) renders EMPTY.",
+  "balance_chain": "0 (LAST column blank) + 1100.00 contributions - 729.40 expenses = 370.60 = cover line 4 'Balance at the end of this reporting period', in both the THIS and CUMULATIVE columns. Closes exactly. No earlier filing by this filer in this chunk, so no cross-filing chain test was possible here."
+ },
+ "escalations": 8,
+ "escalation_note": "600 dpi strip crops of the Form A header+rows, Form B rows 1-4 and rows 4-5, the cover totals block, and six single-cell geometry-proof crops. The date glyph was the only bistable read: the leading digit of '4-2'/'4-7' on Form A could be read 4 or 9 at 200 dpi. Settled at 600 dpi AND by the writer's own hand elsewhere in the document (Form B '4-9','4-11','4-11','4-11','430'; the '4's in the cover's '12-3-2014', '8434', '1543') and by semantics (the Form B rows are county-convention expenses: 'Booth at Convention', 'Convention Items'). No amount required an arithmetic reversal: both schedules gate exactly on first reading.",
+ "notes": "index.csv calls the office Treasurer; the cover's 'Name of Office' line reads 'Cache County Treasurer' — agrees. Candidate on the form is 'Stanley Keith Norton' (index: Norton) — agrees. Political party Republican. The cover carries a handwritten annotation under line 4: '* See Attached Bank Statement Closing Account' — NO bank statement page is present in this 3-page PDF (the document also has no page-4 statute sheet), so that attachment is absent from the scan; nothing was inferred from it. Both Form A rows name the candidate himself (self-funding), which the addendum records as normal. Neither schedule date cell carries a year, so every date is BLANK + needs_review per the core contract, with the verbatim in the row note.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Stanley Norton",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.00,10.18,14.00,2.00@p2",
+   "note": "date cell reads '4-2' with NO year printed -> left blank per contract, verbatim kept here; amount written '300' with superscript '00' over the rule -> 300.00; address cell read '[street address discarded at read time per PRIVACY.md]', street and ZIP discarded at read time; contributor is the candidate himself (self-funding)"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Stanley Norton",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "800.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.00,12.27,14.00,2.00@p2",
+   "note": "date cell reads '4-7' with NO year printed -> blank per contract; address cell is four ditto marks resolving to row 1 (Logan UT), street and ZIP discarded; amount '800' with superscript '00' -> 800.00; self-funding"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Square One Printing",
+   "purpose": "Flyers + Handouts",
+   "amount": "513.28",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.00,10.09,14.00,2.00@p3",
+   "note": "date cell '4-9', no year printed -> blank per contract; amount '513' with superscript '28' over the rule -> 513.28"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Square One Printing",
+   "purpose": "Mailing Flyer",
+   "amount": "53.30",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.00,12.47,14.00,2.00@p3",
+   "note": "date cell '4-11', no year printed -> blank; amount '53' with superscript '30' -> 53.30"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Sams Club",
+   "purpose": "Convention Items",
+   "amount": "37.82",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.00,14.84,14.00,2.00@p3",
+   "note": "date cell '4-11', no year printed -> blank; vendor written 'Sams Club' without apostrophe, verbatim; amount '37' with superscript '82' -> 37.82"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Republican Party",
+   "purpose": "Booth at Convention",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.00,17.22,14.00,2.00@p3",
+   "note": "date cell '4-11', no year printed -> blank; amount '100' with superscript '00' -> 100.00"
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Mountain America",
+   "purpose": "Checking Acct Fee",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.00,19.59,14.00,2.00@p3",
+   "note": "date cell '430' written with no separator and no year -> blank per contract, verbatim kept; amount '25' with superscript '00' -> 25.00"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W10.json",
+ "key": "ac834e8e",
+ "index_path": "raw/wayback_forms2018/Oct 30_Victor Iverson_FCR_10-31-2018.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/Oct 30_Victor Iverson_FCR_10-31-2018.pdf"
+ ],
+ "sha256_prefix": "fa3848b8bb480548",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr-5-5-PG-ruled",
+  "expenditures": "carr-5-5-PG-ruled"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "1195 54",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "1195",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A is COMPLETELY BLANK at 200 dpi - no ink on any of the ~40 writing lines - and this generation PRINTS NO schedule total, so schedule_total is null and the cover is the only anchor. Cover line 1 reads LAST '1,195 54' (cents written as a superscript over a rule; 1195.54) + THIS a slashed-zero glyph (0 under the repo-wide zero-glyph ruling) = CUMULATIVE '1,195' (written WITHOUT cents). Zero rows equal the THIS cell exactly: a genuine NO-ACTIVITY-THIS-PERIOD report. That is a DIFFERENT SCOPE from the cumulative figure this module publishes, so reconciles_contributions should stay blank - not a failure. ⚠ The cover's own line 1 does not add up as printed: 1,195.54 + 0 = 1,195.54, but the filer wrote 1,195 in the cumulative cell, dropping the 54 cents. Both figures are retained verbatim; nothing was recomputed. Cover line 2 (the $50-or-less aggregate) is EMPTY in all three columns (no glyph at all - blank, not zero), so line 1 alone is the anchor."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "",
+    "schedule_total": null
+   },
+   "itemized": "0.00",
+   "basis": "none - no printed expenditure figure exists on this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form B is COMPLETELY BLANK at 200 dpi and this generation prints no schedule total, so schedule_total is null. Cover line 3 (total campaign expenses) is EMPTY in ALL THREE columns - the filer wrote nothing, not even a nil mark - and so is line 4 (balance). There is therefore NO printed expenditure figure anywhere on the document to reconcile the empty schedule against, and no printed figure from which to decide the scope: result 'unknown', scope 'unknown', NOT 'exact'. The side is still 'transcribed' rather than withheld, because the page exists and is honestly empty (zero rows is what the document says); what is missing is the anchor, not the parse. Nothing was synthesised by differencing covers or filings."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No schedule or page subtotal exists to gate against on EITHER sheet - this generation prints none. Contributions were gated on the cover line-1 THIS cell (zero rows = the slashed-zero glyph, closes). Expenditures COULD NOT BE GATED AT ALL: cover line 3 is blank in all three columns and there is no printed figure of any kind for the expenditure side.",
+  "row_count": "Both pages read at 200 dpi full-page: every writing line on Form A and on Form B is empty. The only marks on p2 are a faint ghost of the cover's 'RECEIVED' stamp bleeding through the sheet behind the column headers - a scan artefact, not ink in a row. 0 rows emitted per side. rowbands not applied: an all-empty ruled sheet has nothing for a row-count check to disagree with, and the visual sweep is the check.",
+  "geometry_proof": "n/a - zero rows emitted on both sides, so no row geometry is claimed.",
+  "balance_chain": "CANNOT BE RUN on this filing: cover line 4 (balance at end of period) is EMPTY in all three columns, and line 3 (expenses) is empty too, so there is no beginning/ending balance and no expenditure figure to chain. The only live figure is line 1: prior contributions 1,195.54, none this period, cumulative written 1,195 - which is itself 54 cents short of its own arithmetic (recorded under recon.contributions, retained verbatim). No cross-filing chain is available inside this chunk either: the chunk holds no second filing by Victor Iverson, and its two Brock Belnap filings are from DIFFERENT cycles (2010 and 2018), so the earlier-filing CUMULATIVE-to-TOTALS-FROM-LAST-REPORT test could not be run on any pair here."
+ },
+ "escalations": 4,
+ "escalation_note": "500 dpi crops of the cover money grid: the LAST/THIS columns of line 1 (to read the superscript cents and confirm the slashed-zero), the CUMULATIVE column across all four lines (to confirm 1,195 with no cents and lines 2-4 truly empty), and the line 3/line 4 band across the full grid width.",
+ "notes": "index.csv/chunk call this Victor Moses Iverson, Commission Seat B, 2018. The form's 'Name of Office' line reads 'Washington County Commission Seat B' - a county office, IN SCOPE; the 'Full Name of Candidate' line reads 'Victor Moses Iverson'; both agree with the chunk file. Addressed 'TO Washington County' Clerk; Date/Signed 10/30/2018; RECEIVED OCT 30 2018 WASHINGTON COUNTY CLERK-AUDITOR stamp. 'Political Party' and 'Office District' were left blank by the filer. The scan is a degraded photocopy - rules are broken and grey in places - but no cell content was lost to it: the empty cells are empty on the paper, not faded out, and were checked at 200 dpi across both sheets. Privacy: the cover prints the candidate's street address, ZIP, home phone and business phone in the clear - all discarded at read time. ⚠ This filing is the one document in the chunk whose EXPENDITURE side has no anchor of any kind (cover lines 3 and 4 both blank); a human may want to look at it if the module expects an expenditure figure for this filing.",
+ "contributions": [],
+ "expenditures": []
+}

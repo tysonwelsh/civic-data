@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W01.json",
+ "key": "03d7f7ab",
+ "index_path": "raw/live_wp/Tom-Durrant.pdf",
+ "applies_to": [
+  "raw/live_wp/Tom-Durrant.pdf"
+ ],
+ "sha256_prefix": "c99d9122c199470c",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-B",
+  "3": "form-A"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "675.75",
+    "cover_over50_this": "-",
+    "cover_over50_cum": "675.75",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A (p3) is a completely EMPTY ruled grid; its printed TOTAL CONTRIBUTIONS cell carries a hand-drawn slashed-zero glyph (a circle with a horizontal strike and a small tail), read as 0 under the repo zero-glyph ruling. That 0 equals the cover's Total THIS Report cell for line 1, which prints the Excel accounting zero '-'. The cover's CUMULATIVE cell is 675.75, carried forward from a prior report not in this PDF, so the rows are on the PERIOD scope, NOT the cumulative scope this module publishes. NOTE: this cover generation prints only THREE lines (contributions over $50, campaign expenses, balance) - there is NO 'Aggregate total of contributions of $50.00 or less' line on this form at all, so cover_le50_* are null (field does not exist), not blank."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "675.75",
+    "cover_expense_this": "-",
+    "cover_expense_cum": "675.75",
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (p2) is a completely EMPTY ruled grid; printed TOTAL EXPENDITURES carries the same hand-drawn slashed-zero glyph = 0, equal to the cover's Total THIS Report expense cell '-' (accounting zero). Cumulative 675.75 is carried forward from a prior report."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p3 rows sum 0.00 = printed TOTAL CONTRIBUTIONS (slashed-zero glyph) 0; p2 rows sum 0.00 = printed TOTAL EXPENDITURES (slashed-zero glyph) 0. Both gate.",
+  "row_count": "rowbands.py p3 -> geometry_status ok, 19 bands (band 1 = the Date/Name of Donor/Amount/In Kind header row, bands 2-18 = 17 data rows, band 19 = the TOTAL row). Zero bands carry ink; 0 rows emitted. p2 grid is the same shape by eye. Checked again on a -normalize pass at 200 dpi to rule out faint pencil - nothing written on either schedule.",
+  "geometry_proof": "not applicable - zero rows emitted on both sides, so no row geometry was claimed.",
+  "balance_chain": "Cover balance line prints '-' (accounting zero) in all three columns. Cumulative chain closes: contributions cum 675.75 - expenses cum 675.75 = 0 = balance cum '-'. Period chain closes trivially: 0 + 0 - 0 = 0. No earlier filing by this filer in the SAME cycle is in this chunk under this reporting period (the 12/7/2024-1/6/2026 window is the annual officeholder report, whose 675.75 LAST figures do NOT chain to the 640.20 cumulative of the 2024 election-cycle filings 05dec2b1/095d57ef - a different cycle)."
+ },
+ "escalations": 3,
+ "escalation_note": "600 dpi cell crops: p1 cover money grid (confirmed 675.75 / '-' / 675.75 on both money lines and the three-line cover layout); p2 TOTAL EXPENDITURES cell; p3 TOTAL CONTRIBUTIONS cell (both confirmed as the hand-drawn slashed-zero glyph, not a digit).",
+ "notes": "index.csv says candidate 'Tom Durrant', office 'Assessor'; the form's 'Full Name of Candidate' reads Tom Durrant and 'Candidate for Office Of' reads Assessor - AGREES. Form generation 2 (county-branded 'WASHINGTON COUNTY / AMERICA'S COUNTY' logo, 'Campaign Financial Disclosure Per Title 1 Chapter 7 of Washington County Code of Ordinances'). TWO DEPARTURES FROM THE ADDENDUM'S GEN-2 DESCRIPTION, both real: (1) the cover has only THREE money lines - the '$50.00 or less' aggregate line is absent from this print; (2) Form A's columns are 'Date | Name of Donor | Amount | In Kind? Y/N' - there is NO 'Mailing Address and Zip Code' column on this print (the addendum's Gen-2 Form A has one, and doc 05dec2b1 in this same chunk does). PAGE ORDER IS INVERTED relative to every other document in this chunk: p2 is Form B and p3 is Form A. Both schedules are genuinely blank - a real zero for the period, not a gap. Reporting period Start Date 12/7/2024, End Date 1/6/2026; signed 1/6/2026; clerk 'Date Received' stamped 1/7/2026 and the verifying-inspection date 1/8/2026 (index.csv calls this reporting_year 2025, the document's own end date is in 2026 - flagged, transcribed from the form).",
+ "contributions": [],
+ "expenditures": []
+}

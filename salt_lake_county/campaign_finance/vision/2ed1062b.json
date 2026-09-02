@@ -1,6 +1,126 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-03-09",
+   "donor_raw": "Tracey Creno",
+   "occupation": "Police Officer/UPD",
+   "amount": "5046.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.22,20.81,89.75,3.91@p3",
+   "note": "candidate's own contribution; amount printed '5,046.08'; city/state redacted at source (black bar over Complete Mailing Address)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-03-04",
+   "vendor_raw": "SLCO Elections",
+   "purpose": "filing fee",
+   "amount": "945.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.76,21.81,81.52,3.95@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-03-18",
+   "vendor_raw": "Vistaprint",
+   "purpose": "brochures",
+   "amount": "326.27",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.76,25.76,81.52,3.89@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-03-19",
+   "vendor_raw": "Wayman Studio",
+   "purpose": "Photography",
+   "amount": "160.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.76,29.65,81.52,3.91@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2022-03-21",
+   "vendor_raw": "Office Max",
+   "purpose": "brochures",
+   "amount": "99.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.76,33.56,81.52,3.93@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2022-03-13",
+   "vendor_raw": "Brand Crowd",
+   "purpose": "Logo",
+   "amount": "60.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.76,37.49,81.52,3.91@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2022-03-27",
+   "vendor_raw": "Vistaprint",
+   "purpose": "brochures",
+   "amount": "308.03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.76,41.40,81.52,3.93@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2022-03-27",
+   "vendor_raw": "Vistaprint",
+   "purpose": "table cloth, swag",
+   "amount": "959.30",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.76,45.33,81.52,3.91@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2022-03-27",
+   "vendor_raw": "Democrat Party",
+   "purpose": "Politisauce. Convention",
+   "amount": "686.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.76,49.24,81.52,3.91@p4"
+  }
+ ],
  "total_contributions": "5,046.08",
  "total_expenditures": "3,546.08",
  "beginning_balance": "0.00",
@@ -47,6 +167,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Typed figures on a scanned form; the April 5 box is filled solid. Both Column B (Aggregate Total) cells on Lines 1 and 2 were left BLANK by the filer (recorded as \"\", not 0). Neither amendment box is checked. The Summary Page header block (page/last name/date) is entirely blank. District Number reads \"49\" for a countywide Sheriff race - recorded verbatim. Signature date written \"4.4.22\"; clerk stamp APR 05 2022."
+  "notes": "Typed figures on a scanned form; the April 5 box is filled solid. Both Column B (Aggregate Total) cells on Lines 1 and 2 were left BLANK by the filer (recorded as \"\", not 0). Neither amendment box is checked. The Summary Page header block (page/last name/date) is entirely blank. District Number reads \"49\" for a countywide Sheriff race - recorded verbatim. Signature date written \"4.4.22\"; clerk stamp APR 05 2022.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5046.08",
+     "schedule_total": "5046.08",
+     "itemized": "5046.08",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "1 row 5046.08 = Summary line 1 Column A = Schedule A TOTAL (typed); the page's SUBTOTAL FOR THIS PAGE cell is printed but left BLANK, so the gate runs on the grand total"
+    },
+    "expenditures": {
+     "stated": "3546.08",
+     "schedule_total": "3546.08",
+     "itemized": "3546.08",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "8 rows sum 3546.08 = Summary line 2 Column A = Schedule B TOTAL (handwritten in blue over the typed form); SUBTOTAL FOR THIS PAGE cell printed but left BLANK, gate runs on the grand total"
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL cell blank - rows 5046.08 = printed TOTAL 5046.08; p4 SUBTOTAL cell blank - rows 3546.08 = handwritten TOTAL 3546.08",
+   "escalations": 6,
+   "escalation_note": "600dpi verification crops: p3 row 1 left half (date+donor) and right half (occupation+amount); p4 rows 1-4 and 5-8, left half (date+recipient) and right half (purpose+amount) - all re-reads identical to the 200dpi base read",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Cover is the '2022 Financial Disclosure Report For a Candidate' form (title year matches the cycle); April 5 interim box checked; NEITHER amendment Yes nor No box checked; handwritten signature date '4.4.22'; clerk RECEIVED stamp APR 05 2022. needs_totals=0: cover/totals keys omitted per brief; Summary anchors read at page (line 1 = 5,046.08, line 2 = 3,546.08) agree with chunk priors. The single Schedule A line is the candidate's own contribution (audit prior confirmed at page). Schedule A/B per-page SUBTOTAL cells are printed but left blank; TOTAL lines are filled (Schedule A typed, Schedule B handwritten in blue) - audit prior confirmed. Summary Column B cells on lines 1 and 2 are blank. Amounts on p3 print with a thousands comma ('5,046.08') and on p4 without; normalized to plain decimals here, matching the wave's sibling records. Donor address bar-redacted at source; occupation cell survives."
+  }
  }
 }

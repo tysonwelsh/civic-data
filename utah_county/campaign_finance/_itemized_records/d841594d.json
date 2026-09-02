@@ -1,0 +1,181 @@
+[
+ {
+  "index_path": "raw/2014/2014_PostPrimary-McConnell.pdf",
+  "key": "d841594d",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_02)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "the p2 Summary Page line 1 'TOTAL CONTRIBUTIONS RECEIVED' Column A 'Total this Period' (3,180.30), which is also the filer's own printed 'Total Contributions Received' under the p3 Schedule A ledger (3,180.30) and his summary line 4 'From Line 1 Column A' (3,180.30)",
+    "detail": "1 ledger row of 3,180.30 sums to 3,180.30 exactly = the ledger's own printed total = the cover's promoted PER-PERIOD cell (Column A line 1) = the cover's line 4 restatement. Column B 'Year-to-Date Total' prints 13,180.30 and was NOT summed as an increment. The balance ladder closes exactly on the per-period figures: line 3 (152.79) + line 4 (3,180.30) = line 5 (3,333.09), minus line 6 (3,333.09) = line 7, a slashed zero read as 0. NOTE this filer's ladder is period-scoped throughout, unlike Grierson `a23cc40d` in this same chunk whose lines 4/6 carry Column B figures. The one-past control rendered an EMPTY cell, so §F1 trap 5 is screened negative and the printed total is separately located below white space."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "the p2 Summary Page line 2 'TOTAL EXPENDITURES MADE' Column A 'Total this Period' (3,333.09), which is also the filer's own printed 'Total Expenditures Made' under the p4 Schedule B ledger (3,333.09) and his summary line 6 'From Line 2 Column A' (3,333.09)",
+    "detail": "4 ledger rows sum to 38.19 + 2,911.14 + 150.00 + 233.76 = 3,333.09 exactly = the ledger's own printed total = the cover's promoted PER-PERIOD cell (Column A line 2) = the cover's line 6 restatement. Column B YTD prints 13,180.30 and is retained as cumulative, never summed. The one-past control rendered an EMPTY cell — no §F1 trap-5 row below the last entry. The §D5 spreadsheet SUM-RANGE SLIP was screened on both sheets and is ABSENT: the first and last row of each contiguous typed range are inside the printed total, which is what makes each close to the cent."
+   }
+  },
+  "in_kind_convention": "monetary-only closed. The filer's own ledgers carry no in-kind column, line or annotation, and the cover states single undivided figures with no separate in-kind line, so the monetary-only and monetary-plus-in-kind conventions give the identical sums (3,180.30 and 3,333.09). Both were tested; neither distinguishes.",
+  "escalations": 0,
+  "escalation_note": "No escalation was needed. pp3-4 are the filer's own BORN-TYPED sheets and reproduce cleanly; the p1/p2 handwriting is heavy and legible; both sides close to the cent against three printed anchors each and the whole balance ladder closes. The six geometry-proof crops at 900-1200 dpi are recorded in the frames' measure_notes and are not counted here. One control deserves naming: on p3 the single transcribed row and the printed total are THE SAME FIGURE (3,180.30), so the §B5 one-past control could not have distinguished them by value — it was therefore aimed one pitch below the row rather than at the total band, and it rendered EMPTY WHITE SPACE ending at the total block's upper rule, which is what proves the row index and screens trap 5.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     74.0,
+     86.0
+    ],
+    "cells": [
+     [
+      10.5,
+      18.5
+     ],
+     [
+      21.0,
+      44.0
+     ],
+     [
+      55.0,
+      71.5
+     ],
+     [
+      74.0,
+      86.0
+     ]
+    ],
+    "rows": [
+     [
+      19.28,
+      20.28
+     ]
+    ],
+    "measure_note": "The filer's own typed sheet imitating the county form: headed 'SCHEDULE A / ITEMIZED CONTRIBUTIONS RECEIVED (30 days after Primary)' and foliated 'Page 3 of 4 / McConnell' in his own type. rowbands.py returns ZERO printed rules (skew -0.2), so the §6 underline-grid method is inapplicable. RECOVERY per §A2: `rowbands.py <pdf> 3 --text-lines --col 74,86` restricted to the amount column returns 6 text bands = the filer's own FOLIATION BLOCK ('Page 3 of 4' at 9.56 and 'McConnell' at 11.15, both inside this x-range and NOT rows), the printed 'Amount' HEADER (17.97-18.92), ONE DATA ROW (19.28-20.28), the printed 'Total Contributions Received' figure (22.42-23.37) and its double underline (23.60-23.96). Only the single data band is stored. `cells` are approximate provenance read off the printed column heads; `cell` is the band proved by crop. PROOF CROPS at 1200 dpi and what they ACTUALLY RENDERED — with one row, EVERY ROW IS PROVED: pct:74,19.28,12,1.00@p3 --value rendered '$3,180.30', the recorded row 1. (§B5 one-past control) pct:74,20.88,12,1.00@p3 --value, one pitch below the row, rendered EMPTY WHITE SPACE closing on the total block's upper rule — proving the band is not off by one and screening §F1 trap 5 negative. That control was deliberately aimed BELOW the row rather than at the total band, because on this page the row and the printed total carry the identical figure (3,180.30) and a value-matching control could not have told them apart."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     74.0,
+     86.0
+    ],
+    "cells": [
+     [
+      10.5,
+      18.5
+     ],
+     [
+      21.0,
+      44.0
+     ],
+     [
+      55.0,
+      71.5
+     ],
+     [
+      74.0,
+      86.0
+     ]
+    ],
+    "rows": [
+     [
+      18.96,
+      19.91
+     ],
+     [
+      20.56,
+      21.51
+     ],
+     [
+      22.1,
+      23.05
+     ],
+     [
+      23.64,
+      24.59
+     ]
+    ],
+    "measure_note": "Same construction as p3 — the filer's own typed sheet headed 'SCHEDULE B / ITEMIZED EXPENDITURES MADE (30 days after Primary)', foliated 'Page 4 of 4 / McConnell'. rowbands.py returns ZERO printed rules (skew -0.2). RECOVERY per §A2: `--text-lines --col 74,86` returns 9 text bands = 2 foliation bands (9.19, 10.78), the 'Amount' HEADER (17.65-18.60), 4 DATA ROWS, the printed 'Total Expenditures Made' figure (26.74-27.69) and its double underline (27.92-28.33). The 4 data bands are stored. PROOF CROPS at 1200 dpi and what they ACTUALLY RENDERED: (first row) pct:74,18.96,12,0.95@p4 --value rendered '38.19' — the recorded row 1, so the ledger starts on the band immediately under the header and nothing is skipped. (last row) pct:74,23.64,12,0.95@p4 --value rendered '233.76' — the recorded row 4. (§B5 one-past control) pct:74,25.18,12,0.95@p4 --value rendered EMPTY WHITE SPACE closing on the total block's upper rule — bands not off by one, trap 5 negative."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "6/19/2014",
+    "donor_raw": "Cary McConnell",
+    "donor_city": "Spanish Fork",
+    "donor_state": "Utah",
+    "amount": "3180.30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE CANDIDATE'S OWN MONEY and the ONLY contribution on this report. Entered under his own name with no 'loan' wording anywhere on the filing. It IS an itemized contribution row: the ledger's own total that consists of it is exactly what the cover's Column A line 1 restates (3,180.30), and line 3 carries a real non-zero beginning balance of its own (152.79) which therefore cannot be its slot. Same disposition as this filer's June report `b80b5798`. PRIVACY / SOURCE PROPERTY: the filer's own ledger heads this column 'Location' and prints ONLY a city and a state — there is no street line anywhere on the sheet, so donor_city/donor_state reproduce exactly what the document gives and nothing had to be reduced at read time."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "6/18/2014",
+    "vendor_raw": "Home Depot",
+    "amount": "38.19",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filer's own ledger has columns Date / 'Expense' / 'Location' / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). 'Expense' heads what is in fact the PAYEE column — every cell under it names a payee, not a purpose — so the columns were assigned by CONTENT, not by the heading's wording (§F2). Expenditure rows carry no address field in this schema."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "6/19/2014",
+    "vendor_raw": "Utah Republican Party",
+    "amount": "2911.14",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filer's own ledger has columns Date / 'Expense' / 'Location' / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). 'Expense' heads what is in fact the PAYEE column — every cell under it names a payee, not a purpose — so the columns were assigned by CONTENT, not by the heading's wording (§F2). Expenditure rows carry no address field in this schema."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "6/20/2014",
+    "vendor_raw": "Linda Housekeeper",
+    "amount": "150.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "⛔ CROSS-FILING OBSERVATION, RECORDED AND NOT USED: the same payee name and the same 150.00 appear on Kim Jackson's 2014 County Treasurer ledger (`6b998b79`, transcribed in this same chunk, dated 5/5/2014, also located in Orem) — two rival candidates for the same office in the same cycle paying the same figure to the same name. That is interesting and it is noted here, but per §C3/§E1 nothing on another filing may supply or settle a value on this one, and nothing was carried across. Whether 'Housekeeper' is a surname or a description is not settled by either document, so the cell is kept VERBATIM and nothing is split out. The filer's own ledger has columns Date / 'Expense' / 'Location' / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). 'Expense' heads what is in fact the PAYEE column — every cell under it names a payee, not a purpose — so the columns were assigned by CONTENT, not by the heading's wording (§F2). Expenditure rows carry no address field in this schema."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "6/26/2014",
+    "vendor_raw": "Precision Victory",
+    "amount": "233.76",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The 'Location' cell for this row reads 'Utah County, Utah' — a COUNTY rather than a city. Recorded as an observation; no address field is carried on expenditure rows in any case. The filer's own ledger has columns Date / 'Expense' / 'Location' / Amount and NO Purpose column, so purpose is honestly BLANK because the field does not exist (ADDENDUM F §F4's sixth cause). 'Expense' heads what is in fact the PAYEE column — every cell under it names a payee, not a purpose — so the columns were assigned by CONTENT, not by the heading's wording (§F2). Expenditure rows carry no address field in this schema."
+   }
+  ],
+  "notes": "PAGE-FACE candidate 'Cary R. McConnell', party 'Republican', Office Seeking written out in full as 'Utah County Treasurer', residence city abbreviated by the filer as 'Sp Fork' (Spanish Fork) — index.csv names NO candidate for this row, so the page face fills an empty channel label.\n\n⚠⚠ THE REPORT TYPE, READ FROM THE CHECKED BOX — AND IT IS NOT WHAT THE CHANNEL CALLS IT. The 'Type of Report' block has a check mark against the FIRST option, '30 Days after withdraw or elimination', and every other box — including 'Seven days preceding the Primary Election', '30 Days after the Primary Election', 'Seven days preceding the General Election' and '30 Days after the General Election' — is empty. THIS IS A WITHDRAWAL REPORT. The channel labels the row 'Post Primary - McConnell' and the county's own filename is `2014_PostPrimary-McConnell.pdf`; the page face governs and the divergence is left visible. This independently CONFIRMS the module's gap ledger, which already records this filing as a withdrawal report, and it is confirmed from the checked box itself and not adopted from that ledger. The amendment question is answered 'No'. Cover signature date 7/25/14, matching the p2 Date-of-Report box; the clerk's received stamp reads JUL 25 PM 5:45.\n\n⚠ AND THE FILER CONTRADICTS HIS OWN COVER ON HIS OWN SHEETS: both pp3-4 are subtitled '(30 days after Primary)' in his own type, while his cover checks the withdrawal box. Both readings are recorded and NEITHER IS ADJUDICATED. The most likely account — that he withdrew after the primary and reused his previous sheet headings — is an inference, not a reading, and is not acted on. It does explain how the county's channel label came to say 'Post Primary'.\n\n4 PDF pages: p1 the county's COVER (the common 2014 blank, '...FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES'), p2 the county's SUMMARY PAGE (the Column A / Column B grid, handwritten), then pp3-4 the FILER'S OWN TYPED SHEETS substituted for Schedule A and Schedule B — the same cover-plus-summary-plus-own-schedules shape as his June filing `b80b5798`, and in the SAME order (contributions p3, expenditures p4), not reversed. Every page was classified from its own printed header. FOLIATION: 'Page 2 of 4' handwritten on the county summary page and 'Page 3 of 4' / 'Page 4 of 4' typed on the filer's own sheets, counting the cover — an internally consistent 4-sheet document, complete as filed.\n\nTHE LADDER CLOSES COMPLETELY AND IS PERIOD-SCOPED THROUGHOUT: line 3 152.79 + line 4 3,180.30 = line 5 3,333.09, minus line 6 3,333.09 = line 7, a slashed zero read as 0 under the zero-glyph ruling. Column B carries 13,180.30 on BOTH line 1 and line 2 — the filer's cycle-to-date contributions and expenditures genuinely coincide at that figure — and neither was summed as an increment. NOTE: line 3's 152.79 equals the closing balance of this filer's June filing `b80b5798`; that is an observation about the chain, NOT a reconciliation, and NO TWO COVERS WERE DIFFERENCED anywhere in this record — both sides are gated on this filing's own Column A and on each ledger's own printed total.\n\nSELF-FUNDING: the entire 3,180.30 raised this period is the candidate's own money, in a single row, and the campaign closes at zero. As on his June filing, no row uses the word 'loan' and no loan treatment is needed — line 3 already carries a real non-zero beginning balance, so the self-money can only be a contribution.\n\nTHE FILER'S OWN COLUMN HEADINGS ARE HIS OWN: 'Contributor' / 'Location' / 'Amount' on Schedule A and 'Expense' / 'Location' / 'Amount' on Schedule B. 'Expense' heads the PAYEE column; the columns were assigned by content, not by the heading's wording. One 'Location' cell names a COUNTY ('Utah County, Utah') rather than a city.\n\nPRIVACY: published UNREDACTED. The candidate's own street address and phone number are visible on the cover and are NOT carried here in any field or note. The schedules themselves carry NO street lines at all — the filer's 'Location' column prints city and state only — so the contribution row reproduces exactly what the document gives (city plus the state written out as 'Utah', kept verbatim) and nothing had to be reduced."
+ }
+]

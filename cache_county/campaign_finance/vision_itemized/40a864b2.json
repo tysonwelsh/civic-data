@@ -1,0 +1,113 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C13.json",
+ "key": "40a864b2",
+ "index_path": "raw/2018/2018_cc_James_Matthew_Swink_final.pdf",
+ "applies_to": [
+  "raw/2018/2018_cc_James_Matthew_Swink_final.pdf",
+  "raw/2018/2018_st_Swink_James_Matthew_2.pdf"
+ ],
+ "sha256_prefix": "d8bd0eb68115b076",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "no printed anchor exists",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form A (p2) carries the filer's hand-written 'No $ Contributions' across the first writing line and no other ink -- an EMPTY SCHEDULE, zero rows. On the cover, all three cells of line 1 (and of line 2, the <=$50 aggregate) carry a long hand-drawn sweeping dash stroke, not a numeral: per the zero-glyph ruling a bare dash stays BLANK, so the anchors are '' and no printed figure exists to score against. The Carr 5-5-PG form prints NO schedule total on Form A."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "838.56",
+    "cover_expense_this": "",
+    "cover_expense_cum": "838.56",
+    "cover_balance_end": "838.56",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "838.56",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "p3 rows 614.81 + 223.75 = 838.56, which equals BOTH the line-3 TOTALS FROM LAST REPORT cell (838.56) and the CUMULATIVE cell (838.56); the TOTALS FOR THIS REPORT cell is blank. This is the 2018-12-06 summary report restating the whole cycle, so the rows are on the CUMULATIVE scope, not the (blank/zero) this-period scope. The Carr form prints no schedule total, so the cover line is the only anchor."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints no schedule total and no page subtotal on either schedule -- honestly none. p3 rows-sum 614.81+223.75=838.56 gates against cover line 3 (838.56). Form A: empty schedule, no anchor printed.",
+  "row_count": "rowbands.py p3: geometry_status 'gaps', 34 bands, amount column x 82.10-92.61. Bands 1 (y=10.18) and 2 (y=13.00) are the only inked bands; bands 3-34 render empty. 2 rows emitted = 2 inked bands.",
+  "geometry_proof": "p3 amount-cell crops at 600 dpi: first row's box renders '614.81'; last (2nd) row's box renders '223.75'; the control box one row-pitch below the last row renders EMPTY (rule only). Form A has no rows to place.",
+  "balance_chain": "Cover line 4 (balance at end of period): LAST blank, THIS blank, CUMULATIVE 838.56. beginning 0 + contributions 0 - expenditures 838.56 = -838.56, so the printed +838.56 does NOT close -- the filer copied the expense total into the balance line instead of a net balance. FILER arithmetic, retained verbatim, not adjusted. CROSS-FILING CHAIN (same filer, same 2018 cycle, both in this chunk): the 2018-10-29 interim (key 14cee2db) prints line-3 CUMULATIVE 838.56, and this 2018-12-06 summary prints line-3 TOTALS FROM LAST REPORT 838.56 -- the chain closes exactly, and the two Form B row sets are identical (Mar 9 Cache County 614.81 / Mar 14 Sprint Print 223.75), confirming this summary restates rather than adds."
+ },
+ "escalations": 4,
+ "escalation_note": "p3 amount column 1200 dpi cell crop (settled the leading digit of 614.81 -- and the filing's own arithmetic, 614.81+223.75=838.56, is what proves the 6 rather than the glyph read); p3 date column 1200 dpi + 900 dpi -normalize crop (a blotted cursive 'r' in MAR initially read as a '2', i.e. 'MAR29'; the normalized crop resolves it to 'MAR 9'); p1 cover lines 1-2 at 1200 dpi (confirmed the cells hold a dash stroke, no numeral); p1 cover lines 3-4 at 600 dpi (confirmed WHICH column each 838.56 sits in).",
+ "notes": "index.csv gives candidate 'James Matthew Swink', office 'County Attorney', date 2018-12-06 -- the cover's 'Full Name of Candidate' reads JAMES MATTHEW SWINK, 'Name of Office' reads CACHE COUNTY ATTORNEY, and the signature date reads 'Dec. 6, 2018': all agree, in scope (county office). The 'TO ___ County Clerk' line is addressed to JILL ZOLLINGER / CACHE. Purpose-of-Expenditure column is EMPTY on both rows of this document (the same filer's earlier 10/29 report does fill it in) -- left blank, not inferred. Candidate street address, ZIP and home phone are printed in the clear on the cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "CACHE COUNTY",
+   "purpose": "",
+   "amount": "614.81",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.10,10.18,10.50,2.82@p3",
+   "note": "date cell reads verbatim 'MAR 9' -- NO YEAR PRINTED, so date left blank per contract. The month glyph is blotted on this scan and first read as 'MAR29'; a 900 dpi -normalize crop resolves it to a cursive 'r' + '9'. Amount 614.81 confirmed by the filing's own arithmetic (614.81+223.75 = the printed 838.56). Purpose cell empty. Carr form has no in-kind column."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "SPRINT PRINT",
+   "purpose": "",
+   "amount": "223.75",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.10,13.00,10.50,2.28@p3",
+   "note": "date cell reads verbatim 'MAR 14' -- NO YEAR PRINTED, so date left blank per contract. Purpose cell empty. Carr form has no in-kind column."
+  }
+ ]
+}

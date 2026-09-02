@@ -1,0 +1,125 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W08.json",
+ "key": "7c0d9d88",
+ "index_path": "raw/state_disclosures/washington_2010 Elections_Steven Despain 4-9-10.pdf",
+ "applies_to": [
+  "raw/state_disclosures/washington_2010 Elections_Steven Despain 4-9-10.pdf"
+ ],
+ "sha256_prefix": "a276469c5a300973",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen1-carr-5-5-PG-ruled",
+  "expenditures": "gen1-carr-5-5-PG-ruled"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "850.00",
+    "cover_over50_cum": "850.00",
+    "cover_le50_this": "50.00",
+    "cover_le50_cum": "50.00",
+    "schedule_total": null
+   },
+   "itemized": "850.00",
+   "basis": "cover-line1-cumulative (== cover-line1-this)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Two Form A rows 350.00 + 500.00 = 850.00, equal to cover line 1 in BOTH the THIS REPORT and CUMULATIVE columns. The TOTALS FROM LAST REPORT cell holds only a hand-drawn dash (no numeral), i.e. this is the filer's first report of the 2010 cycle, so the two scopes coincide; recorded as cumulative per the addendum. The $50.00-or-less aggregate (line 2, 50.00) is NOT itemized on Form A and was correctly excluded from the anchor -- reconciling against line1+line2 (900.00) would manufacture a false 50.00 mismatch."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "80.00",
+    "cover_expense_cum": "80.00",
+    "schedule_total": null
+   },
+   "itemized": "80.00",
+   "basis": "cover-line3-cumulative (== cover-line3-this)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Single Form B row 80.00 equals cover line 3 in both the THIS REPORT and CUMULATIVE columns; LAST REPORT cell holds a bare dash. First report of the cycle, so the scopes coincide."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Generation-1 (Carr Printing 5-5-PG) prints NO schedule total on either sheet -- both end with '(If additional space is needed, use blank paper ...)'. The cover's own lines are therefore the ONLY anchors, and schedule_total is null on both sides. p2 rows 350.00+500.00 = 850.00 = cover line 1; p3 row 80.00 = cover line 3. Both gate exactly.",
+  "row_count": "rowbands.py p2: geometry_status 'gaps', 34 h-rules / 33 bands over a ~35-writing-line sheet (the tool drops rules, per the standing DEBT); scored against INK -- exactly 2 inked writing lines, 2 rows emitted, every band below rule 3 renders empty. p3: geometry_status 'ok', 37 h-rules / 36 bands, exactly 1 inked line, 1 row emitted.",
+  "geometry_proof": "p2: 600-dpi crop of row 1's amount box renders '350 00'; row 2's box renders '500 00'; the control crop one row-pitch below row 2 renders EMPTY. p3: row 1's box renders '80 00'; control one pitch below renders EMPTY.",
+  "balance_chain": "0 (no prior report; LAST REPORT cells hold dashes) + 850.00 (line1) + 50.00 (line2) - 80.00 (line3) = 820.00 = the printed line-4 balance 820.00 in both the THIS and CUMULATIVE columns. Closes EXACTLY. No earlier filing by this filer in this cycle is in my chunk, so no cover-to-cover chain test was possible."
+ },
+ "escalations": 2,
+ "escalation_note": "p2 row band re-rendered as a 600-dpi crop (both rows read identically: 350 / 500, and the address+name columns re-read identically); p2/p3 amount cells re-rendered as 600-dpi single-cell crops for the geometry proof.",
+ "notes": "Gen-1 Carr Printing 5-5-PG form; cover cites Utah Code 17-16-6.5. The chunk file's candidate 'Steven W. Despain' and office 'Sheriff' AGREE with the form: 'Full Name of Candidate: Steven W. Despain', 'Name of Office: Washington County Sheriff'. County office, in scope. Cover date 4/8/2010, clerk RECEIVED stamp APR 8 2010; political party Republican. PDF holds only 3 pages -- the statute page 4 the form refers to was not scanned (a scan-scope fact, not a data gap). Neither schedule has an in-kind column, so in_kind is false everywhere by form design, never inferred. Candidate street address, ZIP, home and business phone printed in the clear on the cover were discarded at read time per PRIVACY; donor street addresses and ZIPs likewise discarded, city/state only retained.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-04-01",
+   "donor_raw": "Lowry Snow",
+   "donor_city": "Santa Clara",
+   "donor_state": "UT",
+   "amount": "350.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.80,9.65,11.00,1.95@p2",
+   "note": "date written '4-1-10'; amount written as whole dollars '350' with superscript cents '00' over the rule -> 350.00; street address and ZIP discarded at read time, city/state only"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2010-04-06",
+   "donor_raw": "Don Ipson",
+   "donor_city": "St George",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.80,11.60,11.00,1.95@p2",
+   "note": "date written '4-6-10'; surname glyphs re-read at 600 dpi as 'Ipsc-n' with a cursive terminal n -> 'Ipson' (donor=medium, not raised to high); amount whole dollars '500' with superscript cents '00' -> 500.00; street address and ZIP discarded at read time"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-04-02",
+   "vendor_raw": "Wash. Co. Republican Party",
+   "purpose": "Booth at County Convention",
+   "amount": "80.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.80,9.60,11.00,2.00@p3",
+   "note": "date written '4-2-10'; amount whole dollars '80' with superscript cents '00' over the rule -> 80.00"
+  }
+ ]
+}

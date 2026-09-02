@@ -3,7 +3,10 @@
  "key": "689f5ea9",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:47:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 12.23",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,371 @@
    "notes": "Born-digital fillable form, typed figures. Street address, phone number and signature are redacted upstream by the county (black bars); the printed 'Spanish Fork UT 84660' survives beside the redaction bar. Clerk's blue RECEIVED stamp reads OCT 29 2024. The report-type radio marked (X) is 'Seven days preceding the General Election', matching index.csv's '7 Days before General'."
   }
  ],
- "notes": "Redacted copy of the same report published unredacted as key 29704fa3 (identical candidate, office, report type, date and all seven boxes). One report."
+ "notes": "Redacted copy of the same report published unredacted as key 29704fa3 (identical candidate, office, report type, date and all seven boxes). One report.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "01/02/2024",
+   "donor_raw": "Phillip & Andrea Allen",
+   "amount": "712.25",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,16.64,13.30,4.45@p2",
+   "geometry_frame": "p2 axis=y cell=79.30-92.60 rowband=16.64-21.09 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the county blacked out the street portion of the address cell; the only thing visible past the clerk's redaction bar is a five-digit ZIP, and the v. 12.23 blank prints no City-and-State column at all \u2014 so city/state are honestly BLANK because the address was REDACTED BY THE COUNTY and the visible remainder is a zip, which is never converted to a city name"
+  },
+  {
+   "line_no": "2",
+   "date": "01/02/2024",
+   "donor_raw": "Phillip & Andrea Allen",
+   "amount": "55.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,21.09,13.30,4.43@p2",
+   "geometry_frame": "p2 axis=y cell=79.30-92.60 rowband=21.09-25.52 (2 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "address redacted by the county; only a ZIP visible, no city printed"
+  },
+  {
+   "line_no": "3",
+   "date": "03/07/2024",
+   "donor_raw": "Phillip & Andrea Allen",
+   "amount": "237.38",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,25.52,13.30,4.46@p2",
+   "geometry_frame": "p2 axis=y cell=79.30-92.60 rowband=25.52-29.98 (3 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "address redacted by the county; only a ZIP visible, no city printed. The matching Schedule B row 3 dates the same transaction '03/07/024' (a three-digit year); this cell prints the full 2024"
+  },
+  {
+   "line_no": "4",
+   "date": "03/08/2024",
+   "donor_raw": "Phillip & Andrea Allen",
+   "amount": "275.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,29.98,13.30,4.45@p2",
+   "geometry_frame": "p2 axis=y cell=79.30-92.60 rowband=29.98-34.43 (4 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "address redacted by the county; only a ZIP visible, no city printed"
+  },
+  {
+   "line_no": "5",
+   "date": "03/08/2024",
+   "donor_raw": "Phillip & Andrea Allen",
+   "amount": "402.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,34.43,13.30,4.46@p2",
+   "geometry_frame": "p2 axis=y cell=79.30-92.60 rowband=34.43-38.89 (5 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "address redacted by the county; only a ZIP visible, no city printed"
+  },
+  {
+   "line_no": "6",
+   "date": "03/08/2024",
+   "donor_raw": "Phillip & Andrea Allen",
+   "amount": "475.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,38.89,13.30,4.45@p2",
+   "geometry_frame": "p2 axis=y cell=79.30-92.60 rowband=38.89-43.34 (6 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "address redacted by the county; only a ZIP visible, no city printed"
+  },
+  {
+   "line_no": "7",
+   "date": "04/08/2024",
+   "donor_raw": "Phillip & Andrea Allen",
+   "amount": "28.47",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,43.34,13.30,4.46@p2",
+   "geometry_frame": "p2 axis=y cell=79.30-92.60 rowband=43.34-47.80 (7 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "address redacted by the county; only a ZIP visible, no city printed"
+  },
+  {
+   "line_no": "8",
+   "date": "04/19/2024",
+   "donor_raw": "Phillip & Andrea Allen",
+   "amount": "148.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,47.80,13.30,4.43@p2",
+   "geometry_frame": "p2 axis=y cell=79.30-92.60 rowband=47.80-52.23 (8 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "address redacted by the county; only a ZIP visible, no city printed"
+  },
+  {
+   "line_no": "9",
+   "date": "05/06/2024",
+   "donor_raw": "Phillip & Andrea Allen",
+   "amount": "1500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,52.23,13.30,4.45@p2",
+   "geometry_frame": "p2 axis=y cell=79.30-92.60 rowband=52.23-56.68 (9 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "address redacted by the county; only a ZIP visible, no city printed"
+  },
+  {
+   "line_no": "10",
+   "date": "05/06/2024",
+   "donor_raw": "Phillip & Andrea Allen",
+   "amount": "219.34",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,56.68,13.30,4.43@p2",
+   "geometry_frame": "p2 axis=y cell=79.30-92.60 rowband=56.68-61.11 (10 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "address redacted by the county; only a ZIP visible, no city printed"
+  },
+  {
+   "line_no": "11",
+   "date": "05/06/2024",
+   "donor_raw": "Phillip & Andrea Allen",
+   "amount": "144.68",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,61.11,13.30,4.46@p2",
+   "geometry_frame": "p2 axis=y cell=79.30-92.60 rowband=61.11-65.57 (11 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "address redacted by the county; only a ZIP visible, no city printed. THIS cell prints 144.68 and Schedule A closes exactly on it; the same transaction on Schedule B row 11 prints 114.68 \u2014 the filer's keying slip, recorded on both sides verbatim and adjudicated on neither"
+  },
+  {
+   "line_no": "12",
+   "date": "05/06/2024",
+   "donor_raw": "Phillip & Andrea Allen",
+   "amount": "33.45",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,65.57,13.30,4.48@p2",
+   "geometry_frame": "p2 axis=y cell=79.30-92.60 rowband=65.57-70.05 (12 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "address redacted by the county; only a ZIP visible, no city printed"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "01/02/2024",
+   "vendor_raw": "Andrea Allen",
+   "purpose": "Filing Fee (County Recorder)",
+   "amount": "712.25",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,16.66,13.40,4.45@p3",
+   "geometry_frame": "p3 axis=y cell=79.30-92.70 rowband=16.66-21.11 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer books her own filing fee as a reimbursement to herself; vendor is the candidate. (The filing fee is recorded here as the document prints it and is NEVER used to corroborate any other figure \u2014 brief L3.)"
+  },
+  {
+   "line_no": "2",
+   "date": "01/02/2024",
+   "vendor_raw": "Andrea Allen",
+   "purpose": "Map/Have Voted",
+   "amount": "55.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,21.11,13.40,4.46@p3",
+   "geometry_frame": "p3 axis=y cell=79.30-92.70 rowband=21.11-25.57 (2 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "03/07/024",
+   "vendor_raw": "Sams Club",
+   "purpose": "Meet & Greet/Granola Bars",
+   "amount": "237.38",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "geometry": "pct:79.30,25.57,13.40,4.45@p3",
+   "geometry_frame": "p3 axis=y cell=79.30-92.70 rowband=25.57-30.02 (3 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "DATE VERBATIM: the filer typed a THREE-DIGIT year, '03/07/024' (escalated to 900 dpi to confirm). Kept exactly as printed and flagged; no year was filled in from the report date. Schedule A's matching row prints '03/07/2024'"
+  },
+  {
+   "line_no": "4",
+   "date": "03/08/2024",
+   "vendor_raw": "Majority 51",
+   "purpose": "Backdrop",
+   "amount": "275.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,30.02,13.40,4.46@p3",
+   "geometry_frame": "p3 axis=y cell=79.30-92.70 rowband=30.02-34.48 (4 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "03/08/2024",
+   "vendor_raw": "Majority 51",
+   "purpose": "Campaign Signs",
+   "amount": "402.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,34.48,13.40,4.43@p3",
+   "geometry_frame": "p3 axis=y cell=79.30-92.70 rowband=34.48-38.91 (5 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "03/08/2024",
+   "vendor_raw": "Majority 51",
+   "purpose": "Campaign handouts",
+   "amount": "475.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,38.91,13.40,4.45@p3",
+   "geometry_frame": "p3 axis=y cell=79.30-92.70 rowband=38.91-43.36 (6 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "7",
+   "date": "04/08/2024",
+   "vendor_raw": "Mail Chimp",
+   "purpose": "Campaign Info",
+   "amount": "28.47",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,43.36,13.40,4.46@p3",
+   "geometry_frame": "p3 axis=y cell=79.30-92.70 rowband=43.36-47.82 (7 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "8",
+   "date": "04/19/2024",
+   "vendor_raw": "Hruskas",
+   "purpose": "Kolaches  /Convention",
+   "amount": "148.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,47.82,13.40,4.45@p3",
+   "geometry_frame": "p3 axis=y cell=79.30-92.70 rowband=47.82-52.27 (8 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "purpose printed with an internal gap, 'Kolaches  /Convention', kept verbatim"
+  },
+  {
+   "line_no": "9",
+   "date": "05/06/2024",
+   "vendor_raw": "Majority 51",
+   "purpose": "Consulting",
+   "amount": "1500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,52.27,13.40,4.46@p3",
+   "geometry_frame": "p3 axis=y cell=79.30-92.70 rowband=52.27-56.73 (9 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "10",
+   "date": "05/06/2024",
+   "vendor_raw": "Majority 51",
+   "purpose": "Campaign Mailer",
+   "amount": "219.34",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,56.73,13.40,4.48@p3",
+   "geometry_frame": "p3 axis=y cell=79.30-92.70 rowband=56.73-61.21 (10 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "11",
+   "date": "05/06/2024",
+   "vendor_raw": "Majority 51",
+   "purpose": "Campaign Stickers",
+   "amount": "114.68",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "geometry": "pct:79.30,61.21,13.40,4.45@p3",
+   "geometry_frame": "p3 axis=y cell=79.30-92.70 rowband=61.21-65.66 (11 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "THE TRACED DELTA. This cell prints 114.68 (escalated to 900 dpi: clean machine type, unambiguous) while the page's own printed subtotal leaves exactly 144.68 for it, and Schedule A row 11 prints 144.68 for the same transaction. The printed 114.68 is published VERBATIM; nothing was nudged and no printed total was touched"
+  },
+  {
+   "line_no": "12",
+   "date": "05/06/2024",
+   "vendor_raw": "Majority 51",
+   "purpose": "Mail Chimp",
+   "amount": "33.45",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.30,65.66,13.40,4.45@p3",
+   "geometry_frame": "p3 axis=y cell=79.30-92.70 rowband=65.66-70.11 (12 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer wrote a VENDOR NAME ('Mail Chimp') in the Purpose column while the Provider/Vendor column reads 'Majority 51'. Transcribed under the heading each cell sits below; the columns remain assignable by content everywhere else on the sheet (dates left, vendors centre-left, purposes centre-right), so this is the filer's own wording, not a field shift"
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah, chunk r13_01)",
+   "transcribed_date": "2026-08-20",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' (4230.57) on the p4 Summary Page \u2014 which is ALSO Schedule A's own printed 'Subtotal for this page' (4230.57) and its printed 'Total Contributions Received / Sum of all Schedule A pages in this report' (4230.57). Three independent printed statements of the same figure.",
+     "detail": "The 12 Schedule A rows sum to 712.25 + 55.00 + 237.38 + 275.00 + 402.00 + 475.00 + 28.47 + 148.00 + 1500.00 + 219.34 + 144.68 + 33.45 = 4230.57 exactly \u2014 equal to the page's printed subtotal, to the schedule's printed grand total, and to the cover's PROMOTED per-period cell Box B. Box C 'Contributions Received Year to Date' also prints 4230.57 (this is the filer's only report of the cycle, so period == year-to-date) and is NOT summed as an increment. Only 12 of the grid's 15 printed rows are used; rows 13-15 are empty (crop-proved)."
+    },
+    "expenditures": {
+     "result": "delta",
+     "anchor": "Box D 'Expenditures Made this Period' (4230.57) on the p4 Summary Page \u2014 equal to Schedule B's own printed 'Subtotal for this page' (4230.57) and its printed 'Total Expenditures Made' (4230.57)",
+     "detail": "The 12 Schedule B rows as PRINTED sum to 712.25 + 55.00 + 237.38 + 275.00 + 402.00 + 475.00 + 28.47 + 148.00 + 1500.00 + 219.34 + 114.68 + 33.45 = 4200.57, which is 30.00 SHORT of the schedule's own printed subtotal 4230.57 (and of the printed total, and of Box D). The delta is TRACED and UNIQUELY attributable from this page alone: the printed subtotal 4230.57 minus the other eleven rows leaves exactly 144.68 for row 11, whose cell prints 114.68. Row 11's amount cell was escalated to 900 dpi and rendered clean machine type '114.68' \u2014 unambiguous, not a legibility question. The row is therefore published 114.68 VERBATIM with needs_review=1 and NOTHING was nudged; no printed total was touched. MISSED-ROW SCREEN FIRST (H3/F1.5): before calling this a filer slip, band 13 (one past the last transcribed row) was cropped and rendered an EMPTY boxed cell, the 15 detected bands run at a perfectly regular 4.45 pitch with no ~2x doubled band, and the white space below the grid carries only the printed Name-of-Candidate box and the Subtotal label \u2014 so no row is missing and no band holds two entries. CORROBORATION, not an overwrite: the same transaction on this filing's own Schedule A row 11 prints 144.68 and closes that side exactly, which EXPLAINS the 30.00 as the filer's keying slip; per \u00a7C3/\u00a7M4 that cross-schedule figure was NOT used to supply the cell's value."
+    }
+   },
+   "in_kind_convention": "monetary-only \u2014 and it is the only convention available on this blank: the v. 12.23 Schedule A REVERTS to four columns (Date / Name of Contributor / Address and Zip Code / Amount) with NO in-kind checkbox and no in-kind line, and no row on either schedule carries an in-kind annotation. Both conventions were tested and are numerically identical here (there are no in-kind rows to add); monetary-only closes Schedule A exactly at 4230.57.",
+   "escalations": 2,
+   "escalation_note": "(1) Schedule B row 11 amount escalated to 900 dpi with --value: rendered '114.68' in clean machine type (the figure that makes this side 30.00 short). (2) Schedule B row 3 DATE cell escalated to 900 dpi: rendered '03/07/024' \u2014 the filer typed a three-digit year; kept verbatim with needs_review=1. The same transaction on Schedule A row 3 is dated '03/07/2024'.",
+   "n_contrib_rows": 12,
+   "n_expend_rows": 12,
+   "geometry": {
+    "measured": 24,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "modern_boxAF, form revision v. 12.23, masthead 'Aaron Davidson, Clerk'. 4 pages, each classified from its own printed header: p1 cover ('Financial Campaign Report for County and Local School Board Candidates'; report type ticked 'Seven days preceding the General Election'; amendment question ticked NO; Date of Report 10/29/2024; clerk RECEIVED stamp OCT 29 2024), p2 'Schedule A - Itemized Contributions Received', p3 'Schedule B - Itemized Expenditures Made', p4 'Summary Page' (LAST, as this variant tends to bind it \u2014 but located by its printed heading, not by ordinal). NO CHECKLIST is bound in this filing. pdfinfo: 4 pages, all rot: 0. PAGE-FACE candidate 'Andrea Allen' (index.csv channel label 'Andrea  Allen' \u2014 double space only, no conflict); page-face Office box reads 'Utah County Recorder', agreeing with index.csv 'County Recorder'. SUMMARY BOXES CROSS-CHECKED AGAINST THE SHEET HEADINGS (L1 screen): Schedule A is headed Contributions and its total lands in Box B; Schedule B is headed Expenditures and its total lands in Box D \u2014 no swap. The close box (UNLETTERED on this revision) prints 0.00 and A=0.00, F=4230.57=A+B, so the filer's own ladder is internally consistent. THE 2024 DUPLICATE CLUSTER: this filing is published TWICE by the county \u2014 as '2024_Andrea_Allen_Redacted.pdf' (this record) and as '2024_Andrea_Allen_Redacted_1_.pdf' (key 6d4ca26f). Each is transcribed INDEPENDENTLY and on its own terms; nothing here was merged, netted or differenced against the other copy, and the kind-classification of the pair is recorded in that record's notes. PRIVACY: the county blacked out the candidate's street address, phone number and signature on the cover and every donor street line on Schedule A; no street address or phone number is carried into any field or note of this record."
+  }
+ }
 }

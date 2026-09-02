@@ -1,0 +1,215 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-06-07",
+   "vendor_raw": "Go Daddy.com",
+   "purpose": "Web Hosting",
+   "amount": "102.83",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.26,19.39,74.74,3.76@p3"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-06-06",
+   "vendor_raw": "Go Daddy.com",
+   "purpose": "Web Hosting",
+   "amount": "35.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.26,23.15,74.74,3.78@p3"
+  },
+  {
+   "line_no": 3,
+   "date": "2023-06-06",
+   "vendor_raw": "Go Daddy.com",
+   "purpose": "Web Hosting",
+   "amount": "77.09",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.26,26.94,74.74,3.76@p3"
+  },
+  {
+   "line_no": 4,
+   "date": "2023-06-07",
+   "vendor_raw": "Go Daddy.com",
+   "purpose": "Web Hosting",
+   "amount": "32.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.26,30.70,74.74,3.78@p3"
+  },
+  {
+   "line_no": 5,
+   "date": "2022-06-06",
+   "vendor_raw": "Go Daddy.com",
+   "purpose": "Web Hosting",
+   "amount": "77.09",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.26,34.48,74.74,3.76@p3"
+  },
+  {
+   "line_no": 6,
+   "date": "2022-06-07",
+   "vendor_raw": "Go Daddy.com",
+   "purpose": "Web Hosting",
+   "amount": "30.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.26,38.24,74.74,3.78@p3"
+  },
+  {
+   "line_no": 7,
+   "date": "2021-06-03",
+   "vendor_raw": "Amazon Web Services",
+   "purpose": "website Fee",
+   "amount": "0.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.26,42.03,74.74,3.74@p3",
+   "note": "this 0.50 row is the difference between the 9-row sum 396.59 and the printed TOTAL 396.09 - the filer's arithmetic appears to omit it"
+  },
+  {
+   "line_no": 8,
+   "date": "2021-06-07",
+   "vendor_raw": "Go Daddy.com",
+   "purpose": "Web Hosting",
+   "amount": "29.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.26,49.49,74.74,3.76@p3",
+   "note": "year digits inked over by a filer correction; reads '6/7/2021'"
+  },
+  {
+   "line_no": 9,
+   "date": "2021-12-12",
+   "vendor_raw": "Canva.com",
+   "purpose": "Graphic Design Service",
+   "amount": "12.44",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.26,53.25,74.74,3.76@p3"
+  }
+ ],
+ "total_contributions": "",
+ "total_expenditures": "",
+ "beginning_balance": "415,02",
+ "ending_balance": "18.93",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "415,02"
+ },
+ "cover": {
+  "candidate": "Lisa Gehrke",
+  "party": "",
+  "office_sought": "SL Co Council",
+  "district_number": "#3",
+  "report_type": "Year-End Report (January 31 of each year) - 2019 'For a Candidate' form",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2026-03-10",
+  "form_year": "2019"
+ },
+ "confidence": {
+  "beginning_balance": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Gehrke-Lisa__9B2A3335.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Gehrke, Lisa",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Gehrke-Lisa__9B2A3335.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "THE DOCUMENT CONTRADICTS THE INDEX/CHUNK PRIORS as the audit flagged: the standard Summary Page is absent - the three pages are cover, then 'Summary Page OTHER CAMPAIGN ACCOUNTS' (lines 1 and 2 blank in both columns; handwritten line 3 = 415,02, line 4 = slashed-zero '\u00d8' (= 0), line 5 = 415,02, line 6 = 396,09, line 7 = 18.93), then one handwritten county-grid Schedule B. There is NO Schedule A page. Cover is the 2019 'Financial Disclosure Report For a Candidate' form used for an EOY 2025 year-end filing; signature date is handwritten '3/10/2026' (index said 2026-03-09 - the page governs). Political Party cell is blank; neither amendment Yes nor No box is checked. Office Sought reads 'SL Co Council' (county council - in scope). The itemized expenditures are dated 2021-2024 although this is an EOY 2025 report - transcribed verbatim as printed. Handwritten decimal separators on Schedule B are transcribed as periods; the summary figures use decimal commas and are kept verbatim ('415,02', '396,09'). One ruled row (band 9) is struck through and carries no legible content.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page anywhere in the document; the Other Campaign Accounts summary leaves line 1 blank and prints a slashed-zero glyph at line 4 (= 0, verbatim '\u00d8')"
+    },
+    "expenditures": {
+     "stated": "396,09",
+     "schedule_total": "396.09",
+     "itemized": "396.59",
+     "basis": "summary-line-6",
+     "result": "delta",
+     "detail": "9 live handwritten rows sum to 396.59; the printed schedule TOTAL and summary line 6 both read 396.09 - a 0.50 filer arithmetic delta that exactly equals the Amazon Web Services 0.50 row (line 7), which the filer's sum appears to omit; both figures retained verbatim"
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL FOR THIS PAGE cell is printed but left BLANK - gated on the schedule grand TOTAL 396.09 instead: 9 rows sum 396.59, does not gate, 0.50 delta = the AWS row (filer arithmetic, named in recon)",
+   "escalations": 7,
+   "escalation_note": "600dpi crops on p3: amounts col x1, dates col x1, vendor+purpose x2, struck row x1, TOTAL row x1; p2 summary lines 3-7 x1",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 9,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "THE DOCUMENT CONTRADICTS THE INDEX/CHUNK PRIORS as the audit flagged: the standard Summary Page is absent - the three pages are cover, then 'Summary Page OTHER CAMPAIGN ACCOUNTS' (lines 1 and 2 blank in both columns; handwritten line 3 = 415,02, line 4 = slashed-zero '\u00d8' (= 0), line 5 = 415,02, line 6 = 396,09, line 7 = 18.93), then one handwritten county-grid Schedule B. There is NO Schedule A page. Cover is the 2019 'Financial Disclosure Report For a Candidate' form used for an EOY 2025 year-end filing; signature date is handwritten '3/10/2026' (index said 2026-03-09 - the page governs). Political Party cell is blank; neither amendment Yes nor No box is checked. Office Sought reads 'SL Co Council' (county council - in scope). The itemized expenditures are dated 2021-2024 although this is an EOY 2025 report - transcribed verbatim as printed. Handwritten decimal separators on Schedule B are transcribed as periods; the summary figures use decimal commas and are kept verbatim ('415,02', '396,09'). One ruled row (band 9) is struck through and carries no legible content."
+  }
+ }
+}

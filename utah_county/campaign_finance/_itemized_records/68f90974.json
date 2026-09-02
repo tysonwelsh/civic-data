@@ -1,0 +1,357 @@
+[
+ {
+  "index_path": "raw/2016/2016_G2016Ivie.pdf",
+  "key": "68f90974",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_03)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (8,550) on the p2 SUMMARY PAGE, which is also Schedule A's own printed 'Subtotal for this page $8,550' AND its printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $8,550'",
+    "detail": "The 6 Schedule A rows sum to 500.00 + 2000.00 + 3250.00 + 2000.00 + 750.00 + 50.00 = 8,550.00 EXACTLY, equal to the printed page subtotal, the printed schedule total, the cover's PROMOTED per-period Column A cell and the cover's line 4 'Total Contributions Received (From Line 1 Column A)' 8,550. ⚠ COLUMN B Year-to-Date prints 29,194 — a DIFFERENT and much larger figure, exactly as the per-period regime predicts; it was NOT summed as an increment and this schedule itemizes only the period. The cover's ladder closes independently: line 3 beginning balance 10,190.80 + line 4 8,550 = line 5 subtotal 18,740.80, minus line 6 18,181.70 = line 7 close 559.10, all as printed."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (18,181.70) on the p2 SUMMARY PAGE, equal to Schedule B's own printed 'Subtotal for this page $18,181.70' and its printed 'Total Expenditures (Sum of subtotals from all Schedule B pages) $18,181.70'",
+    "detail": "The 8 Schedule B rows sum to 6515.45 + 3250.00 + 2000.00 + 66.30 + 683.80 + 2938.40 + 2227.75 + 500.00 = 18,181.70 EXACTLY — equal to the printed page subtotal, the printed schedule total, the cover's per-period Column A cell and the cover's line 6. Column B Year-to-Date on line 2 is over-written and was flagged unreadable by the cover tranche; it is NOT reconstructed here and NOTHING was differenced across covers to supply it — the per-period anchor closes on its own."
+   }
+  },
+  "in_kind_convention": "not applicable / both conventions identical — no in-kind column is printed on either schedule, no row is marked in-kind, and the summary page carries no separate in-kind line, so monetary-only and monetary-plus-in-kind give the same sums (8,550.00 and 18,181.70). Tested, not inherited.",
+  "escalations": 9,
+  "escalation_note": "9 tight --value crops at 1200 dpi: Schedule A's first row, last row and one-past control; Schedule B's first row, last row and one-past control; plus three FIELD escalations that settled legibility only — Craig Smith's corrected address cell (a struck house number with '2328' written above), the Schedule B row-1 vendor name ('Mailinach', still a doubtful read, left at confidence low), and the Schedule B row-7 struck-out date (scribbled to illegibility, NOT reconstructed; the correction '7/9' governs). No figure was changed by any escalation and both sides closed exactly without one.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     80.9,
+     90.36
+    ],
+    "cells": [
+     [
+      8.88,
+      19.91
+     ],
+     [
+      21.24,
+      52.51
+     ],
+     [
+      53.79,
+      79.53
+     ],
+     [
+      80.9,
+      90.36
+     ]
+    ],
+    "rows": [
+     [
+      18.0,
+      21.77
+     ],
+     [
+      21.77,
+      25.53
+     ],
+     [
+      25.53,
+      29.31
+     ],
+     [
+      29.31,
+      33.07
+     ],
+     [
+      33.07,
+      36.82
+     ],
+     [
+      36.82,
+      40.6
+     ]
+    ],
+    "measure_note": "legacy_colAB UNDERLINE form. rowbands.py p3: 17 per-column underline rules at 21.77..83.x, pitch 3.77, skew -0.1 deg (17 rules = 16 data rows). Column bands from the rule segments: Date 8.88-19.91, Name of Contributor 21.24-52.51, Mailing Address & Zip Code 53.79-79.53, Amount 80.90-90.36. ⚠ THE FIRST RULE (y=21.77) RETURNS THE ADDRESS AND AMOUNT COLUMNS AS ONE MERGED SEGMENT [53.79,90.34] because the filer's ink bridges the gap on that line; the split at 79.5/80.9 was taken from the rules below it, where the two underlines are clean. TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N]; band 1 extrapolated one pitch up to [18.00,21.77]. THREE-CROP PROOF at 1200 dpi --value: the §A1 FIRST-ENTRY control pct:80.90,18.00,9.46,3.77@p3 rendered the printed 'Amount' header WITH a handwritten '500' + raised dash beneath it — the filer did NOT skip the first ruled line; the LAST-ROW crop pct:80.90,36.82,9.46,3.78@p3 rendered '50' + raised dash (recorded 50.00, Craig Smith); and the mandatory §B5 ONE-PAST control pct:80.90,40.60,9.46,3.76@p3 rendered an EMPTY cell — no trap-5 row below the grid."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     80.87,
+     90.35
+    ],
+    "cells": [
+     [
+      8.93,
+      19.9
+     ],
+     [
+      21.17,
+      52.5
+     ],
+     [
+      53.72,
+      79.52
+     ],
+     [
+      80.87,
+      90.35
+     ]
+    ],
+    "rows": [
+     [
+      19.94,
+      23.7
+     ],
+     [
+      23.7,
+      27.48
+     ],
+     [
+      27.48,
+      31.21
+     ],
+     [
+      31.21,
+      34.99
+     ],
+     [
+      34.99,
+      38.75
+     ],
+     [
+      38.75,
+      42.52
+     ],
+     [
+      42.52,
+      46.26
+     ],
+     [
+      46.26,
+      50.03
+     ]
+    ],
+    "measure_note": "Same underline form, measured on THIS page: 17 rules at 23.70..84.x, pitch 3.76, skew +0.2 deg (p3 is -0.1 — the two sheets of one PDF do not share a grid). Column bands from this page's own rule segments: Date 8.93-19.90, Name/Nature of Expenditure 21.17-52.50, Mailing Address & Zip Code 53.72-79.52, Amount 80.87-90.35. Band 1 extrapolated one pitch up to [19.94,23.70]. THREE-CROP PROOF at 1200 dpi --value: the §A1 FIRST-ENTRY control pct:80.87,19.94,9.48,3.76@p4 rendered the 'Amount' header WITH '6,515' + raised '45' beneath it (recorded 6515.45) — first entry is on band 1; the LAST-ROW crop pct:80.87,46.26,9.48,3.77@p4 rendered '500' + raised dash (recorded 500.00, Creative Stream); the §B5 ONE-PAST control pct:80.87,50.03,9.48,3.76@p4 rendered an EMPTY cell."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "6/24",
+    "donor_raw": "David Hinkins",
+    "donor_city": "Ferron",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "the filer gives a post-office-box line rather than a street; only city/state are carried (PRIVACY). Ferron is in EMERY County — an out-of-county donor, and the donor shares a name with a sitting state senator, which is NOT asserted here. DATE HAS NO YEAR — the filer wrote only month/day ('6/24') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. The amount is written as whole dollars followed by a RAISED DASH in the cents position (the filer's .00)."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "6/24",
+    "donor_raw": "Ben Markham",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "the address is written on TWO lines inside this row's own cell — city/state/zip above, street below — a same-cell wrap, not a continuation row (the amount and the whole address stay in band 2). DATE HAS NO YEAR — the filer wrote only month/day ('6/24') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. The amount is written '2000' with no comma and no cents mark."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "6/24",
+    "donor_raw": "Creative Stream",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "3250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "a VENDOR that also appears four times on this filing's Schedule B (Video Production / Video Promotion) — the same name on both sides is recorded as the document prints it and nothing is inferred across schedules (ruling C3). DATE HAS NO YEAR — the filer wrote only month/day ('6/24') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. The amount is written as whole dollars followed by a RAISED DASH in the cents position (the filer's .00)."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "6/24",
+    "donor_raw": "Madsen for Senate",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "a legislative candidate committee; the address cell is a post-office box, so city/state only. DATE HAS NO YEAR — the filer wrote only month/day ('6/24') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. The amount is written as whole dollars followed by a RAISED DASH in the cents position (the filer's .00)."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "10/12",
+    "donor_raw": "Ut. Co. Republican Party",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "750.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "the county party committee, named in the filer's own abbreviation. The address cell is a post-office box, so city/state only. DATE HAS NO YEAR — the filer wrote only month/day ('10/12') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. The amount is written as whole dollars followed by a RAISED DASH in the cents position (the filer's .00)."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "10/31",
+    "donor_raw": "Craig Smith",
+    "donor_city": "SLC",
+    "donor_state": "ut",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "the address cell carries a STRUCK-OUT house number with '2328' written above it — a handwritten correction over a struck value, which governs; only city/state are carried either way. City is written 'SLC' and state 'ut' in the filer's own hand and are recorded exactly so — the abbreviation is NOT expanded, since only the row's own cell may supply the row's value. DATE HAS NO YEAR — the filer wrote only month/day ('10/31') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. The amount is written as whole dollars followed by a RAISED DASH in the cents position (the filer's .00)."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "6/22",
+    "vendor_raw": "Mailinach",
+    "purpose": "Mailer",
+    "amount": "6515.45",
+    "in_kind": false,
+    "confidence": "low",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "VENDOR NAME IS A DOUBTFUL READ: escalated to a 1200 dpi tight crop, the hand reads 'Mailinach' letter by letter but no such firm is asserted; recorded verbatim as read, confidence low. The amount is not in doubt — '6,515' with a raised '45'. DATE HAS NO YEAR — the filer wrote only month/day ('6/22') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. ⚠ FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position — the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column — which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "6/23",
+    "vendor_raw": "Creative Stream",
+    "purpose": "Video Production",
+    "amount": "3250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR — the filer wrote only month/day ('6/23') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. ⚠ FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position — the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column — which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "6/23",
+    "vendor_raw": "Creative Stream",
+    "purpose": "Video Promotion",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "amount written '2,000' with no cents mark. DATE HAS NO YEAR — the filer wrote only month/day ('6/23') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. ⚠ FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position — the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column — which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "6/24",
+    "vendor_raw": "Maceys",
+    "purpose": "Candy etc.",
+    "amount": "66.30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "purpose written 'Candy etc.' — the filer's own wording, kept. DATE HAS NO YEAR — the filer wrote only month/day ('6/24') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. ⚠ FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position — the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column — which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "6/29",
+    "vendor_raw": "Richard Jaussi",
+    "purpose": "Robo Calls",
+    "amount": "683.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "dated 6/29, LATER than the row below it (6/28) — the filer's own ordering, kept in printed row order. DATE HAS NO YEAR — the filer wrote only month/day ('6/29') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. ⚠ FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position — the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column — which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "6/28",
+    "vendor_raw": "Ring LLC",
+    "purpose": "Robo Calls",
+    "amount": "2938.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "the purpose cell is a DITTO MARK (\") repeating 'Robo Calls' from the row above; carried per the filer's own notation (CHUNK_BRIEF §7) and the fact that it was a ditto is recorded here. DATE HAS NO YEAR — the filer wrote only month/day ('6/28') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. ⚠ FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position — the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column — which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "7/9",
+    "vendor_raw": "Speak by Design",
+    "purpose": "Signs / Printing",
+    "amount": "2227.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "the date cell carries a HEAVILY STRUCK-OUT date followed by '7/9' — the handwritten correction over the struck value governs, so the operative date is 7/9. Escalated to a 1200 dpi crop; the struck value is scribbled through to illegibility and is NOT reconstructed. DATE HAS NO YEAR — the filer wrote only month/day ('7/9') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. ⚠ FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position — the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column — which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "10/26",
+    "vendor_raw": "Creative Stream",
+    "purpose": "Video Promotion",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR — the filer wrote only month/day ('10/26') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF §7), so the row is flagged for the build to blank. ⚠ FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position — the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column — which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+   }
+  ],
+  "notes": "⚠ A FOURTH 2016 SHEET VARIANT — and the SECOND Schedule-B column vocabulary found in this chunk. The cover is the county-&-school-board blank ('Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13', HEART of UTAH letterhead) with 'County & Local School Board Candidates' set vertically down the LEFT margin, but its inner sheets are strap-lined '2016 County & Local School Board CandidateS' — not the '2016 County Commission & Local School Board Candidate' strapline on Voeks 17bb61d5 and Bowen de1c36cb — and its SCHEDULE B COLUMN 2 IS HEADED 'Name/Nature of Expenditure', where Bowen's reads 'Expenditure' and Voeks's reuses Schedule A's 'Name of Contributor'. THREE Schedule-B headings and (with Frost 7dbce577) TWO cover blanks are therefore in circulation in ONE cycle and ONE seat. Read the headings off every page — nothing about the cover predicts the schedules (addendum F6). No variant seen so far prints a Purpose column. 4 pages, all classified by their own printed headings: p1 cover, p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B. FOLIATION: the Page __ of __ / Last Name / Date of Report block is printed on pp2-4 and left WHOLLY BLANK on all three, as on Bowen — page ordinals locate nothing here. ⚠ NOT ONE DATE ON EITHER SCHEDULE CARRIES A YEAR. All 14 itemized rows are month/day only ('6/24', '10/12', '7/9'...). Every one is kept VERBATIM and flagged needs_review=1 so the build blanks it — a year is never filled in from the report date, even though the report date (1 Nov 2016) and the cycle make the year obvious. This is the first filing in the chunk where the whole date column is year-less. PAGE-FACE NAME 'R. Nathan Ivie' (Office Seeking 'Ut. County Commissioner Seat C', party 'Rep.', residence Spanish Fork UT); he signs the verification 'Nathan Ivie'. index.csv names NO candidate for this row, so the page face supplies it — and note the channel's own labels for this filer differ across his three 2016 filings ('Nathan Ivie' twice, 'R. Nathan Ivie' once). Report type: 'Seven days preceding the General Election'; amendment ticked 'No'; report date written '1 Nov 2016'. ⚠ THE SAME FILER IS ALSO A DONOR ELSEWHERE IN THIS CYCLE: 'Ronald Nathan Ivie (in-kind donation) 100.00' appears on Casey Voeks's 6/20/16 Schedule A (17bb61d5) at the same Benjamin UT address family. Recorded as an OBSERVATION across two documents; nothing was carried between them. PRIVACY: this filing is NOT redacted; full street lines and box numbers are published in the clear. Reduced to city/state at read time for contributions and dropped entirely for expenditures — no street line, box number or phone number reached this record. FIELD-SHIFT SCREEN: run on both sides and it CAUGHT SOMETHING on Schedule B — the filer uses the printed 'Mailing Address & Zip Code' column for the PURPOSE on all 8 rows and records no vendor address at all. The columns are assignable by content (the heading 'Name/NATURE of Expenditure' invites it), so the side is transcribed with purpose read from that column, not withheld. Schedule A's columns are unshifted. Row-index traps: the §A1 and §B5 controls passed on both sheets; there is one same-cell address wrap (contribution row 2) that does NOT consume a band, one ditto mark, one struck-and-corrected date and one struck-and-corrected address — none of which shifts an index."
+ }
+]

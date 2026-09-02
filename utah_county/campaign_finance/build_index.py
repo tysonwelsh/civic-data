@@ -111,13 +111,35 @@ def main(argv):
         # carries a `candidate`, it is the name printed ON THE FILING'S OWN FACE (cited in
         # `evidence`) and it is written into an EMPTY cell only — a non-empty channel label is
         # NEVER overwritten here, because a channel/face disagreement must stay visible.
+        # REATTRIBUTION (2026-08-19, Phase B wave). The rule above is right for a mere
+        # name-form difference, but this module's own do-nots record that the acquisition
+        # channel is SOMETIMES SIMPLY WRONG ABOUT WHO FILED — the county's Strapi record files
+        # Paul V. Child's 2020 Recorder filing under Taylor Dayton. Keeping a known-wrong filer
+        # in index.csv does not preserve a useful disagreement, it preserves an ERROR, and it
+        # blocks that filing's itemized rows (the shared validator requires a contributions
+        # row's (candidate, election_year) to exist here).
+        #
+        # So an override row whose `evidence` begins with the literal token `REATTRIBUTION:`
+        # MAY overwrite a non-empty channel label. It is deliberately explicit — the token has
+        # to be typed into the curated file — it is logged loudly on every build, and the
+        # channel's original label is quoted verbatim in that same `evidence` cell, so the
+        # disagreement stays visible where corrections are supposed to live. Anything WITHOUT
+        # the token still refuses to overwrite, exactly as before.
         cand = (o.get('candidate') or '').strip()
-        if cand and not (r.get('candidate') or '').strip():
+        chan = (r.get('candidate') or '').strip()
+        reattr = (o.get('evidence') or '').lstrip().startswith('REATTRIBUTION:')
+        if cand and not chan:
             promoted.append((r['path'], cand))
             r = dict(r, candidate=cand)
-        elif cand:
+        elif cand and reattr and cand != chan:
+            print(f'  candidate REATTRIBUTED for {r["path"]}: channel {chan!r} -> page face '
+                  f'{cand!r} (explicit REATTRIBUTION: row; channel label retained in evidence)')
+            promoted.append((r['path'], cand))
+            r = dict(r, candidate=cand)
+        elif cand and cand != chan:
             print(f'  candidate override IGNORED for {r["path"]}: the channel already labels '
-                  f'this filing {r.get("candidate")!r} (a disagreement must stay visible)')
+                  f'this filing {chan!r} (a disagreement must stay visible; an explicit '
+                  f'`REATTRIBUTION:` evidence prefix is required to overwrite)')
         out.append(r)
     kept = out
 

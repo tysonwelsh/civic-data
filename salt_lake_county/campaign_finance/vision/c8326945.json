@@ -1,0 +1,132 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2016-01-27",
+   "donor_raw": "Max Burdick",
+   "occupation": "REALTOR/ SELF",
+   "amount": "5,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.16,25.00,84.47,3.65@p3",
+   "note": "the word 'Loan' is written on a second line beneath the name - a self-loan from the candidate. Amount printed '5,000.' with a trailing dash (no cents) - re-read at 900 dpi as 5,000.-. Address cell REDACTED AT SOURCE by the county's black bar, so donor_city/donor_state are honestly blank (not left empty by the filer)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2015-04-10",
+   "vendor_raw": "Sandy City Honorary Colonels",
+   "purpose": "Donation to Support Police Officers",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.37,25.40,75.60,4.20@p4",
+   "note": "recipient cell re-read at 900 dpi: 'Sandy City / Honorary Colonels' on two lines. Amount printed '$250.' with the cents as a superscript over a rule (the 00/superscript convention)."
+  }
+ ],
+ "total_contributions": "5,000.00",
+ "total_expenditures": "250.00",
+ "beginning_balance": "5,421.62",
+ "ending_balance": "10,171.62",
+ "aggregate": {
+  "total_contributions_to_date": "10,421.62",
+  "total_expenditures_to_date": "500.00",
+  "line5_subtotal": "10,421.62"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "District 6",
+  "report_type": "YEAR-END REPORT: January 31 of each year (Required by all open campaign committees)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2-1-2016",
+  "form_year": "2015"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2015_disclosures__2015_year_end__max_burdick2015ye.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2015_disclosures__2015_year_end__max_burdick2015ye.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "CHUNK-FILE CONTRADICTION: the chunk row says schedule_a='not-inspected (the Schedule A page was not among the pages read)'. The document DOES carry a county Schedule A grid on page 3, with one filled row; it is transcribed here. FLAG CONFIRMED: this is a faxed filing - every page carries the fax header 'Feb 01 16 05:44p / Burdick & Associates / 8019435865 / p.N'. The fax header is transmission metadata, not a field, and is not transcribed as data. Cover: neither the 'Yes' nor the 'No' amendment box is ticked, so is_amendment is honestly blank. Column-B aggregate 10,421.62 equals line 5 rather than a to-date total that exceeds it - the filer's own arithmetic, retained verbatim. Amounts written '5,000.' followed by a long dash (the no-cents convention, \u00a75(g)) are recorded as 5,000.00 with the verbatim named in the row note. Both cover address blocks (street block and phone/fax/email block) are covered by the county's black bar.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5,000.00",
+     "schedule_total": "5,000.00",
+     "itemized": "5000.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "the single Schedule A row (5,000.-) = the printed SUBTOTAL FOR THIS PAGE (5,000.-) = TOTAL CONTRIBUTIONS RECEIVED (5,000.-) = Summary line 1 Column A. All three cells were re-read in 900 dpi tight crops."
+    },
+    "expenditures": {
+     "stated": "250.00",
+     "schedule_total": "250.00",
+     "itemized": "250.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "the single Schedule B row ($250.00, cents written as a superscript over a rule) = printed page subtotal 250.00 = TOTAL EXPENDITURES MADE 250.00 = Summary line 2 Column A."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 5000.00 = printed subtotal 5,000.- ; p4 rows 250.00 = printed subtotal 250.00",
+   "escalations": 3,
+   "escalation_note": "p3 amount cell + p3 subtotal/total cells at 900 dpi (confirming '5,000.-' in all three); p4 recipient cell at 900 dpi (settling 'Sandy City Honorary Colonels').",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "CHUNK-FILE CONTRADICTION: the chunk row says schedule_a='not-inspected (the Schedule A page was not among the pages read)'. The document DOES carry a county Schedule A grid on page 3, with one filled row; it is transcribed here. FLAG CONFIRMED: this is a faxed filing - every page carries the fax header 'Feb 01 16 05:44p / Burdick & Associates / 8019435865 / p.N'. The fax header is transmission metadata, not a field, and is not transcribed as data. Cover: neither the 'Yes' nor the 'No' amendment box is ticked, so is_amendment is honestly blank. Column-B aggregate 10,421.62 equals line 5 rather than a to-date total that exceeds it - the filer's own arithmetic, retained verbatim. Amounts written '5,000.' followed by a long dash (the no-cents convention, \u00a75(g)) are recorded as 5,000.00 with the verbatim named in the row note. Both cover address blocks (street block and phone/fax/email block) are covered by the county's black bar."
+  }
+ }
+}

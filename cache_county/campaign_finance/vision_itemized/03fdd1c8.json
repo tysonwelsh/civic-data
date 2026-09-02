@@ -1,0 +1,84 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C22.json",
+ "key": "03fdd1c8",
+ "index_path": "raw/2024/2024_cc_2024_General_Nolan_P_Gunnell.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Nolan_P_Gunnell.pdf"
+ ],
+ "sha256_prefix": "f79a4cefba667787",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "$ 0.00",
+    "cover_over50_cum": "$ 0.00",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "Ø",
+    "page_subtotal": "Ø",
+    "box_A_balance_begin": "$ 0.00",
+    "box_F_subtotal": ""
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==page-subtotal==cover Box B==Box C",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A (p2) is struck out: the filer drew a slashed-zero glyph across the first writing line and left every other line empty, and both printed total cells hold the same slashed zero = 0. Box B (this period) $0.00 and Box C (year-to-date) $0.00 agree, so the two scopes coincide. le50 keys null: this form prints no separate $50-or-less line."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_this": "$ 0.00",
+    "cover_expense_cum": "$ 4,896.63",
+    "cover_balance_end": "",
+    "schedule_total": "Ø",
+    "page_subtotal": "Ø",
+    "box_A_balance_begin": "$ 0.00",
+    "box_F_subtotal": ""
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==page-subtotal==cover Box D (this period)",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Schedule B (p3) is struck out the same way (slashed zero on the first line, both printed total cells a slashed zero = 0). Zero rows equal Box D (Expenditures Made This Period, $0.00) and the schedule's own per-report total, but NOT Box E (Expenditures Made Year-to-Date, $4,896.63). The rows are therefore on the PERIOD scope — a different scope from the cumulative figure this module publishes, which is honest and expected here: the cover marks this a Seven-days-preceding-the-General amendment of the 6-11-2024 report and the filer wrote 'No change since previous report' on it. The $4,896.63 of year-to-date spending is itemized in the EARLIER filing, not this one; nothing was borrowed or differenced."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: zero rows = printed subtotal (Ø) = printed total (Ø) — gates. p3: zero rows = printed subtotal (Ø) = printed total (Ø) — gates.",
+  "row_count": "Not applicable in the counting sense — both ruled grids are entirely uninked apart from the single struck-out zero glyph on line 1 of each, read at 600 dpi; 0 rows emitted on both sides.",
+  "geometry_proof": "No rows to place, so no row geometry is claimed. The two nil glyphs were located and rendered directly (p2 and p3, first writing line, ~y 18% of the page) and the printed subtotal/total cells at ~y 84-89% were each re-rendered at 600 dpi.",
+  "balance_chain": "Box A $0.00 + Box B $0.00 = Box F — but Box F is left BLANK, as is 'Balance at Close of Reporting Period'. The chain therefore cannot be closed on the page; the three figures that ARE printed (A, B, D all $0.00) are mutually consistent. Cross-filing test not possible within this chunk: the report it amends (6-11-2024) is a different document and is not in this chunk."
+ },
+ "escalations": 3,
+ "escalation_note": "600 dpi crops of the p4 A/B/C block, the p4 D/E block and the p4 F / Balance-at-Close block; plus 600 dpi crops of the p2 first line and both schedules' printed total cells.",
+ "notes": "Office line INSIDE the form reads 'County Council' with 'South' written on the second line (the district) — agrees with the chunk file's 'County Council', in scope. THIS IS AN AMENDMENT: 'Is this report an amendment?' is marked YES with 'Date of Original Report 6-11-2024', and the filer wrote across the Type-of-Report box 'No change since previous report'; the chunk file does not carry that fact. Report type marked 'Seven days preceding the General Election'. Date of Report 10-22-2024 (index says 2024-11-01 — CMS posting date; the form governs); Clerk/Auditor received stamp 2024 OCT 22 PM2:35. Footer page numbers run '1 of 4' … '4 of 4', so the PDF is complete. Candidate home address, phone and email are printed in the clear on p1 and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

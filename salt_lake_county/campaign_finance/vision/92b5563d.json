@@ -1,0 +1,166 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-04-08",
+   "vendor_raw": "FED EX",
+   "purpose": "COPIES",
+   "amount": "104.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.90,23.43,78.10,3.75@p3"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-04-08",
+   "vendor_raw": "FED EX",
+   "purpose": "COPIES",
+   "amount": "54.79",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.90,27.18,78.10,3.75@p3",
+   "note": "recipient and purpose cells carry ditto marks (\") resolved to the row above; date handwritten again '4-8-24'"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-04-10",
+   "vendor_raw": "KSL - DIGITAL",
+   "purpose": "KSL - AD",
+   "amount": "10,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.90,30.91,78.10,3.75@p3",
+   "note": "printed '10,000' with no cents"
+  },
+  {
+   "line_no": 4,
+   "date": "2024-04-16",
+   "vendor_raw": "FEDEX",
+   "purpose": "COPIES",
+   "amount": "184.80",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.90,34.61,78.10,3.75@p3"
+  },
+  {
+   "line_no": 5,
+   "date": "2024-05-07",
+   "vendor_raw": "RE-PAYING SELF",
+   "purpose": "YIANNI IOANNOU",
+   "amount": "76,400.80",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.90,38.36,78.10,3.75@p3",
+   "note": "loan repayment; the candidate's own name appears in the Purpose column; amount trails past the ruled cell"
+  }
+ ],
+ "total_contributions": "0.00",
+ "total_expenditures": "86,744.85",
+ "beginning_balance": "86,744.85",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "100K",
+  "total_expenditures_to_date": "100K",
+  "line5_subtotal": "86,744.85"
+ },
+ "cover": {
+  "candidate": "Yianni Ioannou",
+  "party": "R",
+  "office_sought": "MAYOR",
+  "district_number": "N/A",
+  "report_type": "Final / Dissolution Report (2024 form 'Financial Disclosure Report For a Candidate')",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "5-7-24",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Ioannou-Yianni__AE136911.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ioannou, Yianni",
+  "office": "Mayor",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Ioannou-Yianni__AE136911.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "3-page document: cover / Summary / Schedule B - NO Schedule A page exists (chunk prior confirmed at the page). 2024 'For a Candidate' form with the Final/Dissolution box checked; NEITHER amendment box (Yes/No) is checked, so is_amendment left blank. Cover Office line handwritten 'COUNTY MAYOR' (index prior 'Mayor'; page governs). Column B for lines 1 and 2 written '100K' rather than a figure (kept verbatim). Largest row is $76,400.80 'RE-PAYING SELF'. Cover address block barred; no redaction on Schedule B. The second Schedule B row uses ditto marks for recipient and purpose (resolved to row above, noted); its date is handwritten again '4-8-24' (the chunk audit prior said the date was also ditto - the page shows a handwritten date, page governs).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page exists in this 3-page document (cover / Summary / Schedule B only); Summary line 1 Col A is a handwritten zero glyph, consistent with nothing to itemize; Column B written '100K' rather than a figure"
+    },
+    "expenditures": {
+     "stated": "86,744.85",
+     "schedule_total": "86,744.85",
+     "itemized": "86744.85",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "5 rows sum 86744.85 = Schedule B printed SUBTOTAL/TOTAL 86,744.85 = Summary line 2 Col A; the handwritten cents glyphs on Summary lines 2/3/5/6 are ambiguous (.25/.85/.95) and the schedule's own arithmetic settles .85"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 86744.85 = printed SUBTOTAL 86,744.85 and TOTAL 86,744.85",
+   "escalations": 1,
+   "escalation_note": "p2 Summary money column 600dpi crop x1 - cents glyphs stayed ambiguous, arithmetic governs (.85); Schedule B rows re-verified in a 400dpi band, read identically",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "3-page document: cover / Summary / Schedule B - NO Schedule A page exists (chunk prior confirmed at the page). 2024 'For a Candidate' form with the Final/Dissolution box checked; NEITHER amendment box (Yes/No) is checked, so is_amendment left blank. Cover Office line handwritten 'COUNTY MAYOR' (index prior 'Mayor'; page governs). Column B for lines 1 and 2 written '100K' rather than a figure (kept verbatim). Largest row is $76,400.80 'RE-PAYING SELF'. Cover address block barred; no redaction on Schedule B. The second Schedule B row uses ditto marks for recipient and purpose (resolved to row above, noted); its date is handwritten again '4-8-24' (the chunk audit prior said the date was also ditto - the page shows a handwritten date, page governs)."
+  }
+ }
+}

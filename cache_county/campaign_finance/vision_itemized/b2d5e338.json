@@ -1,0 +1,112 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C08.json",
+ "key": "b2d5e338",
+ "index_path": "raw/2014/2014_cc_Potter_Oct_28_14_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Potter_Oct_28_14_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "0ca21c719d7c2f05",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A carries NO transaction: the filer drew a single '0' glyph in the Amount column of the first writing line with no date, no contributor name and no address (verified in a 900 dpi cell crop). That is a nil mark, not a row, so zero rows are emitted. Cover line 1 reads 0 in all three columns (LAST / THIS / CUMULATIVE), so the empty schedule gates exactly. The Carr form prints no schedule total; schedule_total is null. THIS == CUMULATIVE (first report of the cycle), so the two scopes coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "199.00",
+    "cover_expense_cum": "199.00",
+    "cover_balance_end": "-199.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "199.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Two rows, 99.00 + 100.00 = 199.00, equal to cover line 3 in BOTH the THIS REPORT and CUMULATIVE columns (line 3 LAST REPORT is 0, so this is the first report of the cycle and the two scopes coincide). The Carr form prints no schedule total on Form B; the cover line is the only anchor."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints NO schedule total or page subtotal on either Form A or Form B — the sheet ends with the '(If additional space is needed ...)' rubric. Cover lines are the only anchors. p3 rows 99.00+100.00 = 199.00 = cover line 3 (THIS and CUM). p2 zero rows = cover line 1 (0).",
+  "row_count": "rowbands.py p3 -> geometry_status 'gaps', 34 bands, rule pitch ~2.31%, top header rule 9.53%; the tool merged the first ~3 rules under the handwriting (next detected rule 16.94%). Counted by INK: exactly 2 inked rows on Form B, 2 rows emitted. p2: 0 inked rows, 0 rows emitted (single nil '0' glyph in the Amount column only).",
+  "geometry_proof": "p3 first-row crop (pct 82.85,9.30,9.70,3.00) renders '$99.00'; last-row crop (pct 82.85,12.50,9.70,2.50) renders '$100.00'; control one pitch below (y=15.0%) renders EMPTY.",
+  "balance_chain": "Cover: line1 0 + line2 0 contributions, line3 199.00 expenses, line4 balance -199.00 (THIS and CUM). 0 + 0 - 199.00 = -199.00 closes exactly against the printed balance. LAST REPORT column is 0 on every line, so there is no prior filing to chain to."
+ },
+ "escalations": 4,
+ "escalation_note": "p3 date column 1200 dpi cell crop (3/14/14 vs 3/19/14 -> 3/14/14); p3 amount column 900 dpi crop (99.00 / 100.00); p2 amount column 900 dpi crop (isolates the lone '0' nil glyph); plus 3 geometry-proof crops at 600 dpi.",
+ "notes": "Cover 'Name of Office' reads 'Cache County Council', Office District 'North East' — agrees with the chunk file's 'County Council'. Candidate 'Val K. Potter' — chunk file says 'Potter'; agrees. Cover cites Cache County Code 2.21 and the footer reads '5-5-PG / Carr Printing Company, Bountiful, Utah' — carr_5_5_pg confirmed. Cover cents are written as superscripts over a rule (199 with a raised 'oo'), transcribed 199.00 per core brief 3(g). The candidate's street address, home phone and business phone are printed in the clear on the cover and were discarded at read time. Page 4 is the statute text (2.21.040 / 2.21.050), no data.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-03-14",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "Candidate Filing Fee",
+   "amount": "99.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.85,9.30,9.70,3.00@p3",
+   "note": "printed '$99.ᵒᵒ' with superscript cents over the rule; date re-read at 1200 dpi to settle 14 vs 19 — the two-stroke digit is a 4 (matches the filer's '4' in the year)"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2014-07-28",
+   "vendor_raw": "Cache County Republican Party",
+   "purpose": "County Fair Food - Republican Booth",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.85,12.50,9.70,2.50@p3",
+   "note": "printed '$100.ᵒᵒ' with superscript cents over the rule"
+  }
+ ]
+}

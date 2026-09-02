@@ -1,0 +1,94 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C16.json",
+ "key": "a288a7cc",
+ "index_path": "raw/2020/2020_cc_Kathleen_Howell.pdf",
+ "applies_to": [
+  "raw/2020/2020_cc_Kathleen_Howell.pdf",
+  "raw/2020/2020_st_Howell_summary.pdf"
+ ],
+ "sha256_prefix": "d05c4eda8fb64931",
+ "pages_read": [
+  1,
+  2
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "none",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "none - Form A sheet is not in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is 2 pages: cover (printed 'Page 1') and Form 'B' (printed 'Page 3'). The Form 'A' sheet (printed page 2) is not present. The cover's line-1 row reads 0 / 0 / 0 (all three glyphs are written zeros, not dashes), but that is a cover figure, not a schedule - so sides.contributions is 'none', not a transcribed zero."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "523.28",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "523.28",
+    "cover_balance_end": "523.28",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "523.28",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "The single Form B row (523.28) equals the cover's line-3 CUMULATIVE cell 523.28, NOT the THIS REPORT cell (0). So the transcribed side is on the CUMULATIVE scope: this later report restates the one expenditure already reported on the 10-13-2020 filing (key 615534f8) rather than itemizing new period activity. Scored on the cumulative cell per the reconciliation-basis rule. Carr Form B prints no schedule total (schedule_total null by form design). Cover balance line 4 reads 523.28 / 0 / 523.28."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 (Form B): no printed schedule total or page subtotal on this form; rows sum 523.28 = cover line-3 CUMULATIVE 523.28 - closes exactly. It does NOT equal the line-3 THIS REPORT cell (0), which is the expected consequence of the cumulative scope, not a delta.",
+  "row_count": "p2 rowbands.py: geometry ok, deskew 0.3 deg, 37 horizontal rules -> 36 writing bands; exactly 1 band inked (band 1, [9.41,12.16]) = 1 row emitted.",
+  "geometry_proof": "p2 amount-cell crop at 600 dpi (x4330,y615,W700,H195) renders '523.28'; control crop one row-pitch below (y800,H160) renders EMPTY (only the printed rule and the descender of the row above).",
+  "balance_chain": "Cover line 4 reads LAST 523.28 / THIS 0 / CUM 523.28. Taken literally as beginning + contributions - expenditures = ending, the THIS column gives 523.28 + 0 - 0 = 523.28 = ending, so it closes ARITHMETICALLY as written. Semantically the filer appears to have copied line 3 into line 4 - the 'balance' equals total campaign expenses, and the earlier 10-13-2020 report left line 4 entirely blank while this one shows 523.28 in its LAST column. Reported verbatim, not corrected. Cross-filing chain: the 10-13-2020 report (key 615534f8) line-3 CUMULATIVE 523.28 -> this report's line-3 TOTALS FROM LAST REPORT 523.28: CHAINS EXACTLY."
+ },
+ "escalations": 2,
+ "escalation_note": "p2 amount cell and one-pitch-below control rendered as 600 dpi tight crops.",
+ "notes": "index.csv calls the candidate 'Kathleen Howell', office 'Assessor'; the cover reads Kathleen C. Howell / 'Cache County Assessor' - agrees. Cover date 11-17-2020, clerk stamp 'CLERK-NOV17'20PM3:30:07' top right. Carr 5-5-PG form confirmed by footer. Candidate street address, ZIP and phone numbers discarded at read time. Chunk file lists this key as byte-shared with raw/2020/2020_st_Howell_summary.pdf (applies_to) - transcribed once here. NOTE this is a DIFFERENT document from key 615534f8 (a later report by the same filer, cover date 11-17-2020 vs 10-13-2020) and the two were not merged. Form B's date cell here is written '3-13-20' (two-digit year) where the earlier filing wrote '3-13-2020'.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "filing fee",
+   "amount": "523.28",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,9.41,11.50,2.75@p2",
+   "note": "Date cell written verbatim '3-13-20' (two-digit year), parsed to 2020-03-13. Re-read at 600 dpi: 523.28 identical. Carr Form B has no in-kind column."
+  }
+ ]
+}

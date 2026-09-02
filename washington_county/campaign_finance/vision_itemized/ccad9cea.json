@@ -1,0 +1,93 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W12.json",
+ "key": "ccad9cea",
+ "index_path": "raw/wayback_forms2020/Treasurer_David Alan Whitehead_June 23 2020 FCR_06-16-2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Treasurer_David Alan Whitehead_June 23 2020 FCR_06-16-2020.pdf"
+ ],
+ "sha256_prefix": "36b17951dbf9cea1",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "-0-",
+    "cover_over50_this": "-0-",
+    "cover_over50_cum": "-0-",
+    "cover_le50_this": "-0-",
+    "cover_le50_cum": "-0-",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1 (all three cells are zero glyphs)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is entirely blank -- no date, name, address, amount or In Kind? entry anywhere in the ~35-line grid -- and its printed TOTAL line is left empty. All three cover line-1 cells and all three line-2 (sub-$50 aggregate) cells are slashed-zero glyphs = 0, so zero rows is a real zero. First report of the cycle (every LAST REPORT cell is a zero glyph), so the THIS and CUMULATIVE scopes coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "-0-",
+    "cover_expense_this": "571.~",
+    "cover_expense_cum": "571.~",
+    "cover_balance_end": "571.~",
+    "schedule_total": "571.~"
+   },
+   "itemized": "571.00",
+   "basis": "schedule-total==cover-line3-this==cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "one inked row, 571.00 (the county election filing fee); Form B's printed TOTAL matches BOTH the THIS and CUMULATIVE cover cells (first report of the cycle, so the scopes coincide). Every one of these figures is written as '571.' followed by a dash/squiggle in place of cents -- the trailing-dash convention for whole dollars -- so the anchors are recorded verbatim as '571.~' and the row amount normalised to 571.00 per the currency rule."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 0.00 vs a printed TOTAL the filer left blank -- consistent with a wholly empty schedule; p3 rows 571.00 = printed TOTAL 571.00 (written '571.' + dash), gates exactly",
+  "row_count": "p2 rowbands.py geometry_status=gaps, 33 bands over the ~35-line ruled grid; ZERO inked rows, 0 emitted. p3 identical geometry (33 bands); exactly ONE inked row, 1 emitted.",
+  "geometry_proof": "p3 600dpi crop of the row-1 band renders '3/13/20 | Clerk/Auditor | ELECTION Filing | $ 571.-' (its own values); the control crop one row-pitch below renders EMPTY (bare rules and the printed $ signs only). p2 needs no proof -- no rows.",
+  "balance_chain": "0 (contributions) - 571.00 (expenses) = -571.00, but THE COVER PRINTS THE BALANCE AS A POSITIVE 571 in both the THIS and CUMULATIVE cells, with no parentheses and no minus sign -- a filer SIGN ERROR, retained verbatim and not corrected. The magnitude closes; the sign does not. No earlier filing by this filer in this cycle is in the chunk (his other filing here, c374acd2, is the 2024 cycle), and this report's LAST cells are all zero glyphs, so it is the first report of its cycle."
+ },
+ "escalations": 3,
+ "escalation_note": "p3 row-1 band and a control band at 600dpi; p1 cover lines 3 and 4 at 1200dpi to settle the trailing-dash cents notation",
+ "notes": "Generation 2 county-branded form, the 'Washington County Code 1-7-1' printing (no logo) -- the same printing as ca5a1e02 in this chunk, and a DIFFERENT layout from the same filer's 2024 filing (c374acd2), which is on the logo'd 'Title 1 Chapter 7' generation. THE DOCUMENT DOES NOT STATE ITS OFFICE: the 'Office' line and 'Representative District' are both left blank, so the chunk file's 'Treasurer' could NOT be confirmed at the page -- flagging loudly. 'In the ___ School District' is filled 'WASHINGTON COUNTY' as a form-line filler, not a school-board race; the form is the county candidate report and is treated as in scope. PORTAL LABEL DISAGREES WITH THE DOCUMENT: the file name says 'June 23 2020 FCR', but the certification reads 'period beginning MARCH 13, 2020 and ending JUNE 15, 2020', it is signed 'June 16, 2020', and the clerk's stamp reads RECEIVED JUN 16 2020 -- the document governs. Candidate street address, ZIP, home phone and business phone discarded at read time. Same filer as c374acd2 (2024 Treasurer) but a different cycle, so no cumulative chain links the two.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Clerk/Auditor",
+   "purpose": "ELECTION Filing",
+   "amount": "571.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.19,15.47,20.00,1.71@p3",
+   "note": "amount written '571.' with a dash/squiggle where the cents go -- whole dollars, no cents, normalised to 571.00 per the currency rule; the same notation appears in the printed schedule TOTAL and in both cover cells. Form B on this generation has no in-kind column."
+  }
+ ]
+}

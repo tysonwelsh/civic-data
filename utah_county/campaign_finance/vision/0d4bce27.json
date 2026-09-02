@@ -3,7 +3,10 @@
  "key": "0d4bce27",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T03:45:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
@@ -54,5 +57,280 @@
    "notes": "The LEGACY two-column form (this is a 2026 filing on the OLD sheet - the 2026 cycle mixes both variants). Handwritten in blue ink, crisp. STRUCK-THROUGH FIGURE: on line 1 Column A an earlier entry is crossed out and is ILLEGIBLE (not transcribed); the surviving value written beneath it is 7,400.79. Cents are written as raised/superscript digits throughout (7,400.79 / 5,630.11 / 1,770.68). COLUMN B (Year-to-Date Total) IS ENTIRELY BLANK on lines 1 and 2 - cells left blank by the filer, NOT zero; contrib_cumulative and expend_cumulative are therefore ''. Note the filer put the same 7,400.79 on line 3 (Balance at Beginning) as on line 1/4 and carried 7,400.79 - not their sum - to line 5; that is what the page says, recorded verbatim with no arithmetic correction (line 7 = line 5 - line 6 does hold: 7,400.79 - 5,630.11 = 1,770.68). OFFICE: handwritten 'County Commission B' (no word 'Seat'); index.csv says 'County Commission Seat B'. The signature is redacted upstream by the county (black bar); the handwritten date 5/14/26 survives on both the cover and the summary page."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "1/9/26",
+   "donor_raw": "Previous Campaign Funds",
+   "amount": "7400.79",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:84.00,16.31,10.24,4.03@p2",
+   "geometry_frame": "p2 axis=y cell=84.00-94.24 rowband=16.31-20.34 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "THE ONLY ENTRY ON SCHEDULE A, and it names no third-party donor: it is the campaign's own CARRY-FORWARD of previous campaign funds, written by the filer onto the county's itemized-contributions sheet. It is published as an itemized contribution row because the document itself does so \u2014 summary line 1 is captioned 'TOTAL CONTRIBUTIONS RECEIVED (See Schedule A)' and prints exactly this figure \u2014 but the SAME 7,400.79 is ALSO booked at line 3 'Balance at Beginning of Reporting Period', so any downstream use must not add this row to a beginning balance taken from the same filing. Flagged needs_review=1 for that reason. donor_city/donor_state honestly BLANK: the 'Mailing Address & Zip Code' cell was LEFT EMPTY BY THE FILER (not redacted by the county, and not a form that omits the field) \u2014 the second of the ten recorded blank-address causes. No aggregate was split and no donor was invented (ADDENDUM D4)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "1/9/26",
+   "vendor_raw": "Eagle Forum",
+   "amount": "69.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,16.52,10.23,4.03@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=16.52-20.55 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "cents written as a raised, underlined '00'. This blank has NO Purpose column, so purpose is honestly blank on every row of this side."
+  },
+  {
+   "line_no": "2",
+   "date": "1/10/26",
+   "vendor_raw": "Utah County Fee",
+   "amount": "3.95",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,20.55,10.23,4.02@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=20.55-24.57 (2 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer's own wording in the payee column; no separate purpose field exists on this blank."
+  },
+  {
+   "line_no": "3",
+   "date": "1/10/26",
+   "vendor_raw": "Utah County Election",
+   "amount": "901.50",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,24.57,10.23,4.04@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=24.57-28.61 (3 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "HANDWRITTEN CORRECTION IN THE CELL, which governs: at 2000 dpi the third character is the filer's light oval '0' with a heavy dark-blue '1' written over it, giving 901.50. Confirmed independently by the page's own arithmetic (901.50 closes the sheet on its printed 5,630.11 subtotal; 900.50 leaves it exactly 1.00 short) and by the filer's own unambiguous '1' glyph elsewhere on the page. Flagged needs_review=1 so the correction stays visible; the superseded reading was NOT published and no printed total was touched."
+  },
+  {
+   "line_no": "4",
+   "date": "2/27/26",
+   "vendor_raw": "Buttons Online",
+   "amount": "722.46",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,28.61,10.23,4.05@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=28.61-32.66 (4 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "3/16/26",
+   "vendor_raw": "Prose Political",
+   "amount": "291.14",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,32.66,10.23,4.02@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=32.66-36.68 (5 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "3/18/26",
+   "vendor_raw": "UCRP",
+   "amount": "170.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,36.68,10.23,4.00@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=36.68-40.68 (6 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "initialism as written by the filer; not expanded."
+  },
+  {
+   "line_no": "7",
+   "date": "4/1/26",
+   "vendor_raw": "Costco",
+   "amount": "24.15",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,40.68,10.23,4.05@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=40.68-44.73 (7 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "8",
+   "date": "4/10/26",
+   "vendor_raw": "Capitol Resources",
+   "amount": "500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,44.73,10.23,4.00@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=44.73-48.73 (8 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "9",
+   "date": "4/10/26",
+   "vendor_raw": "Prose Political",
+   "amount": "868.40",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,48.73,10.23,4.04@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=48.73-52.77 (9 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "10",
+   "date": "4/17/26",
+   "vendor_raw": "Mountain Mikes Pizza",
+   "amount": "146.35",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,52.77,10.23,4.03@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=52.77-56.80 (10 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "written as one run 'MountAin MikesPizzA'; spacing normalised, spelling verbatim (no apostrophe printed)."
+  },
+  {
+   "line_no": "11",
+   "date": "4/17/26",
+   "vendor_raw": "Smith's",
+   "amount": "130.70",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,56.80,10.23,4.04@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=56.80-60.84 (11 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "12",
+   "date": "4/18/26",
+   "vendor_raw": "Prose Political",
+   "amount": "295.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,60.84,10.23,3.98@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=60.84-64.82 (12 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "13",
+   "date": "4/20/26",
+   "vendor_raw": "Costco",
+   "amount": "20.03",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,64.82,10.23,4.02@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=64.82-68.84 (13 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "14",
+   "date": "4/20/26",
+   "vendor_raw": "Ridley's",
+   "amount": "24.70",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,68.84,10.23,4.05@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=68.84-72.89 (14 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "15",
+   "date": "4/20/26",
+   "vendor_raw": "Ridley's",
+   "amount": "172.90",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,72.89,10.23,4.09@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=72.89-76.98 (15 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "a second same-day payment to the same vendor, written out in full again (not a ditto); transcribed as two rows, never merged."
+  },
+  {
+   "line_no": "16",
+   "date": "4/20/26",
+   "vendor_raw": "Alphagraphics",
+   "amount": "780.83",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,76.98,10.23,4.02@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=76.98-81.00 (16 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "17",
+   "date": "4/20/26",
+   "vendor_raw": "Tepenyaki",
+   "amount": "509.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.65,81.00,10.23,3.98@p3",
+   "geometry_frame": "p3 axis=y cell=83.65-93.88 rowband=81.00-84.98 (17 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "vendor spelled 'Tepenyaki' by the filer; kept verbatim."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah, chunk r14-01)",
+   "transcribed_date": "2026-08-20",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Summary line 1 'TOTAL CONTRIBUTIONS RECEIVED (See Schedule A)', COLUMN A 'Total this Period' = 7,400.79 on the p4 Summary Page \u2014 the promoted per-period cell on the legacy_colAB form. Schedule A's OWN two printed footers ('Subtotal for this page' and 'Total Contributions Received (Sum of subtotals from all Schedule A pages)') are BOTH WHOLLY BLANK, so Column A line 1 is the side's ONLY anchor and that is said loudly here.",
+     "detail": "Schedule A (p2) carries exactly ONE written entry, on printed row 1: 1/9/26 'Previous Campaign Funds' 7,400.79. It equals Column A line 1 (7,400.79) to the cent, so the side closes exactly on its only anchor. Column B 'Year-to-Date Total' is BLANK on every line of this filing, so no cumulative figure exists and none was synthesized; nothing was differenced across covers. || THE FILER DOUBLE-BOOKS THIS ONE FIGURE AND HIS OWN LADDER DOES NOT CLOSE \u2014 recorded, NOT adjudicated (CLAUDE.md 'do not adjudicate a filer's own inconsistency'). Line 3 'Balance at Beginning of Reporting Period' ALSO prints 7,400.79, and line 4 'Total Contributions Received (From Line 1 Column A)' prints 7,400.79 again, yet line 5 'Subtotal (Add lines 3 and 4)' prints 7,400.79 rather than 14,801.58 \u2014 i.e. he entered the money in both slots but added it only once. Lines 6 (5,630.11) and 7 (1,770.68 = 7,400.79 - 5,630.11) then follow correctly from line 5. THE LADDER TEST OF ADDENDUM B3/N4 IS THEREFORE SELF-CONTRADICTORY HERE, and the tie is broken by what the document itself states about Schedule A: line 1 is captioned '(See Schedule A)' and equals this row exactly, so the row is published as the one row Schedule A reports (the ADDENDUM D4 precedent), flagged needs_review=1, with the carry-forward character of the money spelled out in its note. Nothing was merged, netted or recomputed."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Schedule B's own printed 'Subtotal for this page' = 5,630.11 AND its printed 'Total Expenditures Received (Sum of subtotals from all Schedule B pages)' = 5,630.11, which is also Summary line 2 'TOTAL EXPENDITURES MADE (See Schedule B)' COLUMN A 'Total this Period' = 5,630.11 and line 6 = 5,630.11. Four printed statements of the same period-scoped figure agree.",
+     "detail": "The 17 Schedule B rows on p3 sum to 69.00 + 3.95 + 901.50 + 722.46 + 291.14 + 170.00 + 24.15 + 500.00 + 868.40 + 146.35 + 130.70 + 295.00 + 20.03 + 24.70 + 172.90 + 780.83 + 509.00 = 5,630.11 exactly = the printed page subtotal = the printed sum-of-all-pages total = Column A line 2. Single schedule sheet, so both footers share a scope; both were read rather than trusted on their captions (ADDENDUM N3 screen \u2014 neither holds a cycle figure, and there is no cumulative figure on this filing at all). || ROW 3 IS 901.50 AND NOT 900.50, AND THAT READING IS THE PAGE'S OWN, NOT AN ADJUSTMENT. Read at 200 dpi the cell looks like '900.50' with a blot; at 2000 dpi the third character is unmistakably the filer's LIGHT BLUE OVAL '0' with a HEAVY DARK-BLUE '1' WRITTEN OVER IT \u2014 a handwritten correction, which governs (CHUNK_BRIEF section 7). The corrected reading is confirmed twice over, exactly the ADDENDUM F6 standard: (a) the whole amount column was re-rendered at 900 dpi in two halves and all 17 cells are unambiguous EXCEPT this one, so the page carries exactly one doubtful cell and the attribution is unique from the page alone; (b) 901.50 closes the sheet to the cent on its own printed subtotal, while 900.50 leaves it 1.00 short; and (c) the overwriting stroke matches this filer's own unambiguous '1' elsewhere on the page (the leading 1s of 146.35, 172.90 and the middle 1 of 291.14 \u2014 a downstroke with a small top-left entry flag) and does not match his clean oval '0' (69.00, 170.00, 500.00). NO FIGURE WAS NUDGED: the struck value was not published because the page itself supersedes it."
+    }
+   },
+   "in_kind_convention": "monetary-only closes both sides exactly. BOTH conventions were tested per ADDENDUM G1/O4: this legacy county-only blank prints no in-kind column or checkbox on either schedule, no row is annotated in-kind or as a gift or donated service, and no amount appears on both schedules, so monetary-only and monetary-plus-in-kind give identical sums (7,400.79 and 5,630.11) and both close. in_kind=false throughout is read off the page, not defaulted.",
+   "escalations": 8,
+   "escalation_note": "Eight tight-crop escalations. The decisive one: p3 row 3's dollars field at 2000 dpi (pct:84.2,25.2,5.5,3.3@p3), which resolved the blot into a light '0' overwritten by a heavy '1' and settled the cell at 901.50 (see recon.expenditures.detail). Supporting: the whole p3 amount column re-rendered at 900 dpi in two halves (pct:82.8,16.4,12.8,34.4@p3 and pct:82.8,50.8,12.8,34.3@p3), which confirmed the other 16 amounts and established that row 3 is the page's ONLY doubtful cell; the p3 date column in two halves at 700 dpi, confirming all 17 dates; p3 row-1 (rendered '69.00') and row-17 (rendered '509.00') proof crops at 900 dpi plus the outside-the-grid control (rendered the printed subtotal '5,630.11'); p2 row-1 at 900 dpi (rendered '7,400.79') with its one-band-past control (rendered EMPTY) and a full-width row-1 strip at 500 dpi; and the p4 line-1 Column A cell at 1200 dpi, which showed a short scribbled-out entry struck through with a long diagonal, LEFT UNTRANSCRIBED because it is genuinely illegible and never guessed.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 17,
+   "geometry": {
+    "measured": 18,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "TOM WESTMORELAND, 2026, County Commission Seat B \u2014 'INTERIM REPORTS: 30 Days after withdraw or elimination', amendment No, Date of Report 5/14/26, party printed 'Republican'. Page face agrees with index.csv on the candidate; the Office Seeking box prints 'County Commission B' in the filer's hand, which corroborates index.csv's 'County Commission Seat B' without a seat being inferred. || THIS IS ONE REPORT, NOT A BUNDLE \u2014 checked explicitly because a DIFFERENT Westmoreland filing (raw/2024/2024_Tom_Westmoreland_Redacted_Combine.pdf) is one of the corpus's only two genuine multi-report bundles. Every one of the four sheets carries the SAME 'Date of Report 5/14/26', the same last-name box, and CONTINUOUS foliation in the filer's own hand \u2014 'Page 1 of 4' (cover), '2 of 4' (Schedule A), '3 of 4' (Schedule B), '4 of 4' (Summary) \u2014 with no restart at 'Page 1' (the ADDENDUM O4 bundle tell) and exactly one ticked report type. No report_index is set. || \u26a0 FORM VARIANT: this 2026 filing is on the OLD LEGACY 'FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' blank (Utah County Code 2-5-2 & Utah State Code 17-16-6.5, old eagle seal, 'COUNTY CANDIDATE' sidebar) \u2014 legacy_colAB, with the p4 SUMMARY PAGE LAST and Column A 'Total this Period' / Column B 'Year-to-Date Total'. ADDENDUM O1 characterises the 2026 cycle as modern_boxAF; this filing shows the old county-only stock is STILL CIRCULATING IN 2026, ten years after ADDENDUM G4 recorded it alive in 2016. Its Schedule B also still carries the 2012-era defect ADDENDUM B4/D2 describe \u2014 the payee column is headed 'Name of Contributor' and there is NO Purpose column \u2014 so every expenditure purpose on this filing is honestly blank. The 'To File this Form' block prints the old fax number and no email at all, where the 2026 modern blank prints disclosures@utahcounty.gov. || REDACTION: exactly one black bar, over the signature line on the cover. The filer's own street address IS published in the clear in the cover's address block; per the standing privacy rule it is not carried into this record in any field or note. Both schedules' 'Mailing Address & Zip Code' columns are WHOLLY BLANK on every row \u2014 left empty by the filer, not redacted. || Column B (Year-to-Date) is blank on BOTH summary lines, so this filing states no cumulative figure whatsoever; nothing was inferred for it and no cover was differenced against another. || THE FILER'S OWN LADDER DOES NOT CLOSE and was not adjudicated: 7,400.79 is booked at line 1/line 4 AND at line 3, yet line 5 'Add lines 3 and 4' prints 7,400.79 instead of 14,801.58. Line 7 = line 5 - line 6 = 1,770.68 is arithmetically correct given line 5. Recorded, retained verbatim, corrected nowhere. || Line 1 Column A also carries a SHORT SCRIBBLED-OUT ENTRY struck through with a long diagonal, above the surviving 7,400.79. At 1200 dpi it is genuinely illegible \u2014 it is NOT transcribed and NOT guessed. || FIELD-SHIFT SCREEN passes on both sides by content: the Date column holds dates, the Name column holds a payee/label, the Address column is empty throughout, and the Amount column holds money \u2014 no ADDENDUM F2/L1 inversion, and the filer's sheet headings and his summary boxes agree in sense (Schedule A's 7,400.79 to line 1 CONTRIBUTIONS, Schedule B's 5,630.11 to line 2 EXPENDITURES)."
+  }
+ }
 }

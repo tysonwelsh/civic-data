@@ -1,0 +1,30 @@
+[{
+ "index_path": "raw/2022/2022_Bowen_Jeanne.pdf",
+ "key": "e95ebdfd",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r9_03)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "",
+ "itemized_pages_B": "",
+ "sides": {"contributions": "empty-schedule", "expenditures": "empty-schedule"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' = a TYPED 0 on the p4 Summary Page, corroborated by Schedule A's own two printed footers, which both carry a typed 0 ('Subtotal for this page $ 0' and 'Total Contributions Received — Sum of all Schedule A Pages in this report $ 0')",
+   "detail": "ZERO itemized rows. Schedule A (PDF p2) exists, is a born-digital fillable sheet, and every one of its 15 printed data rows is completely unfilled — the amount column was crop-proved empty end to end at 700 dpi (fifteen empty boxed cells, no figure, no stroke, no banner). 0 rows sum to 0.00 = Box B = both printed footers. Box C 'Contributions Received Year to Date' also prints a typed 0 and is not summed as an increment. These are TYPED ZEROS, not nil marks and not empty cells, so the zero-glyph ruling applies at its strongest: the filer affirmatively reported zero."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' = a TYPED 0 on the p4 Summary Page, corroborated by Schedule B's own two printed footers, which both carry a typed 0 ('Subtotal for this page $ 0' and 'Total Expenditures Made — Sum of all Schedule B Pages in this report $ 0')",
+   "detail": "ZERO itemized rows. Schedule B (PDF p3) exists and is likewise completely unfilled across all 15 printed data rows — the amount column was crop-proved empty end to end at 700 dpi. 0 rows sum to 0.00 = Box D = both printed footers. Box E YTD also prints a typed 0. The whole cover ladder is internally consistent at zero: A 0 + B 0 = F 0, and F - D = 0 = G."
+  }
+ },
+ "in_kind_convention": "not applicable — the In-Kind tick column is printed on both schedules and no box is ticked, and there are no entries of any kind, so monetary-only and monetary-plus-in-kind are identical at 0.00 and both close on the typed zeros.",
+ "escalations": 2,
+ "escalation_note": "700 dpi full-height crops of the Amount column on PDF p2 (Schedule A) and PDF p3 (Schedule B): each rendered fifteen empty boxed cells with no figure and no filer mark of any kind. That is the proof behind the two `empty-schedule` states — the pages exist and the filer entered nothing. No amount cell existed to escalate.",
+ "frames": {},
+ "contributions": [],
+ "expenditures": [],
+ "notes": "A GENUINE ALL-ZERO REPORT, and the cleanest document in this chunk. 4 pages: p1 COVER, p2 SCHEDULE A, p3 SCHEDULE B, p4 SUMMARY PAGE LAST — each classified from its own printed heading; this is the one filing in the chunk where the modern_boxAF 'summary page is usually LAST' tendency actually holds. NO CHECKLIST DECOY is bound in: there is exactly one Summary Page and its seven boxes carry typed figures, not bare labels. FORM: modern_boxAF, 'Financial Campaign Report for County and Local School Board Candidates', Josh Daniels Clerk/Auditor masthead, NO printed 'v.' revision string, close box LETTERED 'G' — the same unversioned 2022 stock as the two Bill Lee filings in this chunk, and Schedule B again carries a REAL Purpose column and both schedules an In-Kind tick column. This one is BORN-DIGITAL: the form was filled in a PDF reader and the values render as machine type (the only handwriting on the document is the blue-ink signature on the cover), so the reading is not an OCR-tier judgement anywhere. Row confidence is moot — there are no rows. COVER: page-face candidate 'Jeanne Bowen', office typed 'Commission A' (index.csv carries 'County Commission Seat A' — the same seat, worded differently; the page face is recorded as printed and no seat was inferred beyond what it prints). Report type '30 Days after the General Election'; not an amendment (No ticked); Date and Date of Filing both 11/16/2022, no intra-document date spread. The Phone Number cell was LEFT EMPTY BY THE FILER. The candidate's street address on the cover was deliberately NOT transcribed. EMPTY ITEMIZED SIDES HERE MEAN THE FILER REPORTED NO ACTIVITY — affirmed by typed zeros in seven summary boxes and four schedule footers — which is a different fact from the module-wide 'not transcribed' default; both sides are recorded as `empty-schedule`, never as `withheld`."
+}]

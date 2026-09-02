@@ -1,0 +1,102 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "6883.76",
+ "ending_balance": "6883.76",
+ "aggregate": {
+  "total_contributions_to_date": "30,371.62",
+  "total_expenditures_to_date": "23182.86",
+  "line5_subtotal": "6883.76"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Rep",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-21",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "low",
+  "line5_subtotal": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/forms__burdick-2020-year-end_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/forms__burdick-2020-year-end_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "ZERO-GLYPH RULING APPLIED, as the ruling requires: Summary lines 1, 2, 4 and 6 Column A each carry a SLASHED ZERO drawn as a long horizontal stroke through an oval - a glyph DENOTING zero, so 0, with the glyph recorded here. They are not dashes and not empty cells. The two schedule grand-total cells carry a plain handwritten '0'. || SUPERSCRIPT CENTS: this filer writes the cents raised above the rule on every figure ('30,371' with a superscript '62'; '6883' with a superscript '76'); those are transcribed with a decimal point per the currency convention. || total_expenditures_to_date is graded LOW: at 600 dpi the digit group reads '23182' with a superscript '86' and NO thousands comma (unlike line 1, which does carry one), and the fourth and fifth digits are cramped. '23182.86' is the best reading; there is no arithmetic on this filing that can settle it, because Column B is an aggregate with nothing to check it against, so it is left at low confidence rather than promoted. || The chunk file's candidate / office / seat / date / reporting_period all agree with the form. The cover title prints '2020 Financial Disclosure Report' and the report is a year-end signed 1-31-21 - form_year '2020' is the printed title verbatim, NOT the cycle. || The YEAR-END box carries a check drawn across it; NEITHER amendment box (Yes nor No) is ticked, so is_amendment is blank, never guessed. || PRIVACY: the cover street-address row and the phone/fax/email row are both black-barred at source, as is the signature line; nothing was recovered from them. || Note for a reader comparing filers: this is an EMPTY-PERIOD filing whose Column B is large ($30,371.62 raised to date). Empty itemized here means the schedules were looked at and are blank - never 'no donors ever'.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "detail": "A REAL ZERO, not a gap. The county Schedule A grid on p3 is present and wholly empty across all 15 ruled data rows, struck through corner-to-corner with a single diagonal pencil line (the filer's own 'nothing to report' mark), SUBTOTAL FOR THIS PAGE left blank, and TOTAL CONTRIBUTIONS RECEIVED carrying a handwritten '0'. Summary line 1 Column A carries a slashed zero and line 4 the same, so the period figure is 0 by the zero-glyph ruling. Zero rows emitted, zero stated: exact.",
+     "result": "exact"
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "detail": "Same shape on p4: the Schedule B grid is present, wholly empty across its 14 ruled data rows, struck through with one diagonal pencil line, SUBTOTAL blank, TOTAL EXPENDITUTRES MADE carrying a handwritten '0'; Summary line 2 Column A and line 6 both carry a slashed zero. A real zero.",
+     "result": "exact"
+    }
+   },
+   "page_subtotal_gates": "NO page-subtotal gate is available on either schedule - both SUBTOTAL FOR THIS PAGE cells are printed and LEFT BLANK. The gate used instead is each schedule's own printed grand-total cell ('0' on both), which agrees with the Summary Column A figures and with the zero rows transcribed.",
+   "escalations": 1,
+   "escalation_note": "p2 Column-B cells for lines 1 and 2 re-rendered as a 600 dpi crop (x=3000,y=1750,W=1900,H=1000) - the cents on both are written as a raised superscript over the rule and the line-2 digit group is cramped.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "ZERO-GLYPH RULING APPLIED, as the ruling requires: Summary lines 1, 2, 4 and 6 Column A each carry a SLASHED ZERO drawn as a long horizontal stroke through an oval - a glyph DENOTING zero, so 0, with the glyph recorded here. They are not dashes and not empty cells. The two schedule grand-total cells carry a plain handwritten '0'. || SUPERSCRIPT CENTS: this filer writes the cents raised above the rule on every figure ('30,371' with a superscript '62'; '6883' with a superscript '76'); those are transcribed with a decimal point per the currency convention. || total_expenditures_to_date is graded LOW: at 600 dpi the digit group reads '23182' with a superscript '86' and NO thousands comma (unlike line 1, which does carry one), and the fourth and fifth digits are cramped. '23182.86' is the best reading; there is no arithmetic on this filing that can settle it, because Column B is an aggregate with nothing to check it against, so it is left at low confidence rather than promoted. || The chunk file's candidate / office / seat / date / reporting_period all agree with the form. The cover title prints '2020 Financial Disclosure Report' and the report is a year-end signed 1-31-21 - form_year '2020' is the printed title verbatim, NOT the cycle. || The YEAR-END box carries a check drawn across it; NEITHER amendment box (Yes nor No) is ticked, so is_amendment is blank, never guessed. || PRIVACY: the cover street-address row and the phone/fax/email row are both black-barred at source, as is the signature line; nothing was recovered from them. || Note for a reader comparing filers: this is an EMPTY-PERIOD filing whose Column B is large ($30,371.62 raised to date). Empty itemized here means the schedules were looked at and are blank - never 'no donors ever'."
+  }
+ }
+}

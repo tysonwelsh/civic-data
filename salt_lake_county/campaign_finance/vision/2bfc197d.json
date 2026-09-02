@@ -1,0 +1,160 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Interest",
+   "amount": ".31",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;occupation=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:6.36,21.89,91.14,4.18@p4",
+   "note": "date printed as a RANGE '1/1/19 - 3/31/19' so the ISO date is BLANK per the date rule, verbatim kept here. The Complete Mailing Address cell holds 'Wells Fargo' (a bank name, not an address) - no city/state exists. Occupation/Employer cell LEFT EMPTY BY THE FILER (not redacted; this filing's schedules carry no black bar)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2019-03-31",
+   "vendor_raw": "Wilson for County Mayor",
+   "purpose": "Donation",
+   "amount": "3,263.22",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 0,
+   "geometry": "pct:10.07,23.50,82.76,4.18@p5",
+   "note": "the cents glyphs are cramped against the cell edge; the schedule grand total settles them - 3,263.22 + 554.11 + 30.00 = 3,847.33 exactly, the printed total. Arithmetic, not glyph reading, decided this value."
+  },
+  {
+   "line_no": 2,
+   "date": "2019-03-27",
+   "vendor_raw": "Jennifer Wilson",
+   "purpose": "Reimbursement - Mileage/Meals",
+   "amount": "554.11",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.07,27.68,82.76,4.23@p5",
+   "note": "a candidate-self reimbursement; printed out of date order (after the 3/31 row)"
+  },
+  {
+   "line_no": 3,
+   "date": "2019-03-28",
+   "vendor_raw": "Old Y. Garage",
+   "purpose": "Meal",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.07,31.91,82.76,4.23@p5",
+   "note": "vendor written 'Old Y. Garage'"
+  }
+ ],
+ "total_contributions": ".31",
+ "total_expenditures": "3,847.33",
+ "beginning_balance": "3,847.02",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": ".31",
+  "total_expenditures_to_date": "3847.33",
+  "line5_subtotal": "3,847.33"
+ },
+ "cover": {
+  "candidate": "Jennifer Wilson",
+  "party": "D",
+  "office_sought": "SLCo Council",
+  "district_number": "",
+  "report_type": "FINAL / DISSOLUTION REPORT",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4/5/19",
+  "form_year": "2018"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/jennywilson_dissolution_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jennifer Wilson",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/jennywilson_dissolution_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "PAGE 1 IS NOT A COVER. It is a one-page 'Dissolution of a Candidate Campaign Committee [County and Local School Board Candidates and Officeholders]' notice; the FDR cover was found BY CONTENT on p2 and every cover field below is read from p2. The notice itself records: Name of Committee 'Wilson for County Council'; Name of Candidate/Officeholder 'County Council At Large A' (the filer wrote the OFFICE into the NAME line); County/Local School Board Office left BLANK; Name of Committee Secretary 'Heather Mastakas'; signed 4/5/19; stamped RECEIVED IN OFFICE APR 05 2019. The notice's bracketed title covers school-board filers too, but this is NOT a school-board filing - the cover's Office cell reads 'SLCo Council' and the dissolution names 'County Council At Large A'. In scope. || The internal page numbering runs 'Page 2 of 4' (summary), 'Page 3 of 4' (Sch A), 'Page 4 of 4' (Sch B) - i.e. the FILING is 4 pages and the dissolution notice is a 5th sheet bundled in FRONT. Nothing is missing. || COVER: the entire 'Office Sought / District Number / Phone Number / Fax # / Email Address' row is covered by the county's black bar, so office_sought could not be read from its own cell; the value recorded is the top-row 'Office' cell ('SLCo Council') and district_number is honestly blank - redacted at source, NOT left empty by the filer. Street address row likewise redacted. Part of the Report Verification block (the signature line) is also bar-covered. || AMENDMENT: neither Yes nor No is checked - is_amendment is honestly blank. || Schedule A's one row puts 'Wells Fargo' in the Complete Mailing Address cell - a bank name, not an address; no city/state exists to extract and none was invented. Its Occupation/Employer cell was left EMPTY BY THE FILER (this filing's schedules are NOT redacted - only the cover is). || Schedule B's three rows are NOT in date order as printed (3/31, then 3/27, then 3/28); printed order is preserved in line_no.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "5",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": ".31",
+     "schedule_total": ".31",
+     "itemized": "0.31",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "the single row (.31) equals the printed TOTAL CONTRIBUTIONS RECEIVED (.31) and Summary line 1 Column A (.31). SCOPE TEST: Column A and Column B both read .31 on this final report, so both scopes coincide and no basis ambiguity exists. The SUBTOTAL FOR THIS PAGE cell is printed and LEFT BLANK, so the gate here is the schedule grand total."
+    },
+    "expenditures": {
+     "stated": "3,847.33",
+     "schedule_total": "3,847.33",
+     "itemized": "3847.33",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "3 rows sum to 3,847.33 EXACTLY (3,263.22 + 554.11 + 30.00) = the printed TOTAL EXPENDITUTRES MADE (3,847.33) = Summary line 2 Column A = Column B = Summary line 6. SCOPE TEST: Columns A and B are identical on this final report, so both coincide. SUBTOTAL FOR THIS PAGE is printed and LEFT BLANK."
+    }
+   },
+   "page_subtotal_gates": "p4: SUBTOTAL FOR THIS PAGE printed and BLANK - no per-page gate; gated on the schedule grand total .31 instead, which the one row matches. p5: SUBTOTAL FOR THIS PAGE printed and BLANK - gated on the grand total 3,847.33, matched exactly by the 3 rows.",
+   "escalations": 0,
+   "escalation_note": "no digit was in dispute - every figure on both schedules is confirmed by the schedule grand total and by the balance chain, which close to the cent.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PAGE 1 IS NOT A COVER. It is a one-page 'Dissolution of a Candidate Campaign Committee [County and Local School Board Candidates and Officeholders]' notice; the FDR cover was found BY CONTENT on p2 and every cover field below is read from p2. The notice itself records: Name of Committee 'Wilson for County Council'; Name of Candidate/Officeholder 'County Council At Large A' (the filer wrote the OFFICE into the NAME line); County/Local School Board Office left BLANK; Name of Committee Secretary 'Heather Mastakas'; signed 4/5/19; stamped RECEIVED IN OFFICE APR 05 2019. The notice's bracketed title covers school-board filers too, but this is NOT a school-board filing - the cover's Office cell reads 'SLCo Council' and the dissolution names 'County Council At Large A'. In scope. || The internal page numbering runs 'Page 2 of 4' (summary), 'Page 3 of 4' (Sch A), 'Page 4 of 4' (Sch B) - i.e. the FILING is 4 pages and the dissolution notice is a 5th sheet bundled in FRONT. Nothing is missing. || COVER: the entire 'Office Sought / District Number / Phone Number / Fax # / Email Address' row is covered by the county's black bar, so office_sought could not be read from its own cell; the value recorded is the top-row 'Office' cell ('SLCo Council') and district_number is honestly blank - redacted at source, NOT left empty by the filer. Street address row likewise redacted. Part of the Report Verification block (the signature line) is also bar-covered. || AMENDMENT: neither Yes nor No is checked - is_amendment is honestly blank. || Schedule A's one row puts 'Wells Fargo' in the Complete Mailing Address cell - a bank name, not an address; no city/state exists to extract and none was invented. Its Occupation/Employer cell was left EMPTY BY THE FILER (this filing's schedules are NOT redacted - only the cover is). || Schedule B's three rows are NOT in date order as printed (3/31, then 3/27, then 3/28); printed order is preserved in line_no."
+  }
+ }
+}

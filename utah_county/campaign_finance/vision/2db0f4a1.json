@@ -3,7 +3,10 @@
  "key": "2db0f4a1",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:17:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2012 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,168 @@
    "notes": "Handwritten cursive, legible. UNLIKE this filer's June report (key e00a4fae, which used no separators), every figure here is written WITH thousands commas and two decimals - transcribed verbatim in that form. The beginning balance (7,429.98) matches the closing balance of his 6-18-12 report, i.e. the filer carried line 7 forward as the form instructs. Office Seeking reads 'Utah County Commission Seat C', AGREEING with office_index 'County Commission Seat C'. candidate_index was blank; cover and verification block both read 'Larry Alton Ellertson' (no strike-through here). AMENDMENT: 'No' is checked. Type of Report: 'Seven days preceding the General Election'. Clerk Date received stamp 'OCT 29 AM 7:09'. Page box reads 'Page 2 of 4'."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "6-21-12",
+   "donor_raw": "Republic Services, Inc",
+   "donor_city": "Phoenix",
+   "donor_state": "AZ",
+   "amount": "1000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.72,14.97,10.12,4.04@p3",
+   "geometry_frame": "p3 axis=y cell=83.72-93.84 rowband=14.97-19.01 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Amount written with a thousands comma as '1,000.00'. The only OUT-OF-STATE donor on the filing (Arizona). PRIVACY: a full street line is printed on the form and is deliberately not carried, not even in this note; city/state only."
+  },
+  {
+   "line_no": "2",
+   "date": "6-21-12",
+   "donor_raw": "Bob BoNAR",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "3500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.72,19.01,10.12,4.01@p3",
+   "geometry_frame": "p3 axis=y cell=83.72-93.84 rowband=19.01-23.02 (2 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Amount written '3,500.00'. The leading digit of the date is written with a tall ascender and a closed bowl so that it resembles a lower-case 'b'; it is the same 6 the filer writes in row 1's '6-21-12' and in '6-20-12' on Schedule B, and the row sits between two other June-dated entries, so it is transcribed 6. Surname capitalisation kept as written ('BoNAR'). PRIVACY: street line printed, not carried."
+  },
+  {
+   "line_no": "3",
+   "date": "10-8-12",
+   "donor_raw": "John Valentine",
+   "donor_city": "Orem",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.72,23.02,10.12,4.05@p3",
+   "geometry_frame": "p3 axis=y cell=83.72-93.84 rowband=23.02-27.07 (3 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Amount written '1,000.00'. PRIVACY: street line printed, not carried."
+  },
+  {
+   "line_no": "4",
+   "date": "10-8-12",
+   "donor_raw": "Utah County Republican Party",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "1500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.72,27.07,10.12,4.09@p3",
+   "geometry_frame": "p3 axis=y cell=83.72-93.84 rowband=27.07-31.16 (4 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Amount written '1,500.00'. Note this is money FLOWING IN from the county party in October, while the filer's own June report (key e00a4fae) records payments OUT to the same organisation - both are transcribed as printed and neither is netted against the other. PRIVACY: the address block is a post-office box and is deliberately not carried; city/state only."
+  },
+  {
+   "line_no": "5",
+   "date": "10-26-12",
+   "donor_raw": "utah HOSPAC",
+   "donor_city": "Salt Lake City",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.72,31.16,10.12,4.01@p3",
+   "geometry_frame": "p3 axis=y cell=83.72-93.84 rowband=31.16-35.17 (5 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "A political action committee, written by the filer as 'utah HOSPAC'; kept verbatim and not expanded. PRIVACY: street line and suite printed, not carried."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "6-20-12",
+   "vendor_raw": "COSTCO",
+   "amount": "73.55",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.23,15.61,10.18,4.05@p4",
+   "geometry_frame": "p4 axis=y cell=83.23-93.41 rowband=15.61-19.66 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The 2012 Schedule B prints NO Purpose column, so purpose is honestly blank on every row of this side. Dated 6-20-12, one day BEFORE this reporting period's first contribution and two days after the filer's previous report was signed - a real property of the document, not corrected."
+  },
+  {
+   "line_no": "2",
+   "date": "8-13-12",
+   "vendor_raw": "BCR Political LLC",
+   "amount": "5706.64",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.23,19.66,10.18,4.05@p4",
+   "geometry_frame": "p4 axis=y cell=83.23-93.41 rowband=19.66-23.71 (2 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The same consultancy that took 7,989.89 on the filer's June report; written here without the comma after 'Political' and without a trailing period on 'LLC'. This single row is 92.6% of the period's expenditures. Amount written without a thousands comma, as '5706.64'."
+  },
+  {
+   "line_no": "3",
+   "date": "8-15-12",
+   "vendor_raw": "utah Valley Convention Center",
+   "amount": "380.66",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.23,23.71,10.18,4.06@p4",
+   "geometry_frame": "p4 axis=y cell=83.23-93.41 rowband=23.71-27.77 (3 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Capitalisation kept as the filer wrote it."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r2_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED (7,300.00) on the p2 Summary Page, which is ALSO Schedule A's own printed 'Subtotal for this page $ 7,300.00' and its printed 'Total Contributions Received $ 7,300.00', and is repeated at summary line 4",
+     "detail": "5 Schedule A rows sum to 1000.00 + 3500.00 + 1000.00 + 1500.00 + 300.00 = 7,300.00 exactly = the schedule's own printed page subtotal = the schedule's printed total = the cover's promoted PER-PERIOD cell (Column A). Column B 'Year-to-Date Total' prints 16,224.31 and is NOT summed as an increment - it is the cumulative figure, and it is a DIFFERENT SCOPE from what this schedule itemizes. This side is `exact`, not `cumulative-exact`: the schedule sums to Column A, not to Column B (ADDENDUM A6's diagnostic is the reverse). The summary ladder corroborates: line 3 beginning 7,429.98 + line 4 7,300.00 = line 5 subtotal 14,729.98 as printed, minus line 6 6,160.85 = line 7 close 8,569.13 as printed."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 2 TOTAL EXPENDITURES MADE (6,160.85) on the p2 Summary Page, which is ALSO Schedule B's own printed 'Subtotal for this page $ 6,160.85' and its printed 'Total Expenditures Received $ 6,160.85', and is repeated at summary line 6",
+     "detail": "3 Schedule B rows sum to 73.55 + 5706.64 + 380.66 = 6,160.85 exactly = the printed page subtotal = the printed total = Column A. No cell needed escalating for legibility; the two proof crops are geometry proofs. Column B Year-to-Date prints 15,920.36 and is never summed as an increment."
+    }
+   },
+   "in_kind_convention": "monetary-only closed exactly on BOTH sides (7,300.00 and 6,160.85). This form prints no in-kind column and no row on either schedule is marked in-kind, so the monetary-plus-in-kind convention gives the identical sums and also closes. Both conventions tested per the per-filer rule.",
+   "escalations": 5,
+   "escalation_note": "Five crops, all geometry or column-assignment proofs rather than legibility disputes - every amount on this filing was unambiguous at 200 dpi and both sides closed on the first read. Four 900 dpi first-row/last-row boxes, plus one 700 dpi full-width strip over bands 1-5 of p3 for the field-shift screen.",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 3,
+   "geometry": {
+    "measured": 8,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Page-face candidate 'Larry Alton Ellertson' (verification block the same), Republican, Office Seeking written 'Utah County Commission Seat C', residence city Lindon UT. index.csv names NO candidate for this row (channel label 'Ellertson - 10/29/12'), so the page face supplies the name and it agrees with index.csv's office. 4 pages on the 2012 legacy_colAB blank characterised on key 9630b1c7: p1 COVER, p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B - each classified from its own printed header, the summary page located by its heading and not by ordinal. Report type 'Seven days preceding the General Election' ticked; amendment 'No' ticked; signed 10-29-12; clerk stamp OCT 29 AM 7:09. Foliation 2/3/4 'of 4', INCLUDING the cover, consistent with this filer's June report and opposite to Ballard's practice in the same cycle. A WRITING-CONVENTION SHIFT WITHIN ONE FILER'S CYCLE: on his June report this filer wrote no thousands separators anywhere; here he writes '7,300.00', '16,224.31', '1,000.00' etc. with commas on the summary page and on most - not all - schedule rows. Recorded because it is exactly the kind of within-filer variation that makes a fixed-format parser fail on this corpus. BOTH SIDES CLOSE EXACTLY on the promoted per-period Column A figure and on each schedule's own printed subtotal and total. COVER-CHAIN OBSERVATION ONLY, never a source of figures: this filing's line 3 beginning balance (7,429.98) is character-for-character the line 7 close of his own June filing, and its Column B cumulatives are the two June per-period figures plus these two (8,924.31 + 7,300.00 = 16,224.31; 9,759.51 + 6,160.85 = 15,920.36). The chain is internally consistent - noted as a property of the record, not used to derive or adjust any figure here. PRIVACY: this era is unredacted (ADDENDUM A5); full donor street lines and one post-office box are visible on Schedule A and none is carried into this record, in any field or note."
+  }
+ }
 }

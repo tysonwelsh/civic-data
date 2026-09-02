@@ -1,0 +1,77 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W09.json",
+ "key": "93cb10f6",
+ "index_path": "raw/live_outpost/Ryan Sullivan_ClerkAuditor_FINAL_12-12-2024.pdf",
+ "applies_to": [
+  "raw/live_outpost/Ryan Sullivan_ClerkAuditor_FINAL_12-12-2024.pdf"
+ ],
+ "sha256_prefix": "f277d2d3d1ac6f96",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid (2024 branded)",
+  "expenditures": "county-grid (2024 branded)"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "345.10",
+    "cover_over50_this": "-",
+    "cover_over50_cum": "345.10",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "-"
+   },
+   "itemized": "0.00",
+   "basis": "blank-schedule; no numeric anchor for this period",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form A (p2) is a completely EMPTY grid - 17 ruled data rows, not one cell inked - so the side is transcribed with zero rows, an honest empty schedule and not a gap. It cannot be SCORED, though: the only two anchors that scope to this period are the cover's 'Total THIS Report' cell and the schedule's own 'TOTAL CONTRIBUTIONS' footer, and BOTH print a bare dash, which under the repo zero-glyph ruling is BLANK, not 0. The cumulative 345.10 is carried in from the LAST REPORT column and is NOT itemised anywhere in this document (it belongs to an earlier filing of the cycle, which is not in this chunk), so scoring the empty schedule against it would be a basis error. Hence result 'unknown' rather than a manufactured 'exact'. NOTE this 2024 cover generation has only THREE money lines - the 'aggregate of contributions of $50.00 or less' line does not exist on it at all, so cover_le50_* are null (field absent), never 0."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "345.10",
+    "cover_expense_this": "-",
+    "cover_expense_cum": "345.10",
+    "cover_balance_end": "-",
+    "schedule_total": "-"
+   },
+   "itemized": "0.00",
+   "basis": "blank-schedule; no numeric anchor for this period",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form B (p3) is likewise a completely EMPTY grid (17 ruled data rows, none inked); zero rows emitted. Same reasoning as the contribution side: the period-scoped anchors (cover 'Total THIS Report' and the printed 'TOTAL EXPENDITURES' footer) are both bare dashes = BLANK, and the 345.10 cumulative is a carry-forward not itemised here."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Both schedules print a footer total and both print a bare dash there ('TOTAL CONTRIBUTIONS $ -' on p2, 'TOTAL EXPENDITURES $ -' on p3). With zero inked rows on either page there is nothing to sum, and a dash is not a numeral, so NO numeric gate could be fired on this filing. Stated rather than invented.",
+  "row_count": "Independent ink-projection across the full grid width of p2 at 200 dpi returns only thin rule bands (h 0.23-0.27 pct) plus the header band and the footer TOTAL band - zero data-ink bands among the 17 ruled data rows. Same on p3. Confirms 0 rows emitted on each side.",
+  "geometry_proof": "Not applicable - zero rows emitted on either side, so no row geometry is claimed. (Emitting a geometry pointer with no row behind it would be worse than none.)",
+  "balance_chain": "Cover line 3 'Balance at the end of this reporting period' prints a bare dash in all three columns. Arithmetically the printed cumulative figures do close on a zero balance: 345.10 contributions cumulative - 345.10 expenses cumulative = 0, and the balance cell is the accounting dash, consistent with 0 but transcribed as BLANK per the ruling. No earlier filing by this filer is in this chunk, so the cross-filing LAST-REPORT/CUMULATIVE chain (345.10 in the LAST column) could not be run here - a human comparing to Ryan Sullivan's earlier 2024 filing should be able to close it."
+ },
+ "escalations": 0,
+ "escalation_note": "No escalation needed - the document is a clean born-scan of a typed/printed form and the only handwriting is the signature and the signature date; no money glyph was in doubt because no money glyph is written on either schedule.",
+ "notes": "** THE CHUNK FILE / index.csv CALLS THIS FILING'S FORMAT 'text' AND THAT IS THE TRAP THE COUNTY ADDENDUM FLAGS. ** pdftotext returns ONLY the stamped inspector transmittal ('12/9/2024 / Eric Clarke, Washington County Attorney / (Designated inspector for filings for the office of Washington County Clerk-Auditor)'); all three report faces are images and were read as images. Generation-2 county-branded form, 2024 revision (WASHINGTON COUNTY / AMERICA'S COUNTY logo, 'Campaign Financial Disclosure Per Title 1 Chapter 7 of Washington County Code of Ordinances'). Cover 'Candidate for Office Of' reads 'Clerk-Auditor' - agrees with the chunk file's 'Clerk/Auditor'; name 'Ryan Sullivan' agrees. This is the FINAL report of the 2024 cycle: certified period 10/16/2024 to 12/6/2024, signed 12/6/2024, RECEIVED stamp DEC 06 2024, inspector-verified 12/9/2024. Nothing was received or spent in that window, which is why both schedules are empty and every THIS-REPORT cell is a dash. This cover generation prints no 'aggregate of $50.00 or less' line, so the sub-$50 trap cannot arise here. No page rotation issues; poppler renders all three upright.",
+ "contributions": [],
+ "expenditures": []
+}

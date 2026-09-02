@@ -1,0 +1,78 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W06.json",
+ "key": "553de614",
+ "index_path": "raw/wayback_forms2020/Assessor_Tom Durrant_December 17 2020_12-17-2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Assessor_Tom Durrant_December 17 2020_12-17-2020.pdf"
+ ],
+ "sha256_prefix": "c18062f6d5afec98",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen2-county-branded-grid",
+  "expenditures": "gen2-county-branded-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line1 (all three cover cells are 0)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is the county-branded boxed grid with ~40 data rows, every one empty; its printed footer TOTAL cell carries a slashed-zero glyph = 0. Cover line 1 and line 2 each read a handwritten '0' in all three columns, so the THIS and CUMULATIVE scopes coincide at 0."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "571.00",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "571.00",
+    "cover_balance_end": "-571.00",
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (p3) is empty; its printed footer TOTAL carries a slashed-zero glyph = 0. That 0 equals the THIS-REPORT cell (0) and NOT the CUMULATIVE cell (571.00, written '571.' with superscript '00'), so on this filing the SCHEDULE is per-period while the module publishes the cumulative figure - reconciles_* is expected to be left blank, which is not a failure. NOTE the scope test is degenerate here: with zero rows the only evidence is the printed schedule total itself. Cover line 4 reads '-571.00' in the LAST and CUMULATIVE columns and '0' in the THIS column."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 0.00 = printed TOTAL (slashed-zero) 0; p3 rows 0.00 = printed TOTAL (slashed-zero) 0. Both gate.",
+  "row_count": "counted by eye on the 200 dpi renders: p2 and p3 are boxed grids of ~40 ruled data rows each with ZERO inked rows; 0 rows emitted from each. (Not scored with rowbands - there is no ink to score against.)",
+  "geometry_proof": "not applicable - zero rows emitted, so no geometry pointer was written.",
+  "balance_chain": "This period: 0 (contrib) - 0 (exp) = 0 change, and cover line 4 THIS = 0. Cumulative: 0 + 0 - 571.00 = -571.00 = cover line 4 CUMULATIVE. Closes exactly. The prior-cycle filing that produced the 571.00 carry-in is not in this chunk, so no cross-filing chain was run."
+ },
+ "escalations": 3,
+ "escalation_note": "cover anchor grid (lines 1-3), cover line 4, and both schedule TOTAL cells re-read as 600 dpi crops - needed to separate the handwritten '0' glyphs on the cover from the slashed-Oe glyphs in the schedule TOTAL cells.",
+ "notes": "Generation 2 (WASHINGTON COUNTY CANDIDATE FINANCIAL CAMPAIGN REPORT, cites Washington County Code 1-7). DOCUMENT CONTRADICTS THE CHUNK FILE ON OFFICE: index.csv says office 'Assessor', but the form's 'Office', 'Representative District' and 'In the ___ School District' lines are ALL LEFT BLANK - this cover states NO office. The office in the index comes from the portal filename, not from the form. Candidate name on the form is 'Tom Durrant', which agrees. Certification names the period beginning 10-22-2020 and ending 12-31-2020 while the signature is dated 12/17/2020 (an end date two weeks in the future - the filer's own wording, retained). Clerk RECEIVED stamp DEC 17 2020. Candidate home street address, ZIP and business phone printed on the cover were discarded at read time per core-brief 5. Page rot 270 in the PDF; poppler renders all three pages upright portrait 1700x2200 - no PIL rotation needed.",
+ "contributions": [],
+ "expenditures": []
+}

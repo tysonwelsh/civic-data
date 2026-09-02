@@ -3,7 +3,10 @@
  "key": "b8aadb88",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:40:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,93 @@
    "notes": "Handwritten and FAXED - both pages carry the sending machine's header/footer strip 'Jun. 14. 2010 3:38PM  No. 4116  P. 2 / P. 3'. RESIDENCE CITY IS BLANK: the filer left the Street Address and City cells empty and filled only State (UT) and ZIP (84043), so residence_city is '' - blank on the form, not withheld. AMENDMENT QUESTION LEFT UNANSWERED: neither Yes nor No is checked. All amounts are written without cents. Line 3 is a hand-drawn oval zero; line 7 is a negative -155. Note this is a LIBERTARIAN filer - the only non-Republican party in this chunk."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "Feb 2010",
+   "donor_raw": "Libertarian Party of Utah",
+   "amount": "500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.16,19.45,9.42,3.83@p3",
+   "geometry_frame": "p3 axis=y cell=81.16-90.58 rowband=19.45-23.28 (1 of 2 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "date written as a MONTH AND YEAR only ('Feb 2010'), no day \u2014 kept verbatim; no day is invented and no year is filled in from the report date. The Mailing Address cell is LEFT EMPTY BY THE FILER (this filing is a fax, not a county redaction \u2014 no redaction bar is present anywhere on the document), so donor city/state are honestly blank. Amount written with a leading '$'."
+  },
+  {
+   "line_no": "2",
+   "donor_raw": "Aggregat under $50",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "verified": 1,
+   "geometry": "pct:81.16,23.28,9.42,3.83@p3",
+   "geometry_frame": "p3 axis=y cell=81.16-90.58 rowband=23.28-27.11 (2 of 2 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "THE FILER'S OWN AGGREGATE LINE, not a named donor \u2014 kept as ONE row exactly as reported, never split into imagined contributors, and no city/state exists to record. The Date cell holds a BARE DASH (a nil mark, not a date), so the date is honestly blank. The name is written 'Aggregat' with a flattened final stroke (probably 'Aggregate'); after '$50' there is ONE heavily overwritten glyph that at 1600 dpi is consistent either with a third digit ('$500') or with a struck extra digit \u2014 the threshold reading is recorded as ambiguous, not picked, hence confidence low. The AMOUNT is not in doubt: the leading digit is written like a 'Z' but the page's own closure (520.00 subtotal - 500.00 row 1) fixes it at 20.00."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "vendor_raw": "Election Filing Fee",
+   "amount": "675.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.28,19.91,9.36,3.80@p4",
+   "geometry_frame": "p4 axis=y cell=81.28-90.64 rowband=19.91-23.71 (1 of 1 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Schedule B on this legacy form prints NO Purpose column (its headers are Date / Name of Contributor / Mailing Address & Zip Code / Amount \u2014 the form reuses the Schedule A header row), so purpose is honestly blank; the payee cell itself names the purpose. The Date cell prints a month word written OVER another word \u2014 illegible at 1600 dpi \u2014 followed by a clear '2010'; the date is therefore left BLANK rather than guessed (needs_review=1), and it was NOT back-filled from the report date. Address cell left empty by the filer."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah)",
+   "transcribed_date": "2026-08-18",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (520) on the p2 Summary Page, which is also Schedule A's own printed 'Subtotal for this page' (520.00) and its printed 'Total Contributions Received' (520.00)",
+     "detail": "2 Schedule A rows sum to 500.00 + 20.00 = 520.00 exactly = the schedule's printed page subtotal (520.00) = the schedule's printed Total Contributions Received (520.00) = the cover's PROMOTED per-period cell Column A (520). Column B 'Year-to-Date Total' also prints 520 because this is the filer's FIRST report of the cycle (line 3 beginning balance is a written '0'), so period and cumulative coincide here \u2014 the anchor used is still Column A, and Column B was not summed as an increment. The second row is the filer's OWN aggregate line ('Aggregat under $50...'), kept as ONE row exactly as reported and never split into imagined donors; its 20.00 is confirmed by the closure (520.00 - 500.00 = 20.00), which is what settles the 2-written-as-Z glyph."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (675) on the p2 Summary Page, equal to Schedule B's printed 'Subtotal for this page' (675.00) and its printed 'Total Expenditures Received' (675.00)",
+     "detail": "The single Schedule B row sums to 675.00 = the printed page subtotal (675.00) = the printed Total Expenditures Received (675.00) = the cover's Column A (675). At 200 dpi full page the Total Expenditures Received line APPEARED to read '673.00'; a 900 dpi tight crop of both footer lines resolved it as '675.00' (the filer's 5 has a flat top), so there is no filer-arithmetic delta here. Column B YTD expenditures also print 675 (first report of the cycle) and were not summed as an increment. The p2 balance ladder is internally consistent and ends NEGATIVE: line 3 (0) + line 4 (520) = line 5 (520); 520 - 675 = line 7 close (-155), transcribed as printed with its minus sign."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 neither schedule prints an in-kind column and no row is annotated in-kind, so the monetary-only and monetary-plus-in-kind conventions give the identical sums (520.00 / 675.00) and both close on Column A",
+   "escalations": 3,
+   "escalation_note": "(1) p4 'Total Expenditures Received' \u2014 read as possibly '673.00' on the 200 dpi full page; a 900 dpi crop of the two footer lines rendered 'Subtotal for this page $ 675.00' and the total as '675.00'. RESOLVED, and it agrees with the cover's Column A 675. (2) p3 row 2 name cell, the aggregate threshold \u2014 a 1600 dpi tight crop rendered '$ 50' followed by ONE heavily overwritten/blotted glyph, consistent either with a third digit ('$500') or with a struck extra digit ('$50'). NOT RESOLVED; recorded as ambiguous rather than picked, and it bears on no figure. (3) p4 row 1 Date cell \u2014 a 1600 dpi crop rendered a month word written over another word (illegible) followed by a clear '2010'; NOT RESOLVED, so the date is left honestly blank with needs_review=1 and the year noted, never back-filled from the report date.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 3,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "PAGE-FACE CANDIDATE: 'SEAN HULLINGER' \u2014 index.csv names NO candidate for this row (2008-2018 county_static listing grouped by office); the page face governs. Party printed 'Libertarian'; Office Seeking hand-written 'County Attorney'. legacy_colAB variant, 4 PDF pages, each classified from its own printed header: p1 COVER (type 'Seven days preceding the Primary Election' checked), p2 SUMMARY PAGE (found by its printed header; the expected p2 ordinal), p3 SCHEDULE A, p4 SCHEDULE B. THE DOCUMENT IS A FAX: every page carries the sending machine's strip 'Jun. 14. 2010 3:38PM (3:39PM on the last page) / No. 4116 / P. 2 ... P. 5', i.e. the retained PDF holds fax pages 2-5 and the fax's own page 1 (a transmission cover sheet, not part of the form) was never scanned into this record \u2014 the FORM itself is complete, and the filer's own page box numbers the four form pages as 1 of 3 (Summary), 2 of 3 (Schedule A), 3 of 3 (Schedule B) with the cover uncounted. Two cover-page properties worth recording: the 'Is this report an amendment?' pair has NEITHER Yes nor No checked (the neighbouring Buhman filings check 'No'), and the Street Address and CITY fields are BLANK \u2014 only State 'UT' and the Zip are written \u2014 so this filing states no residence city. Clerk stamp JUN 14 PM 5:55. Both sides close EXACTLY on the promoted per-period Column A. Because this is the filer's first report of the 2010 cycle, Column B equals Column A on both lines; the per-period cell was still used as the anchor. NOTE the file name's '_1' suffix (2010_CountyAttorney-HullingerSean-061410_1.pdf) is the acquisition channel's own de-duplication marker, not a second report bound in - this PDF contains ONE report."
+  }
+ }
 }

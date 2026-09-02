@@ -1,0 +1,419 @@
+[
+ {
+  "index_path": "raw/2016/2016_Frost.pdf",
+  "key": "7dbce577",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_03)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "delta",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (2,177.09) on the p2 SUMMARY PAGE, which is also Schedule A's own printed 'Subtotal for this page $2,177.09' AND its printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $2,177.09' — three printed statements of the same figure",
+    "detail": "+0.20 DELTA, RETAINED VERBATIM, NOTHING NUDGED. The 11 Schedule A rows sum to 1000.00 + 96.80 + 48.25 + 48.25 + 19.12 + 50.00 + 500.00 + 100.00 + 36.11 + 36.11 + 242.25 = 2,176.89, against a printed subtotal / printed schedule total / cover Column A of 2,177.09 — the filer's own stated figure exceeds the sum of his own itemized lines by exactly 0.20. HOW IT WAS TRACED, and why no row is named: (a) this sheet has ONE Schedule A page and its 'Subtotal for this page' equals its 'Total Contributions Received', so the page-subtotal gate and the schedule gate are the same gate and there is no second sheet whose subtotal could have been mis-added; (b) all 11 amount cells were escalated INDIVIDUALLY to 1200 dpi tight crops (this filing is TYPED, not handwritten — every glyph is unambiguous at that resolution) and every one reproduced exactly what is recorded, so no misread cell can absorb the 0.20 and there is no digit to correct: 96.80 is not 97.00, 19.12 is not 19.32, 242.25 is not 242.45, neither 36.11 is 36.21; (c) a 500 dpi full-width crop of rows 12-16 AND of the white space above the 'Subtotal for this page' label renders a wholly empty grid, so trap F1.5 (a ledger continuing below the last printed rule) does NOT explain it and no twelfth row exists; (d) the §A1 first-entry control and the §B5 one-past control both passed, so the row index is not shifted and nothing at either end is missing; (e) CORRELATED-ERROR SCREEN: not-correlated-by-absence — Frost has exactly ONE filing in this corpus (index.csv), so there is no sibling report in which the same +0.20 could recur. The 0.20 is therefore the FILER'S OWN ARITHMETIC, a fact about the document, and the cover is internally consistent with it (763.15 + 2,177.09 = 2,940.24 = line 5; 2,940.24 - 1,602.14 = 1,338.10 = line 7, all as printed). Column B 'Year-to-Date Total' is BLANK on lines 1 and 2 of this cover, so no cumulative anchor exists and none was synthesized."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (1,602.14) on the p2 SUMMARY PAGE, equal to Schedule B's own printed 'Subtotal for this page $1,602.14' and its printed 'Total Expenditures Received (Sum of subtotals from all Schedule B pages) $1,602.14'",
+    "detail": "The 8 Schedule B rows sum to 647.22 + 53.96 + 93.41 + 242.66 + 93.41 + 281.02 + 70.46 + 120.00 = 1,602.14 EXACTLY — equal to the printed page subtotal, the printed schedule total and the cover's promoted per-period Column A cell, and it is the same 1,602.14 the cover carries at line 6 'Total Expenditures Made (From Line 2 Column A)'. Column B YTD is blank on this cover and was never summed. Note that this side closing to the cent is what isolates the contribution side's +0.20 to the contribution side alone."
+   }
+  },
+  "in_kind_convention": "not applicable / both conventions identical — neither schedule prints an in-kind column, no row is marked in-kind anywhere on the filing, and no separate in-kind line appears on the summary page, so the monetary-only and monetary-plus-in-kind sums are the same figure on each side (2,176.89 and 1,602.14). Tested rather than inherited, per CHUNK_BRIEF §3.",
+  "escalations": 13,
+  "escalation_note": "13 tight --value crops. TWELVE on Schedule A: all 11 amount cells plus the one-past control, each at 1200 dpi, run specifically to hunt the +0.20 — every cell reproduced its recorded value and the control was empty, so the escalation RESOLVED LEGIBILITY and left the arithmetic delta standing (GOTCHAS: escalation resolves legibility, never truth). ONE more at 500 dpi over the tail of Schedule A (rows 12-16 and the space above the subtotal label) to rule out trap F1.5. No figure was changed by any escalation.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     82.19,
+     92.08
+    ],
+    "cells": [
+     [
+      6.91,
+      18.33
+     ],
+     [
+      19.8,
+      52.35
+     ],
+     [
+      53.88,
+      80.72
+     ],
+     [
+      82.19,
+      92.08
+     ]
+    ],
+    "rows": [
+     [
+      17.03,
+      20.98
+     ],
+     [
+      20.98,
+      24.94
+     ],
+     [
+      24.94,
+      28.9
+     ],
+     [
+      28.9,
+      32.86
+     ],
+     [
+      32.86,
+      36.79
+     ],
+     [
+      36.79,
+      40.78
+     ],
+     [
+      40.78,
+      44.71
+     ],
+     [
+      44.71,
+      48.67
+     ],
+     [
+      48.67,
+      52.61
+     ],
+     [
+      52.61,
+      56.57
+     ],
+     [
+      56.57,
+      60.53
+     ]
+    ],
+    "measure_note": "legacy_colAB UNDERLINE form (not a boxed grid): rowbands.py returns 17 per-column underline rules on p3 at 20.98..84.20, a regular pitch of 3.945, skew +0.4 deg — 17 rules = 16 data rows. The four per-column segments of each rule ARE the column bands: Date 6.91-18.33, Name of Contributor 19.80-52.35, Mailing Address & Zip Code 53.88-80.72, Amount 82.19-92.08 (a fifth 99.1-99.2 segment is the scanned page edge, not a column). THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 has no rule above it — band 1 is extrapolated one pitch up from the first rule, to [17.03,20.98]. MANDATORY §A1 FIRST-ENTRY CONTROL: that extrapolated band 1, cropped at 1200 dpi as pct:82.19,17.03,9.89,3.95@p3, rendered the printed 'Amount' column header WITH '1,000.00' beneath it — i.e. the filer did NOT skip the first ruled line and his first entry IS band 1 (contrast Houskeeper 2010, where the same control rendered the header over an EMPTY cell). LAST-ROW proof: pct:82.19,56.57,9.89,3.96@p3 rendered '242.25' (recorded 242.25, JJ's Viewbox). MANDATORY §B5 ONE-PAST control: pct:82.19,60.53,9.89,3.96@p3 rendered an EMPTY cell between two rules — no trap-5 row below the grid. All 11 amount cells were additionally cropped individually at 1200 dpi (see escalation_note); every one matched what was recorded, and a 500 dpi full-width crop of the tail (rows 12-16 plus the white space over the 'Subtotal for this page' label) rendered a wholly empty grid with nothing written below the last rule."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     81.89,
+     91.72
+    ],
+    "cells": [
+     [
+      6.67,
+      18.03
+     ],
+     [
+      19.56,
+      52.11
+     ],
+     [
+      53.58,
+      80.42
+     ],
+     [
+      81.89,
+      91.72
+     ]
+    ],
+    "rows": [
+     [
+      17.28,
+      21.24
+     ],
+     [
+      21.24,
+      25.2
+     ],
+     [
+      25.2,
+      29.16
+     ],
+     [
+      29.16,
+      33.12
+     ],
+     [
+      33.12,
+      37.08
+     ],
+     [
+      37.08,
+      41.04
+     ],
+     [
+      41.04,
+      44.96
+     ],
+     [
+      44.96,
+      48.92
+     ]
+    ],
+    "measure_note": "Same underline form, measured on THIS page (a grid is never carried across sheets): 17 rules at 21.24..84.47, pitch 3.96, skew +0.3 deg — slightly different from p3's +0.4. Column bands from this page's own rule segments: Date 6.67-18.03, Name of Contributor 19.56-52.11, Mailing Address & Zip Code 53.58-80.42, Amount 81.89-91.72. Row 1 extrapolated one pitch up to [17.28,21.24]. §A1 FIRST-ENTRY CONTROL at 900 dpi: pct:81.89,17.28,9.83,3.96@p4 rendered the 'Amount' header with '647.22' beneath it — first entry is on band 1. LAST-ROW proof: pct:81.89,44.96,9.83,3.96@p4 rendered '120.00' (recorded 120.00, Hampton Inns). §B5 ONE-PAST control: pct:81.89,48.92,9.83,3.96@p4 rendered an EMPTY cell. A further crop of the footer band rendered '$ 1,602.14', the sheet's own printed 'Subtotal for this page'."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "03/24/16",
+    "donor_raw": "Brad Frost",
+    "donor_city": "American Fork",
+    "donor_state": "Utah",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the candidate's own self-contribution (page-face candidate is 'Bradley J Frost'; he signs the ledger row 'Brad Frost'). city/state as the filer typed them — he entered ONLY city, state and (sometimes) zip in the 'Mailing Address & Zip Code' column, no street line anywhere on the filing, so the privacy reduction removes nothing here. State is printed as the word 'Utah', kept verbatim rather than normalized to UT."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "03/31/16",
+    "donor_raw": "Dustin Sweeten",
+    "donor_city": "Lindon",
+    "donor_state": "Utah",
+    "amount": "96.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "city/state as the filer typed them — he entered ONLY city, state and (sometimes) zip in the 'Mailing Address & Zip Code' column, no street line anywhere on the filing, so the privacy reduction removes nothing here. State is printed as the word 'Utah', kept verbatim rather than normalized to UT."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "03/31/16",
+    "donor_raw": "Karen McCoy",
+    "donor_city": "American Fork",
+    "donor_state": "Utah",
+    "amount": "48.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "city/state as the filer typed them — he entered ONLY city, state and (sometimes) zip in the 'Mailing Address & Zip Code' column, no street line anywhere on the filing, so the privacy reduction removes nothing here. State is printed as the word 'Utah', kept verbatim rather than normalized to UT."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "03/31/16",
+    "donor_raw": "Willie Holdman",
+    "donor_city": "Midway",
+    "donor_state": "Utah",
+    "amount": "48.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Midway is in WASATCH County, not Utah County — an out-of-county donor, transcribed as printed. city/state as the filer typed them — he entered ONLY city, state and (sometimes) zip in the 'Mailing Address & Zip Code' column, no street line anywhere on the filing, so the privacy reduction removes nothing here. State is printed as the word 'Utah', kept verbatim rather than normalized to UT."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "03/31/16",
+    "donor_raw": "Mark Allen",
+    "donor_city": "Lindon",
+    "donor_state": "Utah",
+    "amount": "19.12",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "city/state as the filer typed them — he entered ONLY city, state and (sometimes) zip in the 'Mailing Address & Zip Code' column, no street line anywhere on the filing, so the privacy reduction removes nothing here. State is printed as the word 'Utah', kept verbatim rather than normalized to UT."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "03/31/16",
+    "donor_raw": "Jodi Frost",
+    "donor_city": "American Fork",
+    "donor_state": "Utah",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "city/state as the filer typed them — he entered ONLY city, state and (sometimes) zip in the 'Mailing Address & Zip Code' column, no street line anywhere on the filing, so the privacy reduction removes nothing here. State is printed as the word 'Utah', kept verbatim rather than normalized to UT."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "04/07/16",
+    "donor_raw": "Utah Central Association of Realtors",
+    "donor_city": "Orem",
+    "donor_state": "Utah",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an association, not a natural person, transcribed as named. city/state as the filer typed them — he entered ONLY city, state and (sometimes) zip in the 'Mailing Address & Zip Code' column, no street line anywhere on the filing, so the privacy reduction removes nothing here. State is printed as the word 'Utah', kept verbatim rather than normalized to UT."
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "04/07/16",
+    "donor_raw": "Ernie John",
+    "donor_city": "American Fork",
+    "donor_state": "Utah",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "city/state as the filer typed them — he entered ONLY city, state and (sometimes) zip in the 'Mailing Address & Zip Code' column, no street line anywhere on the filing, so the privacy reduction removes nothing here. State is printed as the word 'Utah', kept verbatim rather than normalized to UT."
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "04/15/16",
+    "donor_raw": "Paypal Credit",
+    "amount": "36.11",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer books a PAYMENT-PROCESSOR CREDIT as a contribution row and names Paypal as the contributor; transcribed as printed and not reinterpreted. address cell LEFT WHOLLY EMPTY BY THE FILER — not redacted (this filing is not a *_Redacted.pdf), not a form limitation (the column exists and is filled on the rows above), and not lost in reproduction (the cell reproduces cleanly at 1200 dpi). city/state honestly blank."
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "04/15/16",
+    "donor_raw": "Paypal Credit",
+    "amount": "36.11",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a second identical 36.11 'Paypal Credit' row on the same date — the filer's own duplicate entry, kept as two rows because the document prints two. address cell LEFT WHOLLY EMPTY BY THE FILER — not redacted (this filing is not a *_Redacted.pdf), not a form limitation (the column exists and is filled on the rows above), and not lost in reproduction (the cell reproduces cleanly at 1200 dpi). city/state honestly blank."
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "date": "04/15/16",
+    "donor_raw": "JJ's Viewbox",
+    "amount": "242.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "address cell LEFT WHOLLY EMPTY BY THE FILER — not redacted (this filing is not a *_Redacted.pdf), not a form limitation (the column exists and is filled on the rows above), and not lost in reproduction (the cell reproduces cleanly at 1200 dpi). city/state honestly blank."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "03/17/16",
+    "vendor_raw": "Utah County",
+    "amount": "647.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Utah County candidate FILING FEE for the 2016 Commission race. It equals to the cent the 647.22 that Casey Voeks records paying the 'Utah County Elections Office' on 3/11/2016 in the same seat and cycle — noted as an OBSERVATION only; per addenda E1/F5 the fee is office- and cycle-specific and is NEVER used to settle a figure on another filing. this 2016 blank's Schedule B reuses SCHEDULE A's column headings ('Name of Contributor', 'Mailing Address & Zip Code') over the vendor columns and prints NO Purpose column, so purpose is honestly blank."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "03/24/16",
+    "vendor_raw": "Signs Now",
+    "amount": "53.96",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this 2016 blank's Schedule B reuses SCHEDULE A's column headings ('Name of Contributor', 'Mailing Address & Zip Code') over the vendor columns and prints NO Purpose column, so purpose is honestly blank."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "03/25/16",
+    "vendor_raw": "Swift Printing",
+    "amount": "93.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this 2016 blank's Schedule B reuses SCHEDULE A's column headings ('Name of Contributor', 'Mailing Address & Zip Code') over the vendor columns and prints NO Purpose column, so purpose is honestly blank."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "03/28/16",
+    "vendor_raw": "Signs Now",
+    "amount": "242.66",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this 2016 blank's Schedule B reuses SCHEDULE A's column headings ('Name of Contributor', 'Mailing Address & Zip Code') over the vendor columns and prints NO Purpose column, so purpose is honestly blank."
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "03/31/16",
+    "vendor_raw": "Swift Printing",
+    "amount": "93.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this 2016 blank's Schedule B reuses SCHEDULE A's column headings ('Name of Contributor', 'Mailing Address & Zip Code') over the vendor columns and prints NO Purpose column, so purpose is honestly blank."
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "04/15/16",
+    "vendor_raw": "YBA Shirts",
+    "amount": "281.02",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this 2016 blank's Schedule B reuses SCHEDULE A's column headings ('Name of Contributor', 'Mailing Address & Zip Code') over the vendor columns and prints NO Purpose column, so purpose is honestly blank."
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "04/15/16",
+    "vendor_raw": "Swift Printing",
+    "amount": "70.46",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this 2016 blank's Schedule B reuses SCHEDULE A's column headings ('Name of Contributor', 'Mailing Address & Zip Code') over the vendor columns and prints NO Purpose column, so purpose is honestly blank."
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "04/15/16",
+    "vendor_raw": "Hampton Inns (Conference Room)",
+    "amount": "120.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'(Conference Room)' is written inside the payee cell after the vendor name — the bracketed-purpose workaround. It is NOT a Purpose column: this form has none. this 2016 blank's Schedule B reuses SCHEDULE A's column headings ('Name of Contributor', 'Mailing Address & Zip Code') over the vendor columns and prints NO Purpose column, so purpose is honestly blank."
+   }
+  ],
+  "notes": "⚠ A SECOND 2016 BLANK EXISTS, AND IT IS NOT THE ONE THE OTHER 2016 FILINGS USE. This cover is titled 'FINANCIAL CAMPAIGN REPORT / FOR COUNTY CANDIDATES' — NO '& LOCAL SCHOOL BOARD' — citing 'Utah County Code 2-5-2 & Utah State Code 17-16-6.5' with NO 20A-11-13, carrying the OLD Utah County EAGLE SEAL (not the 'HEART of UTAH' mountain letterhead) and the words 'COUNTY CANDIDATE' set vertically down the left margin. That is the 'county-only' blank of addendum D2, alive in 2016 and citing the 2-5-2 code section of the undated 2010 blank (addendum C1: template vintage orders nothing in time — here it does not even order CYCLES, since Voeks 17bb61d5 filed the school-board-headed 2-5 blank in the SAME seat and cycle). Its inner sheets carry NO '2016 County Commission...' strapline, and its Schedule B footer reads 'Total Expenditures RECEIVED', the county's own mislabel. As on the other blank, THE 2016 SCHEDULE B REUSES SCHEDULE A'S COLUMN HEADINGS ('Name of Contributor', 'Mailing Address & Zip Code') and there is NO Purpose column on either schedule. 4 pages, foliated 1-4 of 4 counting the cover, all four located and classified by their own printed headings: p1 cover, p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B. THE FORM IS FILLED IN TYPE, not handwriting — the cover fields, both schedules and the summary page are all born-digital fill that was then printed and scanned; only the signature is in ink. That is why every escalation below is unambiguous and why the +0.20 contribution delta cannot be a reading error. PAGE-FACE NAME 'Bradley J Frost' (Office Seeking 'County Commission Seat C', party Republican, residence American Fork UT); index.csv names NO candidate for this row, so the page face supplies it. ⚠ TWO REPORT-TYPE BOXES CARRY MARKS: '30 Days after the Primary Election' has a hand ✔ and '30 Days after the General Election' has a heavier filled/scribbled mark; the amendment radio is set to 'No'. The filer's own inconsistency is transcribed, NOT adjudicated (CHUNK_BRIEF §5). The channel labels this filing 'Post-Primary'. ⚠ DATE OF REPORT IS 04/21/2017 — nearly a year after the 6/2016 primary — on every one of the four sheets, and all the itemized dates are 03-04/2016. The cycle is 2016; the report is simply filed very late. Not reclassified. PRIVACY: not a redacted file, and the filer typed NO street line anywhere — the 'Mailing Address & Zip Code' column holds only city, state and sometimes zip. Recorded as city/state for contributions, dropped entirely for expenditures. Three contribution rows (both 'Paypal Credit' lines and JJ's Viewbox) have that cell left WHOLLY EMPTY by the filer — a distinct fact from redaction, from a form with no city field, and from reproduction loss. FIELD-SHIFT SCREEN run on both sides: dates are dates, names are names, the address column holds places and the amount column holds money on all 19 rows — no inversion. No nil marks, no ditto marks, no continuation lines, no voided rows, no banner lines; the §A1 and §B5 controls passed on both sheets, so none of the five row-index traps of addendum F1 occurs here."
+ }
+]

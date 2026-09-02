@@ -1,6 +1,226 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-03-09",
+   "donor_raw": "Gilhaeng An",
+   "occupation": "N/A",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,20.84,89.60,3.89@p3",
+   "note": "address redacted at source"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-03-09",
+   "donor_raw": "Seungwon Ahn",
+   "occupation": "N/A",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,24.73,89.60,3.93@p3",
+   "note": "address redacted at source"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-03-10",
+   "donor_raw": "Michael Green",
+   "occupation": "N/A",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,28.66,89.60,3.91@p3",
+   "note": "address redacted at source"
+  },
+  {
+   "line_no": 4,
+   "date": "2022-03-10",
+   "donor_raw": "Jennessa Markland",
+   "occupation": "N/A",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,32.57,89.60,3.88@p3",
+   "note": "address redacted at source"
+  },
+  {
+   "line_no": 5,
+   "date": "2022-03-11",
+   "donor_raw": "Brad Topper",
+   "occupation": "Retired",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,36.45,89.60,3.91@p3",
+   "note": "address redacted at source"
+  },
+  {
+   "line_no": 6,
+   "date": "2022-03-25",
+   "donor_raw": "Jolynn Snelgrove",
+   "occupation": "Snelgrove Travel Center, Inc",
+   "amount": "520.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,40.36,89.60,3.89@p3",
+   "note": "address redacted at source"
+  },
+  {
+   "line_no": 7,
+   "date": "2022-03-24",
+   "donor_raw": "Brent Jex",
+   "occupation": "N/A",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,44.25,89.60,3.95@p3",
+   "note": "address redacted at source"
+  },
+  {
+   "line_no": 8,
+   "date": "2022-03-01",
+   "donor_raw": "Danielle Ahn (loan)",
+   "occupation": "Salt Lake County",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,48.20,89.60,3.89@p3",
+   "note": "address redacted at source; candidate loan as printed"
+  },
+  {
+   "line_no": 9,
+   "date": "2022-03-13",
+   "donor_raw": "Mackey Smith",
+   "occupation": "N/A",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,52.09,89.60,3.91@p3",
+   "note": "address redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-03-03",
+   "vendor_raw": "Salt Lake County",
+   "purpose": "Filing Fee",
+   "amount": "1,081.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,22.18,81.28,3.93@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-03-15",
+   "vendor_raw": "Red Finch Rental",
+   "purpose": "Camera Rental for Filming",
+   "amount": "600.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,26.11,81.28,3.94@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-03-19",
+   "vendor_raw": "Andrew Young",
+   "purpose": "Fliming",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,30.05,81.28,3.86@p4",
+   "note": "purpose printed 'Fliming' \u2014 filer typo for 'Filming', kept verbatim"
+  },
+  {
+   "line_no": 4,
+   "date": "2022-03-24",
+   "vendor_raw": "SLCOGOP",
+   "purpose": "Reservation for Booth",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,33.91,81.28,3.93@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2022-03-25",
+   "vendor_raw": "Sticker Mule",
+   "purpose": "Sticker",
+   "amount": "16.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,37.84,81.28,3.93@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2022-03-26",
+   "vendor_raw": "BrandDepot",
+   "purpose": "Sticker",
+   "amount": "19.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,41.77,81.28,3.89@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2022-03-29",
+   "vendor_raw": "Amazon",
+   "purpose": "Table cloth",
+   "amount": "19.29",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,45.66,81.28,3.89@p4"
+  }
+ ],
  "total_contributions": "$3,220.00",
  "total_expenditures": "$2,535.45",
  "beginning_balance": "0.00",
@@ -47,6 +267,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Machine-filled EasyVote PDF; address/phone/email and the signature are redacted with black boxes. Both Column B cells are EMPTY (recorded \"\"), and unlike the other Ahn filings there is NO stray figure on the section-header rows. INCONSISTENCY KEPT VERBATIM: Line 1 Column A reads $3,220.00 but Line 4 ('from Line 1 Column A') reads $3,245.00, a $25 difference; the balance summary is self-consistent with $3,245.00 ($3,245.00 - $2,535.45 = $709.55 = Line 7). Neither amendment box is checked. Clerk listing's reporting_period is a stray email address ('campaign@da4da.com'); the form checks April 5."
+  "notes": "Machine-filled EasyVote PDF; address/phone/email and the signature are redacted with black boxes. Both Column B cells are EMPTY (recorded \"\"), and unlike the other Ahn filings there is NO stray figure on the section-header rows. INCONSISTENCY KEPT VERBATIM: Line 1 Column A reads $3,220.00 but Line 4 ('from Line 1 Column A') reads $3,245.00, a $25 difference; the balance summary is self-consistent with $3,245.00 ($3,245.00 - $2,535.45 = $709.55 = Line 7). Neither amendment box is checked. Clerk listing's reporting_period is a stray email address ('campaign@da4da.com'); the form checks April 5.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "3220.00",
+     "schedule_total": "3245.00",
+     "itemized": "3245.00",
+     "basis": "schedule-grand-total",
+     "result": "exact",
+     "detail": "9 rows sum 3245.00 = SUBTOTAL = TOTAL on Schedule A = Summary line 4 $3,245.00. Summary line 1 prints $3,220.00 \u2014 a $25.00 filer discrepancy retained verbatim (chunk-file stated_contrib anchor $3,220.00 is that line-1 figure); the rows match the schedule's own printed total."
+    },
+    "expenditures": {
+     "stated": "2535.45",
+     "schedule_total": "2535.45",
+     "itemized": "2535.45",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "7 rows sum 2535.45 = SUBTOTAL 2535.45 = TOTAL 2535.45 = Summary line 2 $2,535.45"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 3245.00 = printed SUBTOTAL 3,245.00; p4 rows 2535.45 = printed SUBTOTAL 2535.45.",
+   "escalations": 2,
+   "escalation_note": "p3 and p4 full-grid 400dpi verification bands re-read identical (all 16 rows verified:1).",
+   "n_contrib_rows": 9,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2022 form, April 5 interim report signed 04/05/2022; index date 2022-04-05 confirmed. Cover Office Sought 'District Attorney' confirmed (not school board). One wide black bar covers the Complete Mailing Address column across all 9 Schedule A rows (redacted at source). Occupation prints 'N/A' on most rows \u2014 transcribed verbatim. Row 8 is the candidate's own loan: 'Danielle Ahn (loan)', Occupation/Employer 'Salt Lake County'."
+  }
  }
 }

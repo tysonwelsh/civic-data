@@ -132,6 +132,9 @@ One row per itemized donation line. Blank = not extractable, never guessed.
 | `extract_method` | family id + mode, e.g. `provo_form/text`, `provo_form/ocr` |
 | `needs_review` | `1` when a value is blank/uncertain or the row's side did not reconcile; else `0` |
 
+Two OPTIONAL trailing columns may follow, in this fixed order: **`geometry`** (§2a) and
+**`donor_occupation`** (§2c). A dataset emits the prefix of that list its rows populate.
+
 ## 2a. `geometry` — the optional row-provenance pointer (TRANCHE 3 Phase A, 2026-08-02)
 
 `contributions.csv` / `expenditures.csv` may carry ONE extra column, **`geometry`**, always
@@ -154,9 +157,12 @@ Two forms, both plain ASCII and both re-derivable from the retained source:
 these to an IIIF-style region string and (optionally) a cropped PNG rendered from the retained
 raw — the row-level evidential anchor. Spreadsheet cell refs print a structured citation (no
 page image exists — honest n/a). Two Phase-A geometry caveats it compensates for, both queued
-as family fixes: (1) MULTI-FILE filings (washco_split) don't stamp WHICH part file the span is
-relative to — resolved by span-content validation (the span must reproduce the row's own
-amount in a group sibling); (2) some families' line origin is off by one vs the stored sidecar
+as family fixes: (1) **FIXED 2026-08-23 for `washco_split`** — MULTI-FILE filings used to stamp
+the group's primary (the Summary) as `source_filing` while `line_no`/`geometry` were measured
+inside the ledger file, so the itemized-row key pointed at the wrong document. Each row now
+names the PART FILE it was read from, at emission. `make_snippet.py` keeps its span-content
+validation (the span must reproduce the row's own amount in a group sibling) as a safety net and
+for any other family that later needs it; (2) some families' line origin is off by one vs the stored sidecar
 (summit specimen: l48 → line 47) — resolved by an l±1 search, again amount-validated. A
 resolution is only ever accepted when the span text reproduces the row's amount — never
 positional guessing.
@@ -181,6 +187,46 @@ reconstructed — that helper does it and length-checks itself).
 **`geometry` is a provenance pointer, never a value.** It is not consulted by reconciliation,
 dedup, `cycle_totals.py` or any query, and a blank `geometry` means only "this family records no
 positional provenance".
+
+## 2c. `donor_occupation` — the Occupation/Employer field (OWNER DECISION 2026-08-20)
+
+Salt Lake County's **2015–2021** paper Schedule A pre-prints a fifth column,
+`Occupation/Employer`, between the mailing address and the amount. It exists on **every** form
+vintage in that slice (untitled-year, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021) and the
+row model had no home for it, so the field was being discarded at read time. The owner ruled on
+2026-08-20 that it is captured; wave W1 (2026-08-23) implemented it.
+
+| column | semantics |
+|---|---|
+| `donor_occupation` | the `Occupation/Employer` cell **VERBATIM as the filer wrote it** — `RETIRED`, `PAC`, `BUSINESS OWNER`, `LEGISLATOR`, `realtors`, `self-employed`, `unknown`. Free text; **not** a controlled vocabulary |
+
+Rules, all of them anti-fabrication rules:
+
+* **Never inferred.** Not from the donor's name, not from another filing by the same donor, not
+  carried down from the row above (a ditto mark IS resolved, and the row note says so).
+* **Blank means three different things** and the cache's row note distinguishes them: the form
+  has **no such column** (every pre-2015 filing, and one filer attachment in the 2015–2021
+  slice), the column exists and the **filer left it empty**, or the county's **redaction bar
+  covers it**. Blank is never read as "no occupation".
+* **It is not an address.** Filers do write addresses into free-text cells; PRIVACY.md governs
+  the VALUE, not the column it arrived in, so a street address found here is discarded at read
+  time exactly like one in the address column. `screen_records.py` fails a record that ships one.
+* **NULL in `gov.db` ≠ blank in a CSV.** `cf_contribution.donor_occupation` is NULL for every
+  dataset whose form has no such field — which is all of them except this slice.
+
+**Trailing and OPTIONAL, exactly like `geometry`, and it is emitted only AFTER it.** The three
+live contributions.csv shapes are therefore:
+
+```
+CONTRIB_HEADER                                   # base — every dataset that records no geometry
+CONTRIB_HEADER_GEO      = base + [geometry]      # the county positional families
+CONTRIB_HEADER_GEO_OCC  = base + [geometry, donor_occupation]   # salt_lake_county only
+```
+
+`common.CONTRIB_OPTIONAL_TRAILING` is the ordered list; `validate_finance.py` accepts all three
+headers; the federation loader reads the column by NAME (`r.get`), so a dataset without it
+contributes NULL and **not one existing row changes**. Proved at the wave: the other 37 CF
+modules' CSVs are byte-identical across the change.
 
 ## 2b. Shared money + privacy primitives (2026-08-02)
 
@@ -223,6 +269,63 @@ document_id, extraction_confidence, notes`.
 `stated_*` are the form's own PRINTED totals (verbatim source values). `itemized_*` are the
 sums the extractor counted. The pair, and their reconciliation, is the layer's integrity
 signal — the same "printed tally vs counted member rows" discipline the vote layer uses.
+
+---
+
+## 4a. `cycle_totals_county.csv` — the COUNTY per-candidate-cycle rollup (2026-08-23)
+
+**Written by `scripts/campaign_finance/cycle_totals_county.py`; contract in
+`scripts/campaign_finance/COUNTY_CYCLE_REDUCER_SPEC.md`. Federated into `gov.db` as
+`cf_cycle_county`.** The county sibling of §6's `cycle_totals.csv` — and a **different
+measurement**, which is why it is a different file and a different table. The city rule
+(`max(latest summary, summed interims)`) is wrong for every county corpus: summit / juab /
+weber file CUMULATIVE snapshots that a sum multiplies, officeholder carryover opens many
+cycles with a large balance, and three counties' regimes vary PER CANDIDATE, not per form.
+
+> ⚠ **THE FILENAME IS LOAD-BEARING.** `build_search_layer.py::load_cf` reads
+> `cycle_totals.csv` into the CITY-ONLY `cf_cycle`. A county file named `cycle_totals.csv`
+> would silently federate into the city table. The loader is additionally gated on
+> `e.level`, and `cycle_totals.py::all_cities()` / `write_city()` refuse non-city slugs, so
+> the separation is STRUCTURAL, not conventional.
+
+Header (28 columns, exact order):
+`city, candidate, election_year, office, seat, regime, regime_basis, raised_gross,
+spent_gross, carryover_opening, carryover_basis, raised_net_of_carryover, ending_balance,
+chain_closes, n_filings, n_live, n_governing, chain_len, is_floor, in_kind_basis,
+confidence, governing_filings, excluded_filings, gap_reason, itemized_check_raised,
+itemized_check_spent, itemized_check_note, review_flag`.
+
+The load-bearing semantics:
+
+- **`raised_gross` / `spent_gross` blank = a GAP, never zero.** A blank figure always
+  carries a `gap_reason` (`no-stated-total` | `chain-broken` | `regime-conflict` |
+  `mixed-county-no-evidence` | `neither-basis` | `superseded-only`, each with a human
+  clause) and vice versa. 350 of 968 rows are gaps; the gap is the data.
+- **`governing_filings` is the reproducibility contract.** Every published figure is
+  re-derivable from exactly those `source_filing` values by the row's own `regime` rule and
+  nothing else (gate G1). Where a group holds two filings carved from ONE PDF the token
+  carries a `#N` ordinal so it names exactly one row.
+- **`carryover_opening` is its own column and is NEVER folded into `raised_gross`.**
+  `raised_net_of_carryover` equals `raised_gross` for per-period cycles (nothing is
+  subtracted — the closure proof already confirms the periods are disjoint) and is
+  **BLANK for every cumulative cycle** by owner ruling 2026-08-23.
+- **`is_floor`=1 means the published number is a LOWER BOUND, not a total** (owner ruling
+  2026-08-23: a provable floor ships flagged rather than being suppressed). 200 rows.
+- **`regime` is decided per candidate-cycle from its own printed arithmetic.** The county
+  form prior is a TIE-BREAK ONLY and can only confirm, never decide. `filing_regime` is
+  read for exactly one thing — dropping the `annual` officeholder stream — and NEVER as the
+  arithmetic basis: at the county tier that column carries two incompatible vocabularies
+  (a statutory stream in juab/washington, an arithmetic basis in utah/weber/wasatch).
+- **`itemized_check_*` is ADVISORY.** It never gates and never corrects a stated total; a
+  disagreement is usually the filer's own arithmetic, which is retained verbatim.
+
+**DERIVED — regenerate, never hand-edit:**
+`python3 scripts/campaign_finance/cycle_totals_county.py --all` after any county
+`build_finance.py` run (`--validate` runs the gates and REFUSES a stale CSV; `--report`
+prints the tier / regime / carryover / cross-check record). Corrections go through
+`<county>/campaign_finance/cycle_overrides_county.csv`
+(`candidate,election_year,raised_gross,spent_gross,carryover_opening,regime,reason,evidence,added`)
+— the county mirror of §7's override convention.
 
 ---
 
@@ -278,6 +381,18 @@ form's own printed total. Tolerance **$0.01**.
   rows are capped at `low` and marked `needs_review=1`. **A mismatch is never adjusted** —
   a source that is internally inconsistent stays flagged, verbatim (like the vote layer's
   printed-tally-vs-names typos).
+**`validate_finance.py` check 6 — the ONE DECLARED EXCEPTION (recorded here 2026-08-23, owed
+since the owner-ratified RECONCILIATION-BASIS RULE of 2026-08-17).** A side may be reconciled
+against the printed cover figure that MATCHES THE LEDGER'S OWN SCOPE — the PERIOD figure for a
+period-scoped ledger — in which case `itemized_sum` is NOT comparable to a cumulative
+`stated_total` and the ordinary test would fail a correct dataset. **That basis must be
+DECLARED, and the declaration is CHECKED, not assumed**: every published row on that side must
+carry `is_incremental=True` AND `filing_totals.notes` must contain the literal marker
+`ITEMIZED <side> PERIOD-SCOPED (is_incremental=True)`. Absent the declaration the ordinary
+stated-total test applies unchanged, so the check is not weakened for any dataset that does not
+opt in. Opted in as of 2026-08-17: `summit_county`, `weber_county`. (A scope mismatch is a
+BASIS ERROR, not a delta — GOTCHAS' per-page anchor-scope rule.)
+
 - A figure that does not parse cleanly stays **blank** with `needs_review=1` — never a guessed
   digit. OCR repair (future OCR corpora) is limited to reversible, whitelisted transforms and
   every repaired value is marked `extract_method=…+repair`.
@@ -290,8 +405,11 @@ Candidates file several reports per cycle (interims + a year-end summary/final),
 summing a candidate's filings double-counts.** The correct per-candidate-cycle rollup is the
 canonical layer **`scripts/campaign_finance/cycle_totals.py`** → writes `cycle_totals.csv`
 (one row per candidate×election_year with deduped `raised`/`spent`, `basis`, `review_flag`).
-**Always read `cycle_totals.csv` for a candidate/race total; never sum `filing_totals` yourself.**
-Regenerate it after any `build_finance.py` (`python3 scripts/campaign_finance/cycle_totals.py --all`).
+**Always read a cycle table for a candidate/race total; never sum `filing_totals` yourself.**
+Regenerate after any `build_finance.py` (`python3 scripts/campaign_finance/cycle_totals.py --all`).
+**`cycle_totals.py` is CITY-ONLY** — `all_cities()` and `write_city()` both refuse a non-city
+slug (guard 2026-08-23). The COUNTY equivalent is §4a's `cycle_totals_county.csv`, a
+different measurement in a different file and a different table.
 
 The dedup rule (encoded in cycle_totals.py) — because the filing style is **per-candidate, NOT a
 per-city constant** (Logan: 7 incremental + 2 cumulative filers; Orem: some year-end summaries are

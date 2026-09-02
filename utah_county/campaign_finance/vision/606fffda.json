@@ -3,7 +3,10 @@
  "key": "606fffda",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:10:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -54,5 +57,42 @@
    "notes": "Handwritten in blue ink. NEITHER amendment box (Yes / No) is checked - is_amendment left as empty string rather than assumed 'No'. The Column B figures are written with a leading dollar sign ('$7065.54'); the line-1 Column B dollar sign is scrawled over itself, so the leading glyph is a struck $ and not a digit - the $ is dropped per spec and the figure transcribed 7065.54 (medium confidence on line 1 Column B because of the overwritten leading glyph; line 2 Column B prints the identical figure cleanly). Lines 3-7 and both Column A cells are a written zero (an open loop). Index candidate is blank; the page names JEFFERY DEAN SMITH (signed 'JEFFERY D. SMITH'). Office on the page is 'UT-COUNTY RECORDER'; index.csv says 'County Recorder' - same office."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r4_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "no-schedule-page",
+    "expenditures": "no-schedule-page"
+   },
+   "withheld_reason": {
+    "contributions": "The retained document has NO Schedule A page at all. `pdfinfo` reports Pages: 2, and both were read full-page: p1 is the county's 2014 blank COVER (name/party/office/report-type/verification) and p2 is the SUMMARY PAGE (located by its printed heading). There is no third page and no itemized grid of any kind. This is non-existence of the page, not an unread page and not a blank one. The filer says the same thing himself: the summary page's own foliation box is completed 'Page 1 of 1', so he filed a two-sheet document by design \u2014 consistent with a period in which his own Column A states zero contributions.",
+    "expenditures": "Identical: no Schedule B page exists in the document. `pdfinfo` Pages: 2 (cover + summary page, both read full-page), and the summary page is foliated 'Page 1 of 1' by the filer. Column A line 2 'TOTAL EXPENDITURES MADE' states a handwritten zero for the period, so no expenditure schedule was called for."
+   },
+   "recon": {},
+   "in_kind_convention": "not applicable \u2014 no schedule page exists on either side, so there is no row of either kind and no sum is claimed; the conventions cannot be distinguished and neither was needed",
+   "escalations": 2,
+   "escalation_note": "Two tight crops, both to settle glyph identity rather than truth. At 600 dpi the p2 Column A / Column B block rendered summary line 1 'TOTAL CONTRIBUTIONS RECEIVED (See Schedule A)' as a plain unslashed handwritten oval ZERO in Column A beside '$7065.54' in Column B, and line 2 'TOTAL EXPENDITURES MADE (See Schedule B)' as the same oval zero in Column A beside '$7065.54' in Column B. The glyph DENOTES the digit zero (this filer writes ordinary round zeros throughout, including inside 7065.54), so it reads 0 under the zero-glyph ruling \u2014 it is not a dash and not an empty cell. At 700 dpi the p2 foliation box rendered 'Page [1] of [1]' in the filer's blue ink over 'Candidate or Officeholder's Last Name  SMITH' \u2014 the direct page-face evidence that the two-page document is complete as filed.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Page-face candidate 'JEFFERY DEAN SMITH' in block capitals, signed 'JEFFERY D. SMITH' (party 'REP', Office Seeking 'UT-COUNTY RECORDER', residence city Orem); index.csv names NO candidate for this row, so the page face supplies it, and it agrees with the channel's 'County Recorder'. Entirely handwritten in blue ballpoint. The whole document is TWO PAGES (pdfinfo), both read full-page: p1 the county's 2014 blank cover ('2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', Utah County Code 2-5 & Utah State Code 17-16-6.5) with '30 Days after the General Election' ticked and signed 12/3/14; p2 the SUMMARY PAGE. BOTH SIDES ARE no-schedule-page, NOT empty-schedule \u2014 there is no Schedule A and no Schedule B sheet in the retained PDF to be blank, which is a different fact and is recorded as such; the evidence is the pdfinfo page count plus the filer's own 'Page 1 of 1' foliation on the summary page. THE ARITHMETIC IS COMPLETE AND CLOSED WITHOUT THEM: Column A ('Total this Period') states a handwritten zero for both TOTAL CONTRIBUTIONS RECEIVED and TOTAL EXPENDITURES MADE, and every line of the balance ladder \u2014 3 beginning, 4 contributions, 5 subtotal, 6 expenditures, 7 close \u2014 is the same written zero, so the period had no activity to itemize and the ladder closes 0 + 0 - 0 = 0. Column B ('Year-to-Date Total') carries real cycle figures, 7,065.54 contributions and 7,065.54 expenditures, which are CUMULATIVE and are never summed as an increment and never used to synthesize a per-period figure; the two being equal is the filer's statement that the campaign account is wound up. Note against ADDENDUM A \u00a7A4 / ADDENDUM C \u00a7C6: this final report does NOT zero its cumulative column \u2014 it keeps real YTD figures while zeroing the period column, the opposite of the 2010 Poulson December case, which is why neither behaviour may be assumed. THE AMENDMENT QUESTION IS LEFT WHOLLY UNANSWERED \u2014 neither the Yes nor the No box is ticked, an honest BLANK, never read as 'No'. FOLIATION: 'Page 1 of 1' on the summary page, i.e. the cover is excluded from the count \u2014 a further practice alongside those already on record, and here it is load-bearing evidence rather than a nuisance."
+  }
+ }
 }

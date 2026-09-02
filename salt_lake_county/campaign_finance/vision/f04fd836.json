@@ -1,0 +1,102 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "45.19",
+ "ending_balance": "45.19",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "45.19"
+ },
+ "cover": {
+  "candidate": "Jake Petersen",
+  "party": "Republican",
+  "office_sought": "Sheriff",
+  "district_number": "",
+  "report_type": "Year-End Report - Period ending December 31 (Open Campaign Account form)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2026-02-16",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Petersen-Jake__56BD8301.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Petersen, Jake",
+  "office": "Sheriff",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Petersen-Jake__56BD8301.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026 'Financial Disclosure Report For an Open Campaign Account' form (no printed year in title; form_year left blank). PAGE ORDER ODDITY confirmed: Schedule B is p3 and Schedule A is p4 (reversed from canonical). Entire filing handwritten. Cover, Summary, and both schedule header blocks carry '16 Feb 2026' as Date of Report; signature block dated 2/16/26. Summary line 5 shows 45.19 with a struck-through '0' written beneath (filer correction). Address/phone/email bar-redacted at source on the cover. Both schedule grids are struck through with a single diagonal line and carry handwritten zero glyphs in SUBTOTAL and TOTAL - real zeros, not gaps.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "blank Schedule A grid struck through with a single diagonal line; SUBTOTAL and TOTAL cells carry handwritten zero glyphs; Summary line 1 = 0 in both columns. A real zero at this filing."
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "blank Schedule B grid struck through with a single diagonal line; SUBTOTAL and TOTAL cells carry handwritten zero glyphs; Summary line 2 = 0 in both columns. A real zero at this filing."
+    }
+   },
+   "page_subtotal_gates": "p3 (Schedule B) printed subtotal 0 = 0 rows; p4 (Schedule A) printed subtotal 0 = 0 rows",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026 'Financial Disclosure Report For an Open Campaign Account' form (no printed year in title; form_year left blank). PAGE ORDER ODDITY confirmed: Schedule B is p3 and Schedule A is p4 (reversed from canonical). Entire filing handwritten. Cover, Summary, and both schedule header blocks carry '16 Feb 2026' as Date of Report; signature block dated 2/16/26. Summary line 5 shows 45.19 with a struck-through '0' written beneath (filer correction). Address/phone/email bar-redacted at source on the cover. Both schedule grids are struck through with a single diagonal line and carry handwritten zero glyphs in SUBTOTAL and TOTAL - real zeros, not gaps."
+  }
+ }
+}

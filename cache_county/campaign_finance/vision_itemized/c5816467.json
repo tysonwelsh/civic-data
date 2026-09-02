@@ -1,0 +1,95 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C03.json",
+ "key": "c5816467",
+ "index_path": "raw/2010/2010_wb_jswink.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_jswink.pdf"
+ ],
+ "sha256_prefix": "873124d9bb1377e6",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "NONE",
+    "cover_over50_this": "",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is a blank ruled sheet, no ink in any band. Cover line 1 CUMULATIVE is a written zero glyph (an oval with a trailing stroke); the LAST column is the written word 'NONE' and the THIS column is an EMPTY ruled line. Zero rows closes the cumulative cell. Anchors kept verbatim: 'NONE' is the filer's word, not converted here."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "NONE",
+    "cover_expense_this": "499.14",
+    "cover_expense_cum": "499 14/100",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "499.14",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row on Form B = 499.14. Cover line 3 THIS reads '499.14' and CUMULATIVE reads '499 14/100' — the SAME VALUE in a fraction-of-a-hundred notation, so both scopes coincide (LAST is 'NONE', i.e. first report of the cycle). Both competing anchor spellings recorded verbatim; neither was normalized away."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints no schedule or page total. p2 rows 0.00 = cover line 1 cumulative zero; p3 row 499.14 = cover line 3 THIS (499.14) and CUMULATIVE (499 14/100). Gates exactly.",
+  "row_count": "rowbands.py p3 returned 35 data bands with band 1 starting at y 11.07% — i.e. IT DROPPED THE GRID'S TOP RULE, the known open [DEBT] on the tool. The single inked row sits ABOVE that at y ~9-11%, in the band the tool lost. Counted by eye against ink: exactly 1 inked row, all lower bands empty -> 1 row emitted, and its geometry is given from the render, not from the tool's band list. rowbands.py p2: ok, 36 bands, none inked -> 0 rows.",
+  "geometry_proof": "p3 first-row crop at 600 dpi (-x 200 -y 590 -W 4600 -H 210) renders the whole row '3/12/10 | CACHE COUNTY | FILING EXPENSE | 499.14'; the control one pitch below over the amount column (-x 4150 -y 740 -W 700 -H 140) renders EMPTY (a bare rule and the tail of the filer's 'H'-shaped flourish from the row above, no digits). Row index unshifted.",
+  "balance_chain": "⚠ DOES NOT CLOSE, AND THE GAP IS THE FILER'S. Cover line 4 CUMULATIVE prints a written zero. Chain: 0 contributions - 499.14 expenses = -499.14, not 0. Both figures retained verbatim; nothing was recomputed. The most likely reading is that the filer paid his own filing fee and treated the ending balance as cash on hand rather than as the arithmetic residual (the two other filers in this chunk with the same shape, Zollinger and Howell, wrote the NEGATIVE residual instead). Note this is a COVER-level inconsistency only — both schedule sides reconcile to their cover lines exactly."
+ },
+ "escalations": 2,
+ "escalation_note": "p3 row band re-rendered full width at 600 dpi (the hand is a hard-slanted block print that reads poorly at 100 dpi); cover lines 3 and 4 re-rendered at 600 dpi, which is what revealed the CUMULATIVE cell is '499 14/100' rather than a second '499.14', and that line 4's cumulative cell is a zero glyph rather than an empty line.",
+ "notes": "Handwritten Carr 5-5-PG in a heavily slanted block hand. Cover 'Name of Office' reads 'CACHE COUNTY ATTORNEY' with 'Office District' = '1st DISTRICT (CACHE COUNTY)' — AGREES with the chunk file's office=County Attorney. 'Full Name of Candidate' reads 'JAMES MATTHEW SWINK' vs the chunk file's 'James Swink' (the form carries the middle name). County office, in scope. Cover date '25 OCT. 2010'; clerk RCVD stamp '25 OCT 2010 PM04:54' — matches the chunk file's 2010-10-25. 3-page PDF; the printed form's page-4 statute sheet was not scanned. NOTATION: this filer writes the word 'NONE' in the LAST-REPORT column of all four lines and leaves the THIS column of lines 1, 2 and 4 as empty ruled lines — two DIFFERENT states, recorded differently in the anchor block ('NONE' verbatim vs ''). Per the zero-glyph ruling a word denoting zero is a zero, but the anchors are strings kept verbatim, so no conversion was applied here. Cover line 3's cumulative cell uses the fraction cents form '499 14/100'. Privacy: home street address, home phone and business phone printed in the clear on the cover — discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-03-12",
+   "vendor_raw": "CACHE COUNTY",
+   "purpose": "FILING EXPENSE",
+   "amount": "499.14",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.59,8.96,13.75,3.19@p3",
+   "note": "Date written '3/12/10' (two-digit year). Payee written 'CACHE COUNTY' only — NOT 'Cache County Clerk' as the sibling 2010 filings write it; kept verbatim, not normalized to match them. Form B has no in-kind column."
+  }
+ ]
+}

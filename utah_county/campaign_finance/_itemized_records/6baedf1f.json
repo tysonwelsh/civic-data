@@ -1,0 +1,1390 @@
+[
+ {
+  "index_path": "raw/2014/2014_6-14B-Lee_1.pdf",
+  "key": "6baedf1f",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "itemized_pages_A": "3,4,5",
+  "itemized_pages_B": "6,7",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (30,240) on the p2 Summary Page, which is also the figure the filer wrote on Schedule A's own 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $30,240' at the foot of p5, and is re-stated at summary lines 4 and 5",
+    "detail": "THE CONTRIBUTIONS SIDE IS COMPLETE \u2014 all three of its Schedule A sheets are present ('Page 3 of 8', 'Page 4 of 8', 'Page 5 of 8') and each closes on its OWN printed page subtotal to the cent. p3: seventeen rows sum to 15,700 = its printed 'Subtotal for this page $15 700'. p4: seventeen rows sum to 13,760 = its printed '$13760'. p5: four rows sum to 300 + 250 + 65 + 165 = 780 = its printed subtotal (a struck-through first attempt with '780' written beside it \u2014 the handwritten correction governs). 15,700 + 13,760 + 780 = 30,240 EXACTLY = the schedule's own printed Total = the cover's promoted PER-PERIOD Column A cell. Column B 'Year-to-Date Total' also prints 30,240 (no earlier report in the cycle: line 3 Balance at Beginning is a handwritten '0') and is NOT summed as an increment. THE CLOSURE DECIDES THE IN-KIND QUESTION: it holds only with the two in-kind rows on p5 counted INLINE (see in_kind_convention). The p2 ladder closes: 0 + 30,240 = 30,240; 30,240 - 22,752 = 7,488 = line 7."
+   },
+   "expenditures": {
+    "result": "delta",
+    "anchor": "the two printed 'Subtotal for this page' figures on the RETAINED Schedule B sheets \u2014 9,689.87 (p6, 'Page 6 of 8') and 12,633.40 (p7, 'Page 7 of 8') \u2014 measured against Column A 'Total this Period' TOTAL EXPENDITURES MADE (22,752) on the p2 Summary Page, re-stated at summary line 6",
+    "detail": "TRACED TO A MISSING SHEET, and nothing nudged. The 17 rows on p6 sum to 9,689.87 EXACTLY = that sheet's own printed subtotal; the 17 rows on p7 sum to 12,633.40 EXACTLY = that sheet's own printed subtotal. Their total is 22,323.27, which is 428.73 SHORT of the cover's promoted per-period Column A cell of 22,752. THE DOCUMENT ITSELF NAMES THE CAUSE: the filer foliated every sheet 'of 8' \u2014 he hand-wrote 'Pg 1 of 8' on the cover and the retained sheets run 2, 3, 4, 5, 6 and 7 'of 8' \u2014 while `pdfinfo` reports Pages: 7. The eighth sheet, a third Schedule B page carrying the residual 428.73, IS ABSENT FROM THE RETAINED DOCUMENT (ADDENDUM E \u00a7E5: a filer's own foliation as evidence of missing sheets). The attribution is unique \u2014 one contiguous absent sheet \u2014 and nothing was synthesized from it: no row was invented for the 428.73 and no figure was adjusted. THE EXPENDITURE SIDE IS THEREFORE AN HONEST FLOOR: 34 rows totalling 22,323.27 of a stated 22,752. Neither Schedule B sheet's 'Total Expenditures Received' line was filled in by the filer, which is consistent with the last sheet being the one that carries it."
+   }
+  },
+  "in_kind_convention": "MONETARY-PLUS-IN-KIND, INLINE \u2014 a per-filer departure from the legacy_colAB family default, tested both ways. Two rows on p5 are in-kind: 'Taylor Audio' 250.00, which the filer himself labels by writing 'In Kind Donation' in that row's address column, and the aggregate 'Various In Kind Donations' 65.00. Both are written in the SAME Amount column as the cash rows. Monetary-only gives 29,925, which appears nowhere on the document; monetary-plus-in-kind gives 30,240, which is simultaneously the p5 subtotal chain (15,700 + 13,760 + 780), Schedule A's own printed Total Contributions Received and the cover's Column A. In-kind counted is what closes it.",
+  "escalations": 25,
+  "escalation_note": "Fifteen 900 dpi --value amount-cell crops (first row, last row and one band past the last row on each of pp3, 4, 6 and 7; rows 1, 4 and 5 on p5) \u2014 every one rendered the recorded figure or the page's own printed subtotal. Two 900 dpi date-cell crops on p3 (rows 3 and 5) settled LEGIBILITY only: row 5's date reads '5/27/2014' at high dpi where the full page suggested a short year, and row 3's struck-out word remains illegible under its cancellation and was NOT guessed. Eight ~500 dpi name-column strips confirmed 68 donor and vendor spellings on a handwritten scan. No figure was in dispute: all five schedule sheets close on their own printed subtotals to the cent.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     82.59,
+     92.41
+    ],
+    "cells": [
+     [
+      6.7,
+      18.17
+     ],
+     [
+      19.7,
+      52.47
+     ],
+     [
+      54.0,
+      81.06
+     ],
+     [
+      82.59,
+      92.41
+     ]
+    ],
+    "rows": [
+     [
+      16.95,
+      20.89
+     ],
+     [
+      20.89,
+      24.83
+     ],
+     [
+      24.83,
+      28.77
+     ],
+     [
+      28.77,
+      32.71
+     ],
+     [
+      32.71,
+      36.65
+     ],
+     [
+      36.65,
+      40.58
+     ],
+     [
+      40.58,
+      44.52
+     ],
+     [
+      44.52,
+      48.46
+     ],
+     [
+      48.46,
+      52.4
+     ],
+     [
+      52.4,
+      56.34
+     ],
+     [
+      56.34,
+      60.28
+     ],
+     [
+      60.28,
+      64.22
+     ],
+     [
+      64.22,
+      68.16
+     ],
+     [
+      68.16,
+      72.1
+     ],
+     [
+      72.1,
+      76.03
+     ],
+     [
+      76.03,
+      79.97
+     ],
+     [
+      79.97,
+      83.91
+     ]
+    ],
+    "measure_note": "legacy_colAB Schedule A, UNDERLINE form, deskew +0.1: a clean 17-rule grid at 20.89 .. 83.91, even pitch 3.939, no missing rules and no bars. Column bands straight from the rule segments (Date 6.70-18.17, Name 19.70-52.47, Address 54.00-81.06, Amount 82.59-92.41). Text sits ABOVE its rule; row 1 extrapolated one pitch up to 16.95. CONTROLS at 900 dpi --value: (1) \u00a7A1 FIRST-ENTRY CONTROL \u2014 band 1 pct:82.59,16.95,9.82,3.94@p3 RENDERED the printed 'Amount' header above '100' with its raised cents, so the filer did not skip the first ruled line; (2) the LAST row, band 17, pct:82.59,79.98,9.82,3.93@p3 RENDERED '50'; (3) ONE BAND PAST THE LAST ROW, pct:82.59,83.91,9.82,3.94@p3, RENDERED the filer's printed page subtotal '15 700' rather than an 18th entry \u2014 the grid is full at 17 rows and the frame is not short by one."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     82.71,
+     92.59
+    ],
+    "cells": [
+     [
+      6.89,
+      18.36
+     ],
+     [
+      19.89,
+      52.71
+     ],
+     [
+      54.18,
+      81.3
+     ],
+     [
+      82.71,
+      92.59
+     ]
+    ],
+    "rows": [
+     [
+      16.78,
+      20.71
+     ],
+     [
+      20.71,
+      24.64
+     ],
+     [
+      24.64,
+      28.57
+     ],
+     [
+      28.57,
+      32.5
+     ],
+     [
+      32.5,
+      36.44
+     ],
+     [
+      36.44,
+      40.37
+     ],
+     [
+      40.37,
+      44.3
+     ],
+     [
+      44.3,
+      48.23
+     ],
+     [
+      48.23,
+      52.16
+     ],
+     [
+      52.16,
+      56.09
+     ],
+     [
+      56.09,
+      60.02
+     ],
+     [
+      60.02,
+      63.95
+     ],
+     [
+      63.95,
+      67.88
+     ],
+     [
+      67.88,
+      71.81
+     ],
+     [
+      71.81,
+      75.74
+     ],
+     [
+      75.74,
+      79.68
+     ],
+     [
+      79.68,
+      83.61
+     ]
+    ],
+    "measure_note": "Same underline grid, deskew -0.2: 17 rules at 20.71 .. 83.61, pitch 3.931. Row 1 extrapolated to 16.78. CONTROLS at 900 dpi --value: (1) \u00a7A1 FIRST-ENTRY CONTROL \u2014 band 1 pct:82.71,16.78,9.88,3.93@p4 RENDERED the 'Amount' header above '100'; (2) the LAST row, band 17, pct:82.71,79.73,9.88,3.88@p4 RENDERED '100'; (3) ONE BAND PAST IT, pct:82.71,83.61,9.88,3.93@p4, RENDERED the printed page subtotal '13760' rather than an 18th entry."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     82.88,
+     92.77
+    ],
+    "cells": [
+     [
+      7.0,
+      18.59
+     ],
+     [
+      20.06,
+      52.88
+     ],
+     [
+      54.35,
+      81.47
+     ],
+     [
+      82.88,
+      92.77
+     ]
+    ],
+    "rows": [
+     [
+      16.82,
+      20.75
+     ],
+     [
+      20.75,
+      24.68
+     ],
+     [
+      24.68,
+      28.61
+     ],
+     [
+      28.61,
+      32.54
+     ],
+     [
+      32.54,
+      36.46
+     ],
+     [
+      36.46,
+      40.39
+     ],
+     [
+      40.39,
+      44.32
+     ],
+     [
+      44.32,
+      48.25
+     ],
+     [
+      48.25,
+      52.18
+     ],
+     [
+      52.18,
+      56.11
+     ],
+     [
+      56.11,
+      60.04
+     ],
+     [
+      60.04,
+      63.97
+     ],
+     [
+      63.97,
+      67.9
+     ],
+     [
+      67.9,
+      71.83
+     ],
+     [
+      71.83,
+      75.76
+     ],
+     [
+      75.76,
+      79.68
+     ],
+     [
+      79.68,
+      83.61
+     ]
+    ],
+    "measure_note": "Same underline grid, deskew -0.1: 17 rules at 20.75 .. 83.61, pitch 3.929. Row 1 extrapolated to 16.82. Only the first FOUR bands carry entries. CONTROLS at 900 dpi --value: (1) \u00a7A1 FIRST-ENTRY CONTROL \u2014 band 1 pct:82.88,16.82,9.89,3.93@p5 RENDERED the 'Amount' header above '300', so the first entry is band 1; (2) the LAST transcribed row, band 4, pct:82.88,28.61,9.89,3.96@p5 RENDERED '165'; (3) \u00a7B5 NEGATIVE CONTROL one band past it \u2014 pct:82.88,32.57,9.89,3.88@p5 RENDERED an EMPTY cell between two bare rules, confirming the remaining thirteen printed lines are genuinely unused."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     82.31,
+     92.25
+    ],
+    "cells": [
+     [
+      6.49,
+      18.01
+     ],
+     [
+      19.49,
+      52.31
+     ],
+     [
+      53.78,
+      80.9
+     ],
+     [
+      82.31,
+      92.25
+     ]
+    ],
+    "rows": [
+     [
+      19.23,
+      23.16
+     ],
+     [
+      23.16,
+      27.1
+     ],
+     [
+      27.1,
+      31.03
+     ],
+     [
+      31.03,
+      34.97
+     ],
+     [
+      34.97,
+      38.91
+     ],
+     [
+      38.91,
+      42.84
+     ],
+     [
+      42.84,
+      46.78
+     ],
+     [
+      46.78,
+      50.71
+     ],
+     [
+      50.71,
+      54.65
+     ],
+     [
+      54.65,
+      58.58
+     ],
+     [
+      58.58,
+      62.52
+     ],
+     [
+      62.52,
+      66.45
+     ],
+     [
+      66.45,
+      70.39
+     ],
+     [
+      70.39,
+      74.32
+     ],
+     [
+      74.32,
+      78.26
+     ],
+     [
+      78.26,
+      82.19
+     ],
+     [
+      82.19,
+      86.13
+     ]
+    ],
+    "measure_note": "legacy_colAB Schedule B, same underline form, deskew -0.2: 17 rules at 23.16 .. 86.12, pitch 3.935. Row 1 extrapolated to 19.23. CONTROLS at 900 dpi --value: (1) \u00a7A1 FIRST-ENTRY CONTROL \u2014 band 1 pct:82.31,19.23,9.94,3.93@p6 RENDERED the 'Amount' header above '148' with a raised '27'; (2) the LAST row, band 17, pct:82.31,82.21,9.94,3.91@p6 RENDERED '61'; (3) ONE BAND PAST IT, pct:82.31,86.12,9.94,3.93@p6, RENDERED the printed page subtotal '9,689' rather than an 18th entry."
+   },
+   "7": {
+    "axis": "y",
+    "cell": [
+     82.52,
+     92.46
+    ],
+    "cells": [
+     [
+      6.7,
+      18.17
+     ],
+     [
+      19.7,
+      52.52
+     ],
+     [
+      53.99,
+      81.05
+     ],
+     [
+      82.52,
+      92.46
+     ]
+    ],
+    "rows": [
+     [
+      18.79,
+      22.73
+     ],
+     [
+      22.73,
+      26.66
+     ],
+     [
+      26.66,
+      30.6
+     ],
+     [
+      30.6,
+      34.54
+     ],
+     [
+      34.54,
+      38.48
+     ],
+     [
+      38.48,
+      42.41
+     ],
+     [
+      42.41,
+      46.35
+     ],
+     [
+      46.35,
+      50.29
+     ],
+     [
+      50.29,
+      54.23
+     ],
+     [
+      54.23,
+      58.16
+     ],
+     [
+      58.16,
+      62.1
+     ],
+     [
+      62.1,
+      66.04
+     ],
+     [
+      66.04,
+      69.98
+     ],
+     [
+      69.98,
+      73.91
+     ],
+     [
+      73.91,
+      77.85
+     ],
+     [
+      77.85,
+      81.79
+     ],
+     [
+      81.79,
+      85.73
+     ]
+    ],
+    "measure_note": "Same underline grid, deskew +0.1: 17 rules at 22.73 .. 85.73, pitch 3.9375. Row 1 extrapolated to 18.79. CONTROLS at 900 dpi --value: (1) \u00a7A1 FIRST-ENTRY CONTROL \u2014 band 1 pct:82.52,18.79,9.94,3.94@p7 RENDERED the 'Amount' header above '50' with a raised '00'; (2) the LAST row, band 17, pct:82.52,81.79,9.94,3.94@p7 RENDERED '29' with a raised '27'; (3) ONE BAND PAST IT, pct:82.52,85.73,9.94,3.94@p7, RENDERED the printed page subtotal '12,633' rather than an 18th entry."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "3/26/2014",
+    "donor_raw": "Bill & Cheryl Lee",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. cents written as a raised '00'"
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "3/26/2014",
+    "donor_raw": "Bill & Pam Dabbs",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. cents written as a raised '00'"
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "5/27/2014",
+    "donor_raw": "Catherine & David Yung",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. THE DATE CELL CARRIES A HANDWRITTEN CORRECTION: a word (illegible under a heavy multi-stroke cancellation, re-cropped at 900 dpi and still unreadable) was written on the ruled line and struck out, and '5/27/2014' written above it. The handwritten correction governs, so the date is 5/27/2014 and the struck word is not transcribed. Cents written as a raised '00'."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "4/23/2014",
+    "donor_raw": "Cedar Valley Water Co LLC",
+    "amount": "5000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "5/27/2014",
+    "donor_raw": "Consultus LLC",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "3/26/2014",
+    "donor_raw": "Dan Hauser",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "6/11/2014",
+    "donor_raw": "Dan Hauser",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. same donor as line 6, a second contribution"
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "4/26/2014",
+    "donor_raw": "Dan Lijenquist",
+    "amount": "550.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. surname transcribed VERBATIM as the filer wrote it, 'Lijenquist'; a more common Utah spelling exists and is deliberately NOT substituted"
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "4/8/2014",
+    "donor_raw": "David Hinkins",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "5/6/2014",
+    "donor_raw": "Don & Lynda Ashcraft",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "date": "3/24/2014",
+    "donor_raw": "Doug Farr",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "date": "5/9/2014",
+    "donor_raw": "Ellen Schunk",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "date": "6/4/2014",
+    "donor_raw": "Flickinger & Sutterfield PC",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "date": "4/24/2014",
+    "donor_raw": "Gene Shumway",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "15",
+    "page": 3,
+    "row": 15,
+    "date": "3/25/2014",
+    "donor_raw": "Jarom & Molly Ballantyne",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 16,
+    "date": "4/28/2014",
+    "donor_raw": "John & Heli Pestana",
+    "amount": "5000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 17,
+    "date": "4/18/2014",
+    "donor_raw": "Lawrence Cerenzie",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. LAST row of Schedule A sheet 'Page 3 of 8', whose printed subtotal 15,700 the seventeen rows above reach exactly"
+   },
+   {
+    "line_no": "18",
+    "page": 4,
+    "row": 1,
+    "date": "6/7/2014",
+    "donor_raw": "Lisa Liddiard",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. first row of Schedule A sheet 'Page 4 of 8'"
+   },
+   {
+    "line_no": "19",
+    "page": 4,
+    "row": 2,
+    "date": "3/20/2014",
+    "donor_raw": "Lynda Roper",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "20",
+    "page": 4,
+    "row": 3,
+    "date": "4/9/2014",
+    "donor_raw": "Lynda Roper",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "21",
+    "page": 4,
+    "row": 4,
+    "date": "3/31/2014",
+    "donor_raw": "Lynda Roper",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. third of three contributions from the same donor on this sheet"
+   },
+   {
+    "line_no": "22",
+    "page": 4,
+    "row": 5,
+    "date": "5/27/2014",
+    "donor_raw": "Lynn and Dee Applegate",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. the filer writes 'and' here and '&' elsewhere; kept verbatim"
+   },
+   {
+    "line_no": "23",
+    "page": 4,
+    "row": 6,
+    "date": "4/30/2014",
+    "donor_raw": "Madsen for Senate",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. a candidate committee, transcribed as the document names it"
+   },
+   {
+    "line_no": "24",
+    "page": 4,
+    "row": 7,
+    "date": "3/26/2014",
+    "donor_raw": "Melvin & Ada Ballantyne",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "25",
+    "page": 4,
+    "row": 8,
+    "date": "4/2/2014",
+    "donor_raw": "Michael Daniels",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. written with a lower-case initial by the filer"
+   },
+   {
+    "line_no": "26",
+    "page": 4,
+    "row": 9,
+    "date": "6/13/2014",
+    "donor_raw": "Mike Morley",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. written with a lower-case initial by the filer"
+   },
+   {
+    "line_no": "27",
+    "page": 4,
+    "row": 10,
+    "date": "6/11/2014",
+    "donor_raw": "Phillip Pryer",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "28",
+    "page": 4,
+    "row": 11,
+    "date": "5/16/2014",
+    "donor_raw": "Robinson Brothers Construction Inc",
+    "amount": "5000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "29",
+    "page": 4,
+    "row": 12,
+    "date": "4/15/2014",
+    "donor_raw": "Rodney Martin",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "30",
+    "page": 4,
+    "row": 13,
+    "date": "5/8/2014",
+    "donor_raw": "Roger Barrus",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "31",
+    "page": 4,
+    "row": 14,
+    "date": "4/10/2014",
+    "donor_raw": "Spencer Stokes",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "32",
+    "page": 4,
+    "row": 15,
+    "date": "5/22/2014",
+    "donor_raw": "Steven Snelgrove",
+    "amount": "60.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "33",
+    "page": 4,
+    "row": 16,
+    "date": "5/15/2014",
+    "donor_raw": "Tosh Inc",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank."
+   },
+   {
+    "line_no": "34",
+    "page": 4,
+    "row": 17,
+    "date": "5/6/2014",
+    "donor_raw": "Wallace & Carol Harding",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. LAST row of Schedule A sheet 'Page 4 of 8', whose printed subtotal 13,760 the seventeen rows above reach exactly"
+   },
+   {
+    "line_no": "35",
+    "page": 5,
+    "row": 1,
+    "date": "6/6/2014",
+    "donor_raw": "Wayne & Nancy Sechrest",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address & Zip Code column is LEFT WHOLLY EMPTY BY THE FILER on every row of this filing (\u00a7E4 cause 2) \u2014 this is not a *_Redacted.pdf and carries no redaction bars, so nothing was blacked out by the county; the filer simply entered no addresses. donor_city/donor_state are therefore honestly blank. First row of the third and last Schedule A sheet, 'Page 5 of 8'."
+   },
+   {
+    "line_no": "36",
+    "page": 5,
+    "row": 2,
+    "date": "6/13/2014",
+    "donor_raw": "Taylor Audio",
+    "amount": "250.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND, and the filer labels it himself: he wrote 'In Kind Donation' in this row's Mailing Address column (the only row on the filing whose address cell carries anything). COUNTED IN THE SUM \u2014 this filer's convention is MONETARY-PLUS-IN-KIND, INLINE, and the sheet's own corrected subtotal 780 and the Total Contributions Received 30,240 close only with the two in-kind rows counted. donor_city/state blank: no address was written."
+   },
+   {
+    "line_no": "37",
+    "page": 5,
+    "row": 3,
+    "donor_raw": "Various In Kind Donations",
+    "amount": "65.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "AN AGGREGATE IN-KIND LINE, published as ONE row exactly as the document reports it and never split into imagined donors (\u00a7D4). The DATE cell is EMPTY on this row and no date is inferred. Counted in the sum (see in_kind_convention). No address written; the line names no single donor."
+   },
+   {
+    "line_no": "38",
+    "page": 5,
+    "row": 4,
+    "donor_raw": "Various Donations under 50",
+    "amount": "165.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "A SUB-THRESHOLD AGGREGATE LINE, published as ONE row exactly as the document reports it (\u00a7D4). The DATE cell is EMPTY and no date is inferred. LAST row of the contributions side; the four rows of this sheet reach its corrected subtotal 780 exactly. No address written; the line names no single donor."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 6,
+    "row": 1,
+    "date": "5/16/2014",
+    "vendor_raw": "Lowes",
+    "amount": "148.27",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "First row of the Schedule B sheet foliated 'Page 6 of 8'. this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row. Cents are written RAISED on this sheet (148 with a superscript 27)."
+   },
+   {
+    "line_no": "2",
+    "page": 6,
+    "row": 2,
+    "date": "4/24/2014",
+    "vendor_raw": "Los Hermanos",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "3",
+    "page": 6,
+    "row": 3,
+    "date": "5/22/2014",
+    "vendor_raw": "Maceys",
+    "amount": "5.89",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "4",
+    "page": 6,
+    "row": 4,
+    "date": "4/13/2014",
+    "vendor_raw": "PayPal",
+    "amount": "81.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "5",
+    "page": 6,
+    "row": 5,
+    "date": "4/13/2014",
+    "vendor_raw": "Phillips",
+    "amount": "43.55",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "6",
+    "page": 6,
+    "row": 6,
+    "date": "4/13/2014",
+    "vendor_raw": "Pride Signs",
+    "amount": "106.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "7",
+    "page": 6,
+    "row": 7,
+    "date": "4/10/2014",
+    "vendor_raw": "Pride Signs",
+    "amount": "450.49",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "8",
+    "page": 6,
+    "row": 8,
+    "date": "4/18/2014",
+    "vendor_raw": "Pride Signs",
+    "amount": "375.76",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "9",
+    "page": 6,
+    "row": 9,
+    "date": "6/11/2014",
+    "vendor_raw": "Smiths",
+    "amount": "173.89",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "10",
+    "page": 6,
+    "row": 10,
+    "date": "6/11/2014",
+    "vendor_raw": "Sovereign Strategies",
+    "amount": "457.97",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "11",
+    "page": 6,
+    "row": 11,
+    "date": "5/16/2014",
+    "vendor_raw": "Speak by Design",
+    "amount": "3615.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "12",
+    "page": 6,
+    "row": 12,
+    "date": "4/11/2014",
+    "vendor_raw": "Target",
+    "amount": "64.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "13",
+    "page": 6,
+    "row": 13,
+    "date": "6/11/2014",
+    "vendor_raw": "Texaco",
+    "amount": "163.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "14",
+    "page": 6,
+    "row": 14,
+    "date": "4/24/2014",
+    "vendor_raw": "Utah Corporations",
+    "amount": "22.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "15",
+    "page": 6,
+    "row": 15,
+    "date": "6/6/2014",
+    "vendor_raw": "Utah GOP",
+    "amount": "3099.71",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "16",
+    "page": 6,
+    "row": 16,
+    "date": "3/14/2014",
+    "vendor_raw": "Utah County Clerk Elections",
+    "amount": "569.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Utah County COMMISSION 2014 candidate filing fee (569.48), the payee written 'Utah County Clerk Elections'. Recorded as a page fact only \u2014 per ADDENDUM E \u00a7E1 the fee is office- AND cycle-specific and is NEVER used to corroborate a figure on another filing. this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "17",
+    "page": 6,
+    "row": 17,
+    "date": "6/6/2014",
+    "vendor_raw": "Walkers",
+    "amount": "61.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "amount written '61' with NO raised cents, where every other row on this sheet carries them; read as 61.00, and the sheet's printed subtotal 9,689.87 closes exactly on that reading (arithmetic closure, GOTCHAS). LAST row of this sheet. this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "18",
+    "page": 7,
+    "row": 1,
+    "date": "5/12/2014",
+    "vendor_raw": "AF Library",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "First row of the Schedule B sheet foliated 'Page 7 of 8' \u2014 which the filer's own alphabetical ordering places BEFORE the 'Page 6 of 8' sheet (A-L here, L-W there); the foliation is followed, not the alphabet. this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "19",
+    "page": 7,
+    "row": 2,
+    "date": "6/14/2014",
+    "vendor_raw": "Allred's Ace Hardware",
+    "amount": "66.58",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "20",
+    "page": 7,
+    "row": 3,
+    "date": "5/7/2014",
+    "vendor_raw": "Batch Geo",
+    "amount": "99.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "21",
+    "page": 7,
+    "row": 4,
+    "date": "5/12/2014",
+    "vendor_raw": "Best Buy",
+    "amount": "53.36",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "22",
+    "page": 7,
+    "row": 5,
+    "date": "4/12/2014",
+    "vendor_raw": "Burrito truck (Gabriela Arciola)",
+    "amount": "1050.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer names both the vendor and an individual in parentheses on the same line, 'Burrito truck (Gabriela Arciola)'; kept verbatim as one payee string. this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "23",
+    "page": 7,
+    "row": 6,
+    "date": "5/23/2014",
+    "vendor_raw": "Conquest Graphics",
+    "amount": "305.19",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "24",
+    "page": 7,
+    "row": 7,
+    "date": "6/14/2014",
+    "vendor_raw": "Copytech",
+    "amount": "1494.67",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "25",
+    "page": 7,
+    "row": 8,
+    "date": "6/12/2014",
+    "vendor_raw": "Costco",
+    "amount": "209.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "26",
+    "page": 7,
+    "row": 9,
+    "date": "5/17/2014",
+    "vendor_raw": "Double D Bolt",
+    "amount": "74.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "27",
+    "page": 7,
+    "row": 10,
+    "date": "5/16/2014",
+    "vendor_raw": "Erin Madsen",
+    "amount": "8248.04",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "28",
+    "page": 7,
+    "row": 11,
+    "date": "4/3/2014",
+    "vendor_raw": "Fed Ex",
+    "amount": "125.97",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "29",
+    "page": 7,
+    "row": 12,
+    "date": "3/22/2014",
+    "vendor_raw": "Fed Ex",
+    "amount": "626.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "30",
+    "page": 7,
+    "row": 13,
+    "date": "5/21/2014",
+    "vendor_raw": "Harbor Freight Tools",
+    "amount": "9.90",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "31",
+    "page": 7,
+    "row": 14,
+    "date": "6/6/2014",
+    "vendor_raw": "Hobby Lobby",
+    "amount": "70.72",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "32",
+    "page": 7,
+    "row": 15,
+    "date": "5/18/2014",
+    "vendor_raw": "Home Depot",
+    "amount": "31.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "33",
+    "page": 7,
+    "row": 16,
+    "date": "6/12/2014",
+    "vendor_raw": "JoAnn Store",
+    "amount": "88.07",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   },
+   {
+    "line_no": "34",
+    "page": 7,
+    "row": 17,
+    "date": "5/18/2014",
+    "vendor_raw": "Little Caesars",
+    "amount": "29.27",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "LAST row of the last RETAINED Schedule B sheet; the seventeen rows reach its printed subtotal 12,633.40 exactly. The sheet foliated 'Page 8 of 8' is ABSENT from the retained document (see recon.expenditures). this blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank; the address column is left wholly empty by the filer on every row."
+   }
+  ],
+  "notes": "PAGE-FACE candidate 'Bill Lee' on the name line and 'William C Lee' on the Report Verification line \u2014 BOTH are the page's own words and both are recorded here; index.csv names no candidate for this row, so the page face supplies it. Office Seeking is printed WITH the seat, 'Utah County Commissioner (Seat B)', agreeing with the channel label. Party 'Rep.'; residence Pleasant Grove UT. legacy_colAB variant. THE RETAINED DOCUMENT IS INCOMPLETE AND THE FILER'S OWN FOLIATION PROVES IT: he hand-wrote 'Pg 1 of 8' at the top of the cover and foliated every following sheet 'of 8' (2 summary, 3/4/5 Schedule A, 6/7 Schedule B), but `pdfinfo` reports Pages: 7 \u2014 the sheet foliated 'Page 8 of 8' is absent, and the expenditure arithmetic independently shows it carried 428.73 (see recon.expenditures). The contributions side is unaffected and complete. THE AMENDMENT QUESTION IS WHOLLY UNANSWERED \u2014 neither the Yes nor the No box is marked, which is an honest BLANK and is never read as 'No' (ADDENDUM A \u00a7A4). Summary line 3 'Balance at Beginning' is a handwritten numeral '0' (not a nil mark), so no zero-glyph question arises; a small doodle sits in the BALANCE SUMMARY band above it and carries no value. THE SCHEDULE B SHEETS ARE OUT OF ALPHABETICAL ORDER RELATIVE TO THEIR OWN FOLIATION: 'Page 6 of 8' lists payees L-W and 'Page 7 of 8' lists A-L. Both are transcribed in the retained page order with their own foliation recorded; nothing is re-sequenced. AMOUNT CONVENTIONS: the contributions are whole dollars written with a thousands comma and, on many rows, RAISED cents ('100' with a superscript '00'); the expenditure sheets use raised cents throughout except one row ('Walkers 61'). The cover's own figures (30,240 / 22,752 / 7,488) are whole dollars even though the expenditure schedules carry cents \u2014 a rounding posture of the filer's, transcribed as printed and not reconciled away. NOT REDACTED BY THE COUNTY: this is not a *_Redacted.pdf and carries no bars; the candidate's own street address and phone are visible on the cover and are not carried here. The MAILING ADDRESS column is empty on every schedule row \u2014 left empty by the filer, not redacted \u2014 so donor city/state are honestly blank throughout, and the only thing ever written in that column is the words 'In Kind Donation' beside the Taylor Audio row."
+ }
+]

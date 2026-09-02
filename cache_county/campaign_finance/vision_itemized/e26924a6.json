@@ -1,0 +1,128 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C18.json",
+ "key": "e26924a6",
+ "index_path": "raw/2020/2020_cc_David_Erickson.pdf",
+ "applies_to": [
+  "raw/2020/2020_cc_David_Erickson.pdf"
+ ],
+ "sha256_prefix": "879420e1d79a3459",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "500.00",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "500.00",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "500.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A carries one row, 500.00 (written '$500.00' with superscript cents over the rule). Cover line 1 prints LAST=500.00, THIS=zero-glyph, CUM=500.00. The rows therefore equal the CUMULATIVE cell, NOT the THIS cell - this is a final report whose THIS column is zero while the schedules restate the whole cycle. scope=cumulative. Carr 5-5-PG prints no schedule total; schedule_total null."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "497.95",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "497.95",
+    "cover_balance_end": "2.05",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "497.95",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Two rows 112.75 + 385.20 = 497.95, equal to cover line 3 LAST and CUMULATIVE (THIS is the zero glyph). Same cumulative-restatement pattern as Form A. cover_balance_end recorded from line 4's CUMULATIVE cell ($2.05); the LAST cell of line 4 also prints 2.05 and the THIS cell the zero glyph."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints NO page subtotal or schedule total - stated, not invented. p2 rows 500.00 = cover line 1 LAST/CUM 500.00; p3 rows 497.95 = cover line 3 LAST/CUM 497.95. Both close exactly.",
+  "row_count": "rowbands.py p2 -> 36 h-rules / 35 bands (status 'gaps'); p3 -> 37 h-rules / 36 bands (status 'ok'). The band count is the full ~35-line Carr writing grid including the header band, not a row count. Inked lines counted by eye: p2 one dated line plus a wrapped continuation of the same row ('INC' / city line); p3 two dated lines. Emitted 1 C row and 2 E rows - matches.",
+  "geometry_proof": "p2: first-row amount-cell crop (600dpi, x=4230 y=850 W=480 H=125) renders '$500.00'; control one row-pitch below renders EMPTY (bare rule only). p3: first-row crop renders '$112.75', last-row (row 2) crop renders '385.20'; control one pitch below row 2 renders EMPTY.",
+  "balance_chain": "CLOSES EXACTLY. 500.00 (line 1 CUM) + 0 (line 2 CUM) - 497.95 (line 3 CUM) = 2.05 = cover line 4 CUMULATIVE 2.05. Only report of this filer in my chunk, so no cross-filing LAST->CUM chain test was possible - but the cover's own internal identity LAST + THIS = CUMULATIVE holds on all four lines here (THIS is zero throughout)."
+ },
+ "escalations": 3,
+ "escalation_note": "p3 row-1 date cell at 1200dpi (the middle group read as 13 vs 18 on the contact sheet - resolves to 13); amount columns of p2 and p3 at 600dpi; cover money block at 400dpi.",
+ "notes": "Cover office line reads 'Cache County Council', Office District 'North District' - agrees with the chunk file's 'County Council'. Candidate 'David Erickson' - agrees. IN SCOPE (county office). Document is 3 pages, not the Carr form's usual 4; the page-4 statute text was not scanned - nothing missing from the money layer. Cover date 12-3-20. All amounts on this filing are written with SUPERSCRIPT CENTS over the rule ('500.<sup>00</sup>', '112.<sup>75</sup>', '385.<sup>20</sup>', '497.<sup>95</sup>') and are transcribed with a decimal point per the currency convention. The cover uses the slashed zero glyph throughout the THIS column and on line 2, recorded as 0. Form A's address cell prints street, city and ZIP in the clear; only city/state are emitted, the street and ZIP discarded at read time.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-10-02",
+   "donor_raw": "Cache Valley Assn. of Realtors INC",
+   "donor_city": "Logan",
+   "donor_state": "Utah",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.94,12.88,9.41,1.89@p2",
+   "note": "date written 10-2-20. Donor name wraps to a second ruled line ('INC') - one row, not two. Amount written with superscript cents over the rule; transcribed with a decimal point. Street address and ZIP present on the form and discarded at read time; city/state kept as written ('Logan, Utah')."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "Filing Fee for CCC",
+   "amount": "112.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.94,12.12,9.41,2.27@p3",
+   "note": "date written 3-13-20 with the hyphen struck through the '3'; escalated to 1200dpi to separate 13 from 18. Superscript cents."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-08-11",
+   "vendor_raw": "Square One Printing",
+   "purpose": "Campaign Signs",
+   "amount": "385.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.94,14.55,9.41,2.05@p3",
+   "note": "date written 8-11-20. Superscript cents."
+  }
+ ]
+}

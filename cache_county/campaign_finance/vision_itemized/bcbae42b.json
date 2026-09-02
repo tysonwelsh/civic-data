@@ -1,0 +1,95 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C03.json",
+ "key": "bcbae42b",
+ "index_path": "raw/2010/2010_wb_kjeppesen.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_kjeppesen.pdf"
+ ],
+ "sha256_prefix": "f13785b91dfc14f8",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "-0-",
+    "cover_over50_this": "-0-",
+    "cover_over50_cum": "-0-",
+    "cover_le50_this": "-0-",
+    "cover_le50_cum": "-0-",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is a blank ruled sheet, no ink in any band. Cover line 1 prints '-0-' in all three columns, so the scopes coincide and zero rows closes both."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "326.15",
+    "cover_expense_this": "",
+    "cover_expense_cum": "326.15",
+    "cover_balance_end": "326.15",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "326.15",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "⚠ SCOPE TEST MATTERED ON THIS FILING AND THE COLUMNS ARE NOT THE USUAL ONES. The one inked Form B row (326.15, the March 2010 filing fee) equals the CUMULATIVE cell (326.15) and the TOTALS-FROM-LAST-REPORT cell (326.15); the TOTALS FOR THIS REPORT cell is an EMPTY ruled line. So this is a LATER report of the cycle in which nothing new was spent, and the schedule is carried CUMULATIVELY: the row is a prior-period transaction restated. Scored against the cumulative cell -> scope 'cumulative'. Scoring it against the (blank) THIS cell would have manufactured a false mismatch."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints no schedule or page total. p2 rows 0.00 = cover line 1 '-0-'. p3 row 326.15 = cover line 3 CUMULATIVE 326.15 (the THIS cell is blank; see the scope note). Gates exactly against the matching-scope figure.",
+  "row_count": "rowbands.py p3: ok, 1684x2195, 36 data bands, pitch ~2.30%; band 1 carries the row and its wrapped second line ('Clerk') bleeds into band 2, which holds NO separate transaction; bands 2-36 hold no amount -> 1 row emitted. rowbands.py p2: ok, 1695x2195, 36 bands, none inked -> 0 rows. Wrapped-name bleed checked explicitly against the field-shift screen: the continuation line carries NO DIGITS, so it is a wrapped payee name and not a street address.",
+  "geometry_proof": "p3 first-row crop at 600 dpi (-x 200 -y 590 -W 4600 -H 260) renders the full row 'March 2010 | Cache County / Clerk | Filing Fee | $326.15' including the wrapped second line; the control one pitch below over the amount column (-x 4150 -y 790 -W 700 -H 140) renders EMPTY. Row index unshifted.",
+  "balance_chain": "⚠ MAGNITUDE CLOSES, SIGN DOES NOT, AND THE DISCREPANCY IS THE FILER'S. Cover line 4 prints 326.15 in the LAST and CUMULATIVE columns with THIS blank. The arithmetic residual is 0 contributions - 326.15 expenses = -326.15; the filer wrote the magnitude WITHOUT the minus sign. Two other filers in this same chunk on the identical form and the identical 326.15 fee (Zollinger, Howell) wrote '-326.15' in that cell, which is what makes this readable as a dropped sign rather than a different fact. Both figures retained verbatim; nothing recomputed. CROSS-FILING CHAIN: cover line 3's TOTALS FROM LAST REPORT cell (326.15) asserts an earlier report in the same cycle; that earlier filing is NOT in this chunk, so the chain could not be run against it and is reported as untested, not as closed."
+ },
+ "escalations": 2,
+ "escalation_note": "p3 row band re-rendered full width at 600 dpi (confirming the wrapped 'Clerk' line and the '$' prefix on the amount); cover lines 3 and 4 re-rendered at 600 dpi, which is what established that the 326.15 sits in the LAST and CUMULATIVE columns with THIS genuinely blank — the fact the whole scope decision turns on, and one that is NOT reliably visible at 100 dpi.",
+ "notes": "Handwritten Carr 5-5-PG. Cover 'Name of Office' reads 'Cache County Treasurer' with 'Office District' = 'Cache County' — AGREES with the chunk file's office=Treasurer. 'Full Name of Candidate' reads 'Karen Jeppesen' — agrees with the chunk file. County office, in scope. Cover date '10-25-10'; clerk RCVD stamp '25 OCT 2010 PM12:15' — matches the chunk file's 2010-10-25. 3-page PDF; the printed form's page-4 statute sheet was not scanned. ⚠ THIS IS THE ONE FILING IN THE CHUNK WHOSE ROWS ARE NOT A FIRST-REPORT COINCIDENCE: the money sits in the LAST-REPORT and CUMULATIVE columns, so the chunk file's period_basis hypothesis 'carr_cumulative_column' is CONFIRMED at the page here rather than merely coinciding, as it does on the other six. Privacy: home street address, home phone and business phone printed in the clear on the cover — discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "326.15",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.13,8.79,13.84,3.95@p3",
+   "note": "Date cell reads verbatim 'March 2010' — month and year only, NO DAY, so not cleanly parseable to ISO; left blank with needs_review per the per-row contract. Payee wraps onto a second physical line ('Cache County' / 'Clerk'); the continuation carries no digits, so it is a wrapped name, joined here. Amount written with a leading dollar sign, '$326.15'; the '$' is dropped from the value and noted. Form B has no in-kind column."
+  }
+ ]
+}

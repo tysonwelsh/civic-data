@@ -1,0 +1,225 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C01.json",
+ "key": "f0a8d5d0",
+ "index_path": "raw/2008/2008_wb_krobison.pdf",
+ "applies_to": [
+  "raw/2008/2008_wb_krobison.pdf"
+ ],
+ "sha256_prefix": "b663df200fefd84c",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "90.00",
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "1328.62",
+    "cover_balance_end": "1238.62",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "90.00",
+   "basis": "cover-line2-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "BASIS EXCEPTION, stated deliberately: the standing rule is to score Form A against cover LINE 1 (over-$50 contributions), but on this filing line 1 is BLANK in all three columns and the two itemised contributions are 40.00 and 50.00 - BOTH at or below $50 - so the filer correctly reported them on LINE 2, the '$50.00 or less' aggregate, and then itemised them anyway on Form A. The printed figure whose SCOPE matches these rows is therefore line 2 CUMULATIVE, 90.00, and 40.00+50.00 = 90.00 closes exactly. Scoring against the blank line 1 would have manufactured a false mismatch in the opposite direction from the usual trap. Only the CUMULATIVE column is filled anywhere on this cover (LAST and THIS are blank on all four lines), so the rows are cycle-to-date."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "1328.62",
+    "cover_balance_end": "1238.62",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "1328.62",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Seven Form B rows sum 40.00+11.17+146.70+50.00+20.00+532.75+528.00 = 1328.62, exactly the cover line 3 CUMULATIVE figure (LAST and THIS columns blank). Each cents group was re-read in a 1000 dpi crop of the amount column; 11.17 and 146.70 and 532.75 are the three that carry non-zero cents and all three were escalated."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr form prints no schedule total or page subtotal. Cover lines are the only PRINTED anchors and both gate: p2 rows 90.00 = cover line 2 cumulative; p3 rows 1328.62 = cover line 3 cumulative. The filer also PENCILLED an unlabelled three-line arithmetic block on the last writing lines of p3 ('1328.62' / '90.00' / '$1238.62'), i.e. his balance working. It is not a field of the form and is NOT transcribed as a row; it independently corroborates 1328.62 as the Form B total.",
+  "row_count": "rowbands.py p2: geometry ok, 39 bands; ink on bands 1 and 3, with band 2 GENUINELY BLANK (the filer skipped a writing line between the two contributions) - 2 rows emitted, line_no 1-2, geometry pointing at bands 1 and 3. rowbands.py p3: geometry ok, 39 bands; ink on bands 1-7 consecutively - 7 rows emitted. Neither sheet carries a filer total row in the grid; the p3 pencil block sits on bands 36-38 and is excluded as non-field.",
+  "geometry_proof": "p2: crop of band 1 of the amount column renders '40 00'; crop of band 3 renders '50 00'; the control crop one pitch below band 3 renders EMPTY. p3: a 1000 dpi crop spanning bands 1-7 renders '40 00', '11 17', '146 70', '50 00', '20 00', '532 75', '528 00' in that order - first and last row both present and in position; the control crop one pitch below band 7 renders empty.",
+  "balance_chain": "90.00 - 1328.62 = -1238.62, and cover line 4 prints '1238.62' POSITIVE. Magnitude closes exactly; the sign is the filer's convention (he is recording the amount he is out of pocket, and his own pencil working on p3 subtracts 90.00 from 1328.62 to reach the same 1238.62). Retained verbatim, not re-signed."
+ },
+ "escalations": 5,
+ "escalation_note": "1000 dpi amount-cell crops on p2 (band 1, band 3, control) and p3 (bands 1-7, control); 800 dpi crop of the p2 date/name/address row block; 700 dpi crop of the p3 date/vendor/purpose columns; 600 dpi crop of the cover anchor block.",
+ "notes": "index.csv calls the candidate Kathy Robison / office County Council; the cover's 'Full Name of Candidate' reads 'Kathleen Ann Robison' (signed 'Kathy Robison'), 'Name of Office: Cache County Council', 'Office District: Logan Seat #2' - in scope, and the FULLER name from the form is recorded here rather than the index's short form. Cover street address, ZIP and home phone discarded at read time; the Business phone cell holds a bare dash. Form B row 4 pays 'Lynn Robison', a surname the candidate shares - transcribed verbatim, no relationship inferred. The Form A address cells carry city (and for row 1 a ZIP, discarded); no street address was written on either row.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2008-03-15",
+   "donor_raw": "Darla Clarke",
+   "donor_city": "Logan",
+   "donor_state": "",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.43,7.87,10.98,2.39@p2",
+   "note": "date written '3/15/08' (two-digit year, parses to 2008). Amount written '40' with a superscript '00' cents group over a rule -> 40.00. Address cell reads 'Logan [street address discarded at read time per PRIVACY.md]'; the ZIP is discarded at read time and no state was written, so donor_state is honestly blank."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2008-06-24",
+   "donor_raw": "Darrel Gibbons",
+   "donor_city": "Lewiston",
+   "donor_state": "",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.43,12.46,10.98,1.98@p2",
+   "note": "date written '6/24/08' (two-digit year, parses to 2008). This row sits on writing line 3 - line 2 is blank. Amount written '50' with a superscript '00' cents group over a rule -> 50.00. Address cell reads 'Lewiston' only; no state written."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2008-03-07",
+   "vendor_raw": "County Clerk",
+   "purpose": "filing fees",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.43,8.03,11.15,1.93@p3",
+   "note": "date written '3/7/08'. Amount carries a superscript '00' cents group over a rule -> 40.00."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2008-03-07",
+   "vendor_raw": "Amc",
+   "purpose": "copies",
+   "amount": "11.17",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:81.43,9.96,11.15,2.14@p3",
+   "note": "date written '3/7/08'. Vendor written 'Amc' verbatim (not expanded). Amount written '11' with a superscript '17' cents group over a rule -> 11.17; escalated to 1000 dpi because the superscript is cramped, and the schedule sum to the printed 1328.62 confirms 17."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2008-03-12",
+   "vendor_raw": "Amc",
+   "purpose": "brdchures",
+   "amount": "146.70",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.43,12.10,11.15,2.05@p3",
+   "note": "date written '3/12/08'. Purpose kept VERBATIM as 'brdchures' (the filer's spelling of brochures). Amount written '146' with a superscript '70' cents group over a rule -> 146.70."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2008-04-11",
+   "vendor_raw": "Lynn Robison",
+   "purpose": "cookies for convention",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.43,14.15,11.15,2.19@p3",
+   "note": "date written '4/11/08'. Amount carries a superscript '00' cents group over a rule -> 50.00."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2008-04-13",
+   "vendor_raw": "Oriental Trading",
+   "purpose": "pencils for convention",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.43,16.34,11.15,1.98@p3",
+   "note": "date written '4/13/08'. Amount carries a superscript '00' cents group over a rule -> 20.00."
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "2008-08-30",
+   "vendor_raw": "Ace Sign",
+   "purpose": "lawn signs",
+   "amount": "532.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.43,18.32,11.15,2.16@p3",
+   "note": "date written '8/30/08'. Amount written '532' with a superscript '75' cents group over a rule -> 532.75."
+  },
+  {
+   "line_no": "7",
+   "report_no": 1,
+   "date": "2008-10-21",
+   "vendor_raw": "KVNU",
+   "purpose": "radio ads",
+   "amount": "528.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.43,20.49,11.15,2.05@p3",
+   "note": "date written '10/21/08' - the day AFTER the cover's own signature date of 21 Oct 2008 is the same day; kept verbatim. Amount carries a superscript '00' cents group over a rule -> 528.00."
+  }
+ ]
+}

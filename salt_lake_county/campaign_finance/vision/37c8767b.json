@@ -1,0 +1,194 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Vista Print",
+   "purpose": "Flyers",
+   "amount": "104.78",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.57,27.00,76.88,3.91@p4",
+   "note": "date cell reads '-11-17' verbatim: the month digit is not present - re-read at 600 dpi, only a faint unreadable smudge sits left of the first dash. Date left BLANK; the year is NOT filled in from the report date. Amount written with a superscript $ as '$104.78'."
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Daryll Acumen",
+   "purpose": "Phone Tree",
+   "amount": "125.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.57,30.91,76.88,3.88@p4",
+   "note": "the Date of Expenditure cell is entirely EMPTY (the filer wrote nothing) - blank, not illegible. Amount written as '125' with the cents as a superscript 'oo' over a rule; transcribed with a decimal point per the superscript-cents convention."
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "Banner Mania",
+   "purpose": "Signs",
+   "amount": "240.41",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.57,34.79,76.88,3.87@p4",
+   "note": "date cell reads '-14-17' verbatim with no month digit, confirmed at 600 dpi; the filer underlined this cell. Date left BLANK. Amount written with a superscript $ as '$240.41'."
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "Kwik Kopy",
+   "purpose": "graph Printing",
+   "amount": "138.91",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.57,38.66,76.88,3.91@p4",
+   "note": "date cell reads '-3-17' verbatim with no month digit, confirmed at 600 dpi. Date left BLANK. Purpose re-read at 600 dpi and is written 'graph Printing' - kept verbatim, not expanded to 'graphic'."
+  },
+  {
+   "line_no": 5,
+   "date": "2017-08-06",
+   "vendor_raw": "Office Max",
+   "purpose": "Display Materials",
+   "amount": "41.09",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.57,42.57,76.88,3.93@p4",
+   "note": "date written '8-6-17' - the first of the two rows on this page that print a month, so it parses cleanly."
+  },
+  {
+   "line_no": 6,
+   "date": "2017-08-11",
+   "vendor_raw": "Orson Gygi Co.",
+   "purpose": "Snacks",
+   "amount": "68.49",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.57,46.50,76.88,3.89@p4",
+   "note": "date written '8-11-17'. The Purpose cell is the only entry on the page written in BLUE ink; every other entry is black."
+  }
+ ],
+ "total_contributions": "0",
+ "total_expenditures": "$718.68",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "718.68",
+  "line5_subtotal": "0"
+ },
+ "cover": {
+  "candidate": "Scott Miller",
+  "party": "R",
+  "office_sought": "Recorder",
+  "district_number": "52",
+  "report_type": "FINAL / DISSOLUTION REPORT",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/22/18",
+  "form_year": "2017"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high",
+  "candidate": "high",
+  "office_sought": "high",
+  "district_number": "high",
+  "report_type": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/scott-miller---redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Scott Miller",
+  "office": "Recorder",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/scott-miller---redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "CHUNK-FILE FLAG CONFIRMED AT THE PAGE, both halves. (1) The cover's top-row 'Office' cell reads 'N/A' in the filer's hand; the office is read from the separate 'Office Sought' cell, which reads 'Recorder'. (2) The District Number cell holds '52' - recorded VERBATIM. Salt Lake County Recorder is a COUNTY-WIDE office with no districts at all, and 52 is not a Salt Lake County council district (the county has Districts 1-6 plus three at-large seats); the value is neither blanked nor corrected, and it does not change the office, which is read from the Office Sought cell. Everything else in the chunk file (candidate Scott Miller, office Recorder, date 2018-01-22, Final / Dissolution) is CONFIRMED: the FINAL / DISSOLUTION REPORT box is the only Type-of-Report box ticked, the amendment answer 'No' is ticked, the signature is dated 1/22/18 and the clerk's RECEIVED stamp reads JAN 29 2018. Form title is '2017 Financial Disclosure Report For a Candidate'. THIS FILING CARRIES THE THREE TRAILING 'OTHER CAMPAIGN ACCOUNTS' PAGES (p5 Summary Page Other Campaign Accounts, whose Column B is 'Year to Date' and is a DIFFERENT table from the standard Summary Page; p6 Itemized Contributions from Other Campaign Accounts; p7 Itemized Expenditures from Other Campaign Accounts). All three are nil: every p5 cell is a slashed-zero, and p6 and p7 are each struck through diagonally with 'N/A' and carry slashed-zero subtotal and total cells. Nothing from those pages is merged into the standard sides above, and no rows are emitted from them. Schedule B has no Occupation/Employer column (that column exists only on Schedule A), so no occupation is captured for this filing; Schedule A's Occupation column is blank because the whole grid is voided. The county's redaction bar covers the cover's street-address block and the phone/fax/email block; no contributor address block exists to redact because Schedule A is empty.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "The Schedule A page EXISTS and is deliberately voided: one diagonal stroke across the whole grid with 'N/A' and 'Self Funded' written along it, and both the SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED cells carry a slashed-zero. Zero rows is a REAL ZERO the transcriber looked at, not a gap. 0 = printed subtotal (0) = printed schedule total (0) = Summary line 1 Column A (0)."
+    },
+    "expenditures": {
+     "stated": "$718.68",
+     "schedule_total": "719-",
+     "itemized": "718.68",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "6 rows sum to 718.68 exactly = Summary line 2 Column A ($718.68) = Summary line 2 Column B (718.68) = Summary line 6. The schedule's own printed TOTAL cell instead reads '719-' - a filer rounding to whole dollars (per the currency convention a trailing dash after whole dollars means no cents, i.e. 719.00) - with '(718.68)' hand-written in the right margin OUTSIDE the table box beside it. Gating on the schedule grand total would have manufactured a $0.32 delta on a filing that is exact; the anchor whose SCOPE and precision match the rows is Summary line 2. No in-kind marker anywhere on the page, so this is not the schedule-total-vs-summary-gap class - it is plain filer rounding."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 0.00 = printed subtotal (slashed-zero = 0) - holds. p4 SUBTOTAL FOR THIS PAGE is PRINTED BUT LEFT BLANK, so the page-subtotal gate is NOT AVAILABLE on the expenditure page; gated instead on Summary line 2 ($718.68), which the 6 rows sum to exactly. The p4 TOTAL cell's '719-' is recorded but was not used as the anchor (see recon detail).",
+   "escalations": 4,
+   "escalation_note": "p4 Date of Expenditure column rows 1-5 at 600 dpi (settled that the month digit is genuinely absent/illegible on rows 1, 3, 4 and that row 2 has no date at all); p4 SUBTOTAL+TOTAL amount cells at 600 dpi (settled the blank subtotal and the '719-' / '(718.68)' pair); p4 Purpose column rows 3-4 at 600 dpi ('graph Printing'); p4 Name of Recipient rows 1-2 at 600 dpi ('Vista Print', 'Daryll Acumen').",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "CHUNK-FILE FLAG CONFIRMED AT THE PAGE, both halves. (1) The cover's top-row 'Office' cell reads 'N/A' in the filer's hand; the office is read from the separate 'Office Sought' cell, which reads 'Recorder'. (2) The District Number cell holds '52' - recorded VERBATIM. Salt Lake County Recorder is a COUNTY-WIDE office with no districts at all, and 52 is not a Salt Lake County council district (the county has Districts 1-6 plus three at-large seats); the value is neither blanked nor corrected, and it does not change the office, which is read from the Office Sought cell. Everything else in the chunk file (candidate Scott Miller, office Recorder, date 2018-01-22, Final / Dissolution) is CONFIRMED: the FINAL / DISSOLUTION REPORT box is the only Type-of-Report box ticked, the amendment answer 'No' is ticked, the signature is dated 1/22/18 and the clerk's RECEIVED stamp reads JAN 29 2018. Form title is '2017 Financial Disclosure Report For a Candidate'. THIS FILING CARRIES THE THREE TRAILING 'OTHER CAMPAIGN ACCOUNTS' PAGES (p5 Summary Page Other Campaign Accounts, whose Column B is 'Year to Date' and is a DIFFERENT table from the standard Summary Page; p6 Itemized Contributions from Other Campaign Accounts; p7 Itemized Expenditures from Other Campaign Accounts). All three are nil: every p5 cell is a slashed-zero, and p6 and p7 are each struck through diagonally with 'N/A' and carry slashed-zero subtotal and total cells. Nothing from those pages is merged into the standard sides above, and no rows are emitted from them. Schedule B has no Occupation/Employer column (that column exists only on Schedule A), so no occupation is captured for this filing; Schedule A's Occupation column is blank because the whole grid is voided. The county's redaction bar covers the cover's street-address block and the phone/fax/email block; no contributor address block exists to redact because Schedule A is empty."
+  }
+ }
+}

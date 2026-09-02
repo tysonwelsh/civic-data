@@ -1,0 +1,100 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C22.json",
+ "key": "254dd415",
+ "index_path": "raw/2024/2024_cc_2024_General_Jeff_Ostermiller.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Jeff_Ostermiller.pdf"
+ ],
+ "sha256_prefix": "7981461692f5a5e6",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "Ø",
+    "cover_over50_cum": "Ø",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "Ø",
+    "page_subtotal": "Ø",
+    "box_A_balance_begin": "Ø",
+    "box_F_subtotal": "Ø"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==page-subtotal==cover Box B==Box C (all slashed-zero glyphs)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A (p2) carries 'NA' in the first Name-of-Contributor line and no ledger entries; its printed 'Subtotal for this page' and 'Total Contributions Received' cells both hold the filer's slashed-zero glyph = 0. Summary Boxes A, B, C and F all carry the same slashed zero, so period and year-to-date coincide. le50 keys null: the 2022+ CFD prints no separate $50-or-less line."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_this": "50.00",
+    "cover_expense_cum": "50.00",
+    "cover_balance_end": "Ø",
+    "schedule_total": "50.00",
+    "page_subtotal": "50.00",
+    "box_A_balance_begin": "Ø",
+    "box_F_subtotal": "Ø"
+   },
+   "itemized": "50.00",
+   "basis": "schedule-total==page-subtotal==cover Box D==Box E",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One itemized line of $50.00 on p3; printed 'Subtotal for this page $ 50.00' and 'Total Expenditures Made $ 50.00'; Box D (this period) 50.00 and Box E (year-to-date) 50.00 agree with both, so the two scopes coincide on this filing."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: zero rows = printed subtotal/total (slashed zero) — gates. p3: rows sum 50.00 = printed subtotal 50.00 = printed total 50.00 = cover D = cover E — gates on four independent printed figures.",
+  "row_count": "rowbands.py p3 (200 dpi): geometry_status ok, 15 data bands, pitch ~4.57%; ink only in band 1 = 1 row emitted. p2: ink only in band 1 ('NA'), zero money rows.",
+  "geometry_proof": "p3 amount box crop (600 dpi, x 84.40% w 10.50%, y 16.20% h 3.60%) renders '50 00' (the leading '$' sits just outside the left edge of the proof box); the control crop one full row-pitch below renders completely empty.",
+  "balance_chain": "A(Ø=0) + B(Ø=0) = F(Ø=0) closes. Balance at Close should be F − D = 0 − 50.00 = −50.00, but the filer wrote the same slashed zero (0). FILER ARITHMETIC, retained verbatim as printed — no figure was recomputed or overwritten. Single filing by this filer in the cycle, so no cross-filing chain test is possible."
+ },
+ "escalations": 3,
+ "escalation_note": "1200 dpi crop of the p3 Purpose cell (to settle the misspelling); 600 dpi geometry-proof pair on p3; 600 dpi band crops of the p3 row and the p4 D/E boxes.",
+ "notes": "OFFICE LINE IS BLANK ON THE FORM — the cover's 'Office' box is entirely empty, matching the chunk file's empty office field (one of this county's known honest blank-office states, addendum §D). This cover's title is 'Financial Campaign Report for County Offices' with NO school-board line, and the sole expenditure is a Cache County candidate-registration fee, so the filing is treated as in scope. Cover: 'Jeff Ostermiller', report type marked 'Seven days preceding the General Election', amendment: No, Date of Report 10/11/2024 (index says 2024-11-01 — that is the CMS posting date; the form governs). Clerk/Auditor received stamp 2024 OCT 11. Candidate home address, phone and email are printed in the clear on p1 and were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-08",
+   "vendor_raw": "CACHE CO.",
+   "purpose": "CANDIDATE REGISTAATION",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.40,16.20,10.50,3.60@p3",
+   "note": "Date cell reads '1/8/2024'. Purpose transcribed VERBATIM: read at 1200 dpi the letters after 'REGIST' are 'AATION' — evidently the filer's misspelling/overwrite of 'REGISTRATION'; not silently corrected. Amount written '$50' with a superscript '00' over a short rule = 50.00 per core §3(g)."
+  }
+ ]
+}

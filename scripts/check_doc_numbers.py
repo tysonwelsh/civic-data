@@ -75,6 +75,28 @@ CHECKS = [
     ("gov_db_SCHEMA term count", "gov_db_SCHEMA.md",
      r"\*\*term (\d+)\*\*",
      ["SELECT COUNT(*) FROM term"]),
+    # --- county cycle reducer (2026-08-23). The county rollup's headline numbers are
+    # gated like every other: total rows, the publish/gap split, and the flagged floors.
+    # A floor miscounted as a total is the failure mode this layer exists to prevent.
+    ("gov_db_SCHEMA cf_cycle_county rows", "gov_db_SCHEMA.md",
+     r"\*\*`cf_cycle_county` ([\d,]+) — the COUNTY tier\*\*",
+     ["SELECT COUNT(*) FROM cf_cycle_county"]),
+    ("gov_db_SCHEMA cf_cycle_county split", "gov_db_SCHEMA.md",
+     r"\*\*([\d,]+) rows publish a figure;\s*([\d,]+) are honest GAP rows\*\*",
+     ["SELECT COUNT(*) FROM cf_cycle_county WHERE raised_gross IS NOT NULL",
+      "SELECT COUNT(*) FROM cf_cycle_county WHERE raised_gross IS NULL"]),
+    ("gov_db_SCHEMA cf_cycle_county floors", "gov_db_SCHEMA.md",
+     r"`is_floor`=1 on \*\*([\d,]+) rows whose",
+     ["SELECT COUNT(*) FROM cf_cycle_county WHERE is_floor='1'"]),
+    ("CLAUDE.md cf_cycle_county", "CLAUDE.md",
+     r"\*\*`cf_cycle_county` is the COUNTY tier\*\* \(([\d,]+) candidate-cycles",
+     ["SELECT COUNT(*) FROM cf_cycle_county"]),
+    ("CLAUDE.md cf_cycle_county gaps", "CLAUDE.md",
+     r"and \*\*([\d,]+) honest GAP rows\*\*",
+     ["SELECT COUNT(*) FROM cf_cycle_county WHERE raised_gross IS NULL"]),
+    ("README cf_cycle_county", "README.md",
+     r"`cf_cycle_county` \(counties, ([\d,]+)\s*\n?candidate-cycles",
+     ["SELECT COUNT(*) FROM cf_cycle_county"]),
 ]
 
 

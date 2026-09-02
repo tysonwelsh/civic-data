@@ -1,0 +1,172 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W05.json",
+ "key": "4f4fc098",
+ "index_path": "raw/wayback_forms2020/Commission Seat C_Dean J_06-15-2020. Cox_June 23 2020 FCR.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Commission Seat C_Dean J_06-15-2020. Cox_June 23 2020 FCR.pdf"
+ ],
+ "sha256_prefix": "b4bc2d1df9f2bd1d",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "199.44",
+    "cover_over50_this": "800.00",
+    "cover_over50_cum": "999.44",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "0",
+    "schedule_total": "800.00"
+   },
+   "itemized": "800.00",
+   "basis": "cover-line1-this (== Form A printed TOTAL)",
+   "result": "exact",
+   "scope": "period",
+   "detail": "THE SCOPE TEST DISCRIMINATES CLEANLY HERE AND THE ANSWER IS 'period'. Two Form A rows, 700 + 100 = 800.00. That equals the Form A printed TOTAL cell (written '800' with superscript '00') and the cover's Totals-from-THIS-report cell (also '800' superscript '00'); it does NOT equal the Cumulative cell 999.44. The cover's own line-1 arithmetic confirms the split: 199.44 (last) + 800.00 (this) = 999.44 (cumulative), exactly. So THIS SIDE'S LEDGER IS PER-PERIOD and is a DIFFERENT SCOPE from the CUMULATIVE column the module publishes - reconciles_* should be left blank for this side per addendum sec.B, which is not a failure. Line 2 (the $50-or-less aggregate, never itemized) is a slashed-Oe zero in the cumulative cell and blank in the other two; it is reported separately and NOT added to the line-1 anchor. Note filing_totals.stated_total_contributions for this filing publishes line1+line2 - do not score against it."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "998.34",
+    "cover_balance_end": "1.10",
+    "schedule_total": "998.34"
+   },
+   "itemized": "998.34",
+   "basis": "cover-line3-cumulative (== Form B printed TOTAL)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "MIXED BASIS WITHIN ONE FILING - the B side is NOT on the same scope as the A side, which is exactly why the core brief runs the scope test PER PAGE. Four Form B rows, 571.00 + 48.03 + 104.31 + 275.00 = 998.34, equal to the Form B printed TOTAL ('998' with superscript '34') and to the cover's line-3 CUMULATIVE cell. The line-3 LAST and THIS cells were left blank by the filer, so the cumulative cell is the only printed line-3 anchor. The ledger is demonstrably cycle-to-date: its first row is the 3-13-20 candidate FILING FEE, i.e. the campaign's very first expenditure, and the cover's balance line confirms cumulative arithmetic (999.44 cumulative contributions - 998.34 = 1.10 cumulative balance). ARITHMETIC OUTRANKED THE GLYPH ON ROW 1: at 90 and 200 dpi the first amount reads plausibly as '57.00', but 57.00 + 48.03 + 104.31 + 275.00 = 484.34, which breaks the printed TOTAL by exactly 514.00; re-read as 571.00 the page closes to the cent, and the 1200 dpi cell crop shows an unambiguous '571' with superscript '00'. A $571 county filing fee is also consistent with the office."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 700 + 100 = 800.00 = printed TOTAL 800.00 - gates exactly. p3 rows 571.00 + 48.03 + 104.31 + 275.00 = 998.34 = printed TOTAL 998.34 - gates exactly (and only under the 571.00 reading; see the recon detail). Cover line 1 arithmetic 199.44 + 800.00 = 999.44 also gates. Nothing failed to gate.",
+  "row_count": "rowbands.py p3 returned geometry_status='gaps' with the note 'interior rule(s) missing at the measured pitch - positions are INTERPOLATED, not measured; crop-prove before use' (this scan's horizontal rules drop out in places), so its band index was NOT used as an oracle. Row count was established by ink instead, and each row's box was crop-proved at 1200 dpi (see geometry_proof): p2 exactly 2 inked lines at the top of the grid, then ~40 empty ruled lines to the printed TOTAL; p3 exactly 4 inked lines, then ~40 empty. No dropped or duplicated line.",
+  "geometry_proof": "p2 amount column x=69.88..79.47. First row (y 16.86) crop renders '$ 700'; last row (y 18.59) renders '$ 100'; control one pitch below (y 20.32) renders an EMPTY cell (bare '$' and rule). p3 amount column x=69.76..88.00. First row (y 16.00) renders '$ 571 00'; rows 2/3/4 render '48.03', '104.31', '275.00' in order; control one pitch below row 4 (y 22.95) renders EMPTY. Row indices confirmed unshifted on both sides.",
+  "balance_chain": "CLOSES EXACTLY on the cumulative column: 999.44 (cumulative contributions, line 1) - 998.34 (cumulative expenses, line 3) = 1.10 = the printed line-4 cumulative balance. The LAST and THIS balance cells were left blank by the filer. Cross-filing chain: the line-1 'Totals from Last Report' of 199.44 proves an EARLIER 2020 Dean J. Cox filing exists whose cumulative contributions should read 199.44; that filing is not in my chunk, so the chain could not be run here - flagged for the orchestrator."
+ },
+ "escalations": 9,
+ "escalation_note": "p3 1200 dpi crops of all four amount cells plus the control band (stacked); p2 1200 dpi crops of both amount cells plus the control band (stacked); p2 and p3 900 dpi wide crops of the inked date/name/address/purpose bands; p1 900 dpi crop of the cover's line-1 anchor grid. The row-1 expenditure amount was the deciding escalation and the arithmetic, not the crop, is what settled it.",
+ "notes": "Chunk file says candidate 'Dean J. Cox', office 'Commission Seat C', 2020. The cover's 'Full Name of Candidate' reads 'Dean J. Cox' and the 'Office' line reads 'Washington County Commission'; a COUNTY office, in scope. NOTE THE DOCUMENT IS LESS SPECIFIC THAN THE CHUNK FILE: the form's office line does NOT name a seat - 'Seat C' comes from the index/portal, not from this document, and I have not confirmed it at the page. The 'TO ____ County Clerk' line names the clerk personally ('Kim Hafen') rather than a county. The filer left the 'period beginning / ending' certification line ENTIRELY BLANK - this filing states no reporting period; signed and dated 6-15-2020, clerk RECEIVED stamp JUN 15 2020 (the chunk file's filename carries both 06-15-2020 and 'June 23 2020', another portal-label inconsistency of the kind the addendum warns about). PRIVACY: the cover prints the candidate's home street address, city, ZIP and home phone in the clear - all discarded at read time per core sec.5, as was contributor row 2's PO box and ZIP.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-04-07",
+   "donor_raw": "Dean Cox",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "700.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:69.88,16.86,9.59,1.73@p2",
+   "note": "Donor is the candidate himself (a self-contribution). Amount written '700' with no cents figure => 700.00. The Mailing Address cell reads the single word 'same', i.e. a pointer back to the candidate's own address on the cover; it states no city or state of its own, so donor_city/donor_state are left blank rather than backfilled from the cover. In Kind? column left BLANK - per addendum sec.A a blank is not an 'N', so in_kind is false only in the sense that the form does not mark it."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-06-02",
+   "donor_raw": "Robert Cundick",
+   "donor_city": "Leeds",
+   "donor_state": "Ut",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:69.88,18.59,9.59,1.73@p2",
+   "note": "Amount written '100' with no cents figure => 100.00. Surname read at 900 dpi as 'Cundick'; the medial n/u pair is the usual cursive ambiguity so donor=medium. The address cell held a PO box number and a ZIP, both DISCARDED AT READ TIME per core sec.5; only the city 'Leeds' and state 'Ut' (verbatim capitalisation) are retained. There is a short struck-through mark immediately before 'Leeds' where the filer started the city and corrected himself. In Kind? column left BLANK."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Wash. Co. Clerk",
+   "purpose": "filing fee",
+   "amount": "571.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:69.76,16.00,18.24,1.82@p3",
+   "note": "THE ARITHMETIC-OVER-GLYPH ROW. Written '571' with a superscript '00' over the cents position => 571.00. At 90 and 200 dpi the figure reads plausibly as '57.00' with a comma; the page's own TOTAL (998.34) closes only under 571.00 (57.00 would leave a 514.00 hole), and the 1200 dpi cell crop shows three digits before the superscript cents. amount=medium is kept because the reading rests on the arithmetic as much as on the glyph."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-04-07",
+   "vendor_raw": "Constant Contact",
+   "purpose": "Email",
+   "amount": "48.03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:69.76,17.82,18.24,1.73@p3",
+   "note": "The tens digit sits on the ruled line and could be read 4 or 9 in isolation; the page total fixes it at 48.03 (998.34 - 571.00 - 104.31 - 275.00 = 48.03). Vendor is the email-marketing service, consistent with the stated purpose."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2020-04-10",
+   "vendor_raw": "Costco",
+   "purpose": "Postcards",
+   "amount": "104.31",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:69.76,19.55,18.24,1.73@p3",
+   "note": ""
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2020-04-10",
+   "vendor_raw": "USPS",
+   "purpose": "Postage",
+   "amount": "275.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:69.76,21.27,18.24,1.68@p3",
+   "note": "Same date as line 3; both written 4-10-20."
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C15.json",
+ "key": "510980e7",
+ "index_path": "raw/2020/2020_cc_Devron_Anderson.pdf",
+ "applies_to": [
+  "raw/2020/2020_cc_Devron_Anderson.pdf",
+  "raw/2020/2020_st_Andersen_summary.pdf"
+ ],
+ "sha256_prefix": "fb929f77b85fa0b1",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr-5-5-pg-form-A",
+  "expenditures": "carr-5-5-pg-form-B"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "2,754.77",
+    "cover_over50_this": "0.00",
+    "cover_over50_cum": "2,754.77",
+    "cover_le50_last": "105.00",
+    "cover_le50_this": "0.00",
+    "cover_le50_cum": "105.00",
+    "cover_balance_end": "0.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "This is the December FINAL/summary report and it reports NOTHING NEW: cover line 1 is 2,754.77 (from last report) + 0.00 (this report) = 2,754.77 (cumulative), and line 2 is 105.00 + 0.00 = 105.00. Form A (p2) is correspondingly BLANK - a real zero, not a gap; every mark on it is show-through ghosting from the reverse of the sheet. Zero rows therefore equal the THIS-REPORT cell (0.00) and NOT the CUMULATIVE cell (2,754.77), so the scope of these (zero) rows is PERIOD, not cumulative - a different scope from the figure the module publishes, which is honest and expected per addendum section C. The itemisation behind the 2,754.77 cumulative lives in this filer's EARLIER filing, key b5daefcf in this same chunk. Escalated line 1 to a 1200 dpi crop across all three columns to confirm the thousands comma and the .77 cents."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "2,859.77",
+    "cover_expense_this": "0.00",
+    "cover_expense_cum": "2,859.77",
+    "cover_balance_end": "0.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (p3) is BLANK (show-through ghosting only, no pen ink on any rule). Zero rows == cover line 3 THIS-REPORT cell (0.00); the CUMULATIVE cell is 2,859.77, so the rows are on the PERIOD scope. Escalated line 3 to a 1200 dpi crop across all three columns."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "the Carr form prints no schedule total or page subtotal on either schedule; both schedules carry zero ink and both cover THIS-REPORT cells read 0.00, so both sides gate exactly at zero.",
+  "row_count": "n/a in the tool sense - zero inked writing lines on p2 and zero on p3, counted by eye at 200 dpi across the full ~40-rule grid of each page (rowbands.py is unreliable on these low-contrast fax-grade scans, as on the Abbott filing).",
+  "geometry_proof": "n/a - zero rows emitted on both sides.",
+  "balance_chain": "CLOSES EXACTLY, on two independent checks. (1) Within this filing: contributions cumulative 2,754.77 (over $50) + 105.00 (the $50-or-less aggregate) = 2,859.77 = expenditures cumulative 2,859.77, and cover line 4 (balance at end) is 0.00 in all three columns. (2) ACROSS FILINGS, the cross-cover check required when one chunk holds two filings by one filer in one cycle: this filing's TOTALS-FROM-LAST-REPORT column (2,754.77 + 105.00 = 2,859.77 contributions; 2,859.77 expenditures) chains EXACTLY to the CUMULATIVE column of this filer's earlier 10/27/2020 report, key b5daefcf (line 1 cumulative 2,859.77 contributions, line 2 cumulative 2,859.77 expenditures, ending balance 0.00). The pair is therefore NOT a swapped-cover pair, and the >$50 / <=$50 split (2,754.77 / 105.00) that the Carr form makes explicit is exactly reproduced by the earlier filing's Schedule A, whose printed aggregate line is 105.00."
+ },
+ "escalations": 2,
+ "escalation_note": "p1 cover line 1 and line 3, each a 1200 dpi crop spanning all three columns (5400x480 px).",
+ "notes": "DOCUMENT vs CHUNK FILE - a spelling correction, not a conflict: the chunk/index candidate is 'Devron Anderson' and the filename is 2020_cc_Devron_Anderson.pdf, but the form's 'Full Name of Candidate' line reads DEVRON JAY ANDERSEN (with -SEN, and a middle name). The filer's own earlier report (b5daefcf) and the state-channel filename 2020_st_Andersen_summary.pdf both spell it Andersen. Office: index says 'Recorder', the form's 'Name of Office' reads Recorder and 'Office District' reads Cache County - agrees, IN SCOPE. Dated 12/03/2020, addressed TO 'Jess W. Bradfield' County Clerk, clerk stamp 'CLERK-DEC 3 '20 PM 4:29:18'. || Both schedules are honestly EMPTY (a final report with no new activity), transcribed as zero rows - NOT withheld, NOT a gap. || The candidate's street address, ZIP and home phone are printed in the clear on the cover and were discarded at read time. || The chunk file's applies_to lists a second index path (raw/2020/2020_st_Andersen_summary.pdf) sharing these bytes; transcribed once, as instructed.",
+ "contributions": [],
+ "expenditures": []
+}

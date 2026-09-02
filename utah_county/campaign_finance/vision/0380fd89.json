@@ -3,7 +3,10 @@
  "key": "0380fd89",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:12:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,52 @@
    "notes": "Handwritten 2008 year-end report. OFFICE DISAGREEMENT WITH THE PORTAL: index.csv carries 'County Commission Seat B'; the page's own Office Seeking line reads 'Utah County Commission Seat (C)' (the parenthesised letter is a single cursive glyph, read as C at medium confidence). Every Column-A cell and lines 4/6 are written as the filer's slashed-zero glyph and are transcribed as '0'. Lines 3/5/7 all carry the same figure, read as 8265.18 at medium confidence (no thousands comma is clearly written and the 6/5 pair is compressed). Line 2 Column B (755.75) is compressed handwriting, medium confidence. Cover signature date is written '12-1-08'; report_date is taken from the summary page's printed Date of Report box ('12/1/08')."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk_01)",
+   "transcribed_date": "2026-08-18",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED, written as a SLASHED ZERO (read 0 under the repo zero-glyph ruling), matched by Schedule A's own printed 'Total Contributions Received $ \u00d8' \u2014 the schedule's 'Subtotal for this page' cell is left blank",
+     "detail": "Schedule A (p3) carries NO entries: the printed grid is empty except for one handwritten sentence lying across the first ruled line, 'No contributions received since last report 10/27/08'. That is an annotation, not an entry, so the side is empty-schedule with ZERO rows and zero rows sum to 0.00 \u2014 which is exactly the cover's promoted per-period cell (slashed zero) and the schedule's own printed total (slashed zero). Column B 'Year-to-Date Total' prints 3,024.37 and is NOT summed as an increment: it carries the whole 2008 cycle, which this final report does not itemize. The p2 balance ladder closes on its own terms: line 3 8,265.18 + line 4 (slashed zero) = line 5 8,265.18; 8,265.18 - line 6 (slashed zero) = line 7 8,265.18."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE, written as a SLASHED ZERO (read 0), matched by Schedule B's own printed 'Total Expenditures Received $ \u00d8'; its 'Subtotal for this page' cell is blank",
+     "detail": "Schedule B (p4) carries NO entries: the grid is empty except for the handwritten sentence 'No expenditures made since last report - 10/27/08' across the first ruled line. Zero rows sum to 0.00 = the cover's promoted per-period Column A cell = the schedule's own printed total, both slashed zeros. Column B YTD 755.75 is cumulative (it equals this filer's 6-16-08 report's own period expenditures) and is never summed as an increment."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 both schedules are empty, no in-kind column is printed anywhere on this form, and both the monetary-only and the monetary-plus-in-kind conventions give 0.00, which is what the cover states",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "legacy_colAB variant, 4 pages: p1 cover ('30 Days after the General Election', signed 12/1/08, amendment box marked No), p2 SUMMARY PAGE (located by its printed header), p3 Schedule A, p4 Schedule B. BOTH SCHEDULE PAGES EXIST AND ARE BLANK \u2014 each carries a single handwritten banner sentence on its first ruled line ('No contributions received since last report 10/27/08' on Schedule A; 'No expenditures made since last report - 10/27/08' on Schedule B) and nothing else; every other ruled line on both pages is empty. That is `empty-schedule` (a real absence of entries), NOT `no-schedule-page` and NOT `withheld`. Both cover cells and both schedule totals are SLASHED ZEROS, read as 0 under the repo-wide zero-glyph ruling (GOTCHAS 2026-08-02) with the glyph named here; the 'Subtotal for this page' cell on both schedules is left genuinely blank by the filer. The banner names a prior report dated 10/27/08 which is NOT part of this chunk \u2014 no arithmetic was done across filings, and the YTD figures (3,024.37 contributions, 755.75 expenditures) are recorded as cumulative only. PAGE-FACE candidate name is 'Larry Alton Ellertson' (Republican, residence city Lindon); index.csv names NO candidate for this row. The page-face Office Seeking line reads 'Utah County Commission Seat (c)', agreeing with index.csv's 'County Commission Seat C'. No frames block is written because no page of this filing carries a transcribed row. Not a *_Redacted.pdf: the county published this one in the clear; no address was carried anywhere in this record."
+  }
+ }
 }

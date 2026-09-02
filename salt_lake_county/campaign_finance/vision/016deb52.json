@@ -1,5 +1,19 @@
 {
- "contributions": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "VIRGINIA LEE",
+   "occupation": "LAWYER",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.48,22.22,85.50,3.73@p3",
+   "note": "date prints '8/29' with NO YEAR - blank per contract, verbatim here; city/state redacted at source (single bar over the whole Complete Mailing Address cell)"
+  }
+ ],
  "expenditures": [],
  "total_contributions": "25.00",
  "total_expenditures": "0",
@@ -49,6 +63,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. Cents are written as a raised superscript over a rule (25 with a superscript 00) on Lines 1, 4, 5 and 7 Column A - transcribed as 25.00. Line 2 Column A is a drawn dash across the cell and Lines 3 and 6 Column A are slashed Os - both recorded as 0 per the zero convention. Date of Report on the Summary Page header is \"Sept 15, 2022\"."
+  "notes": "Handwritten. Cents are written as a raised superscript over a rule (25 with a superscript 00) on Lines 1, 4, 5 and 7 Column A - transcribed as 25.00. Line 2 Column A is a drawn dash across the cell and Lines 3 and 6 Column A are slashed Os - both recorded as 0 per the zero convention. Date of Report on the Summary Page header is \"Sept 15, 2022\".",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "25.00",
+     "schedule_total": "25.00",
+     "itemized": "25.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "1 row 25.00 = printed page subtotal 25.00 = printed TOTAL 25.00 = Summary line 1 Column A ('25 00'); cached anchor 25.00 confirmed at the page"
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "schedule-grand-total",
+     "result": "exact",
+     "detail": "Schedule B first row struck '\u2014 NONE This period' with a slashed \u00d8 in the amount cell; SUBTOTAL and TOTAL print zero glyphs (\u00d8 \u2192 0 per zero-glyph ruling); Summary line 2 Column A is a BARE DASH (blank per zero-glyph ruling; the cached stated total recorded 0, consistent); zero rows emitted - a real zero at this filing"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 25.00 = printed subtotal 25.00 (fires, closes); p4 zero rows vs printed zero-glyph subtotal \u00d8 (consistent)",
+   "escalations": 1,
+   "escalation_note": "p3 row 1 re-read in a 600 dpi cell crop; read identically",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2022 form, handwritten throughout; September 15 interim report signed 9/15/2022. Donor Complete Mailing Address cell bar-redacted at source (city/state/ZIP do not survive). Chunk c_state prior 'has-detail/1 row' and e_state 'empty-schedule' both confirmed at the page."
+  }
  }
 }

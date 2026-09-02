@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W01.json",
+ "key": "05e7e8d7",
+ "index_path": "raw/wayback_forms2018/Jan 4 2019_Cory C Pulsipher_Final FCR_01-07-2019.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/Jan 4 2019_Cory C Pulsipher_Final FCR_01-07-2019.pdf"
+ ],
+ "sha256_prefix": "a6ce10f2856b57b7",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "1470.91",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "1470.91",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A (p2) is a completely EMPTY ruled grid and the filer left its printed TOTAL line BLANK (the field exists, hence \"\" not null), so the cover is the only anchor. The rows sum to 0.00, which equals the cover's line-1 'Totals from This report' cell = 0. The CUMULATIVE cell is 1470.91, carried forward from prior reports not in this PDF, so these rows are on the PERIOD scope, not the cumulative scope this module publishes - flagged plainly here rather than forced. This is the FINAL report of the 2018 cycle with no activity in the closing period; the empty schedule is a real zero for the period, not a gap."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "-927.00",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "-927.00",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (p3) is a completely EMPTY ruled grid with its printed TOTAL line left blank by the filer. Rows sum 0.00 = the cover's line-3 'Totals from This report' cell = 0. The cumulative -927.00 is carried forward. The filer writes the expense lines with a LEADING MINUS SIGN ('-927.00') as his own subtraction notation, not as an accounting negative - the balance line proves it (see balance_chain); the anchors are kept verbatim as printed."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Neither schedule's printed TOTAL line carries a figure - the filer left both blank - so no page-subtotal gate exists on this document. Both sides gate against the cover's THIS-report cells instead: 0.00 = 0 on each.",
+  "row_count": "rowbands.py p2 -> geometry_status 'gaps', 34 bands over a ~40-rule grid (the tool's own bands are unreliable on this faint fax-quality scan, so it is evidence, not an oracle). Counted by eye on the 200 dpi -normalize render: every ruled writing line on p2 and on p3 is empty, including the printed '$' prefixes in the Amount column, which carry no digits. 0 rows emitted per side.",
+  "geometry_proof": "not applicable - zero rows emitted on both sides, so no row geometry was claimed.",
+  "balance_chain": "CLOSES EXACTLY on the cumulative column: 1470.91 (contributions over $50) + 0 (aggregate <= $50) - 927.00 (expenses) = 543.91 = the cover's line-4 balance-at-end cumulative cell 543.91. This arithmetic is what settles the line-3 LAST cell, whose handwriting has an extra stroke through the '7' and could be misread as '9271.00': only 927.00 closes the chain, so the document's own arithmetic outranks the glyph. The THIS column closes trivially (0+0-0=0). No other filing by this filer is in this chunk, so no cross-filing cumulative chain could be run."
+ },
+ "escalations": 1,
+ "escalation_note": "600 dpi crop of the whole p1 cover money grid (all four lines x three columns) to settle the handwritten digits, in particular the line-3 LAST cell and the 1/4/7 group in 1470.91.",
+ "notes": "index.csv says Cory Clarke Pulsipher / Sheriff; the form's 'Full Name of Candidate' reads Cory Clarke Pulsipher and the 'Office' line reads Sheriff, 'Representative District' reads County - AGREES, and it is a COUNTY office, in scope. TRAP CHECKED: the filer also wrote 'Washington Co' on the form's trailing 'In the ______ School District' line; that is the filer filling a line that does not apply to him, NOT a school-board filing - the office line inside the form governs and reads Sheriff. THIS IS A THIRD FORM GENERATION, neither of the addendum's two: header 'WASHINGTON COUNTY CANDIDATE / FINANCIAL CAMPAIGN REPORT', a NUMBERED four-line cover (1-4) under 'Totals from Last Report + Totals from This report = Cumulative report', p2 'ITEMIZED CONTRIBUTION REPORT (Form \"A\")' with columns Date | Name of Contributor | Mailing Address & Zip Code | Amount | In Kind? (an In Kind column DOES exist on this generation) and ~40 ruled lines, p3 the matching Form B; both schedules print a TOTAL line but no county-branded footer box, and there is no page-4 statute text. Pages are footered 'Page 1' / 'Page 2' / 'Page 3'. The certify sentence's 'period beginning ____ and ending ____' blanks were LEFT EMPTY by the filer - the only date on the document is the signature date 1-4-19 and the clerk RECEIVED stamp JAN 04 2019. Privacy: the cover prints the candidate's street address, city, ZIP, home phone and business phone in the clear - all DISCARDED at read time and written nowhere here.",
+ "contributions": [],
+ "expenditures": []
+}

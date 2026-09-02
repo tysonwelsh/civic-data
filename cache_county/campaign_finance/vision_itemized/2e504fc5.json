@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C02.json",
+ "key": "2e504fc5",
+ "index_path": "raw/2010/2010_wb_hcpetersen.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_hcpetersen.pdf"
+ ],
+ "sha256_prefix": "93c340da9eda567a",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is ONE page: the Carr 5-5-PG cover only ('Page 1'). Form 'A' is not present. A ZERO-DOLLAR filing, and the most completely stated one in this chunk: ALL TWELVE cells (four lines x three columns) carry a written slanted-loop zero - confirmed in a 600 dpi crop of the whole block. Nothing is left empty and nothing is a dash."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form 'B' is not present in the one-page PDF. Line 3 and line 4 each carry a written 0 in all three columns."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "not applicable - no schedule page exists in this document; the Carr form prints no schedule total in any case (addendum A.1)",
+  "row_count": "not applicable - no ruled schedule page in this document",
+  "geometry_proof": "not applicable - zero rows emitted",
+  "balance_chain": "Closes trivially and completely: 0 + 0 - 0 = 0 on every column, and LAST + THIS = CUMULATIVE holds on all four lines (0 + 0 = 0)."
+ },
+ "escalations": 1,
+ "escalation_note": "one 600 dpi crop of the whole four-line total block across all three columns, to confirm every cell carries a written zero rather than being empty",
+ "notes": "ONE-PAGE DOCUMENT - cover only, and a genuine ZERO filing. index.csv says candidate 'H. Craig Petersen', office 'County Council'; the form's 'Full Name of Candidate' reads 'Harold Craig Petersen', 'Name of Office' 'County Council', 'Office District' '3', party Republican - in scope and in agreement (the index uses the initial form of the given name). Addressed 'TO Jill Zollinger, County Clerk'. Signature date 10/12/10; clerk stamp 'RCVD 13 OCT 2010 am08:42', which is the chunk file's 2010-10-13. Candidate street address, ZIP, home phone and business phone are printed in the clear and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

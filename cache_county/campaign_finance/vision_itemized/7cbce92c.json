@@ -1,0 +1,84 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C21.json",
+ "key": "7cbce92c",
+ "index_path": "raw/2024/2024_cc_2024_Devron_Anderson_Final_Disclosure.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_Devron_Anderson_Final_Disclosure.pdf"
+ ],
+ "sha256_prefix": "840dd696637513b3",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "$ 0.00",
+    "cover_over50_cum": "",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "$ 0.00",
+    "box_A_balance_begin": "$ 0.00",
+    "box_F_subtotal": "$ 0.00",
+    "schedule_total": "",
+    "page_subtotal": ""
+   },
+   "itemized": "0",
+   "basis": "cover-boxB-this-period",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Schedule A (p2) is entirely blank - no inked line anywhere in the grid - and the filer also left the printed 'Subtotal for this page' and 'Total Contributions Received' cells EMPTY (blank, not a zero glyph), so those anchors are \"\" and not \"0\". The only printed contribution figure is Box B $0.00; Box C (Year-to-Date) was left blank by the filer. Zero rows equal Box B exactly. Scope recorded as period because Box B is the only filled scope cell and the cover carries the handwritten note 'No change since last report'; with zero rows nothing can double-count either way."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "$ 0.00",
+    "cover_expense_cum": "",
+    "cover_balance_end": "$ 0.00",
+    "schedule_total": "",
+    "page_subtotal": ""
+   },
+   "itemized": "0",
+   "basis": "cover-boxD-this-period",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Schedule B (p3) is entirely blank, its printed subtotal/total cells left EMPTY by the filer (\"\", not zero). Box D $0.00 is the only printed expenditure figure for the period; Box E (Year-to-Date) blank. Zero rows equal Box D exactly."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No gate available on either schedule: the printed 'Subtotal for this page' and 'Total ... in this report' cells are BLANK on p2 and p3. Gated instead against the Summary Page: 0 rows = Box B $0.00 (contributions) and Box D $0.00 (expenditures).",
+  "row_count": "p2 and p3: independent ink-profile scan of the full table band found ZERO ink other than the printed rules and the printed header/footer blocks - 0 data rows on each, matching the 0 rows emitted.",
+  "geometry_proof": "Not applicable - zero rows emitted on both sides, so no row geometry is claimed.",
+  "balance_chain": "Box A 0.00 + Box B 0.00 = Box F 0.00 (closes); Box F 0.00 - Box D 0.00 = Balance at Close 0.00 (closes). Handwritten cover note 'No change since last report.' is consistent. No earlier filing by this filer in this chunk, so the cross-filing cumulative chain was not run here."
+ },
+ "escalations": 0,
+ "escalation_note": "None needed - handwriting is large and unambiguous ($ 0.00 in every filled box) and there are no ledger rows.",
+ "notes": "THE DOCUMENT CONTRADICTS THE CHUNK FILE ON THE CANDIDATE'S NAME: the chunk (and the filename) say 'Devron Anderson'; the form is handwritten 'Devron Andersen' - with an 'e' - in the Name of Candidate box, the affirmation line and all three page footers. Transcribed from the form: Andersen. Office line reads 'County Council South' (chunk says 'County Council' - agrees, form is more specific). Report type marked '30 Days after elimination'; NOT an amendment (neither Yes nor No is marked; the amendment date line is blank). Date of Report 8/6/2024 on the cover and all footers, matching the chunk's 2024-08-07 only approximately - the FORM says 8/6/2024. Candidate street address, phone and email printed on the cover were discarded at read time. Pages are labelled '1 of 4' ... '4 of 4' by the filer, so the PDF holds the complete report and no page is missing.",
+ "contributions": [],
+ "expenditures": []
+}

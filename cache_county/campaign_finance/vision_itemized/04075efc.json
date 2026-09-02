@@ -1,0 +1,95 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C04.json",
+ "key": "04075efc",
+ "index_path": "raw/2010/2010_wb_tstones.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_tstones.pdf"
+ ],
+ "sha256_prefix": "e4bbe3fdefde319a",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is completely blank - not one ruled line inked, no strike-out. Cover line 1 reads a plain handwritten 0 in the LAST, THIS and CUMULATIVE columns alike, so an empty schedule is the correct and consistent state. The Carr form prints NO schedule total, so the cover line is the only anchor (schedule_total null)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "326.15",
+    "cover_expense_this": "",
+    "cover_expense_cum": "326.15",
+    "cover_balance_end": "326.15",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "326.15",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Single Form B row 326.15 equals cover line 3 CUMULATIVE 326.15, which equals the LAST-REPORT cell; the THIS-REPORT cell was left blank by the filer. Rows are therefore on the cumulative scope. No printed schedule total exists on the Carr Form B."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr form prints no schedule/page subtotal on either schedule; p3 rows sum 326.15 = cover line 3 CUMULATIVE 326.15 (the only anchor). p2 has zero inked rows against cover line 1 = 0.",
+  "row_count": "p2: ~40 ruled writing bands, 0 inked -> 0 rows emitted (counted by eye on the full-page 200 dpi render; page is visibly empty). p3: ~40 ruled bands, 1 inked (top band) -> 1 row emitted.",
+  "geometry_proof": "p3 first(=only)-row amount crop at 1200 dpi renders '$326.15'; the control crop one row-pitch below renders EMPTY (only the blank rules).",
+  "balance_chain": "DOES NOT CLOSE, filer arithmetic: contributions 0 - expenses 326.15 = -326.15, but cover line 4 balance reads 326.15 in both the LAST and CUMULATIVE columns. The filer appears to have copied the expense figure into the balance line rather than negating it. Both figures retained verbatim; nothing recomputed."
+ },
+ "escalations": 3,
+ "escalation_note": "p3 amount cell + purpose band cropped at 1200 dpi (two crops) plus one control crop one pitch below the row.",
+ "notes": "index.csv calls the office 'Clerk/Auditor'; the form's 'Name of Office' line reads verbatim 'Cache County Auditor' (Office District 'Cache County') - a county office, in scope, but the form says Auditor only. Candidate name on the form is 'Tamra Stones', agreeing with index.csv. Cover is stamped RCVD 25 OCT 2010 by the Cache County Clerk, agreeing with the chunk date 2010-10-25. Candidate street address, ZIP and both phone numbers are printed in the clear on the cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "326.15",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.64,11.47,18.69,1.90@p3",
+   "note": "date cell reads verbatim 'March 2010' - month and year only, no day, so not cleanly parseable to ISO; left BLANK per contract. Amount written '$326.15' with an explicit decimal point (no superscript-cents convention on this row)."
+  }
+ ]
+}

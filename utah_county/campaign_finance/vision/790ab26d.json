@@ -3,7 +3,10 @@
  "key": "790ab26d",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:15:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,52 @@
    "notes": "Handwritten in blue ink. The filer writes zeros as a slashed-zero glyph (an actually-written zero, not a blank cell) on lines 1A, 1B, 2A, 4 and 6 - transcribed as 0 at medium confidence. Balances are NEGATIVE as printed (the filer carried a deficit): lines 3, 5 and 7 all read -1,076.77 with an explicit minus sign, transcribed verbatim including the sign. On line 3 the form's own printed black arrow graphic ('Refer to Line 7 on your last report') overlaps the right edge of the figure; the identical value is fully legible on lines 5 and 7. Report date written 10-28-2014 on the summary page, 10-28-14 at the cover signature. County date stamp OCT 28 AM10:10."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r3_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED on the p2 SUMMARY PAGE, written as a SLASHED ZERO (read 0 under the repo zero-glyph ruling), restated at line 4 'From Line 1 Column A' as another slashed zero, and matched by Schedule A's own printed 'Subtotal for this page $ \u00d8' and 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $ \u00d8'",
+     "detail": "Schedule A (p3) carries NO entries at all \u2014 the printed 17-rule grid is completely blank in all four columns \u2014 so the side is empty-schedule with ZERO rows, and zero rows sum to 0.00, which is exactly what the document itself states in FOUR places: cover line 1 Column A, cover line 4, the schedule's page subtotal, and the schedule's own total, every one of them a slashed zero. A 700 dpi crop of the schedule's two footer cells (pct:70,84.5,25,8@p3) rendered both glyphs unambiguously as ovals struck through by a diagonal \u2014 the zero glyph, not a dash and not an empty cell, so under the 2026-08-02 owner ruling they transcribe as 0. Column B 'Year-to-Date Total' for contributions is ALSO a slashed zero: this filer raised nothing at all in 2014, and his ledger is spending down a pre-existing deficit. The p2 balance ladder closes exactly and NEGATIVELY: line 3 -1,076.77 + line 4 (\u00d8) = line 5 -1,076.77; -1,076.77 - line 6 (\u00d8) = line 7 -1,076.77. The negative sign is written by the filer and is kept."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE on the p2 SUMMARY PAGE, written as a SLASHED ZERO (read 0), restated at line 6, and matched by Schedule B's own printed 'Subtotal for this page $ \u00d8' and 'Total Expenditures Received (Sum of subtotals from all Schedule B pages) $ \u00d8'",
+     "detail": "Schedule B (p4) is likewise a completely blank printed grid \u2014 zero rows, summing to 0.00, equal to the cover's promoted per-period Column A cell and to both of the schedule's own printed footer cells, all four written as slashed zeros and confirmed by a 700 dpi crop (pct:70,86.5,25,8@p4). \u26a0 NOTE THE SCOPE DISTINCTION THAT MAKES THIS FILING WORTH READING CAREFULLY: Column B 'Year-to-Date Total' for expenditures prints 1,076.77 \u2014 a REAL cumulative figure \u2014 while Column A is zero. Utah County is a per-period regime, so the anchor is the zero, and the 1,076.77 is NOT summed as an increment and is NOT evidence that this report has unread expenditure rows: it is money this filer spent in EARLIER 2014 periods, itemized on earlier reports, and it is exactly equal (with sign flipped) to the beginning balance at line 3. An agent anchoring on Column B here would manufacture 1,076.77 of phantom unreconciled rows out of an honestly empty schedule."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 both schedules are empty, the 2014 form prints no in-kind column, and no in-kind line appears anywhere on the filing, so the monetary-only and monetary-plus-in-kind conventions both give 0.00, which is what the cover states in Column A on both lines",
+   "escalations": 2,
+   "escalation_note": "Two verification crops at 700 dpi, both to settle the NIL MARKS rather than any figure: pct:70,84.5,25,8@p3 rendered Schedule A's 'Subtotal for this page $' and 'Total Contributions Received \u2026 $' cells, each holding an oval struck through by a diagonal stroke \u2014 a slashed zero, not a bare dash; pct:70,86.5,25,8@p4 rendered the same pair of cells on Schedule B with the same glyph. This distinction is load-bearing: under the zero-glyph ruling a slashed zero IS the numeral 0 (so this filing states a real zero), whereas a bare dash would have left the cells honestly blank. A third crop, pct:6,18.02,86,3.83@p3, rendered the schedule's column headers above an entirely empty first printed row \u2014 the control that the grid carries no writing at all.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "A DOUBLE EMPTY-SCHEDULE FILING \u2014 both sides are `empty-schedule`, neither is `withheld` and neither is `no-schedule-page`: all four pages exist, both schedule pages are present and correctly headed, and the filer completed their footer totals. What the pages actually print is a fully blank 17-rule grid with slashed zeros in the two footer cells; the absence of donors and of expenditures in this period is what the document itself asserts, not something unread. 4 pages, classified from their own printed headings: p1 cover ('2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES'), p2 'SUMMARY PAGE', p3 'SCHEDULE A \u2014 ITEMIZED CONTRIBUTIONS RECEIVED', p4 'SCHEDULE B \u2014 ITEMIZED EXPENDITURES MADE'. PAGE-FACE candidate 'Kris W Poulson' (Republican, Payson UT), office written 'County Assessor', agreeing with the channel label; index.csv names no candidate, so the page face supplies it. Report type ticked 'Seven days preceding the General Election'; amendment 'No' ticked; signed 10-28-14; clerk's date stamp 'OCT 28 AM10:10'. FOLIATION: 'Page 1 of 3' / '2 of 3' / '3 of 3' with 'Poulson' and '10-28-2014' on each sheet \u2014 this filer EXCLUDES the cover, as Buhman does and as Lee (2 of 6 \u2026 6 of 6) does not. Addendum A \u00a7A4 already records this filer foliating inconsistently across his own 2010 cycle; in 2014 he is internally consistent. A NEGATIVE BALANCE, AGAIN AND ACROSS CYCLES: line 3 and line 7 both read -1,076.77 with the minus written by hand. Addendum A \u00a7A4 records the same filer closing his June 2010 report at -2,049.71; the property is not a one-off and not an error \u2014 this candidate carries a campaign deficit and reports it honestly. The sign is preserved. PRIVACY: this filing is NOT redacted (no '_Redacted' suffix) and the county published the candidate's own address block in the clear; nothing from it is carried here, and there are no donor or vendor rows to reduce. ZERO-GLYPH: seven cells across the filing are slashed zeros (line 1 Column A and Column B, line 2 Column A, line 4, line 6, and the two footer cells on each schedule) and every one of them reads 0; the filer uses no bare dashes anywhere, so Addendum B \u00a7B2's mixed-nil-mark trap does not arise on this document."
+  }
+ }
 }

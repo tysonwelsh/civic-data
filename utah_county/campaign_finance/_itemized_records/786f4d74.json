@@ -1,0 +1,64 @@
+[{
+ "index_path": "raw/2022/2022_Oaks_Jake_4.3.2022_Redacted.pdf",
+ "key": "786f4d74",
+ "wave": "itemized-vision(claude-opus-5[1m]; 2026-08-20 wave B2 utah chunk r12_01)",
+ "transcribed_date": "2026-08-20",
+ "pages_read": [1, 2, 3, 4, 5, 6],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "cumulative-exact",
+   "anchor": "Box C 'Contributions Received Year to Date' = 283.98 on the p4 Summary Page — the CUMULATIVE cell, annotated in the filer's own hand '(personal loan to campaign)' — which is also Schedule A's own printed 'Subtotal for this page $283.98' and its printed 'Total Contributions Received $283.98'. The promoted PER-PERIOD cell, Box B 'Contributions Received this Period', prints an oval ZERO and the side does NOT close on it.",
+   "detail": "THE DOCUMENTED EXCEPTION, flagged loudly. Schedule A (p2) carries exactly ONE entry — a 283.98 personal loan from the candidate to his own campaign — and both of that schedule's printed footers state 283.98. The Summary Page, however, prints Box B (this period) as an oval ZERO and puts the 283.98 in Box C (year to date) with the handwritten annotation '(personal loan to campaign)'. So the one row sums to 283.98 exactly = Box C = both Schedule A footers, and equals NOTHING on the per-period side. Per §A6 that is `cumulative-exact`, not a delta: the filer's arithmetic on the schedule is fine, the figure the rows reconcile to is simply a different SCOPE from the per-period cell this module promotes, so `reconciles_contributions` should stay BLANK = UNKNOWN downstream rather than True. Note the further oddity, transcribed and NOT adjudicated: this is the cycle's FIRST report (Seven days preceding Convention, 04/03/2022), so period and year-to-date cover the same span, and the filer's own ladder does not close either way — A 0 + B 0 = F 0, then F - D would be -283.98 while the close box holds a heavily struck-out figure followed by a hand-drawn oval 0. NOTHING was nudged and no cover was differenced against another. THE LOAN WAS CLASSIFIED BY THE LADDER, NOT BY THE WORD (§B3): Schedule A is where the filer itemized it and Schedule A's own two footers count it, so it is published as the one contribution row this document reports."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' = 283.98 on the p4 Summary Page, which is also Schedule B's own printed 'Subtotal for this page $283.98' and its printed 'Total Expenditures Made $283.98'",
+   "detail": "3 Schedule B rows on p3: 38.98 + 89.96 + 155.04 = 283.98 EXACTLY = the printed page subtotal = the printed total = the promoted per-period Box D. Box E year-to-date prints the same 283.98 (first report of the cycle). The closure is also what settles row 1's last digit: 283.98 - 89.96 - 155.04 = 38.98 uniquely, and that cell's final digit is written over another glyph (see escalation_note). Arithmetic closure outranks glyph reading."
+  }
+ },
+ "in_kind_convention": "not applicable — the `v. 4.20`-family blank used here carries no in-kind column and no in-kind checkbox, and no row on either schedule is annotated in-kind, so monetary-only and monetary-plus-in-kind give identical sums; the expenditure side closes at 283.98 under both, and the contribution side's single row is monetary under both. Tested on this filing, not inherited.",
+ "escalations": 3,
+ "escalation_note": "(1) Schedule B row 1's amount cell was escalated to 900 dpi: it renders '38.9' plus a final digit written HEAVILY OVER another glyph (an 8 formed on top of an earlier character), unreadable as a shape. The page's own arithmetic settles it uniquely — 283.98 - 89.96 - 155.04 = 38.98 — so 38.98 is recorded and nothing was nudged. (2) Schedule A row 1's amount cell renders '283.98' with the '8' drawn twice and looped over itself; the same figure is printed twice more on the same page (subtotal and total), so the reading is corroborated inside its own document. (3) Schedule A row 1's DATE cell was escalated to 1200 dpi because the sheet's left edge is CUT OFF BY THE SCAN: the crop renders '/03/22' preceded by the right-hand strokes of a clipped leading digit consistent with a 4. Recorded verbatim as '4/03/22' at low confidence with needs_review=1 — the loss is reproduction loss (§C6), not redaction and not a filer omission, and the leading digit was NOT reconstructed from any other part of the document.",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [77.50, 92.30],
+   "cells": [[1.00, 16.00], [16.00, 49.90], [49.90, 78.50], [77.50, 92.30]],
+   "rows": [[11.81, 16.31], [16.31, 20.86], [20.86, 25.36], [25.36, 29.86], [29.86, 34.33], [34.33, 38.86], [38.86, 43.26], [43.26, 47.81], [47.81, 52.29], [52.29, 56.76], [56.76, 61.33]],
+   "measure_note": "A WASHED-OUT PINK/GREY PHOTOCOPY at -0.4 deg skew: the full-width scan found only 4 h_rules, so the §A2/§C6 `--col` RECOVERY was required — rowbands.py --col 78.5,92.3 returned 13 rules, of which 16.31 -> 61.33 (pitch ~4.5) are the grid rules it could still see and 84.45 / 88.15 belong to the candidate box; the rules below 61.33 are lost to the wash-out and are NOT declared here (they carry no entries). ⚠ THE FIRST ROW'S TOP RULE IS ALSO LOST, so band 1 is EXTRAPOLATED one pitch up from the first detected rule (11.81 -> 16.31) and was PROVED before use, per the §A1 first-entry control: the crop pct:77.50,11.81,14.80,4.50@p2 rendered '283.98' (the amount recorded for row 1), so the single written entry does sit on band 1 — the filer did not skip a line, and there is no banner or voided row above it. NEGATIVE CONTROL one band past the entry: pct:77.50,16.31,14.80,4.55@p2 rendered an EMPTY cell crossed only by the long vertical pen stroke the filer drew down the unused amount column — a stroke across the LEFTOVER GRID, which consumes no row and shifts no index (§E3), not a voided row. The column bands for Date/Name/Address are approximate (the wash-out defeats the vertical scan and the sheet's left edge is cut off by the scan, so the Date column is clipped); only the AMOUNT band is a proved measurement, and it is the one every row value is taken from."
+  },
+  "3": {
+   "axis": "y",
+   "cell": [75.94, 92.00],
+   "cells": [[1.00, 17.50], [17.50, 47.00], [47.00, 75.94], [75.94, 92.00]],
+   "rows": [[15.16, 18.98], [18.98, 22.77], [22.77, 26.68], [26.68, 30.59], [30.59, 34.54], [34.54, 38.56], [38.56, 42.61], [42.61, 46.73], [46.73, 50.81], [50.81, 54.90], [54.90, 59.08], [59.08, 63.42], [63.42, 67.82], [67.82, 72.39], [72.39, 77.09]],
+   "measure_note": "Schedule B on the same washed-out photocopy stock (-0.7 deg skew). The full-width scan returned 16 rules but displaced ~0.3 pct from where they fall inside the amount column, so the `--col 76,92` recovery was used and ITS rules are declared: 15.16 -> 77.09 = 15 bands (the 13.96 rule above them is the column-header underline; 80.33 / 85.25 belong to the candidate box). TWO-CROP PROOF at 900 dpi: pct:75.94,15.16,16.10,3.82@p3 rendered '38.9' + an over-written final digit (row 1, recorded 38.98 by the page's unique closure) and pct:75.94,22.77,16.10,3.91@p3 rendered '155.04' (row 3, the last written row). ONE-PAST CONTROL: pct:75.94,26.68,16.10,3.91@p3 rendered an EMPTY boxed cell, so nothing follows row 3 and no row hides below the last rule."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 2, "row": 1, "date": "4/03/22",
+   "donor_raw": "Jake Oaks (personal loan to campaign)",
+   "donor_city": "Spanish Fork", "donor_state": "UT",
+   "amount": "283.98", "in_kind": false, "confidence": "low", "verified": 1, "needs_review": 1,
+   "note": "THE CANDIDATE'S OWN PERSONAL LOAN TO HIS CAMPAIGN, itemized by the filer on Schedule A: the name cell holds 'Jake Oaks' with '(personal loan to campaign)' written beneath it on a second line, and the whole cell is carried verbatim. Classified as a contribution row by the LADDER and by the schedule's own two printed footers (both 283.98), never by the word 'loan' (§B3). The Summary Page books the same 283.98 at Box C (year to date) with the same parenthetical annotation while printing Box B (this period) as an oval zero — see recon. The county's redaction bar covers the STREET portion of the address; 'Spanish Fork, UT 84660' is printed in the clear beside it and only city/state are carried. needs_review=1 and low confidence are for the DATE, whose leading digit is clipped off by the scan's cut left edge (reproduction loss, not redaction); the amount itself is printed three times on the page and is not in doubt."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "Mar 4th",
+   "vendor_raw": "Fiverr.com", "purpose": "Logo", "amount": "38.98",
+   "in_kind": false, "confidence": "low", "verified": 1, "needs_review": 1,
+   "note": "date written as a MONTH-NAME-AND-ORDINAL with NO YEAR ('Mar 4th') — kept verbatim; a year is never filled in from the report date. The amount's final digit is written over an earlier glyph and is illegible as a shape at 900 dpi; 38.98 is the unique value that closes the page (283.98 - 89.96 - 155.04), so arithmetic settles it and nothing was nudged."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "Mar. 20th",
+   "vendor_raw": "Go daddy", "purpose": "Website", "amount": "89.96",
+   "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1,
+   "note": "date is a month-name-and-ordinal with NO YEAR — verbatim, flagged, never inferred"},
+  {"line_no": "3", "page": 3, "row": 3, "date": "Apr. 3rd",
+   "vendor_raw": "crazycheappoliticalsigns.com", "purpose": "Signs", "amount": "155.04",
+   "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1,
+   "note": "date is a month-name-and-ordinal with NO YEAR — verbatim, flagged. The vendor cell is a domain name written as one string across the Provider/Vendor column."}
+ ],
+ "notes": "PAGE-FACE IDENTITY: 'Jake Oaks' in the Name of Candidate box and again on the affirmation line; the OFFICE box is filled in and reads 'UTAH County Clerk' — quoted as printed, capitalisation included. Report type ticked: 'Seven days preceding Convention'. THE AMENDMENT QUESTION IS WHOLLY UNANSWERED (neither 'No' nor 'Yes' marked) — an honest blank, never read as 'No'. The cover's signature Date box reads 04/03/2022 while the cover's separate 'Date of Report' and 'Page' boxes are both LEFT EMPTY; the three inner sheets each carry 'Date of Report 04/03/2022' and an empty Page box, so THE FILING IS UNFOLIATED and page ordinals locate nothing — every page was classified from its own printed heading. FORM: the `v. 4.20`-family blank (footer 'v. 4.20' on p2; five report types; Schedule A's third column headed 'Address and Zip Code'; no in-kind column; the Summary Page's close box UNLETTERED). DOCUMENT SHAPE: 6 pages, all read full-page — p1 cover, p2 Schedule A, p3 Schedule B, p4 SUMMARY PAGE, p5 the Elections Division CHECKLIST, p6 blank. THE CHECKLIST IS AT p5 OF 6 (HOLD / 'Staff Signature #1' / '#2' revision; 'Website' ticked, 'Network' and 'HOLD' not), with two staff review copies dated 4/4/22 and 4/6/2022. It carries no dollar figures and is not a summary page. SOURCE CONDITION: pp1-4 are a washed-out pink/grey PHOTOCOPY, handwritten throughout, with the sheet's left edge cut off by the scan on p2-p4 (the Date column header is missing from p2 entirely) — every figure is at best medium confidence and the two settled by arithmetic are marked. THE FILER VOIDED THE UNUSED PART OF SCHEDULE A with a large 'N/A' written across rows 2-4 and a single long vertical pen stroke down the unused amount column: both are annotations across the LEFTOVER grid, they publish no row and shift no index (§E3 contrast case), and the crop control one band past the entry rendered an empty cell crossed only by that stroke. REDACTION: the county blacked out the candidate's cover address block, his signature, and the street portion of the single donor address on Schedule A; his phone and email are published in the clear on the cover and are deliberately not carried into this record. THE CONTRIBUTION SIDE IS THE WAVE'S `cumulative-exact` EXCEPTION and is flagged as such in recon — the one row closes on Box C and on both Schedule A footers, while the promoted per-period Box B prints an oval zero. The close box holds a heavily struck-out figure followed by a hand-drawn oval 0 and a small scrawl; it is a cover cell, transcribed by the cover tranche as 0, and it is not adjudicated here."
+}]

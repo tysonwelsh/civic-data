@@ -51,6 +51,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "WORTH A HUMAN LOOK: this 4-page filing contains NO plain \"Summary Page\" - page 2 is the \"Summary Page / Other Campaign Accounts\" variant (its Column B header reads \"Year to Date\", not \"Aggregate Total\"), and pages 3-4 are Schedule A and Schedule B, both marked NONE with slashed-O totals. The figures recorded here come from that Other-Campaign-Accounts summary page, which the filer used as his only summary. Lines 3 and 4 carry strike-throughs: on Line 3 a slashed O was struck and \"25.00\" survives; on Line 4 a slashed O was struck and \"25.00\" was written (although Line 4 is supposed to copy Line 1 Column A, which is 0). Cents are raised superscripts. Neither amendment box is checked. Handwritten under the general-election checkbox: \"DUE NOV 1 (TUESDAY)\"."
+  "notes": "WORTH A HUMAN LOOK: this 4-page filing contains NO plain \"Summary Page\" - page 2 is the \"Summary Page / Other Campaign Accounts\" variant (its Column B header reads \"Year to Date\", not \"Aggregate Total\"), and pages 3-4 are Schedule A and Schedule B, both marked NONE with slashed-O totals. The figures recorded here come from that Other-Campaign-Accounts summary page, which the filer used as his only summary. Lines 3 and 4 carry strike-throughs: on Line 3 a slashed O was struck and \"25.00\" survives; on Line 4 a slashed O was struck and \"25.00\" was written (although Line 4 is supposed to copy Line 1 Column A, which is 0). Cents are raised superscripts. Neither amendment box is checked. Handwritten under the general-election checkbox: \"DUE NOV 1 (TUESDAY)\".",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A first row struck '\u2014 NONE \u2014' with a slashed \u00d8 in the amount cell; SUBTOTAL and TOTAL print zero glyphs; p2 'Summary Page Other Campaign Accounts' line 1 Column A is a slashed \u00d8 zero glyph (Column B Year to Date 605.26); zero rows - a real zero at this filing"
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "Schedule B first row struck '\u2014 NONE \u2014' with a slashed \u00d8 in the amount cell; SUBTOTAL and TOTAL print zero glyphs; p2 line 2 Column A is a slashed \u00d8 zero glyph (Column B Year to Date 580.26); zero rows - a real zero at this filing"
+    }
+   },
+   "page_subtotal_gates": "p3 and p4 zero rows vs printed zero-glyph subtotals \u00d8 (consistent)",
+   "escalations": 1,
+   "escalation_note": "p2 balance column (lines 3-7) re-read in a 600 dpi cell crop to resolve the struck corrections",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "NO MAIN SUMMARY PAGE in the document - p2 is 'Summary Page Other Campaign Accounts' (confirmed at the page; chunk prior agrees). CONTRADICTS the chunk file: index date 2022-10-27 but every page reads 10/26/2022 (cover signature '10/26/2022', received stamp OCT 26 2022, p3 header 'OCT 26,2022'; p4 header shows 'NOV 1, 2022' STRUCK and corrected to 'OCT 26 2022') - the page governs. Cover 'Seven days before a general election' checked with filer note 'DUE NOV 1 (TUESDAY)'. Handwritten throughout (green ink)."
+  }
  }
 }

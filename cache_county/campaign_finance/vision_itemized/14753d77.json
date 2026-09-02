@@ -1,0 +1,98 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C09.json",
+ "key": "14753d77",
+ "index_path": "raw/2014/2014_cc_Howell_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Howell_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "58aaacf46f164df1",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "p2 Form A is entirely blank (no filer ink; the faint marks are bleed-through from the reverse side, verified at 200 dpi). Cover line 1 reads 0 in ALL THREE columns (LAST, THIS, CUMULATIVE), so the empty schedule closes against every printed anchor and the two scopes coincide. The Carr form prints NO schedule total on Form A — schedule_total is null because the field does not exist on this form."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "618.00",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "618.00",
+    "cover_balance_end": "618.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "618.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "one row, 618.00, equals cover line 3 CUMULATIVE 618.00. It does NOT equal the THIS REPORT cell (0), so the row set is on the CUMULATIVE scope — the single 3-17-2014 filing-fee expenditure was reported on the prior interim report and is carried forward in the cumulative column, while this summary report adds nothing new. Form B prints no schedule total; the cover line is the only anchor."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Neither Carr schedule prints a page subtotal or a schedule total — the form has no such field on p2 or p3 (the footer reads only '(If additional space is needed, use blank paper and list information like the above format and file with this report)'). Cover lines 1 and 3 are the sole anchors and both close exactly.",
+  "row_count": "p3 rowbands.py: geometry_status ok, 36 bands, h_rules_pct 9.51/11.54/12.22/14.60/16.92/19.24/... pitch ~2.32%. Exactly ONE band carries ink (band 1, [9.51,11.54] — the filer wrote ABOVE the 11.54 rule); 1 row emitted. Band 2 (11.54->12.22, h=0.67) is a doubled scan rule, not a writing line, and was mapped out by eye rather than trusted as a band. p2 needed no band count: zero ink anywhere on the page.",
+  "geometry_proof": "p3 first row = last row (single row). Crop pct:83.50,10.70,9.00,2.40@p3 (1200 dpi, x=8517 y=1412 W=918 H=317) renders '618.00'. Control one row-pitch below (y pct 13.10) renders EMPTY (bare rule only). An earlier attempt one pitch too high rendered only the digit tops and was corrected before recording.",
+  "balance_chain": "DOES NOT CLOSE — filer arithmetic. Cover line 4 balance-at-end CUMULATIVE reads 618.00, but contributions cumulative 0 (line 1) + 0 (line 2) minus expenses cumulative 618.00 = -618.00. The filer appears to have copied the expense figure into the balance line, and left the LAST and THIS balance cells blank. Both figures retained verbatim; nothing recomputed or overwritten. No earlier filing by this filer is in this chunk, so the cross-filing cumulative chain was not runnable here."
+ },
+ "escalations": 3,
+ "escalation_note": "p3 date cell at 1200 dpi (x=400 y=1250 W=1700 H=500): the 90 dpi contact sheet read '3-19-2014', the 200 dpi page read '3-17-2014', and the 1200 dpi crop settles it as 3-17-2014 (the middle digit is an unambiguous 7). p3 amount cell at 1200 dpi twice (framing correction): reads 618.00, which cover line 3 independently confirms.",
+ "notes": "index.csv says candidate=Howell, office=Assessor, 2014. The cover confirms: 'Full Name of Candidate: Kathleen C. Howell', 'Name of Office: Cache County Assessor', Political Party Republican, signed/dated 11-24-2014, clerk stamp RCVD 24 NOV 2014. IN SCOPE (county office). No contradiction with the chunk file. The zero glyphs on the cover are plain hand-drawn '0' numerals (not slashed) -> 0 per the zero-glyph ruling. Candidate street address, ZIP and both phone numbers appear in the clear on the cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-03-17",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "filing fee",
+   "amount": "618.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.50,10.70,9.00,2.40@p3",
+   "note": "date written 3-17-2014; escalated to 1200 dpi because the 90 dpi contact sheet read 3-19. Amount 618.00 re-read at 1200 dpi and confirmed by cover line 3."
+  }
+ ]
+}

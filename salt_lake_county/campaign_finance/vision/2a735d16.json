@@ -1,0 +1,188 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2017-08-04",
+   "donor_raw": "Julie Dole - Loan",
+   "occupation": "Recorder/Salt Lake County",
+   "amount": "$427.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.17,22.68,89.56,4.14@p3",
+   "note": "candidate self-loan; address redacted at source (county black bar spans the three filled rows)"
+  },
+  {
+   "line_no": 2,
+   "date": "2017-08-10",
+   "donor_raw": "Julie Dole - Loan",
+   "occupation": "Recorder/Salt Lake County",
+   "amount": "$518.62",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.17,26.81,89.56,4.14@p3",
+   "note": "candidate self-loan; address redacted at source"
+  },
+  {
+   "line_no": 3,
+   "date": "2017-08-16",
+   "donor_raw": "Julie Dole - Loan",
+   "occupation": "Recorder/Salt Lake County",
+   "amount": "$ 50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.17,30.95,89.56,4.14@p3",
+   "note": "candidate self-loan; amount printed with a space after the dollar sign, kept verbatim; address redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2017-08-04",
+   "vendor_raw": "Union Print Shop",
+   "purpose": "Campaign Signs",
+   "amount": "$427.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.01,24.09,81.27,4.16@p4",
+   "note": "date printed in long form 'August 4, 2017'"
+  },
+  {
+   "line_no": 2,
+   "date": "2017-08-10",
+   "vendor_raw": "Salt Lake Mailing & Printing",
+   "purpose": "Mailer",
+   "amount": "$518.62",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.01,28.25,81.27,4.11@p4",
+   "note": "date printed in long form 'August 10, 2017'"
+  },
+  {
+   "line_no": 3,
+   "date": "2017-08-16",
+   "vendor_raw": "SYZYGY Solutions",
+   "purpose": "Robocall",
+   "amount": "$ 50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.01,32.36,81.27,4.14@p4",
+   "note": "date printed in long form 'August 16, 2017'; amount printed with a space after the dollar sign, kept verbatim"
+  }
+ ],
+ "total_contributions": "$996.02",
+ "total_expenditures": "$996.02",
+ "beginning_balance": "$0",
+ "ending_balance": "$0",
+ "aggregate": {
+  "total_contributions_to_date": "$996.02",
+  "total_expenditures_to_date": "$996.02",
+  "line5_subtotal": "$996.02"
+ },
+ "cover": {
+  "candidate": "Julie Dole",
+  "party": "Republican",
+  "office_sought": "Sallt Lake County Recorder",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year AND FINAL / DISSOLUTION REPORT (BOTH boxes checked)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "December 28, 2017",
+  "form_year": "2016"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/julie-dole_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Julie Dole",
+  "office": "Recorder",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/julie-dole_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "DOCUMENT vs LABEL: the launch prompt's per-filing line called this 'Julie Dole / Clerk'. THE FORM SAYS RECORDER and the form governs - the cover's Office cell reads 'Salt Lake County Recorder', its Office Sought cell reads 'Sallt Lake County Recorder', and every Schedule A occupation cell reads 'Recorder/Salt Lake County'. index.csv/the chunk file also say Recorder; the 'Clerk' label does not and was not used. || 'Sallt' is the filer's own TYPO in the Office Sought cell and is kept verbatim; the top-row Office cell spells it correctly. || TWO REPORT-TYPE BOXES ARE CHECKED: both 'YEAR-END REPORT: January 31 of each year' AND 'FINAL / DISSOLUTION REPORT'. report_type records both rather than picking one - the form asserts both and the chunk file's filing_type 'final' is only half of what the page says. || FORM-YEAR vs PERIOD: the printed title is the '2016 Financial Disclosure Report' but the report is dated December 28, 2017 and its transactions are all August 2017. form_year records the printed title VERBATIM and is NOT the cycle - the documented form-year-lies class. || AMENDMENT: the 'No' box is checked. || The three Schedule A rows are all candidate self-LOANS ('Julie Dole - Loan') and each one exactly funds a same-day-or-near expenditure on Schedule B: $427.40 loan 8/4 -> Union Print Shop 8/4; $518.62 loan 8/10 -> Salt Lake Mailing & Printing 8/10; $50.00 loan 8/16 -> SYZYGY Solutions 8/16. Recorded as they are printed, not netted. || OCCUPATION CELLS SURVIVE and are captured verbatim on all three contribution rows ('Recorder/Salt Lake County'). The Complete Mailing Address column is covered by a black bar over the three filled rows - redacted at source, NOT left empty by the filer - so donor_city/donor_state are blank and no address text was written anywhere. || Schedule B dates are printed in long form ('August 4, 2017') and parse cleanly. || No in-kind marker anywhere; in_kind false throughout.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$996.02",
+     "schedule_total": "$996.02",
+     "itemized": "996.02",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "3 rows sum to 996.02 EXACTLY (427.40 + 518.62 + 50.00) = the printed SUBTOTAL FOR THIS PAGE ($996.02) = the printed TOTAL CONTRIBUTIONS RECEIVED ($996.02) = Summary line 1 Column A = Column B = Summary line 4. SCOPE TEST: Columns A and B print the same figure on this final report, so both scopes coincide and no basis ambiguity exists."
+    },
+    "expenditures": {
+     "stated": "$996.02",
+     "schedule_total": "$996.02",
+     "itemized": "996.02",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "3 rows sum to 996.02 EXACTLY (427.40 + 518.62 + 50.00) = the printed SUBTOTAL FOR THIS PAGE ($996.02) = the printed TOTAL EXPENDITUTRES MADE ($996.02) = Summary line 2 Column A = Column B = Summary line 6. SCOPE TEST: as above, A and B coincide."
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 996.02 = printed SUBTOTAL FOR THIS PAGE $996.02 (= grand TOTAL on the same page). p4 rows sum 996.02 = printed SUBTOTAL FOR THIS PAGE $996.02 (= grand TOTAL). Both gates fired and closed exactly.",
+   "escalations": 0,
+   "escalation_note": "the cover, Summary Page and both schedules are TYPED and born-clean at 200 dpi; no cell was in doubt and no crop was needed. Both schedule sides close to the cent against two printed figures each.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "DOCUMENT vs LABEL: the launch prompt's per-filing line called this 'Julie Dole / Clerk'. THE FORM SAYS RECORDER and the form governs - the cover's Office cell reads 'Salt Lake County Recorder', its Office Sought cell reads 'Sallt Lake County Recorder', and every Schedule A occupation cell reads 'Recorder/Salt Lake County'. index.csv/the chunk file also say Recorder; the 'Clerk' label does not and was not used. || 'Sallt' is the filer's own TYPO in the Office Sought cell and is kept verbatim; the top-row Office cell spells it correctly. || TWO REPORT-TYPE BOXES ARE CHECKED: both 'YEAR-END REPORT: January 31 of each year' AND 'FINAL / DISSOLUTION REPORT'. report_type records both rather than picking one - the form asserts both and the chunk file's filing_type 'final' is only half of what the page says. || FORM-YEAR vs PERIOD: the printed title is the '2016 Financial Disclosure Report' but the report is dated December 28, 2017 and its transactions are all August 2017. form_year records the printed title VERBATIM and is NOT the cycle - the documented form-year-lies class. || AMENDMENT: the 'No' box is checked. || The three Schedule A rows are all candidate self-LOANS ('Julie Dole - Loan') and each one exactly funds a same-day-or-near expenditure on Schedule B: $427.40 loan 8/4 -> Union Print Shop 8/4; $518.62 loan 8/10 -> Salt Lake Mailing & Printing 8/10; $50.00 loan 8/16 -> SYZYGY Solutions 8/16. Recorded as they are printed, not netted. || OCCUPATION CELLS SURVIVE and are captured verbatim on all three contribution rows ('Recorder/Salt Lake County'). The Complete Mailing Address column is covered by a black bar over the three filled rows - redacted at source, NOT left empty by the filer - so donor_city/donor_state are blank and no address text was written anywhere. || Schedule B dates are printed in long form ('August 4, 2017') and parse cleanly. || No in-kind marker anywhere; in_kind false throughout."
+  }
+ }
+}

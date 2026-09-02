@@ -1,0 +1,130 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Erin Preston",
+   "occupation": "Attorney",
+   "amount": "839.03",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.55,21.25,87.94,7.75@p2",
+   "note": "Date cell prints '3/19' as a stacked fraction (3 over 19) with NO YEAR - BLANK + needs_review per the strict date rule; verbatim glyphs '3/19'; the year was NOT filled in from the 6/19/20 report date. Amount cell prints '839' with a superscript '03' over a rule = 839.03, and carries the filer's own annotation '(loan)' on the line below within the same amount cell - recorded here, and NOT treated as an in-kind marker (a loan is not in-kind, and this Schedule A has no in-kind column). Complete Mailing Address cell is covered by the county's black bar: redacted at source. Occupation/Employer cell reads 'Attorney' in the clear."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Erin Preston",
+   "purpose": "Candidate Filing Fee",
+   "amount": "839.03",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.54,23.40,80.71,4.25@p3",
+   "note": "Date cell prints '3/19' as a stacked fraction with NO YEAR - BLANK + needs_review, verbatim '3/19'. Amount '839' with a superscript '03' over a rule = 839.03. Recipient is the filer herself; purpose verbatim 'Candidate Filing Fee'."
+  }
+ ],
+ "total_contributions": "839.03",
+ "total_expenditures": "839.03",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "839.03",
+  "total_expenditures_to_date": "839.03",
+  "line5_subtotal": "839.03"
+ },
+ "cover": {
+  "candidate": "Erin Preston",
+  "party": "Republican",
+  "office_sought": "County Recorder",
+  "district_number": "SL County",
+  "report_type": "Seven days before a primary election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "6/19/20",
+  "form_year": "2018"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2020_disclosures__june__preston-recorder_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Erin Preston",
+  "office": "Recorder",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/2020_disclosures__june__preston-recorder_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "FORM GOVERNS AND AGREES WITH THE CHUNK FILE ON SUBSTANCE: cover Office Sought reads 'County Recorder', District Number 'SL County', signature date 6/19/20, and the checked Type-of-Report box is INTERIM / 'Seven days before a primary election' (X through the box; every other box empty). CHUNK FLAG CONFIRMED (1): the printed form title is '2018 Financial Disclosure Report For a Candidate' on a document signed 6/19/20 - form_year records the printed title verbatim and is NOT the cycle. CHUNK FLAG CONFIRMED (2): the clerk listing label 'June 2020' is a listing label only; the form's own checked box is 'Seven days before a primary election'. PAGE ORDER IS NON-STANDARD: page 2 is Schedule A and page 3 is Schedule B; the Summary Page is page 4, not page 2. Amendment question: NEITHER the 'Yes' NOR the 'No' box is checked - is_amendment is honestly blank, never 'No'. Summary lines 3 and 7 carry a SLASHED-ZERO glyph, transcribed 0 per the repo ZERO-GLYPH RULING with the glyph recorded. Cents throughout this filing are a raised superscript over a rule ('839' with superscript '03'); transcribed with a decimal point per the standing convention. The Schedule A contributor and the Schedule B recipient are both the filer herself (a self-loan in, a candidate filing fee out) - transcribed verbatim, not interpreted. The county's black bar covers the Schedule A Complete Mailing Address cell, the cover's street/city/state/ZIP block, the cover's phone/fax/email block and the signature: donor_city/donor_state are blank as 'redacted at source', a different fact from a filer leaving them empty.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "839.03",
+     "schedule_total": "839.03",
+     "itemized": "839.03",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "single row 839.03 = printed page SUBTOTAL 839.03 = printed TOTAL CONTRIBUTIONS RECEIVED 839.03 = Summary Page line 1 Column A 839.03. Both printed anchors share the same scope on this filing (Column B is also 839.03, this being the filer's first report). No in-kind rows exist, so no schedule-total-vs-summary-gap arises."
+    },
+    "expenditures": {
+     "stated": "839.03",
+     "schedule_total": "839.03",
+     "itemized": "839.03",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "single row 839.03 = printed page SUBTOTAL 839.03 = printed TOTAL EXPENDITUTRES MADE [form's own misspelling] 839.03 = Summary Page line 2 Column A 839.03."
+    }
+   },
+   "page_subtotal_gates": "p2 rows 839.03 = printed SUBTOTAL FOR THIS PAGE 839.03 (and printed schedule TOTAL 839.03); p3 rows 839.03 = printed SUBTOTAL FOR THIS PAGE 839.03 (and printed schedule TOTAL 839.03). Both gates fired and closed.",
+   "escalations": 5,
+   "escalation_note": "p2 amount cell + p2 subtotal/total block at 600 dpi tight crops (2 attempts, the first mispositioned); p3 amount cell + p3 subtotal/total block at 600 dpi tight crops. All read 839 with a superscript 03 over a rule, identical to the 200 dpi full-page read. p1 additionally re-rendered at 400 dpi full page to settle the Type-of-Report and amendment checkboxes.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FORM GOVERNS AND AGREES WITH THE CHUNK FILE ON SUBSTANCE: cover Office Sought reads 'County Recorder', District Number 'SL County', signature date 6/19/20, and the checked Type-of-Report box is INTERIM / 'Seven days before a primary election' (X through the box; every other box empty). CHUNK FLAG CONFIRMED (1): the printed form title is '2018 Financial Disclosure Report For a Candidate' on a document signed 6/19/20 - form_year records the printed title verbatim and is NOT the cycle. CHUNK FLAG CONFIRMED (2): the clerk listing label 'June 2020' is a listing label only; the form's own checked box is 'Seven days before a primary election'. PAGE ORDER IS NON-STANDARD: page 2 is Schedule A and page 3 is Schedule B; the Summary Page is page 4, not page 2. Amendment question: NEITHER the 'Yes' NOR the 'No' box is checked - is_amendment is honestly blank, never 'No'. Summary lines 3 and 7 carry a SLASHED-ZERO glyph, transcribed 0 per the repo ZERO-GLYPH RULING with the glyph recorded. Cents throughout this filing are a raised superscript over a rule ('839' with superscript '03'); transcribed with a decimal point per the standing convention. The Schedule A contributor and the Schedule B recipient are both the filer herself (a self-loan in, a candidate filing fee out) - transcribed verbatim, not interpreted. The county's black bar covers the Schedule A Complete Mailing Address cell, the cover's street/city/state/ZIP block, the cover's phone/fax/email block and the signature: donor_city/donor_state are blank as 'redacted at source', a different fact from a filer leaving them empty."
+  }
+ }
+}

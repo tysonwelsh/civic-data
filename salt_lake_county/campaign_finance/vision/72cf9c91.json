@@ -1,0 +1,116 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2019-12-12",
+   "vendor_raw": "Canva.com",
+   "purpose": "Graphic Design",
+   "amount": "12.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.62,24.14,79.48,4.09@p4",
+   "note": "the only line on either schedule; cents written as a superscript over a rule ('12,' with raised '95'), transcribed with a decimal point"
+  }
+ ],
+ "total_contributions": "0",
+ "total_expenditures": "12.95",
+ "beginning_balance": "427.97",
+ "ending_balance": "415.02",
+ "aggregate": {
+  "total_contributions_to_date": "3,612.35",
+  "total_expenditures_to_date": null,
+  "line5_subtotal": "427.97"
+ },
+ "cover": {
+  "candidate": "Lisa Gehrke",
+  "party": "",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/31/2020",
+  "form_year": "2019"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "line5_subtotal": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/lisa-gehrke-redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Lisa Gehrke",
+  "office": "County Council",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/lisa-gehrke-redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "FLAG PARTIALLY CONFIRMED, AND THE DIFFERENCE MATTERS - the chunk file says 'Office, Office Sought, District and Party cells are ALL covered by the county redaction bar'. At the page, only TWO of the four are: the county's black bar covers the Office Sought / District Number value row entirely (both are BLANK, note 'redacted at source'). The top-row Office and Political Party cells are NOT covered - they are visible, white and EMPTY, i.e. the filer never filled them in (confirmed in a 600dpi crop of that row). Those are two different facts and both are recorded as blanks with the reason stated. NOTHING was backfilled from the chunk file or the clerk listing: office_sought and district_number stay '' rather than 'County Council' / 'District 3'. The signature line itself is also under a black bar (only the printed name 'Lisa Gehrke' and the date 1/31/2020 survive). ZERO-GLYPH RULING applied three times: Summary line 1 Column A, Summary line 4, and the Schedule A page SUBTOTAL are each a slashed zero and each transcribes as 0 with the glyph named here; they are numerals, not nil marks. ILLEGIBLE FIELD: Summary line 2 Column B is printed as '3,59?.40' where the third digit is a 5 and an 8 written over each other - escalated to a 2400 dpi single-digit crop and still unresolvable, and no arithmetic on this form settles it (Column B does not close against Column A or the balance chain here). It is recorded as null = printed but illegible, never as a guess and never as 0. Amendment: NEITHER the Yes nor the No box is checked, so is_amendment is '' (filer left it blank). This filing reports a period with NO contributions and a single $12.95 expenditure; the year-end box is the only Type-of-Report box checked, matching the chunk file's 'Year-End (Jan 31)'. The county form misspells its own Schedule B footer ('TOTAL EXPENDITUTRES MADE').",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "3,612.35",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "A REAL ZERO, not a gap: the Schedule A page is present and its 15 data rows are wholly blank. Its printed SUBTOTAL cell holds a slashed zero (0), matching Summary line 1 Column A, also a slashed zero. \u26a0 THE TWO PRINTED ANCHORS ON THIS SCHEDULE HAVE DIFFERENT SCOPES - the schedule's grand-total cell holds 3,612.35, which is the Summary's COLUMN B (Aggregate Total) figure, not a period figure. Gating on the schedule grand total here would have manufactured a $3,612.35 delta out of an exact filing (the DeBry pattern named in the brief). The period anchor is Column A and the side closes against it."
+    },
+    "expenditures": {
+     "stated": "12.95",
+     "schedule_total": "",
+     "itemized": "12.95",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "the single row, 12.95, equals Summary line 2 Column A (12.95) and line 6 (12.95). The Schedule B page's SUBTOTAL and TOTAL cells are both printed and LEFT BLANK by the filer, so no schedule-level gate exists on this side; the Summary Column-A figure and the balance chain are the gates and both close."
+    }
+   },
+   "page_subtotal_gates": "p3 Schedule A: printed SUBTOTAL is a slashed zero = 0 and zero rows were transcribed - gates. p4 Schedule B: NO GATE AVAILABLE - both the SUBTOTAL FOR THIS PAGE cell and the TOTAL EXPENDITUTRES MADE cell are printed on the form and left blank by the filer. The side was gated on Summary line 2 Column A (12.95) and on the balance chain instead.",
+   "escalations": 4,
+   "escalation_note": "p1 Office/Political-Party cell row 600dpi x1 and the Office-Sought/District-Number row 600dpi x1 (to establish WHICH cells are blank and why); p2 line-1 Column A/B 1200dpi x1; p2 line-2 Column B 1200dpi then 2400dpi single-digit crop x2 - the digit did not resolve at any resolution",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FLAG PARTIALLY CONFIRMED, AND THE DIFFERENCE MATTERS - the chunk file says 'Office, Office Sought, District and Party cells are ALL covered by the county redaction bar'. At the page, only TWO of the four are: the county's black bar covers the Office Sought / District Number value row entirely (both are BLANK, note 'redacted at source'). The top-row Office and Political Party cells are NOT covered - they are visible, white and EMPTY, i.e. the filer never filled them in (confirmed in a 600dpi crop of that row). Those are two different facts and both are recorded as blanks with the reason stated. NOTHING was backfilled from the chunk file or the clerk listing: office_sought and district_number stay '' rather than 'County Council' / 'District 3'. The signature line itself is also under a black bar (only the printed name 'Lisa Gehrke' and the date 1/31/2020 survive). ZERO-GLYPH RULING applied three times: Summary line 1 Column A, Summary line 4, and the Schedule A page SUBTOTAL are each a slashed zero and each transcribes as 0 with the glyph named here; they are numerals, not nil marks. ILLEGIBLE FIELD: Summary line 2 Column B is printed as '3,59?.40' where the third digit is a 5 and an 8 written over each other - escalated to a 2400 dpi single-digit crop and still unresolvable, and no arithmetic on this form settles it (Column B does not close against Column A or the balance chain here). It is recorded as null = printed but illegible, never as a guess and never as 0. Amendment: NEITHER the Yes nor the No box is checked, so is_amendment is '' (filer left it blank). This filing reports a period with NO contributions and a single $12.95 expenditure; the year-end box is the only Type-of-Report box checked, matching the chunk file's 'Year-End (Jan 31)'. The county form misspells its own Schedule B footer ('TOTAL EXPENDITUTRES MADE')."
+  }
+ }
+}

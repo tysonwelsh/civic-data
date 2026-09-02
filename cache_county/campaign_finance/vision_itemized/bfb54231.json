@@ -1,0 +1,86 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C25.json",
+ "key": "bfb54231",
+ "index_path": "raw/2026/2026_cc_2026_Financial_Disclosure_June16_JoAnn_Bennett.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_June16_JoAnn_Bennett.pdf"
+ ],
+ "sha256_prefix": "067217f74c5d8163",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "-0-",
+    "cover_over50_cum": "-0-",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "0",
+    "schedule_total": "-0-",
+    "page_subtotal": "$-0-",
+    "box_A_balance_begin": "-0-",
+    "box_F_subtotal": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-box-B==cover-box-C",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A (p2) carries the single token '-0-' in the row area and no transactions. Printed 'Subtotal for this page $-0-' and 'Total Contributions Received $ -0-'; Box B (This Period) = '-0-' and Box C (Year-to-Date) = '-0-'. Per the repo-wide zero-glyph ruling '-0-' DENOTES zero, so all four figures are 0 and the two scopes coincide at zero; the verbatim glyph is retained in every anchor string. This CFD form has no separate <=$50 aggregate line, so the le50 keys are null."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "-0-",
+    "cover_expense_cum": "$450",
+    "cover_balance_end": "0",
+    "schedule_total": "-0-",
+    "page_subtotal": "$ -0-",
+    "box_A_balance_begin": "-0-",
+    "box_F_subtotal": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-box-D-this-period",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Schedule B (p3) carries the single token '-0-' and no transactions. Printed 'Subtotal for this page $ -0-' and 'Total Expenditures Made $ -0-'; Box D (This Period) = '-0-' = 0, which the empty schedule matches exactly. The rows do NOT match Box E (Expenditures Made Year-to-Date), which the filer wrote as '$450' - so this report itemizes a period, not the cycle, and the $450 of cycle-to-date spending is disclosed only as a summary figure here. Scope is therefore period. The $450 is NOT itemizable from this document and must not be inferred into rows."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: 0 rows sum 0.00 = printed Subtotal '$-0-' = printed Total '$ -0-' (gates). p3: 0 rows sum 0.00 = printed Subtotal '$ -0-' = printed Total '$ -0-' (gates). Both sides gate. Separately noted, not a gate failure: Box E ($450) exceeds this report's Schedule B total, which is a scope difference (year-to-date vs this period), not a reconciliation miss.",
+  "row_count": "Born-digital CFD with an unruled schedule area, so rowbands.py has no grid to score. Counted by ink: p2 one non-transaction token '-0-'; p3 one non-transaction token '-0-'. Zero transaction rows on either side, zero rows emitted.",
+  "geometry_proof": "No rows emitted, so no row geometry to prove. Both schedule row areas were rendered full-page at 200 dpi and hold only the single '-0-' token beneath the header rule.",
+  "balance_chain": "Box A '-0-' + Box B '-0-' = Box F 0 (closes); Box F 0 - Box D '-0-' = Balance at Close 0 (closes). Chain closes exactly. NOTE the filer switched notation mid-page - boxes A/B/C/D use the '-0-' glyph while F and the closing balance use a plain '0'; both are transcribed as printed. The chain does NOT account for Box E's $450: with $450 of year-to-date expenditures and '-0-' year-to-date contributions, the cycle figures cannot produce a zero closing balance. That is the FILER's arithmetic and is left untouched. Cross-filing chain NOT run: only the June-16 Bennett filing is in this chunk (a PreCon 2026 Bennett report exists in the county corpus but is outside it)."
+ },
+ "escalations": 0,
+ "escalation_note": "Born-digital vector PDF; every figure renders crisply at 200 dpi and matches the embedded text layer. No bistable glyphs, so no crop escalation was warranted.",
+ "notes": "index.csv calls the office 'County Council'; the form's own Office line reads 'County Council 2' (the seat number) - agrees, with the seat number as extra detail from the form. index/chunk date is 2026-06-16 (the county's June-16 posting batch); the form's own Date of Report and signature date are 06-15-2026, so the DOCUMENT date is 2026-06-15. Page order: p1 cover, p2 Schedule A, p3 Schedule B, p4 lettered Summary Page. The candidate's home street address, phone and email are printed in the clear on p1 and were discarded at read time. ZERO-GLYPH: the filer's '-0-' is treated as 0 per the repo-wide ruling and the verbatim glyph is kept in every anchor. FILER INCONSISTENCY retained verbatim: Box E (Expenditures Year-to-Date) = $450 while Box D, both schedules and the closing balance are all zero - a real cycle-to-date figure this report does not itemize.",
+ "contributions": [],
+ "expenditures": []
+}

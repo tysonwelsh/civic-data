@@ -264,10 +264,15 @@ cross-check + recovered meetings), `transcripts/` (meeting-video transcripts),
 `campaign_finance/` (candidate disclosures joined to election results — a structured
 dollar layer in 29 of 31 cities (SLC is portal-blocked and Draper unstructured, both
 caveated) plus, since 2026-08-01/02, ALL 8 counties: every county-office filing's cover was
-vision-read and its STATED TOTALS federate into cf_filing (1,911 county filing rows,
-2006–2026, all row offices); county itemized donor rows exist from salt_lake_county's
-EasyVote 2024/2026 API layer + juab's 2020 transcriptions; cf_cycle remains city-only by
-design (per-county ceilings + regimes in the caveat table),
+vision-read and its STATED TOTALS federate into cf_filing (2,189 county filing rows,
+2006–2026, all row offices); county itemized donor rows now span salt_lake_county's whole
+document record (clerk-legacy, the 2015–2021 paper slice, the EasyVote API layer and — since
+2026-09-01, wave W2 — its EasyVote row-less residue), plus juab, wasatch, summit, weber and
+utah; per-candidate cycle totals exist
+for BOTH tiers since 2026-08-23 — `cf_cycle` (cities) and `cf_cycle_county` (counties, 1,008
+candidate-cycles: 657 publishing a chain-proved or regime-resolved figure with carryover
+separated and floors flagged, 351 honest gap rows) — but they are DIFFERENT measurements,
+so read the `cf-cycle-tiers` caveat before ranking across them,
 caveat-carried in the db), and a primary-document text layer. Each is self-contained
 with its own `CLAUDE.md`, `AVAILABILITY.md`, `index.csv`, retained `raw/`, and honest
 `unrecovered.csv`. The 2026-07 city wave and the counties are queued for expansion (see

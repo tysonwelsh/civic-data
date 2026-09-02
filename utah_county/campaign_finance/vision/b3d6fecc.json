@@ -3,7 +3,10 @@
  "key": "b3d6fecc",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:42:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -54,5 +57,187 @@
    "notes": "Typed fillable legacy form with a few handwritten additions. Line 1 Column B (Year-to-Date contributions) is the ONE handwritten figure on the summary page, in blue ink: read as '73,650.88' at MEDIUM confidence (the leading digit is a hand-drawn 7). The Office Seeking box is typed 'Utah County Commission'; the filer ALSO hand-wrote 'UTAH COUNTY COMMISSION' on the Office: line in the Type-of-Report block, and left the District: line blank. OFFICE DISAGREEMENT: the page states no SEAT; office_index says 'County Commission Seat C'. Report-type checkbox '30 Days after the General Election' is checked by hand; amendment answered 'No'. Signature is redacted upstream by the county (black bar); the Date line reads Dec 3, 2020 and a clerk 'RECEIVED DEC 03 REC'D' stamp appears. Summary page is hand-numbered 'Page 2 of 4'."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "October 29, 2020",
+   "donor_raw": "Richard Hill & Water Solutions Inc.",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:84.99,72.30,1.76,7.30@p3",
+   "note": "Dates on this filer's own ledger are written out in full ('October 29, 2020') rather than in the M/D/YY form the county blank invites \u2014 kept verbatim. The donor's street line is printed IN THE CLEAR (the county redacted only the signature block on the cover of this filing) and is deliberately not carried; city/state only. The 'Amt Loaned' and 'Amt In-Kind' cells for this row are bare dashes."
+  },
+  {
+   "line_no": "2",
+   "date": "October 29, 2020",
+   "donor_raw": "Peter or Amanda Robbins",
+   "donor_city": "Farmington",
+   "donor_state": "UT",
+   "amount": "5000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.24,72.30,1.75,7.30@p3",
+   "note": "A JOINT donor written as one entry by the filer ('Peter or Amanda Robbins') \u2014 kept as ONE row exactly as the document reports it, never split into two imagined donors. Street line printed in the clear and not carried. Amt Loaned / Amt In-Kind are bare dashes."
+  },
+  {
+   "line_no": "3",
+   "date": "November 10, 2020",
+   "donor_raw": "Taz Murray",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.48,72.30,1.76,7.30@p3",
+   "note": "Last entry on the ledger; the line below it renders '$ -' (crop-proved). Street line printed in the clear and not carried. Amt Loaned / Amt In-Kind are bare dashes."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "October 29, 2020",
+   "vendor_raw": "Lisa Shepherd",
+   "purpose": "Campaign Manager: July 1 - September 15, 2020",
+   "amount": "5000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:84.83,78.60,1.87,7.70@p4",
+   "note": "THIS LEDGER HAS NO SEPARATE PURPOSE COLUMN \u2014 its single heading reads 'To/Name:Nature of Expense', i.e. the filer's own convention is payee, then the nature of the expense. The cell prints verbatim 'Lisa Shepherd (Campaign Manager: July 1 - September 15, 2020)'; the payee is taken from before the bracket and the purpose from inside it, per the heading's own 'To/Name : Nature' reading. Vendor address printed in the clear on the sheet and, per the record contract, not carried at all on the expenditure side."
+  },
+  {
+   "line_no": "2",
+   "date": "October 29, 2020",
+   "vendor_raw": "Costco Gas",
+   "purpose": "Fuel to thank Utah County supporters and volunteers",
+   "amount": "33.65",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.96,78.60,1.87,7.70@p4",
+   "note": "Cell prints verbatim 'Costco Gas: Fuel to thank Utah County supporters and volunteers' \u2014 here the filer uses the COLON form of the same 'To/Name:Nature' convention. This row's 'Expenditures In-Kind' cell is wholly empty (no dollar sign and no dash), unlike every other row."
+  },
+  {
+   "line_no": "3",
+   "date": "November 9, 2020",
+   "vendor_raw": "Leo Lines",
+   "purpose": "Sign Placement & Take Down Coordination",
+   "amount": "1500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.22,78.60,1.87,7.70@p4",
+   "note": "NOTE the row index: this is the THIRD entry but it sits on PRINTED LINE 4 \u2014 the filer left printed line 3 blank (crop-proved empty). Cell prints 'Leo Lines (Sign Placement & Take Down Coordination)'."
+  },
+  {
+   "line_no": "4",
+   "date": "November 10, 2020",
+   "vendor_raw": "Postage for Donor & Volunteer Thank You Cards",
+   "amount": "24.50",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:77.35,78.60,1.87,7.70@p4",
+   "note": "This cell names NO payee \u2014 it prints only the nature of the expense, so vendor_raw carries the cell verbatim and purpose is honestly blank rather than duplicating it. The row's own address cell names the U.S. Post Office in Spanish Fork as where it was paid; that is recorded here as context and was NOT promoted into a field."
+  },
+  {
+   "line_no": "5",
+   "date": "November 13, 2020",
+   "vendor_raw": "Sizzler",
+   "purpose": "Campaign Wrap Up/Way Ahead Lunch with Volunteers",
+   "amount": "28.50",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:75.48,78.60,1.87,7.70@p4",
+   "note": "Cell prints 'Sizzler: Campaign Wrap Up/Way Ahead Lunch with Volunteers' \u2014 the colon form of the filer's convention."
+  },
+  {
+   "line_no": "6",
+   "date": "November 20, 2020",
+   "vendor_raw": "Zoom Meeting Services",
+   "amount": "16.08",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:73.61,78.60,1.87,7.70@p4",
+   "note": "Cell prints 'Zoom Meeting Services' with no colon and no bracket, so payee and nature are not separable by the filer's own punctuation \u2014 carried verbatim as the vendor with purpose honestly blank. The row's address cell is a URL (www.zoom.com), not a postal address."
+  },
+  {
+   "line_no": "7",
+   "date": "November 23, 2020",
+   "vendor_raw": "Mail Chimp",
+   "purpose": "Email Campaign Subscription",
+   "amount": "58.61",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:71.74,78.60,1.87,7.70@p4",
+   "note": "Cell prints 'Mail Chimp (Email Campaign Subscription)'. The row's address cell is a URL (www.mailchimp.com), not a postal address."
+  },
+  {
+   "line_no": "8",
+   "date": "November 28, 2020",
+   "vendor_raw": "Lisa Shepherd",
+   "purpose": "Campaign Manager: September 16 - November 15, 2020",
+   "amount": "2500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:69.87,78.60,1.87,7.70@p4",
+   "note": "Second payment to the campaign manager, covering the following period; kept as its own printed row. Last entry \u2014 the line below it renders '$ -' (crop-proved)."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r8_02)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED = 7,000.00 on the p2 SUMMARY PAGE (repeated at line 4 'Total Contributions Received (From Line 1 Column A)'), which the filer's own p3 ledger independently prints three times as 'Donations This Period: $ 7,000.00', 'Total Cash Donations: $ 7,000.00' and 'Gross Cash, Loaned, & In-Kind Donations: $ 7,000.00'",
+     "detail": "3 ledger entries sum to 1,000.00 + 5,000.00 + 1,000.00 = 7,000.00 exactly = every printed contribution figure on the document that is period-scoped. The remaining 8 printed ledger lines carry a BARE DASH in all three money columns (a nil mark, not a numeral) and publish no row \u2014 crop-proved (the band one past the last entry rendered '$ -'). Column B 'Year-to-Date Total' prints a handwritten 73,650.88 and is NOT summed as an increment; the same p3 ledger prints its own build-up of that cumulative figure entirely INSIDE THIS ONE DOCUMENT ('All Donations through June 23, 2020: $28,413.88' + 'All Donations through October 27, 2020: $38,237.00' + 'All Donations through December 3, 2020: $7,000.00' = 'Gross Donations (Cash & Loaned) for 2020: $73,650.88'), so no figure was differenced across covers and none was needed. Cover ladder closes independently: line 3 8,057.45 + line 4 7,000.00 = line 5 15,057.45; 15,057.45 - line 6 9,161.34 = line 7 5,896.11."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 2 TOTAL EXPENDITURES MADE = 9,161.34 on the p2 SUMMARY PAGE (repeated at line 6), equal to the filer's own p4 ledger footers 'Summary of Expenditures/Loan Repayments: $ 9,161.34' and 'Gross Expenditures: $ 9,161.34'",
+     "detail": "8 ledger entries sum to 5,000.00 + 33.65 + 1,500.00 + 24.50 + 28.50 + 16.08 + 58.61 + 2,500.00 = 9,161.34 exactly = both printed ledger footers = Column A line 2 = line 6. PRINTED LINE 3 OF THE LEDGER IS BLANK \u2014 the filer left one ruled line unused between the two October 29 entries and the November block (crop-proved: the line-3 amount box renders EMPTY), so the eight entries occupy printed lines 1, 2, 4, 5, 6, 7, 8, 9 and the row index is NOT sequential with the entry number. Printed lines 10-12 carry bare dashes and publish nothing. Column B YTD 67,754.77 is retained as cumulative and never summed."
+    }
+   },
+   "in_kind_convention": "monetary-only; BOTH conventions tested and IDENTICAL on this filing. The filer's own ledgers carry EXPLICIT in-kind columns ('Amt In-Kind' on Schedule A, 'Expenditures In-Kind' on Schedule B) and every cell in both is a BARE DASH (a nil mark, not a numeral) \u2014 and the ledgers' own combined footers prove it: 'Gross Cash, Loaned, & In-Kind Donations: $7,000.00' equals 'Total Cash Donations: $7,000.00', and 'Gross Expenditures: $9,161.34' equals the cash summary. So monetary-only and monetary-plus-in-kind both close at 7,000.00 / 9,161.34 and no in-kind row exists to publish.",
+   "escalations": 8,
+   "escalation_note": "Eight 900-dpi --value cell crops, all geometry proofs on a ROTATED LANDSCAPE own-ledger where rowbands.py returns ZERO rules (the sheet is a shaded-band spreadsheet with no printed grid, and poppler renders it at -2.0 deg skew). p3: the line-1 box RENDERED '$ 1,000.00', line 2 '$ 5,000.00', line 3 '$ 1,000.00', and the one-past control (line 4) RENDERED '$ -' (a bare dash on an unused ledger line). p4: line 1 RENDERED '$ 5,000.00', line 9 RENDERED '$ 2,500.00', the one-past control (line 10) RENDERED '$ -', and \u2014 the finding that mattered \u2014 the printed LINE 3 box RENDERED EMPTY, proving the filer skipped one ruled line mid-schedule so that entries 3-8 sit on printed lines 4-9. No figure on this filing was doubtful: every amount is machine type from the filer's own spreadsheet and both sides close to the cent.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 8,
+   "geometry": {
+    "measured": 0,
+    "explicit": 11,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "SAKIEVICH DOCUMENT 1 OF 5 IN THIS CHUNK, and the only one of the five that is a legacy_colAB filing. Page-face candidate 'Thomas V. Sakievich', Republican, of Spanish Fork; index.csv's channel label is 'Tom Sakievich' \u2014 the page face governs. Office Seeking prints 'Utah County Commission' TWICE (typed in the Office Seeking box and again HANDWRITTEN in the 'Office:' blank beside the report-type checklist) and NAMES NO SEAT; index.csv carries 'County Commission Seat C' \u2014 transcribed as printed, no seat inferred. REPORT-TYPE CONFLICT: the checked box on the page face is '30 Days after the General Election' with report date Dec 3, 2020 and a clerk 'RECEIVED DEC 03' stamp, while index.csv's reporting_period reads 'midterm'; the page face governs and both are recorded. Amendment = No. FOUR pages, each classified from its own printed header: p1 cover (the 'FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' county-only blank citing Utah County Code 2-5 & Utah State Code 17-16-6.5) / p2 SUMMARY PAGE, hand-foliated 'Page 2 of 4' / p3 the filer's OWN typed landscape spreadsheet serving as Schedule A / p4 the same for Schedule B. THE COUNTY FORM'S OWN SCHEDULE A AND B SHEETS ARE ABSENT AND THAT IS NOT A GAP \u2014 the entries are all present on the filer's substituted ledgers, so both sides are `transcribed`, never `no-schedule-page` (the ADDENDUM A2 / E5 precedent, here in its ROTATED LANDSCAPE form). The ledgers carry columns the county blank does not: an explicit Amt Loaned column, an explicit in-kind column on each side, and a running cumulative build-up printed inside the document itself. REDACTION: only the cover's signature block is blacked out; donor and vendor street lines are printed IN THE CLEAR throughout and were reduced to city/state at read time on the contribution side and dropped entirely on the expenditure side. Both sides close EXACTLY on the promoted per-period Column A cells (7,000.00 / 9,161.34) and the cover's whole balance ladder closes independently."
+  }
+ }
 }

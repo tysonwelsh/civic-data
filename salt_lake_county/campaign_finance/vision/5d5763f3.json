@@ -1,0 +1,102 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "9,936.09",
+ "ending_balance": "9,936.09",
+ "aggregate": {
+  "total_contributions_to_date": "10,171.62",
+  "total_expenditures_to_date": "735.53",
+  "line5_subtotal": "9,936.09"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "Seven days before a primary election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2016-06-21",
+  "form_year": "2016"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2016_disclosures__june__max-burdick--council-6_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2016_disclosures__june__max-burdick--council-6_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Chunk-file/listing label says 'June'; the FORM checks 'Seven days before a primary election' - form governs. CHUNK FILE CONTRADICTED: schedule_a was recorded as 'not-inspected'; p3 IS the county Schedule A grid and p4 the Schedule B grid - both inspected, both present and BLANK (real zeros). ZERO-GLYPH RULING applied: Summary Column A lines 1, 2, 4 and 6 carry a struck/slashed zero and the schedules' SUBTOTAL/TOTAL cells read '$ -0-' - transcribed as 0 with the verbatim glyph noted. Column B carries superscript cents over a rule ('10,171' with a raised 62; '735.' with a raised 53; '9,936.' with a raised 09) - transcribed with a decimal point. Amendment box 'No' is ticked. Signature date 6-21-16; clerk stamp RECEIVED IN OFFICE JUN 21 2016. Cover 'Office' = 'County Council', 'Office Sought' = 'Council', District 6, party Republican - agrees with index.csv.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "-0-",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A page exists and is BLANK - struck through corner-to-corner with a single diagonal pen line; printed SUBTOTAL and TOTAL cells both carry the nil glyph '$ -0-'. Summary line 1 Column A is the same struck-zero glyph. A real zero, not a gap."
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": "-0-",
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "Schedule B page exists and is BLANK, diagonally struck, SUBTOTAL and TOTAL both '$ -0-'; Summary line 2 Column A is the same struck-zero glyph. A real zero."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 0.00 = printed subtotal '$ -0-'; p4 rows 0.00 = printed subtotal '$ -0-'",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Chunk-file/listing label says 'June'; the FORM checks 'Seven days before a primary election' - form governs. CHUNK FILE CONTRADICTED: schedule_a was recorded as 'not-inspected'; p3 IS the county Schedule A grid and p4 the Schedule B grid - both inspected, both present and BLANK (real zeros). ZERO-GLYPH RULING applied: Summary Column A lines 1, 2, 4 and 6 carry a struck/slashed zero and the schedules' SUBTOTAL/TOTAL cells read '$ -0-' - transcribed as 0 with the verbatim glyph noted. Column B carries superscript cents over a rule ('10,171' with a raised 62; '735.' with a raised 53; '9,936.' with a raised 09) - transcribed with a decimal point. Amendment box 'No' is ticked. Signature date 6-21-16; clerk stamp RECEIVED IN OFFICE JUN 21 2016. Cover 'Office' = 'County Council', 'Office Sought' = 'Council', District 6, party Republican - agrees with index.csv."
+  }
+ }
+}

@@ -1,0 +1,413 @@
+[
+ {
+  "index_path": "raw/2026/2026_Taylor_Fox_Redacted.pdf",
+  "key": "d8e62ecb",
+  "wave": "itemized-vision(claude-opus-5[1m]; 2026-08-20 wave B2 utah chunk r13_03)",
+  "transcribed_date": "2026-08-20",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "delta",
+    "anchor": "Box B 'Contributions Received this Period' (1650.84) on the p4 Summary Page, which is also Schedule A's own printed 'Subtotal for this page $1650.84' AND its printed 'Total Contributions Received (Sum of all Schedule A pages in this report) $ 1650.84' \u2014 three statements of the same figure, all 40.00 above the rows",
+    "detail": "TRACED, NOT ASSERTED, AND NOTHING NUDGED. The 8 written Schedule A rows sum to 485.05 + 50 + 50 + 25 + 100 + 25 + 50 + 825.79 = 1,610.84, exactly 40.00 BELOW the printed page subtotal of 1,650.84 (which the schedule's second footer, Box B, Box C and Box F all repeat). What was done before calling it a delta, in order: (1) THE ADDENDUM H3 DOUBLED-BAND SCREEN \u2014 every band was cropped individually at 900 dpi and each holds exactly ONE figure, so no entry is collapsed into a neighbour; (2) THE ONE-PAST-THE-END CONTROL \u2014 band 9 renders a WHOLLY EMPTY ruled cell, and bands 9-15 are unmarked on the full-page read; (3) THE ADDENDUM F1 TRAP-5 SCREEN \u2014 a crop of the strip BELOW the last printed grid rule renders only the printed 'Subtotal for this page $1650.84' line and its underline, with no entry written in the white space, so the ledger does not continue past the grid; (4) ALL EIGHT AMOUNT CELLS ESCALATED to tight 900 dpi crops and every one reproduced its 200 dpi reading exactly on clean machine type (485.05 / 50 / 50 / 25 / 100 / 25 / 50 / 825.79) \u2014 no single cell can absorb 40.00 without contradicting its own render, and every candidate substitution that would (50 to 90, 25 to 65, 100 to 140) is refuted at resolution; (5) THE CORRELATED-ERROR SCREEN returns NOT-CORRELATED-BY-ABSENCE \u2014 index.csv retains exactly one Taylor Fox filing, so there is no sibling report in which to look for the same 40.00 (the weber signature this screen exists to catch). CONCLUSION: the shortfall is not a misread and not a missed row; the filer's own printed total exceeds what he itemized by 40.00 \u2014 either his footer arithmetic or an unitemized 40.00 receipt. That cannot be attributed to any particular row FROM THE ROW'S OWN PAGE, so per the C5 discipline NOTHING WAS CHANGED, the delta is retained verbatim, and every row on the side carries needs_review=1. NOTE the shape of the whole document: the single figure 1,650.84 is printed EIGHT times (both Schedule A footers, both Schedule B footers, and Boxes B, C, D, E, F) while the two schedules' rows sum to two DIFFERENT amounts, 1,610.84 and 1,650.57 \u2014 so at most one side's rows could ever have matched it, and the figure is evidently not derived from either row set."
+   },
+   "expenditures": {
+    "result": "delta",
+    "anchor": "Box D 'Expenditures Made this Period' (1650.84) on the p4 Summary Page, which is also Schedule B's own printed 'Subtotal for this page $1650.84' AND its printed 'Total Expenditures Made (Sum of all Schedule B pages in this report) $1650.84' \u2014 0.27 above the rows",
+    "detail": "TRACED, NOT ASSERTED, AND NOTHING NUDGED. The 6 written Schedule B rows sum to 901.50 + 100 + 271.96 + 28.53 + 28.58 + 320 = 1,650.57, exactly 0.27 BELOW the printed page subtotal of 1,650.84 (repeated by the sum-of-all-pages total and by Boxes D and E). The same five screens were run as on the contribution side: every band cropped individually (one figure each, no doubled band); the one-past-the-end control at band 7 renders a WHOLLY EMPTY ruled cell; the strip below the last printed grid rule renders only the printed subtotal line, ruling out a row written past the grid; ALL SIX AMOUNT CELLS escalated to tight 1200 dpi crops and every one reproduced exactly on clean machine type (901.50 / 100 / 271.96 / 28.53 / 28.58 / 320), so the two cells that could each have absorbed 0.27 by a single-digit change (28.53 to 28.80, 28.58 to 28.85) are BOTH refuted at resolution; and the correlated-error screen returns not-correlated-by-absence, this filer having only one retained filing. The delta is therefore a fact about the document \u2014 the filer's printed total exceeds what he itemized by 0.27 \u2014 it is NOT uniquely attributable to any row from that row's own page, nothing was changed, and every row on the side carries needs_review=1."
+   }
+  },
+  "in_kind_convention": "monetary-only \u2014 and the two conventions are identical here, so neither explains either delta. Schedule A prints FOUR columns (Date / Name of Contributor / City and Zip Code / Amount) with NO in-kind checkbox column; no row on either schedule is annotated in-kind; the Summary Page carries no in-kind line and no compound '+Inkind' cell. BOTH conventions were tested on BOTH sides: monetary-only gives 1,610.84 and 1,650.57, monetary-plus-in-kind gives the same figures because there is no in-kind row to add, and neither reaches the stated 1,650.84 on either side.",
+  "escalations": 19,
+  "escalation_note": "Nineteen crops, all named with this filing's key \u2014 the most value-directed escalation in this chunk, because BOTH sides carry a delta and each had to be excluded as a misread before it could be retained. ALL FOURTEEN amount cells were cropped tight (p2's eight at 900 dpi, p3's six at 1200 dpi) and every one reproduced its full-page reading exactly on clean machine type; not one value was corrected. Both one-past-the-end controls rendered WHOLLY EMPTY ruled cells (p2 band 9, p3 band 7). Both below-the-grid strips were cropped at 700 dpi and rendered only the printed 'Subtotal for this page $1650.84' line and its underline over empty final grid rows \u2014 the ADDENDUM F1 trap-5 screen, negative on both pages. A MEASUREMENT NOTE: rowbands.py's vertical-rule output is unusable on both schedule pages of this filing (p2 returns 13.7 / 17.2 / 18.2 / 20.6, all margin artifacts; p3 returns a single 7.6) because the pages are photographs with a dark curved right edge, so the column bands were measured off the render; and on p3 its data_bands proposal MISSES THE GRID'S TOP RULE, opening at 20.52 which is row 2 \u2014 a transcriber who trusted it would have mis-indexed every row on that page by one and, because the amounts still sum the same, no arithmetic gate would have seen it.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     77.3,
+     91.1
+    ],
+    "cells": [
+     [
+      8.0,
+      20.4
+     ],
+     [
+      20.4,
+      49.2
+     ],
+     [
+      49.2,
+      77.3
+     ],
+     [
+      77.3,
+      91.1
+     ]
+    ],
+    "rows": [
+     [
+      15.65,
+      19.94
+     ],
+     [
+      19.94,
+      24.24
+     ],
+     [
+      24.24,
+      28.56
+     ],
+     [
+      28.56,
+      32.87
+     ],
+     [
+      32.87,
+      37.19
+     ],
+     [
+      37.19,
+      41.53
+     ],
+     [
+      41.53,
+      45.88
+     ],
+     [
+      45.88,
+      50.25
+     ],
+     [
+      50.25,
+      54.68
+     ],
+     [
+      54.68,
+      59.13
+     ],
+     [
+      59.13,
+      63.61
+     ],
+     [
+      63.61,
+      68.09
+     ],
+     [
+      68.09,
+      72.59
+     ],
+     [
+      72.59,
+      77.09
+     ],
+     [
+      77.09,
+      81.58
+     ]
+    ],
+    "measure_note": "pdfinfo: four pages, rot 0 on all, but OVERSIZED and UNEQUAL mediaboxes (771x1000, 797x1000, 793x1000, 773x1000 pts) \u2014 each page is a separate photograph of the printed form, with a dark curved shadow down the right edge \u2014 so no frame transfers between pages and each was measured on its own. axis is 'y'. Schedule A is a fully BOXED 15-row grid; rowbands.py's 15 data bands (15.65 to 77.09, pitch ~4.39) are correct here and are used as measured, with the grid's bottom rule at 81.58 taken from an amount-column dark-run scan. Its VERTICAL rules are NOT usable (it returns 13.7 / 17.2 / 18.2 / 20.6, all left-margin artifacts), so the four column bands were measured off the render: 8.00 / 20.40 / 49.20 / 77.30 / 91.10, amount 77.30-91.10. TWO-CROP PROOF at 900 dpi: pct:77.3,15.65,13.8,4.29@p2 rendered '485.05' directly beneath the printed 'Amount' header (recorded 485.05, and the header proves no row was lost above band 1); pct:77.3,45.88,13.8,4.37@p2 rendered '825.79' (recorded 825.79, the last written row). ONE-PAST-THE-END CONTROL pct:77.3,50.25,13.8,4.43@p2 rendered a WHOLLY EMPTY ruled cell. Every one of the eight written bands was additionally cropped individually while excluding a misread as the cause of the side's 40.00 delta, so this page's indexing is proved row by row and not merely at its ends. Bands 9-15 are unused."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     77.5,
+     90.8
+    ],
+    "cells": [
+     [
+      8.1,
+      20.5
+     ],
+     [
+      20.5,
+      49.6
+     ],
+     [
+      49.6,
+      77.5
+     ],
+     [
+      77.5,
+      90.8
+     ]
+    ],
+    "rows": [
+     [
+      16.3,
+      20.52
+     ],
+     [
+      20.52,
+      24.68
+     ],
+     [
+      24.68,
+      28.91
+     ],
+     [
+      28.91,
+      33.13
+     ],
+     [
+      33.13,
+      37.4
+     ],
+     [
+      37.4,
+      41.67
+     ],
+     [
+      41.67,
+      45.95
+     ],
+     [
+      45.95,
+      50.25
+     ],
+     [
+      50.25,
+      54.59
+     ],
+     [
+      54.59,
+      58.96
+     ],
+     [
+      58.96,
+      63.35
+     ],
+     [
+      63.35,
+      67.78
+     ],
+     [
+      67.78,
+      72.26
+     ],
+     [
+      72.26,
+      76.78
+     ],
+     [
+      76.78,
+      81.0
+     ]
+    ],
+    "measure_note": "Schedule B, boxed 15-row grid on a separate photograph (793x1000 pts, rot 0). \u26a0 rowbands.py's data_bands proposal is OFF BY ONE HERE: it returns 14 bands opening at 20.52, having missed the grid's TOP rule, so its band 1 is really row 2. The top rule was measured at 16.30 off the render (pitch ~4.22, confirmed by the crop below), giving the 15 bands recorded above; its vertical-rule output (a single 7.6) is likewise unusable and the column bands 8.10 / 20.50 / 49.60 / 77.50 / 90.80 were measured off the render. TWO-CROP PROOF at 1200 dpi: pct:77.5,16.3,13.5,4.22@p3 rendered '901.50' WITH THE PRINTED 'Amount' HEADER VISIBLE DIRECTLY ABOVE IT \u2014 which is what proves the recovered top band is row 1 and that rowbands' proposal would have lost it; pct:77.5,37.4,13.5,4.27@p3 rendered '320' (recorded 320, the last written row). ONE-PAST-THE-END CONTROL pct:77.5,41.67,13.5,4.28@p3 rendered a WHOLLY EMPTY ruled cell. All six written bands were cropped individually while excluding a misread as the cause of the side's 0.27 delta. Bands 7-15 are unused."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 2,
+    "row": 1,
+    "date": "2/4/26",
+    "donor_raw": "Kelly McDonald",
+    "amount": "485.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "City/state read from the 'City and Zip Code' column, which asks for no street and on this filing prints none. donor_state is honestly BLANK because THE 2026 'City and Zip Code' BLANK HAS NO STATE FIELD and the filer typed none; the zip is not carried. Nothing is redacted anywhere on this page. \u26a0 THIS SIDE CARRIES A TRACED 40.00 DELTA (see recon.contributions.detail): the eight rows sum to 1,610.84 against a printed subtotal and Box B of 1,650.84. Every amount cell on this page, including this one, was escalated to a tight 900 dpi crop and reproduced exactly as machine type, and no ninth row exists, so NOTHING WAS NUDGED and every row on the side carries needs_review.",
+    "donor_city": "St. George"
+   },
+   {
+    "line_no": "2",
+    "page": 2,
+    "row": 2,
+    "date": "2/4/26",
+    "donor_raw": "Michael Anderson",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "City/state read from the 'City and Zip Code' column, which asks for no street and on this filing prints none. donor_state is honestly BLANK because THE 2026 'City and Zip Code' BLANK HAS NO STATE FIELD and the filer typed none; the zip is not carried. Nothing is redacted anywhere on this page. \u26a0 THIS SIDE CARRIES A TRACED 40.00 DELTA (see recon.contributions.detail): the eight rows sum to 1,610.84 against a printed subtotal and Box B of 1,650.84. Every amount cell on this page, including this one, was escalated to a tight 900 dpi crop and reproduced exactly as machine type, and no ninth row exists, so NOTHING WAS NUDGED and every row on the side carries needs_review.",
+    "donor_city": "St. George"
+   },
+   {
+    "line_no": "3",
+    "page": 2,
+    "row": 3,
+    "date": "2/4/26",
+    "donor_raw": "Kris Barber",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "City/state read from the 'City and Zip Code' column, which asks for no street and on this filing prints none. donor_state is honestly BLANK because THE 2026 'City and Zip Code' BLANK HAS NO STATE FIELD and the filer typed none; the zip is not carried. Nothing is redacted anywhere on this page. \u26a0 THIS SIDE CARRIES A TRACED 40.00 DELTA (see recon.contributions.detail): the eight rows sum to 1,610.84 against a printed subtotal and Box B of 1,650.84. Every amount cell on this page, including this one, was escalated to a tight 900 dpi crop and reproduced exactly as machine type, and no ninth row exists, so NOTHING WAS NUDGED and every row on the side carries needs_review.",
+    "donor_city": "St. George"
+   },
+   {
+    "line_no": "4",
+    "page": 2,
+    "row": 4,
+    "date": "3/27/26",
+    "donor_raw": "Daniel Hoffman",
+    "amount": "25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "The City and Zip Code cell holds a BARE DASH ('-') and nothing else \u2014 the filer's own explicit nil mark, not an untouched cell and not a county redaction (this page carries no redaction bars at all). Under the repo-wide zero-glyph ruling a bare dash is a NIL MARK and not a value, so donor_city and donor_state are honestly BLANK and the dash is quoted here rather than transcribed into a field. This is the same 'filer affirmatively marked it nil' cause seen on Richard Smith's 2026 filing (key 1f938b1a) in this chunk. \u26a0 THIS SIDE CARRIES A TRACED 40.00 DELTA (see recon.contributions.detail): the eight rows sum to 1,610.84 against a printed subtotal and Box B of 1,650.84. Every amount cell on this page, including this one, was escalated to a tight 900 dpi crop and reproduced exactly as machine type, and no ninth row exists, so NOTHING WAS NUDGED and every row on the side carries needs_review."
+   },
+   {
+    "line_no": "5",
+    "page": 2,
+    "row": 5,
+    "date": "3/21/26",
+    "donor_raw": "Joni Warnick",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "City/state read from the 'City and Zip Code' column, which asks for no street and on this filing prints none. donor_state is honestly BLANK because THE 2026 'City and Zip Code' BLANK HAS NO STATE FIELD and the filer typed none; the zip is not carried. Nothing is redacted anywhere on this page. \u26a0 THIS SIDE CARRIES A TRACED 40.00 DELTA (see recon.contributions.detail): the eight rows sum to 1,610.84 against a printed subtotal and Box B of 1,650.84. Every amount cell on this page, including this one, was escalated to a tight 900 dpi crop and reproduced exactly as machine type, and no ninth row exists, so NOTHING WAS NUDGED and every row on the side carries needs_review.",
+    "donor_city": "Riverton"
+   },
+   {
+    "line_no": "6",
+    "page": 2,
+    "row": 6,
+    "date": "3/5/26",
+    "donor_raw": "Stephen Anderson",
+    "amount": "25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "The City and Zip Code cell holds a BARE DASH ('-') and nothing else \u2014 the filer's own explicit nil mark, not an untouched cell and not a county redaction (this page carries no redaction bars at all). Under the repo-wide zero-glyph ruling a bare dash is a NIL MARK and not a value, so donor_city and donor_state are honestly BLANK and the dash is quoted here rather than transcribed into a field. This is the same 'filer affirmatively marked it nil' cause seen on Richard Smith's 2026 filing (key 1f938b1a) in this chunk. \u26a0 THIS SIDE CARRIES A TRACED 40.00 DELTA (see recon.contributions.detail): the eight rows sum to 1,610.84 against a printed subtotal and Box B of 1,650.84. Every amount cell on this page, including this one, was escalated to a tight 900 dpi crop and reproduced exactly as machine type, and no ninth row exists, so NOTHING WAS NUDGED and every row on the side carries needs_review."
+   },
+   {
+    "line_no": "7",
+    "page": 2,
+    "row": 7,
+    "date": "3/3/26",
+    "donor_raw": "Vance Gough",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "City/state read from the 'City and Zip Code' column, which asks for no street and on this filing prints none. donor_state is honestly BLANK because THE 2026 'City and Zip Code' BLANK HAS NO STATE FIELD and the filer typed none; the zip is not carried. Nothing is redacted anywhere on this page. \u26a0 THIS SIDE CARRIES A TRACED 40.00 DELTA (see recon.contributions.detail): the eight rows sum to 1,610.84 against a printed subtotal and Box B of 1,650.84. Every amount cell on this page, including this one, was escalated to a tight 900 dpi crop and reproduced exactly as machine type, and no ninth row exists, so NOTHING WAS NUDGED and every row on the side carries needs_review.",
+    "donor_city": "Orem"
+   },
+   {
+    "line_no": "8",
+    "page": 2,
+    "row": 8,
+    "date": "2/4/26",
+    "donor_raw": "Taylor Fox",
+    "amount": "825.79",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "A SELF-CONTRIBUTION by the candidate \u2014 the City and Zip Code cell prints 'Orem, 84058', the same city and zip as the cover's own address block. City/state read from the 'City and Zip Code' column, which asks for no street and on this filing prints none. donor_state is honestly BLANK because THE 2026 'City and Zip Code' BLANK HAS NO STATE FIELD and the filer typed none; the zip is not carried. Nothing is redacted anywhere on this page. \u26a0 THIS SIDE CARRIES A TRACED 40.00 DELTA (see recon.contributions.detail); this cell was escalated to 900 dpi and renders '825.79' unambiguously, so it is not the source of it. Nothing was nudged.",
+    "donor_city": "Orem"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "1-8-26",
+    "vendor_raw": "Elections Division",
+    "purpose": "Applications Fee",
+    "amount": "901.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "The Utah County candidate filing fee, purpose written 'Applications Fee' and vendor written 'Elections Division' by the filer, both kept verbatim. OBSERVATION ONLY, used to corroborate nothing (ADDENDUM E1/F5/L3): 901.50 matches the 2026 Commission fee on Brian Voeks's filing (a9fc51aa), David Spencer's ledger (854ba922) and Rod Mann's Schedule B (7df097d4). \u26a0 This side carries a traced 0.27 delta; this cell renders '901.50' unambiguously at 1200 dpi and is not its source."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "2-7-26",
+    "vendor_raw": "Jared Howard",
+    "purpose": "Family Photos",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "\u26a0 THIS SIDE CARRIES A TRACED 0.27 DELTA (see recon.expenditures.detail): the six rows sum to 1,650.57 against a printed subtotal and Box D of 1,650.84. Every amount cell on this page, including this one, was escalated to a tight 1200 dpi crop and reproduced exactly as machine type, and no seventh row exists, so NOTHING WAS NUDGED and every row on the side carries needs_review."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "3-10-26",
+    "vendor_raw": "Amazon",
+    "purpose": "Marketing Materials",
+    "amount": "271.96",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "\u26a0 THIS SIDE CARRIES A TRACED 0.27 DELTA (see recon.expenditures.detail): the six rows sum to 1,650.57 against a printed subtotal and Box D of 1,650.84. Every amount cell on this page, including this one, was escalated to a tight 1200 dpi crop and reproduced exactly as machine type, and no seventh row exists, so NOTHING WAS NUDGED and every row on the side carries needs_review."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "4-18-26",
+    "vendor_raw": "Chic Fil A",
+    "purpose": "Food for Volunteers",
+    "amount": "28.53",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "\u26a0 THIS SIDE CARRIES A TRACED 0.27 DELTA (see recon.expenditures.detail): the six rows sum to 1,650.57 against a printed subtotal and Box D of 1,650.84. Every amount cell on this page, including this one, was escalated to a tight 1200 dpi crop and reproduced exactly as machine type, and no seventh row exists, so NOTHING WAS NUDGED and every row on the side carries needs_review."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "3-28-26",
+    "vendor_raw": "Chipotle",
+    "purpose": "Food for Volunteers",
+    "amount": "28.58",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "\u26a0 THIS SIDE CARRIES A TRACED 0.27 DELTA (see recon.expenditures.detail): the six rows sum to 1,650.57 against a printed subtotal and Box D of 1,650.84. Every amount cell on this page, including this one, was escalated to a tight 1200 dpi crop and reproduced exactly as machine type, and no seventh row exists, so NOTHING WAS NUDGED and every row on the side carries needs_review."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "3-10-26",
+    "vendor_raw": "Personal Printer",
+    "purpose": "Flyers and banners",
+    "amount": "320",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "Vendor written 'Personal Printer' \u2014 the filer reimbursing his own printing, not a named third party; transcribed verbatim with no interpretation. \u26a0 This side carries a traced 0.27 delta; this cell renders '320' unambiguously at 1200 dpi and is not its source."
+   }
+  ],
+  "notes": "FORM CHARACTERISATION (2026 stock, eleventh and last specimen in this chunk) \u2014 variant modern_boxAF, footer 'v. 12.23' on every page, masthead 'Aaron Davidson, Clerk'. Four pages, summary LAST, each classified from its own printed header: p1 cover, p2 'Schedule A - Itemized Contributions Received', p3 'Schedule B - Itemized Expenditures Made', p4 'Summary Page'. NO CHECKLIST DECOY is bound in this document. Schedule A's third column is headed 'City and Zip Code'; Schedule B keeps the real Purpose column and the filer used it on every row; both are boxed 15-row grids printing their own two footers; the Summary Page prints A, B/C, D/E, F and an UNLETTERED close box. Report type '30 Days after withdrawal or elimination' is ticked, the amendment question is ticked 'No', the report is dated 5/15/26 throughout, foliation is continuous counting the cover (Pages 1-4). BORN-DIGITAL typed fillable form throughout except the Office cell, where 'County Commissioner' is typed and 'Seat A' is added BY HAND beside it; the whole document was then printed and PHOTOGRAPHED (each page is a different oversized mediabox with a dark curved shadow down the right edge), so row confidence stays at the OCR tier 'medium' per SCHEMA \u00a76. *** THE FILING'S DEFINING PROPERTY: BOTH SIDES CARRY A RETAINED DELTA, AND THE SINGLE FIGURE 1,650.84 IS PRINTED EIGHT TIMES. *** It appears as both Schedule A footers, both Schedule B footers, and Boxes B, C, D, E and F \u2014 while the two schedules' rows sum to two DIFFERENT amounts, 1,610.84 (contributions, 40.00 short) and 1,650.57 (expenditures, 0.27 short). At most one side could ever have matched it, so the figure is evidently not derived from either row set. Both deltas were traced through the full screen set before being retained \u2014 doubled-band, one-past-the-end, below-the-grid, cell-by-cell escalation of all fourteen amounts, and the correlated-error screen \u2014 and NOTHING WAS NUDGED on either side. Every row on the filing carries needs_review=1 in consequence, and both sides are honest FLOORS relative to what the filer states. TWO DONOR ADDRESS CELLS HOLD A BARE DASH (rows 4 and 6, Daniel Hoffman and Stephen Anderson) \u2014 the filer's own explicit nil mark, distinct from an untouched cell and from a redaction, and the second instance of that cause in this chunk after Richard Smith's filing (1f938b1a). PAGE-FACE IDENTITY: cover, affirmation line and every sheet's candidate box read 'Taylor Fox', matching index.csv. The OFFICE BOX reads 'County Commissioner' with a handwritten 'Seat A', corroborating index.csv's 'County Commission Seat A' from the page itself. REDACTION: the county blacked out ONLY the cover's signature block \u2014 the candidate's full home street address, phone number and email are published in the clear, and neither schedule nor the summary carries any redaction. Nothing from that row is carried into this record, and every blank donor cell on p2 is blank because THE FILER MARKED IT NIL OR LEFT IT SO, never because anything was removed."
+ }
+]

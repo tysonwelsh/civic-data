@@ -1,0 +1,185 @@
+DRAFT — NOT SENT. Prepared 2026-08-20 by the portal-probe agent. Owner review required
+before submission. Bracketed fields must be filled in.
+
+SUBMIT VIA:  https://saltlakecountyut.nextrequest.com/   (the county's GRAMA portal — the
+             route the Clerk's Elections page directs the public to)
+ALT / CC:    vote@saltlakecounty.gov   (Clerk's Elections Division, 385-468-7400)
+ADDRESSEE:   Salt Lake County Clerk's Office — Elections Division
+             Attn: Records Officer / Lannie K. Chapman, Salt Lake County Clerk
+             2001 South State Street, Ste S1-200 / PO Box 144575
+             Salt Lake City, Utah 84190
+SUBJECT:     GRAMA request — county-office campaign finance disclosure records, 2015-2021
+             (the retired disclosure.saltlakecounty.gov filing system)
+
+===================== COPY EVERYTHING BELOW THIS LINE =====================
+
+To the Salt Lake County Clerk's Office,
+
+Under the Government Records Access and Management Act, Utah Code 63G-2-101 et
+seq., I request access to the following records.
+
+REQUESTER INFORMATION (Utah Code 63G-2-204(1))
+
+Name: [FULL NAME]
+Mailing address: [STREET, CITY, STATE, ZIP]
+Email: [EMAIL] — I am willing to receive communications by email regarding this
+request.
+Daytime telephone: [PHONE]
+
+RECORDS REQUESTED
+
+All campaign finance disclosure records filed with the Salt Lake County Clerk by
+candidates for and holders of Salt Lake County offices — Mayor, County Council
+(Districts 1 through 6 and At-Large A, B and C), Sheriff, District Attorney,
+Clerk, Assessor, Recorder, Treasurer, Auditor and Surveyor — and by their
+personal campaign committees, for reporting years 2015 through 2021 inclusive.
+
+Specifically, and for each such filing, I request:
+
+  (a) the itemized contributions received (the "Schedule A" detail: date
+      received, name of contributor, occupation/employer, and amount);
+  (b) the itemized expenditures made (the "Schedule B" detail: date of
+      expenditure, name of recipient, purpose, and amount);
+  (c) the Summary Page figures (Column A "Total this Period" and Column B
+      "Aggregate Total", lines 1 through 7);
+  (d) the cover-page information (candidate, office sought, district, party,
+      report type, amendment status, signature date, date received); and
+  (e) the associated candidate/committee, reporting-year and statement-of-
+      organization records for those filers.
+
+These are the reports required of county candidates and officeholders by Utah
+Code 17-16-6.5 and by Salt Lake County Code Chapter 2.72A, and they are public
+records — the County published every one of them on its own public website.
+
+WHERE THESE RECORDS ARE HELD, AND WHY I AM ASKING
+
+To assist your staff in locating them, these filings were made through two
+channels in this period, and it is the electronic one that I most need.
+
+1. ELECTRONICALLY FILED REPORTS — the County's public disclosure application at
+   https://disclosure.saltlakecounty.gov (also reached as
+   https://disclosure.slco.org). Its public search served one folder per filer at
+   /Search/PublicSearch/FolderDetails/{id} and one itemized report per filing at
+   /Search/PublicSearch/Report/{id}.
+
+   That application is no longer reachable. As of my testing on August 20, 2026,
+   every request to a path served by the application — including
+   /Search/PublicSearch itself — is met with a TCP connection reset, over both
+   HTTPS and HTTP, from an ordinary web browser as well as from other clients,
+   and from more than one network. Requests to other paths on the same host are
+   redirected to /Search/PublicSearch, which then resets. The Internet Archive's
+   last successful capture of the public search page is dated January 15, 2026,
+   and there is none after that. The site's TLS certificate is current, so the
+   host itself is still maintained; only the application behind it is not
+   responding.
+
+   I am able to identify precisely which records I am asking for, because the
+   Internet Archive did capture the folder pages before the application went
+   offline. Those pages enumerate 54 County and Metro Township candidate/
+   officeholder folders (folder ids 129 through 263) and, within them, 251
+   electronically filed reports for reporting years 2015 through 2021, carrying
+   report ids in the range 1069 through 2104. By reporting year those 251 reports
+   fall as: 2015 — 14; 2016 — 27; 2017 — 6; 2018 — 75; 2019 — 12; 2020 — 98;
+   2021 — 19. I am glad to provide the full list of filer names and report ids in
+   whatever form is most useful to you, including a spreadsheet.
+
+   The Internet Archive did NOT capture the reports themselves, so the itemized
+   contribution and expenditure detail for these 251 filings is currently
+   unavailable to any member of the public through any channel.
+
+2. PAPER-FILED REPORTS — scanned and posted by the Clerk at
+   saltlakecounty.gov/clerk/elections/financial-disclosures/salt-lake-county-offices/.
+   These are still online and I have already retrieved them; I am NOT asking you
+   to reproduce them. I mention them only so your staff can tell the two sets
+   apart, and to make clear that this request is narrow.
+
+I am likewise NOT requesting the 2006-2015 reports posted at
+slco.org/clerk/financialDisclosurePDF/, and NOT requesting the 2022-present
+filings available through the County's current EasyVote public filings site. I
+already hold all of those.
+
+FORM OF PRODUCTION
+
+I request these records in the form in which they are already maintained. Because
+the electronically filed reports were keyed into a database rather than scanned,
+the least burdensome production is almost certainly an existing export or backup
+of that application's data — for example a database export, the generated report
+files as stored on the server, or any extract the vendor's software already
+produces. I am not asking the County to create a new record, or to compile,
+format, manipulate, package, summarize or tailor information within the meaning
+of Utah Code 63G-2-201(7).
+
+I will accept whatever format is least burdensome for your staff, including
+native database format, CSV, JSON, XML or PDF. Electronic delivery is preferred
+and no paper copies are needed.
+
+If the application's data cannot be exported, I ask instead for whatever form the
+reports can be produced in — printouts, screen captures, or the underlying filing
+records — and I am happy to stage the request by reporting year (2020 and 2018
+first, as those hold the most filings) if that makes it easier to fulfil.
+
+If your office no longer controls this system but the vendor does, I would
+appreciate being told the vendor's name and the County's point of contact there,
+so that I can direct any follow-up appropriately.
+
+A SECOND, MUCH SMALLER ITEM (separable — please do not let it delay the above)
+
+Six of the scanned 2006-era reports the County publishes are damaged or blank as
+posted, and re-downloading them returns byte-identical damaged files, so the
+defect is in the posted copy rather than in my retrieval:
+
+  jauger_61906amendment.pdf          20_june_cannon_russ06.pdf
+  nhendricks_sept152006.pdf          jhatch_sept152006.pdf
+  lreberg_sept152006.pdf             dwilde_apr52006.pdf  (entirely blank scan)
+
+If the Clerk retains legible originals or better scans of these six, I would be
+grateful for copies. This is a convenience item only.
+
+FEE WAIVER (Utah Code 63G-2-203(4))
+
+I request a full waiver of fees on the ground that releasing these records
+primarily benefits the public rather than me. These are public-classified records
+that the County itself published online for years; this request is necessary only
+because the County's own publication channel has been unavailable. The records
+will be used for a non-commercial public research project that publishes Utah
+civic data as a free, openly licensed public resource. Salt Lake County's 2016,
+2018 and 2020 county election cycles are, at present, the one period for which
+that resource cannot answer who funded a county candidate — not because the
+information was ever private, but because the website that carried it stopped
+responding.
+
+If the waiver is denied, please notify me of the estimated fee before performing
+any billable work, and please do not incur charges exceeding $50 without my
+written authorization. I would also appreciate a copy of the fee schedule relied
+upon.
+
+EXPEDITED RESPONSE (Utah Code 63G-2-204)
+
+I request a response within five business days. The benefit of expedited release
+runs to the public rather than to me: this material is presently unavailable to
+every member of the public through the channel the County maintains for it, and
+each month it stays offline is a month in which no resident can look up who
+funded a county race in 2016, 2018 or 2020.
+
+IF ANY PORTION IS WITHHELD
+
+Please cite the specific statutory exemption for each withheld item, release all
+reasonably segregable public portions, and include the notice of appeal rights
+required by Utah Code 63G-2-205. I do not seek contributor home addresses; the
+County already redacts them on the scanned filings, and redacting them here is
+fine with me.
+
+If any responsive record has been destroyed, migrated or transferred, please
+identify the record, the date and authority for that disposition, the applicable
+Utah State Archives retention schedule and series, and the current custodian.
+
+Thank you for your time and assistance. I am happy to narrow or stage this
+request if that would make it easier to fulfil, and I am glad to discuss it by
+phone.
+
+Sincerely,
+
+[FULL NAME]
+[EMAIL]
+[PHONE]
+[DATE]

@@ -1,0 +1,831 @@
+[
+ {
+  "index_path": "raw/2026/2026_David_M._Spencer_Redacted.pdf",
+  "key": "854ba922",
+  "wave": "itemized-vision(claude-opus-5[1m]; 2026-08-20 wave B2 utah chunk r13_03)",
+  "transcribed_date": "2026-08-20",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "2",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "cumulative-exact",
+    "anchor": "the filer's own ledger footer '52230 Total Contributions' printed at the foot of his substituted Schedule A sheet \u2014 which equals Box C 'Contributions Received Year to Date' ($52,230) and Box F 'Subtotal before Expenditures' ($52,230) on the p4 Summary Page, and does NOT equal the promoted per-period Box B ($36,230)",
+    "detail": "THIS IS THE DOCUMENTED ADDENDUM A6 EXCEPTION AND IS FLAGGED LOUDLY: the side closes ONLY on the CUMULATIVE cell. The 25 ledger rows sum to 15000 + 1000 + 500 + 1000 + 1500 + 100 + 500 + 2500 + 1000 + 150 + 2000 + 1000 + 10000 + 100 + 2500 + 200 + 30 + 1000 + 2000 + 3000 + 1000 + 2000 + 150 + 3000 + 1000 = 52,230.00 exactly \u2014 equal to the sheet's own printed total, to Box C (year to date) and to Box F. The promoted PER-PERIOD cell, Box B, prints 36,230 and the rows do not reach it under EITHER loan convention: excluding the 15,000 candidate loan gives 37,230 and including it gives 52,230, and neither is 36,230. The filer's own boxes are internally inconsistent by exactly 1,000 \u2014 Box F is defined on the form as Box A + Box B, which is 15,000 + 36,230 = 51,230, yet he wrote 52,230 (and then computed his close box correctly from that 52,230: 52,230 - 27,094.55 = 25,135.45, exactly what the close box prints). So a single 1,000 discrepancy sits somewhere between Box A, Box B and Box F, it is NOT attributable to any ledger row (the rows close perfectly on their own printed total), and NOTHING WAS NUDGED. The label is cumulative-exact rather than delta because the rows do reconcile exactly \u2014 to a printed figure of a different SCOPE. Downstream this leaves reconciles_contributions BLANK = unknown rather than True, which is the correct outcome. Note for a later reader: index.csv retains only ONE 2026 Spencer filing, so no earlier report exists in this module against which the period/cumulative split could be examined, and NO figure was differenced across covers to synthesize one."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Box D 'Expenditures Made this Period' ($27094.55) on the p4 Summary Page, which is also the filer's own printed ledger footer '27094.55 Total Expenditures' and is printed identically as Box E (year to date)",
+    "detail": "The 19 ledger rows sum to 901.5 + 2000 + 520.24 + 23.68 + 20.58 + 74.7 + 94.72 + 796.68 + 80.59 + 483.54 + 3406.87 + 401.08 + 13900 + 753.22 + 21.46 + 1016.18 + 2200 + 320.87 + 78.64 = 27,094.55 exactly = the sheet's own printed total = the promoted per-period Box D. Box D and Box E print the IDENTICAL figure on this filing, so the period and cumulative scopes coincide on the expenditure side and the closure holds on the promoted per-period cell without any scope caveat. Note the asymmetry with the contribution side, which is a real property of this document and not an extraction artifact: the filer reported his whole-cycle expenditures as 'this period' while splitting his contributions into a 15,000 opening balance plus a period figure."
+   }
+  },
+  "in_kind_convention": "monetary-only. The filer substituted his OWN typed ledgers for both county schedules and neither has an in-kind column, an in-kind checkbox or any in-kind annotation on any row; the Summary Page carries no in-kind line and no compound '+Inkind' cell. Both conventions were tested on both sides and give the same sums (52,230.00 and 27,094.55), so both close identically and neither convention explains the contribution side's scope divergence.",
+  "escalations": 9,
+  "escalation_note": "Nine crops, all named with this filing's key, all at 1200 dpi because the substituted ledger pages carry no printed grid to anchor a band. rowbands.py returns ZERO rules on pp2-3 (they are bilevel CCITT scans of a plain typed list), so the ADDENDUM N2 recovery was used and then improved: a direct dark-run scan of the rendered page restricted to the DATE column returned 25 clean text bands on p2 and 19 on p3, and the same scan restricted to the AMOUNT column returned exactly the same counts, so no band had to be interpolated and ADDENDUM L5's dropped-short-amount defect did not bite (rowbands' own --text-lines --col DID drop most bands here, at 4 of 25 and 3 of 19 \u2014 recorded as a fresh instance of that known limitation). MEASURED ADDENDUM N1 OFFSET: the amount column prints 0.18 to 0.23 pct BELOW its own date line on p2 and p3 \u2014 a tenth of a line, not the half-line seen elsewhere \u2014 so the two column scans agree row for row; the amount-column bands were used directly rather than offsetting the date bands. The proof crops rendered: p2 row 1 '15000', p2 row 25 '1000', p2 one-past '52230 To[tal]' (the ledger's own printed total, an ADDENDUM H4 non-row inside the list, not an entry); p3 row 1 '901.5', p3 row 19 '78.64', p3 one-past a WHOLLY BLANK strip, and the band after that '27094.55 T[otal]'.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     69.0,
+     75.5
+    ],
+    "cells": [
+     [
+      9.65,
+      17.24
+     ],
+     [
+      18.0,
+      43.53
+     ],
+     [
+      47.18,
+      60.29
+     ],
+     [
+      69.88,
+      74.06
+     ]
+    ],
+    "rows": [
+     [
+      10.62,
+      12.44
+     ],
+     [
+      12.44,
+      14.31
+     ],
+     [
+      14.31,
+      16.13
+     ],
+     [
+      16.13,
+      18.0
+     ],
+     [
+      18.0,
+      19.83
+     ],
+     [
+      19.83,
+      21.65
+     ],
+     [
+      21.65,
+      23.52
+     ],
+     [
+      23.52,
+      25.39
+     ],
+     [
+      25.39,
+      27.26
+     ],
+     [
+      27.26,
+      29.03
+     ],
+     [
+      29.03,
+      30.86
+     ],
+     [
+      30.86,
+      32.68
+     ],
+     [
+      32.68,
+      34.46
+     ],
+     [
+      34.46,
+      36.28
+     ],
+     [
+      36.28,
+      38.1
+     ],
+     [
+      38.1,
+      39.93
+     ],
+     [
+      39.93,
+      41.75
+     ],
+     [
+      41.75,
+      43.57
+     ],
+     [
+      43.57,
+      45.4
+     ],
+     [
+      45.4,
+      47.22
+     ],
+     [
+      47.22,
+      49.04
+     ],
+     [
+      49.04,
+      50.91
+     ],
+     [
+      50.91,
+      52.73
+     ],
+     [
+      52.73,
+      54.56
+     ],
+     [
+      54.56,
+      56.2
+     ]
+    ],
+    "measure_note": "pdfinfo: four pages, all rot 0, 612 x ~789 pts, so axis is 'y'. THIS PAGE IS NOT THE COUNTY FORM: it is the filer's own typed portrait ledger substituted for Schedule A (the ADDENDUM E5 shape), headed 'Schedule A Itemized Contributions Received' with his own column labels Date / Name of Contributor / City/Zip Code / Amount. It carries NO printed rules of any kind and rowbands.py returns 0 rules, 0 bands. Geometry was therefore measured by a direct dark-run scan of the 200 dpi render: column ink extents 9.65-17.24 (date), 18.00-43.53 (name), 47.18-60.29 (city/zip), 69.88-74.06 (amount); row text bands in the amount column at 25 tops on a regular ~1.82 pitch from 10.62 to 54.56, matching the 25 tops the date column gives (10.44 to 54.33) one for one. The declared `cell` is widened to 69.00-75.50, past the measured ink, per the ADDENDUM G2 overflow rule, and the crops below prove the widened box renders whole figures. TWO-CROP PROOF at 1200 dpi: pct:69.0,10.62,6.5,0.95@p2 rendered '15000' (recorded 15000) and pct:69.0,54.56,6.5,0.90@p2 rendered '1000' (recorded 1000, the last row). ONE-PAST-THE-END CONTROL pct:69.0,56.38,6.5,0.95@p2 rendered '52230 To' \u2014 the ledger's own printed 'Total Contributions' line, which equals the sum of the 25 rows above it and is therefore a total and not a 26th entry (ADDENDUM H4). Bands 1-25 are all used; there is no unused remainder on this page."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     64.5,
+     72.5
+    ],
+    "cells": [
+     [
+      9.65,
+      17.24
+     ],
+     [
+      18.0,
+      32.47
+     ],
+     [
+      38.18,
+      54.59
+     ],
+     [
+      65.82,
+      71.53
+     ]
+    ],
+    "rows": [
+     [
+      10.86,
+      12.68
+     ],
+     [
+      12.68,
+      14.51
+     ],
+     [
+      14.51,
+      16.33
+     ],
+     [
+      16.33,
+      18.16
+     ],
+     [
+      18.16,
+      20.03
+     ],
+     [
+      20.03,
+      21.9
+     ],
+     [
+      21.9,
+      23.72
+     ],
+     [
+      23.72,
+      25.59
+     ],
+     [
+      25.59,
+      27.42
+     ],
+     [
+      27.42,
+      29.24
+     ],
+     [
+      29.24,
+      31.11
+     ],
+     [
+      31.11,
+      32.89
+     ],
+     [
+      32.89,
+      34.72
+     ],
+     [
+      34.72,
+      36.54
+     ],
+     [
+      36.54,
+      38.37
+     ],
+     [
+      38.37,
+      40.19
+     ],
+     [
+      40.19,
+      42.02
+     ],
+     [
+      42.02,
+      43.84
+     ],
+     [
+      43.84,
+      45.6
+     ]
+    ],
+    "measure_note": "The filer's own typed portrait ledger substituted for Schedule B, headed 'Schedule B Itemized Expenditures Made' with his own labels Date / Provider/Vendor / Purpose / Amount. Again NO printed rules and rowbands.py returns 0. Measured the same way: column ink extents 9.65-17.24 (date), 18.00-32.47 (vendor), 38.18-54.59 (purpose), 65.82-71.53 (amount); 19 amount-column text bands on a ~1.82 pitch from 10.86 to 43.84, matching the 19 date-column tops (10.68 to 43.61) one for one. `cell` widened to 64.50-72.50 per ADDENDUM G2. TWO-CROP PROOF at 1200 dpi: pct:64.5,10.86,8.0,0.90@p3 rendered '901.5' (recorded 901.5, note the single decimal place as printed) and pct:64.5,43.84,8.0,0.90@p3 rendered '78.64' (recorded 78.64, the last row). ONE-PAST-THE-END CONTROL pct:64.5,45.66,8.0,0.90@p3 rendered a WHOLLY BLANK strip, and a further crop at pct:64.5,47.45,8.0,0.95@p3 rendered '27094.55 T' \u2014 the printed 'Total Expenditures' line, separated from the last row by one blank line. Bands 1-19 are all used."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 2,
+    "row": 1,
+    "date": "1/7/2026",
+    "donor_raw": "David Spencer Loan",
+    "donor_city": "Orem",
+    "amount": "15000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE CANDIDATE'S OWN LOAN, written by the filer as the first line of a sheet he headed 'Schedule A Itemized Contributions Received', and INCLUDED in that sheet's own printed '52230 Total Contributions'. It is published as a contribution row because the document's own arithmetic requires it: with the loan the 25 rows sum to exactly the ledger's printed total, to Box C and to Box F; without it they sum to 37,230, a figure that appears NOWHERE on this filing. RECORDED AND NOT ADJUDICATED: the Summary Page separately prints Box A 'Balance at Beginning of Reporting Period' as $15,000 \u2014 the same figure \u2014 so the filer appears to have counted this one payment both as an opening balance and as a listed contribution. That is the source of the filing's 1,000-dollar ladder inconsistency being impossible to attribute (see recon.contributions.detail); nothing was nudged either way. City cell prints 'Orem/84097' with a slash where the filer's other rows use a space; kept as read, city only. donor_state blank \u2014 the ledger has no state column."
+   },
+   {
+    "line_no": "2",
+    "page": 2,
+    "row": 2,
+    "date": "4/6/2026",
+    "donor_raw": "Gary Sorells",
+    "donor_city": "Orem",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "3",
+    "page": 2,
+    "row": 3,
+    "date": "4/9/2026",
+    "donor_raw": "Ace Auto",
+    "donor_city": "Orem",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "4",
+    "page": 2,
+    "row": 4,
+    "date": "4/27/2026",
+    "donor_raw": "Marty McGhie",
+    "donor_city": "Sandy",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "5",
+    "page": 2,
+    "row": 5,
+    "date": "4/28/2026",
+    "donor_raw": "Paul Crossett",
+    "donor_city": "Orem",
+    "amount": "1500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "6",
+    "page": 2,
+    "row": 6,
+    "date": "5/4/2026",
+    "donor_raw": "Doug Garding",
+    "donor_city": "Orem",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "7",
+    "page": 2,
+    "row": 7,
+    "date": "5/4/2026",
+    "donor_raw": "Dave and Cathy Young",
+    "donor_city": "Orem",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "8",
+    "page": 2,
+    "row": 8,
+    "date": "5/7/2026",
+    "donor_raw": "Gene and Gwen Wickes",
+    "donor_city": "Henderson",
+    "amount": "2500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted. AN OUT-OF-STATE DONOR: the cell prints 'Henderson  89002', a Nevada zip, with no state named \u2014 donor_state stays blank and NO state is inferred from the zip."
+   },
+   {
+    "line_no": "9",
+    "page": 2,
+    "row": 9,
+    "date": "5/7/2026",
+    "donor_raw": "Mike Morley",
+    "donor_city": "Springville",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "10",
+    "page": 2,
+    "row": 10,
+    "date": "5/12/2026",
+    "donor_raw": "Kirk and Carrol Waldron",
+    "donor_city": "Orem",
+    "amount": "150",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "11",
+    "page": 2,
+    "row": 11,
+    "date": "5/13/2026",
+    "donor_raw": "Gary Spencer",
+    "donor_city": "Orem",
+    "amount": "2000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted. Shares the candidate's surname; no relationship is inferred and none is printed."
+   },
+   {
+    "line_no": "12",
+    "page": 2,
+    "row": 12,
+    "date": "5/14/2026",
+    "donor_raw": "Marylyn Lawrence",
+    "donor_city": "Orem",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "13",
+    "page": 2,
+    "row": 13,
+    "date": "5/18/2026",
+    "donor_raw": "AJK Holdings",
+    "donor_city": "Provo",
+    "amount": "10000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "14",
+    "page": 2,
+    "row": 14,
+    "date": "5/19/2026",
+    "donor_raw": "Janet Eyring",
+    "donor_city": "Highland",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "15",
+    "page": 2,
+    "row": 15,
+    "date": "5/19/2026",
+    "donor_raw": "Richard Murray",
+    "donor_city": "Provo",
+    "amount": "2500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "16",
+    "page": 2,
+    "row": 16,
+    "date": "5/22/2026",
+    "donor_raw": "Eleni Wilding",
+    "donor_city": "Orem",
+    "amount": "200",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "17",
+    "page": 2,
+    "row": 17,
+    "date": "5/22/2026",
+    "donor_raw": "Lowell Nelson",
+    "donor_city": "Highland",
+    "amount": "30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "18",
+    "page": 2,
+    "row": 18,
+    "date": "5/27/2026",
+    "donor_raw": "Dave and Cathey Young",
+    "donor_city": "Orem",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted. The filer spells this donor 'Cathy' on his 5/4/2026 line and 'Cathey' here; both spellings are kept verbatim and neither is normalized to the other."
+   },
+   {
+    "line_no": "19",
+    "page": 2,
+    "row": 19,
+    "date": "5/28/2026",
+    "donor_raw": "Wayne Lawrence",
+    "donor_city": "Alpine",
+    "amount": "2000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "20",
+    "page": 2,
+    "row": 20,
+    "date": "6/1/2026",
+    "donor_raw": "Eliza Brough",
+    "donor_city": "Orem",
+    "amount": "3000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "21",
+    "page": 2,
+    "row": 21,
+    "date": "6/3/2026",
+    "donor_raw": "Gary Sorells",
+    "donor_city": "Orem",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "22",
+    "page": 2,
+    "row": 22,
+    "date": "6/5/2026",
+    "donor_raw": "Frank Anderson, DBA 2B Continued",
+    "donor_city": "Kamas",
+    "amount": "2000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted. The 'DBA 2B Continued' is the filer's own text inside the name cell and is kept verbatim. OBSERVATION carried into no field: the filer's Schedule B row 17 pays a vendor he spells '2B Contiunued'; the two spellings are left exactly as each line prints them."
+   },
+   {
+    "line_no": "23",
+    "page": 2,
+    "row": 23,
+    "date": "6/5/2026",
+    "donor_raw": "Megan Jacobson",
+    "donor_city": "Provo",
+    "amount": "150",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "24",
+    "page": 2,
+    "row": 24,
+    "date": "6/10/2026",
+    "donor_raw": "AJK Holdings",
+    "donor_city": "Provo",
+    "amount": "3000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   },
+   {
+    "line_no": "25",
+    "page": 2,
+    "row": 25,
+    "date": "6/10/2026",
+    "donor_raw": "Maui Chai",
+    "donor_city": "Orem",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "City/state read from the filer's own 'City/Zip Code' column, which carries a city and a zip and NO street at all \u2014 this is a filer-substituted typed ledger, not the county form, and it never asked for a street. donor_state is honestly BLANK because THE LEDGER HAS NO STATE COLUMN and the filer typed none; the zip is not carried. Nothing on this page is redacted."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "1/8/2026",
+    "vendor_raw": "Utah County Clerk",
+    "purpose": "Application",
+    "amount": "901.5",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Amount printed '901.5' with ONE decimal place; kept exactly as printed and not padded to 901.50. The purpose cell reads 'Application'. OBSERVATION ONLY, used to corroborate nothing (ADDENDUM E1/F5/L3 forbid it): this is the 2026 Utah County Commission filing fee, and Brian Voeks's 2026 filing (key a9fc51aa) prints the same 901.50 for it."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "1/14/2026",
+    "vendor_raw": "Veracity Enterprises",
+    "purpose": "Consulting",
+    "amount": "2000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "2/18/2026",
+    "vendor_raw": "Signs.com",
+    "purpose": "Signs",
+    "amount": "520.24",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "4/13/2026",
+    "vendor_raw": "Costco",
+    "purpose": "Cookies Meet/Greet",
+    "amount": "23.68",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "4/15/2026",
+    "vendor_raw": "Costco",
+    "purpose": "Cookies Meet/Greet",
+    "amount": "20.58",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "4/15/2026",
+    "vendor_raw": "Costco",
+    "purpose": "Gas",
+    "amount": "74.7",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Amount printed '74.7' with ONE decimal place; kept exactly as printed."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "4/17/2026",
+    "vendor_raw": "Costco",
+    "purpose": "Cookies Meet/Greet",
+    "amount": "94.72",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "4/17/2026",
+    "vendor_raw": "McNeil Printing",
+    "purpose": "Brochures",
+    "amount": "796.68",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "4/17/2026",
+    "vendor_raw": "Mailchimp",
+    "purpose": "Emails",
+    "amount": "80.59",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "4/27/2026",
+    "vendor_raw": "G1 Consulting",
+    "purpose": "Texting",
+    "amount": "483.54",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "date": "5/15/2026",
+    "vendor_raw": "Signs.com",
+    "purpose": "Signs",
+    "amount": "3406.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "date": "5/23/2026",
+    "vendor_raw": "Sams Club",
+    "purpose": "Taffy for Parades",
+    "amount": "401.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "date": "5/27/2026",
+    "vendor_raw": "Veracity Enterprises",
+    "purpose": "Mailer",
+    "amount": "13900",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "date": "5/29/2026",
+    "vendor_raw": "McNeil Printing",
+    "purpose": "Brochures",
+    "amount": "753.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "15",
+    "page": 3,
+    "row": 15,
+    "date": "5/30/2026",
+    "vendor_raw": "Target",
+    "purpose": "Supplies/rubber bands",
+    "amount": "21.46",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 16,
+    "date": "6/8/2026",
+    "vendor_raw": "Signs.com",
+    "purpose": "Signs",
+    "amount": "1016.18",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 17,
+    "date": "6/8/2026",
+    "vendor_raw": "2B Contiunued",
+    "purpose": "Texting/Emails",
+    "amount": "2200",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Vendor spelled '2B Contiunued' by the filer (his own transposition); kept verbatim and not corrected. He writes the same business '2B Continued' inside a donor name on Schedule A."
+   },
+   {
+    "line_no": "18",
+    "page": 3,
+    "row": 18,
+    "date": "6/11/2026",
+    "vendor_raw": "Sams Club",
+    "purpose": "Taffy for Parades",
+    "amount": "320.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 3,
+    "row": 19,
+    "date": "6/11/2026",
+    "vendor_raw": "Red Fin Rentals",
+    "purpose": "Speakers",
+    "amount": "78.64",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   }
+  ],
+  "notes": "FORM CHARACTERISATION (2026 stock, fifth specimen \u2014 and the first in this chunk where THE COUNTY SCHEDULES ARE NOT USED AT ALL). The cover (p1) and the Summary Page (p4) are the county's modern_boxAF form, footer 'v. 12.23', masthead 'Aaron Davidson, Clerk'; pp2 and 3 are the FILER'S OWN TYPED LEDGERS substituted for Schedule A and Schedule B \u2014 the ADDENDUM E5 portrait own-ledger shape. Both sides are therefore 'transcribed' and NEVER 'no-schedule-page': what is missing is the county's printed grid, not the filer's entries. His ledgers reproduce the county's own column vocabulary closely (Date / Name of Contributor / City/Zip Code / Amount and Date / Provider/Vendor / Purpose / Amount), each ends in a single printed total line, and each is hand-signed and hand-foliated at the foot in ink ('David M. Spencer / 6/15/2026 / Page 2' and '... Page 3'). Foliation is continuous counting the cover (Pages 1-4). NO CHECKLIST DECOY is bound in this document. The Summary Page's figures are ALL HANDWRITTEN on an otherwise typed form, and its close box is UNLETTERED. Report type 'Seven days preceding the Primary Election' is ticked, the amendment question is ticked 'No', report date 6/15/2026. *** THE FILING'S ONE REAL ANALYTIC HAZARD, stated plainly: the CONTRIBUTION ledger is CYCLE-SCOPED and closes only on the cumulative cells (Box C and Box F, both 52,230), while the EXPENDITURE ledger closes on the promoted per-period Box D (27,094.55, which this filer also prints as Box E). One filing, two different scopes, one per side. On top of that the summary ladder is internally inconsistent by exactly 1,000: Box F should be Box A + Box B = 15,000 + 36,230 = 51,230 and the filer wrote 52,230. The 1,000 cannot be attributed to any ledger row \u2014 the rows close perfectly on their own printed totals \u2014 so nothing was nudged and both figures are retained verbatim. A downstream reader must NOT treat this filing's contribution rows as an increment. *** THE LOAN: the ledger's first line is 'David Spencer Loan ... 15000' and Box A prints the identical $15,000 as the balance at beginning. The ADDENDUM B3 ladder test was run in both directions and neither reaches Box B, so the row is published because the sheet's own printed 'Total Contributions' includes it (dropping it would leave 37,230, a figure that appears nowhere on the filing). The apparent double-count between Box A and the row is recorded and NOT adjudicated. PAGE-FACE IDENTITY: cover, affirmation line, and both ledger sheets' ink signatures read 'David M. Spencer', matching index.csv. The OFFICE BOX reads 'Utah County Commissioner' AND NAMES NO SEAT \u2014 index.csv's 'County Commission Seat B' is a CHANNEL attribution this document does not corroborate, and no seat is inferred here (the wave rule against inferring a commission seat the filing does not print). REDACTION \u2014 A SOURCE PROPERTY WORTH FLAGGING: this file is named '_Redacted' and the county blacked out ONLY the signature block on the cover. The candidate's full home street address, his phone number and his email are all published IN THE CLEAR in the cover's Address row, and the two ledger sheets carry no redaction at all. A FILENAME IS NOT EVIDENCE OF REDACTION (ADDENDUM I6) and here the converse also holds: the '_Redacted' name understates what remains visible. Nothing from that row is carried into this record. No DONOR address exists to redact anywhere on this filing, because the filer's own ledger asks only for a city and a zip. SCAN QUALITY: the p1 cover's page header and footer have faded to near-illegible grey and the p4 summary's header likewise, but the form bodies, the typed ledgers and the handwritten box figures are all crisp. Both ledger pages are bilevel CCITT images at 300 dpi with no text layer, so every value here was read from a render and row confidence stays at the OCR tier 'medium' per SCHEMA \u00a76."
+ }
+]

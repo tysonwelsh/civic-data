@@ -1,0 +1,93 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C16.json",
+ "key": "615534f8",
+ "index_path": "raw/2020/2020_st_Howell.pdf",
+ "applies_to": [
+  "raw/2020/2020_st_Howell.pdf"
+ ],
+ "sha256_prefix": "6dcd1ab21bb8e4b7",
+ "pages_read": [
+  1,
+  2
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "none",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "none - Form A sheet is not in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is 2 pages: the cover (printed 'Page 1') and the Form 'B' expenditure sheet (printed 'Page 3'). The Form 'A' contribution sheet (printed page 2) is NOT present, so there is nothing to itemize and no schedule to call blank. The cover's line-1 CUMULATIVE cell reads 0 and its LAST/THIS cells are blank, but a cover figure is not a schedule: sides.contributions is 'none', not a transcribed zero."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "523.28",
+    "cover_balance_end": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "523.28",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row on Form B, 523.28, equals the cover's line-3 CUMULATIVE REPORT cell 523.28. The LAST and THIS cells on line 3 are both left blank by the filer, so the cumulative cell is the only printed anchor. The Carr form prints NO schedule total on Form B (the sheet ends with the '(If additional space is needed...)' line), so schedule_total is null by form design."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 (Form B): form prints no schedule total or page subtotal; rows sum 523.28 gated against the cover's line-3 CUMULATIVE 523.28 - closes exactly.",
+  "row_count": "p2 rowbands.py: geometry ok, deskew 0.3 deg, 37 horizontal rules -> 36 writing bands below the header double-rule; exactly 1 band carries ink (band 1, [8.98,11.77]) = 1 row emitted.",
+  "geometry_proof": "p2 first(=only)-row amount crop at 600 dpi (x4150,y580,W700,H200) renders '523.28'; full-width row crop renders '3-13-2020 | Cache County Clerk | Filing fee'; control crop one row-pitch below (y770,H170) renders EMPTY.",
+  "balance_chain": "Cover line 4 (Balance at end of period) is BLANK in all three columns, so no balance chain is printed to check. Cross-filing: this 10-13-2020 report's line-3 CUMULATIVE 523.28 chains forward to the 11-17-2020 report by the same filer (key a288a7cc), whose line-3 TOTALS FROM LAST REPORT cell reads 523.28 - the pair chains correctly and is not a swapped-cover pair."
+ },
+ "escalations": 2,
+ "escalation_note": "p2 amount cell and one-pitch-below control rendered as 600 dpi tight crops; a third 600 dpi crop read the whole row across all four columns.",
+ "notes": "index.csv calls the candidate 'Howell', office 'Assessor'; the cover's 'Full Name of Candidate' reads Kathleen C. Howell and 'Name of Office' reads 'Cache County Assessor' - agrees. Cover date 10-13-2020, clerk stamp visible bottom right. Form family confirmed carr_5_5_pg (footer '5-5-PG / Carr Printing Company, Bountiful, Utah', cites Cache County Code 2.21). Candidate street address, ZIP and both phone numbers are printed in the clear on the cover and are discarded at read time. This filing pairs with key a288a7cc (same filer, same 2020 cycle, later report).",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "Filing fee",
+   "amount": "523.28",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,8.98,11.50,2.79@p2",
+   "note": "Re-read at 600 dpi in a tight amount-cell crop: 523.28 identical. Carr Form B has no in-kind column, so in_kind is false by form, not by inference."
+  }
+ ]
+}

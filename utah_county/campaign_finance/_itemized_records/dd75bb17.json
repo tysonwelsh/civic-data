@@ -1,0 +1,2202 @@
+[
+ {
+  "index_path": "raw/2020/2020_SakievichTom6.23.20_Redacted.pdf",
+  "key": "dd75bb17",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah r9_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "itemized_pages_A": "2,3",
+  "itemized_pages_B": "4,5",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "line 1 'TOTAL CONTRIBUTIONS RECEIVED' Column A 'Total this Period' (28,413.88) on the p6 SUMMARY PAGE, which is also the ledger's own printed 'Donations: $ 28,413.88' at the foot of Schedule A sheet 2, and is repeated at summary line 4 and line 5",
+    "detail": "63 contribution rows over two ledger sheets. Sheet 1 (p2, 34 rows) sums to 9,468.85; sheet 2 (p3, 29 rows) sums to 18,945.03; 9,468.85 + 18,945.03 = 28,413.88 exactly = the ledger's own printed 'Donations' total = summary line 1 Column A = line 4 = line 5 (line 3, Balance at Beginning, is a typed 0). A SECOND, INDEPENDENT arithmetic gate exists on the same ledger and also closes: the filer's 'Amt Loaned' column (28 rows) sums to 9,656.88, which is the figure printed beside the Donations total, and the printed 18,757.00 below it equals 28,413.88 - 9,656.88 = the non-loan contributions, which is exactly what the 35 rows with a bare dash in that column sum to. Column B 'Year-to-Date Total' is EMPTY on the summary page for both line 1 and line 2, so no cumulative figure is claimed or summed. THE LOAN QUESTION, run through the ladder and not the word (ADDENDUM B3): the 28 candidate rows marked in 'Amt Loaned' are INSIDE the printed 28,413.88 that the summary promotes as Column A, and line 3 (Balance at Beginning) is 0, so there is no beginning-balance slot they could have been booked into \u2014 they ARE itemized contribution rows and are published as such."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "line 2 'TOTAL EXPENDITURES MADE' Column A 'Total this Period' (21,410.78) on the p6 SUMMARY PAGE, which is also the ledger's own printed 'Summary of Expenditures/Loan Repayments: $ 21,410.78' at the foot of Schedule B sheet 2, and is repeated at summary line 6",
+    "detail": "55 expenditure rows over two ledger sheets. Sheet 1 (p4, 36 rows) sums to 8,983.78; sheet 2 (p5, 19 rows) sums to 12,427.00; 8,983.78 + 12,427.00 = 21,410.78 exactly = the ledger's printed total = summary line 2 Column A = line 6. The whole ladder closes on the page: line 3 (0) + line 4 (28,413.88) = line 5 (28,413.88), minus line 6 (21,410.78) = line 7 'Balance at Close' 7,003.10 as printed. Column B is empty on line 2, so nothing cumulative is summed."
+   }
+  },
+  "in_kind_convention": "monetary-only \u2014 the ledger has no in-kind column, no row is annotated in-kind, and no gift-in-kind line appears on the summary page. Both conventions were tested on both sides: monetary-only closes exactly on each side (28,413.88 / 21,410.78) and there is no in-kind figure to add, so monetary-plus-in-kind gives the same sums. The filer's separate 'Amt Loaned' column is a LOAN marker, not an in-kind marker, and is never added to the contribution sum (it is a subset of it).",
+  "escalations": 0,
+  "escalation_note": "No figure needed a legibility escalation: every schedule sheet is the filer's own typed spreadsheet reproduced crisply, and the two independent printed totals per side (plus the loan/non-loan split on the contribution side) confirmed all 118 amounts to the cent on the first reading. The eleven geometry crops listed in the frames were rendered at 900 dpi and rotated for reading.",
+  "frames": {
+   "2": {
+    "axis": "x",
+    "cell": [
+     16.0,
+     25.0
+    ],
+    "cells": [
+     [
+      83.21,
+      92.75
+     ],
+     [
+      61.5,
+      79.61
+     ],
+     [
+      30.06,
+      58.21
+     ],
+     [
+      16.0,
+      25.0
+     ],
+     [
+      6.89,
+      15.24
+     ]
+    ],
+    "rows": [
+     [
+      12.07,
+      13.6
+     ],
+     [
+      14.36,
+      15.89
+     ],
+     [
+      16.72,
+      18.25
+     ],
+     [
+      18.95,
+      20.48
+     ],
+     [
+      21.25,
+      22.78
+     ],
+     [
+      23.6,
+      25.13
+     ],
+     [
+      25.9,
+      27.43
+     ],
+     [
+      28.19,
+      29.84
+     ],
+     [
+      30.55,
+      32.14
+     ],
+     [
+      32.9,
+      34.49
+     ],
+     [
+      35.31,
+      36.73
+     ],
+     [
+      37.61,
+      39.14
+     ],
+     [
+      40.02,
+      41.38
+     ],
+     [
+      42.2,
+      43.73
+     ],
+     [
+      44.5,
+      46.03
+     ],
+     [
+      46.79,
+      48.32
+     ],
+     [
+      49.09,
+      50.68
+     ],
+     [
+      51.44,
+      52.97
+     ],
+     [
+      53.68,
+      55.21
+     ],
+     [
+      56.03,
+      57.5
+     ],
+     [
+      58.33,
+      59.86
+     ],
+     [
+      60.62,
+      62.15
+     ],
+     [
+      62.92,
+      64.51
+     ],
+     [
+      65.27,
+      66.8
+     ],
+     [
+      67.57,
+      69.16
+     ],
+     [
+      69.86,
+      71.45
+     ],
+     [
+      72.22,
+      73.87
+     ],
+     [
+      74.51,
+      76.1
+     ],
+     [
+      76.81,
+      78.34
+     ],
+     [
+      79.11,
+      80.69
+     ],
+     [
+      81.46,
+      82.93
+     ],
+     [
+      83.76,
+      85.23
+     ],
+     [
+      85.99,
+      87.52
+     ],
+     [
+      88.35,
+      89.82
+     ]
+    ],
+    "measure_note": "This sheet is the filer's OWN typed landscape ledger, bound into the county filing ROTATED 90 degrees, so in the raw poppler render the text reads bottom-to-top and the TABLE ROWS ADVANCE ALONG X (axis='x'), ASCENDING left-to-right \u2014 the mirror of the weber-rtl-rows shape recorded in ADDENDUM D6, which descends. rowbands.py returns ZERO printed rules on this page (there are none: the ledger is ruled only by whitespace), so the bands were measured by INK PROJECTION in the readable (clockwise-rotated) frame, restricted to the money column, and converted back to the raw frame with x_raw = y_rot and y_raw = 100 - x_rot. The projection found 35 bands: band 1 (raw x 7.71-8.95) is the printed column-header strip ('Date / Donors' Name / Mailing Address / Amount / Amt Loaned') and the remaining 34 are the data rows stored here, matching the 34 entries read off the page. `cells` are the five column bands in raw-y (Date 83.21-92.75, Donors' Name 61.50-79.61, Mailing Address 30.06-58.21, Amount 16.00-25.00, Amt Loaned 6.89-15.24); `cell` is the AMOUNT column, deliberately NOT the 'Amt Loaned' column beside it. TWO-CROP PROOF at 900 dpi --value (crops rendered then rotated for reading): the row-1 box pct:12.07,16.0,1.53,9.0@p2 rendered '$ 210.00' (recorded 210.00) and the row-34 box pct:88.35,16.0,1.47,9.0@p2 rendered '$ 100.00' (recorded 100.00). BOTH CONTROLS: the row-1 crop IS the first-entry control and shows the first written entry in band 1 immediately after the header strip (no skipped line, no banner, no voided row); the ONE-PAST-THE-END control pct:90.6,16.0,1.6,9.0@p2 rendered COMPLETELY BLANK, so nothing continues past the last band."
+   },
+   "3": {
+    "axis": "x",
+    "cell": [
+     16.0,
+     25.0
+    ],
+    "cells": [
+     [
+      84.58,
+      92.61
+     ],
+     [
+      61.59,
+      79.61
+     ],
+     [
+      29.52,
+      58.21
+     ],
+     [
+      16.0,
+      25.0
+     ],
+     [
+      7.03,
+      15.19
+     ]
+    ],
+    "rows": [
+     [
+      7.59,
+      9.18
+     ],
+     [
+      9.89,
+      11.48
+     ],
+     [
+      12.12,
+      13.71
+     ],
+     [
+      14.48,
+      16.07
+     ],
+     [
+      16.77,
+      18.3
+     ],
+     [
+      19.01,
+      20.6
+     ],
+     [
+      21.31,
+      22.95
+     ],
+     [
+      23.66,
+      25.25
+     ],
+     [
+      25.96,
+      27.55
+     ],
+     [
+      28.31,
+      29.9
+     ],
+     [
+      30.61,
+      32.25
+     ],
+     [
+      32.96,
+      34.55
+     ],
+     [
+      35.31,
+      36.96
+     ],
+     [
+      37.61,
+      39.32
+     ],
+     [
+      39.91,
+      41.49
+     ],
+     [
+      42.26,
+      43.85
+     ],
+     [
+      44.56,
+      46.2
+     ],
+     [
+      46.85,
+      48.44
+     ],
+     [
+      49.15,
+      50.74
+     ],
+     [
+      51.5,
+      53.15
+     ],
+     [
+      53.8,
+      55.33
+     ],
+     [
+      56.09,
+      57.74
+     ],
+     [
+      58.39,
+      59.98
+     ],
+     [
+      60.68,
+      62.33
+     ],
+     [
+      62.98,
+      64.63
+     ],
+     [
+      65.33,
+      66.98
+     ],
+     [
+      67.63,
+      69.22
+     ],
+     [
+      69.92,
+      71.57
+     ],
+     [
+      72.34,
+      73.87
+     ],
+     [
+      74.57,
+      76.16
+     ]
+    ],
+    "measure_note": "This sheet is the filer's OWN typed landscape ledger, bound into the county filing ROTATED 90 degrees, so in the raw poppler render the text reads bottom-to-top and the TABLE ROWS ADVANCE ALONG X (axis='x'), ASCENDING left-to-right \u2014 the mirror of the weber-rtl-rows shape recorded in ADDENDUM D6, which descends. rowbands.py returns ZERO printed rules on this page (there are none: the ledger is ruled only by whitespace), so the bands were measured by INK PROJECTION in the readable (clockwise-rotated) frame, restricted to the money column, and converted back to the raw frame with x_raw = y_rot and y_raw = 100 - x_rot. This sheet has NO header strip (it continues the previous sheet), so the projection's 31 bands are 30 ledger lines plus, at raw x 79.22-80.81, the printed 'Donations:' TOTAL line. The 30 stored bands are the ledger lines: 29 carry entries and band 30 carries a bare dash in both money columns (an unused Excel line, not an entry). TWO-CROP PROOF at 900 dpi --value: the row-1 box pct:7.59,16.0,1.59,9.0@p3 rendered '$ 50.00' (recorded 50.00, Joanna Curtis) and the row-29 box pct:72.34,16.0,1.53,9.0@p3 rendered '$ 53.61' (recorded 53.61). BOTH CONTROLS: row 1 is the first-entry control and the ONE-PAST-THE-END control pct:74.57,16.0,1.59,9.0@p3 rendered '$ -' \u2014 a bare dash, i.e. an empty ledger line, NOT a figure, so no entry hides past the last transcribed row. A further control crop of the total line (pct:79.22,16.0,1.59,9.0@p3) rendered '$ 28,413.88', confirming that figure is the ledger's own printed total and not a row (the ADDENDUM H4 test: it equals the sum of every row on both sheets)."
+   },
+   "4": {
+    "axis": "x",
+    "cell": [
+     6.0,
+     15.2
+    ],
+    "cells": [
+     [
+      82.71,
+      91.74
+     ],
+     [
+      44.94,
+      78.15
+     ],
+     [
+      17.79,
+      42.66
+     ],
+     [
+      6.0,
+      15.2
+     ]
+    ],
+    "rows": [
+     [
+      12.6,
+      14.07
+     ],
+     [
+      14.77,
+      16.24
+     ],
+     [
+      16.95,
+      18.42
+     ],
+     [
+      19.13,
+      20.6
+     ],
+     [
+      21.37,
+      22.84
+     ],
+     [
+      23.54,
+      25.07
+     ],
+     [
+      25.84,
+      27.25
+     ],
+     [
+      28.02,
+      29.49
+     ],
+     [
+      30.25,
+      31.72
+     ],
+     [
+      32.49,
+      33.96
+     ],
+     [
+      34.67,
+      36.2
+     ],
+     [
+      36.9,
+      38.43
+     ],
+     [
+      39.14,
+      40.61
+     ],
+     [
+      41.32,
+      42.79
+     ],
+     [
+      43.56,
+      45.03
+     ],
+     [
+      45.91,
+      47.38
+     ],
+     [
+      48.26,
+      49.74
+     ],
+     [
+      50.44,
+      51.91
+     ],
+     [
+      52.68,
+      54.15
+     ],
+     [
+      54.86,
+      56.39
+     ],
+     [
+      57.09,
+      58.62
+     ],
+     [
+      59.27,
+      60.74
+     ],
+     [
+      61.33,
+      62.8
+     ],
+     [
+      63.39,
+      64.86
+     ],
+     [
+      65.63,
+      67.1
+     ],
+     [
+      67.8,
+      69.28
+     ],
+     [
+      70.04,
+      71.51
+     ],
+     [
+      72.22,
+      73.75
+     ],
+     [
+      74.46,
+      75.99
+     ],
+     [
+      76.63,
+      78.1
+     ],
+     [
+      78.81,
+      80.34
+     ],
+     [
+      81.05,
+      82.46
+     ],
+     [
+      83.23,
+      84.7
+     ],
+     [
+      85.4,
+      86.99
+     ],
+     [
+      87.58,
+      89.11
+     ],
+     [
+      89.82,
+      91.29
+     ]
+    ],
+    "measure_note": "This sheet is the filer's OWN typed landscape ledger, bound into the county filing ROTATED 90 degrees, so in the raw poppler render the text reads bottom-to-top and the TABLE ROWS ADVANCE ALONG X (axis='x'), ASCENDING left-to-right \u2014 the mirror of the weber-rtl-rows shape recorded in ADDENDUM D6, which descends. rowbands.py returns ZERO printed rules on this page (there are none: the ledger is ruled only by whitespace), so the bands were measured by INK PROJECTION in the readable (clockwise-rotated) frame, restricted to the money column, and converted back to the raw frame with x_raw = y_rot and y_raw = 100 - x_rot. The projection found 37 bands: band 1 (raw x 8.00-9.54) is the printed column-header strip ('Date / Name/Nature of Expense / Mailling Address / Expenditures') and the remaining 36 are the data rows stored here, matching the 36 entries read off the page. `cells` are the four column bands in raw-y. TWO-CROP PROOF at 900 dpi --value: the row-1 box pct:12.60,6.0,1.47,9.2@p4 rendered '$ 200.00' (recorded 200.00) and the row-36 box pct:89.82,6.0,1.47,9.2@p4 rendered '$ 25.00' (recorded 25.00). BOTH CONTROLS: row 1 is the first-entry control (first entry sits in the first band after the header); the ONE-PAST-THE-END control pct:92.2,6.0,1.5,9.2@p4 rendered COMPLETELY BLANK."
+   },
+   "5": {
+    "axis": "x",
+    "cell": [
+     5.5,
+     17.5
+    ],
+    "cells": [
+     [
+      82.71,
+      91.74
+     ],
+     [
+      44.94,
+      78.15
+     ],
+     [
+      17.79,
+      42.66
+     ],
+     [
+      5.5,
+      17.5
+     ]
+    ],
+    "rows": [
+     [
+      7.71,
+      9.18
+     ],
+     [
+      9.89,
+      11.42
+     ],
+     [
+      12.12,
+      13.6
+     ],
+     [
+      14.3,
+      15.77
+     ],
+     [
+      16.48,
+      17.95
+     ],
+     [
+      18.66,
+      20.19
+     ],
+     [
+      20.89,
+      22.42
+     ],
+     [
+      23.07,
+      24.6
+     ],
+     [
+      25.37,
+      26.84
+     ],
+     [
+      27.55,
+      29.02
+     ],
+     [
+      29.78,
+      31.31
+     ],
+     [
+      32.08,
+      33.49
+     ],
+     [
+      34.26,
+      35.73
+     ],
+     [
+      36.43,
+      37.96
+     ],
+     [
+      38.67,
+      40.14
+     ],
+     [
+      40.85,
+      42.38
+     ],
+     [
+      43.08,
+      44.61
+     ],
+     [
+      45.32,
+      46.79
+     ],
+     [
+      47.5,
+      48.97
+     ]
+    ],
+    "measure_note": "This sheet is the filer's OWN typed landscape ledger, bound into the county filing ROTATED 90 degrees, so in the raw poppler render the text reads bottom-to-top and the TABLE ROWS ADVANCE ALONG X (axis='x'), ASCENDING left-to-right \u2014 the mirror of the weber-rtl-rows shape recorded in ADDENDUM D6, which descends. rowbands.py returns ZERO printed rules on this page (there are none: the ledger is ruled only by whitespace), so the bands were measured by INK PROJECTION in the readable (clockwise-rotated) frame, restricted to the money column, and converted back to the raw frame with x_raw = y_rot and y_raw = 100 - x_rot. This sheet has no header strip; the projection's 21 bands are the 19 ledger lines plus the two bands of the printed 'Summary of Expenditures/Loan Repayments:' total line at raw x 51.44-53.56. The 19 stored bands are the entries. TWO-CROP PROOF at 900 dpi --value: the row-1 box pct:7.71,5.5,1.47,12.0@p5 rendered '$ 50.00' (recorded 50.00) and the row-19 box pct:47.50,5.5,1.47,12.0@p5 rendered '$ 231.78' (recorded 231.78). BOTH CONTROLS: row 1 is the first-entry control; the ONE-PAST-THE-END control pct:49.6,5.5,1.5,12.0@p5 rendered BLANK apart from the printed rule that heads the total line, and a further crop of the total line itself (pct:52.03,5.5,1.53,12.0@p5) rendered '...nts: $ 21,410.78', confirming it is the ledger's printed total, not a row."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 2,
+    "row": 1,
+    "date": "February 22, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "210.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "2",
+    "page": 2,
+    "row": 2,
+    "date": "February 22, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "3",
+    "page": 2,
+    "row": 3,
+    "date": "February 28, 2020",
+    "donor_raw": "Thomas V. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "115.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. donor cell names the candidate alone on this row (elsewhere the joint form is used); kept verbatim. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "4",
+    "page": 2,
+    "row": 4,
+    "date": "March 2, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "80.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "5",
+    "page": 2,
+    "row": 5,
+    "date": "March 2, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "995.96",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "6",
+    "page": 2,
+    "row": 6,
+    "date": "March 4, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "29.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "7",
+    "page": 2,
+    "row": 7,
+    "date": "March 5, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "879.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "8",
+    "page": 2,
+    "row": 8,
+    "date": "March 9, 2020",
+    "donor_raw": "Kyle Fuller",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "9",
+    "page": 2,
+    "row": 9,
+    "date": "March 16, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "350.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "10",
+    "page": 2,
+    "row": 10,
+    "date": "March 17, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "647.20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. same figure as the Schedule B filing-fee expenditure of the same week \u2014 the candidate funded the fee himself; observation only, never used to settle another filing's figure (ADDENDUM E1). Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "11",
+    "page": 2,
+    "row": 11,
+    "date": "March 23, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "53.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "12",
+    "page": 2,
+    "row": 12,
+    "date": "March 25, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "350.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "13",
+    "page": 2,
+    "row": 13,
+    "date": "April 7, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "14",
+    "page": 2,
+    "row": 14,
+    "date": "April 14, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "33.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "15",
+    "page": 2,
+    "row": 15,
+    "date": "April 19, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "16.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "16",
+    "page": 2,
+    "row": 16,
+    "date": "April 19, 2020",
+    "donor_raw": "Renee Braddy",
+    "donor_city": "Heber City",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "17",
+    "page": 2,
+    "row": 17,
+    "date": "April 19, 2020",
+    "donor_raw": "Aaron Bullen",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "18",
+    "page": 2,
+    "row": 18,
+    "date": "April 30, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "19",
+    "page": 2,
+    "row": 19,
+    "date": "May 1, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "43.93",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "20",
+    "page": 2,
+    "row": 20,
+    "date": "May 5, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "160.88",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "21",
+    "page": 2,
+    "row": 21,
+    "date": "May 6, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "130.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "22",
+    "page": 2,
+    "row": 22,
+    "date": "May 8, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "23",
+    "page": 2,
+    "row": 23,
+    "date": "May 8, 2020",
+    "donor_raw": "Rod Mann",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "24",
+    "page": 2,
+    "row": 24,
+    "date": "May 8, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "130.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "25",
+    "page": 2,
+    "row": 25,
+    "date": "May 11, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "1414.89",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "26",
+    "page": 2,
+    "row": 26,
+    "date": "May 17, 2020",
+    "donor_raw": "Brant & Marjorie Barlow",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "15.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "27",
+    "page": 2,
+    "row": 27,
+    "date": "May 18, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "1414.89",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "28",
+    "page": 2,
+    "row": 28,
+    "date": "May 20, 2020",
+    "donor_raw": "Marvin L. Wharton",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "29",
+    "page": 2,
+    "row": 29,
+    "date": "May 20, 2020",
+    "donor_raw": "Kyle Bateman",
+    "donor_city": "Mapleton",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "30",
+    "page": 2,
+    "row": 30,
+    "date": "May 20, 2020",
+    "donor_raw": "Matthew W. Bell Campaign",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. a candidate committee, transcribed exactly as the donor cell names it. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "31",
+    "page": 2,
+    "row": 31,
+    "date": "May 20, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "16.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "32",
+    "page": 2,
+    "row": 32,
+    "date": "May 23, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "53.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "33",
+    "page": 2,
+    "row": 33,
+    "date": "May 23, 2020",
+    "donor_raw": "Lowell C. Nelson",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "34",
+    "page": 2,
+    "row": 34,
+    "date": "May 24, 2020",
+    "donor_raw": "Danielle H. Sakievich",
+    "donor_city": "Los Alamitos",
+    "donor_state": "CA",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. out-of-state donor sharing the candidate's surname; the 'Amt Loaned' cell is a bare dash, so this is a contribution, not a loan. LAST row of this sheet and the row-34 geometry proof, which rendered '$ 100.00'. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "35",
+    "page": 3,
+    "row": 1,
+    "date": "May 24, 2020",
+    "donor_raw": "Joanna Curtis",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "36",
+    "page": 3,
+    "row": 2,
+    "date": "May 24, 2020",
+    "donor_raw": "Penny Roberts",
+    "donor_city": "Alpine",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "37",
+    "page": 3,
+    "row": 3,
+    "date": "May 25, 2020",
+    "donor_raw": "Keith & Marvely Grover",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "38",
+    "page": 3,
+    "row": 4,
+    "date": "May 26, 2020",
+    "donor_raw": "Micah & Carly Lisonbee",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "39",
+    "page": 3,
+    "row": 5,
+    "date": "May 26, 2020",
+    "donor_raw": "Jim & Doreen Stout",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "12.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "40",
+    "page": 3,
+    "row": 6,
+    "date": "May 28, 2020",
+    "donor_raw": "Cathy & Dave Young",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "41",
+    "page": 3,
+    "row": 7,
+    "date": "June 1, 2020",
+    "donor_raw": "James Cunningham",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. the Mailing Address cell holds an EMAIL ADDRESS, not a postal address \u2014 a 7th cause of a blank donor city/state (ADDENDUM I4's 'the cell contains something that is not an address at all'). City/state honestly blank; the email itself is personal contact information and is deliberately not transcribed."
+   },
+   {
+    "line_no": "42",
+    "page": 3,
+    "row": 8,
+    "date": "June 2, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "43",
+    "page": 3,
+    "row": 9,
+    "date": "June 2, 2020",
+    "donor_raw": "Kristen Chevier",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "44",
+    "page": 3,
+    "row": 10,
+    "date": "June 2, 2020",
+    "donor_raw": "Tara Tarbet",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. the address cell is a 'c/o' care-of line at another donor's address; the city/state printed there are carried, and the fact that it is a c/o line is recorded here rather than inferred away. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "45",
+    "page": 3,
+    "row": 11,
+    "date": "June 2, 2020",
+    "donor_raw": "Anonymous",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. the donor cell reads 'Anonymous' \u2014 transcribed verbatim as the document reports it, never expanded; its address cell is a 'c/o' care-of line whose printed city/state are carried. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "46",
+    "page": 3,
+    "row": 12,
+    "date": "June 2, 2020",
+    "donor_raw": "Tim & Janet Irwin",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "47",
+    "page": 3,
+    "row": 13,
+    "date": "June 2, 2020",
+    "donor_raw": "Craig Nielson",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "48",
+    "page": 3,
+    "row": 14,
+    "date": "June 2, 2020",
+    "donor_raw": "Mark Weldon, Int'l Industrial Solutions",
+    "donor_city": "Lindon",
+    "donor_state": "UT",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. donor cell names an individual and his company together; kept verbatim as one donor as printed. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "49",
+    "page": 3,
+    "row": 15,
+    "date": "June 3, 2020",
+    "donor_raw": "Trace Lund",
+    "donor_city": "Mapleton",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "50",
+    "page": 3,
+    "row": 16,
+    "date": "June 4, 2020",
+    "donor_raw": "Todd Cope",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "51",
+    "page": 3,
+    "row": 17,
+    "date": "June 8, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "1433.34",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "52",
+    "page": 3,
+    "row": 18,
+    "date": "June 9, 2020",
+    "donor_raw": "Brian Morgan",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "53",
+    "page": 3,
+    "row": 19,
+    "date": "June 9, 2020",
+    "donor_raw": "Renee Braddy",
+    "donor_city": "Heber City",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. second gift from the donor at p2 row 16. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "54",
+    "page": 3,
+    "row": 20,
+    "date": "June 11, 2020",
+    "donor_raw": "Mr. or Mrs. Richard S. Losee",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. the address cell is a rural route and box number; only the printed city/state are carried. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "55",
+    "page": 3,
+    "row": 21,
+    "date": "June 12, 2020",
+    "donor_raw": "Anonymous",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. donor cell reads 'Anonymous' and the address cell reads 'Private' \u2014 neither redacted by the county nor left empty by the filer: the filer WROTE 'Private' where an address goes. City/state honestly blank."
+   },
+   {
+    "line_no": "56",
+    "page": 3,
+    "row": 22,
+    "date": "June 13, 2020",
+    "donor_raw": "Kyle & Kimberly Roberts",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "57",
+    "page": 3,
+    "row": 23,
+    "date": "June 15, 2020",
+    "donor_raw": "Michael Taylor",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "10.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "58",
+    "page": 3,
+    "row": 24,
+    "date": "June 17, 2020",
+    "donor_raw": "Janene Lunt",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "59",
+    "page": 3,
+    "row": 25,
+    "date": "June 17, 2020",
+    "donor_raw": "Richard & Karla Hjorth",
+    "donor_city": "Mapleton",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "60",
+    "page": 3,
+    "row": 26,
+    "date": "June 17, 2020",
+    "donor_raw": "Scot & Stacey Hazard",
+    "donor_city": "Eagle Mountain",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "61",
+    "page": 3,
+    "row": 27,
+    "date": "June 20, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "16.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "62",
+    "page": 3,
+    "row": 28,
+    "date": "June 23, 2020",
+    "donor_raw": "Brant & Marjorie Barlow",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no figure in the filer's 'Amt Loaned' column (a bare dash), so this is an outside cash contribution. second gift from the donor at p2 row 26. Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   },
+   {
+    "line_no": "63",
+    "page": 3,
+    "row": 29,
+    "date": "June 23, 2020",
+    "donor_raw": "Thomas V. & Marji D. Sakievich",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "53.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own 'Amt Loaned' column carries the identical figure on this row, i.e. he books it as a candidate LOAN to the campaign. The LADDER decides its class, not the word: the ledger's printed 'Donations' total 28,413.88 (= summary line 1 Column A) INCLUDES it, and the loan column's own total 9,656.88 plus the non-loan total 18,757.00 reproduce that 28,413.88 exactly \u2014 so it IS an itemized contribution row. LAST entry of the contribution side and the row-29 geometry proof, which rendered '$ 53.61'. The printed row BELOW it (band 30) carries a bare dash in both money columns \u2014 an unused ledger line, not an entry (a nil mark is not a numeral). Address printed in the clear on this typed ledger (the county redacted only the cover signature); reduced to city/state at read time."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "February 22, 2020",
+    "vendor_raw": "Brandon Beckham",
+    "purpose": "8x11 Flyer Design",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "February 22, 2020",
+    "vendor_raw": "Brandon Beckahm",
+    "purpose": "18x24 Yard Sign Design",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation. The payee's surname is spelled 'Beckahm' on this row and 'Beckham' on rows 1/5/12/19 \u2014 the filer's own inconsistency, transcribed verbatim, not adjudicated."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "March 2, 2020",
+    "vendor_raw": "Copies Plus",
+    "purpose": "Print 2,500 (back-to-back) 8x11\" Flyers",
+    "amount": "995.96",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "March 4, 2020",
+    "vendor_raw": "Google/Domain Name Renewal",
+    "amount": "29.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "March 5, 2020",
+    "vendor_raw": "Brandon Beckham",
+    "purpose": "Website Code Work & Build",
+    "amount": "879.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation."
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "March 8, 2020",
+    "vendor_raw": "Google/Domain Pay",
+    "amount": "12.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "March 17, 2020",
+    "vendor_raw": "Utah County Clerk/Auditor",
+    "purpose": "Candidate Filing Fee",
+    "amount": "647.20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation. The 2020 County Commission filing fee, recorded as an OBSERVATION only \u2014 per ADDENDUM E1/F5 the fee is office- and cycle-specific and is never used to corroborate a figure on another filing."
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "March 19, 2020",
+    "vendor_raw": "Godaddy Website Tools",
+    "amount": "83.88",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "9",
+    "page": 4,
+    "row": 9,
+    "date": "March 19, 2020",
+    "vendor_raw": "Zoom Virtual Meets & Greets Sign Up",
+    "amount": "166.23",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "10",
+    "page": 4,
+    "row": 10,
+    "date": "March 23, 2020",
+    "vendor_raw": "MailChimp",
+    "purpose": "30-day email subscription (x5,000)",
+    "amount": "53.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation."
+   },
+   {
+    "line_no": "11",
+    "page": 4,
+    "row": 11,
+    "date": "March 23, 2020",
+    "vendor_raw": "Godaddy Website Tools Upgrade",
+    "amount": "83.88",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "12",
+    "page": 4,
+    "row": 12,
+    "date": "April 7, 2020",
+    "vendor_raw": "Brandon Beckham",
+    "purpose": "\"Convention\" Video & Publishing",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation."
+   },
+   {
+    "line_no": "13",
+    "page": 4,
+    "row": 13,
+    "date": "April 14, 2020",
+    "vendor_raw": "Copies Plus",
+    "purpose": "Printing 2 Sets of 2 versions of Yard Sign Drafts",
+    "amount": "33.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation."
+   },
+   {
+    "line_no": "14",
+    "page": 4,
+    "row": 14,
+    "date": "April 19, 2020",
+    "vendor_raw": "Zoom Video Communications",
+    "purpose": "monthly subscription",
+    "amount": "16.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the purpose is the filer's own trailing parenthetical and the split follows it."
+   },
+   {
+    "line_no": "15",
+    "page": 4,
+    "row": 15,
+    "date": "April 23, 2020",
+    "vendor_raw": "MailChimp",
+    "purpose": "30-day email subscription (x5,000)",
+    "amount": "53.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation."
+   },
+   {
+    "line_no": "16",
+    "page": 4,
+    "row": 16,
+    "date": "April 30, 2020",
+    "vendor_raw": "Utah County Government (Elections)",
+    "purpose": "2d County/Precinct Map",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation. '(Elections)' is part of the payee name, not the purpose \u2014 the purpose follows the colon."
+   },
+   {
+    "line_no": "17",
+    "page": 4,
+    "row": 17,
+    "date": "May 1, 2020",
+    "vendor_raw": "Copies Plus",
+    "purpose": "Printing 3 Sets of final Yard Sign draft",
+    "amount": "43.93",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation."
+   },
+   {
+    "line_no": "18",
+    "page": 4,
+    "row": 18,
+    "date": "May 5, 2020",
+    "vendor_raw": "Alex Valente Photography",
+    "purpose": "for posters, etc.",
+    "amount": "160.88",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the purpose is the filer's own trailing parenthetical and the split follows it."
+   },
+   {
+    "line_no": "19",
+    "page": 4,
+    "row": 19,
+    "date": "May 8, 2020",
+    "vendor_raw": "Brandon Beckham",
+    "purpose": "Facebook Ads (x6), Website, Mailer",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation."
+   },
+   {
+    "line_no": "20",
+    "page": 4,
+    "row": 20,
+    "date": "May 11, 2020",
+    "vendor_raw": "Wright Signs",
+    "purpose": "1st Half for 700 Signs & 250 H Stakes",
+    "amount": "1414.89",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation."
+   },
+   {
+    "line_no": "21",
+    "page": 4,
+    "row": 21,
+    "date": "May 15, 2020",
+    "vendor_raw": "Wright Signs",
+    "purpose": "2d Half for 700 Signs & 250 H Stakes",
+    "amount": "1414.90",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation. NOTE the pair: the 1st half is 1,414.89 and the 2d half 1,414.90 (one cent apart) \u2014 both read as printed on a typed sheet; the side closes to the cent with these values."
+   },
+   {
+    "line_no": "22",
+    "page": 4,
+    "row": 22,
+    "date": "May 19, 2020",
+    "vendor_raw": "Zoom Video Communications",
+    "purpose": "monthly subscription",
+    "amount": "16.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the purpose is the filer's own trailing parenthetical and the split follows it."
+   },
+   {
+    "line_no": "23",
+    "page": 4,
+    "row": 23,
+    "date": "May 23, 2020",
+    "vendor_raw": "MailChimp",
+    "purpose": "30-day email subscription (x5,000)",
+    "amount": "53.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation."
+   },
+   {
+    "line_no": "24",
+    "page": 4,
+    "row": 24,
+    "date": "May 27, 2020",
+    "vendor_raw": "Al Azad's Design Video Production",
+    "amount": "450.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "25",
+    "page": 4,
+    "row": 25,
+    "date": "May 28, 2020",
+    "vendor_raw": "Blip Billboard",
+    "amount": "101.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "26",
+    "page": 4,
+    "row": 26,
+    "date": "May 29, 2020",
+    "vendor_raw": "Blip Billboard",
+    "amount": "72.95",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "27",
+    "page": 4,
+    "row": 27,
+    "date": "May 30, 2020",
+    "vendor_raw": "Godaddy Monthly Fee",
+    "amount": "9.59",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "28",
+    "page": 4,
+    "row": 28,
+    "date": "May 31, 2020",
+    "vendor_raw": "Blip Billboard",
+    "amount": "123.53",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "29",
+    "page": 4,
+    "row": 29,
+    "date": "June 2, 2020",
+    "vendor_raw": "Blip Billboard",
+    "amount": "97.32",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "30",
+    "page": 4,
+    "row": 30,
+    "date": "June 3, 2020",
+    "vendor_raw": "Facebook Ads",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "31",
+    "page": 4,
+    "row": 31,
+    "date": "June 3, 2020",
+    "vendor_raw": "Fedex",
+    "purpose": "Odd Copies",
+    "amount": "1.58",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the payee and the purpose are separated here by the filer's own colon, and the split follows that punctuation."
+   },
+   {
+    "line_no": "32",
+    "page": 4,
+    "row": 32,
+    "date": "June 4, 2020",
+    "vendor_raw": "Facebook Ads",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "33",
+    "page": 4,
+    "row": 33,
+    "date": "June 5, 2020",
+    "vendor_raw": "Facebook Ads",
+    "amount": "35.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "34",
+    "page": 4,
+    "row": 34,
+    "date": "June 5, 2020",
+    "vendor_raw": "SBD Printing Yard Signs",
+    "amount": "1028.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "35",
+    "page": 4,
+    "row": 35,
+    "date": "June 5, 2020",
+    "vendor_raw": "Blip Billboard",
+    "amount": "101.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "36",
+    "page": 4,
+    "row": 36,
+    "date": "June 5, 2020",
+    "vendor_raw": "Facebook Ads",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank. LAST row of this sheet and the row-36 geometry proof, which rendered '$ 25.00'."
+   },
+   {
+    "line_no": "37",
+    "page": 5,
+    "row": 1,
+    "date": "June 6, 2020",
+    "vendor_raw": "Facebook Ads",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "38",
+    "page": 5,
+    "row": 2,
+    "date": "June 8, 2020",
+    "vendor_raw": "Blip Billboard",
+    "amount": "125.07",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "39",
+    "page": 5,
+    "row": 3,
+    "date": "June 8, 2020",
+    "vendor_raw": "Facebook Ads",
+    "amount": "75.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "40",
+    "page": 5,
+    "row": 4,
+    "date": "June 10, 2020",
+    "vendor_raw": "Facebook Ads",
+    "amount": "75.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "41",
+    "page": 5,
+    "row": 5,
+    "date": "June 10, 2020",
+    "vendor_raw": "Stratics Networks",
+    "amount": "404.02",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "42",
+    "page": 5,
+    "row": 6,
+    "date": "June 11, 2020",
+    "vendor_raw": "Blip Billboard",
+    "amount": "132.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "43",
+    "page": 5,
+    "row": 7,
+    "date": "June 11, 2020",
+    "vendor_raw": "Utah State Republican Party",
+    "purpose": "for post card printing, labeling, & postage fees",
+    "amount": "8826.76",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the purpose is the filer's own trailing parenthetical and the split follows it. The filing's largest expenditure."
+   },
+   {
+    "line_no": "44",
+    "page": 5,
+    "row": 8,
+    "date": "June 12, 2020",
+    "vendor_raw": "Facebook Ads",
+    "amount": "125.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "45",
+    "page": 5,
+    "row": 9,
+    "date": "June 12, 2020",
+    "vendor_raw": "Constitutional Conservatives",
+    "purpose": "for printing flyers",
+    "amount": "225.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the purpose is the filer's own trailing parenthetical and the split follows it."
+   },
+   {
+    "line_no": "46",
+    "page": 5,
+    "row": 10,
+    "date": "June 13, 2020",
+    "vendor_raw": "Blip Billboard",
+    "amount": "158.56",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "47",
+    "page": 5,
+    "row": 11,
+    "date": "June 13, 2020",
+    "vendor_raw": "Facebook Ads",
+    "amount": "175.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "48",
+    "page": 5,
+    "row": 12,
+    "date": "June 14, 2020",
+    "vendor_raw": "Blip Billboard",
+    "amount": "340.76",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "49",
+    "page": 5,
+    "row": 13,
+    "date": "June 15, 2020",
+    "vendor_raw": "Facebook Ads",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "50",
+    "page": 5,
+    "row": 14,
+    "date": "June 15, 2020",
+    "vendor_raw": "Blip Billboard",
+    "amount": "303.62",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "51",
+    "page": 5,
+    "row": 15,
+    "date": "June 16, 2020",
+    "vendor_raw": "Blip Billboard",
+    "amount": "288.30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "52",
+    "page": 5,
+    "row": 16,
+    "date": "June 18, 2020",
+    "vendor_raw": "Shop Utah Magazine",
+    "purpose": "inserting & distributing flyers",
+    "amount": "225.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the purpose is the filer's own trailing parenthetical and the split follows it."
+   },
+   {
+    "line_no": "53",
+    "page": 5,
+    "row": 17,
+    "date": "June 19, 2020",
+    "vendor_raw": "Zoom Video Communications",
+    "purpose": "monthly subscription",
+    "amount": "16.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger prints ONE combined 'Name/Nature of Expense' column; the purpose is the filer's own trailing parenthetical and the split follows it."
+   },
+   {
+    "line_no": "54",
+    "page": 5,
+    "row": 18,
+    "date": "June 19, 2020",
+    "vendor_raw": "Facebook Ads",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank."
+   },
+   {
+    "line_no": "55",
+    "page": 5,
+    "row": 19,
+    "date": "June 20, 2020",
+    "vendor_raw": "Blip Billboard",
+    "amount": "231.78",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ledger's single 'Name/Nature of Expense' column states the NATURE only on this row (no payee/purpose separator), so the whole printed cell is carried as the vendor and `purpose` is honestly blank. LAST entry of the expenditure side and the row-19 geometry proof, which rendered '$ 231.78'."
+   }
+  ],
+  "notes": "legacy_colAB cover and SUMMARY PAGE ('FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES', Utah County Code 2-5 & Utah State Code 17-16-6.5) with the filer's OWN typed landscape ledgers substituted for the county's Schedule A and Schedule B sheets \u2014 the landscape analogue of ADDENDUM A2/E5: the county FORM is missing for the schedules, the entries are not, so both sides are 'transcribed' and NEVER 'no-schedule-page'. 6 pages, each classified from its own printed header: p1 cover, p2 ledger headed 'SCHEDULE A 1:2' (handwritten strapline), p3 'SCHEDULE A 2:2', p4 'SCHEDULE B 1:2', p5 'SCHEDULE B 2:2', p6 SUMMARY PAGE. *** THE FLAGGED CLAIM ABOUT THIS FILING IS CONFIRMED FALSE. *** Wave guidance recorded a previous claim that p6 carries a bound-in 2018 Schedule B; p6 is this filing's OWN 2020 Summary Page - its foliation box reads 'Page 6 of 6', its last-name box reads SAKIEVICH and its Date of Report box reads 'JUNE 23, 2020' in the filer's hand, and its line 1/line 2 Column A figures (28,413.88 / 21,410.78) are exactly the totals printed at the foot of this filing's own ledgers. There is no second report in this document and no report_index is set. PAGE-FACE candidate 'Thomas V. Sakievich' (signature block 'THOMAS V SAKIEVICH') vs the channel label 'Tom Sakievich'; page-face office reads 'Utah County Commission' with NO SEAT LETTER while index.csv carries 'County Commission Seat C' from the channel - the seat is NOT inferred, the page face governs, and the cover's own 'District:' and 'Office:' lines are left blank. Political Party is a handwritten 'R'. Report type: 'Seven days preceding the Primary Election' (a hand tick in the box). THE AMENDMENT QUESTION IS AN HONEST BLANK - both the 'Yes' and the 'No' boxes are PRINTED-but-unfilled and neither carries a mark (the cover tranche's transcript reads it the same way); it is never read as 'No'. REDACTION: only the signature line is blacked out by the county; every donor and vendor address on the ledgers is published in the clear, and the reduction to city/state (contributions) and to nothing at all (expenditures) is applied by THIS transcription at read time. THE SCHEDULE B COLUMN IS 'Name/Nature of Expense' - one combined column (the ADDENDUM G3 class), so payee and purpose are assigned BY CONTENT: where the filer separates them with his own colon or a trailing parenthetical the split follows that punctuation; where the cell states only a nature ('Blip Billboard', 'Facebook Ads', 'Godaddy Monthly Fee') the whole cell is the vendor and `purpose` is honestly blank. The ledger's 'Mailling Address' column (the filer's spelling) holds real addresses for some vendors and a bare URL (www.facebook.com, www.zoom.us, www.godaddy.com) for others; expenditure rows carry no address field in this record either way. Three other Sakievich 2020 filings sit in this same chunk (b97c8e59, 0b284ae6, 06be3914). This record was written from THIS document's own six pages alone, before any of them was opened: nothing here was merged with, differenced against, or netted off another document, and the relationship between the four is recorded only where each record's own pages establish it."
+ }
+]

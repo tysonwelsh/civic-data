@@ -1,0 +1,126 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W07.json",
+ "key": "6ac568b3",
+ "index_path": "raw/wayback_forms2018/June 13_Robert E Ford_FCR_06-13-2018.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/June 13_Robert E Ford_FCR_06-13-2018.pdf"
+ ],
+ "sha256_prefix": "855bab808f05f386",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "1200.°°",
+    "cover_over50_cum": "1200.°°",
+    "cover_le50_this": "25.°°",
+    "cover_le50_cum": "25.00",
+    "schedule_total": "1225.°°"
+   },
+   "itemized": "1225.00",
+   "basis": "schedule-total",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "DOUBLE GATE. All three itemized rows (200 + 1000 + 25) sum to 1225.00 = the Form A printed TOTAL. Separately, the OVER-$50 subset alone (200 + 1000) = 1200.00 = cover line 1 in BOTH the THIS and CUMULATIVE columns. The filer itemized his one $25 (sub-$50) gift on Form A anyway and folded it into the schedule total, so the schedule total here equals cover line1 + line2, not line 1; scoring the full row set against line 1 alone would have manufactured a false -25.00 mismatch. Reported against the schedule total, with line 1 reported as the independent over-$50 check. First report of the 2018 cycle (Totals-from-LAST-Report column blank throughout; certified period March 2018 - June 12, 2018), so THIS and CUMULATIVE coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": null,
+    "cover_expense_cum": null,
+    "cover_balance_end": "1225.°°",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total (blank) + cover line 3 carries prose, not a figure",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form B (p3) is a completely blank grid - no ink in any of its ~38 bands and the printed TOTAL line is empty. A real empty schedule, zero rows. Cover line 3 is not a figure: the words 'none to report yet' are written across all three of its columns, so the anchor is BLANK, never zero (the module's published cover transcription records the same). The cover_expense_this/cum keys are marked null because the cells hold prose rather than a legible or blank money figure."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 200,00 + 1000 + 25 = 1225.00 = printed TOTAL 1225.00; the over-$50 subset 200 + 1000 = 1200.00 = cover line 1 THIS and CUM. p3 printed TOTAL is blank and no rows exist - nothing to gate.",
+  "row_count": "rowbands.py p2: geometry_status=gaps, 33 bands, pitch 1.841%, v-rules at 14.74/39.89/73.09/84.94% (Date|Name|Address|Amount|InKind). The tool DROPPED the grid's top rule (the known [DEBT]); the printed double rule under the header sits at ~12.5% and is visible in the render. Mapped: header [~11,12.5], row1 [12.5,14.75], row2 [14.75,16.59], row3 [16.59,18.43], then empty bands. 3 inked rows, 3 emitted; row 3's address wraps a second line ('MD 20895') into the band below, which carries no amount and is NOT a fourth row. p3: 0 inked bands, 0 rows.",
+  "geometry_proof": "p2: the 800-dpi crop of the amount+in-kind columns over pct y 12.9-20.0 renders '$200,00 | Ck', '$1000. | Ck', '$25 | Ck' in the three emitted bands and the band one pitch below the last row renders EMPTY (a bare printed '$'). The matching date+name crop over the same y-range renders 'May 7 / Louise Excell', 'June 7 / W.C.Dem.Party', 'June 9 / Judy Folkenberg' and then empty.",
+  "balance_chain": "Closes on the cover's own terms: contributions 1200 + 25 = 1225, expenses reported as 'none to report yet', cover line 4 CUMULATIVE balance = 1225.00. Cross-filing check not runnable inside this chunk (this is the filer's only document here); the module holds two later 2018 Ford filings (2018-10-30 and 2018-12-14) whose cumulative contributions are 2360.00, i.e. this filing's 1225.00 is the earlier point on that cycle's ladder - consistent, not contradicted."
+ },
+ "escalations": 8,
+ "escalation_note": "p2 amount col row 1 at 1600 dpi (comma vs period separator); p2 row-3 name at 1200 and 2000 dpi; p2 row-2 address tail at 1200 and 2000 dpi (blue overwrite from row 1); p2 row-3 address city token at 1200 and 2000 dpi; p2 printed TOTAL at 800 dpi (twice - first crop landed above the total line); p1 cover lines 1/2 and line 4 at 800 dpi.",
+ "notes": "Generation 2 form. Chunk file / index.csv say Robert E. Ford, Commission Seat A, 2018; the cover's Office line reads 'County Commission, Seat A' and Representative District reads 'County at-large' - AGREES (the index carried office_confidence=medium from the person roster; the document now confirms it). County office, in scope. Signed and dated June 12, 2018; clerk RECEIVED stamp JUN 12 2018 (the filename and the module's filing_date say 06-13-2018 - the stamp is the 12th; a one-day label/stamp difference, flagged not corrected). NONE of the three contribution rows prints a year - the date cells read 'May 7', 'June 7', 'June 9' - so every date is BLANK with needs_review=1 and the verbatim kept in the row note; the year is NOT filled from the report date. The In Kind? column is answered 'Ck' (check) on all three rows - a payment method, not a Y/N in-kind answer - so in_kind is false everywhere with the glyph kept in the note. Candidate's home street address, PO box, city, ZIP and cell number are printed in the clear on the cover and were discarded at read time. A stray handwritten ZIP fragment sits above the p2 address column header and was likewise discarded.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Louise Excell",
+   "donor_city": "Springdale",
+   "donor_state": "UT",
+   "amount": "200,00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(no year on the form);donor=high;city=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.09,12.50,11.85,2.25@p2",
+   "note": "date cell reads 'May 7' with NO year printed - blank per contract, verbatim kept here. Amount separator is a COMMA at 1600 dpi ('200,00'), kept verbatim per the decimal-comma rule; value $200.00. Street address and ZIP discarded at read time. In Kind? cell reads 'Ck'."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "W.C.Dem.Party",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(no year on the form);donor=medium;city=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.09,14.75,11.85,1.84@p2",
+   "note": "date cell reads 'June 7' with NO year printed - blank per contract. Address cell reads 'St George/Mout[?] ...' with its tail overwritten by row 1's blue ink even at 2000 dpi; the leading tokens read as a route/highway name rather than a city, so NO city was assigned - withheld rather than guessed. Amount written as '$1000.' (whole dollars, trailing period) = 1000.00. In Kind? cell reads 'Ck'."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Judy Folkenberg",
+   "donor_city": "Kensington",
+   "donor_state": "MD",
+   "amount": "25",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high(no year on the form);donor=medium;city=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.09,16.59,11.85,1.84@p2",
+   "note": "date cell reads 'June 9' with NO year printed - blank per contract. Surname glyphs at 2000 dpi read F-o-l-k-e-n-b-e-r-g with a cramped l/k pair. City token is cursive and cramped; it reads 'Ken?ing?on' with the state 'MD' following on the same line and a wrapped second line 'MD [street address discarded at read time per PRIVACY.md]' below - city recorded at LOW confidence, ZIP and street discarded. This is a sub-$50 contribution the filer itemized on Form A anyway. In Kind? cell reads 'Ck'."
+  }
+ ],
+ "expenditures": []
+}

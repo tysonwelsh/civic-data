@@ -1,0 +1,76 @@
+[{
+ "index_path": "raw/2022/2022_Graves_Greg_3.31.2022_Redacted.pdf",
+ "key": "511e9efa",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r10_02)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4, 5, 6],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' = 5746.16 on the p4 Summary Page, which is also Schedule A's own printed 'Subtotal for this page $ 5746.16' and its 'Total Contributions Received $ 5746.16'",
+   "detail": "The single Schedule A row is 5,746.16 = the schedule's printed page subtotal = its printed Total Contributions Received = the promoted PER-PERIOD cell Box B. Box C (Year to Date) prints the same 5,746.16 because this is the cycle's first report, so period equals year-to-date; that coincidence is not a cumulative reading and Box C is never summed as an increment. The summary ladder closes on its own terms: A 0 + B 5746.16 = F 5746.16, and F - D = 0 = the printed Balance at Close."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' = 5746.16 on the p4 Summary Page, which is also Schedule B's own printed 'Subtotal for this page $ 5746.16' and its 'Total Expenditures Made $ 5746.16'",
+   "detail": "7 Schedule B rows sum to 708.63 + 2500.00 + 1092.86 + 58.21 + 456.09 + 411.84 + 518.53 = 5,746.16 exactly = the printed page subtotal = the printed total = Box D. Box E (YTD) prints the same figure and is never summed as an increment. Note the two sides are EQUAL on this filing (5,746.16 on each) because the campaign was funded by one self-contribution and spent to zero — that identity is a property of the document, not a transcription artifact, and each side was still reconciled against its OWN printed anchors."
+  }
+ },
+ "in_kind_convention": "monetary-only closed on both sides, tested both ways. This is the v. 4.20 blank (Schedule A: Date / Name of Contributor / Address and Zip Code / Amount — no in-kind checkbox column; Schedule B: Date / Provider/Vendor / Purpose / Amount), no row carries an in-kind marking, and the summary page has no in-kind line. Monetary-only gives 5,746.16 on each side, matching Box B and Box D exactly, so the monetary-plus-in-kind reading is identical. The convention was tested afresh on this filing and NOT carried from the same filer's 4/11/22 report.",
+ "escalations": 5,
+ "escalation_note": "5 tight amount-cell crops at 600 dpi, all named 511e9efa_*: p2 band 1 rendered '5746.16' and the one-past control on p2 band 2 rendered an EMPTY boxed cell; p3 band 1 rendered '708.63', p3 band 7 (the last transcribed row) rendered '518.53', and the one-past control on p3 band 8 rendered EMPTY. Both index controls therefore passed on both sheets: no ledger continues below the last entry (§F1.5), no band holds two entries (§H3), and no band list is off by one. The p3 crops also served to VERIFY the amount-column band on a page where rowbands.py detected no vertical rules at all — the rendered boxes show their own right-hand rule, confirming the band taken from the same print run's p2 measurement is correct on p3.",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [79.89, 92.98],
+   "cells": [[8.77, 21.83], [21.83, 51.80], [51.80, 79.89], [79.89, 92.98]],
+   "rows": [[18.14, 22.46], [22.46, 26.89], [26.89, 31.16], [31.16, 35.50], [35.50, 39.78], [39.78, 44.12], [44.12, 48.46], [48.46, 52.80], [52.80, 57.12], [57.12, 61.43], [61.43, 65.75], [65.75, 70.02], [70.02, 74.30], [74.30, 78.66], [78.66, 82.93]],
+   "measure_note": "modern_boxAF v. 4.20 Schedule A is a FULLY BOXED 15-row grid — a row lies between its own two printed rules and nothing is extrapolated. rowbands.py at 200 dpi (raw frame, skew +0.2) returned 16 grid rules from 18.14 to 82.93 at a pitch of ~4.32 (a 17th at 91.26 is the footer underline, excluded), matching the 15 printed rows counted on the full-page read; the five vertical rules 8.77 / 21.83 / 51.80 / 79.89 / 92.98 are the four column bands. TWO-CROP PROOF at 600 dpi: band 1 (pct:79.89,18.14,13.09,4.32@p2) rendered '5746.16', the figure recorded for the only row on this sheet, and the ONE-PAST control on band 2 (pct:79.89,22.46,13.09,4.43@p2) rendered an EMPTY cell bounded by its two rules."
+  },
+  "3": {
+   "axis": "y",
+   "cell": [79.30, 92.40],
+   "cells": [[8.80, 21.80], [21.80, 51.80], [51.80, 79.30], [79.30, 92.40]],
+   "rows": [[17.75, 22.14], [22.14, 26.48], [26.48, 30.75], [30.75, 35.09], [35.09, 39.43], [39.43, 43.75], [43.75, 48.07], [48.07, 52.39], [52.39, 56.71], [56.71, 61.05], [61.05, 65.34], [65.34, 69.66], [69.66, 73.98], [73.98, 78.27], [78.27, 82.62]],
+   "measure_note": "Same boxed 15-row grid as p2 but a LIGHTER SCAN at skew -0.4: rowbands.py returns the 16 horizontal grid rules cleanly (17.75 to 82.62, pitch ~4.33) but ZERO vertical rules at full width, and a --col 75,95 rerun likewise recovers no verticals — so the column splits are taken from the SAME PRINT RUN's p2 measurement and the amount band was set to 79.30-92.40 and then PROVED BY RENDER rather than assumed. THREE-CROP PROOF at 600 dpi: band 1 (pct:79.30,17.75,13.10,4.39@p3) rendered '708.63'; band 7, the last transcribed row (pct:79.30,43.75,13.10,4.32@p3), rendered '518.53'; and the ONE-PAST control on band 8 (pct:79.30,48.07,13.10,4.32@p3) rendered an EMPTY cell. Each crop shows the amount column's own right-hand rule inside the frame, which is what confirms the borrowed band lands correctly on this page."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 2, "row": 1, "date": "3/4/22",
+   "donor_raw": "Greg and Miranda Graves",
+   "donor_city": "Spanish Fork", "donor_state": "UT",
+   "amount": "5746.16", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "A JOINT SELF-CONTRIBUTION by the candidate and his spouse — ONE printed entry, never split into two donors. It is a contribution row and not a beginning balance: Box A prints 0, so there is no balance slot it could occupy, and the schedule's own subtotal and total both print 5746.16. The address cell's STREET line is blacked out BY THE COUNTY while the city/state/zip line beside it prints in the clear — city and state carried, zip and street not."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "3/4/22",
+   "vendor_raw": "Utah County", "purpose": "Filing Fee",
+   "amount": "708.63", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the county filing fee; recorded because the page prints it, and per the standing rule NEVER used to corroborate a figure on any other filing (the fee is office-specific and cycle-specific)"},
+  {"line_no": "2", "page": 3, "row": 2, "date": "3/8/22",
+   "vendor_raw": "BKP Creative", "purpose": "Campaign Video",
+   "amount": "2500.00", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "3", "page": 3, "row": 3, "date": "3/11/22",
+   "vendor_raw": "Namify", "purpose": "Signs",
+   "amount": "1092.86", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "4", "page": 3, "row": 4, "date": "3/16/22",
+   "vendor_raw": "Copies Plus", "purpose": "Printing for Materials of Campaign",
+   "amount": "58.21", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the purpose cell is printed in a smaller type than its neighbours because the filer's text is longer than the cell; the full wording is carried verbatim"},
+  {"line_no": "5", "page": 3, "row": 5, "date": "3/18/22",
+   "vendor_raw": "Sam's Club", "purpose": "Event & Convention Materials",
+   "amount": "456.09", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "6", "page": 3, "row": 6, "date": "3/20/22",
+   "vendor_raw": "My Utah Signs", "purpose": "Signs",
+   "amount": "411.84", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "7", "page": 3, "row": 7, "date": "3/22/22",
+   "vendor_raw": "Namify", "purpose": "Signs",
+   "amount": "518.53", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "same vendor as row 3, a second payment; two printed entries, published as two rows"}
+ ],
+ "notes": "6-PDF-page document = a 4-page filing + a clerk work product + a blank. Classified from each page's own printed header: p1 COVER, p2 SCHEDULE A - Itemized Contributions Received (one row), p3 SCHEDULE B - Itemized Expenditures Made (seven rows, with a REAL Purpose column — captured on every row), p4 SUMMARY PAGE (boxes A/B/C/D/E/F + an UNLETTERED 'Balance at Close of Reporting Period (Box F - Box D)', the v. 4.20 signature), p5 the ELECTIONS DIVISION 'Campaign Financial Disclosure Checklist' — THE CHECKLIST DECOY, zero dollar figures, two staff-reviewed copies (red ticks + 'Staff Signature #1' dated 3/31/22; a blue/magenta-ticked 'Staff Signature #2' dated 4/4/2022), the HOLD-box revision — and here the HOLD BOX ITSELF IS TICKED IN RED, the first marked HOLD seen in this chunk; p6 BLANK. Checklist at p5, genuine summary at p4. The filing foliates its own sheets 1-4 in the cover/Schedule A/Schedule B/Summary boxes, and the checklist and blank are unfoliated — consistent with the checklist being a clerk work product rather than part of the filing. FORM: modern_boxAF, revision 'v. 4.20' printed in the footer of pp1-4; the filled report-type radio is 'Seven days preceding Convention' (agreeing with index.csv's period label) and the amendment question is answered 'No'. TWO MASTHEAD VINTAGES INSIDE ONE FILING: pp1 and 3 are headed 'Josh Daniels Clerk/Auditor', pp2 and 4 'Amelia Powers Gardner Clerk/Auditor'. ⚠ WHAT THIS FILING PRINTS FOR OFFICE, QUOTED AND NOT ADJUDICATED: the cover's Office box reads exactly \"Commission Seat A\" — those three words, WITHOUT the words 'Utah County' that most 2022 covers carry, and with no other office text anywhere on the document. index.csv carries office 'County Commission Seat A' for this filing. This filer's OTHER 2022 filing in this same chunk (dedb7fac, 4/11/22) prints a DIFFERENT seat letter, and that divergence is a documented inconsistency of the filer's own making: nothing in this record adjudicates it, neither filing was allowed to inform the other, and no seat was inferred anywhere. PAGE-FACE NAME 'Gregory James Graves' on all four report pages, against the channel label 'Gregory Graves' in index.csv — the page face governs and the divergence is recorded here rather than resolved. PRIVACY / REDACTION, judged per cell from the page: the cover's Address/City/State/Zip block and the Signature block are blacked out by the county, while the cover's phone and email print in the clear (neither carried); on Schedule A the county blacked out only the donor's STREET line and left 'Spanish Fork, UT 84660' legible beside it, which is exactly the level this record publishes. Schedule B carries no address column on this form, so no expenditure address exists to redact. THE CAMPAIGN IS SELF-FUNDED AND CLOSES AT ZERO: one 5,746.16 joint self-contribution in, 5,746.16 out across seven vendors, Box A and the close box both 0."
+}]

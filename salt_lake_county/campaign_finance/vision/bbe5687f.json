@@ -1,6 +1,220 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-03-30",
+   "donor_raw": "Paul Augason",
+   "occupation": "NA",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.4,24.57,89.9,3.90@p3",
+   "note": "donor name handwritten over printed 'Cash' in the same cell; Complete Mailing Address redacted at source"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-03-31",
+   "donor_raw": "Nancy Lord",
+   "occupation": "NA",
+   "amount": "3534.35",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.4,28.50,89.9,3.90@p3",
+   "note": "'(Candidate)' handwritten in the ruled row below the name - candidate self-contribution; address redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-03-04",
+   "vendor_raw": "Election SLCounty",
+   "purpose": "Filing registration",
+   "amount": "930.15",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,21.35,81.9,3.93@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-03-07",
+   "vendor_raw": "Domain.com",
+   "purpose": "Website domain",
+   "amount": "19.63",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,25.28,81.9,3.92@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-03-12",
+   "vendor_raw": "Domain.com",
+   "purpose": "Website email",
+   "amount": "77.22",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,29.20,81.9,3.98@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2022-03-17",
+   "vendor_raw": "Prevalent PR Marketing",
+   "purpose": "Website creation",
+   "amount": "375.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,33.18,81.9,3.95@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2022-03-23",
+   "vendor_raw": "SLCnty Republican Party",
+   "purpose": "Booth fee for convention",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,37.13,81.9,3.93@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2022-03-23",
+   "vendor_raw": "Prevalent PR Marketing",
+   "purpose": "Website creation",
+   "amount": "1,125.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,41.06,81.9,3.95@p4",
+   "note": "amount printed with thousands separator '1,125.00'"
+  },
+  {
+   "line_no": 7,
+   "date": "2022-03-28",
+   "vendor_raw": "City of South Jordan",
+   "purpose": "Rental room meet & greet",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,45.02,81.9,3.93@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2022-03-28",
+   "vendor_raw": "Wix.com",
+   "purpose": "Web host annual fee",
+   "amount": "295.73",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,48.95,81.9,3.95@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2022-03-28",
+   "vendor_raw": "Costco",
+   "purpose": "Refreshments meet and greet",
+   "amount": "25.72",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,52.91,81.9,3.95@p4"
+  },
+  {
+   "line_no": 10,
+   "date": "2022-03-28",
+   "vendor_raw": "Harmons",
+   "purpose": "Refreshments",
+   "amount": "13.70",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,56.86,81.9,3.91@p4"
+  },
+  {
+   "line_no": 11,
+   "date": "2022-03-28",
+   "vendor_raw": "Walmart",
+   "purpose": "Refreshments",
+   "amount": "17.96",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,60.77,81.9,3.98@p4"
+  },
+  {
+   "line_no": 12,
+   "date": "2022-03-29",
+   "vendor_raw": "Costco",
+   "purpose": "Refreshments",
+   "amount": "8.23",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,64.75,81.9,3.95@p4"
+  },
+  {
+   "line_no": 13,
+   "date": "2022-03-29",
+   "vendor_raw": "Lynette Williams",
+   "purpose": "Flyer design pring",
+   "amount": "12.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,68.70,81.9,3.95@p4",
+   "note": "purpose verbatim 'Flyer design pring' (sic)"
+  },
+  {
+   "line_no": 14,
+   "date": "2022-03-31",
+   "vendor_raw": "Costco",
+   "purpose": "Refreshments",
+   "amount": "39.01",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.9,72.66,81.9,3.96@p4"
+  }
+ ],
  "total_contributions": "3539.35",
  "total_expenditures": "3539.35",
  "beginning_balance": "0",
@@ -47,6 +261,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Typed form. The top-row 'Office' cell reads 'Salt Lake County Clerk' but the separate 'Office Sought' cell is truncated on the form as 'Salt Lake County Cle' - recorded verbatim. Column B (Aggregate Total) is BLANK on Lines 1 and 2 (left empty by the filer, not zero). Summary Page header 'Date of Report' is 3-31-22 while the signature date is 4-03-22 and the clerk received-stamp reads APR 04 2022. Figures are printed without dollar signs."
+  "notes": "Typed form. The top-row 'Office' cell reads 'Salt Lake County Clerk' but the separate 'Office Sought' cell is truncated on the form as 'Salt Lake County Cle' - recorded verbatim. Column B (Aggregate Total) is BLANK on Lines 1 and 2 (left empty by the filer, not zero). Summary Page header 'Date of Report' is 3-31-22 while the signature date is 4-03-22 and the clerk received-stamp reads APR 04 2022. Figures are printed without dollar signs.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "3539.35",
+     "schedule_total": "3539.35",
+     "itemized": "3539.35",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "rows 5.00+3534.35 = 3539.35 = Summary line 1 Column A = printed page subtotal = printed TOTAL CONTRIBUTIONS RECEIVED"
+    },
+    "expenditures": {
+     "stated": "3539.35",
+     "schedule_total": "3539.35",
+     "itemized": "3539.35",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "14 rows sum 3539.35 = Summary line 2 Column A = printed page subtotal = printed TOTAL EXPENDITURES MADE"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 3539.35 = printed subtotal 3539.35; p4 rows 3539.35 = printed subtotal 3539.35",
+   "escalations": 4,
+   "escalation_note": "p3 600dpi crop of rows 1-2 (name cell ambiguity); p4 600dpi band crops x3 covering all 14 rows",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 14,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2022 form 'For a Candidate'; April 5 interim; cover confirms Nancy Lord / Salt Lake County Clerk / Republican. Schedule A row 1 name cell carries printed 'Cash' with 'Paul Augason' handwritten over it; row 2 is the candidate self-contribution with '(Candidate)' handwritten in the ruled row below the name. Occupation/Employer column reads NA on both Schedule A rows. Complete Mailing Address column bar-redacted on both Schedule A rows. Chunk priors confirmed at the page."
+  }
  }
 }

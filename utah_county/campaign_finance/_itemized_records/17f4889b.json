@@ -1,0 +1,90 @@
+[{
+ "index_path": "raw/2022/2022_Tribe_Renee_4.4.2022_Redacted.pdf",
+ "key": "17f4889b",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah, chunk r12_03)",
+ "transcribed_date": "2026-08-20",
+ "pages_read": [1, 2, 3, 4, 5, 6],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' (3190.00) on the p4 Summary Page, which equals Schedule A's own printed 'Total Contributions Received (Sum of all Schedule A pages in this report) $ 3190.00' and its hand-corrected 'Subtotal for this page $ 3190.00'",
+   "detail": "2 Schedule A rows sum, MONETARY-PLUS-IN-KIND, to 3000.00 + 190.00 = 3,190.00 exactly = the printed Total Contributions Received = the promoted PER-PERIOD Box B = Box F 'Subtotal before Expenditures (Box A + Box B)' 3190.00 with Box A 0.00. MONETARY-ONLY FAILS by 190.00 (it gives 3,000.00 against a stated 3,190.00), so this filing's convention is monetary-plus-in-kind on the contribution side — tested, not inherited. THE LOAN IS A CONTRIBUTION ROW HERE, decided by the ladder and not by the word (ADDENDUM B3): Box A is 0.00, so there is no beginning-balance slot for the 3,000.00 'Loan to Campaign by Renee Tribe', and Box B closes only WITH it. Box C 'Contributions Received Year to Date' also prints 3190.00 (first report of the cycle, so period = YTD) and is cumulative — never summed as an increment. The 'Subtotal for this page' cell is a heavily OVERWRITTEN hand correction; its final reading 3190.00 is settled by the clean Total line, by Box B and by the rows' own sum, all three agreeing."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' (1746.46) on the p4 Summary Page, which equals Schedule B's own printed 'Subtotal for this page $ 1746.46' and 'Total Expenditures Made (Sum of all Schedule B pages in this report) $ 1746.46'",
+   "detail": "10 Schedule B rows sum, MONETARY-PLUS-IN-KIND, to 192.33 + 94.37 + 10.00 + 25.61 + 89.96 + 94.41 + 85.40 + 239.04 + 190.00 + 725.34 = 1,746.46 exactly = the printed page subtotal = the printed Total Expenditures Made = the promoted per-period Box D. (Running: 192.33 -> 286.70 -> 296.70 -> 322.31 -> 412.27 -> 506.68 -> 592.08 -> 831.12 -> 1,021.12 -> 1,746.46.) MONETARY-ONLY FAILS by 190.00, because the same in-kind gift is entered a SECOND time here as an offsetting expenditure ('In Kind - Leonard Lee / Campaign Signs / 190.00', same 3/28/22 date and same amount as the Schedule A row) — the ADDENDUM G1 / K4 pattern of in-kind entered TWICE, once per side, with both stated totals including it. Box E YTD prints 1746.46 and is cumulative, never summed. The filer's own ladder closes too: F 3190.00 - D 1746.46 = 1443.54 = the printed Balance at Close."
+  }
+ },
+ "in_kind_convention": "monetary-plus-in-kind, ON BOTH SIDES — tested per filing, not inherited. The single in-kind gift (Leonard Lee, campaign signs, 190.00, 3/28/22) is entered ONCE ON EACH SCHEDULE and BOTH stated totals include it: contributions close at 3190.00 only with it (monetary-only 3000.00 is 190.00 short) and expenditures close at 1746.46 only with it (monetary-only 1556.46 is 190.00 short). The filer marks it in the NAME cell and again beside the amount, writing 'In Kind' in quotation marks on Schedule A and 'In Kind - Leonard Lee' as the vendor on Schedule B; the v. 4.20 blank has NO in-kind checkbox column, so the filer's own written marking is the only in-kind signal on the page.",
+ "escalations": 3,
+ "escalation_note": "Three 900 dpi tight-cell escalations, all resolving LEGIBILITY only (the arithmetic already closed): (1) the last Schedule B row's DATE cell, to settle 3/4/22 vs 3/14/22 — pct:9.5,55.25,14,4.16@p3 rendered '3|4|22', i.e. 3/4/22, distinct from the 3/14/22 the same filer writes for the loan on Schedule A; (2) the p2 'Subtotal for this page' cell, a hand-overwritten figure — a 700 dpi crop of the whole footer block rendered an overwritten cell reading 3190.00 above a clean 'Total Contributions Received $ 3190.00'; (3) the p2/p3 amount cells proved for geometry (below). NOTE this filer punctuates cents with a COMMA throughout ('3000,00', '192,33', '725,34'); under the single whitelisted handwriting repair the comma is read as the decimal separator and the amounts are recorded 3000.00 / 192.33 / 725.34 — the repair is named here and applies to every amount on the filing.",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [78.23, 90.31],
+   "cells": [[9.60, 21.96], [21.96, 51.02], [51.02, 78.23], [78.23, 90.31]],
+   "rows": [[17.75, 21.75], [21.75, 25.81], [25.81, 29.91], [29.91, 34.02], [34.02, 38.16], [38.16, 42.32], [42.32, 46.50], [46.50, 50.64], [50.64, 54.82], [54.82, 59.05], [59.05, 63.28], [63.28, 67.55], [67.55, 71.83], [71.83, 76.17], [76.17, 80.59]],
+   "measure_note": "modern_boxAF v. 4.20 Schedule A is a fully BOXED 15-row grid — a row lies BETWEEN its own two printed rules and NOTHING is extrapolated (ADDENDUM I3; the legacy above-the-rule rule does not apply). rowbands.py (raw frame, skew -0.4) returned all 16 h_rules cleanly, 17.75 through 80.59, pitch ~4.19, no interpolation needed and no doubled band. v_rules 21.96 / 51.02 / 78.23 / 90.31 give Date | Name of Contributor | Address and Zip Code | Amount; the two clerk REDACTION BARS on this page sit inside the address column and rowbands correctly reports them as bars, not rules. TWO-CROP PROOF at 900 dpi: the row-1 box pct:78.2,17.75,12.4,4.00@p2 rendered '3000,00' (recorded 3000.00) and the row-2 box pct:78.2,21.75,12.4,4.06@p2 rendered '\"In Kind\" 190,00' (recorded 190.00, in_kind true) — every transcribed row proved, there are only two. B5 NEGATIVE CONTROL: pct:78.2,25.81,12.4,4.10@p2 rendered an EMPTY cell (only faint show-through from the sheet behind), so the first written entry IS band 1, no banner or skipped line shifted the index, and the ledger does not continue past row 2."
+  },
+  "3": {
+   "axis": "y",
+   "cell": [78.87, 91.37],
+   "cells": [[9.90, 22.40], [22.40, 52.10], [52.10, 78.87], [78.87, 91.37]],
+   "rows": [[18.10, 22.26], [22.26, 26.36], [26.36, 30.48], [30.48, 34.63], [34.63, 38.73], [38.73, 42.82], [42.82, 46.98], [46.98, 51.11], [51.11, 55.25], [55.25, 59.41], [59.41, 63.64], [63.64, 67.86], [67.86, 72.12], [72.12, 76.40], [76.40, 80.69]],
+   "measure_note": "Same boxed 15-row grid on Schedule B (skew +0.5, pitch ~4.17). rowbands.py returned 16 h_rules 18.10 through 80.69 plus the 89.61 candidate-box rule below the grid; no interpolation, no doubled band. v_rules returned only 52.10 / 78.87 / 91.37 on this page — the Date|Provider rule was not detected, so the 22.40 boundary in `cells` is taken from the printed column-heading boxes and is APPROXIMATE and provenance-only; the AMOUNT band 78.87-91.37 is the one that matters and it is crop-proved. TWO-CROP PROOF at 900 dpi: the row-1 box pct:78.8,18.10,12.9,4.16@p3 rendered '192,33' under the printed 'Amount' heading (recorded 192.33) and the last transcribed row's box pct:78.8,55.25,12.9,4.16@p3 rendered '725,34' (recorded 725.34, row 10). B5 NEGATIVE CONTROL one band past the end: pct:78.8,59.41,12.9,4.23@p3 rendered an EMPTY cell — the ledger does not continue below the last transcribed row and no doubled band hides an eleventh entry."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 2, "row": 1, "date": "3/14/22",
+   "donor_raw": "Loan to Campaign by Renee Tribe", "donor_city": "Lindon", "donor_state": "UT",
+   "amount": "3000.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the candidate's own loan to her campaign, written in the Name-of-Contributor cell exactly as recorded here. IT IS A CONTRIBUTION ROW BY THE LADDER, NOT BY THE WORD (ADDENDUM B3): Box A is 0.00, so no beginning-balance slot exists for it, and Box B 3190.00 closes only with it. Amount written with a COMMA as the decimal separator ('3000,00') — the single whitelisted handwriting repair. The county REDACTED the street portion of the address cell with a black bar; the city/zip line below the bar is legible and reads Lindon, UT — recorded as city/state only, per privacy."},
+  {"line_no": "2", "page": 2, "row": 2, "date": "3/28/22",
+   "donor_raw": "Leonard Lee \"In Kind\"", "donor_city": "Orem", "donor_state": "UT",
+   "amount": "190.00", "in_kind": true, "confidence": "medium", "verified": 1,
+   "note": "IN-KIND: the filer wrote 'In Kind' in quotation marks under the donor's name AND again above the figure in the amount cell (900 dpi crop rendered '\"In Kind\" 190,00'). The same gift is entered again on Schedule B as an offsetting expenditure of the identical date and amount, and BOTH stated totals include it. The county redacted the street portion of the address cell; the city/zip line below the bar reads Orem, UT — city/state only carried."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "3/19/22",
+   "vendor_raw": "Black Canyon Signs", "purpose": "Campaign Signs", "amount": "192.33",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "2", "page": 3, "row": 2, "date": "3/21/22",
+   "vendor_raw": "CopyTec", "purpose": "Brochures", "amount": "94.37",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "3", "page": 3, "row": 3, "date": "3/21/22",
+   "vendor_raw": "YouCanBookMe", "purpose": "Scheduling", "amount": "10.00",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "4", "page": 3, "row": 4, "date": "3/21/22",
+   "vendor_raw": "GoDaddy", "purpose": "URL", "amount": "25.61",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "5", "page": 3, "row": 5, "date": "3/21/22",
+   "vendor_raw": "GoDaddy", "purpose": "Website Hosting", "amount": "89.96",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the vendor name on this row is written over an earlier struck attempt; the handwritten correction governs and reads GoDaddy, as on the row above"},
+  {"line_no": "6", "page": 3, "row": 6, "date": "3/29/22",
+   "vendor_raw": "CopyTec", "purpose": "Brochures", "amount": "94.41",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "a second CopyTec brochure charge 4 cents different from row 2 — both retained verbatim; the side's exact closure at 1746.46 confirms both readings"},
+  {"line_no": "7", "page": 3, "row": 7, "date": "3/29/22",
+   "vendor_raw": "EZTexting", "purpose": "Group Texting App", "amount": "85.40",
+   "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "8", "page": 3, "row": 8, "date": "3/29/22",
+   "vendor_raw": "EZ-Texting", "purpose": "Group Texting App", "amount": "239.04",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "same vendor as row 7, hyphenated by the filer on this row — kept verbatim"},
+  {"line_no": "9", "page": 3, "row": 9, "date": "3/28/22",
+   "vendor_raw": "In Kind - Leonard Lee", "purpose": "Campaign Signs", "amount": "190.00",
+   "in_kind": true, "confidence": "medium", "verified": 1,
+   "note": "the OFFSETTING half of the in-kind gift also entered on Schedule A row 2 (same date, same amount, same donor). Recorded on both sides exactly as the filer entered it; not netted and not de-duplicated, because both of the document's own stated totals include it."},
+  {"line_no": "10", "page": 3, "row": 10, "date": "3/4/22",
+   "vendor_raw": "Utah County Treasurer", "purpose": "Filing Fee", "amount": "725.34",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the county filing fee, 2022 Commission. OBSERVATION ONLY — per ADDENDA E1/F5/L3 the fee is never used to corroborate or settle anything (and note it differs from both 2022 Commission figures recorded in L3, 744.56 and 708.63, which is exactly why). Date escalated to 900 dpi and rendered '3|4|22'."}
+ ],
+ "notes": "Renee Tribe (page face signs 'Renee Tribe', with an accent written over the first e), 2022 cycle, 'Seven days preceding Convention' (marked with an X on p1); amendment answered 'No'; signed 04/04/2022, Date of Report 4/4/22. Entirely HANDWRITTEN on the modern_boxAF blank, footer-printed version 'v. 4.20' on every report page — NOT the newer unversioned 2022 blank: this one's Schedule A third column is 'Address and Zip Code' (not 'City and State'), there is NO in-kind checkbox column, the close box is UNLETTERED ('Balance at Close of Reporting Period (Box F - Box D)'), the cover offers FIVE report types (no End-of-Year), and every sheet carries a 'Page' foliation box the filer filled with '1'. Schedule B DOES have a real PURPOSE column, used on all ten rows. TWO 2022 BLANKS THEREFORE CIRCULATE IN THIS CHUNK ALONE (this v. 4.20 filing and the newer blank on the two Tomeny filings), exactly as ADDENDUM J1 records. pdfinfo: 6 pages, letter, ALL /Rotate 0 — read before measuring per K1. Pages classified BY CONTENT: p1 cover, p2 'Schedule A - Itemized Contributions Received', p3 'Schedule B - Itemized Expenditures Made', p4 'Summary Page', p5 CHECKLIST DECOY, p6 BLANK. THE CHECKLIST DECOY IS BOUND AT p5, immediately after the genuine summary page at p4 — the 'Campaign Financial Disclosure Checklist', born-digital clean, TWO staff-signed review copies on one sheet (Staff Signature #1 dated 4/4/22 in red ink, Staff Signature #2 'JJ' dated 4/6/2022 in black), and the HOLD-revision box in the top right corner with 'Website' TICKED and 'Network'/'HOLD' unticked. It carries every summary-page label and ZERO dollar figures and is a clerk work product, not part of the filing. p6 is a genuinely blank verso. TWO MASTHEAD VINTAGES ALTERNATE SHEET BY SHEET (ADDENDUM L6): p1, p3 and p4 are headed 'Josh Daniels Clerk/Auditor' while p2 (Schedule A) is headed 'Amelia Powers Gardner Clerk/Auditor' — the previous Clerk's stock, bound into the middle of one filing. ROW-INDEX TRAPS: all six screened and none present — the first entry is on band 1 on both schedules (crop-proved), no continuation lines, no voided rows, no banner, the one-band-past controls rendered empty on both pages, and no band is ~2x the pitch. FIELD-SHIFT SCREEN: passed — Schedule B's Provider/Vendor cells hold vendors and the Purpose cells hold purposes, assignable by content; the one row whose vendor cell begins 'In Kind -' still names the provider (Leonard Lee) and its purpose cell reads 'Campaign Signs', so nothing is inverted. OFFICE: the page's Office box is handwritten 'Commissioner - Seat A', which AGREES with index.csv's 'County Commission Seat A' — a page-face corroboration, not an inference. PRIVACY: the county redacted the candidate's own address block and her signature on the cover, and the street line of BOTH donor address cells on p2; the city/state lines survive below the bars and only city/state were carried. Distinguish per cell: these are redacted BY THE COUNTY, not left empty by the filer."
+}]

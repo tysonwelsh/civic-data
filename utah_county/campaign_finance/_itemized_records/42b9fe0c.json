@@ -1,0 +1,1161 @@
+[
+ {
+  "index_path": "raw/2010/2010_CountyCommissionSeatB-BarrattTedB-102510.pdf",
+  "key": "42b9fe0c",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk r2_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "itemized_pages_A": "3,4,5",
+  "itemized_pages_B": "6",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (7,034.00) on the p2 Summary Page, which is ALSO Schedule A's own printed 'Total Contributions Received' (7,034.00, restated at the foot of all three Schedule A sheets) and is restated at summary line 4 and line 5",
+    "detail": "THE PAGE-SUBTOTAL GATE PASSES ON EVERY SHEET. p3's 17 rows sum to 2,685.00 = its printed 'Subtotal for this page'; p4's 17 rows sum to 1,335.00 = its printed subtotal; p5's 17 rows sum to 3,014.00 = its printed subtotal. 2,685.00 + 1,335.00 + 3,014.00 = 7,034.00 = the printed 'Total Contributions Received' on all three sheets = the cover's promoted PER-PERIOD Column A cell = summary line 4 'Total Contributions Received (From Line 1 Column A)' = line 5 'Subtotal' (line 3, Balance at Beginning, is a struck ZERO GLYPH). Column B 'Year-to-Date Total' prints 7,553.48 and is NOT summed as an increment; it is exactly this period's 7,034.00 plus the 519.48 this filer reported in June, i.e. the cumulative column behaving as the promotion regime describes. ONE ROW WAS DECIDED BY THE ARITHMETIC RATHER THAN THE GLYPH: p5 row 11 (Clay Jensen) renders as '2500' at 1200 dpi with no visible decimal point, but only 25.00 lets p5's own printed subtotal close at 3,014.00 \u2014 see that row's note."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (6,540.82) on the p2 Summary Page, equal to Schedule B's own printed 'Subtotal for this page' (6,540.82) and its printed 'Total Expenditures Received' (6,540.82), and restated at summary line 6",
+    "detail": "4 Schedule B rows sum to 476.82 + 2,757.00 + 550.00 + 2,757.00 = 6,540.82 exactly = the printed page subtotal = the printed total = the cover's Column A = line 6. The balance ladder closes on the same figures: 0 (line 3, a struck zero glyph) + 7,034.00 (line 4) = 7,034.00 (line 5); 7,034.00 - 6,540.82 = 493.18, the printed line 7 'Balance at Close'. Column B YTD 7,060.30 = 6,540.82 + the 519.48 reported in June and is retained as cumulative, never summed as an increment."
+   }
+  },
+  "in_kind_convention": "not applicable \u2014 neither Schedule A nor Schedule B on this legacy_colAB blank prints an in-kind column, no row on any of the four schedule sheets is annotated in-kind or 'non-monetary', and the p2 Summary Page carries no separate in-kind line. BOTH conventions were tested rather than inherited: monetary-only gives 7,034.00 / 6,540.82 and monetary-plus-in-kind gives the identical 7,034.00 / 6,540.82 (there is no in-kind amount to add), so both close on Column A and the distinction does not arise on this filing.",
+  "escalations": 4,
+  "escalation_note": "Four 1200 dpi cell escalations. (1) p5 row 11 (Clay Jensen) rendered '2500' with the point buried in the 5's tail \u2014 RESOLVED BY ARITHMETIC to 25.00, the only value that closes the page's own printed subtotal of 3,014.00; escalation resolves legibility, never truth. (2) p5 row 5 (Harts Gas + Food) rendered '2000.00' unambiguously, confirming the one genuinely four-figure donation on the sheet. (3) p3 row 13's date cell rendered '5/28/10' with an open-topped 5 \u2014 an out-of-period date kept verbatim. (4) p5 row 2's date cell showed the day's second digit written over an earlier one and is recorded as read with that fact stated. Fourteen further crops at 700-1200 dpi were geometry proofs and are described in the measure_notes.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     83.0,
+     93.2
+    ],
+    "cells": [
+     [
+      5.5,
+      17.3
+     ],
+     [
+      18.7,
+      52.4
+     ],
+     [
+      53.8,
+      81.6
+     ],
+     [
+      83.0,
+      93.2
+     ]
+    ],
+    "rows": [
+     [
+      16.23,
+      20.32
+     ],
+     [
+      20.32,
+      24.41
+     ],
+     [
+      24.41,
+      28.53
+     ],
+     [
+      28.53,
+      32.61
+     ],
+     [
+      32.61,
+      36.7
+     ],
+     [
+      36.7,
+      40.8
+     ],
+     [
+      40.8,
+      44.8
+     ],
+     [
+      44.8,
+      48.86
+     ],
+     [
+      48.86,
+      52.91
+     ],
+     [
+      52.91,
+      57.05
+     ],
+     [
+      57.05,
+      61.12
+     ],
+     [
+      61.12,
+      65.2
+     ],
+     [
+      65.2,
+      69.25
+     ],
+     [
+      69.25,
+      73.34
+     ],
+     [
+      73.34,
+      77.35
+     ],
+     [
+      77.35,
+      81.4
+     ],
+     [
+      81.4,
+      85.45
+     ]
+    ],
+    "measure_note": "legacy_colAB Schedule A, the UNDERLINE form. Rules were measured with rowbands.py --col 84,96, i.e. RESTRICTED TO THE AMOUNT COLUMN, because this sheet carries a 0.6-degree skew and a rule's y differs across the page: the column-local scan is the y that a make_snippet crop of the amount cell actually needs. It returns the data rules 20.32 ... 85.45 at a regular 4.09 pitch (the further rules at 89.55 and 93.64 are the printed 'Subtotal for this page' and 'Total Contributions Received' underlines and are deliberately NOT rows). THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up to [16.23,20.32]. Column bands come from the four per-column segments of a mid-page rule (Date 5.50-17.30, Name of Contributor 18.70-52.40, Mailing Address & Zip 53.80-81.60, Amount 83.00-93.20). \u00a7A1 FIRST-ENTRY CONTROL: the extrapolated band was cropped BEFORE use and rendered the printed 'Amount' header with the handwritten '200.00' beneath it \u2014 this filer did not skip the first ruled line, so his first written entry IS band 1. TWO-CROP PROOF at 700-1200 dpi: pct:82.5,16.23,12.5,4.09@p3 rendered '200.00' (recorded 200.00, Grant Kirkham) and pct:82.5,81.40,12.5,4.05@p3 rendered '25.00' (recorded 25.00, Mary Barratt). Two further control crops fixed the ends: band 2 rendered '100.00' and the band BELOW the last row rendered ',685.00', i.e. the page subtotal and not a 18th entry."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     83.0,
+     93.2
+    ],
+    "cells": [
+     [
+      5.5,
+      17.3
+     ],
+     [
+      18.7,
+      52.4
+     ],
+     [
+      53.8,
+      81.6
+     ],
+     [
+      83.0,
+      93.2
+     ]
+    ],
+    "rows": [
+     [
+      16.39,
+      20.52
+     ],
+     [
+      20.52,
+      24.66
+     ],
+     [
+      24.66,
+      28.76
+     ],
+     [
+      28.76,
+      32.9
+     ],
+     [
+      32.9,
+      36.97
+     ],
+     [
+      36.97,
+      41.11
+     ],
+     [
+      41.11,
+      45.26
+     ],
+     [
+      45.26,
+      49.37
+     ],
+     [
+      49.37,
+      53.49
+     ],
+     [
+      53.49,
+      57.54
+     ],
+     [
+      57.54,
+      61.64
+     ],
+     [
+      61.64,
+      65.71
+     ],
+     [
+      65.71,
+      69.81
+     ],
+     [
+      69.81,
+      73.9
+     ],
+     [
+      73.9,
+      78.09
+     ],
+     [
+      78.09,
+      82.19
+     ],
+     [
+      82.19,
+      86.33
+     ]
+    ],
+    "measure_note": "Same underline form. \u26a0 THIS SHEET IS THE MOST SKEWED IN THE FILING (+1.2 degrees) AND rowbands.py MISSED ONE PRINTED RULE: the column-restricted scan returns rules at 20.52, 24.66, 28.76, 32.90, 36.97, 41.11, 45.26, then jumps to 53.49 \u2014 a gap of 8.23, exactly TWO pitches of 4.11. The missing rule was reinstated at 49.37 by pitch, and PROVED rather than assumed: pct:82.5,45.26,12.5,4.11@p4 rendered '50.00' (row 8, Beth K. Barratt) and pct:82.5,49.37,12.5,4.12@p4 rendered '500.00' (row 9, Daniel Richards), so the recovered band holds exactly the entry it should and nothing is off by one. With it the sheet has 17 rows, matching its 17 written amounts. Rules beyond 86.33 (90.33, 94.43) are the subtotal and total underlines, not rows. TWO-CROP PROOF: pct:82.5,16.39,12.5,4.13@p4 rendered the 'Amount' header above '100.00' (row 1, Lynnell K. Fox) and pct:82.5,82.19,12.5,4.14@p4 rendered '25.00' (row 17, Randy Barratt)."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     83.0,
+     93.2
+    ],
+    "cells": [
+     [
+      5.5,
+      17.3
+     ],
+     [
+      18.7,
+      52.4
+     ],
+     [
+      53.8,
+      81.6
+     ],
+     [
+      83.0,
+      93.2
+     ]
+    ],
+    "rows": [
+     [
+      16.22,
+      20.35
+     ],
+     [
+      20.35,
+      24.51
+     ],
+     [
+      24.51,
+      28.68
+     ],
+     [
+      28.68,
+      32.79
+     ],
+     [
+      32.79,
+      36.91
+     ],
+     [
+      36.91,
+      40.96
+     ],
+     [
+      40.96,
+      45.01
+     ],
+     [
+      45.01,
+      49.13
+     ],
+     [
+      49.13,
+      53.28
+     ],
+     [
+      53.28,
+      57.42
+     ],
+     [
+      57.42,
+      61.54
+     ],
+     [
+      61.54,
+      65.63
+     ],
+     [
+      65.63,
+      69.75
+     ],
+     [
+      69.75,
+      73.85
+     ],
+     [
+      73.85,
+      77.85
+     ],
+     [
+      77.85,
+      81.93
+     ],
+     [
+      81.93,
+      86.09
+     ]
+    ],
+    "measure_note": "Same underline form, +1.0 degree skew, measured with rowbands.py --col 84,96: data rules 20.35 ... 86.09 at a 4.13 pitch, 17 rows with row 1 extrapolated to [16.22,20.35]; the rules at 90.23 and 94.37 are the subtotal and total underlines. TWO-CROP PROOF at 700 dpi: pct:82.5,16.22,12.5,4.13@p5 rendered the printed 'Amount' header above '40.00' (row 1, Fred Babbie) and pct:82.5,81.93,12.5,4.16@p5 rendered '350.00' (row 17, Mike Shumway). A mid-page control crop of band 9 rendered '100.00' beside the zip fragment '...97' (row 9, Molina Davis of Orem 84097), confirming the interior indexing as well as the ends."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     82.9,
+     92.9
+    ],
+    "cells": [
+     [
+      5.43,
+      17.13
+     ],
+     [
+      18.61,
+      52.15
+     ],
+     [
+      53.63,
+      81.35
+     ],
+     [
+      82.9,
+      92.94
+     ]
+    ],
+    "rows": [
+     [
+      16.76,
+      20.81
+     ],
+     [
+      20.81,
+      24.86
+     ],
+     [
+      24.86,
+      28.91
+     ],
+     [
+      28.91,
+      33.01
+     ],
+     [
+      33.01,
+      37.11
+     ],
+     [
+      37.11,
+      41.18
+     ],
+     [
+      41.18,
+      45.25
+     ],
+     [
+      45.25,
+      49.35
+     ],
+     [
+      49.35,
+      53.4
+     ],
+     [
+      53.4,
+      57.45
+     ],
+     [
+      57.45,
+      61.5
+     ],
+     [
+      61.5,
+      65.58
+     ],
+     [
+      65.58,
+      69.67
+     ],
+     [
+      69.67,
+      73.75
+     ],
+     [
+      73.75,
+      77.8
+     ],
+     [
+      77.8,
+      81.87
+     ],
+     [
+      81.87,
+      85.92
+     ]
+    ],
+    "measure_note": "legacy_colAB Schedule B, the same underline grid: data rules 20.81 ... 85.92 at a 4.05 pitch (the 90.00 and 94.05 rules are the printed subtotal and total underlines), 17 rows with row 1 extrapolated to [16.76,20.81]. Column bands from the per-column segments of a mid-page rule. PROOF at 700 dpi: pct:82.5,16.76,12.5,4.05@p6 rendered the printed 'Amount' header above '476.82' (row 1) and pct:82.5,28.91,12.5,4.10@p6 rendered '2,757.00' (row 4, the LAST written row); the control crop of band 5, pct:82.5,33.01,12.5,4.10@p6, rendered an EMPTY cell, so the schedule genuinely stops at four rows and the bands are not off by one."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "8/9/10",
+    "donor_raw": "Grant Kirkham",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Kuna",
+    "donor_state": "ID",
+    "note": "the only out-of-state donor on the filing; the address cell prints the street line, city, state and zip and only city/state are carried"
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "8/9/10",
+    "donor_raw": "Gene Harvey",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address cell is LEFT WHOLLY EMPTY BY THE FILER (not redacted by the county \u2014 this era was published in the clear), so city and state are honestly blank"
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "8/10/10",
+    "donor_raw": "R.A. Johnson",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "note": "the address cell prints a post-office box; the box number is not carried, only the city and state the same cell prints"
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "8/10/10",
+    "donor_raw": "Dale Barney",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "8/10/10",
+    "donor_raw": "P. Mack Brown",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Am Fork",
+    "donor_state": "UT",
+    "note": "donor_city is the filer's own abbreviation 'Am Fork' (American Fork), kept verbatim"
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "8/9/10",
+    "donor_raw": "Kenneth Greenwood & Rita Greenwood",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "note": "A TWO-LINE NAME: the filer wrote 'Kenneth Greenwood &' above the ruled line and 'Rita Greenwood' on it. The continuation line does NOT consume a printed row here \u2014 the 17 amount entries map one-to-one onto the 17 measured bands and both end rows were crop-proved \u2014 so this is one joint-donor row, kept as the document reports it and never split into two donors"
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "8/28/10",
+    "donor_raw": "Jerry Edwards",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Am Fork",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "8/28/10",
+    "donor_raw": "Anonymous donor @ Meet a Greet",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE FILER'S OWN AGGREGATE-STYLE LINE, transcribed verbatim as one row and never split into imagined donors; the address cell is empty because the donor is unnamed, and the filer's spelling 'Meet a Greet' is kept"
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "8/27/10",
+    "donor_raw": "Tom Hunter",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "8/27/10",
+    "donor_raw": "Rick D. Nydegger",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Highland",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "date": "8/23/10",
+    "donor_raw": "Kenneth Sorenson",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Lindon",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "date": "8/26/10",
+    "donor_raw": "Laura Houle",
+    "amount": "10.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "note": "the filer first wrote 'David' and STRUCK IT THROUGH, then wrote 'Laura Houle'; the handwritten correction governs, per the standing rule, and the struck word is recorded here rather than in the name"
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "date": "5/28/10",
+    "donor_raw": "Alan C. Carter",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "note": "THE DATE IS KEPT VERBATIM AND IS EARLIER THAN THE REPORTING PERIOD: a 1200 dpi escalation crop of the date cell rendered '5/28/10' with an unambiguous open-topped 5, while every neighbouring row is August or September. A date that is well-formed but out of period is retained as printed and never repaired"
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "date": "8/30/10",
+    "donor_raw": "L.R. Brooks",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Clearfield",
+    "donor_state": "UT",
+    "note": "address cell prints a post-office box; the box number is not carried"
+   },
+   {
+    "line_no": "15",
+    "page": 3,
+    "row": 15,
+    "date": "9/2/10",
+    "donor_raw": "Paul V. Washburn",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Orem",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 16,
+    "date": "9/1/10",
+    "donor_raw": "Betty D. Stokes",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Logan",
+    "donor_state": "UT",
+    "note": "the address cell prints no zip; city and state are as printed"
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 17,
+    "date": "8/28/10",
+    "donor_raw": "Mary Barratt",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "note": "last row of the page \u2014 the crop of band 17 rendered '25.00'"
+   },
+   {
+    "line_no": "18",
+    "page": 4,
+    "row": 1,
+    "date": "9/3/10",
+    "donor_raw": "Lynnell K. Fox",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "note": "first row of the page \u2014 the crop of the extrapolated band 1 rendered the printed 'Amount' header above '100.00'"
+   },
+   {
+    "line_no": "19",
+    "page": 4,
+    "row": 2,
+    "date": "9/3/10",
+    "donor_raw": "Marcia A. Smith",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "20",
+    "page": 4,
+    "row": 3,
+    "date": "9/2/10",
+    "donor_raw": "Campbell Chiropractic and Wellness",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "note": "A TWO-LINE NAME written across the ruled line ('Campbell Chiropractic' / 'and Wellness'); one row, as the amount column proves"
+   },
+   {
+    "line_no": "21",
+    "page": 4,
+    "row": 4,
+    "date": "9/10/10",
+    "donor_raw": "Mike Shumway",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "note": "the same donor gives again on p5 row 17 (350.00); both are kept as separate rows exactly as printed"
+   },
+   {
+    "line_no": "22",
+    "page": 4,
+    "row": 5,
+    "date": "9/7/10",
+    "donor_raw": "Brooke Barratt",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Payson",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "23",
+    "page": 4,
+    "row": 6,
+    "date": "9/10/10",
+    "donor_raw": "Mel Frandsen",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "24",
+    "page": 4,
+    "row": 7,
+    "date": "9/3/10",
+    "donor_raw": "Fay R. Thornton",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "note": "cents written as a small raised '00'"
+   },
+   {
+    "line_no": "25",
+    "page": 4,
+    "row": 8,
+    "date": "9/3/10",
+    "donor_raw": "Beth K. Barratt",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "note": "THE ROW WHOSE PRINTED RULE rowbands.py MISSED on this 1.2-degree-skewed sheet; its band was recovered by pitch and crop-proved, rendering '50.00'"
+   },
+   {
+    "line_no": "26",
+    "page": 4,
+    "row": 9,
+    "date": "9/9/10",
+    "donor_raw": "Daniel Richards",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "note": "the row below the recovered rule; its crop rendered '500.00', proving the recovered band is correctly placed"
+   },
+   {
+    "line_no": "27",
+    "page": 4,
+    "row": 10,
+    "date": "9/13/10",
+    "donor_raw": "Stephen Barratt",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Highland",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "28",
+    "page": 4,
+    "row": 11,
+    "date": "9/14/10",
+    "donor_raw": "J. Marvin Slater",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "29",
+    "page": 4,
+    "row": 12,
+    "date": "9/13/10",
+    "donor_raw": "Glen Hunsaker",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Pleasant Grove",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "30",
+    "page": 4,
+    "row": 13,
+    "date": "9/13/10",
+    "donor_raw": "Sharon Loiseau",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "note": "address cell prints a post-office box; the box number is not carried"
+   },
+   {
+    "line_no": "31",
+    "page": 4,
+    "row": 14,
+    "date": "9/10/10",
+    "donor_raw": "Mike Miller",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "32",
+    "page": 4,
+    "row": 15,
+    "date": "9/9/10",
+    "donor_raw": "Linn Barratt",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "note": "the address cell prints no zip"
+   },
+   {
+    "line_no": "33",
+    "page": 4,
+    "row": 16,
+    "date": "9/15/10",
+    "donor_raw": "Kathleen E. Lott",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Lehi",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "34",
+    "page": 4,
+    "row": 17,
+    "date": "9/8/10",
+    "donor_raw": "Randy Barratt",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "note": "last row of the page \u2014 the crop of band 17 rendered '25.00'"
+   },
+   {
+    "line_no": "35",
+    "page": 5,
+    "row": 1,
+    "date": "10/4/10",
+    "donor_raw": "Fred Babbie",
+    "amount": "40.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Mailing Address cell is LEFT EMPTY BY THE FILER, so city and state are honestly blank. First row of the page \u2014 the crop of the extrapolated band 1 rendered the printed 'Amount' header above '40.00'"
+   },
+   {
+    "line_no": "36",
+    "page": 5,
+    "row": 2,
+    "date": "9/21/10",
+    "donor_raw": "Melanie Marsh",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "note": "the day's second digit is written OVER an earlier digit and is not cleanly legible at 1200 dpi; read as 21 and kept verbatim rather than repaired"
+   },
+   {
+    "line_no": "37",
+    "page": 5,
+    "row": 3,
+    "date": "9/23/10",
+    "donor_raw": "Sonnie Allen",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Orem",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "38",
+    "page": 5,
+    "row": 4,
+    "date": "9/28/10",
+    "donor_raw": "Harley Jacobs",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Highland",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "39",
+    "page": 5,
+    "row": 5,
+    "date": "10/1/10",
+    "donor_raw": "Harts Gas + Food",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "note": "the largest single contribution on the filing; a 1200 dpi crop rendered '2000.00' unambiguously (four figures, not '200'), and the page subtotal only closes with 2,000.00. Address cell prints a post-office box; the box number is not carried"
+   },
+   {
+    "line_no": "40",
+    "page": 5,
+    "row": 6,
+    "date": "9/20/10",
+    "donor_raw": "Nancy Pettit",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "41",
+    "page": 5,
+    "row": 7,
+    "date": "10/4/10",
+    "donor_raw": "David Litchford",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "42",
+    "page": 5,
+    "row": 8,
+    "date": "10/4/10",
+    "donor_raw": "Julie Palmer",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Lehi",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "43",
+    "page": 5,
+    "row": 9,
+    "date": "9/30/10",
+    "donor_raw": "Molina Davis",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Orem",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "44",
+    "page": 5,
+    "row": 10,
+    "date": "9/30/10",
+    "donor_raw": "Realty Executives Experts",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "note": "the address cell carries a suite number squeezed above the line; not carried"
+   },
+   {
+    "line_no": "45",
+    "page": 5,
+    "row": 11,
+    "date": "10/6/10",
+    "donor_raw": "Clay Jensen",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Santaquin",
+    "donor_state": "UT",
+    "note": "ESCALATED AND DECIDED BY ARITHMETIC, NOT BY GLYPH. A 1200 dpi crop of this cell renders the four characters '2500' with the decimal point buried in the 5's tail, i.e. it could be read 2,500.00. It is 25.00: with 25.00 the page's own printed 'Subtotal for this page' closes EXACTLY at 3,014.00, and Schedule A's printed Total (7,034.00), the cover's Column A and the balance ladder's close (493.18) all close with it; a 2,500.00 reading would break all four printed figures at once. Per GOTCHAS ('ARITHMETIC CLOSURE OUTRANKS GLYPH READING', the Rhodes reversal), the sum decides and the glyph is preserved here verbatim as written: '2500' with no visible point"
+   },
+   {
+    "line_no": "46",
+    "page": 5,
+    "row": 12,
+    "date": "10/2/10",
+    "donor_raw": "Hal Allen",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Orem",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "47",
+    "page": 5,
+    "row": 13,
+    "date": "10/4/10",
+    "donor_raw": "Karen Hansen",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "48",
+    "page": 5,
+    "row": 14,
+    "date": "10/3/10",
+    "donor_raw": "Robert Goss",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "American Fork",
+    "donor_state": "UT"
+   },
+   {
+    "line_no": "49",
+    "page": 5,
+    "row": 15,
+    "date": "10/5/10",
+    "donor_raw": "Thomas Roberts",
+    "amount": "49.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "note": "an odd 49.00, kept as printed"
+   },
+   {
+    "line_no": "50",
+    "page": 5,
+    "row": 16,
+    "date": "10/4/10",
+    "donor_raw": "Max Evans",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Cottonwood Heights",
+    "donor_state": "UT",
+    "note": "the only Salt Lake County donor on the filing"
+   },
+   {
+    "line_no": "51",
+    "page": 5,
+    "row": 17,
+    "date": "10/10/10",
+    "donor_raw": "Mike Shumway",
+    "amount": "350.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Am Fork",
+    "donor_state": "UT",
+    "note": "the same donor as p4 row 4 (30.00); donor_city is the filer's abbreviation 'Am Fork'. Last row of the page \u2014 the crop of band 17 rendered '350.00'"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 6,
+    "row": 1,
+    "date": "9/2/10",
+    "vendor_raw": "Reagan Outdoor Advertising",
+    "amount": "476.82",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Schedule B on this blank prints NO Purpose column \u2014 its columns are Date / 'Name of Contributor' (the form reuses Schedule A's header wording) / Mailing Address & Zip Code / Amount \u2014 so purpose is honestly blank. The address cell prints a Salt Lake City street line; expenditure rows carry no address field, so it is dropped entirely. First row of the page \u2014 the crop of the extrapolated band 1 rendered the printed 'Amount' header above '476.82'"
+   },
+   {
+    "line_no": "2",
+    "page": 6,
+    "row": 2,
+    "date": "9/10/10",
+    "vendor_raw": "Reagan Outdoor Advertising",
+    "amount": "2757.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is a pair of DITTO MARKS repeating the row above \u2014 the filer's own notation, recorded here; no address is carried on expenditure rows in any case"
+   },
+   {
+    "line_no": "3",
+    "page": 6,
+    "row": 3,
+    "date": "9/21/10",
+    "vendor_raw": "J-Mart Printing",
+    "amount": "550.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "4",
+    "page": 6,
+    "row": 4,
+    "date": "10/4/10",
+    "vendor_raw": "Reagan Outdoor Advertising",
+    "amount": "2757.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the same 2,757.00 billboard buy as row 2, a month later; kept as its own row. The crop of band 4 rendered '2,757.00' and a control crop of band 5 rendered an EMPTY cell, confirming the schedule stops at four rows"
+   }
+  ],
+  "notes": "PAGE-FACE candidate name 'Ted B. Barratt' (Political Party written 'Democratic', residence city American Fork); index.csv names NO candidate for this row. Page-face Office Seeking reads 'Utah County Commission Seat B.' with the filer's own trailing full stop, agreeing with index.csv. legacy_colAB, 6 PDF pages, all six read full-page at 200 dpi: p1 cover ('Seven days preceding the General Election' ticked, 'No' ticked on the amendment question, signed 10.25.10, stamped received OCT 25 PM 12:09), p2 SUMMARY PAGE (located by CONTENT), pp3-5 Schedule A, p6 Schedule B. UNLIKE THIS FILER'S JUNE REPORT (key 8c629a81) THIS ONE IS NOT A FAX \u2014 no transmission header, and the top-right foliation box is filled in on every sheet: 'Page 1 of 5' on the summary, 2, 3, 4 and 5 of 5 on the schedules. That is a companion to the ADDENDUM A4 foliation finding from the other direction: the SAME FILER foliates nothing in June and everything in October, and his foliation counts FIVE sheets while the retained PDF has SIX pages, because the cover is not foliated. A page ordinal remains worthless for locating the summary page. The filer writes the Date of Report as '10/25/10' on three sheets and '10/25/2010' on two \u2014 both kept verbatim in this record's row dates in the same spirit. Lines 3 of the balance ladder is a struck ZERO GLYPH and was read 0 by the 2026-08-01 cover tranche under the repo's zero-glyph ruling; this transcription does not disturb that reading. The filer is a REALTOR (his June report was faxed from Century 21 All Pros) and several donors are American Fork neighbours and family \u2014 five rows carry the surname Barratt (Mary, Brooke, Beth K., Stephen, Linn, Randy: six rows in fact) and are transcribed as donors exactly as printed, with no relationship inferred. Not a *_Redacted.pdf \u2014 the county published this era in the clear, so donor street lines, post-office boxes and zips are plainly visible on pp3-5 and were reduced to city/state at READ TIME; none reaches any field or note. Two donors' address cells are simply EMPTY (Gene Harvey p3 row 2, Fred Babbie p5 row 1) \u2014 left blank by the FILER, not redacted by the county, and that distinction is stated on each row."
+ }
+]

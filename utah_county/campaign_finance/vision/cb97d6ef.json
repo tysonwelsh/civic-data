@@ -3,7 +3,10 @@
  "key": "cb97d6ef",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:58:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 4.20",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,83 @@
    "notes": "Modern Box A-F form (v. 4.20) filled in entirely by HAND in pencil/grey ink, including a hand-drawn '$' before each figure (dropped per schema). The single figure 647.20 appears in five boxes; the filer's '2' is loopy and could be misread, so those hold at medium confidence, but all five writings agree. OFFICE RESOLUTION: index.csv carries the seat-less 'County Commission'; the page names the seat - 'Utah County Commissioner C'. The signature block is redacted upstream by the county (black bar); the address, phone and email survive. This form prints no political-party field. Cover Date and Date of Report both '5/18/20', cover Page '1', summary Page '4'. Clerk stamp \"'20 MAY 18 PM 1:16\"."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "3/19/20",
+   "donor_raw": "Taylor Dayton",
+   "donor_city": "Orem",
+   "donor_state": "UT",
+   "amount": "647.20",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.59,15.73,13.65,4.54@p2",
+   "geometry_frame": "p2 axis=y cell=79.59-93.24 rowband=15.73-20.27 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the CANDIDATE'S OWN self-contribution \u2014 the donor name, address and zip in the row match the p1 cover exactly. Classified as an itemized contribution row by the LADDER, not by any wording (B3): Box A 'Balance at Beginning' prints 0.00, this row alone equals Box B 647.20, and the close is 0.00, so there is no beginning-balance slot for it. The amount cell carries a hand-drawn '$' before the figure (dropped per the schema, recorded here). Address printed in the clear and reduced to city/state at read time; the street line is deliberately not carried."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "3/19/20",
+   "vendor_raw": "Utah County Clerk / Auditor",
+   "purpose": "Candidate Filing Fee",
+   "amount": "647.20",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.41,15.61,13.65,4.55@p3",
+   "geometry_frame": "p3 axis=y cell=79.41-93.06 rowband=15.61-20.16 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the 2020 revision's REAL Purpose column is filled and captured verbatim ('Candidate Filing Fee'). \u26d4 This is the Utah County filing fee: it is transcribed as this document's own printed figure and was NOT used to corroborate anything on any other filing, nor was any other filing's fee used to settle this one (E1/F5). Amount carries a hand-drawn '$' before the figure. Same date as the contribution row \u2014 the filer paid the fee out of his own contribution the same day."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah r8_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' = $647.20 on the p4 Summary Page (located by its printed heading; it is the LAST page, as the modern_boxAF tendency predicts, but it was found by content), which equals Schedule A's own printed 'Subtotal for this page' $647.20 AND its printed 'Total Contributions Received (Sum of all Schedule A pages in this report)' $647.20",
+     "detail": "The single Schedule A row is 647.20, which IS the schedule's printed page subtotal, IS its printed Total Contributions Received, and IS the cover's PROMOTED per-period cell Box B \u2014 three printed anchors agreeing to the cent on a one-row ledger. Box C 'Contributions Received Year to Date' also prints 647.20 and is retained as the cumulative figure, NEVER summed as an increment; period and year-to-date coincide because this is a withdrawal report covering the filer's only activity. The ladder closes from the other direction too: Box A 0.00 + Box B 647.20 = Box F 647.20, and Box F - Box D = the printed 0.00 close."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' = $647.20, which equals Schedule B's own printed 'Subtotal for this page' $647.20 AND its printed 'Total Expenditures Made (Sum of all Schedule B pages in this report)' $647.20",
+     "detail": "The single Schedule B row is 647.20 = the printed page subtotal = the printed schedule total = the cover's promoted per-period cell Box D. Box E YTD prints 647.20 and is never summed. Box F 647.20 minus Box D 647.20 = the printed 'Balance at Close of Reporting Period' 0.00, so the whole filing is one self-contribution spent entirely on one expenditure."
+    }
+   },
+   "in_kind_convention": "monetary-only, both conventions identical and both closing: no in-kind column, line or marker is printed on any page of this v. 4.20 blank, and neither of the two rows carries an in-kind annotation, so the monetary-only and monetary-plus-in-kind sums are the same 647.20 on each side. Tested per filing (G1); no in-kind entries exist.",
+   "escalations": 5,
+   "escalation_note": "Five crops. Geometry proof at 900 dpi --value: p2 row 1 rendered a hand-drawn '$' and '647.20'; p2 row 2 (one past the only entry) rendered an EMPTY boxed cell; p3 row 1 rendered '$ 647.20'; p3 row 2 (one past) rendered an EMPTY boxed cell. LEGIBILITY escalation at 2000 dpi on the CENTS PAIR of the Schedule A amount (pct:86.0,16.5,7.5,3.0@p2): it renders '.20' unambiguously \u2014 the tens digit is this filer's looped script '2' (a clear horizontal foot) and the units digit is a narrow closed ellipse '0' with no foot, so the figure is 647.20 and NOT 647.22. \u26d4 This was settled ONLY from the glyph pair on this page: the corpus's 2016/2018 Commission filing-fee figure of 647.22 was deliberately NOT used to arbitrate it (E1/F5/G6/H6 forbid using the fee to settle a figure on another filing), and the arithmetic could not arbitrate it either because every printed box on this filing carries the same single figure. Nothing was changed.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 2,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Taylor Dayton, 2020 Utah County Commissioner. modern_boxAF, revision 'v. 4.20' (footer-printed), but UNLIKE the other 2020 filings on this blank it is filled in ENTIRELY BY HAND in pencil/grey ink, including a hand-drawn '$' before every figure \u2014 so the born-digital-typed assumption of ADDENDUM I3 does NOT hold filing-wide for 2020, and I1's digit-shape hazard was live (handled: see escalation_note). FOUR pages, each classified from its own printed heading: p1 cover, p2 'Schedule A - Itemized Contributions Received', p3 'Schedule B - Itemized Expenditures Made', p4 'Summary Page'. No checklist decoy. PAGE FACE: candidate 'Taylor Dayton', Office 'Utah County Commissioner C', residence city Orem, report type radio filled = '30 Days after withdrawal or elimination', amendment answered 'No' (the No radio is filled, Yes is empty), signature Date and Date of Report both 5/18/20; a sideways clerk stamp reads '20 MAY 18 PM 1:16'. THE PAGE PRINTS A COMMISSION SEAT that index.csv does not: index.csv's office is the bare 'County Commission' while the filer wrote 'Utah County Commissioner C'. Recorded here as observed; NOT promoted (this record does not touch office_overrides.csv) and no seat was inferred beyond the letter the filer actually wrote. FOLIATION: this filer numbers the Page box 1/2/3/4 counting the cover \u2014 one of the two 2020 practices in I3. REDACTION judged per cell (I4): the ONLY blacked-out region in the document is the signature bar on p1; the filer's own street address is published in the clear on p1 and again in the Schedule A address cell, and both were reduced to city/state at read time. THE WHOLE FILING IS ONE TRANSACTION: a 647.20 self-contribution on 3/19/20 and a 647.20 filing-fee payment the same day, with a 0.00 beginning and 0.00 closing balance. FILER/CHANNEL CHECK: unlike this chunk's Child filing (c848c81b, which the county's Strapi record files under Taylor Dayton), THIS document's page face genuinely names Taylor Dayton in all four Name-of-Candidate boxes, so index.csv's candidate label is correct here. The two are different documents by different filers and were transcribed wholly independently; nothing was differenced between them."
+  }
+ }
 }

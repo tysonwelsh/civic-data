@@ -1,0 +1,129 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C01.json",
+ "key": "dbac7c8b",
+ "index_path": "raw/2008/2008_wb_llarson.pdf",
+ "applies_to": [
+  "raw/2008/2008_wb_llarson.pdf"
+ ],
+ "sha256_prefix": "6d7bfcc89bd5a7fe",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "cover_expense_last": "0",
+    "cover_expense_this": "360-",
+    "cover_expense_cum": "360-",
+    "cover_balance_end": "360-",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is entirely blank - a real empty schedule, zero rows. Cover line 1 carries a large hand-drawn circle (a written zero) in ALL THREE columns, so 0 rows == 0.00 on both scopes; they coincide (LAST REPORT is also 0, i.e. this is the first report of the cycle). Cover line 2 (<=$50 aggregate) is likewise 0 in all three columns, so no un-itemized small-donor money is hidden here."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "360-",
+    "cover_expense_cum": "360-",
+    "cover_balance_end": "360-",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "360.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Three Form B rows sum 40.00+20.00+300.00 = 360.00, equal to cover line 3 in BOTH the THIS and CUMULATIVE columns (LAST = 0), so the scopes coincide. All four amounts (three rows plus the cover figure) are written as whole dollars with a trailing dash meaning no cents. This is also the arithmetic that settles the first row's glyph: it is 40, not 46 or 76 - 40+20+300 is the only reading that closes to the printed 360."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr form prints no schedule total or page subtotal on either schedule; the filer wrote none either. Cover line 3 (360-) is the only anchor for Form B and it equals the row sum 360.00. Cover line 1 (0) is the only anchor for Form A and matches its zero rows.",
+  "row_count": "rowbands.py p3: geometry ok, 39 data bands; 3 inked writing bands (1-3), no filer total band = 3 rows emitted. p2 read at 90 and 200 dpi: no ink anywhere in the grid = 0 rows.",
+  "geometry_proof": "p3: a single 1000 dpi crop of the amount column spanning bands 1-3 renders '40-', '20-', '300-' in that order (first and last row both present and in position); the control crop one pitch below band 3 renders empty.",
+  "balance_chain": "0 + 0 - 360.00 = -360.00, but cover line 4 prints '360-' (positive) in both the THIS and CUMULATIVE columns. FILER ARITHMETIC / SIGN ERROR, retained verbatim - the magnitude closes, the sign does not. Not a transcription defect: the digits are unambiguous at 600 dpi."
+ },
+ "escalations": 3,
+ "escalation_note": "600 dpi crop of the cover anchor block; 1000 dpi crop of the p3 amount column (bands 1-3) plus its control band; 800 dpi crop of the p3 date column.",
+ "notes": "index.csv calls the candidate Leslie P. Larson / office County Council; the cover reads 'Leslie P Larson' and 'Name of Office: County Council', 'Office District: South' - agrees, in scope. All three Form B dates are written MONTH/YEAR ONLY ('03/08', '04/08', '04/08') with no day, so every date field is left BLANK with needs_review=1 and the verbatim kept in the row note - no day was invented. Cover PO box, home city, home and business phone numbers discarded at read time. Clerk date stamp reads 2008 JUL 17.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "County Clerk",
+   "purpose": "filing fee",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:79.61,7.00,11.44,1.98@p3",
+   "note": "date cell reads '03/08' - month and year only, no day, so the date is left blank per contract. Amount written '40' with a trailing dash meaning no cents -> 40.00. The leading glyph is a bistable open-top 4; the schedule sum (40+20+300=360) closing to the printed cover figure 360 is what settles it as 4, not the glyph read."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Great Harvest",
+   "purpose": "Convention expense",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:79.61,8.97,11.44,2.15@p3",
+   "note": "date cell reads '04/08' - month and year only, no day, left blank per contract. Amount written '20' with a trailing dash meaning no cents -> 20.00; the leading 2 is written with a looped descender that could read 7, and again the schedule sum decides it is 2."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Square One",
+   "purpose": "Convention Materials",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:79.61,11.12,11.44,2.05@p3",
+   "note": "date cell reads '04/08' - month and year only, no day, left blank per contract. Vendor glyphs read 'Square O_l' with the second word ambiguous between 'One' and 'Oil'; transcribed as the legible-glyph string 'Square One' at low confidence rather than a plausible business name. Amount written '300' with a trailing dash meaning no cents -> 300.00."
+  }
+ ]
+}

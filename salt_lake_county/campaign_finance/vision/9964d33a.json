@@ -1,0 +1,150 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2025-06-06",
+   "vendor_raw": "Tucci's",
+   "purpose": "Drinking Liberally Candidate Event",
+   "amount": "33.34",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.00,23.48,80.82,4.13@p3"
+  },
+  {
+   "line_no": 2,
+   "date": "2025-06-08",
+   "vendor_raw": "Utah Transit Authority",
+   "purpose": "Public Transportation to event",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.00,27.61,80.82,4.12@p3"
+  },
+  {
+   "line_no": 3,
+   "date": "2025-06-15",
+   "vendor_raw": "Ruths Diner",
+   "purpose": "Campaign Thank you Dinner",
+   "amount": "70.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.00,31.73,80.82,4.13@p3"
+  },
+  {
+   "line_no": 4,
+   "date": "2026-01-31",
+   "vendor_raw": "Kevin Parke",
+   "purpose": "Close out Account",
+   "amount": "6.07",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.00,35.86,80.82,4.14@p3"
+  }
+ ],
+ "total_contributions": "0.00",
+ "total_expenditures": "114.41",
+ "beginning_balance": "114.41",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "114.41"
+ },
+ "cover": {
+  "candidate": "Kevin Parke",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council District 1",
+  "district_number": "1",
+  "report_type": "FINAL / DISSOLUTION REPORT box checked, on the untitled-year 'Financial Disclosure Report For a Candidate' form",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2026-01-31",
+  "form_year": "Financial Disclosure Report For a Candidate (no year in title)"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Parke-Kevin__CC8867D1.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Parke, Kevin",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Parke-Kevin__CC8867D1.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Final/Dissolution box checked on the standard 3-page report form (chunk prior confirmed). Office Sought line reads 'Salt Lake County Council District 1' with District Number '1' - in scope, not school board. Electronically signed 01/31/26 6:32 PM; Summary header Date of Report 01/31/26. Cover address block and phone/email blacked at source; no redaction on the Schedule B rows (no address column on Schedule B). There is NO Schedule A page in the document; stated contributions $0.00. Summary Column B prints $0.00/$0.00 - noted, not repaired. Schedule B rows dated 06/2025 (pre-period activity paid down in this final period) plus a 01/31/2026 'Close out Account' row to the candidate himself.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page in the document; stated contribution total is $0.00 so there is no contradiction"
+    },
+    "expenditures": {
+     "stated": "114.41",
+     "schedule_total": "114.41",
+     "itemized": "114.41",
+     "basis": "schedule-grand-total",
+     "result": "exact",
+     "detail": "4 county-grid rows sum 114.41 = printed SUBTOTAL = TOTAL = Summary line 2 Column A; the four rows close the account"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 114.41 = printed subtotal 114.41 - gates exactly",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Final/Dissolution box checked on the standard 3-page report form (chunk prior confirmed). Office Sought line reads 'Salt Lake County Council District 1' with District Number '1' - in scope, not school board. Electronically signed 01/31/26 6:32 PM; Summary header Date of Report 01/31/26. Cover address block and phone/email blacked at source; no redaction on the Schedule B rows (no address column on Schedule B). There is NO Schedule A page in the document; stated contributions $0.00. Summary Column B prints $0.00/$0.00 - noted, not repaired. Schedule B rows dated 06/2025 (pre-period activity paid down in this final period) plus a 01/31/2026 'Close out Account' row to the candidate himself."
+  }
+ }
+}

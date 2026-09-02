@@ -1,0 +1,76 @@
+[{
+ "index_path": "raw/2014/2014_12-14Lee.pdf",
+ "key": "71a231cf",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r4_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (3,000) on the p2 SUMMARY PAGE — the same figure Schedule A prints twice on its own footer, as 'Subtotal for this page' 3,000 and as 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' 3,000",
+   "detail": "2 Schedule A rows sum to 1500.00 + 1500.00 = 3,000.00 exactly, matching all THREE printed anchors: the sheet's Subtotal for this page (3,000), its Total Contributions Received (3,000), and the cover's promoted PER-PERIOD cell, Column A line 1 (3,000) — which the filer also re-copies at summary line 4 as '3000'. Column B 'Year-to-Date Total' prints 49,320 and is NOT summed as an increment (utah_county is a per-period regime); the schedule is period-scoped, so the 49,320 carries earlier periods this sheet never itemizes."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (206.64, written '206' with a raised superscript '64') on the p2 SUMMARY PAGE — also Schedule B's own printed 'Subtotal for this page' 206.64 and its 'Total Expenditures Received' 206.64",
+   "detail": "5 Schedule B rows sum to 25.11 + 21.33 + 66.29 + 60.20 + 33.71 = 206.64 exactly, matching all three printed anchors (page subtotal, schedule total, cover Column A line 2, and the same 206.64 re-copied at summary line 6). Column B YTD 40,277 is cumulative and never summed. FILER ARITHMETIC NOTE, traced and NOT nudged: the filer keeps cents on the expenditure figures but writes the BALANCE ladder in whole dollars — line 3 beginning 6,249 + line 4 contributions 3,000 = line 5 subtotal 9,249 is exact, but line 5 minus line 6 (206.64) is 9,042.36 while line 7 prints 9,042. The 0.36 lives entirely in the cover's balance-close line and touches NEITHER side's itemization: both schedules close to the cent on their own printed totals. Retained verbatim."
+  }
+ },
+ "in_kind_convention": "monetary-only closed on both sides. Neither schedule prints an in-kind column and no row is annotated in-kind, so the monetary-only and monetary-plus-in-kind conventions give identical sums (3,000.00 and 206.64) and both close on the promoted Column A cells; the cash-only family default was nevertheless tested rather than inherited.",
+ "escalations": 6,
+ "escalation_note": "Six 400 dpi FULL-ROW-STRIP crops used as the two mandatory geometry controls on each schedule page (the amounts themselves are legible at 200 dpi; no glyph was in dispute, so nothing was escalated to settle truth). p3: the §A1 first-entry crop of the extrapolated band 1 rendered '10/28/2014  Tracy & Patricia Lunt  ______  1,500' — i.e. THIS filer did NOT skip the first ruled line — and the row-2 band rendered '10/28/2014  Scot & Stacey Hazard  ______  1,500'; the §B5 one-band-past control (row 3) rendered a completely EMPTY set of four ruled lines. p4: the band-1 crop rendered '11/1/2014  Facebook  ______  25.11', the row-5 crop rendered '12/1/2014  Facebook  ______  33 71' (raised cents), and the one-past control (row 6) rendered empty ruled lines. All six crops also render the ADDRESS column as a bare empty rule with no redaction bar anywhere on the sheet.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [76.60, 85.60],
+   "cells": [[7.43, 17.90], [19.25, 49.19], [50.54, 75.25], [76.60, 85.60]],
+   "rows": [[15.02, 18.63], [18.63, 22.24], [22.24, 25.83], [25.83, 29.47], [29.47, 33.06], [33.06, 36.63], [36.63, 40.24], [40.24, 43.81], [43.81, 47.42], [47.42, 50.99], [50.99, 54.58], [54.58, 58.17], [58.17, 61.76], [61.76, 65.31], [65.31, 68.85], [68.85, 72.47], [72.47, 76.06]],
+   "measure_note": "legacy_colAB Schedule A, the UNDERLINE form: rowbands.py (raw frame, skew +0.6 deg, drift 0.81%) returns 17 per-column underline rules at 18.63 .. 76.06 with a mean pitch of 3.59, each rule carrying exactly 4 segments which ARE the column bands (Date 7.43-17.90, Name of Contributor 19.25-49.19, Address/City/Zip 50.54-75.25, Amount 76.60-85.60). TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up from 18.63 to 15.02 — that extrapolated band is where the header labels do NOT fall (they print higher, at ~14.6%). TWO-CROP PROOF at 400 dpi, full row strip x=7.4 w=78.2: the row-1 band pct:7.4,15.02,78.2,3.61@p3 rendered the printed column headings along its top edge and, below them, '10/28/2014  Tracy & Patricia Lunt  [empty rule]  1,500' (recorded 1500.00); the row-2 band pct:7.4,18.63,78.2,3.61@p3 rendered '10/28/2014  Scot & Stacey Hazard  [empty rule]  1,500' (recorded 1500.00). NEGATIVE CONTROL one band past the last row, pct:7.4,22.24,78.2,3.59@p3, rendered four EMPTY ruled lines — no third entry, bands not off by one.",
+   "skew_note": "page skew +0.6 deg; p3 and p4 of this one PDF have DIFFERENT skew (+0.6 vs +0.7) and different first-rule offsets, so the grids are not interchangeable and each page was measured on its own."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [76.59, 85.59],
+   "cells": [[7.36, 17.89], [19.24, 49.18], [50.53, 75.23], [76.59, 85.59]],
+   "rows": [[16.52, 20.12], [20.12, 23.81], [23.81, 27.37], [27.37, 30.99], [30.99, 34.60], [34.60, 38.19], [38.19, 41.78], [41.78, 45.37], [45.37, 48.96], [48.96, 52.53], [52.53, 56.10], [56.10, 59.71], [59.71, 63.28], [63.28, 66.82], [66.82, 70.39], [70.39, 73.94], [73.94, 77.55]],
+   "measure_note": "Same underline grid as p3 but measured independently (skew +0.7 deg, drift 0.94%): 17 rules at 20.12 .. 77.55, mean pitch 3.60, four segments per rule giving the column bands (Date 7.36-17.89, Purchased From/Source 19.24-49.18, Address/City/Zip 50.53-75.23, Amount 76.59-85.59). Text above its rule; row 1 extrapolated one pitch up from 20.12 to 16.52. TWO-CROP PROOF at 400 dpi, full row strip: pct:7.4,16.52,78.2,3.60@p4 rendered '11/1/2014  Facebook  [empty rule]  25.11' (recorded 25.11) and pct:7.4,30.99,78.2,3.61@p4 rendered '12/1/2014  Facebook  [empty rule]  33 71' with the cents raised (recorded 33.71). NEGATIVE CONTROL one band past the last entry, pct:7.4,34.60,78.2,3.59@p4, rendered four EMPTY ruled lines."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "10/28/2014",
+   "donor_raw": "Tracy & Patricia Lunt",
+   "amount": "1500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Address, City & Zip cell LEFT EMPTY BY THE FILER — the crop renders a bare printed rule with nothing on it. This filing is NOT a *_Redacted.pdf and carries no redaction bar anywhere, so the blank is the filer's omission, not a county redaction and not a form that prints no city. donor_city/donor_state honestly blank. Amount written '1,500' with no cents."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "10/28/2014",
+   "donor_raw": "Scot & Stacey Hazard",
+   "amount": "1500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Address cell LEFT EMPTY BY THE FILER (bare printed rule, no redaction bar on this unredacted filing) — city/state honestly blank. Same date as row 1; written as a separate entry, not a ditto. Amount '1,500'."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "11/1/2014",
+   "vendor_raw": "Facebook",
+   "amount": "25.11", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "The 2014 Schedule B heads its payee column 'Purchased From/Source' and prints NO Purpose column, and this filer supplied none of the three documented workarounds (no hyphen suffix, no parenthesis, no next-row note), so purpose is honestly blank. Cents written inline with a decimal point here, unlike rows 2-5."},
+  {"line_no": "2", "page": 4, "row": 2, "date": "11/5/2014",
+   "vendor_raw": "Garden Restaurant",
+   "amount": "21.33", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "cents written as a RAISED superscript ('21' with a small '33' above the line) = 21.33; no Purpose column on this form, purpose honestly blank"},
+  {"line_no": "3", "page": 4, "row": 3, "date": "11/6/2014",
+   "vendor_raw": "Facebook",
+   "amount": "66.29", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "raised superscript cents ('66' with '29' above) = 66.29; purpose honestly blank (no Purpose column)"},
+  {"line_no": "4", "page": 4, "row": 4, "date": "11/13/2014",
+   "vendor_raw": "Best Western in St George",
+   "amount": "60.20", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "payee written verbatim including the filer's own place words 'in St George'; raised superscript cents ('60' with '20' above) = 60.20. The place words are part of the PAYEE CELL as written and are not an address field; the form's separate Address cell is an empty rule. Purpose honestly blank."},
+  {"line_no": "5", "page": 4, "row": 5, "date": "12/1/2014",
+   "vendor_raw": "Facebook",
+   "amount": "33.71", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "raised superscript cents ('33' with '71' above) = 33.71; dated the day before the report was signed (12/2/2014). Purpose honestly blank."}
+ ],
+ "notes": "Page-face candidate 'Bill Lee' on the name line, signed and printed 'William C Lee' in the Report Verification block; index.csv names NO candidate for this row, so the page face supplies it. Page-face Office Seeking reads 'Utah County Commission (Seat B)' IN THE FILER'S OWN HAND, which agrees with the channel's 'County Commission Seat B' — a seat that is PRINTED, not inferred. Party 'Republican', residence city Pleasant Grove. 4 pages, all four read full-page: p1 the county's 2014 blank cover ('2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', Utah County Code 2-5 & Utah State Code 17-16-6.5), report type '30 Days after the General Election' ticked, amendment answered 'No', signed 12/2/2014, clerk date-stamp 'DEC 3 AM11:48'; p2 the SUMMARY PAGE (located by its printed heading, and here it is also foliated 'Page 2 of 4' — this filer's foliation COUNTS THE COVER, one of the four conventions on record); p3 SCHEDULE A ITEMIZED CONTRIBUTIONS RECEIVED, foliated 3 of 4; p4 SCHEDULE B ITEMIZED EXPENDITURES MADE, foliated 4 of 4. Both schedules are the standard 2014 underline blank — Schedule B correctly heads its payee column 'Purchased From/Source' (the 2014 fix to the 2012 'Name of Contributor' mislabel) and still prints NO Purpose column. Every donor and vendor Address cell on both sheets is an EMPTY PRINTED RULE: this filing is not redacted (no bar anywhere) and the form does print a city/zip column, so the blanks are the FILER's omission, the second of the four documented blank-address causes. THE WHOLE-DOLLAR COVER: the filer records cents on his expenditure figures (206.64, itemized to the cent) but writes the balance ladder in round dollars, so line 7 prints 9,042 where 9,249 - 206.64 = 9,042.36. That 0.36 is confined to the cover's closing-balance line, is uniquely attributable to the filer's own rounding, and changes NEITHER side's reconciliation — both close exactly. Nothing was recomputed or nudged. Cumulative Column B figures (contributions 49,320 / expenditures 40,277) are retained as cumulative and never summed as increments. Per the cover tranche's note this is the post-election report of the same filer as key e75df429, and its beginning balance 6,249 equals that report's closing balance — observed, but NO two covers were differenced and nothing here depends on that filing."
+}]

@@ -1,0 +1,201 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2020-02-25",
+   "donor_raw": "Salt Lake Board of Realtors RPAC",
+   "amount": "6,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.77,22.75,88.67,4.25@p3",
+   "note": "Complete Mailing Address cell is fully covered by the county's black bar - redacted at source, so donor_city/donor_state are honestly blank (NOT left empty by the filer). The bar's right edge overlaps the left sliver of the Occupation/Employer cell; the remainder of that cell is visible at 1200 dpi and is EMPTY - the column exists and the filer left it blank. Amount written '$6,000.' with a superscript '00' over a rule = 6,000.00."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2020-03-05",
+   "vendor_raw": "JDC Consulting",
+   "purpose": "Fee March 2020",
+   "amount": "1500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.33,24.50,80.26,3.50@p4",
+   "note": "superscript cents '00' over a rule = 1500.00"
+  },
+  {
+   "line_no": 2,
+   "date": "2020-03-16",
+   "vendor_raw": "JDC Consulting",
+   "purpose": "Mailer Design, Print + Mail Door Hangers, Poll to D-6",
+   "amount": "1627.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.33,28.00,80.26,3.75@p4",
+   "note": "purpose runs on two cramped lines; superscript cents '00' = 1627.00"
+  },
+  {
+   "line_no": 3,
+   "date": "2020-03-16",
+   "vendor_raw": "Salt Lake Board of Realtors RPAC Donation",
+   "purpose": "Donation",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:11.33,31.75,80.26,3.75@p4",
+   "note": "the superscript cents glyph is scribbled and not legible as digits even at 1200 dpi; the page's own arithmetic settles it - 5524.07 minus the other five rows leaves exactly 400.00 (arithmetic outranks glyph reading). Recipient name includes the filer's trailing word 'Donation', kept verbatim."
+  },
+  {
+   "line_no": 4,
+   "date": "2020-03-18",
+   "vendor_raw": "JDC Consulting",
+   "purpose": "Website w/certificate + Security + Misc Supplies",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.33,36.50,80.26,4.25@p4",
+   "note": "superscript cents '00' over a long rule = 500.00"
+  },
+  {
+   "line_no": 5,
+   "date": "2020-03-18",
+   "vendor_raw": "JDC Consulting",
+   "purpose": "Calling Software",
+   "amount": "147.07",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:11.33,40.75,80.26,4.00@p4",
+   "note": "digits overwritten/retraced; read 147 with superscript '07'. Confirmed by the page subtotal - the other five rows leave exactly 147.07."
+  },
+  {
+   "line_no": 6,
+   "date": "2020-03-18",
+   "vendor_raw": "JDC Consulting",
+   "purpose": "Misc Software, Website Design, Mailer Design/Mail",
+   "amount": "1350.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.33,44.75,80.26,4.00@p4",
+   "note": "the last word of the purpose overruns the cell and is only partly legible ('Design' then a run-together word read as 'Mail'); kept at low cell confidence rather than completed. Superscript cents '00' = 1350.00."
+  }
+ ],
+ "total_contributions": "6,000.00",
+ "total_expenditures": "5524.07",
+ "beginning_balance": "17,871.62",
+ "ending_balance": "18,347.55",
+ "aggregate": {
+  "total_contributions_to_date": "24,171.62",
+  "total_expenditures_to_date": "5524.07",
+  "line5_subtotal": "23,871.62"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "SLCo Council D-6",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-6-20",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2020_disclosures__april__burdick-fin-dis-4-6-20_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/2020_disclosures__april__burdick-fin-dis-4-6-20_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Cover confirms the chunk file: Max Burdick, Office Sought 'SLCo Council D-6', April 5 interim, form title '2020 Financial Disclosure Report For a Candidate'. The District Number cell is EMPTY - the filer wrote the whole seat into the Office Sought cell. NEITHER amendment box (Yes/No) is ticked, so is_amendment is honestly blank rather than 'No'. Candidate street address, phone, fax and email are covered by the county's black bars on the cover; nothing was read from them. This 2020-vintage filing carries NO 'Summary Page Other Campaign Accounts' block and no trailing Other-Accounts itemized pages - the document is exactly 4 pages, cover/Summary/Schedule A/Schedule B, so nothing was excluded from totals on that account. The single Schedule A row is a PAC (Salt Lake Board of Realtors RPAC); the same PAC appears on Schedule B as a $400.00 'Donation' PAID OUT - both retained verbatim as the form states them.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "6,000.00",
+     "schedule_total": "6,000.00",
+     "itemized": "6000.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "the single Schedule A row 6,000.00 equals the printed SUBTOTAL FOR THIS PAGE, the printed TOTAL CONTRIBUTIONS RECEIVED, and Summary line 1 Column A. Both printed anchors have the SAME scope here (Column A = Column-A period figure); Column B 24,171.62 is the cycle aggregate and was NOT used as an anchor."
+    },
+    "expenditures": {
+     "stated": "5524.07",
+     "schedule_total": "5524.07",
+     "itemized": "5524.07",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "6 rows sum to 5524.07 = printed page subtotal = printed TOTAL EXPENDITUTRES MADE = Summary line 2 Column A (and Column B, which is identical on this filing)."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 6000.00 = printed subtotal 6,000.00 (and printed schedule total 6,000.00); p4 rows 5524.07 = printed subtotal 5524.07 (and printed schedule total 5524.07)",
+   "escalations": 4,
+   "escalation_note": "p4 amount column 1200 dpi cell crop (all 6 rows, one band) and p4 date+recipient column 1200 dpi crop; p3 occupation+amount cells and p3 date+contributor cells at 1200 dpi. All re-read identically.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Cover confirms the chunk file: Max Burdick, Office Sought 'SLCo Council D-6', April 5 interim, form title '2020 Financial Disclosure Report For a Candidate'. The District Number cell is EMPTY - the filer wrote the whole seat into the Office Sought cell. NEITHER amendment box (Yes/No) is ticked, so is_amendment is honestly blank rather than 'No'. Candidate street address, phone, fax and email are covered by the county's black bars on the cover; nothing was read from them. This 2020-vintage filing carries NO 'Summary Page Other Campaign Accounts' block and no trailing Other-Accounts itemized pages - the document is exactly 4 pages, cover/Summary/Schedule A/Schedule B, so nothing was excluded from totals on that account. The single Schedule A row is a PAC (Salt Lake Board of Realtors RPAC); the same PAC appears on Schedule B as a $400.00 'Donation' PAID OUT - both retained verbatim as the form states them."
+  }
+ }
+}

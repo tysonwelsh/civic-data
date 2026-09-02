@@ -1,0 +1,227 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-11-20",
+   "vendor_raw": "DFCU",
+   "purpose": "BANK FEES",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.44,23.30,76.72,3.68@p4",
+   "note": "amount printed '5.' + cents tick"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-12-20",
+   "vendor_raw": "DFCU",
+   "purpose": "BANK FEES",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.44,26.98,76.72,3.63@p4",
+   "note": "amount printed '5.' + cents tick"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-11-21",
+   "vendor_raw": "MORGAN & MAY SIERRA",
+   "purpose": "CAMPAIGN WORK",
+   "amount": "1500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.44,30.61,76.72,3.66@p4",
+   "note": "vendor name wraps two printed lines 'MORGAN & MAY' / 'SIERRA' in one ruled row; amount printed '1.500.' (filer's period-thousands style) + cents tick, gates as 1,500.00"
+  },
+  {
+   "line_no": 4,
+   "date": "2024-11-21",
+   "vendor_raw": "PACIFIC CAMPAIGNS",
+   "purpose": "ADVERTISING",
+   "amount": "1500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.44,34.27,76.72,3.64@p4",
+   "note": "amount printed '1,500.' + cents tick"
+  },
+  {
+   "line_no": 5,
+   "date": "2024-11-15",
+   "vendor_raw": "CAFE RIO",
+   "purpose": "THANK YOU LUNCH",
+   "amount": "87.80",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.44,37.91,76.72,3.68@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2024-11-03",
+   "vendor_raw": "MAVERICK",
+   "purpose": "GAS",
+   "amount": "46.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.44,41.59,76.72,3.64@p4",
+   "note": "date printed '11-3-24'"
+  },
+  {
+   "line_no": 7,
+   "date": "2024-11-07",
+   "vendor_raw": "SAMS CLUB",
+   "purpose": "GAS",
+   "amount": "59.12",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.44,45.23,76.72,3.66@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2024-11-12",
+   "vendor_raw": "SAMS CLUB",
+   "purpose": "GAS",
+   "amount": "48.65",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.44,48.89,76.72,3.63@p4",
+   "note": "purpose glyph reads '6A3' = filer's G; amount has a trailing flourish after 48.65"
+  },
+  {
+   "line_no": 9,
+   "date": "2024-11-14",
+   "vendor_raw": "SINCLAIR",
+   "purpose": "MOTOR OIL",
+   "amount": "9.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.44,52.52,76.72,3.68@p4",
+   "note": "amount printed '9.' + cents tick"
+  }
+ ],
+ "total_contributions": "0.00",
+ "total_expenditures": "3261.09",
+ "beginning_balance": "3261.09",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "22526.00",
+  "total_expenditures_to_date": "22526.00",
+  "line5_subtotal": "3261.09"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "COUNTY RECORDER",
+  "district_number": "",
+  "report_type": "Year-End Report (January 31 of each year) - 2024 form 'For a Candidate'",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2025-01-28",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "low",
+  "total_expenditures_to_date": "low",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Snelgrove-Richard__C8297A1D.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Snelgrove, Richard",
+  "office": "Recorder",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Snelgrove-Richard__C8297A1D.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Whole filing handwritten. Form titled '2024 Financial Disclosure Report For a Candidate'; Year-End Report box X'd; amendment Yes/No NEITHER box checked (is_amendment left blank). Signed 1-28-25, stamped RECEIVED JAN 29 2025 - index.csv date 2025-02-03 not confirmed at the page (page governs). No donor addresses printed on the itemized page, so nothing redacted there (chunk redaction=none confirmed); cover street/email bar-redacted. Cover 'Office' field reads RECORDER, Office Sought COUNTY RECORDER - not school board. COLUMN B CENTS: both aggregate cells print cramped/overwritten cents glyphs that survive 1200dpi as ambiguous blobs (audit prior read line 1 as 22,526.50). Recorded as 22,526.00/22,526.00 at LOW confidence on the document's own arithmetic, which outranks the glyph: this filing's Schedule B TOTAL prints 22,526.00 with clean '00' ticks; the zero ending balance forces cumulative in = cumulative out; and the chain across the three sibling documents closes only at .00 (Oct-29 6c280e0f aggregates 22,526.00/19,264.91 + this period 0.00/3,261.09 = 22,526.00/22,526.00; the same-day Final f755a5bc prints both aggregates cleanly as 22,526.00). Schedule A p3 blank = real zero, not a gap.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "0.00",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A p3 exists and is wholly blank with handwritten subtotal '0.00' and total '0.00' - a real zero consistent with Summary line 1 Col A 0.00"
+    },
+    "expenditures": {
+     "stated": "3261.09",
+     "schedule_total": "22526.00",
+     "itemized": "3261.09",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "9 handwritten rows sum 3,261.09 = printed page subtotal = Summary line 2 Col A. The schedule's TOTAL row prints 22,526.00 - CUMULATIVE aggregate written in the total cell while the page subtotal is the period figure (single Schedule B page); reconciled against the same-scope Summary line 2"
+    }
+   },
+   "page_subtotal_gates": "p4 rows 3,261.09 = printed subtotal 3,261.09 exact; p3 blank, handwritten subtotal/total 0.00",
+   "escalations": 6,
+   "escalation_note": "p4 400dpi full-row band rows 1-9 + 600dpi amount strip (all rows re-read identically); p2 ColB cells 600dpi then 1200dpi cents crops x2; p4 TOTAL cents 1200dpi",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 9,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Whole filing handwritten. Form titled '2024 Financial Disclosure Report For a Candidate'; Year-End Report box X'd; amendment Yes/No NEITHER box checked (is_amendment left blank). Signed 1-28-25, stamped RECEIVED JAN 29 2025 - index.csv date 2025-02-03 not confirmed at the page (page governs). No donor addresses printed on the itemized page, so nothing redacted there (chunk redaction=none confirmed); cover street/email bar-redacted. Cover 'Office' field reads RECORDER, Office Sought COUNTY RECORDER - not school board. COLUMN B CENTS: both aggregate cells print cramped/overwritten cents glyphs that survive 1200dpi as ambiguous blobs (audit prior read line 1 as 22,526.50). Recorded as 22,526.00/22,526.00 at LOW confidence on the document's own arithmetic, which outranks the glyph: this filing's Schedule B TOTAL prints 22,526.00 with clean '00' ticks; the zero ending balance forces cumulative in = cumulative out; and the chain across the three sibling documents closes only at .00 (Oct-29 6c280e0f aggregates 22,526.00/19,264.91 + this period 0.00/3,261.09 = 22,526.00/22,526.00; the same-day Final f755a5bc prints both aggregates cleanly as 22,526.00). Schedule A p3 blank = real zero, not a gap."
+  }
+ }
+}

@@ -1,0 +1,55 @@
+[{
+ "index_path": "raw/2014/2014_10-14Smith.pdf",
+ "key": "a0202d15",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r3_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED = $1,465.54 on the p2 SUMMARY PAGE (restated at line 4 'From Line 1 Column A'), which is also Schedule A's own printed 'Subtotal for this page $ 1465.54' and its printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $ 1465.54'",
+   "detail": "1 Schedule A row sums to 1,465.54 exactly = the schedule's page subtotal = the schedule's own total = the cover's promoted per-period Column A cell = line 4. All four printed statements of the figure agree to the cent. Column B 'Year-to-Date Total' prints 7,065.54 and is NOT summed as an increment — it carries this filer's earlier 2014 periods, which this report does not itemize. The p2 balance ladder closes exactly, and it is the ladder that settles the beginning balance (see escalation_note): line 3 34.46 + line 4 1,465.54 = line 5 1,500.00; 1,500.00 - line 6 1,500.00 = line 7, a written zero glyph."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE = $1,500 ⁰⁰ on the p2 SUMMARY PAGE (restated at line 6 as '$1,500.00'), which is also Schedule B's own printed 'Subtotal for this page $ 1500 ⁰⁰' and its printed 'Total Expenditures Received (Sum of subtotals from all Schedule B pages) $ 1500 ⁰⁰'",
+   "detail": "1 Schedule B row sums to 1,500.00 exactly = the schedule's page subtotal = the schedule's own total = the cover's promoted per-period Column A cell = line 6. Cents are written as a raised superscript '00' on all three of those cells and on the row itself. Column B 'Year-to-Date Total' prints 7,065.54 — IDENTICAL to the contribution side's Column B, i.e. this filer has spent every dollar he has raised across the cycle, which is consistent with line 7 closing at zero. It is retained as cumulative and never summed as an increment."
+  }
+ },
+ "in_kind_convention": "monetary-only, closed at the first test on both sides — the 2014 form prints no in-kind column, neither of the two rows is marked in-kind, and no in-kind line appears on the summary page, so both conventions give the same sums (1,465.54 / 1,500.00)",
+ "escalations": 2,
+ "escalation_note": "⚠ ONE ESCALATION THAT MATTERS BEYOND THIS RECORD — the p2 line 3 'Balance at Beginning of Reporting Period' cell. At full-page resolution the handwriting reads as '$3446' with no visible separator, and that is how it was captured in the earlier cover-totals tranche (this module's published stated_beginning_balance for this filing is 3446). A 1200 dpi tight crop (pct:57,58.5,18,6.5@p2) resolves a decimal point between the '34' and the '46', and THE LADDER SETTLES IT REGARDLESS: line 5 'Subtotal (Add lines 3 and 4)' is printed as $1,500.00 and line 4 is 1,465.54, so line 3 can only be 34.46 — 3,446 would make line 5 read 4,911.54. ARITHMETIC CLOSURE OUTRANKS GLYPH READING (GOTCHAS, the Rhodes reversal): the beginning balance is 34.46. This is reported to the coordinator as a candidate correction to the published cover figure; nothing outside this record was edited. Second escalation: a 700 dpi crop (pct:57,75,18,12@p2) rendered line 6 as '$1,500.00' and line 7 as a single hand-drawn ZERO GLYPH — an oval with a diagonal stroke through it — which under the zero-glyph ruling reads 0 and closes the ladder.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [83.10, 93.30],
+   "cells": [[4.87, 16.70], [18.29, 52.05], [53.64, 81.58], [83.11, 93.23]],
+   "rows": [[16.10, 20.16], [20.16, 24.25], [24.25, 28.32], [28.32, 32.36], [32.36, 36.46], [36.46, 40.48], [40.48, 44.57], [44.57, 48.61], [48.61, 52.68], [52.68, 56.75], [56.75, 60.80], [60.80, 64.84], [64.84, 68.89], [68.89, 72.98], [72.98, 77.02], [77.02, 81.12], [81.12, 85.16]],
+   "measure_note": "2014 legacy_colAB Schedule A, underline form: rowbands.py (skew -0.1) returns 17 per-column rules 20.16 .. 85.16 at pitch 4.063, whose segments give the column bands (Date 4.87-16.70, Name 18.29-52.05, Address 53.64-81.58, Amount 83.11-93.23). NOTE these bands DO match the wave's reference record (Graves 2014) almost exactly, whereas Buhman's 2014 scan did not — confirming that the 2014 blank is one template placed differently on different scanners, and that the frame must still be measured per filing. Text sits ABOVE its rule; row 1 extrapolated one pitch up to 16.10. Only row 1 is written. PROOF CROP, full width at 600 dpi so it doubles as the §7 field-shift screen: pct:4,16.10,90,4.06@p3 rendered the printed column headers above '6/26/14 | JEFF SMITH (SELF) | (street line) So Orem, UT | $1465.54' — the header-above-the-entry is also the §A1 first-entry control and proves the filer began on printed line 1. §B5 ONE-PAST-THE-END negative control pct:83.1,20.16,10.5,4.09@p3 (row 2) rendered EMPTY — two rules with nothing between them."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [83.10, 93.50],
+   "cells": [[5.00, 16.82], [18.41, 52.17], [53.76, 81.64], [83.17, 93.35]],
+   "rows": [[18.05, 22.11], [22.11, 26.16], [26.16, 30.21], [30.21, 34.27], [34.27, 38.34], [38.34, 42.41], [42.41, 46.48], [46.48, 50.57], [50.57, 54.61], [54.61, 58.66], [58.66, 62.71], [62.71, 66.77], [66.77, 70.84], [70.84, 74.89], [74.89, 78.98], [78.98, 83.00], [83.00, 87.07]],
+   "measure_note": "Schedule B, measured on its own rules: 17 rules 22.11 .. 87.07, skew -0.1, pitch 4.06, row 1 extrapolated to 18.05. Only row 1 is written. PROOF CROP full width at 600 dpi: pct:4,18.05,90,4.06@p4 rendered the printed headers 'Date | Purchased From/Source | Address, City & Zip | Amount' above '6/26/14 | LISA SHEPARD | Provo, Ut | $1500 ⁰⁰' (recorded 1500.00) — the §A1 first-entry control. §B5 ONE-PAST-THE-END control pct:4,22.11,90,4.05@p4 (row 2), taken FULL WIDTH deliberately: it rendered the single word 'CONSULTING' in the payee column with the date, address and AMOUNT cells all EMPTY. That is the continuation-line case — the payee's name runs onto the next printed row while the entry stays one row — and the empty amount cell is what proves there is no second entry, which the schedule's own subtotal independently confirms."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "6/26/14",
+   "donor_raw": "JEFF SMITH (SELF)", "donor_city": "Orem", "donor_state": "UT",
+   "amount": "1465.54", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the candidate's own money, labelled '(SELF)' — not called a loan anywhere on the filing, and the ladder books it at line 1 CONTRIBUTIONS (line 3 carries an independent 34.46 beginning balance), so it is an itemized contribution row on the ADDENDUM B §B3 reasoning. The filer writes his familiar name here ('JEFF SMITH') and his formal name on the cover ('JEFFERY DEAN SMITH'); both are recorded, neither is adjudicated. City written 'So Orem' with 'UT' squeezed onto a second line beneath — read as Orem, UT; PRIVACY: the street line in the same cell is deliberately not carried."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "6/26/14",
+   "vendor_raw": "LISA SHEPARD CONSULTING",
+   "amount": "1500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the payee name is written across TWO printed rows — 'LISA SHEPARD' on row 1 and 'CONSULTING' indented on row 2 — so this is ONE entry consuming two printed rows, with the date, address and amount all on row 1; vendor_raw joins the two written lines. The 2014 Schedule B prints no Purpose column (its columns are Date / 'Purchased From/Source' / 'Address, City & Zip' / Amount), so purpose is honestly blank. Cents written as a raised superscript '00'. Vendor city (Provo, Ut) not carried: expenditure rows have no address field."}
+ ],
+ "notes": "A ONE-ROW-PER-SIDE FILING and the cleanest arithmetic in the chunk: a single self-contribution in, a single consulting payment out, and the account closes at zero. 4 pages classified from their own printed headings: p1 cover ('2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES'), p2 'SUMMARY PAGE', p3 'SCHEDULE A — ITEMIZED CONTRIBUTIONS RECEIVED', p4 'SCHEDULE B — ITEMIZED EXPENDITURES MADE'. Both schedules are on the 2014 template ('Address, City & Zip'; 'Purchased From/Source'), unlike Ratcliffe's same-cycle filing, which uses the older schedule sheets. PAGE-FACE candidate 'JEFFERY DEAN SMITH' in block capitals; office written 'COUNTY RECORDER', agreeing with the channel; index.csv names no candidate, so the page face supplies it. ⚠ THE POLITICAL PARTY FIELD READS 'RED' — three block letters, unambiguous at full-page resolution. It is transcribed as printed and NOT adjudicated: it may be this filer's shorthand for the Republican Party, or the name of a party, and the brief forbids resolving a filer's own idiosyncrasy for him. No party is inferred. Report type ticked 'Seven days preceding the General Election'; amendment 'No' ticked; signed 10/27/2014; clerk's date stamp 'OCT 27 PM12:31'. FOLIATION: 'Page 1 of 3' / '2 of 3' / '3 of 3' with 'SMITH' and '10/27/14' on each sheet — cover EXCLUDED (as Buhman and Poulson do, and as Lee does not). ⚠ CANDIDATE CORRECTION FOR THE COORDINATOR, evidence in escalation_note: this module's published stated_beginning_balance for this filing is 3446; the page's own ladder proves the cell is 34.46 (34.46 + 1,465.54 = the printed line-5 subtotal 1,500.00). Nothing outside this record was edited. PRIVACY: this filing is NOT redacted — the county published the candidate's own address block and the donor's address in the clear; the reduction to city/state is mine at read time per Addendum A §A5. TWO CONTINUATION-LINE CASES appear in this chunk and both are on 2014 filings (Lee's 'In Kind donation / from Reagan outdoor Digital Signs' with the amount on the SECOND row, and this filing's 'LISA SHEPARD / CONSULTING' with the amount on the FIRST) — the row index must follow the AMOUNT, and the two cases point in opposite directions, so it cannot be assumed."
+}]

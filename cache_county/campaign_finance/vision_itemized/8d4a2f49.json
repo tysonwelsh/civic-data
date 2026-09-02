@@ -1,0 +1,281 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C03.json",
+ "key": "8d4a2f49",
+ "index_path": "raw/2010/2010_wb_vpotter.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_vpotter.pdf"
+ ],
+ "sha256_prefix": "189b697286d4f921",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "7,200.",
+    "cover_over50_cum": "7,200.",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "7200.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "5 itemized rows sum to exactly 7200.00 (1000 + 100 + 5000 + 1000 + 100), equal to BOTH cover line 1 THIS and CUMULATIVE, each written '7,200.' — line 1 LAST is a zero, so this is the first report of the cycle and the two scopes coincide. Cover line 2 (the sub-$50 aggregate) is zero here, so the over-$50 line and the published line1+line2 total happen to agree; the scoring anchor used was still line 1 alone, per the addendum. THE ARITHMETIC IS WHAT RESOLVED THE AMOUNT NOTATION on this page — see notes on the '1,000.-' trailing-dash form."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "3,699.01",
+    "cover_expense_cum": "3,699.01",
+    "cover_balance_end": "3,500.99",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "3699.01",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "8 itemized rows sum to exactly 3699.01, equal to BOTH cover line 3 THIS and CUMULATIVE (line 3 LAST is a zero — first report of the cycle, scopes coincide). Verified to the cent: 195.03+51.79+10.64+453.05+59.91+1382.03+988.16+558.40 = 3699.01."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints no schedule or page total; this filer added none of his own either. p2: 5 rows = 7200.00 = cover line 1 THIS/CUM ('7,200.'). p3: 8 rows = 3699.01 = cover line 3 THIS/CUM. Both gate exactly.",
+  "row_count": "rowbands.py p2: ok, 1695x2195, 36 data bands, bands 1-5 inked and 6+ empty -> 5 rows. rowbands.py p3: ok, 1695x2195, 36 data bands, bands 1-8 inked and 9+ empty -> 8 rows. Counted against ink as well as bands.",
+  "geometry_proof": "p2: a 500 dpi full-row crop (-y 560 -H 800) renders rows 1-5 in printed order with their own values; the control on band 6, one pitch past the last row (-x 3450 -y 1119 -W 700 -H 140), renders EMPTY. p3: a 500 dpi full-row crop (-y 560 -H 1200) renders rows 1-8 in order; the control on band 9 (-x 3450 -y 1520 -W 700 -H 140) renders EMPTY. Row indices unshifted on both pages.",
+  "balance_chain": "Cover line 4 CUMULATIVE prints 3,500.99. Chain: 0 beginning + 7200.00 contributions + 0 sub-$50 - 3699.01 expenses = 3500.99 — closes EXACTLY against the printed ending balance, and the itemized rows on both schedules are what produce it. LAST + THIS = CUMULATIVE holds on all four lines. Only one filing by this filer in this chunk, so no cross-filing chain was available."
+ },
+ "escalations": 4,
+ "escalation_note": "p2 and p3 re-rendered as full-width 500 dpi row-band crops (all rows re-read at 2.5x base dpi) plus two band-precise 500 dpi control crops. No digit remained in doubt after escalation; the only unresolved question on this filing was NOTATION, not legibility, and the arithmetic settled it.",
+ "notes": "Handwritten Carr 5-5-PG. Cover 'Name of Office' reads 'Cache County Council' with 'Office District' = 'Northeast District' — AGREES with the chunk file's office=County Council. 'Full Name of Candidate' reads 'Val K. Potter' vs the chunk file's 'Val Potter' (the form carries the middle initial). County office, in scope. Cover date written out 'October 21, 2010'; clerk RCVD stamp '21 OCT 2010 PM12:10' — matches the chunk file's 2010-10-21. 3-page PDF; the printed form's page-4 statute sheet was not scanned. ⚠ FLAG FOR A HUMAN — CONTRACT TENSION ON THE '1,000.-' NOTATION: every Form A amount on this filing is written in the bookkeeping no-cents form '1,000.- / 100.- / 5,000.-'. Core brief section 3(g) lists '2,250.-' among MALFORMED DECIMALS (blank + needs_review) but in the very next clause rules that 'a trailing dash after whole dollars (1000-) means no cents -> 1000.00, noted'. The two clauses conflict for a comma-grouped value. I applied the trailing-dash rule, because the document's own arithmetic is decisive and outranks notation (section 2): only the readings 1000/100/5000/1000/100 make the five rows total the 7,200. printed on the cover, and blanking them would have manufactured a false floor on a schedule that closes to the cent. Every affected row carries needs_review:1 and the verbatim string in its note, so the decision is reversible. This is a good CALIBRATION-SPECIMEN CANDIDATE for disambiguating the two clauses. Second notation point: several amounts use a DECIMAL COMMA ('195,03', '51,79') — transcribed verbatim per the currency rule. ⚠ The Form A address column on this filing PRINTS NO STATE (city + ZIP only), so donor_state is honestly BLANK on all five rows rather than inferred as UT. Privacy: full street addresses and ZIPs in the Form A column, and the candidate's home address and two phone numbers on the cover, were discarded at read time.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-04-30",
+   "donor_raw": "Richard Anderson",
+   "donor_city": "Wellsville",
+   "donor_state": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:81.42,8.36,16.52,2.80@p2",
+   "note": "Amount written verbatim '1,000.-' — the bookkeeping no-cents dash form; rendered 1000.00 under the trailing-dash rule and confirmed by the schedule totalling exactly the cover's 7,200. See the filing-level note on the 3(g) clause tension. Address column prints no state. Form A has no in-kind column."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2010-05-10",
+   "donor_raw": "Shelly Locke",
+   "donor_city": "N.Logan",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:81.42,11.16,16.52,2.30@p2",
+   "note": "Amount written verbatim '100.-'. City written 'N.Logan' (North Logan); no state printed."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2010-07-13",
+   "donor_raw": "Dell Loy Hansen",
+   "donor_city": "Logan",
+   "donor_state": "",
+   "amount": "5000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:81.42,13.46,16.52,2.30@p2",
+   "note": "Amount written verbatim '5,000.-'. Largest single contribution on the filing."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2010-07-21",
+   "donor_raw": "Cache County Republican Party",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:81.42,15.76,16.52,2.32@p2",
+   "note": "Amount written verbatim '1,000.-'. The filer left the address cell EMPTY on this row (a blank ruled line, not a redaction), so city and state are blank for a different reason than on the other rows. Donor is an organization."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2010-08-16",
+   "donor_raw": "Don Potter",
+   "donor_city": "Tremonton",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:81.42,18.09,16.52,2.30@p2",
+   "note": "Amount written verbatim '100.-'. Donor shares the candidate's surname (Potter) but is a distinct given name; transcribed verbatim, no relationship inferred. Tremonton is in Box Elder County, outside Cache — noted as read, not corrected."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-04-26",
+   "vendor_raw": "Fed Ex Kinko's",
+   "purpose": "Campaign Flyers",
+   "amount": "195,03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.42,8.75,16.52,2.78@p3",
+   "note": "Amount written with a DECIMAL COMMA, transcribed verbatim per the currency rule (= 195.03; the schedule totals correctly on that reading)."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2010-07-23",
+   "vendor_raw": "Sam's Club",
+   "purpose": "Parade Candy",
+   "amount": "51,79",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.42,11.53,16.52,2.30@p3",
+   "note": "Decimal comma transcribed verbatim (= 51.79)."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2010-07-29",
+   "vendor_raw": "Staples",
+   "purpose": "Mailing Cards",
+   "amount": "10.64",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.42,13.83,16.52,2.32@p3",
+   "note": ""
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2010-08-02",
+   "vendor_raw": "Graphic Signs Inc.",
+   "purpose": "Yard Signs",
+   "amount": "453.05",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.42,16.15,16.52,2.30@p3",
+   "note": ""
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2010-08-30",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "Registered Voter List",
+   "amount": "59.91",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.42,18.45,16.52,2.30@p3",
+   "note": ""
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "2010-09-21",
+   "vendor_raw": "Sprint Print",
+   "purpose": "Flyer printing, design & mailing svc",
+   "amount": "1,382.03",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.42,20.76,16.52,2.32@p3",
+   "note": "Purpose is the longest cell on the page and runs to the column edge; read at 500 dpi as 'Flyer printing, design & mailing svc'. Thousands comma with a point decimal, transcribed verbatim."
+  },
+  {
+   "line_no": "7",
+   "report_no": 1,
+   "date": "2010-09-21",
+   "vendor_raw": "US Postmaster",
+   "purpose": "Campaign mailer postage",
+   "amount": "988.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.42,23.08,16.52,2.32@p3",
+   "note": ""
+  },
+  {
+   "line_no": "8",
+   "report_no": 1,
+   "date": "2010-10-20",
+   "vendor_raw": "The Herald Journal",
+   "purpose": "Newspaper Ad",
+   "amount": "558.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.42,25.40,16.52,2.30@p3",
+   "note": "Dated 10/20/10, one day before the cover date — the latest transaction on the filing."
+  }
+ ]
+}

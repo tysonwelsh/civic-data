@@ -1,0 +1,61 @@
+[{
+ "index_path": "raw/2012/2012_Grierson072012.pdf",
+ "key": "c0ba058a",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r3_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "empty-schedule", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED = 0.00 on the p2 SUMMARY PAGE, matched by Schedule A's own printed 'Subtotal for this page $ 0.00' AND its printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $ 0.00'",
+   "detail": "Schedule A (p3) is a wholly EMPTY printed grid — 17 underline rules, not one written entry in any of the four columns — and the filer typed 0.00 into BOTH of the schedule's own printed footer cells. Zero rows sum to 0.00, which equals the cover's promoted PER-PERIOD cell (Column A line 1 = 0.00) and equals line 4 'Total Contributions Received (From Line 1 Column A) = 0.00'. These are typed NUMERALS (0.00), not nil marks, so the zero-glyph question does not arise. Column B 'Year-to-Date Total' prints 13,212.30 and is NOT summed as an increment (utah is a per-period regime) — it carries this filer's earlier 2012 reports, which this report does not itemize. The p2 balance ladder closes on its own terms: line 3 7,528.24 + line 4 0.00 = line 5 7,528.24; 7,528.24 - line 6 5,360.11 = line 7 2,168.13 exactly."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE = 5,360.11 on the p2 SUMMARY PAGE, which is also Schedule B's own printed 'Subtotal for this page $ 5,360.11' and its printed 'Total Expenditures Received (Sum of subtotals from all Schedule B pages) $ 5,360.11'",
+   "detail": "7 Schedule B rows sum to 96.98 + 360.62 + 300.00 + 136.53 + 65.74 + 4332.27 + 67.97 = 5,360.11 exactly. All three printed anchors agree to the cent: the schedule's page subtotal, the schedule's total, and the cover's promoted per-period Column A cell (also restated at line 6 'Total Expenditures Made (From Line 2 Column A) 5,360.11'). Column B 'Year-to-Date Total' prints 11,044.17 and is retained as cumulative, never summed as an increment."
+  }
+ },
+ "in_kind_convention": "not applicable — neither schedule prints an in-kind column, no row carries an in-kind marking, and Schedule A is empty; the monetary-only and monetary-plus-in-kind conventions therefore give the same sums (0.00 / 5,360.11) and both close on the cover's Column A figures",
+ "escalations": 0,
+ "escalation_note": "",
+ "frames": {
+  "4": {
+   "axis": "y",
+   "cell": [82.70, 93.20],
+   "cells": [[5.50, 17.30], [18.70, 52.20], [53.70, 81.30], [82.70, 93.20]],
+   "rows": [[18.84, 22.89], [22.89, 26.98], [26.98, 31.04], [31.04, 35.09], [35.09, 39.14], [39.14, 43.19], [43.19, 47.24]],
+   "measure_note": "legacy_colAB Schedule B is the 2012 UNDERLINE form: rowbands.py (raw frame, skew -0.2) returns 17 per-column underline rules at 22.89 .. 87.70, regular pitch 4.05, each rule carrying 4 real segments that ARE the column bands (Date 5.5-17.3, Name 18.7-52.2, Address 53.7-81.3, Amount 82.7-93.2; a 5th ~99.0 segment is the scan's page-edge artifact and is discarded). THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up from the first rule (22.89 - 4.05 = 18.84). THREE PROOF CROPS at 900 dpi: the row-1 box pct:82.7,18.84,10.5,4.05@p4 rendered '96.98' with the printed 'Amount' column header above it (recorded 96.98 for Winco) — that header-over-the-figure is also the §A1 first-entry control, and it proves the filer DID start on printed line 1; the row-7 box pct:82.7,43.19,10.5,4.05@p4 rendered '67.97' (recorded 67.97 for Domino's); and the §B5 ONE-PAST-THE-END negative control pct:82.7,47.24,10.5,4.05@p4 rendered EMPTY (two rules and nothing between them), so the band list is not off by one at either end."
+  }
+ },
+ "contributions": [],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "6-22-2012",
+   "vendor_raw": "Winco", "amount": "96.98", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "2012 Schedule B REUSES Schedule A's printed column headings ('Name of Contributor', 'Mailing Address & Zip Code') and prints NO Purpose column, so purpose is honestly blank on every row of this filing"},
+  {"line_no": "2", "page": 4, "row": 2, "date": "6-22-2012",
+   "vendor_raw": "Sound Vision", "amount": "360.62", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "3", "page": 4, "row": 3, "date": "6-25-2012",
+   "vendor_raw": "Zach Lundberg Photo", "amount": "300.00", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "4", "page": 4, "row": 4, "date": "6-25-2012",
+   "vendor_raw": "Red Lobster", "amount": "136.53", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "5", "page": 4, "row": 5, "date": "6-25-2012",
+   "vendor_raw": "Smiths", "amount": "65.74", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "6", "page": 4, "row": 6, "date": "6-25-2012",
+   "vendor_raw": "Alpha Graphics", "amount": "4332.27", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "printed with a thousands comma as '4,332.27'; carried as a plain decimal. The single largest line on the filing and the one that makes the page subtotal close."},
+  {"line_no": "7", "page": 4, "row": 7, "date": "6-25-2012",
+   "vendor_raw": "Domino's", "amount": "67.97", "in_kind": false,
+   "confidence": "medium", "verified": 1}
+ ],
+ "notes": "CLOSES THE 2012 CYCLE (8th of 8). Page-face candidate 'Lorne W. Grierson' (Republican, Orem) — index.csv names NO candidate for this row, so the page face supplies it; the page-face office reads 'Utah County Commissioner' with NO SEAT PRINTED, while the channel label says 'County Commission Seat C' — per the brief the seat is NOT inferred from the filing, and the divergence is recorded here rather than adjudicated. 4 pages: p1 cover (Type of Report ticked '30 Days after the Primary Election', amendment 'No' ticked, signed and dated July 19, 2012, clerk's 'Date received 7/20/12' stamp with 'Express Mail'); p2 SUMMARY PAGE (located by its printed heading, which happens to be p2 as usual for legacy_colAB); p3 SCHEDULE A 'ITEMIZED CONTRIBUTIONS RECEIVED'; p4 SCHEDULE B 'ITEMIZED EXPENDITURES MADE'. THIS FILING IS TYPED (machine-filled), unusual for the era and unusually clean to read — but it is still a scan, so row confidence stays 'medium' per SCHEMA §6. SCHEDULE A IS AN EMPTY-SCHEDULE, not a withheld side and not a no-schedule-page: the page exists, its printed grid carries no entry at all, and the filer typed 0.00 into both the 'Subtotal for this page' and 'Total Contributions Received' cells, so the absence of donors this period is what the document itself states. CONFIRMS ADDENDUM B §B4 on the 2012 form: underline grid, 17 printed rules, four columns, text above the rule, three printed anchors per side, and Schedule B reusing Schedule A's headings so `purpose` is honestly blank. FOLIATION: a FOURTH 2012 practice — the 'Page __ of __', 'Candidate or Officeholder's Last Name' and 'Date of Report' boxes are printed on p2, p3 and p4 and this filer left ALL of them completely BLANK, so the filing foliates itself not at all (companion to B4's three practices). PRIVACY: Schedule B's 'Mailing Address & Zip Code' column carries full street lines for all 7 vendors; expenditure rows carry no address field by contract and NOTHING from that column has been reproduced here, not even a zip. NOTE ON THE SIBLING FILING: the same filer's other 2012 report (key 9cceca7c) is where the 'LOAN TO SELF' contribution question was decided (ADDENDUM B §B3); no loan line appears on this filing, whose only ledger is the expenditure side."
+}]

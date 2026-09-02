@@ -1,0 +1,97 @@
+[{
+ "index_path": "raw/2010/2010_CountySurveyorPetersonScottM052110.pdf",
+ "key": "9ebc6d4e",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r2_02b)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED ($750) on the p2 Summary Page, which is also Schedule A's own printed 'Subtotal for this page' AND its printed 'Total Contributions Received' — both of those written as 750.00 BY CORRECTION, a hand-written 7 placed over a struck 4 on an original 450.00",
+   "detail": "The 3 Schedule A rows sum to 350.00 + 100.00 + 300.00 = 750.00 EXACTLY = the schedule's corrected page subtotal (750.00) = its corrected printed Total Contributions Received (750.00) = the cover's PROMOTED per-period cell Column A line 1 ($750), and it is echoed at summary lines 4 and 5 ($750 each). THE CORRECTION IS CONFIRMED BY THE ARITHMETIC, not merely by the glyph: a 900 dpi crop of pct:76,78.5,20,8@p3 rendered BOTH bottom-of-page cells as a struck '4' with a '7' written above it followed by '50.00', and only the corrected reading (750.00) matches the rows and the cover. Per the frozen contract a handwritten correction over a struck value governs. COLUMN B IS ENTIRELY BLANK on both lines 1 and 2 of this cover — the filer stated no year-to-date figure at all, so there is no cumulative column to mistake for an increment here, and none was invented."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' line 2 TOTAL EXPENDITURES MADE ($1,502) on the p2 Summary Page, equal to Schedule B's own printed 'Subtotal for this page' (1502.00) and its printed 'Total Expenditures Received' (1502.00), and echoed at summary line 6 ($1502)",
+   "detail": "The 13 Schedule B rows sum to 79.80 + 10.87 + 85.76 + 101.36 + 11.17 + 406.00 + 32.45 + 362.42 + 48.00 + 15.03 + 38.48 + 10.66 + 300.00 = 1,502.00 EXACTLY = the printed page subtotal = the printed total = the cover's promoted per-period Column A. No row is omitted and none is double-counted; the sum closes to the cent on the first reading with no adjustment. The exact closure also settles two cells whose glyphs are individually soft on this washed-out scan — row 8's 362.42 and row 11's 38.48 — since no other reading of either reaches 1,502.00 (GOTCHAS: arithmetic closure outranks glyph reading, and here it is UNIQUE rather than ambiguous). The p2 balance ladder closes too: line 3 (0) + line 4 (750) = line 5 (750); 750 - line 6 (1502) = line 7 (-752), a REAL NEGATIVE closing balance that is kept with its sign. Column B is blank for expenditures as well."
+  }
+ },
+ "in_kind_convention": "monetary-only closed BOTH sides exactly (750.00 and 1,502.00). Both conventions were tested per the brief and coincide on this filing: neither schedule prints an in-kind column, the cover prints no in-kind line, and no row bears an in-kind marking, so monetary-only and monetary-plus-in-kind give identical sums.",
+ "escalations": 10,
+ "escalation_note": "10 escalations, all for legibility on a pale, skewed photocopy. (1) §A1 FIRST-ENTRY CONTROL, p3: the extrapolated band-1 crop pct:80.5,16.71,12,3.58@p3 at 1400 dpi RENDERED '350.⁰⁰' directly under the printed 'Amount' header, so the first written entry IS band 1 on this page. (2) p3 last-row proof pct:80.5,23.88,12,3.58@p3 RENDERED '300.⁰⁰'; the band-4 control pct:80.5,27.46,12,3.55@p3 RENDERED an EMPTY ruled line (crossed only by the page's photocopy artifact, no writing). (3) §A1 control on p4: pct:80.5,15.74,12,3.55@p4 RENDERED the 'Amount' header over '79.80'. (4) p4 last-row proof pct:80.5,58.52,12,3.50@p4 RENDERED '300.00'; the band-14 control pct:80.5,62.02,12,3.64@p4 RENDERED an EMPTY ruled line. (5) THE BOTTOM-OF-PAGE TOTALS on both sheets: pct:76,78.5,20,8@p3 rendered the Subtotal and Total cells as a struck '4' with '7' written above plus '50.00' — the 450.00-to-750.00 correction — and pct:76,76.5,20,8@p4 rendered 'Subtotal for this page $ 1502.⁰⁰' and 'Total Expenditures Received $ 1502.⁰⁰'. (6) THE p3 ADDRESS-CONTINUATION QUESTION: pct:10,19.8,72,8.0@p3 at 1000 dpi, split and enlarged, rendered rows 2 and 3 together and showed the Peterson street line sitting above the band-2 rule with its city/state/zip written on the NEXT line down, inside band 3, immediately below it and above Don Olsen's own name — see the row-3 note.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [80.50, 91.50],
+   "cells": [[11.00, 23.00], [24.00, 55.00], [56.00, 80.00], [80.50, 91.50]],
+   "rows": [[16.71, 20.29], [20.29, 23.88], [23.88, 27.46], [27.46, 31.01], [31.01, 34.60], [34.60, 38.17], [38.17, 41.79], [41.79, 45.36], [45.36, 48.96], [48.96, 52.55], [52.55, 56.13], [56.13, 59.68], [59.68, 63.32], [63.32, 66.91], [66.91, 70.51], [70.51, 74.08], [74.08, 77.65]],
+   "measure_note": "THE FULL-WIDTH RULE SCAN FAILS ON THIS DOCUMENT and the Addendum A2 recovery was required: rowbands.py over the whole page returns only 2 rules and 17 'bars' (the scan is a pale, +0.8 deg skewed photocopy with a heavy black border down two edges and a large curved artifact across the sheet). Restricting the scan to the amount column — `rowbands.py <pdf> 3 --col 80,92` — recovers a clean 25-rule list of which the regular-pitch data run is 20.29, 23.88, 27.46, 31.01, 34.60, 38.17, 41.79, 45.36, 48.96, 52.55, 56.13, 59.68, 63.32, 66.91, 70.51, 74.08, 77.65 (pitch 3.58; the later 81.27 and 84.91 rules are the Subtotal and Total underlines, not data rows). THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up (20.29 - 3.58 = 16.71). THE COLUMN BANDS ARE BRACKETED, NOT MEASURED FROM SEGMENTS, and are declared as such: probe scans with --col over 11,23 / 24,55 / 56,80 / 80,92 each return their own rule set while --col 92,98 returns ZERO rules and --col 91,93 returns only 3, placing the amount column's right edge near 91. Per Addendum A2 the per-column rule positions genuinely DIFFER across this skewed sheet (the Date column's first rule is 15.86 against the Amount column's 20.29), so the amount column's own rules are the ones stored. TWO-CROP PROOF at 1400 dpi: row 1 pct:80.5,16.71,12,3.58@p3 RENDERED '350.⁰⁰' under the printed 'Amount' header (recorded 350.00) and row 3, the last written row, pct:80.5,23.88,12,3.58@p3 RENDERED '300.⁰⁰' (recorded 300.00). OFF-BY-ONE CONTROL: pct:80.5,27.46,12,3.55@p3 (band 4) RENDERED an empty ruled line."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [80.50, 91.50],
+   "cells": [[11.00, 23.00], [24.00, 55.00], [56.00, 80.00], [80.50, 91.50]],
+   "rows": [[15.74, 19.29], [19.29, 22.84], [22.84, 26.48], [26.48, 30.05], [30.05, 33.58], [33.58, 37.17], [37.17, 40.70], [40.70, 44.27], [44.27, 47.82], [47.82, 51.37], [51.37, 54.97], [54.97, 58.52], [58.52, 62.02], [62.02, 65.66], [65.66, 69.14], [69.14, 72.69], [72.69, 76.27]],
+   "measure_note": "Same A2 recovery as p3, measured independently on this sheet (+0.6 deg skew): the full-width scan yields 3 rules and 16 bars, while `rowbands.py <pdf> 4 --col 80,92` recovers the data run 19.29, 22.84, 26.48, 30.05, 33.58, 37.17, 40.70, 44.27, 47.82, 51.37, 54.97, 58.52, 62.02, 65.66, 69.14, 72.69, 76.27 at pitch 3.55 (79.77 and 83.34 are the Subtotal and Total underlines). Row 1 extrapolated one pitch up (19.29 - 3.55 = 15.74). Column bands bracketed by the same probe method. TWO-CROP PROOF at 1400 dpi: row 1 pct:80.5,15.74,12,3.55@p4 RENDERED the printed 'Amount' header over '79.80' (recorded 79.80, and the §A1 control is satisfied — band 1 holds the first written entry, it is not an empty line under the header) and row 13, the last written row, pct:80.5,58.52,12,3.50@p4 RENDERED '300.00' (recorded 300.00). OFF-BY-ONE CONTROL: pct:80.5,62.02,12,3.64@p4 (band 14) RENDERED an empty ruled line, so rows 14-17 are genuinely unused and the 13 stored rows map one-to-one onto bands 1-13."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "4/12/10",
+   "donor_raw": "Mel Peterson", "donor_city": "Plano", "donor_state": "TX",
+   "amount": "350.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "THE ONLY OUT-OF-STATE DONOR ON THIS FILING. Cents written as a raised '00'. The mailing-address cell holds a complete one-line address; only the city and state are carried, per the privacy rule (this era is published unredacted, so the street line is plainly visible on the page and is deliberately not recorded anywhere)."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "4/19/10",
+   "donor_raw": "Pete & Juanita Peterson", "donor_city": "Springville", "donor_state": "UT",
+   "amount": "100.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "A JOINT DONOR ENTRY written as one line by the filer and kept as ONE row, never split into two imagined donors. Cents raised '00'. THE ADDRESS WRAPS ONTO THE NEXT PRINTED LINE: the street portion sits on this row's address rule and the city/state/zip portion is written immediately below it, inside the next band — a continuation line, which is why the city and state carried here come from the line below rather than from this row's own cell. Only city and state are carried."},
+  {"line_no": "3", "page": 3, "row": 3, "date": "4/20/10",
+   "donor_raw": "Don Olsen",
+   "amount": "300.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "needs_review": 1,
+   "note": "NO ADDRESS OF HIS OWN IS PRINTED, so donor_city and donor_state are honestly BLANK. This is the base brief's continuation-line trap seen live: the address text that shares this printed row belongs to the PRECEDING donor, whose address wrapped from the line above (its street half sits on row 2's rule with no city, and this half carries a city and zip with no street — together they are one address). The 1000 dpi crop pct:10,19.8,72,8.0@p3 shows the wrapped half written tight beneath the street half and ABOVE this row's own handwriting, which is what settled it. NOTE THE ALTERNATIVE THAT WAS CONSIDERED AND NOT TAKEN: the same city and state appear beside a same-named payee on this filing's Schedule B, so it is possible the filer meant that line for this donor — but reading a contribution row's address off a different schedule would be an inference, not a transcription, and the wrapped-address reading is what the page's own layout shows. Flagged for review rather than filled. The amount and date are not in doubt and the side closes exactly."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "4/5/10", "vendor_raw": "Copies Plus Printing",
+   "amount": "79.80", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Schedule B on this blank prints no Purpose column (its four headers are copied from Schedule A and read Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank on every row of this side. Amounts on this sheet are written with a plain decimal point, unlike Schedule A's raised cents."},
+  {"line_no": "2", "page": 4, "row": 2, "date": "4/8/10", "vendor_raw": "Go daddy.com",
+   "amount": "10.87", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the filer wrote the single word 'Internet' in the mailing-address cell instead of a location — his own notation for an online vendor. Expenditure rows carry no address field, so it is recorded only here."},
+  {"line_no": "3", "page": 4, "row": 3, "date": "4/10/10", "vendor_raw": "Copies Plus Printing",
+   "amount": "85.76", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "4", "page": 4, "row": 4, "date": "4/13/10", "vendor_raw": "STAples",
+   "amount": "101.36", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the filer capitalises it 'STAples'; kept verbatim."},
+  {"line_no": "5", "page": 4, "row": 5, "date": "4/14/10", "vendor_raw": "Go daddy. com",
+   "amount": "11.17", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "spelled with a space before 'com' on this row and without one on row 2; both kept verbatim. Address cell again reads 'Internet'."},
+  {"line_no": "6", "page": 4, "row": 6, "date": "4/19/10", "vendor_raw": "USPS",
+   "amount": "406.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the largest single expenditure on the filing after the printing bill."},
+  {"line_no": "7", "page": 4, "row": 7, "date": "4/20/10", "vendor_raw": "American Science Surplus",
+   "amount": "32.45", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "address cell reads 'Internet'."},
+  {"line_no": "8", "page": 4, "row": 8, "date": "4/20/10", "vendor_raw": "Copies Plus Printing",
+   "amount": "362.42", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "one of the two soft cells on this pale scan; the page's exact closure at 1,502.00 admits no other reading, and that closure is what fixes it."},
+  {"line_no": "9", "page": 4, "row": 9, "date": "4/20/10", "vendor_raw": "Gallagher Promotional",
+   "amount": "48.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "address cell reads 'Internet'. Cents written '00'."},
+  {"line_no": "10", "page": 4, "row": 10, "date": "4/22/10", "vendor_raw": "COPies Plus Printing",
+   "amount": "15.03", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the filer's capitalisation varies across his four entries for this vendor (Copies / COPies); kept verbatim on each row rather than normalised."},
+  {"line_no": "11", "page": 4, "row": 11, "date": "4/20/10", "vendor_raw": "Sams Club",
+   "amount": "38.48", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the second soft cell; fixed by the same exact page closure. Written 'Sams Club' without an apostrophe."},
+  {"line_no": "12", "page": 4, "row": 12, "date": "4/23/10", "vendor_raw": "STAples",
+   "amount": "10.66", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "13", "page": 4, "row": 13, "date": "4/20/10", "vendor_raw": "Don Olsen",
+   "amount": "300.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "A PAYEE BEARING THE SAME NAME AND THE SAME 300.00 FIGURE AND THE SAME 4/20/10 DATE AS SCHEDULE A's THIRD CONTRIBUTION ROW. Both are transcribed exactly as the filer wrote them, on their own schedules, and NO netting, matching or interpretation was applied — the document books the money in and the money out and this record says only that. The out-of-order date (4/20 after 4/22 and 4/23 above it) is the filer's own sequencing and is kept."}
+ ],
+ "notes": "PAGE-FACE CANDIDATE: 'Scott M Peterson' — index.csv names NO candidate for this row (the 2008-2018 county_static listing grouped filings by office), so the page face governs and is offered to the coordinator for promotion into that EMPTY channel cell. Office Seeking 'County Surveyor'; party 'Republican'; residence city Springville, UT (street line printed unredacted on the cover and deliberately not carried). 4 pages, each classified from its OWN printed header: p1 COVER, p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B. Report type '30 Days after withdraw or elimination' — the FIRST box on the form and the only filing in this chunk to use it, consistent with a candidate who left the race before the Primary. Signed '8 May 10' (the filer's own apostrophe after the year is part of his hand). THE AMENDMENT QUESTION IS LEFT WHOLLY UNANSWERED — neither Yes nor No ticked; an honest BLANK, never read as 'No' (Addendum A4). ~ THE TEMPLATE-VINTAGE PROPERTY GAINS AN EARLIER 2010 INSTANCE. This filing is on the UNDATED blank — its title is bare 'FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' with NO year, and it cites 'Utah County Code 2-5-2' — while the other four 2010 filings in this chunk (Campbell, Tracy and both Ratcliffe reports) are on the '2010 FINANCIAL CAMPAIGN REPORT' blank citing 'Code 2-5'. Addendum A4 records the undated 2-5-2 blank on Poulson's DECEMBER 2010 filing and reads it as a late-cycle switch; this MAY 2010 filing shows the two templates were in circulation SIMULTANEOUSLY from early in the cycle, so template vintage orders nothing in time and must never be used to date or sequence a filing. ~ THE CLERK'S FILED STAMP IS PRINTED UPSIDE-DOWN at the foot of the cover — 'FILED UTAH COUNTY / 10 MAY 21 PM 4:15 / CLERK' reads inverted, the sheet having been stamped or fed rotated. It gives a receipt date of 21 May 2010 against the filer's own signature date of 8 May 2010, a 13-day gap; both are kept verbatim and neither is corrected. The county's channel period label ('Peterson - 5/21/10') follows the stamp, not the signature. ~ FOLIATION: 'Page 1 of 1' on each of pages 2, 3 and 4 independently — the Tracy convention seen elsewhere in this chunk, and a third distinct convention from Ratcliffe's '2/3/4 of 4'. This filer also writes his FULL name, 'Scott M Peterson', into the box printed 'Candidate or Officeholder's Last Name' on all three sheets. ~ A LARGE CURVED PHOTOCOPY ARTIFACT crosses Schedule A: a single sweeping ink-black line loops down the empty lower two-thirds of the page and around the Subtotal area, and smaller versions run along the left edge of every page together with a heavy black border. It carries no text, touches no entry, and is a copier/platen artifact rather than a strike-out or a void mark — the band-4 control crop rendered it as a bare curve over an empty ruled line. It is also why the full-width rule scan fails and the --col recovery was needed. ~ BOTH SIDES CLOSE EXACTLY on the promoted per-period Column A: contributions 750.00 (after the filer's own 450-to-750 correction, which the row sum independently confirms) and expenditures 1,502.00, leaving the real negative closing balance of -752.00 that line 7 prints."
+}]

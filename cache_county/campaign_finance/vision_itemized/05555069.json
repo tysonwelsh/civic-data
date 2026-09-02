@@ -1,0 +1,134 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C21.json",
+ "key": "05555069",
+ "index_path": "raw/2024/2024_cc_2024_General_Craig_McAllister.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Craig_McAllister.pdf"
+ ],
+ "sha256_prefix": "47fa3535ca9067e0",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other",
+  "5": "filer-attachment",
+  "6": "filer-attachment"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "Ø",
+    "cover_over50_cum": "Ø",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "-747.25",
+    "box_A_balance_begin": "Ø",
+    "box_F_subtotal": "Ø",
+    "schedule_total": "Ø",
+    "page_subtotal": "Ø"
+   },
+   "itemized": "0",
+   "basis": "schedule-total==page-subtotal==cover-boxB==cover-boxC (all zero glyphs)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A has no ledger line. The filer put a cursive slashed-zero glyph in the printed 'Subtotal for this page' and 'Total Contributions Received' cells and in Boxes A, B, C and F of the Summary Page; per the zero-glyph ruling each IS zero, with the glyph kept verbatim. Box B and Box C are the same glyph, so the two scopes coincide - recorded as cumulative. Zero rows equal the anchor exactly."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "747.25",
+    "cover_expense_cum": "747.25",
+    "cover_balance_end": "-747.25",
+    "schedule_total": "747.25",
+    "page_subtotal": "747.25"
+   },
+   "itemized": "747.25",
+   "basis": "schedule-total==page-subtotal==cover-boxD==cover-boxE",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Three rows sum 582.68 + 14.57 + 150.00 = 747.25, equal to the printed page subtotal, the printed 'Total Expenditures Made', Box D (This Period) and Box E (Year to Date); D and E are equal, so the scopes coincide - cumulative."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 zero rows = printed subtotal/total (slashed-zero glyphs). p3 rows 747.25 = printed 'Subtotal for this page $ 747.25' = printed 'Total Expenditures Made $ 747.25'. Both gate exactly. The filer's own adding-machine tape photocopied onto p3 (582.68** / 14.57+ / 150.00+ / 747.25*) is a third, independent statement of the same sum.",
+  "row_count": "Independent amount-column ink profile: p2 (x 78-96%) returns NO value band at any row - 0 rows emitted; p3 (x 76-95%) returns exactly THREE pen-ink bands (y 18.86-20.18, 23.77-25.45, 28.14-29.55 pct) above the first three rules, then nothing until the adding-machine tape at y 43.5%+, matching 3 rows emitted. The tape is a photocopied overlay, not a grid row, and is not transcribed.",
+  "geometry_proof": "p3: crop of the FIRST row's amount box pct:82.00,18.70,12.00,1.80 at 600 dpi renders '582.68'; crop of the LAST row's box pct:82.00,28.00,12.00,1.80 renders '150.00'; the control box one row-pitch (4.55%) past the last row renders EMPTY. Proof passes.",
+  "balance_chain": "CLOSES EXACTLY. Box A 0 + Box B 0 = Box F 0 (filer wrote the slashed-zero glyph in F, consistent); Box F 0 - Box D 747.25 = -747.25 = Balance at Close, which the filer wrote as '-747.25' (leading minus, i.e. a negative balance). No earlier filing by this filer in this chunk, so the cross-filing cumulative chain was not run here."
+ },
+ "escalations": 6,
+ "escalation_note": "800 dpi crop of the faint marks in the p2 date column (resolved as broken, illegible specks - see notes); 600 dpi crops of the p2 subtotal and total zero glyphs; 500 dpi band crops re-reading all three Schedule B rows; 600 dpi crops of the p3 first-row and last-row amount cells plus the control.",
+ "notes": "THE DOCUMENT CONTRADICTS ITSELF ON REPORT TYPE: the marked box is 'Seven days preceding the PRIMARY Election', yet the cover, affirmation and every page footer are dated 10/28/2024 - a general-election-week date - and the chunk file / filename call it the General report. Transcribed from the form; a human should note that the marked report type cannot be reconciled with the report date. Office line reads 'TREASURER' (agrees with the chunk). Amendment = No. FAINT MARKS ON p2: the first writing band of Schedule A (y 17.9-18.1 pct) carries broken specks confined to the DATE column (x 8.2-13.9% and 16.0-16.3%); re-rendered at 800 dpi they are disconnected fragments with no legible glyph, and there is no accompanying name, address or amount anywhere on the row. No row is emitted and no value is invented; the filer's own zero glyphs in the page subtotal, page total and Box B are consistent with an empty schedule. Flagged for a human eye. DECIMAL SEPARATOR: at 600 dpi the separator in '582.68' reads comma-like in this filer's hand; the arithmetic settles it as a decimal point (582.68 + 14.57 + 150.00 = 747.25 = the printed subtotal, the printed total, Box D and Box E), so it is transcribed as a decimal point, not as a decimal comma. p3 also carries a photocopied ADDING-MACHINE TAPE (582.68** / 14.57+ / 150.00+ / 747.25* / '003') - corroboration, not fields, so not transcribed. PAGE 5 is a filer attachment (Cache County Clerk online payment receipt: Amount $582.68, Processing Fee $14.57, Total $597.25, processed 2 Jan 2024) corroborating rows 1 and 2; its Payer's Information reads 'Byron C McAllister' where the candidate signs 'Craig McAllister' - noted, not resolved, and not transcribed. PAGE 6 is a filer attachment that is ROTATED 90 degrees in the poppler render (its title axis runs vertically although pdfinfo reports rot 0): Cache County Republican Party, $150.00, '2x Individual Dinner Tickets ($75.00)', Craig McAllister, 01/11/2024 - corroborating row 3. Candidate street address, phone and email printed in the clear on the cover, and the payer address on p6, were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "CACHE COUNTY CLERK",
+   "purpose": "FILING FEE",
+   "amount": "582.68",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:82.00,18.70,12.00,1.80@p3",
+   "note": "Amount separator glyph reads comma-like at 600 dpi; the form's own arithmetic (rows sum to the printed 747.25) proves it is a decimal point. Corroborated by the payment receipt attached as p5 ($582.68, processed 2 Jan 2024)."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "CACHE COUNTY CLERK",
+   "purpose": "CREDIT CARD SERVICE",
+   "amount": "14.57",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,23.60,12.00,1.80@p3",
+   "note": "Corroborated by the p5 receipt's 'Processing Fee: $14.57'."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2024-01-11",
+   "vendor_raw": "CACHE COUNTY REPUBLICAN PARTY",
+   "purpose": "LINCOLN DAY DINNER",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,28.00,12.00,1.80@p3",
+   "note": "The purpose text runs long and touches the amount column; the amount cell crop confirms '150.00'. Corroborated by the p6 attachment ($150.00, 01/11/2024)."
+  }
+ ]
+}

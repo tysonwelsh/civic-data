@@ -1,0 +1,77 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W12.json",
+ "key": "c184c474",
+ "index_path": "raw/wayback_forms2020/Attorney_Special 2 Year_Eric Wesley Clarke_October 21 2020_10-21-2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Attorney_Special 2 Year_Eric Wesley Clarke_October 21 2020_10-21-2020.pdf"
+ ],
+ "sha256_prefix": "0d5b040b217c936d",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "1300",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "1300",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "100",
+    "schedule_total": "0.00"
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this==schedule-total",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A (p2) is entirely blank and its printed TOTAL reads 0.00, which equals the cover's line-1 THIS REPORT cell (0). The schedule is therefore PER-PERIOD, not cumulative: the cover's line-1 CUMULATIVE cell is 1300 and the LAST REPORT cell is 1300. This is a DIFFERENT SCOPE from the CUMULATIVE figure the module publishes, so reconciles_* is expected to stay blank; that is not a failure. Cover line-2 LAST/CUM are 100 (the sub-$50 aggregate) and are never itemized."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "2500.23",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "2500.23",
+    "cover_balance_end": "-1,100.23",
+    "schedule_total": "0.00"
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this==schedule-total",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (p3) is entirely blank with printed TOTAL 0.00 = cover line-3 THIS REPORT (0). Per-period schedule; the cycle-to-date figure lives in the CUMULATIVE cell (2500.23)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 0.00 = printed TOTAL CONTRIBUTIONS 0.00; p3 rows 0.00 = printed TOTAL EXPENDITURES 0.00 -- both gate exactly",
+  "row_count": "p2 rowbands.py: geometry_status=gaps, 33 bands over the ~35-line boxed grid; ZERO inked rows on p2 and p3, 0 rows emitted on each side",
+  "geometry_proof": "not applicable -- zero rows on both sides; no row pointers emitted",
+  "balance_chain": "cumulative column: 1300 + 100 - 2500.23 = -1,100.23, which equals cover line 4 CUMULATIVE (-1,100.23) exactly. This-report column: 0 + 0 - 0 = 0 = cover line 4 THIS (0). Both close. No earlier filing by this filer in this chunk, so no cross-filing chain run."
+ },
+ "escalations": 1,
+ "escalation_note": "p1 cover anchor grid re-read at 600dpi to confirm every cell",
+ "notes": "Generation 2 county-branded form. THE DOCUMENT DOES NOT STATE ITS OFFICE: the 'Office' line on the cover holds a telephone number, not an office title, so the chunk file's 'Attorney' could NOT be confirmed at the page -- flagging loudly. The cover is unambiguously a WASHINGTON COUNTY CANDIDATE FINANCIAL CAMPAIGN REPORT addressed to the County Clerk (Kim Hafen), and 'In the ___ School District' is filled 'Washington County' as a form-line filler, NOT a school-board race; nothing on the page indicates a school-board, judicial, special-district or municipal filing, so it is treated as in scope. 'Representative District' is filled '62'. Cover line-4 LAST cell is written '(-1,100.23)' -- parentheses AND a minus sign together; retained verbatim. Signature date 10-21-2020 precedes the stated period end (Oct. 27, 2020); RECEIVED stamp OCT 21 2020. All zeros here are plain '0' numerals, not nil marks.",
+ "contributions": [],
+ "expenditures": []
+}

@@ -3,7 +3,10 @@
  "key": "32b0aceb",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T03:26:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -53,5 +56,52 @@
    "notes": "Born-digital fillable form; every summary box carries a TYPED '0' (a written zero in each of the seven boxes, not a blank cell) - a genuine all-zero report. The Phone Number cell was left blank by the filer. Dates are written out in words: the Date box, Date of Filing and the summary page's Date of Report all read '31 October 2022' - preserved verbatim rather than normalized. This revision labels the close box 'G' and prints no 'v.' version string, so form_version is ''. Office 'Utah County Commission seat A' agrees with index.csv's 'County Commission Seat A'."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r9_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' = a TYPED 0 on the p4 Summary Page, corroborated by Schedule A's own two printed footers, both carrying a typed 0 ('Subtotal for this page $ 0' and 'Total Contributions Received \u2014 Sum of all Schedule A Pages in this report $ 0')",
+     "detail": "ZERO itemized rows. Schedule A (PDF p2) exists, is born-digital and fillable, and all 15 printed data rows are unfilled \u2014 the amount column was crop-proved empty end to end at 700 dpi (fifteen empty boxed cells; no figure, no stroke, no banner line). 0 rows sum to 0.00 = Box B = both printed footers. Box C YTD also prints a typed 0 and is not summed as an increment. These are TYPED ZEROS, not nil marks: the filer affirmatively reported zero contributions for the period."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' = a TYPED 0 on the p4 Summary Page, corroborated by Schedule B's own two printed footers, both carrying a typed 0 ('Subtotal for this page $ 0' and 'Total Expenditures Made \u2014 Sum of all Schedule B Pages in this report $ 0')",
+     "detail": "ZERO itemized rows. Schedule B (PDF p3) exists and all 15 printed data rows are unfilled \u2014 the amount column was crop-proved empty end to end at 700 dpi. 0 rows sum to 0.00 = Box D = both printed footers. Box E YTD also prints a typed 0. The cover ladder is internally consistent at zero: A 0 + B 0 = F 0, and F - D = 0 = G."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 the In-Kind tick column is printed on both schedules and no box is ticked, and there are no entries at all, so monetary-only and monetary-plus-in-kind are identical at 0.00 and both close on the typed zeros. Tested per filing rather than carried from this filer's other report (ADDENDUM G1).",
+   "escalations": 2,
+   "escalation_note": "700 dpi full-height crops of the Amount column on PDF p2 (Schedule A) and PDF p3 (Schedule B): each rendered fifteen empty boxed cells with no figure and no filer mark. That is the proof behind the two `empty-schedule` states. No amount cell existed to escalate.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "A GENUINE ALL-ZERO REPORT, the second of two in this chunk from the same filer. 4 pages: p1 COVER, p2 SCHEDULE A, p3 SCHEDULE B, p4 SUMMARY PAGE LAST \u2014 each classified from its own printed heading. NO CHECKLIST DECOY is bound in: exactly one Summary Page, and its seven boxes carry typed figures rather than bare labels. FORM: modern_boxAF, 'Financial Campaign Report for County and Local School Board Candidates', Josh Daniels Clerk/Auditor masthead, NO printed 'v.' revision string, close box LETTERED 'G' \u2014 the same unversioned 2022 stock as the rest of this chunk; Schedule B carries a REAL Purpose column and both schedules an In-Kind tick column. BORN-DIGITAL: filled in a PDF reader, values render as machine type, and the only handwriting is the ink signature on the cover. COVER: page-face candidate 'Jeanne Bowen', office typed 'Utah County Commission seat A' \u2014 note this is a DIFFERENT wording from the same filer's other 2022 filing in this chunk (e95ebdfd types just 'Commission A') and from index.csv's 'County Commission Seat A'; all three name seat A, the page face is recorded as printed, and nothing was inferred. Report type 'Seven days preceding the General Election'; not an amendment (No ticked). DATE FORMAT: this filer writes dates in LONG FORM \u2014 '31 October 2022' in the cover Date, the Date of Filing and all three 'Date of Report' boxes \u2014 where her other filing uses 11/16/2022; kept verbatim in this note, not normalized. The Phone Number cell was LEFT EMPTY BY THE FILER. The candidate's street address on the cover was deliberately NOT transcribed. Both empty sides mean THE FILER REPORTED NO ACTIVITY (affirmed by typed zeros in seven summary boxes and four schedule footers) \u2014 a different fact from the module-wide 'not transcribed' default, so both are `empty-schedule`, never `withheld`."
+  }
+ }
 }

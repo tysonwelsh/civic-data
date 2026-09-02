@@ -100,8 +100,10 @@ campaign_finance/  COUNTY-OFFICE candidate C&E disclosures 2008→2026 (added 20
               county_confirmed, 5 undetermined) + excluded.csv 256 (237 school board — the
               owner's out-of-scope ruling) + unrecovered.csv 2. filing_totals.csv carries
               each filing's OWN STATED TOTALS (210 contributions / 212 expenditures
-              figures); contributions.csv/expenditures.csv are HEADER-ONLY — **no itemized
-              donor or vendor rows exist**. Document-tier in gov.db (no cf_* rows).
+              figures); **contributions.csv 756 / expenditures.csv 1,466 — the ITEMIZED
+              layer, COMPLETE for every document the county holds (queue closed 2026-08-24:
+              21 born-digital filings parsed 2026-08-02 + 176 of 176 remaining distinct
+              documents vision-transcribed), 100% pct:-geometry-anchored, ZERO withheld**.
               Read `campaign_finance/CLAUDE.md` before quoting any figure.
 projections/  Gardner Institute county population/household/jobs (140 rows, vintages 2025+2022).
 gis/          CATALOG ONLY (link, never mirror) — 24 UGRC + county ArcGIS layers + derived/
@@ -152,8 +154,11 @@ db/           build_db.py → cache_county.db (STANDARD 8-table schema; reuses t
   — retained, unparsed (OCR/vision follow-up queued).**
 - **Who funded a county candidate** → `campaign_finance/`: 239 county-office filings
   2008–2026 with each filing's own **stated totals** (`filing_totals.csv`, verbatim detail
-  in `filing_stated_detail.csv`). **There are NO itemized donor rows** — "who gave to X"
-  needs the raw PDF. Never sum without grouping on `sha256` (42 cross-channel duplicates),
+  in `filing_stated_detail.csv`) **and a COMPLETE itemized donor/vendor layer**
+  (`contributions.csv` / `expenditures.csv`, closed 2026-08-24 — an empty side means an empty
+  schedule, a PDF with no schedule page, or a filer figure he never itemized, NEVER "no
+  donors"). Never sum without grouping on `sha256` (42 cross-channel duplicates **plus 26
+  same-report-different-bytes CONTENT-DUPLICATEs sha256 cannot see**),
   and never read the summed stated figures as a per-candidate cycle total (`is_incremental`
   varies per filing). Join to votes via `db/cache_county.db` `person`; the County Executive
   files CF but has no `vote` rows (correct, not a gap).

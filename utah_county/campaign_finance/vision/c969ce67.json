@@ -3,7 +3,10 @@
  "key": "c969ce67",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:35:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,61 @@
    "notes": "THIS FILING USES THE COUNTY-ONLY TITLE: '2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' (no '& LOCAL SCHOOL BOARD'), with the sidebar reading 'COUNTY CANDIDATES' and the summary-page header '2014 County Candidate' - a different printing of the legacy form from the other 2014 filings in this tranche. Handwritten. The filer writes zeros as a slashed-zero glyph (lines 1A, 1B, 2A, 7) - actually-written zeros, transcribed 0 at medium confidence. Cents are written as a raised superscript ('65.' with superscript '00'), transcribed 65.00. NEGATIVE figures are written in accountant's parentheses on lines 3, 4 and 5 and are transcribed with the parentheses intact. FILER ERROR retained verbatim: line 4 is labelled 'Total Contributions Received (From Line 1 Column A)' but the filer wrote (65.00) there while line 1 Column A is a zero - not corrected. Street address and zip code left blank by the filer on the cover; there is no political-party inconsistency."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "04-05-14",
+   "vendor_raw": "SELF",
+   "amount": "65.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.70,18.73,9.82,3.91@p4",
+   "geometry_frame": "p4 axis=y cell=82.70-92.52 rowband=18.73-22.64 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Cents written as a raised superscript '00' over the decimal. THIS 2014 BLANK'S SCHEDULE B REUSES SCHEDULE A'S PRINTED COLUMN HEADINGS \u2014 'Date / Name of Contributor / Mailing Address & Zip Code / Amount' \u2014 so there is NO Purpose column and purpose is honestly blank (the same property Addendum B4 records for the 2012 blank; note the reference record 40bd7997, a different 2014 blank, prints 'Purchased From/Source' instead). The address cell is LEFT EMPTY BY THE FILER (this filing is not a *_Redacted.pdf and the county redacted nothing on it); expenditure rows carry no address field in any case. The footer of this page is the form's own mislabel, 'Total Expenditures Received'."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r3_02)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "expenditures": {
+     "result": "cumulative-exact",
+     "anchor": "Column B 'Year-to-Date Total' expenditures (65.00) on the p2 SUMMARY PAGE, which is also Schedule B's own printed 'Subtotal for this page' (65.00) and its printed 'Total Expenditures Received' (65.00). It is NOT Column A: the promoted per-period cell prints a SLASHED ZERO (0).",
+     "detail": "THE DOCUMENTED EXCEPTION, SAID LOUDLY: this side does NOT close on the promoted per-period anchor. The single Schedule B row (04-05-14, 'SELF', 65.00) sums to 65.00 = Schedule B's own printed page subtotal AND its printed 'Total Expenditures Received' AND the cover's CUMULATIVE Column B (65.00). The cover's Column A 'Total this Period' expenditures is a SLASHED ZERO = 0, and the transaction is dated 04-05-14 \u2014 six months before this 'Seven days preceding the General Election' report (signed 10-28-14) \u2014 so the schedule restates the CYCLE, not the period, exactly the A6 pattern. Nothing was differenced across filings and no figure was nudged. Both in-kind conventions give the same sum (see in_kind_convention)."
+    }
+   },
+   "in_kind_convention": "not applicable / both conventions tested and identical \u2014 this 2014 blank prints no in-kind column and no row on either schedule is marked in-kind, so monetary-only and monetary-plus-in-kind both give 65.00 on Schedule B and both give the same (zero itemized contribution rows) on Schedule A.",
+   "escalations": 0,
+   "escalation_note": "No cell was doubtful: every figure on all four pages is large, clean handwriting. The six crops taken are the mandatory geometry controls recorded in the frames, not doubt escalations.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 1,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "James O. Tracy (page-face name; index.csv names NO candidate for this row \u2014 the 2008-2018 listing grouped by office), REPUBLICAN, office printed 'SHERIFF', residence city Provo. 4-page legacy_colAB filing: p1 cover, p2 SUMMARY PAGE (located by its printed heading; it happens to be p2), p3 SCHEDULE A, p4 SCHEDULE B. Report type 'Seven days preceding the General Election', signed 10-28-14, amendment box ticked 'No'. FORM VARIANT NOTE: the cover title is the COUNTY-ONLY '2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)' with no '& LOCAL SCHOOL BOARD', and its Schedule B reuses Schedule A's headings \u2014 so at least TWO different 2014 blanks circulated (cf. 40bd7997, whose Schedule B prints 'Purchased From/Source').\n\nWHY sides.contributions IS 'empty-schedule' AND WHY THE $65 LOAN IS NOT PUBLISHED AS A CONTRIBUTION ROW (the A4/B3 ladder test, run and decided by the page): Schedule A carries exactly two written lines. Band 1 is a BANNER in the Name column \u2014 'NONE (NO CONTRIBUTIONS)' \u2014 with no date and no amount (proved by the control crop). Band 2 is the filer's own memorandum: date '04-05-14', Name cell '(LOAN TO SELF)', address cell empty, Amount '65.' with raised '00'; he then carried that 65.00 into the schedule's printed 'Subtotal for this page' and 'Total Contributions Received'. The ladder decides against calling it a contribution, and it decides UNAMBIGUOUSLY: the cover's line 1 'TOTAL CONTRIBUTIONS RECEIVED' prints a SLASHED ZERO in Column A (this period) AND a SLASHED ZERO in Column B (year-to-date) \u2014 both read 0 under the repo zero-glyph ruling \u2014 so the document states there were NO contributions in the period and NONE in the cycle, which is also what the filer wrote in his own hand on the schedule. This is the Witney 2010 (A4) outcome, not the Kirk 2010 / Grierson 2012 (B3) outcome: the loan is invisible in the itemized contribution layer BY DESIGN and is preserved verbatim here. Line 3 'Balance at Beginning of Reporting Period' prints '(65.00)' in accounting parentheses = -65.00, i.e. the filer books the self-loan as a debt, which is consistent with a zero contributions line.\n\nFILER ARITHMETIC ON THE COVER, RETAINED VERBATIM AND NOT ADJUDICATED: the p2 ladder as printed is internally inconsistent. Line 3 = (65.00); line 4 'Total Contributions Received (From Line 1 Column A)' = (65.00) although line 1 Column A is a slashed zero; line 5 'Subtotal (Add lines 3 and 4)' = (65.00) although 3+4 = -130.00; line 6 'Total Expenditures Made (From Line 2 Column A)' = 65.00 although line 2 Column A is a slashed zero; line 7 'Balance at Close (Subtract Line 6 from Line 5)' = a SLASHED ZERO although 5-6 = -130.00. Nothing was recomputed or nudged. The two cells this transcription actually relies on \u2014 line 1 Column A/B (contributions) and line 2 Column B (expenditures) \u2014 are legible, unstruck and unambiguous.\n\nNIL MARKS ON THIS FILING, read per line per the B2 caution: every nil on p2 is a SLASHED ZERO (lines 1 A and B, line 2 A, line 7) and therefore 0; there is no bare dash anywhere on the page, so the A3 blank-cover recovery was not needed. PRIVACY: no address was carried; on both schedules the address column is simply empty in the filer's hand (this file is not a *_Redacted.pdf, so nothing was blacked out by the county)."
+  }
+ }
 }

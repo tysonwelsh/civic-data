@@ -1,0 +1,182 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C10.json",
+ "key": "ee6ccad0",
+ "index_path": "raw/2014/2014_cc_Pitcher_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Pitcher_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "cd6b67bb1d983634",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "$4,400. 00",
+    "cover_over50_this": "$100.00",
+    "cover_over50_cum": "$4,500. 00",
+    "cover_le50_last": "$89. 00",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "$89. 00",
+    "cover_expense_last": "$14,072.69",
+    "cover_expense_this": "$1,965. 00",
+    "cover_expense_cum": "$16,037.69",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "100.00",
+   "basis": "cover-line1-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A p2 has 2 inked rows, $50.00 + $50.00 = $100.00, exactly the cover line 1 TOTALS FOR THIS REPORT cell. It does NOT equal the CUMULATIVE cell ($4,500.00), so this side is on the PERIOD scope - a different scope from the cumulative figure the module publishes, which is honest and expected here. The cover's own identity holds: 4,400.00 + 100.00 = 4,500.00. Reconciled against line 1 only; line 2 (the $50-or-less aggregate, $89.00 cumulative, 0 this period) is never itemized. The Carr form prints no schedule total (schedule_total null)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "$14,072.69",
+    "cover_expense_this": "$1,965. 00",
+    "cover_expense_cum": "$16,037.69",
+    "cover_over50_this": "$100.00",
+    "cover_over50_cum": "$4,500. 00",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "1965.00",
+   "basis": "cover-line3-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B p3 has 4 inked rows: 380.00 + 580.00 + 415.00 + 590.00 = 1,965.00, exactly the cover line 3 TOTALS FOR THIS REPORT cell; the CUMULATIVE cell is 16,037.69, so this side is PERIOD scope. The cover identity holds: 14,072.69 + 1,965.00 = 16,037.69, and that identity is what settled the one ambiguous glyph (row 1, see escalation_note)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints no schedule or page subtotal; the cover is the only anchor. p2 rows 100.00 = cover line1 THIS 100.00 (gates). p3 rows 1965.00 = cover line3 THIS 1,965.00 (gates). Cover cross-check: both LAST + THIS = CUMULATIVE identities close on lines 1, 2 and 3.",
+  "row_count": "Counted ink against the ruled grid on the 200 dpi renders: p2 first 2 writing lines inked, 2 rows emitted; p3 first 4 writing lines inked, 4 rows emitted. The single-cell geometry proof (first row, last row, one pitch past the last row) independently confirms no dropped or duplicated line on either page.",
+  "geometry_proof": "p2: row1 box (x84%,y10.30%,w14%,h2%) renders '$50.00'; row2 box (y12.30%) renders '$50. 00'; control one pitch below (y14.40%) renders EMPTY. p3: row1 box (y10.30%) renders '$380.00'; row4 box (y16.50%) renders '$590.00'; control one pitch below (y18.60%) renders EMPTY.",
+  "balance_chain": "Does NOT close, and the non-closure is the filer's own. Cover line 4 'Balance at the end of this reporting period' is a slashed-zero glyph in all three columns (LAST, THIS, CUMULATIVE), while the cumulative money lines are contributions 4,500.00 + 89.00 = 4,589.00 against expenses 16,037.69, i.e. 4,589.00 - 16,037.69 = -11,448.69. The stated zero is retained verbatim and NOT recomputed. The three money lines themselves each satisfy LAST + THIS = CUMULATIVE exactly. This chunk holds no earlier Pitcher filing, so the cross-filing chain test could not be run; note that the cover's own LAST-REPORT column ($4,400.00 / $89.00 / $14,072.69) is the hook for it."
+ },
+ "escalations": 7,
+ "escalation_note": "600 dpi strip crops of Form A rows, Form B rows 1-4 and the cover totals block; 900 dpi crops of the Form B vendor column and the Form B row-1 amount cell; a 1200 dpi crop of the same cell; six geometry-proof cell crops. THE ONE REAL AMBIGUITY: Form B row 1's amount is an over-written glyph - a '3' followed by what is either an '8' drawn as two stacked ovals or a '0' with a second oval written under it, then '0. 00'. At 900 and 1200 dpi the glyph stays bistable between $380.00 and $300.00. RESOLVED BY ARITHMETIC, not by resolution, per the Rhodes rule: 380 + 580 + 415 + 590 = 1,965.00 = the printed cover line-3 THIS cell, and 14,072.69 + 1,965.00 = 16,037.69 = the printed CUMULATIVE cell; under 300 the side would miss by 80.00 and both printed identities would break. Recorded as 380.00 with the glyph described in the row note.",
+ "notes": "index.csv calls the office Treasurer; the cover's 'Name of Office' line has a scribbled-out word followed by 'Treasurer', with 'Office District: Cache County' below - agrees with the index. Candidate on the form is 'Tyler John Pitcher' (index: Pitcher) - agrees. Cover date '12/5/14'; clerk stamp 'RCVD 04 DEC 2014'. Page 4 is the printed Cache County Code 2.21.040/2.21.050 statute text, not a schedule. NOTE ON FORM A: both itemized contributions are exactly $50.00, which is NOT 'more than $50.00' as line 1 requires - the filer itemized them anyway and carried them in the line-1 column ($100.00 this period). Transcribed as the filer wrote them; no reclassification made. Contributor addresses are given as city+state only on the form ('Lewiston, Utah'), so nothing had to be discarded there.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-11-07",
+   "donor_raw": "Roy Hall",
+   "donor_city": "Lewiston",
+   "donor_state": "Utah",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.00,10.30,14.00,2.00@p2",
+   "note": "date written '11/7/14'; amount written '$50.' with superscript '00'; address cell reads 'Lewiston, Utah' (no street given by the filer)"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2014-11-07",
+   "donor_raw": "Evan Hall",
+   "donor_city": "Lewiston",
+   "donor_state": "Utah",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.00,12.30,14.00,2.00@p2",
+   "note": "date written '11/7/14'; given name read 'Evan' (cursive, could be Evan/Evon) - medium; amount '$50' with superscript '00'; address cell 'Lewiston, Utah'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-11-04",
+   "vendor_raw": "Mark Allred",
+   "purpose": "Campaign Staff",
+   "amount": "380.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=medium;amount=low",
+   "verified": 1,
+   "geometry": "pct:84.00,10.30,14.00,2.00@p3",
+   "note": "amount glyph is over-written and stays bistable between '$380.00' and '$300.00' at 900 and 1200 dpi (a '3' then two stacked ovals then '0. 00'); accepted as 380.00 ONLY because the page arithmetic forces it - 380+580+415+590 = 1,965.00 = the printed cover line-3 THIS cell, and 14,072.69+1,965.00 = 16,037.69 = the printed CUMULATIVE cell. Flagged needs_review so a human can see the glyph. Vendor read 'Mark Allred' across a fold rule."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2014-11-04",
+   "vendor_raw": "Sam Thompson",
+   "purpose": "Campaign Staff",
+   "amount": "580.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.00,12.40,14.00,2.00@p3",
+   "note": "amount '$580.00'; surname read 'Thompson' at 900 dpi (cursive, Thompson/Thomson bistable) - medium"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2014-11-04",
+   "vendor_raw": "Chelsea Nielsen",
+   "purpose": "Campaign Staff",
+   "amount": "415.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.00,14.45,14.00,2.00@p3",
+   "note": "amount '$415.' with superscript '00'; surname read 'Nielsen' (Nielsen/Nielson bistable in this hand) - medium"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2014-11-04",
+   "vendor_raw": "Kylie Lund",
+   "purpose": "Campaign Staff",
+   "amount": "590.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.00,16.50,14.00,2.00@p3",
+   "note": "amount '$590.00'"
+  }
+ ]
+}

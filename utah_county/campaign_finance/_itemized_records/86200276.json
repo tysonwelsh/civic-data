@@ -1,0 +1,99 @@
+[{
+ "index_path": "raw/2010/2010_CountyAssessor-PoulsonKris-061510.pdf",
+ "key": "86200276",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (500) on the p2 Summary Page, which is also Schedule A's own printed 'Subtotal for this page' ($500) and its printed 'Total Contributions Received' ($500), and is repeated at summary line 4 and line 5",
+   "detail": "1 Schedule A row: 500.00 = the schedule's printed page subtotal = the schedule's printed total = the cover's promoted PER-PERIOD Column A cell. Column B 'Year-to-Date Total' also prints 500 (first report of the cycle, so period and YTD coincide) and is NOT summed as an increment. The p2 balance ladder closes: line 3 (a written zero) + line 4 500 = line 5 500; 500 - line 6 2,549.71 = line 7 -2,049.71, a NEGATIVE closing balance printed with a leading minus sign and kept negative."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (2,549.71) on the p2 Summary Page, equal to Schedule B's printed 'Subtotal for this page' ($2,549.71) and its printed 'Total Expenditures Received' ($2,549.71) and to line 6 of the balance ladder",
+   "detail": "14 Schedule B rows sum to 484.51 + 64.94 + 29.86 + 334.51 + 104.63 + 30.00 + 204.56 + 109.63 + 616.00 + 50.00 + 49.07 + 392.00 + 20.00 + 60.00 = 2,549.71 exactly = the printed page subtotal = the printed schedule total = the cover's promoted per-period Column A cell. Column B YTD 2,549.71 is the same figure and is retained as cumulative, never summed as an increment. Note the filer spent more than he raised this period, which is why the closing balance is negative — that is the document's own arithmetic, not a transcription error."
+  }
+ },
+ "in_kind_convention": "monetary-only closed both sides (500.00 / 2,549.71); the monetary-plus-in-kind convention was tested and is identical, because no row is marked in-kind and this form prints no in-kind column or line.",
+ "escalations": 4,
+ "escalation_note": "Four tight crops at 900-1200 dpi, all legibility/geometry (both sides had already closed on the printed subtotals): p3's single amount box rendered '$500' (a slashed dollar sign, then 500, NO cents written); p4 band 1 rendered '484.51'; p4 band 14 rendered '60.00' (the filer trails the final zero into a dash-like stroke, '60.0-0', but the closure and the glyph agree at 60.00); p4 band 9 rendered '616.00', confirming the largest line. A 1200 dpi crop of p4 band 13's NAME cell showed 'Leg 5' followed by a character written over another character — it is not resolvable at any resolution and is recorded as such rather than guessed.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [85.05, 95.70],
+   "cells": [[7.30, 18.96], [20.55, 54.27], [55.86, 83.82], [85.05, 95.70]],
+   "rows": [[14.82, 18.92]],
+   "measure_note": "legacy_colAB UNDERLINE form: rowbands.py returns 17 per-column underline rules at 18.92, 23.02, 27.14, 31.24, ... pitch 4.10, whose four segments ARE the column bands (Date 7.30-18.96, Name 20.55-54.27, Address 55.86-83.82, Amount 85.05-95.70). THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N]; row 1 is extrapolated one pitch up from the first rule to [14.82, 18.92]. Only one row is filled, so the proof covers every transcribed row: the box pct:85.05,14.82,10.65,4.10@p3 rendered the handwritten '$500' (recorded 500.00; the printed 'Amount' header sits above it because the extrapolated band reaches the header strip, and the tail of the address zip '...7' intrudes at the left edge). Rules 2-17 are the blank ruled lines of the unused schedule. Page carries -0.5 deg skew; bands are in the RAW render frame, which is what make_snippet crops."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [85.46, 95.94],
+   "cells": [[7.53, 19.13], [20.72, 54.44], [55.92, 84.05], [85.46, 95.94]],
+   "rows": [[15.29, 19.39], [19.39, 23.49], [23.49, 27.58], [27.58, 31.68], [31.68, 35.80], [35.80, 39.90], [39.90, 43.99], [43.99, 48.09], [48.09, 52.14], [52.14, 56.28], [56.28, 60.38], [60.38, 64.47], [64.47, 68.59], [68.59, 72.69]],
+   "measure_note": "Same underline grid as p3, zero skew; 17 rules at 19.39, 23.49, 27.58, 31.68, 35.80, 39.90, 43.99, 48.09, 52.14, 56.28, 60.38, 64.47, 68.59, 72.69, ... pitch 4.10, row 1 extrapolated one pitch up to [15.29, 19.39]. TWO-CROP PROOF at 900 dpi: the FIRST transcribed row box pct:85.5,15.29,10.4,4.10@p4 rendered '484.51' (recorded 484.51, the Clerk-Auditor filing fee) and the LAST transcribed row box pct:85.5,68.59,10.4,4.10@p4 rendered '60.00' (recorded 60.00, the 4/22 Smiths line) — neither showed a neighbour's figure. A control crop of band 9, pct:85.5,48.09,10.4,4.05@p4, rendered '616.00', matching the row recorded there. Rows 15-17 of the printed grid are blank."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "4-15-2010",
+   "donor_raw": "Utah Co. Assoc. of Realtors PAC", "donor_city": "Orem",
+   "amount": "500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the amount cell prints '$500' with NO cents written; recorded as the decimal 500.00 and the verbatim form noted here. The address cell prints a street line, a suite number, the town and the zip but NO state, so donor_state is honestly omitted rather than inferred; the street line is not carried, per the privacy rule."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "3/12/2010",
+   "vendor_raw": "Utah Co Clerk Auditor", "amount": "484.51", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "Schedule B on this form prints no Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount) and this filer wrote no purpose text except where it is part of the payee cell, so purpose is honestly blank. This line is the candidate filing fee."},
+  {"line_no": "2", "page": 4, "row": 2, "date": "3/26/2010",
+   "vendor_raw": "Office Max", "amount": "64.94", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "3", "page": 4, "row": 3, "date": "3/27/2010",
+   "vendor_raw": "Yahoo.com", "amount": "29.86", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "the address cell repeats the domain 'Yahoo.com' rather than a mailing address — the filer's own entry"},
+  {"line_no": "4", "page": 4, "row": 4, "date": "3/29/2010",
+   "vendor_raw": "Uprinting.com", "amount": "334.51", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "5", "page": 4, "row": 5, "date": "3/31/2010",
+   "vendor_raw": "Office Max", "amount": "104.63", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "6", "page": 4, "row": 6, "date": "4/01/2010",
+   "vendor_raw": "Constant Contact", "amount": "30.00", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "address cell prints the domain 'constantcontact.com'"},
+  {"line_no": "7", "page": 4, "row": 7, "date": "4/04/2010",
+   "vendor_raw": "Uprinting.com", "amount": "204.56", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "8", "page": 4, "row": 8, "date": "4/05/2010",
+   "vendor_raw": "Doctor Buttons", "amount": "109.63", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "9", "page": 4, "row": 9, "date": "4/06/2010",
+   "vendor_raw": "USPS (stamps)", "amount": "616.00", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "10", "page": 4, "row": 10, "date": "4/05/2010",
+   "vendor_raw": "Utah Republican Party (county)", "amount": "50.00", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "the amount cell prints '50' with no cents; recorded as 50.00 with the verbatim form noted. This row is also out of date order — 4/05 follows 4/06 on the printed schedule — and the printed order is preserved. The address cell is left empty by the filer (not redacted by the county)."},
+  {"line_no": "11", "page": 4, "row": 11, "date": "4/07/2010",
+   "vendor_raw": "Office Max", "amount": "49.07", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "12", "page": 4, "row": 12, "date": "4/14/2010",
+   "vendor_raw": "USPS (stamps)", "amount": "392.00", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "13", "page": 4, "row": 13, "date": "4/16/2010",
+   "vendor_raw": "Leg 5", "amount": "20.00", "in_kind": false,
+   "confidence": "low", "verified": 1,
+   "note": "confidence LOW on the NAME only: the payee cell reads 'Leg 5' followed by a character the filer wrote OVER another character; at 1200 dpi it resolves to neither a clean '0' nor a clean '8', so nothing is guessed and only what is legible is carried. The address cell is empty. The amount 20.00 is certain (legible and forced by the printed page subtotal)."},
+  {"line_no": "14", "page": 4, "row": 14, "date": "4/22/2010",
+   "vendor_raw": "Smiths", "amount": "60.00", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "the cents are written '0-0' with a connecting stroke; read 60.00, which the printed page subtotal independently forces"}
+ ],
+ "notes": "legacy_colAB variant on the 2010 blank; 4 pages: p1 cover ('Seven days preceding the Primary Election', signed 'June 15, 2010', stamped received JUN 15), p2 SUMMARY PAGE, p3 Schedule A, p4 Schedule B — the three form sheets carry the filer's own '1 of 1' foliation on EACH sheet (he numbered each schedule independently, not the document), which is why a page ordinal cannot be trusted to locate anything here. THE AMENDMENT QUESTION IS LEFT UNANSWERED on the cover: NEITHER the 'Yes' nor the 'No' box is checked (confirming what the 2026-08-01 cover tranche recorded) — an honest blank, not a failed read. Both sides close EXACTLY on the promoted per-period Column A figures. The closing balance is NEGATIVE (-2,049.71), printed with a leading minus sign and kept negative; the filer spent 2,549.71 against 500.00 raised, so this report on its face does not fund itself — the document's own arithmetic, transcribed, not adjudicated. PAGE-FACE candidate name is 'Kris Poulson' (signing 'Kris W. Poulson'; Republican, residence city Payson) — index.csv names NO candidate for this row; the page-face Office Seeking line reads simply 'Assessor', which agrees with index.csv's 'County Assessor'. Not a *_Redacted.pdf — published in the clear; the donor's street line was visible and only city was carried, at READ TIME."
+}]

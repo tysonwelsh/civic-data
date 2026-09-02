@@ -1,0 +1,94 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": ""
+ },
+ "cover": {
+  "candidate": "Paul Sanchez",
+  "party": "Dm",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Sanchez-Paul__9B34781B.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sanchez, Paul",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Sanchez-Paul__9B34781B.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026-family 'Financial Disclosure Report For an Open Campaign Account' form (title prints no year), handwritten, the two pages PHOTOGRAPHED on a dark surface (desk background and sheet curl) but legible. Office field on cover left blank. Signature present but the signature DATE area is covered by the black redaction bar, so no report date is visible (index says 2026-02-12 - prior only, not visible on page). Zero glyphs (slashed O) on Summary lines 1/3/4/7 transcribed as 0 per zero-glyph rule; line 2 is genuinely blank. County redaction inconsistent on the cover: filer's street address and zip left readable while phone/email barred - address content NOT transcribed per privacy rule.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "summary-line-1",
+     "result": "unknown",
+     "detail": "no Schedule A page in the document; Summary line 1 Col A is a handwritten slashed-zero glyph"
+    },
+    "expenditures": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page in the document; Summary line 2 Col A left BLANK (not a zero glyph)"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages; no printed subtotals exist",
+   "escalations": 6,
+   "escalation_note": "400dpi crops on the photographed pages: p2 Column A lines 1-2 and 3-7 zero-glyph confirmations (x2, plus one misaimed first attempt), p1 name row, party block, and Final/Dissolution + amendment checkbox region (x3)",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026-family 'Financial Disclosure Report For an Open Campaign Account' form (title prints no year), handwritten, the two pages PHOTOGRAPHED on a dark surface (desk background and sheet curl) but legible. Office field on cover left blank. Signature present but the signature DATE area is covered by the black redaction bar, so no report date is visible (index says 2026-02-12 - prior only, not visible on page). Zero glyphs (slashed O) on Summary lines 1/3/4/7 transcribed as 0 per zero-glyph rule; line 2 is genuinely blank. County redaction inconsistent on the cover: filer's street address and zip left readable while phone/email barred - address content NOT transcribed per privacy rule."
+  }
+ }
+}

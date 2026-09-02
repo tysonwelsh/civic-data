@@ -1,0 +1,216 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2017-11-09",
+   "donor_raw": "Don L. Skaggs",
+   "occupation": "Skaggs Public Safety Union & Equipment",
+   "amount": "5000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.26,22.89,85.30,3.93@p3",
+   "note": "date printed '11-9-17'; amount written with a decimal point and raised underlined cents ('$5,000.oo' style); address block REDACTED AT SOURCE (the county's black bar covers the whole 'Complete Mailing Address' column) - NOT left blank by the filer"
+  },
+  {
+   "line_no": 2,
+   "date": "2017-11-17",
+   "donor_raw": "John Smith",
+   "occupation": "retired",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.26,26.82,85.30,3.95@p3",
+   "note": "date printed '11-17-17'; amount written with a decimal point and raised underlined cents ('$5,000.oo' style); address block REDACTED AT SOURCE (the county's black bar covers the whole 'Complete Mailing Address' column) - NOT left blank by the filer"
+  },
+  {
+   "line_no": 3,
+   "date": "2017-11-25",
+   "donor_raw": "KOM Enterprises",
+   "occupation": "self-employed",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.26,30.77,85.30,3.93@p3",
+   "note": "date printed '11-25-17'; amount written with a decimal point and raised underlined cents ('$5,000.oo' style); address block REDACTED AT SOURCE (the county's black bar covers the whole 'Complete Mailing Address' column) - NOT left blank by the filer"
+  },
+  {
+   "line_no": 4,
+   "date": "2017-11-28",
+   "donor_raw": "Mike Katsanevas",
+   "occupation": "Palace Development LLC",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.26,34.70,85.30,3.94@p3",
+   "note": "date printed '11-28-17'; amount written with a decimal point and raised underlined cents ('$5,000.oo' style); address block REDACTED AT SOURCE (the county's black bar covers the whole 'Complete Mailing Address' column) - NOT left blank by the filer"
+  },
+  {
+   "line_no": 5,
+   "date": "2017-12-22",
+   "donor_raw": "George Q. Nielsen",
+   "occupation": "retired",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.26,38.64,85.30,3.95@p3",
+   "note": "date printed '12-22-17'; amount written with a decimal point and raised underlined cents ('$5,000.oo' style); address block REDACTED AT SOURCE (the county's black bar covers the whole 'Complete Mailing Address' column) - NOT left blank by the filer"
+  },
+  {
+   "line_no": 6,
+   "date": "2018-01-25",
+   "donor_raw": "Salt Lake Board of Realtors (BORPAC)",
+   "occupation": "realtors",
+   "amount": "1500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.26,42.59,85.30,3.96@p3",
+   "note": "date printed '1-25-18'; amount written with a decimal point and raised underlined cents ('$5,000.oo' style); address block REDACTED AT SOURCE (the county's black bar covers the whole 'Complete Mailing Address' column) - NOT left blank by the filer"
+  },
+  {
+   "line_no": 7,
+   "date": "2018-01-26",
+   "donor_raw": "KOM Enterprises",
+   "occupation": "self-employed",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.26,46.55,85.30,3.93@p3",
+   "note": "date printed '1-26-18'; amount written with a decimal point and raised underlined cents ('$5,000.oo' style); address block REDACTED AT SOURCE (the county's black bar covers the whole 'Complete Mailing Address' column) - NOT left blank by the filer"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2017-02-01",
+   "vendor_raw": "SLCo. Republican Party",
+   "purpose": "\"Lincoln Day\" Dinner",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.40,25.79,80.10,4.14@p4",
+   "note": "date printed '2-1-17'; recipient written on two lines 'SLCo. Republican / Party'; purpose has the filer's own quotation marks around Lincoln Day; cents raised and underlined ($300.00). Schedule B has no address column."
+  }
+ ],
+ "total_contributions": "$9,100.00",
+ "total_expenditures": "$300.00",
+ "beginning_balance": "$20,802.20",
+ "ending_balance": "$29,602.20",
+ "aggregate": {
+  "total_contributions_to_date": "$48,453.50",
+  "total_expenditures_to_date": "$18,851.30",
+  "line5_subtotal": "$29,902.20"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "Jan. 28, 2018",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/steven-debry_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/steven-debry_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "CHUNK-FILE AGREEMENT: candidate 'Steven L. DeBry', office County Council, seat District 5 ('#5' on the form), date 2018-01-28, Year-End - all confirmed at the page. || form_year is EMPTY: this is the untitled SHERRIE SWENSEN cover vintage ('Financial Disclosure Report For a Candidate', no year in the title); the chunk file's form_family 'untitled-year' is right. NOTE its own amendment uses the DIFFERENT, '2017 Financial Disclosure Report'-titled vintage for the same period. The footer template path '04pccfindisc.doc' is a filename, not a year. || AMENDMENT FLAG: neither Yes nor No is checked on THIS document, so is_amendment is honestly '' - and that is not evidence either way, since the separate amendment document names this report's date as what it amends. || AMENDMENT PAIR: this is the ORIGINAL. Its amendment is raw/globalassets/steven-debry---amendment_redacted.pdf (signed 2/6/18, RECEIVED FEB 06 2018), whose cover checks 'Yes, this is an amendment' and writes the date of the report amended as 'Jan. 28 2018' - which is THIS document's own report date. Both records are kept separately, each transcribed only from its OWN pages; NO figure, name or row was copied between them. || WHAT ACTUALLY DIFFERS between the two (read off both documents, not inferred): (1) Schedule A drops TWO rows - the January-2018 pair '1-25-18 Salt Lake Board of Realtors (BORPAC) / realtors / $1,500.00' and '1-26-18 KOM Enterprises / self-employed / $1,000.00'. Their $2,500 is exactly the change in Summary line 1 Column A (9,100.00 -> 6,600), in Column B (48,453.50 -> 45,953.50) and in line 7 (29,602.20 -> 27,102.20). (2) Row 2's CONTRIBUTOR NAME is different: the original writes 'John Smith', the amendment writes 'John Lemacks' (both re-read at 900 dpi and unambiguous). That is a substantive correction, not a transcription artefact. (3) Cosmetic/verbatim differences retained on each: occupation row 1 'Skaggs Public Safety Union & Equipment' vs 'Skaggs, Public Safety Union & Equipment'; row 3 'KOM Enterprises / self-employed' vs 'Kom Enterprises / Self-employed'; Schedule B recipient 'SLCo. Republican Party' vs 'Salt Lake County Republican Party' and purpose '\"Lincoln Day\" Dinner' vs 'Lincoln Day Dinner'; District Number '#5' vs '5'; amounts written '$5,000.oo' (decimal + raised cents) vs '5,000oo' (raised cents, no decimal). (4) The Schedule B GRAND-TOTAL cell changes scope between the two documents: the original prints $18,851.30 there (cycle-cumulative = Summary line 2 Column B) while the amendment prints 300 (the PERIOD figure). Same filer, same period, two different conventions on the same cell - which is why the scope test has to be run per PAGE, not per filer. (5) UNCHANGED: expenditures ($300 period, $18,851.30 cumulative), Summary line 3 (20,802.20), the five surviving Schedule A rows' dates/amounts, and the single Schedule B row's date and amount. || PERIOD NOTE: this Year-End report's Schedule A includes two rows dated 1-25-18 and 1-26-18, i.e. after 31 December 2017 and before the Jan-28-2018 signature. Kept verbatim; no date was adjusted. || PRIVACY: the black bar covers the whole address column on p3; two rows show a stray ink fragment at the bar's right edge (a '1.' beside row 3 and a ')' beside row 6) - address-block remnants, discarded, written nowhere.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$9,100.00",
+     "schedule_total": "$48,453.50",
+     "itemized": "9100.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "BASIS TEST RUN AT THE PAGE (the DeBry trap): Schedule A's two footer cells have DIFFERENT SCOPES. 'SUBTOTAL FOR THIS PAGE' = $9,100.00 = Summary line 1 COLUMN A = line 4 = the PERIOD. 'TOTAL CONTRIBUTIONS RECEIVED (Sum of subtotals from all Schedule A pages)' = $48,453.50 = Summary line 1 COLUMN B = the CYCLE-CUMULATIVE. The 7 transcribed rows sum 5000+100+1000+300+200+1500+1000 = 9,100.00, which matches the PERIOD anchor EXACTLY. Gating on the schedule grand total would have manufactured a false $39,353.50 delta. Unlike this filer's 2019 year-end, Column A here IS the period (line 4 copies line 1 Column A correctly), so summary-line-1 is a valid anchor on THIS filing - the inversion is per-filing, not a filer constant. No in-kind marker anywhere."
+    },
+    "expenditures": {
+     "stated": "$300.00",
+     "schedule_total": "$18,851.30",
+     "itemized": "300.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "Same split-scope footer on Schedule B: 'SUBTOTAL FOR THIS PAGE' = $300.00 = Summary line 2 Column A = line 6 = the PERIOD, while 'TOTAL EXPENDITUTRES MADE' = $18,851.30 = Column B = the cumulative. The single row (2-1-17 SLCo. Republican Party, $300.00) matches the period anchor EXACTLY."
+    }
+   },
+   "page_subtotal_gates": "BOTH sides gate on the printed page subtotal and BOTH PASS: p3 rows 9,100.00 = printed SUBTOTAL FOR THIS PAGE $9,100.00; p4 row 300.00 = printed SUBTOTAL FOR THIS PAGE $300.00. The schedules' GRAND TOTAL cells were deliberately not used as anchors - both hold cycle-cumulative figures here.",
+   "escalations": 2,
+   "escalation_note": "900 dpi crop of p3's seven ink rows - every date, name, occupation and amount re-read identically; this is the crop that settles row 2 as 'John Smith' (the amendment writes 'John Lemacks' in the same slot). 200 dpi full-page read of p1/p2/p4 plus a targeted look at the amendment checkboxes: BOTH Yes and No are empty.",
+   "n_contrib_rows": 7,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "CHUNK-FILE AGREEMENT: candidate 'Steven L. DeBry', office County Council, seat District 5 ('#5' on the form), date 2018-01-28, Year-End - all confirmed at the page. || form_year is EMPTY: this is the untitled SHERRIE SWENSEN cover vintage ('Financial Disclosure Report For a Candidate', no year in the title); the chunk file's form_family 'untitled-year' is right. NOTE its own amendment uses the DIFFERENT, '2017 Financial Disclosure Report'-titled vintage for the same period. The footer template path '04pccfindisc.doc' is a filename, not a year. || AMENDMENT FLAG: neither Yes nor No is checked on THIS document, so is_amendment is honestly '' - and that is not evidence either way, since the separate amendment document names this report's date as what it amends. || AMENDMENT PAIR: this is the ORIGINAL. Its amendment is raw/globalassets/steven-debry---amendment_redacted.pdf (signed 2/6/18, RECEIVED FEB 06 2018), whose cover checks 'Yes, this is an amendment' and writes the date of the report amended as 'Jan. 28 2018' - which is THIS document's own report date. Both records are kept separately, each transcribed only from its OWN pages; NO figure, name or row was copied between them. || WHAT ACTUALLY DIFFERS between the two (read off both documents, not inferred): (1) Schedule A drops TWO rows - the January-2018 pair '1-25-18 Salt Lake Board of Realtors (BORPAC) / realtors / $1,500.00' and '1-26-18 KOM Enterprises / self-employed / $1,000.00'. Their $2,500 is exactly the change in Summary line 1 Column A (9,100.00 -> 6,600), in Column B (48,453.50 -> 45,953.50) and in line 7 (29,602.20 -> 27,102.20). (2) Row 2's CONTRIBUTOR NAME is different: the original writes 'John Smith', the amendment writes 'John Lemacks' (both re-read at 900 dpi and unambiguous). That is a substantive correction, not a transcription artefact. (3) Cosmetic/verbatim differences retained on each: occupation row 1 'Skaggs Public Safety Union & Equipment' vs 'Skaggs, Public Safety Union & Equipment'; row 3 'KOM Enterprises / self-employed' vs 'Kom Enterprises / Self-employed'; Schedule B recipient 'SLCo. Republican Party' vs 'Salt Lake County Republican Party' and purpose '\"Lincoln Day\" Dinner' vs 'Lincoln Day Dinner'; District Number '#5' vs '5'; amounts written '$5,000.oo' (decimal + raised cents) vs '5,000oo' (raised cents, no decimal). (4) The Schedule B GRAND-TOTAL cell changes scope between the two documents: the original prints $18,851.30 there (cycle-cumulative = Summary line 2 Column B) while the amendment prints 300 (the PERIOD figure). Same filer, same period, two different conventions on the same cell - which is why the scope test has to be run per PAGE, not per filer. (5) UNCHANGED: expenditures ($300 period, $18,851.30 cumulative), Summary line 3 (20,802.20), the five surviving Schedule A rows' dates/amounts, and the single Schedule B row's date and amount. || PERIOD NOTE: this Year-End report's Schedule A includes two rows dated 1-25-18 and 1-26-18, i.e. after 31 December 2017 and before the Jan-28-2018 signature. Kept verbatim; no date was adjusted. || PRIVACY: the black bar covers the whole address column on p3; two rows show a stray ink fragment at the bar's right edge (a '1.' beside row 3 and a ')' beside row 6) - address-block remnants, discarded, written nowhere."
+  }
+ }
+}

@@ -1,0 +1,269 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-04-10",
+   "donor_raw": "Christopher K. McCandless",
+   "occupation": "Realtor",
+   "amount": "1,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,22.78,84.79,3.93@p3",
+   "note": "address column redacted at source (county black bar). Name wraps to a second line in the cell ('Christopher K. / McCandless'). Cents written as a raised '00' over a rule. A stray '8' sits just right of the bar under this row - ZIP/address bleed, discarded, not part of any field."
+  },
+  {
+   "line_no": 2,
+   "date": "2018-04-13",
+   "donor_raw": "Baron J. Brooks",
+   "occupation": "owner of Holladay Nutrition",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,26.71,84.79,3.95@p3",
+   "note": "address column redacted at source. Occupation written on two lines ('owner of / Holladay Nutrition'); a stroke at the cell's left edge is address bleed past the bar and was discarded."
+  },
+  {
+   "line_no": 3,
+   "date": "2018-04-17",
+   "donor_raw": "Mike Vardakis",
+   "occupation": "AAA Jewelers",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,30.66,84.79,3.93@p3",
+   "note": "address column redacted at source."
+  },
+  {
+   "line_no": 4,
+   "date": "2018-04-21",
+   "donor_raw": "Ken Melby",
+   "occupation": "self-employed",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,34.60,84.79,3.93@p3",
+   "note": "address column redacted at source; a stroke at the left of the occupation cell is address bleed past the bar, discarded."
+  },
+  {
+   "line_no": 5,
+   "date": "2018-05-03",
+   "donor_raw": "Joye Ray",
+   "occupation": "retired",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,38.53,84.79,3.98@p3",
+   "note": "address column redacted at source."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-04-09",
+   "vendor_raw": "Costco",
+   "purpose": "(2) Bags Hi-Chew (Convention)",
+   "amount": "18.36",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.15,25.77,80.76,4.16@p4",
+   "note": "purpose written on two lines; the filer's second line reads 'CConvention' (doubled leading C), transcribed here as the intended '(Convention)' with the verbatim doubled glyph recorded in this note."
+  },
+  {
+   "line_no": 2,
+   "date": "2018-04-09",
+   "vendor_raw": "Sam's Club",
+   "purpose": "(2) Bags Hershey Minitures (convention)",
+   "amount": "21.33",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.15,29.93,80.76,4.16@p4",
+   "note": "filer's spelling 'Minitures' kept verbatim."
+  },
+  {
+   "line_no": 3,
+   "date": "2018-04-10",
+   "vendor_raw": "Costco",
+   "purpose": "(1) Bag Hi-Chew (convention)",
+   "amount": "9.18",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.15,34.09,80.76,4.11@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2018-04-13",
+   "vendor_raw": "Costco",
+   "purpose": "(2) 60 ct. cookie trays (convention)",
+   "amount": "32.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.15,38.20,80.76,4.18@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2018-04-13",
+   "vendor_raw": "Smith's",
+   "purpose": "(2) pkgs. Napkins (convention)",
+   "amount": "3.18",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.15,42.39,80.76,4.16@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2018-04-16",
+   "vendor_raw": "Digital Print Solutions",
+   "purpose": "stickers 500 Handouts",
+   "amount": "226.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.15,46.55,80.76,4.16@p4",
+   "note": "purpose written on two lines: 'stickers' / '500 Handouts'."
+  },
+  {
+   "line_no": 7,
+   "date": "2018-04-16",
+   "vendor_raw": "Costco",
+   "purpose": "Enlarged Map (Dist #5)",
+   "amount": "34.49",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.15,50.70,80.76,4.14@p4",
+   "note": "'(Dist #5)' is circled by the filer on the second line."
+  }
+ ],
+ "total_contributions": "$3,250.00",
+ "total_expenditures": "$345.69",
+ "beginning_balance": "$30,359.63",
+ "ending_balance": "$33,263.94",
+ "aggregate": {
+  "total_contributions_to_date": "$53,203.50",
+  "total_expenditures_to_date": "$19,939.56",
+  "line5_subtotal": "$33,609.63"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Seven days before a primary election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "June 15, 2018",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__june__steve-debry_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L DeBry",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/2018_disclosures__june__steve-debry_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Chunk-file flag 'listing label June' verified benign: the form's own checked Type-of-Report box is 'Seven days before a primary election', consistent with the June 2018 primary; report self-dated June 15, 2018 and clerk-stamped RECEIVED JUN 15 2018. Form title is 'Financial Disclosure Report For a Candidate' with NO printed year, so form_year is honestly blank (chunk file form_family='untitled-year' confirmed). NEITHER amendment box (Yes nor No) is ticked, so is_amendment is left blank rather than guessed as 'No'. Cover street-address block and the phone/fax/email block are both covered by the county's black bar; nothing was read from them. On Schedule A the county's black bar covers the whole Complete Mailing Address column, so donor_city/donor_state are blank on every row with note 'redacted at source'. Fragments of ink escape the bar's right edge into the Occupation column (an '8' below row 1, a stroke at the left of rows 2 and 4); these are address/ZIP bleed, were discarded at read time, and are NOT part of the occupation values. One PDF, 'Page N of 4' printed on every page and self-consistent. Amounts on both schedules are written with the cents as a raised pair over a rule; transcribed with a decimal point per the currency convention.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$3,250.00",
+     "schedule_total": "$3250.00",
+     "itemized": "3250.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "5 rows sum to 3250.00 = printed SUBTOTAL FOR THIS PAGE $3250.00 = Summary Page line 1 Column A $3,250.00. The Schedule A grand TOTAL line prints $53,203.50, which equals Summary line 1 Column B (aggregate to date), not the period figure - on this filing the schedule's TOTAL line carries the AGGREGATE, so the page subtotal is the scope-matching schedule figure. No in-kind rows on this side."
+    },
+    "expenditures": {
+     "stated": "$345.69",
+     "schedule_total": "$345.69",
+     "itemized": "345.69",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "7 rows sum to 345.69 = printed SUBTOTAL FOR THIS PAGE $345.69 = Summary Page line 2 Column A $345.69. The Schedule B grand TOTAL line prints $19,939.56 = Summary line 2 Column B (aggregate), same convention as Schedule A."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 3250.00 = printed subtotal $3250.00 (exact); p4 rows 345.69 = printed subtotal $345.69 (exact)",
+   "escalations": 3,
+   "escalation_note": "p3 occupation+amount columns re-read as a 600 dpi tight crop, and the date/name band likewise; p4 purpose+amount column re-read as a 600 dpi tight crop. All read identically to the 200 dpi full page.",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Chunk-file flag 'listing label June' verified benign: the form's own checked Type-of-Report box is 'Seven days before a primary election', consistent with the June 2018 primary; report self-dated June 15, 2018 and clerk-stamped RECEIVED JUN 15 2018. Form title is 'Financial Disclosure Report For a Candidate' with NO printed year, so form_year is honestly blank (chunk file form_family='untitled-year' confirmed). NEITHER amendment box (Yes nor No) is ticked, so is_amendment is left blank rather than guessed as 'No'. Cover street-address block and the phone/fax/email block are both covered by the county's black bar; nothing was read from them. On Schedule A the county's black bar covers the whole Complete Mailing Address column, so donor_city/donor_state are blank on every row with note 'redacted at source'. Fragments of ink escape the bar's right edge into the Occupation column (an '8' below row 1, a stroke at the left of rows 2 and 4); these are address/ZIP bleed, were discarded at read time, and are NOT part of the occupation values. One PDF, 'Page N of 4' printed on every page and self-consistent. Amounts on both schedules are written with the cents as a raised pair over a rule; transcribed with a decimal point per the currency convention."
+  }
+ }
+}

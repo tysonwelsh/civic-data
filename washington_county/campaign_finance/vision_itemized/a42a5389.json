@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W10.json",
+ "key": "a42a5389",
+ "index_path": "raw/wayback_forms2020/Treasurer_David Whitehead_December 15 2020_12-15-2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Treasurer_David Whitehead_December 15 2020_12-15-2020.pdf"
+ ],
+ "sha256_prefix": "95805278d4fc85dd",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative==cover-line1-this",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A is COMPLETELY BLANK at 200 dpi (no ink in any of the ~40 data bands) and the filer left the printed TOTAL cell empty. Cover line 1 carries a slashed-zero glyph in ALL THREE columns (LAST, THIS, CUMULATIVE) - under the repo-wide zero-glyph ruling each is 0, not a blank. Zero rows therefore equal both the THIS and the CUMULATIVE cell; the scopes coincide at 0, recorded as cumulative. Cover line 2 ($50-or-less aggregate) also carries slashed zeros in all three columns, so there is no unitemized small-donor residue either - this filer genuinely raised nothing."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "571.00",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "571.00",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B is COMPLETELY BLANK at 200 dpi, printed TOTAL left empty. Cover line 3 reads LAST 571.00 + THIS (slashed zero = 0) = CUM 571.00, so zero rows match the THIS-report cell exactly: no spending in this period, the 571.00 having been reported earlier in the cycle. That is a DIFFERENT SCOPE from the cumulative 571.00 the module publishes, so reconciles_expenditures should stay blank - not a failure. The 571.00 figures are written as '571.' with a superscript 'oo' cents group over the rule; transcribed with the decimal point per the currency rule."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Neither schedule could fire a gate: both printed TOTAL cells were left blank by the filer and no rows are inked. The only live anchors are the cover cells, which the zero row sets match (contributions: 0 = line1 all three columns; expenditures: 0 = line3 THIS).",
+  "row_count": "p2 and p3 read at 200 dpi full-page: every data band in both grids is empty. Two faint vertical pen ticks show through in the p2/p3 body (bleed-through from the reverse side of the scanned sheet, not row ink) and carry no digits, names or amounts. 0 rows emitted per side.",
+  "geometry_proof": "n/a - zero rows emitted, so no row geometry is claimed.",
+  "balance_chain": "Cover line 4 reads <571.00> LAST, slashed-zero THIS, <571.00> CUMULATIVE - angle-bracketed, i.e. accounting-negative. Cycle chain closes: contributions 0 - expenditures 571.00 = -571.00 ending balance, exactly the bracketed figure. Period chain: -571.00 + 0 - 0 = -571.00, closes. The filer funded the campaign out of pocket and carried the deficit rather than reporting a self-contribution."
+ },
+ "escalations": 3,
+ "escalation_note": "400 dpi crops of the cover money grid (to separate slashed-zero glyphs from empty cells and read the superscript cents), of the Office / City / Phone block, and of the certification block (to resolve the struck-through period-beginning date).",
+ "notes": "⚠ THE DOCUMENT CONTRADICTS ITS LABEL ON OFFICE. The chunk file and index.csv call this 'Treasurer' - but the index's own office_source is 'person_roster' and the office string comes from the county's filename, not from the page. On the form itself the 'Office' line is BLANK (verified in a 400 dpi crop), and the filer instead wrote 'WASHINGTON' on the 'In the ______ School District' line. I did NOT classify this out of scope: the school-district line carries a district NAME, not an office, and the form asserts no school-board, municipal or judicial candidacy anywhere - it is simply silent on office. Supporting the county reading: the PDF was posted in the county clerk's own 2020 county-candidate reports directory under 'Treasurer_David Whitehead', the addressee line reads 'Kim Hafen' (the Washington County Clerk-Auditor), and the module's excluded_school_board.csv holds no Whitehead campaign-finance report. A human should confirm the office attribution; it cannot be settled from this page. Second contradiction: the RECEIVED stamp reads DEC 15 2020 while the signature Date reads 12-31-2020 and the period ends December 31, 2020 - the stamp predates the signature, kept verbatim, unresolved. The certification period beginning is written 'December 15', struck through, and rewritten below as 'OCTOBER 27, 2020'; ending 'December 31, 2020'. Candidate street address, ZIP, home phone and business phone are printed in the clear and were DISCARDED at read time per the privacy rule. Both schedules are honestly EMPTY (a real zero, not a gap).",
+ "contributions": [],
+ "expenditures": []
+}

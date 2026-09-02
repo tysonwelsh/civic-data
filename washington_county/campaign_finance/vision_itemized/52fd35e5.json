@@ -1,0 +1,171 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W05.json",
+ "key": "52fd35e5",
+ "index_path": "raw/wayback_forms2020/Recorder_Gary L_10-28-2020. Christensen_October 23 2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Recorder_Gary L_10-28-2020. Christensen_October 23 2020.pdf"
+ ],
+ "sha256_prefix": "19dc2833b92fb42b",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "300.00",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "300.00",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": "300.00"
+   },
+   "itemized": "300.00",
+   "basis": "cover-line1-cumulative (== Form A printed TOTAL)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One Form A row, 300.00, equal to the Form A printed TOTAL and to the cover's line-1 CUMULATIVE cell (and to the LAST cell, which is the same figure). The line-1 THIS cell is a slashed-Oe zero, so the schedule is NOT per-period: its single row is dated 4/8/20, well BEFORE this report's certified period of 6/15/2020-10/27/2020. THE LEDGER RESTATES THE CYCLE TO DATE while the cover reports 0 for the period - the pattern addendum sec.E warns must be tested per filing rather than assumed. scope=cumulative, which is the scope the module publishes, so this side reconciles cleanly. Line 2 (the never-itemized $50-or-less aggregate) is a slashed-Oe zero in all three columns and is reported separately, not added to the line-1 anchor."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "1,195.61",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "1,195.61",
+    "cover_balance_end": "-895.61",
+    "schedule_total": "1,195.61"
+   },
+   "itemized": "1195.91",
+   "basis": "cover-line3-cumulative (== Form B printed TOTAL 1,195.61)",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "A +0.30 FILER-ARITHMETIC DELTA, retained verbatim per core sec.3(c) - I have NOT adjusted a row to make it close and have NOT overwritten the stated total. Five Form B rows: 7.16 + 100.00 + 812.87 + 100.88 + 175.00 = 1,195.91. The Form B printed TOTAL and the cover's line-3 LAST and CUMULATIVE cells all read 1,195.61 - a residual of 0.30 that the rows exceed. Everything that could be escalated was: each of the five amount cells was re-read at 1200 dpi and the three that could carry the discrepancy were re-read again at 1800 dpi with -normalize. Row 1's '7.16' would close the page at '6.86', and 0.30 is exactly that difference, so it was the prime suspect - but closing on it needs THREE glyphs to be wrong at once, and at 1800 dpi the leading glyph is this filer's own CROSSED SEVEN (identical in form to the crossed 7 he writes in row 3's cents '.87'), the second is his plain vertical ONE (identical to the leading 1 of '100.00' and '175.00'), and the third is a 6. Row 3's cents were checked for '.57' and read a closed double-loop 8 then the crossed 7. Row 4's cents were checked for '.58' and read two 8s. The printed TOTAL's cents were checked for '91' - his 9 (as in the '9' of '1,195') is a loop with a straight descender, while the cents glyph opens at the top and curls left, a 6 - and 1,195.61 is independently corroborated three more times on the cover (line 3 LAST, line 3 CUM, and line 4's -895.61 balance, since 300.00 - 1,195.61 = -895.61 exactly). So both figures are solid and the 0.30 is the FILER's addition error. Every expenditure row carries needs_review:1. Scope: the row dates run 2/17/20-4/11/20, entirely BEFORE the certified 6/15-10/27/2020 period, and the cover's THIS cell is zero - the schedule restates the cycle to date, so scope=cumulative."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 GATES EXACTLY: single row 300.00 = printed TOTAL 300.00 = cover line-1 cumulative. p3 DOES NOT GATE: rows sum 1,195.91 vs printed TOTAL 1,195.61, a +0.30 residual - both figures named here and in recon, neither adjusted. Cover cross-gate: 300.00 - 1,195.61 = -895.61 = the printed line-4 balance, which gates and confirms the cover figure.",
+  "row_count": "rowbands.py returned geometry_status='gaps' on BOTH p2 and p3, with two notes - 'interior rule(s) missing at the measured pitch - positions are INTERPOLATED' and 'ink found one pitch ABOVE the first rule (DEFECT 7 signature): the grid may open one row earlier'. Its band index was therefore NOT used as an oracle; the DEFECT-7 warning is correct here, the first inked line does sit above rowbands' first rule. Rows were counted by ink and every row box was crop-proved at 1200 dpi (see geometry_proof): p2 exactly 1 inked line then ~44 empty ruled lines to the printed TOTAL; p3 exactly 5 inked lines then ~40 empty. No dropped or duplicated line.",
+  "geometry_proof": "p2 amount column x=70.53..81.00. Its only row (y 15.50) crops to '$ 300.00'; the control one pitch below (y 17.41) crops EMPTY. p3 amount column x=70.53..88.00. First row (y 15.50) crops to '$ 7.16'; rows 2-5 crop to '100.00', '812.87', '100.88', '175.00' in printed order; the control one pitch below row 5 (y 24.14) crops EMPTY. Row indices confirmed unshifted on both sides.",
+  "balance_chain": "CLOSES EXACTLY against the COVER's own figures: 300.00 (cumulative contributions) - 1,195.61 (cumulative expenses) = -895.61 = the printed line-4 cumulative balance (the filer writes the negative with a leading minus sign here, not parentheses). Note the chain closes on the STATED total, not on my row sum - which is further evidence that the 0.30 residual is the filer's schedule addition and not a transcription error, since he carried 1,195.61 forward consistently into three other cover cells. Cross-filing chain: line-1 LAST 300.00 and line-3 LAST 1,195.61 prove an EARLIER 2020 Christensen filing exists carrying those same cumulative figures; it is not in my chunk, so the chain could not be run."
+ },
+ "escalations": 12,
+ "escalation_note": "p3: 1200 dpi crops of all five amount cells plus a control band (stacked); then 1800 dpi -normalize re-crops of row 1's whole amount, row 3's cents, row 4's cents, and the printed TOTAL's cents - the four cells any of which could have carried the 0.30. p2: 1200 dpi crops of the single amount cell and its control, and a 900 dpi wide crop of the inked row. p1: 1800 dpi -normalize crop of cover lines 3 and 4.",
+ "notes": "Chunk file says candidate 'Gary L. Christensen', office 'Recorder', 2020. The form's own 'Office' line reads 'Recorder' verbatim - a COUNTY office, in scope, confirmed at the page (contrast key 50cf78bd in this same chunk, whose Office line is blank). NOTE THE CHUNK/INDEX CANDIDATE STRING IS GARBAGE: the module's index.csv carries candidate '4 VA Cane a' for this file (a failed OCR of the handwritten name); the cover plainly reads 'Gary L. Christensen' and the chunk file's own candidate column is right. The 'TO ____ County Clerk' line names two people, 'Kim Hafen / Melanie Abplanalp'. Reporting period certified 6/15/2020 to 10/27/2020, signed and dated 10/27/2020; the chunk filename carries both '10-28-2020' and 'October 23 2020', neither of which is a date on the document - another instance of the portal-label unreliability addendum sec.E warns about. PRIVACY: the cover prints the candidate's home street address, ZIP and two phone numbers, and the single contributor row prints a street address - all discarded at read time per core sec.5. CALIBRATION-SPECIMEN CANDIDATE: this filing is a clean example of a genuine filer-arithmetic delta that survives full escalation, where the tempting 'fix' (6.86 for 7.16) is exactly the size of the residual and is still wrong.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-04-08",
+   "donor_raw": "Southern Utah Title",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:70.53,15.50,10.47,1.91@p2",
+   "note": "Date written 4/8/20. Amount written '300.00' (his 3 has a flat Z-like top). The Mailing Address cell held a STREET ADDRESS and suite number only, with no city or state written - the street address was DISCARDED AT READ TIME per core sec.5 and donor_city/donor_state are honestly blank because the cell states neither. In Kind? column left BLANK - per addendum sec.A a blank is not an 'N'."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-02-17",
+   "vendor_raw": "Namecheap",
+   "purpose": "Web Site Domain Reg",
+   "amount": "7.16",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:70.53,15.50,17.47,1.77@p3",
+   "note": "needs_review because this SIDE carries a +0.30 delta against its printed total, not because this cell is doubtful in isolation. Re-read at 1200 and again at 1800 dpi with -normalize: crossed 7 (matching the filer's crossed 7 in row 3's '.87'), decimal point, plain vertical 1 (matching the leading 1 of rows 2 and 5), 6. The page would close at 6.86, exactly the 0.30 residual, and it is NOT what the page says."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-02-20",
+   "vendor_raw": "Katelyn Fulmer",
+   "purpose": "Website Design",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:70.53,17.27,17.47,1.77@p3",
+   "note": "needs_review for the side-level delta, and the SURNAME is genuinely uncertain: the first name reads 'Katelyn' cleanly but the surname is a compressed cursive scrawl whose legible glyph string is best rendered 'Fulmer' - the medial letters are not separable at 1200 dpi. Recorded at vendor=low rather than substituted with a plausible name; a human should re-read this cell. Amount 100.00 is unambiguous."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Wash Co Clerk",
+   "purpose": "Candidacy filing/Misc",
+   "amount": "812.87",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:70.53,19.00,17.47,1.77@p3",
+   "note": "needs_review for the side-level delta. Cents re-read at 1800 dpi -normalize specifically to test '.57' (which would close the page): the first cents glyph is a closed double-loop 8, the second the filer's crossed 7. Purpose is a combined line - candidacy filing fee plus miscellaneous - which is why it is not the flat 571.00 county filing fee seen on Dean J. Cox's 2020 Form B (key 4f4fc098)."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2020-04-07",
+   "vendor_raw": "Costco",
+   "purpose": "Post Cards",
+   "amount": "100.88",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:70.53,20.77,17.47,1.77@p3",
+   "note": "needs_review for the side-level delta. Cents re-read at 1800 dpi -normalize to test '.58' (which would close the page): both cents glyphs are double-loop 8s."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2020-04-11",
+   "vendor_raw": "USPS",
+   "purpose": "Stamps",
+   "amount": "175.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:70.53,22.50,17.47,1.64@p3",
+   "note": "needs_review for the side-level delta; the cell itself is unambiguous at 1200 dpi."
+  }
+ ]
+}

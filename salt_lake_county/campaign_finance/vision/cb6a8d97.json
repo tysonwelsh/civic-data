@@ -1,6 +1,92 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-03-19",
+   "donor_raw": "Brian Tweed",
+   "occupation": "Tweed Photography",
+   "amount": "200.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,20.84,89.75,3.89@p3",
+   "note": "address redacted at source; 'In-Kind' printed under the amount \u2014 excluded from filer's page subtotal"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-03-04",
+   "donor_raw": "Nicholas Roberts",
+   "occupation": "Unified Police",
+   "amount": "945.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,24.73,89.75,3.91@p3",
+   "note": "address redacted at source; candidate's own contribution"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-04-25",
+   "donor_raw": "Nicholas Roberts",
+   "occupation": "Unified Police",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,28.64,89.75,3.93@p3",
+   "note": "address redacted at source; date 04/25/2022 postdates the 04/04/22 report date \u2014 kept verbatim"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-04-25",
+   "vendor_raw": "County Clerk",
+   "purpose": "filing fee",
+   "amount": "945.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,22.18,81.44,3.93@p4",
+   "note": "date 04/25/2022 postdates the 04/04/22 report date \u2014 kept verbatim"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-04-25",
+   "vendor_raw": "Republican Party",
+   "purpose": "Convention Booth",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,26.11,81.44,3.91@p4",
+   "note": "date 04/25/2022 postdates the 04/04/22 report date \u2014 kept verbatim"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-03-19",
+   "vendor_raw": "Brian Rweed",
+   "purpose": "Photo's",
+   "amount": "200.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,30.02,81.44,3.89@p4",
+   "note": "'In-Kind' printed under the amount; vendor printed 'Brian Rweed' (Schedule A spells 'Brian Tweed')"
+  }
+ ],
  "total_contributions": "$1,445.66",
  "total_expenditures": "$1,445.66",
  "beginning_balance": "$0.00",
@@ -49,6 +135,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Candidate's first filing; contributions and expenditures print identically ($1,445.66) leaving a zero balance. Form title reads 2020 (template reuse)."
+  "notes": "Candidate's first filing; contributions and expenditures print identically ($1,445.66) leaving a zero balance. Form title reads 2020 (template reuse).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1445.66",
+     "schedule_total": "1245.66",
+     "itemized": "1445.66",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "3 rows incl. the $200.00 In-Kind row (Brian Tweed 03/19/2022) sum to 1445.66 = Summary line 1 Col A; the schedule's printed SUBTOTAL/TOTAL 1245.66 EXCLUDES the in-kind row \u2014 schedule-total-vs-summary-gap. Stated anchor from chunk file confirmed at Summary page p2."
+    },
+    "expenditures": {
+     "stated": "1445.66",
+     "schedule_total": "1445.66",
+     "itemized": "1445.66",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "3 rows sum to 1445.66 = Summary line 2 Col A = schedule printed TOTAL. Note: Schedule B's subtotal INCLUDES its $200.00 In-Kind row \u2014 opposite in-kind convention from this same filing's Schedule A."
+    }
+   },
+   "page_subtotal_gates": "p3 rows excl. in-kind 1245.66 = printed SUBTOTAL 1245.66; p4 rows incl. in-kind 1445.66 = printed SUBTOTAL 1445.66",
+   "escalations": 2,
+   "escalation_note": "600dpi verification bands x2 covering all 6 rows on p3-p4",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2022 filing, needs_totals=0: itemization only, no cover/totals emitted. Cover is the '2020 Financial Disclosure Report For a Candidate' form; April 5 interim box checked; NOT an amendment; signed 04/04/22. Three itemized dates (04/25/2022 x3) fall AFTER the 04/04/22 report date \u2014 kept verbatim. Donor address column bar-redacted on all Schedule A rows. 'Brian Tweed' (Sch A) vs 'Brian Rweed' (Sch B) as printed. Chunk-file priors confirmed: c_rows=3, e_rows=3, county-form both sides, stated 1445.66/1445.66."
+  }
  }
 }

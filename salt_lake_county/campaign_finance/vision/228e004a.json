@@ -1,0 +1,188 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2017-11-09",
+   "donor_raw": "Don L. Skaggs",
+   "occupation": "Skaggs, Public Safety Union & Equipment",
+   "amount": "5000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.62,22.56,87.03,4.00@p3",
+   "note": "date printed '11-9-17'; amount written with raised underlined cents and NO decimal point ('5,000oo' style), transcribed per the superscript-cents convention; address block REDACTED AT SOURCE (the county's black bar covers the whole 'Complete Mailing Address' column) - NOT left blank by the filer"
+  },
+  {
+   "line_no": 2,
+   "date": "2017-11-17",
+   "donor_raw": "John Lemacks",
+   "occupation": "retired",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.62,26.56,87.03,4.00@p3",
+   "note": "date printed '11-17-17'; amount written with raised underlined cents and NO decimal point ('5,000oo' style), transcribed per the superscript-cents convention; address block REDACTED AT SOURCE (the county's black bar covers the whole 'Complete Mailing Address' column) - NOT left blank by the filer"
+  },
+  {
+   "line_no": 3,
+   "date": "2017-11-25",
+   "donor_raw": "Kom Enterprises",
+   "occupation": "Self-employed",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.62,30.56,87.03,4.02@p3",
+   "note": "date printed '11-25-17'; amount written with raised underlined cents and NO decimal point ('5,000oo' style), transcribed per the superscript-cents convention; address block REDACTED AT SOURCE (the county's black bar covers the whole 'Complete Mailing Address' column) - NOT left blank by the filer"
+  },
+  {
+   "line_no": 4,
+   "date": "2017-11-28",
+   "donor_raw": "Mike Katsanevas",
+   "occupation": "Palace Development LLC",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.62,34.58,87.03,4.00@p3",
+   "note": "date printed '11-28-17'; amount written with raised underlined cents and NO decimal point ('5,000oo' style), transcribed per the superscript-cents convention; address block REDACTED AT SOURCE (the county's black bar covers the whole 'Complete Mailing Address' column) - NOT left blank by the filer"
+  },
+  {
+   "line_no": 5,
+   "date": "2017-12-22",
+   "donor_raw": "George Q. Nielsen",
+   "occupation": "retired",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.62,38.58,87.03,4.00@p3",
+   "note": "date printed '12-22-17'; amount written with raised underlined cents and NO decimal point ('5,000oo' style), transcribed per the superscript-cents convention; address block REDACTED AT SOURCE (the county's black bar covers the whole 'Complete Mailing Address' column) - NOT left blank by the filer"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2017-02-01",
+   "vendor_raw": "Salt Lake County Republican Party",
+   "purpose": "Lincoln Day Dinner",
+   "amount": "300",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.30,23.84,79.03,4.02@p4",
+   "note": "date printed '2-1-17'; recipient written on two lines 'Salt Lake County Republican / Party'; amount printed as a bare '300' with NO cents and no dollar sign - kept verbatim. Schedule B has no address column."
+  }
+ ],
+ "total_contributions": "$6,600",
+ "total_expenditures": "$300",
+ "beginning_balance": "20802.20",
+ "ending_balance": "$27,102.20",
+ "aggregate": {
+  "total_contributions_to_date": "$45,953.50",
+  "total_expenditures_to_date": "$18,851.30",
+  "line5_subtotal": "$27,402.20"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "5",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "Jan. 28 2018",
+  "report_date": "2/6/18",
+  "form_year": "2017"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/steven-debry---amendment_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/steven-debry---amendment_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "CHUNK-FILE AGREEMENT: candidate 'Steven L. DeBry', office County Council, District Number '5', Year-End box checked, amendment = Yes with 'date of report' Jan. 28 2018, signed 2/6/18, RECEIVED FEB 06 2018. The chunk file's date 2018-02-06 and its reporting_period string 'Year-End (Jan 31) + amendment Yes (date of report Jan. 28 2018)' are both confirmed at the form. || form_year is the printed title '2017 Financial Disclosure Report'. NOTE the document it amends uses a DIFFERENT, untitled cover vintage for the same period - the clerk had both in circulation in early 2018, so a form-vintage difference is not evidence of a different period. || AMENDMENT PAIR: this is the AMENDMENT. Its original is raw/globalassets/steven-debry_redacted.pdf (signed Jan. 28, 2018, RECEIVED JAN 30 2018). This cover checks 'Yes' and writes 'Jan. 28 2018' in the 'date of report' slot, which is exactly that document's report date. Both records are kept separately, each transcribed only from its OWN pages; NO figure, name or row was copied between them. || WHAT ACTUALLY DIFFERS between the two (read off both documents, not inferred): (1) Schedule A drops TWO rows - the January-2018 pair '1-25-18 Salt Lake Board of Realtors (BORPAC) / realtors / $1,500.00' and '1-26-18 KOM Enterprises / self-employed / $1,000.00'. Their $2,500 is exactly the change in Summary line 1 Column A (9,100.00 -> 6,600), in Column B (48,453.50 -> 45,953.50) and in line 7 (29,602.20 -> 27,102.20). (2) Row 2's CONTRIBUTOR NAME is different: the original writes 'John Smith', the amendment writes 'John Lemacks' (both re-read at 900 dpi and unambiguous). That is a substantive correction, not a transcription artefact. (3) Cosmetic/verbatim differences retained on each: occupation row 1 'Skaggs Public Safety Union & Equipment' vs 'Skaggs, Public Safety Union & Equipment'; row 3 'KOM Enterprises / self-employed' vs 'Kom Enterprises / Self-employed'; Schedule B recipient 'SLCo. Republican Party' vs 'Salt Lake County Republican Party' and purpose '\"Lincoln Day\" Dinner' vs 'Lincoln Day Dinner'; District Number '#5' vs '5'; amounts written '$5,000.oo' (decimal + raised cents) vs '5,000oo' (raised cents, no decimal). (4) The Schedule B GRAND-TOTAL cell changes scope between the two documents: the original prints $18,851.30 there (cycle-cumulative = Summary line 2 Column B) while the amendment prints 300 (the PERIOD figure). Same filer, same period, two different conventions on the same cell - which is why the scope test has to be run per PAGE, not per filer. (5) UNCHANGED: expenditures ($300 period, $18,851.30 cumulative), Summary line 3 (20,802.20), the five surviving Schedule A rows' dates/amounts, and the single Schedule B row's date and amount. || PRIVACY: the black bar covers the whole address column on p3; nothing legible remains of it and nothing was written down. Schedule B has no address column.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$6,600",
+     "schedule_total": "$45,953.50",
+     "itemized": "6600.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "BASIS TEST RUN AT THE PAGE: Schedule A's 'SUBTOTAL FOR THIS PAGE' = $6,600 = Summary line 1 COLUMN A = line 4 = the PERIOD; its 'TOTAL CONTRIBUTIONS RECEIVED (Sum of subtotals from all Schedule A pages)' = $45,953.50 = Summary line 1 COLUMN B = the CYCLE-CUMULATIVE. The 5 transcribed rows sum 5000+100+1000+300+200 = 6,600.00 = the PERIOD anchor, EXACTLY. Gating on the schedule grand total would have manufactured a false $39,353.50 delta. Column A on this filing IS the period (line 4 copies it correctly), so the inversion seen on this filer's 2019 year-end is NOT present here. No in-kind marker."
+    },
+    "expenditures": {
+     "stated": "$300",
+     "schedule_total": "300",
+     "itemized": "300.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "All four printed figures agree: the single row 300 = SUBTOTAL FOR THIS PAGE 300 = TOTAL EXPENDITUTRES MADE 300 = Summary line 2 Column A = line 6. NOTE THE SCOPE FLIP: on THIS document the Schedule B grand-total cell holds the PERIOD figure, whereas on the very same page of the ORIGINAL filing (73ee3e56) the same cell holds the cumulative $18,851.30 (which this filing still prints in Summary line 2 Column B). Same filer, same period, two different conventions for one cell - the scope test must be run per PAGE."
+    }
+   },
+   "page_subtotal_gates": "BOTH sides gate on the printed page subtotal and BOTH PASS: p3 rows 6,600.00 = printed SUBTOTAL FOR THIS PAGE $6,600; p4 row 300 = printed SUBTOTAL FOR THIS PAGE 300 (= the printed grand total 300 on this document).",
+   "escalations": 2,
+   "escalation_note": "900 dpi crop of p3's five ink rows - dates, names, occupations and amounts re-read identically; this is the crop that settles row 2 as 'John Lemacks' (the original writes 'John Smith'). 200 dpi full-page reads elsewhere; the amendment Yes-box and its 'Jan. 28 2018' date line were legible at 200 dpi.",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "CHUNK-FILE AGREEMENT: candidate 'Steven L. DeBry', office County Council, District Number '5', Year-End box checked, amendment = Yes with 'date of report' Jan. 28 2018, signed 2/6/18, RECEIVED FEB 06 2018. The chunk file's date 2018-02-06 and its reporting_period string 'Year-End (Jan 31) + amendment Yes (date of report Jan. 28 2018)' are both confirmed at the form. || form_year is the printed title '2017 Financial Disclosure Report'. NOTE the document it amends uses a DIFFERENT, untitled cover vintage for the same period - the clerk had both in circulation in early 2018, so a form-vintage difference is not evidence of a different period. || AMENDMENT PAIR: this is the AMENDMENT. Its original is raw/globalassets/steven-debry_redacted.pdf (signed Jan. 28, 2018, RECEIVED JAN 30 2018). This cover checks 'Yes' and writes 'Jan. 28 2018' in the 'date of report' slot, which is exactly that document's report date. Both records are kept separately, each transcribed only from its OWN pages; NO figure, name or row was copied between them. || WHAT ACTUALLY DIFFERS between the two (read off both documents, not inferred): (1) Schedule A drops TWO rows - the January-2018 pair '1-25-18 Salt Lake Board of Realtors (BORPAC) / realtors / $1,500.00' and '1-26-18 KOM Enterprises / self-employed / $1,000.00'. Their $2,500 is exactly the change in Summary line 1 Column A (9,100.00 -> 6,600), in Column B (48,453.50 -> 45,953.50) and in line 7 (29,602.20 -> 27,102.20). (2) Row 2's CONTRIBUTOR NAME is different: the original writes 'John Smith', the amendment writes 'John Lemacks' (both re-read at 900 dpi and unambiguous). That is a substantive correction, not a transcription artefact. (3) Cosmetic/verbatim differences retained on each: occupation row 1 'Skaggs Public Safety Union & Equipment' vs 'Skaggs, Public Safety Union & Equipment'; row 3 'KOM Enterprises / self-employed' vs 'Kom Enterprises / Self-employed'; Schedule B recipient 'SLCo. Republican Party' vs 'Salt Lake County Republican Party' and purpose '\"Lincoln Day\" Dinner' vs 'Lincoln Day Dinner'; District Number '#5' vs '5'; amounts written '$5,000.oo' (decimal + raised cents) vs '5,000oo' (raised cents, no decimal). (4) The Schedule B GRAND-TOTAL cell changes scope between the two documents: the original prints $18,851.30 there (cycle-cumulative = Summary line 2 Column B) while the amendment prints 300 (the PERIOD figure). Same filer, same period, two different conventions on the same cell - which is why the scope test has to be run per PAGE, not per filer. (5) UNCHANGED: expenditures ($300 period, $18,851.30 cumulative), Summary line 3 (20,802.20), the five surviving Schedule A rows' dates/amounts, and the single Schedule B row's date and amount. || PRIVACY: the black bar covers the whole address column on p3; nothing legible remains of it and nothing was written down. Schedule B has no address column."
+  }
+ }
+}

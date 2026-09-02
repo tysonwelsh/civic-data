@@ -3,7 +3,10 @@
  "key": "ee0e4fc1",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:58:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,52 @@
    "notes": "Typed fillable form, scanned; wet-ink signature and handwritten date '8/4/22' (the printed Date of Filing box also reads 8/4/22, as does the summary page's Date of Report). Boxes B and D carry a typed '0' - actual written zeros, not blanks. NAME: the page prints 'Rudolf Livingston'; index.csv carries 'Rudy Livingston' (his email is Rudy@RudyforAuditor.com). Office 'County Auditor' agrees with index.csv. Neither amendment box is marked, so is_amendment is ''. Address is printed in full on this filing (459 N 1120 E, American Fork) - not redacted."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah chunk r12_02)",
+   "transcribed_date": "2026-08-20",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' = 0 on the p4 Summary Page, matching the typed '0' printed on Schedule A's own 'Subtotal for this page' and 'Total Contributions Received' lines",
+     "detail": "ZERO rows against a printed zero. Schedule A (p2) exists, is the full 15-row boxed grid, and carries the single typed word 'None' in the Name of Contributor cell of printed row 1 with that row's Date, City and State, Amount and In-Kind cells all blank \u2014 a BANNER, which is an annotation and not an entry, so it publishes no row (CHUNK_BRIEF \u00a77 / E3). Both of the schedule's printed footers read a typed '0', which under the zero-glyph ruling IS the numeral zero (not a bare dash), and Box B prints the same 0. Nothing was itemized because the filer states nothing was received in this period. Box C 'Contributions Received Year to Date' prints 26,224.33 \u2014 a real cumulative figure covering earlier periods this document never itemizes; it is NOT summed as an increment and no attempt was made to reach it."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' = 0 on the p4 Summary Page, matching the typed '0' on Schedule B's own 'Subtotal for this page' and 'Total Expenditures Made' lines",
+     "detail": "ZERO rows against a printed zero, on the same terms as the contribution side: Schedule B (p3) exists as a full 15-row boxed grid carrying only the typed banner 'None' in row 1's Provider/Vendor cell, with both footers printing a typed '0' and Box D printing 0. Box E YTD prints 24,506.14 and is retained as cumulative, never summed. The summary ladder is internally consistent: A 1,718.19 + B 0 = 1,718.19 = F, and F - D = 1,718.19 = G."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 no entries exist on either schedule, and every In-Kind checkbox on both 15-row grids is empty (proved by a full-height crop of the Amount + In-Kind columns on each sheet). Monetary-only and monetary-plus-in-kind are identical at zero and both agree with the stated 0.",
+   "escalations": 0,
+   "escalation_note": "No figure needed escalation \u2014 this is a born-digital typed fillable form and the only money on the two schedules is the typed '0' in four footer slots. THE K4 GHOST/SHOW-THROUGH SCREEN WAS RUN BEFORE CONCLUDING THE PAGES ARE EMPTY: a 400 dpi crop of the whole Amount + In-Kind column stack on p2 (pct:72.8,16.39,19.0,61.0@p2) and on p3 (pct:73.0,16.66,19.0,61.0@p3) renders 15 wholly empty boxed cells and 15 unticked checkboxes on each sheet, with no faint marks, bleed-through or ghosting anywhere in the grid. A 700 dpi crop of p2's printed row 1 (pct:8,16.0,65.0,6.0@p2) renders the word 'None' alone in the Name of Contributor cell with the Date, City and State and Amount cells blank \u2014 the banner, and nothing else.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "PAGE-FACE candidate 'Rudolf Livingston' \u2014 printed in the cover's Name of Candidate box, on the affirmation line, and in the Name of Candidate footer of all three following pages. index.csv's channel label is 'Rudy Livingston', and the filer's own email on the cover is Rudy@RudyforAuditor.com, so 'Rudy' is his own usage too; but THE PAGE FACE OF THIS DOCUMENT SAYS RUDOLF EVERYWHERE and that is what this record carries. \u26a0 NEAR-DUPLICATE VERDICT vs raw/2022/2022_Rudy_Livingston.pdf (key cec129de), transcribed INDEPENDENTLY in this chunk and then compared: A DIFFERENT REPORT ENTIRELY \u2014 not a revision, not a second redaction pass, not two copies of one report. THE CHANNEL SPELLS THE SAME FILER TWO WAYS IN ITS FILENAMES (2022_Rudolf_Livingston.pdf and 2022_Rudy_Livingston.pdf) while index.csv's candidate column says 'Rudy Livingston' for BOTH and BOTH documents print 'Rudolf Livingston' on every page face \u2014 a filename divergence, not two people and not two versions of one document. Row-level evidence that they are different reports: different report type (this one '30 Days after withdrawal or elimination', that one 'Seven days preceding the Primary Election'), different dates (8/4/22 vs 6/20/22), different page counts (4 vs 6), different amendment answers (unanswered here, 'No' ticked there), and no overlapping content at all \u2014 that filing carries 28 contribution and 30 expenditure rows on attached typed ledgers, this one carries a typed 'None' banner and zero rows on both schedules. The two CORROBORATE each other as consecutive per-period reports without anything being carried between them: that report's Box G 1,718.19 is this report's Box A, and its cumulative Boxes C 26,224.33 and E 24,506.14 are reprinted unchanged here, which is exactly what a zero-activity period produces. No two covers were differenced. PAGE-FACE OFFICE: 'County Auditor', typed in the Office box and agreeing with index.csv. FORM: modern_boxAF on the NEWER UNVERSIONED 2022 blank (In-Kind checkbox column, Schedule B with a real PURPOSE column, close box lettered G, six report types, 'Date of Filing' field), filled as a BORN-DIGITAL typed fillable PDF, printed, WET-INK SIGNED and re-scanned; the report-type selection is a filled radio dot rather than a hand mark. FOUR PAGES, each classified from its own printed heading: p1 cover ('30 Days after withdrawal or elimination' selected; dated 8/4/22 by hand with a printed Date of Filing of 8/4/22), p2 SCHEDULE A, p3 SCHEDULE B, p4 SUMMARY PAGE (A 1,718.19 / B 0 / C 26,224.33 / D 0 / E 24,506.14 / F 1,718.19 / G 1,718.19). NO Elections-Division CHECKLIST is bound. AMENDMENT QUESTION: NEITHER 'No' nor 'Yes' is ticked \u2014 a wholly unanswered honest BLANK, never read as 'No' (A4). BOTH SIDES ARE `empty-schedule`, NOT `no-schedule-page` AND NOT `withheld`: the schedule pages exist, are complete 15-row grids, and the filer wrote 'None' on each \u2014 the county published everything and the filer entered nothing for this period. An empty itemized side here means the document reports NO transactions in the period, which is different from the 'not transcribed' that an absent record would mean. PRIVACY: the filer's own street address is printed on the cover and is deliberately not carried; there are no donor or vendor rows at all. The document is not a *_Redacted file and carries no redaction bar."
+  }
+ }
 }

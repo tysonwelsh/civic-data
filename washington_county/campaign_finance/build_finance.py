@@ -33,14 +33,19 @@ THE ITEMIZED LAYER (TRANCHE 3 Phase A, 2026-08-02)
     counted sums already live (labelled as counted, never as stated) in
     `portal_reconciliation.csv`. The 100 handwritten cover forms are untouched, as are their
     vision caches.
-  * RECONCILIATION-GATED against the stated total this module already publishes; a side that
-    does not reconcile emits NOTHING plus a reason. No `stated_*` value is recomputed.
-  * WHY MOST SIDES EMIT NOTHING, and it is not a defect: the county's own filing style
-    (CLAUDE.md "Filing-style finding") is that the Summary rows are PER-PERIOD increments
-    while the Contributions/Expenditures ledgers restate the WHOLE CYCLE TO DATE. The two are
-    therefore different quantities on every filing after a candidate's first of a cycle, and
-    reconciling a cycle-to-date ledger against a per-period figure would be arithmetic of
-    ours, not the county's. Those sides are withheld with that reason stated.
+  * COMPLETENESS-GATED, then reconciliation-VERDICTED (rewritten 2026-08-23 — see `itemize`).
+    Publication is decided by whether the parse is provably complete; reconciliation then
+    records WHICH printed figure the side closes on. No `stated_*` value is ever recomputed.
+  * WHY PHASE A EMITTED SO LITTLE, and why that was the wrong gate. Phase A published a side
+    only when the ledger matched the summary's row for that deadline. But this county's
+    ledgers restate the WHOLE CYCLE TO DATE while the summary prints one deadline at a time,
+    so on every filing after a candidate's first of a cycle the two are different quantities
+    and the side was thrown away — including sides that reconcile to the cent against the
+    summary sheet's OWN column read down to that deadline. Under the owner-ratified
+    RECONCILIATION-BASIS RULE (2026-08-17) a side is scored against the printed figure that
+    MATCHES ITS SCOPE, so those sides are now PUBLISHED with `reconciles_*` left BLANK and the
+    basis named (utah_county's `cumulative-exact` precedent). What is withheld is a side whose
+    parse is SHORT — a wrong value, not a mismatched one.
   * `is_incremental` ON THE ITEMIZED ROWS IS `False`, deliberately, even though the FILING's
     regime is incremental: the rows come from the LEDGER, which restates the cycle to date.
     `filing_regime` / `_regime` describe the STATED figures; the row flag describes the rows.
@@ -76,6 +81,8 @@ import normalize_donors  # noqa: E402
 import reconcile         # noqa: E402
 import registry          # noqa: E402
 
+import bbox_lib          # noqa: E402  module-local: TRUE page geometry for the PDF ledgers
+
 FAMILY_ID = "washco_split"
 
 TOTALS_HEADER = [
@@ -104,6 +111,14 @@ PORTAL_RECON_HEADER = [
 
 TOL = decimal.Decimal("0.01")
 CONF_RANK = {"high": 3, "medium": 2, "low": 1}
+
+# The county's own sub-$50 AGGREGATE ledger line, in the several wordings filers use for it.
+# A row matching this names no donor and is typed `aggregate-unitemized` (SCHEMA.md 5).
+AGGREGATE_LINE = re.compile(
+    r"aggregate\s+(?:total\s+)?(?:of\s+)?contributions?|"
+    r"\b\d+\s+(?:donations?|contributions?)\s+(?:of\s+)?under\b|"
+    r"\bcontributions?\s+under\s+\$?\s*50\b|"
+    r"\bdonations?\s+of\s+under\b", re.I)
 
 
 def dec(s):
@@ -255,10 +270,20 @@ def totals_row(c, index_by_path):
         notes.append("stated figures are the form's CUMULATIVE column (cycle-to-date); a "
                      "cycle total is the LATEST report, never a sum of reports")
     elif sheet == "summary_sheet":
-        notes.append("stated figures are the County Candidate Summary's PER-PERIOD row for "
-                     "this deadline (is_incremental=True); the companion Contributions/"
-                     "Expenditures ledgers restate the whole cycle to date, so a cycle "
-                     "total is the LEDGER, not the sum of summary rows")
+        # ⚠ WORDED CAREFULLY (2026-08-23). The county's template is a PER-PERIOD table — one row
+        # per deadline, with the Balance column carrying the running cumulative — and most
+        # filers use it that way. A MINORITY DO NOT: on Kevin Brooks 2010 and Chris White 2012
+        # the sheet's own arithmetic only closes if each row is read as CYCLE-TO-DATE
+        # (Brooks: 2,634.05 - 2,318.49 = 315.56 against a printed Balance of 316.56, versus
+        # 6,883.08 - 6,337.52 = 545.56 on the per-period reading). So `stated_*` is described
+        # here as WHAT IT IS — the figure this deadline's row printed — and no scope is asserted
+        # on the filer's behalf. Which scope a filing's LEDGER matched is recorded per side by
+        # the itemized verdict below.
+        notes.append("stated figures are the County Candidate Summary's printed row for THIS "
+                     "deadline; the county's template is per-period (a minority of filers fill "
+                     "it cumulatively instead) and the companion Contributions/Expenditures "
+                     "ledgers restate the whole cycle to date, so a cycle total is the LEDGER, "
+                     "never a sum of summary rows")
     else:
         notes.append("LEDGER-ONLY filing: the county published the itemised sheets without "
                      "the summary, so the filing states NO totals -- left blank, never "
@@ -288,8 +313,10 @@ def totals_row(c, index_by_path):
         notes.append(rep["notes"])
     if c.get("notes"):
         notes.append(c["notes"])
-    notes.append("itemized donor/vendor rows NOT transcribed in this tranche (stated totals "
-                 "only) -- see CLAUDE.md 'Itemized transcription queue'")
+    if sheet == "cover_form" and not os.path.exists(
+            D("vision_itemized", "%s.json" % c["_cache_file"][:-5])):
+        notes.append("itemized donor/vendor rows NOT transcribed for this filing (stated totals "
+                     "only) -- see AVAILABILITY.md 9")
     if office_conf and office_conf != "high":
         notes.append("office_confidence=%s (office_source=%s) -- not document-verified"
                      % (office_conf, office_src))
@@ -404,11 +431,76 @@ def _deadline_iso(cache, rep):
     return ""
 
 
+def cum_through(cache, rep):
+    """(contributions, expenditures) accumulated over the summary sheet's OWN printed rows, up
+    to AND INCLUDING the row this filing reports on.
+
+    ⚠ WHY THIS IS A READING OF THE DOCUMENT AND NOT AN INVENTED FIGURE. The County Candidate
+    Summary is a TABLE of the cycle's deadlines; each row is that period's figure and the
+    Balance column beside them is the running cumulative. The companion ledgers restate the
+    WHOLE CYCLE TO DATE (verified on `live_wp/2010-David-Whitehead.pdf`, which staples all four
+    of the 2010 reports together: the Expenditures sheet is byte-for-byte the same two lines
+    under every one of the four deadlines, while the summary rows read 400 / 0 / 0 / 0). So the
+    quantity the ledger states has ONE counterpart on the page — the sheet's own column read
+    down to this deadline — and this is that read. It is used ONLY as a reconciliation ANCHOR
+    and is NEVER written into a `stated_*` field: `stated_*` keeps carrying the single printed
+    row, exactly as before. Nothing here differences one document against another.
+    """
+    pr = cache.get("printed_rows") or []
+    ri = rep.get("row_index")
+    if not isinstance(ri, int) or ri < 0:
+        return None, None
+
+    def col(field):
+        vals = [dec(r.get(field)) for i, r in enumerate(pr) if i <= ri]
+        vals = [v for v in vals if v is not None]
+        return sum(vals) if vals else None
+
+    a, b, e = col("contrib_gt50"), col("contrib_le50"), col("expenses")
+    parts = [x for x in (a, b) if x is not None]
+    return (sum(parts) if parts else None), e
+
+
 def itemize(cache, index_by_path, ft_row, aliases):
-    """Parse ONE born-digital file-SET with `washco_split` and reconciliation-gate each side.
+    """Parse ONE born-digital file-SET with `washco_split`, gate it on COMPLETENESS, and record
+    a scope-aware reconciliation verdict for each side.
 
     Returns (crows, erows, ft_patch, notes). Only `sheet_type == 'summary_sheet'` enters; the
     2008 ledger-only postings and the 100 handwritten cover forms return immediately.
+
+    THE TWO GATES, IN ORDER (rewritten 2026-08-23, TRANCHE 3 parser wave):
+
+    1. **COMPLETENESS decides whether a side may be published at all.** The family reports, per
+       side, how many money-bearing logical rows it FOUND in the ledger body and how many it
+       EMITTED. They must agree. A short parse is a WRONG VALUE dressed as a small one, so such
+       a side emits NOTHING with the shortfall named. (This gate is why a `delta` below can only
+       ever be the FILER's arithmetic, never ours.)
+
+    2. **RECONCILIATION records a verdict; it no longer decides publication.** Under the
+       owner-ratified RECONCILIATION-BASIS RULE (GOTCHAS/SHIP_GATE, 2026-08-17) a side is scored
+       against the printed figure that MATCHES ITS OWN SCOPE. Washington's ledgers are
+       CYCLE-TO-DATE while `stated_total_*` carries the summary's PER-PERIOD row, so:
+         * `period-exact`     — ledger == the per-period row (a candidate's first filing of a
+                                cycle, where the two scopes coincide, or a genuinely one-period
+                                ledger). `reconciles_*=True`, delta 0.00 — the ordinary test.
+         * `cumulative-exact` — ledger == the sheet's own column read down to this deadline.
+                                `reconciles_*` stays **BLANK = unknown**, exactly as utah_county
+                                does for the mirror-image case: the rows reconcile EXACTLY to a
+                                quantity the document states, but that is a DIFFERENT SCOPE from
+                                the figure this module publishes in `stated_total_*`, and
+                                calling that True would assert a match the published columns do
+                                not make.
+         * `delta`            — neither closes on a PROVABLY COMPLETE parse. The rows are
+                                published VERBATIM with `reconciles_*=False`, every competing
+                                printed figure named in the note, and `needs_review=1` on the
+                                side. `recon_delta_*` is left BLANK on purpose: subtracting a
+                                cycle-scoped sum from a period-scoped total is a basis error,
+                                not a delta (utah's 2026-08-20 finding, reverted there).
+
+    The previous build published a side ONLY when it matched the per-period figure, which meant
+    a cycle-scoped ledger that reconciled perfectly against the sheet's own cumulative column
+    was thrown away as if it had failed. That is what this rewrite corrects; every figure it
+    scores against is printed on the page.
     """
     notes = []
     if cache.get("sheet_type") != "summary_sheet":
@@ -428,7 +520,13 @@ def itemize(cache, index_by_path, ft_row, aliases):
             continue
         part = dict(ix=ix, sidecar=tp,
                     text=open(tp, encoding="utf-8", errors="replace").read(),
-                    is_scanned=(ix.get("format") == "scanned"))
+                    is_scanned=(ix.get("format") == "scanned"),
+                    # TRUE page coordinates for the PDF generations (bbox_lib docstring): the
+                    # `-layout` character grid drifts BETWEEN PAGES of one document while the
+                    # PDF's own x-coordinates do not, and the drift silently cost 54 of the 77
+                    # rows on `Expenditures - Rob Tersigni.pdf`. Also the source of the `pct:`
+                    # geometry these rows now carry. [] for a .xls or a scan.
+                    bbox=bbox_lib.read_pdf_boxes(D(f["path"])))
         if f.get("doc_kind") == "summary" and primary is None:
             primary = part
         parts.append(part)
@@ -454,36 +552,82 @@ def itemize(cache, index_by_path, ft_row, aliases):
 
     crows, erows = res["contrib_rows"], res["expend_rows"]
     for x in crows:
+        was_loan = x.donor_type == "loan"     # set by the family from the ledger's Loan column
         normalize_donors.normalize_contrib(x, meta["candidate"], aliases)
+        if was_loan:
+            x.donor_type = "loan"
     for x in erows:
         normalize_donors.normalize_vendor(x)
     crows = screen_side(crows, "donor_raw", "contributions", notes, FAMILY_ID)
     erows = screen_side(erows, "vendor_raw", "expenditures", notes, FAMILY_ID)
 
+    cov = res.get("coverage") or {}
+    cum_c, cum_e = cum_through(cache, rep)
     patch, keep = {}, {"contrib": list(crows), "expend": list(erows)}
-    for sidename, statedstr in (("contrib", ft_row["stated_total_contributions"]),
-                                ("expend", ft_row["stated_total_expenditures"])):
+    verdicts = {}
+    for sidename, key, statedstr, cumv in (
+            ("contrib", "contributions", ft_row["stated_total_contributions"], cum_c),
+            ("expend", "expenditures", ft_row["stated_total_expenditures"], cum_e)):
         rows_ = keep[sidename]
-        if not rows_:
+        found = (cov.get(key) or {}).get("logical", 0)
+        emitted = (cov.get(key) or {}).get("emitted", 0)
+        if not rows_ and not found:
+            verdicts[sidename] = "empty-schedule"
             continue
+        # ---- GATE 1: completeness. A short parse is never published.
+        if emitted != found or not rows_:
+            notes.append(
+                "ITEMIZED %s WITHHELD (INCOMPLETE PARSE): the ledger body holds %d "
+                "money-bearing row(s) and the `%s` family could publish %d of them, so the "
+                "side's sum is provably short. A short sum presented as a ledger total is a "
+                "WRONG VALUE, not a rough one, so NOTHING is emitted. Refusal reason(s): %s"
+                % (sidename, found, FAMILY_ID, emitted,
+                   "; ".join(s for s in (res.get("notes") or "").split("; ")
+                             if "NOT emitted" in s and key[:4] in s) or "see the family notes"))
+            keep[sidename] = []
+            verdicts[sidename] = "withheld"
+            continue
+        # ---- GATE 2: scope-aware reconciliation VERDICT (publication already decided).
         ssum = round(sum(float(x.amount) for x in rows_ if x.amount), 2)
         st = dec(statedstr)
-        rec, delta = reconcile.reconciles(ssum, None if st is None else float(st))
-        if rec is not True:
+        patch["itemized_%s_sum" % sidename] = common.money_str(ssum)
+        if st is not None and abs(ssum - float(st)) <= float(TOL):
+            patch["reconciles_%s" % sidename] = "True"
+            patch["recon_delta_%s" % sidename] = "0.00"
+            verdicts[sidename] = "stated-exact"
+        elif cumv is not None and abs(ssum - float(cumv)) <= float(TOL):
+            # ⚠ reconciles_* STAYS BLANK. The rows sum EXACTLY to a quantity the sheet states
+            # (its own column read down to this deadline) but that is a different SCOPE from
+            # the per-period figure in stated_total_*; asserting True would claim a match the
+            # published columns do not make. Same treatment utah_county gives its mirror case.
+            patch["recon_delta_%s" % sidename] = "0.00"
+            verdicts[sidename] = "cumulative-exact"
             notes.append(
-                "ITEMIZED %s WITHHELD: the ledger's %d row(s) sum to %.2f against a stated %s. "
-                "On this generation the Summary states a PER-PERIOD increment while the ledger "
-                "restates the WHOLE CYCLE TO DATE (CLAUDE.md 'Filing-style finding'), so on "
-                "every filing after a candidate's first of a cycle the two are different "
-                "quantities -- reconciling them would be OUR arithmetic, not the county's. "
-                "NOTHING is emitted (SCHEMA.md 6)."
-                % (sidename, len(rows_), ssum,
-                   "blank total" if st is None else "%.2f" % float(st)))
-            keep[sidename] = []
-            continue
-        patch["itemized_%s_sum" % sidename] = str(ssum)
-        patch["reconciles_%s" % sidename] = "True"
-        patch["recon_delta_%s" % sidename] = "%.2f" % delta
+                "ITEMIZED %s CUMULATIVE-SCOPED: the ledger restates the WHOLE CYCLE TO DATE and "
+                "sums EXACTLY to %.2f — the County Candidate Summary's own %s column read down "
+                "to this deadline — and NOT to the single printed row this module publishes in "
+                "stated_total_%s (%s). reconciles_%s is therefore left BLANK (unknown) rather "
+                "than True: the two are different SCOPES and comparing them is a basis error. "
+                "Both figures are named here; neither is adjusted."
+                % (sidename, ssum, key, sidename,
+                   "blank" if st is None else "%.2f" % float(st), sidename))
+        else:
+            patch["reconciles_%s" % sidename] = "False"
+            verdicts[sidename] = "delta"
+            for x in rows_:
+                x.needs_review = "1"
+            notes.append(
+                "ITEMIZED %s DELTA (published verbatim, NOT adjusted): the parse is provably "
+                "COMPLETE (%d of %d money-bearing ledger rows emitted) and sums to %.2f, which "
+                "matches NEITHER printed figure — this deadline's own summary row states %s and "
+                "the sheet's %s column read down to this deadline gives %s. The residual is the "
+                "FILER's arithmetic, retained as a fact about the document. recon_delta_%s is "
+                "deliberately BLANK: differencing a cycle-scoped sum against a period-scoped "
+                "total is a basis error, not a delta. Every row on this side carries "
+                "needs_review=1."
+                % (sidename, emitted, found, ssum,
+                   "blank" if st is None else "%.2f" % float(st), key,
+                   "blank" if cumv is None else "%.2f" % float(cumv), sidename))
 
     crows, erows = keep["contrib"], keep["expend"]
     for x in crows + erows:
@@ -495,6 +639,14 @@ def itemize(cache, index_by_path, ft_row, aliases):
     for x in crows:
         if not (x.donor_raw or "").strip():
             x.needs_review = "1"
+        elif AGGREGATE_LINE.search(x.donor_raw):
+            # The county's own SUB-$50 AGGREGATE line (`5 Donations of under $50.00`,
+            # `Aggregate total of contributions under 50.00`). It is a real ledger line and a
+            # real dollar figure, but it names NO donor -- SCHEMA.md 5 has the enum value for
+            # exactly this, and leaving it as `unknown` understated what the row is. Matched on
+            # the line's own words only; nothing is inferred about who gave.
+            x.donor_type = "aggregate-unitemized"
+            x.needs_review = "1"
     if crows or erows:
         patch["n_contrib_rows"] = len(crows)
         patch["n_expend_rows"] = len(erows)
@@ -504,13 +656,331 @@ def itemize(cache, index_by_path, ft_row, aliases):
         notes.append(
             "ITEMIZED LAYER: %d contribution / %d expenditure row(s) parsed by the registered "
             "`%s` family from the born-digital file-SET (%d files; the `County Candidate "
-            "Summary` anchor and the itemised ledgers are different files), each side "
-            "reconciled EXACTLY to the stated total. Rows carry `is_incremental=False` because "
-            "the LEDGER restates the cycle to date; `geometry` records the amount cell (a real "
-            "`Sheet!A1` reference on the .xls generations)."
-            % (len(crows), len(erows), FAMILY_ID, len(parts)))
+            "Summary` anchor and the itemised ledgers are different files). Verdicts: "
+            "contributions=%s, expenditures=%s. Rows carry `is_incremental=False` because the "
+            "LEDGER restates the cycle to date, and `source_filing` names the PART FILE each "
+            "row was read from (not the group's summary), so `(source_filing, line_no)` and "
+            "`geometry` resolve in the same document."
+            % (len(crows), len(erows), FAMILY_ID, len(parts),
+               verdicts.get("contrib", "none"), verdicts.get("expend", "none")))
     if res.get("notes"):
         notes.append("family: " + res["notes"])
+    return crows, erows, patch, notes
+
+
+# ------------------------------------------------ the HANDWRITTEN era: vision itemization
+# PHASE B FINAL WAVE, 2026-08-23. The 100 `cover_form` filings are image-faced 17-16-6.5 forms
+# that no parser can reach; their donor/vendor lines were transcribed from page images and live
+# in `vision_itemized/<cache_key>.json` (schema cf_vision_itemized_v1, ONE per filing). That is a
+# NEW sibling directory on purpose: the 100 stated-totals caches in `vision/` are hand
+# transcriptions that are never regenerated, and they stay byte-identical through this wave.
+#
+# THE ANCHOR, and the one decision that matters here:
+#   * Form "A" itemizes ONLY contributions OVER $50. The cover's line 2 (`Aggregate total of
+#     contributions of $50.00 or less`) is NEVER itemized by the form, and `stated_total_
+#     contributions` publishes line 1 + line 2. So the ledger is scored against the cover's
+#     OVER-$50 line -- scoring it against the published sum would manufacture a false mismatch on
+#     every filing carrying a small-donor aggregate.
+#   * SCOPE IS TESTED PER FILING (per REPORT on a bundle), never assumed: the cover prints
+#     `LAST + THIS = CUMULATIVE` and this module publishes the CUMULATIVE column, so a ledger
+#     that sums to CUMULATIVE is same-scope (`reconciles_*=True`) while one that sums to THIS is
+#     a genuinely per-period ledger at a DIFFERENT scope from the published figure -- published
+#     with `reconciles_*` left BLANK, the utah/washington `cumulative-exact` precedent inverted.
+#   * A provably complete side matching NEITHER printed figure is a `delta`: published verbatim,
+#     `reconciles_*=False`, needs_review=1 on every row, both figures named. Nothing is nudged.
+SIDE_STATES = ("transcribed", "none", "withheld", "out-of-scope")
+
+
+def row_money(printed):
+    """A VERBATIM printed amount from a vision row -> (Decimal|None, applied_note).
+
+    ⚠ `dec()` CANNOT BE USED ON A HANDWRITTEN CELL. It strips commas AND spaces, so the
+    decimal-COMMA convention (`300,00`) parses as 30000 and the space-separated-cents convention
+    (`63 75`) as 6375 — both 100x FABRICATIONS, and both present on real pages of this queue.
+    `common.parse_vision_amount` is the shared reader for these cells: an explicit whitelist of
+    conventions (superscript cents, cents-vs-thousands by GROUP LENGTH, a dash or point in the
+    cents position, angle-bracket negatives, the sanctioned decimal-comma and dot-thousands
+    repairs), with everything else left BLANK and never repaired.
+    """
+    return common.parse_vision_amount(printed)
+
+
+def _rowsum(rows):
+    tot = decimal.Decimal(0)
+    n_blank = 0
+    for x in rows:
+        v, _n = row_money(x.get("amount"))
+        if v is None:
+            n_blank += 1
+        else:
+            tot += v
+    return tot, n_blank
+
+
+def _verdict(ssum, cum, this):
+    """(verdict, scope) from the document's own printed cells. Order matters: CUMULATIVE is
+    tested first because it is the column this module publishes; where the two cells are equal
+    (a filer's first report of a cycle) the scopes coincide and cumulative is the honest label."""
+    if cum is not None and abs(ssum - cum) <= TOL:
+        return "cumulative-exact", "cumulative"
+    if this is not None and abs(ssum - this) <= TOL:
+        return "period-exact", "period"
+    return "delta", "unknown"
+
+
+def itemize_vision(cache, ft_row, index_by_path, aliases):
+    """Emit the vision-transcribed itemized rows of ONE handwritten cover-form filing.
+
+    Returns (crows, erows, patch, notes). A filing with no `vision_itemized` cache returns
+    empty -- an untranscribed filing, never a zero.
+
+    ⚠ THE ROWS CARRY `index.csv`'s CANDIDATE SPELLING, NOT THE COVER'S. `ft_row["candidate"]` is
+    the name the FILER WROTE (`Gary L Christensen`), which is the right value for the filing row
+    and is preserved there and in the transcription cache; but the clerk's own label
+    (`GARY L. CHRISTENSEN`) is the STABLE LEDGER KEY every consumer joins on, and
+    `validate_finance.py` checks each itemized row's `(candidate, election_year)` against
+    `index.csv`. The same split is documented in cache_county (`candidate` vs
+    `candidate_stated`). Using the cover spelling here fails 434 rows on a name-formatting
+    difference that is not a disagreement about who filed.
+    """
+    notes = []
+    if cache.get("sheet_type") != "cover_form":
+        return [], [], {}, notes
+    p = D("vision_itemized", "%s.json" % cache["_cache_file"][:-5])
+    if not os.path.exists(p):
+        return [], [], {}, notes
+    with open(p, encoding="utf-8") as fh:
+        v = json.load(fh)
+
+    reports = cache.get("reports") or [{}]
+    src = cache.get("primary_path", "")
+    row_candidate = (index_by_path.get(src, {}).get("candidate")
+                     or ft_row["candidate"])
+    sides = v.get("sides") or {}
+    shapes = v.get("shape") or {}
+    withheld = v.get("withheld_reason") or {}
+    recon = v.get("recon") or {}
+    by_report = {int(r.get("report_no", 1)): r for r in (v.get("recon_by_report") or [])}
+
+    out = {"contrib": [], "expend": []}
+    patch = {}
+    verdicts = {}
+    for sidename, key, rowcls, namefield in (
+            ("contrib", "contributions", common.ContribRow, "donor_raw"),
+            ("expend", "expenditures", common.ExpendRow, "vendor_raw")):
+        state = sides.get(key, "")
+        raw = v.get(key) or []
+        if state not in SIDE_STATES:
+            notes.append("ITEMIZED %s: unknown side state %r recorded by the transcription; "
+                         "nothing emitted" % (key, state))
+            verdicts[sidename] = "unknown-state"
+            continue
+        if state == "out-of-scope":
+            verdicts[sidename] = "out-of-scope"
+            notes.append("ITEMIZED %s OUT OF SCOPE: %s" % (key, withheld.get(key, "")))
+            continue
+        if state == "withheld":
+            verdicts[sidename] = "withheld"
+            notes.append("ITEMIZED %s WITHHELD by the transcription (NOTHING emitted, no sum "
+                         "claimed): %s" % (key, withheld.get(key, "no reason recorded")))
+            continue
+        if state == "none":
+            verdicts[sidename] = "no-schedule-page"
+            notes.append("ITEMIZED %s: the document carries NO Form %s page at all -- an honest "
+                         "absence, NOT a zero (%s)"
+                         % (key, "A" if sidename == "contrib" else "B",
+                            (recon.get(key) or {}).get("detail", "")))
+            continue
+        if not raw:
+            verdicts[sidename] = "empty-schedule"
+            notes.append("ITEMIZED %s: the Form %s page exists and prints NO lines (read from the "
+                         "page image) -- an empty schedule, never 'no donors'"
+                         % (key, "A" if sidename == "contrib" else "B"))
+            continue
+
+        # ---- rows, renumbered 1..N across the whole document so that
+        # (source_filing, line_no) stays the schema's unique itemized-row key even where one PDF
+        # staples several reports. The report's own printed line number is kept in the note.
+        raw = sorted(raw, key=lambda x: (int(x.get("report_no", 1) or 1),
+                                         int(x.get("line_no", 0) or 0)))
+        rows, n_repaired = [], 0
+        for i, x in enumerate(raw, 1):
+            rno = int(x.get("report_no", 1) or 1)
+            amt, amt_note = row_money(x.get("amount"))
+            n_repaired += 1 if amt_note else 0
+            rep = reports[rno - 1] if rno - 1 < len(reports) else reports[0]
+            period = ""
+            if rep.get("period_start") or rep.get("period_end"):
+                period = "%s..%s" % (rep.get("period_start", ""), rep.get("period_end", ""))
+            common_kw = dict(
+                candidate=row_candidate, office=ft_row["office"], seat="",
+                election_year=ft_row["election_year"],
+                filing_date=iso(rep.get("submitted")) or iso(rep.get("report_date"))
+                            or ft_row["filing_date"],
+                reporting_period=period or ft_row["reporting_period"],
+                date=x.get("date", ""),
+                amount="" if amt is None else str(amt),
+                in_kind="True" if x.get("in_kind") else "False",
+                source_filing=src, document_id=ft_row["document_id"], line_no=str(i),
+                # A VISION read is capped at the OCR tier -- `high` is reserved for a
+                # machine-readable source. A transcriber's own `high` is downgraded, never up.
+                extraction_confidence=("medium" if x.get("confidence") in ("", None, "high")
+                                       else x.get("confidence")),
+                extract_method="vision/cover_form",
+                needs_review="1" if str(x.get("needs_review")) == "1" else "0",
+                geometry=x.get("geometry", ""))
+            if sidename == "contrib":
+                r = common.ContribRow(donor_raw=x.get("donor_raw", ""),
+                                      donor_city=x.get("donor_city", ""),
+                                      donor_state=x.get("donor_state", ""), **common_kw)
+            else:
+                r = common.ExpendRow(vendor_raw=x.get("vendor_raw", ""),
+                                     purpose=x.get("purpose", ""), **common_kw)
+            r._report_no = rno
+            r._printed_line = x.get("line_no", "")
+            rows.append(r)
+
+        ssum, n_blank = _rowsum([dict(amount=x.amount) for x in rows])
+        if n_repaired:
+            notes.append("ITEMIZED %s: the SHARED WHITELISTED currency repair (decimal-comma / "
+                         "dot-as-thousands, common.repair_money_line) was applied to %d printed "
+                         "amount(s) -- read naively a decimal comma is a 100x error (SCHEMA 6: "
+                         "every repaired value is marked)" % (key, n_repaired))
+        if n_blank:
+            notes.append("ITEMIZED %s: %d row(s) carry NO amount (illegible on the page and never "
+                         "guessed), so the side's sum is a FLOOR, not a total" % (key, n_blank))
+
+        # ---- the anchors, read off the FILING's own published cover transcription
+        n_rep = len(reports)
+        if sidename == "contrib":
+            cum = stated(reports[0], "contrib_gt50_cum")
+            this = stated(reports[0], "contrib_gt50_this")
+            le50 = stated(reports[0], "contrib_le50_cum")
+            anchor_label = "the cover's line 1 (contributions over $50)"
+        else:
+            cum = stated(reports[0], "expenses_cum")
+            this = stated(reports[0], "expenses_this")
+            le50 = None
+            anchor_label = "the cover's line 3 (total campaign expenses)"
+
+        if n_rep > 1:
+            # A BUNDLE: several reports stapled into one PDF. Each report has its own cover
+            # cells, so a single filing-level verdict would be a category error. The rows are
+            # published, the per-report verdicts recorded, and reconciles_* left BLANK.
+            per = []
+            for rno in sorted({x._report_no for x in rows}):
+                sub = [x for x in rows if x._report_no == rno]
+                s2, _ = _rowsum([dict(amount=y.amount) for y in sub])
+                rep = reports[rno - 1] if rno - 1 < len(reports) else reports[0]
+                c2 = stated(rep, "contrib_gt50_cum" if sidename == "contrib" else "expenses_cum")
+                t2 = stated(rep, "contrib_gt50_this" if sidename == "contrib" else "expenses_this")
+                vd, sc = _verdict(s2, c2, t2)
+                per.append("report %d: %d row(s) summing %s vs cover cumulative %s / this-report "
+                           "%s -> %s" % (rno, len(sub), s2,
+                                         "blank" if c2 is None else c2,
+                                         "blank" if t2 is None else t2, vd))
+                for y in sub:
+                    y.is_incremental = "True" if sc == "period" else "False"
+                    if vd == "delta":
+                        y.needs_review = "1"
+            verdicts[sidename] = "bundle"
+            notes.append(
+                "ITEMIZED %s FROM A BUNDLE of %d stapled reports: the rows are published with a "
+                "PER-REPORT verdict and reconciles_%s is left BLANK, because the filing publishes "
+                "ONE cover row in stated_* while the PDF carries %d. %s. Row line_no is renumbered "
+                "1..%d across the whole document so (source_filing, line_no) stays unique; each "
+                "row's own report is in the transcription cache."
+                % (key, n_rep, sidename, n_rep, "; ".join(per), len(rows)))
+        else:
+            vd, sc = _verdict(ssum, cum, this)
+            verdicts[sidename] = vd
+            for y in rows:
+                y.is_incremental = "True" if sc == "period" else "False"
+            if vd == "cumulative-exact":
+                # Same scope as the published figure. reconciles_*=True is asserted ONLY when the
+                # published stated_* IS that cell -- i.e. when the never-itemized <=$50 aggregate
+                # is absent. Where the filer states an aggregate, the ledger cannot equal the
+                # published sum by construction, so the claim is left honestly BLANK.
+                patch["itemized_%s_sum" % sidename] = common.money_str(float(ssum))
+                if le50 is not None and le50 != 0:
+                    notes.append(
+                        "ITEMIZED %s ANCHORED ON THE OVER-$50 LINE: the %d row(s) sum EXACTLY to "
+                        "%s = %s (cumulative), but stated_total_contributions publishes line 1 + "
+                        "the line-2 aggregate of contributions of $50.00 or less (%s), which the "
+                        "form NEVER itemizes. reconciles_contrib is therefore left BLANK: the two "
+                        "figures are different SCOPES and comparing them is a basis error."
+                        % (key, len(rows), ssum, anchor_label, le50))
+                else:
+                    patch["reconciles_%s" % sidename] = "True"
+                    patch["recon_delta_%s" % sidename] = "0.00"
+                    notes.append("ITEMIZED %s EXACT: %d row(s) sum to %s = %s (cumulative column) "
+                                 "= stated_total_%s" % (key, len(rows), ssum, anchor_label,
+                                                        sidename))
+            elif vd == "period-exact":
+                patch["itemized_%s_sum" % sidename] = common.money_str(float(ssum))
+                patch["recon_delta_%s" % sidename] = "0.00"
+                notes.append(
+                    "ITEMIZED %s PERIOD-SCOPED: the %d row(s) sum EXACTLY to %s -- %s in the "
+                    "THIS-REPORT column -- and NOT to the CUMULATIVE column (%s) this module "
+                    "publishes in stated_*. The ledger is a genuinely per-period schedule; rows "
+                    "carry is_incremental=True. reconciles_%s is left BLANK (unknown) rather than "
+                    "True: the two are different SCOPES. Both figures are named; neither is "
+                    "adjusted." % (key, len(rows), ssum, anchor_label,
+                                   "blank" if cum is None else str(cum), sidename))
+            else:
+                patch["itemized_%s_sum" % sidename] = common.money_str(float(ssum))
+                patch["reconciles_%s" % sidename] = "False"
+                for y in rows:
+                    y.needs_review = "1"
+                notes.append(
+                    "ITEMIZED %s DELTA (published verbatim, NOT adjusted): %d row(s) read from the "
+                    "page image sum to %s, which matches NEITHER printed figure -- %s states %s "
+                    "cumulative and %s for this report. The residual is the FILER's arithmetic, "
+                    "retained as a fact about the document; every row carries needs_review=1. "
+                    "recon_delta_%s is deliberately BLANK where the scopes may differ."
+                    % (key, len(rows), ssum, anchor_label,
+                       "blank" if cum is None else str(cum),
+                       "blank" if this is None else str(this), sidename))
+        if shapes.get(key):
+            notes.append("ITEMIZED %s shape: %s" % (key, shapes[key]))
+        det = (recon.get(key) or {}).get("detail", "")
+        if det:
+            notes.append("ITEMIZED %s basis as read: %s" % (key, det))
+        out[sidename] = rows
+
+    crows, erows = out["contrib"], out["expend"]
+    # TIER-1 NORMALIZATION, exactly as the born-digital path does it: `donor_normalized`,
+    # `donor_type` (candidate-self / loan / pac / individual …) and `vendor_normalized` are
+    # DERIVED columns with a closed enum, and a row that skips the normalizer ships an empty
+    # `donor_type` that `validate_finance.py` rejects. The verbatim `donor_raw` is untouched.
+    for x in crows:
+        normalize_donors.normalize_contrib(x, ft_row["candidate"], aliases)
+    for x in erows:
+        normalize_donors.normalize_vendor(x)
+    for x in crows + erows:
+        x.extraction_confidence = x.extraction_confidence or "medium"
+        x.needs_review = x.needs_review or "0"
+    for x in crows:
+        if not (x.donor_raw or "").strip():
+            x.needs_review = "1"
+        elif AGGREGATE_LINE.search(x.donor_raw):
+            x.donor_type = "aggregate-unitemized"
+            x.needs_review = "1"
+    if crows or erows:
+        patch["n_contrib_rows"] = len(crows)
+        patch["n_expend_rows"] = len(erows)
+        gates = v.get("gates") or {}
+        notes.append(
+            "ITEMIZED LAYER (VISION, Phase B final wave 2026-08-23): %d contribution / %d "
+            "expenditure row(s) read from the page images of the handwritten 17-16-6.5 forms; "
+            "verdicts contributions=%s, expenditures=%s. Gates: %s | %s | %s | %s"
+            % (len(crows), len(erows), verdicts.get("contrib", "none"),
+               verdicts.get("expend", "none"), gates.get("page_subtotal", "") or "no page subtotal",
+               gates.get("row_count", "") or "no row-count gate",
+               gates.get("geometry_proof", "") or "no geometry proof",
+               gates.get("balance_chain", "") or "no balance chain"))
+    if v.get("notes"):
+        notes.append("transcription: " + v["notes"])
     return crows, erows, patch, notes
 
 
@@ -709,6 +1179,25 @@ def main():
             ft_row["notes"] = ft_row["notes"] + " | " + " | ".join(_n)
         ft_row.update(patch)
 
+    # ---- HANDWRITTEN era: the vision itemization (Phase B final wave, 2026-08-23). No-op on
+    # every born-digital file-set and on any cover form not yet transcribed.
+    n_vis = 0
+    for c in caches:
+        if c.get("sheet_type") != "cover_form":
+            continue
+        ft_row = by_cache.get(c["_cache_file"])
+        if not ft_row:
+            continue
+        _c, _e, patch, _n = itemize_vision(c, ft_row, index_by_path, aliases)
+        if not (_c or _e or patch or _n):
+            continue
+        n_vis += 1
+        contrib_rows.extend(_c)
+        expend_rows.extend(_e)
+        if _n:
+            ft_row["notes"] = ft_row["notes"] + " | " + " | ".join(_n)
+        ft_row.update(patch)
+
     n_reposts = mark_cross_channel_reposts(rows, index_by_path)
     rows.sort(key=lambda r: (r["election_year"], r["office"], r["candidate"],
                              r["filing_date"], r["source_filing"]))
@@ -741,13 +1230,36 @@ def main():
     print("  cross-channel re-posts flagged: %d rows (count each report ONCE)" % n_reposts)
     print("  CUM-BLANK-THIS-PRESENT cells:   %d filings"
           % sum(1 for r in rows if "CUM-BLANK-THIS-PRESENT" in r["notes"]))
-    nrc = sum(1 for r in rows if r["reconciles_contrib"] == "True")
-    nre = sum(1 for r in rows if r["reconciles_expend"] == "True")
-    print("born-digital file-sets handed to `%s`: %3d of %d  (sides reconciling exactly: "
-          "%d contrib / %d expend)" % (FAMILY_ID, n_bd, len(rows), nrc, nre))
-    print("contributions.csv %3d rows   expenditures.csv %3d rows  -- the 100 handwritten "
-          "cover forms and the 4 ledger-only 2008 postings itemize nothing here"
+    vc, ve = {}, {}
+    for r in rows:
+        m = re.search(r"Verdicts: contributions=(\S+?), expenditures=(\S+?)\.", r["notes"])
+        if m:
+            vc[m.group(1)] = vc.get(m.group(1), 0) + 1
+            ve[m.group(2)] = ve.get(m.group(2), 0) + 1
+        else:
+            for side, d in (("contributions", vc), ("expenditures", ve)):
+                if "ITEMIZED %s WITHHELD" % side[:7] in r["notes"]:
+                    d["withheld"] = d.get("withheld", 0) + 1
+    print("born-digital file-sets handed to `%s`: %3d of %d" % (FAMILY_ID, n_bd, len(rows)))
+    print("  contribution side verdicts: %s" % dict(sorted(vc.items())))
+    print("  expenditure  side verdicts: %s" % dict(sorted(ve.items())))
+    n_cover = sum(1 for c in caches if c.get("sheet_type") == "cover_form")
+    print("handwritten cover forms carrying a vision itemization: %3d of %d  (untranscribed: %d)"
+          % (n_vis, n_cover, n_cover - n_vis))
+    vv = {}
+    for r in rows:
+        for m in re.finditer(r"verdicts contributions=(\S+?), expenditures=(\S+?)\.", r["notes"]):
+            vv[m.group(1)] = vv.get(m.group(1), 0) + 1
+            vv[m.group(2)] = vv.get(m.group(2), 0) + 1
+    if vv:
+        print("  vision side verdicts (both sides pooled): %s" % dict(sorted(vv.items())))
+    print("contributions.csv %3d rows   expenditures.csv %3d rows  -- the 4 ledger-only 2008 "
+          "postings itemize nothing here by design"
           % (len(contrib_rows), len(expend_rows)))
+    ngeo = sum(1 for x in contrib_rows + expend_rows if getattr(x, common.GEOMETRY_COL, ""))
+    print("  rows carrying geometry: %d of %d (100%%%s)"
+          % (ngeo, len(contrib_rows) + len(expend_rows),
+             "" if ngeo == len(contrib_rows) + len(expend_rows) else " -- SHORT"))
     sides = [r[k] for r in precon for k in ("contrib_verdict", "expend_verdict")]
     print("portal_reconciliation.csv %d portal snapshots, %d scoreable sides -> %s"
           % (len(precon), len(sides),

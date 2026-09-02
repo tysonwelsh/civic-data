@@ -1,0 +1,179 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C09.json",
+ "key": "c1c05936",
+ "index_path": "raw/2014/2014_cc_Nelson_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Nelson_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "4dcbee95507a718e",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "1234.28",
+    "cover_over50_cum": "1,234.28",
+    "cover_le50_last": "",
+    "cover_le50_this": "2372.52",
+    "cover_le50_cum": "2372.52",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "1234.28",
+   "basis": "cover-line1 (THIS == CUMULATIVE)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "SIX itemised rows sum to EXACTLY 1234.28 (100 + 200 + 276,42 + 250 + 100 + 307,86), which equals cover line 1 in BOTH the THIS REPORT and CUMULATIVE cells; the LAST-REPORT column is blank on every line, so this is the first and only report of the cycle and the two scopes coincide — recorded as 'cumulative' per the addendum's coincidence rule. THE SUB-$50 AGGREGATE TRAP IS LIVE ON THIS PAGE AND WAS AVOIDED: the filer wrote a SEVENTH ink line on Form A reading 'Various < 50%' with amount 2372,52 in the Amount column and no date and no address. That line is the statutory $50-or-less AGGREGATE — it equals cover line 2 (2372.52) exactly — and the Carr form puts it on the cover, never in the itemisation. It is NOT emitted as a contribution row: doing so would invent a donor named 'Various' and would double-count against filing_totals.stated_total_contributions, which already publishes line1+line2. Scoring the six real rows against line1+line2 (3606.80) would likewise have manufactured a false mismatch. Form A prints no schedule total; the cover line is the only anchor."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "3606.80",
+    "cover_expense_cum": "3606.80",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3 (THIS == CUMULATIVE)",
+   "result": "delta",
+   "scope": "unknown",
+   "detail": "⚠ HUMAN LOOK RECOMMENDED. p3 Form B is COMPLETELY BLANK — verified full-page at 200 dpi and again on a 600 dpi crop of the top band (x=0 y=620 W=5100 H=900), which shows only reverse-side bleed-through and no filer ink on any of the ~40 writing lines. Yet the cover states campaign expenses of 3606.80 in BOTH the THIS and CUMULATIVE cells, and the balance chain below proves that figure is real. So the itemisation the filer was required to attach is simply absent from the document: zero rows against a printed 3606.80. Recorded as a delta with both figures named — 0.00 itemised vs 3606.80 stated — rather than as a clean zero, because calling it 'exact' would assert the candidate spent nothing. Scope is 'unknown' because with no rows there is no row sum to match against either printed cell (and the two cells are equal in any case)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "The Carr form prints no page subtotal and no schedule total on either schedule. CONTRIBUTIONS: rows sum 1234.28 = cover line 1 (both columns) — gates exactly. EXPENDITURES: rows sum 0.00 vs cover line 3's 3606.80 — WILL NOT GATE, and the cause is traced above (the schedule page carries no ink at all).",
+  "row_count": "p2 rowbands.py: geometry_status ok, 37 bands, h_rules_pct 9.76/11.68/12.58/14.82/17.14/19.45/21.77/24.07/26.39/28.70/31.02/... pitch ~2.32%. SEVEN bands carry ink; SIX rows emitted. The seventh inked band (pct y ~23.7-26.4, 'Various < 50%' / 2372,52) is the statutory sub-$50 aggregate excluded by the reconciliation-basis rule, not a dropped row — this discrepancy between ink count and row count is deliberate and is the reason the count is spelled out here. Bands were scored against INK, not band index: the filer writes ABOVE each rule, and rows 5 and 6 skip a writing line each. p3 has zero inked bands.",
+  "geometry_proof": "p2 FIRST row: crop pct:82.00,10.60,14.00,2.10@p2 (1200 dpi x=8364 y=1399 W=1428 H=277) renders '100'. p2 LAST emitted row (line_no 6): crop pct:82.00,29.50,14.00,2.40@p2 (y=3894 H=317) renders '307,86'. CONTROL one row-pitch below the last (y pct 31.90, y=4211) renders EMPTY — only a bare rule and the descender tip of the 7 above. Rows 2-5 were additionally proved individually (crops at 1200 dpi y=1703/2020/2336/2653), each rendering its own value: 200, 276,42, 250, 100. An earlier last-row box one pitch high rendered only the digit tops and was corrected before recording.",
+  "balance_chain": "CLOSES EXACTLY: 1234.28 (line 1) + 2372.52 (line 2) - 3606.80 (line 3) = 0, and cover line 4 reads a slashed-zero glyph in both the THIS and CUMULATIVE cells -> 0 per the zero-glyph ruling. This is the check that proves the stated 3606.80 of expenditures is a real figure and the blank Form B is a missing attachment rather than a mis-stated total. The LAST-REPORT column is blank on all four lines (first report of the cycle), so no cross-filing chain applies and no other filing by this filer is in this chunk."
+ },
+ "escalations": 11,
+ "escalation_note": "p2 amount column re-read in four overlapping crops (1200 dpi x=7500 y=1230 W=2000 H=2600; 900 dpi x=5600 at y=1400/3300/4550) to settle the DECIMAL SEPARATOR: the filer uses a DECIMAL COMMA with a descending tail — '276,42', '2372,52', '307,86' — transcribed verbatim per the currency convention, never as '27642'. p2 name/city columns re-read in two 1200 dpi crops (x=1400 y=1230 and y=2600). Six geometry-proof crops (first row, rows 2-5, last row) plus one control crop. p3 top band re-read at 600 dpi to confirm the schedule is genuinely empty.",
+ "notes": "index.csv says candidate=Nelson, office=Sheriff, 2014. The cover confirms: 'Full Name of Candidate: C. Lynn Nelson', 'Name of Office: Sheriff', Political Party Republican, dated 11/24/14, clerk stamp RCVD 02 DEC 2014. IN SCOPE (county office). No contradiction with the chunk file. NO DATE IS WRITTEN ON ANY Form A ROW — the Date column is empty down the whole page — so every row carries a BLANK date with needs_review:1 rather than a year inferred from the report date. Donor addresses are city-only on this page (no street, no ZIP written by the filer) and no state is printed, so donor_state is left blank rather than inferred as UT. CALIBRATION-SPECIMEN CANDIDATE: this filing is the cleanest example in the chunk of the sub-$50 aggregate written INSIDE Schedule A, where the naive gate (rows vs line1+line2) fails and emitting the aggregate line as a row would fabricate a donor.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Ray & Jennae Fallows",
+   "donor_city": "Kaysville",
+   "donor_state": "",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,10.60,14.00,2.10@p2",
+   "note": "the Date cell is empty on this and every other row of the page — blank, not a zero; no year printed anywhere on the row, so nothing was inferred. Amount written as whole dollars with no cents group. Address cell holds a city only (no street, no ZIP) and no state."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Justin & Esterlee Molynex",
+   "donor_city": "Smithfield",
+   "donor_state": "",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=n/a;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,12.90,14.00,2.20@p2",
+   "note": "empty Date cell. Surname read glyph-by-glyph as M-o-l-y-n-e-x at 1200 dpi; a longer spelling ending -eux cannot be ruled out, so the legible glyph string is kept at low confidence rather than a plausible real name. Given name read 'Esterlee'. City only, no state."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Matt Bell",
+   "donor_city": "Ogden",
+   "donor_state": "",
+   "amount": "276,42",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,15.30,14.00,2.30@p2",
+   "note": "empty Date cell. DECIMAL COMMA as printed (276,42 = $276.42) — kept verbatim per the currency convention; the comma has a clear descending tail at 900-1200 dpi and is not a period. City only, no state."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Delloy Hansen",
+   "donor_city": "Hyde Park",
+   "donor_state": "",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=n/a;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,17.70,14.00,2.20@p2",
+   "note": "empty Date cell. Given name read as D-e-l-l-o-y; the double-l could be a single tall l plus a capital, so it is kept at low confidence as the legible glyph string. City only, no state."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Lee Samsel",
+   "donor_city": "Logan",
+   "donor_state": "",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,20.10,14.00,2.20@p2",
+   "note": "empty Date cell. City only, no state."
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Personal funds",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "307,86",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=n/a;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,29.50,14.00,2.40@p2",
+   "note": "empty Date cell and empty address cell. The Name-of-Contributor cell reads 'Personal funds' verbatim — candidate self-funding, which the addendum records as normal on this form; transcribed as written rather than resolved to the candidate's name. DECIMAL COMMA as printed (307,86 = $307.86). Written two writing lines below row 5, with the sub-$50 aggregate line between them."
+  }
+ ],
+ "expenditures": []
+}

@@ -1,0 +1,297 @@
+[
+ {
+  "index_path": "raw/2010/2010_CountyRecorder-SmithJefferyDean-102510.pdf",
+  "key": "6c3330b1",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk r2_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED ($500) on the p2 Summary Page, which equals Schedule A's own printed 'Subtotal for this page' ($500.00) and is restated at summary line 4 ($500.00) and line 5 ($500.00). \u26a0 Schedule A's second printed figure, 'Total Contributions Received', is LEFT BLANK by the filer \u2014 the page subtotal and the cover are the two anchors that exist, and they agree.",
+    "detail": "The single Schedule A row is 500.00 and equals the schedule's printed page subtotal AND the cover's promoted PER-PERIOD Column A cell. Column B 'Year-to-Date Total' prints 4,677.47 and is NOT summed as an increment; it is exactly this period's 500.00 plus the 4,177.47 this filer reported in June, i.e. the cumulative column behaving as the promotion regime describes. The balance ladder closes: 0 (line 3, a written zero glyph) + 500.00 (line 4) = 500.00 (line 5); 500.00 - 500.00 (line 6) = a struck zero glyph at line 7."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE ($500) on the p2 Summary Page, equal to Schedule B's CORRECTED 'Subtotal for this page' ($500.00, written above a struck-out earlier figure) and to its printed 'Total Expenditures Received' ($500.00), and restated at summary line 6 ($500.00)",
+    "detail": "4 Schedule B rows sum to 100.00 + 100.00 + 50.00 + 250.00 = 500.00 exactly = the corrected page subtotal = the printed total = the cover's Column A = line 6. \u26a0 THE FILER CORRECTED HIS OWN SUBTOTAL ON THE PAGE AND THE CORRECTION IS THE ONE THAT CLOSES: a 1400 dpi crop shows '$ 250 00' written on the Subtotal line and STRUCK THROUGH with a long diagonal, with '$500 00' written above it. 250.00 is exactly the sum of the first three rows (100 + 100 + 50), so the struck figure is his subtotal BEFORE he added the fourth line, the 8/18/2010 250.00 repayment to himself. Handwritten corrections over struck values govern (per-row rules), the corrected 500.00 is what every other printed figure on the filing agrees with, and the struck 250.00 is retained here rather than discarded. Column B YTD prints 4,677.47 = 4,177.47 + 500.00 and is retained as cumulative, never summed as an increment."
+   }
+  },
+  "in_kind_convention": "not applicable \u2014 neither Schedule A nor Schedule B on this legacy_colAB blank prints an in-kind column, no row on either schedule is annotated in-kind or 'non-monetary', and the p2 Summary Page carries no separate in-kind line. BOTH conventions were tested rather than inherited: monetary-only gives 500.00 on each side and monetary-plus-in-kind gives the identical 500.00, so both close on Column A. NOTE what the three '(computer help)' rows are NOT: they are cash payments FOR help, entered in the expenditure money column by the filer, not donated services \u2014 nothing on the page marks them in-kind and nothing was reclassified.",
+  "escalations": 2,
+  "escalation_note": "Two escalations. (1) A 1400 dpi crop of Schedule B's subtotal cell resolved the filer's own correction: '$ 250 00' struck through with '$500 00' written above it, and 250.00 is exactly the sum of the first three rows, which is what makes the correction legible as an arithmetic revision rather than a misread. (2) A 1000 dpi crop of Schedule B row 1's Name cell resolved the payee's block capitals; the name is transcribed exactly as it renders and no correction was invented. Five further crops at 1000 dpi were geometry proofs, described in the measure_notes.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     80.58,
+     90.11
+    ],
+    "cells": [
+     [
+      7.12,
+      18.19
+     ],
+     [
+      19.72,
+      51.44
+     ],
+     [
+      52.91,
+      79.11
+     ],
+     [
+      80.58,
+      90.11
+     ]
+    ],
+    "rows": [
+     [
+      17.58,
+      21.42
+     ],
+     [
+      21.42,
+      25.26
+     ],
+     [
+      25.26,
+      29.09
+     ],
+     [
+      29.09,
+      32.91
+     ],
+     [
+      32.91,
+      36.75
+     ],
+     [
+      36.75,
+      40.58
+     ],
+     [
+      40.58,
+      44.42
+     ],
+     [
+      44.42,
+      48.27
+     ],
+     [
+      48.27,
+      52.09
+     ],
+     [
+      52.09,
+      55.87
+     ],
+     [
+      55.87,
+      59.74
+     ],
+     [
+      59.74,
+      63.56
+     ],
+     [
+      63.56,
+      67.41
+     ],
+     [
+      67.41,
+      71.23
+     ],
+     [
+      71.23,
+      75.01
+     ],
+     [
+      75.01,
+      78.88
+     ],
+     [
+      78.88,
+      82.7
+     ]
+    ],
+    "measure_note": "legacy_colAB Schedule A, the UNDERLINE form: rowbands.py returns 17 per-column underline rules running 21.42 to 82.70 at a regular 3.84 pitch on a sheet with essentially zero skew (0.0 degrees), and the four segments of each rule ARE the column bands (Date 7.12-18.19, Name of Contributor 19.72-51.44, Mailing Address & Zip 52.91-79.11, Amount 80.58-90.11; a 99.41 segment is the scanner's page edge, not a column). THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up to [17.58,21.42]. \u00a7A1 FIRST-ENTRY CONTROL: that extrapolated band was cropped BEFORE use and rendered the printed 'Amount' header with '500.00' on the rule beneath it \u2014 this filer did NOT skip the first ruled line and his single written entry IS band 1. PROOF OF EVERY WRITTEN ROW (there is only one): pct:80.0,17.58,10.5,3.84@p3 rendered '500.00' (recorded 500.00), and the control crop of band 2, pct:80.0,21.42,10.5,3.84@p3, rendered an EMPTY cell, so the schedule genuinely stops at one row."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     80.33,
+     90.04
+    ],
+    "cells": [
+     [
+      7.05,
+      18.23
+     ],
+     [
+      19.65,
+      52.25
+     ],
+     [
+      52.84,
+      79.03
+     ],
+     [
+      80.33,
+      90.04
+     ]
+    ],
+    "rows": [
+     [
+      17.81,
+      21.64
+     ],
+     [
+      21.64,
+      25.47
+     ],
+     [
+      25.47,
+      29.29
+     ],
+     [
+      29.29,
+      33.14
+     ],
+     [
+      33.14,
+      36.96
+     ],
+     [
+      36.96,
+      40.81
+     ],
+     [
+      40.81,
+      44.63
+     ],
+     [
+      44.63,
+      48.45
+     ],
+     [
+      48.45,
+      52.33
+     ],
+     [
+      52.33,
+      56.1
+     ],
+     [
+      56.1,
+      59.94
+     ],
+     [
+      59.94,
+      63.77
+     ],
+     [
+      63.77,
+      67.6
+     ],
+     [
+      67.6,
+      71.44
+     ],
+     [
+      71.44,
+      75.24
+     ],
+     [
+      75.24,
+      79.07
+     ],
+     [
+      79.07,
+      82.91
+     ]
+    ],
+    "measure_note": "Same underline grid: 17 rules 21.64 to 82.91 at a 3.83 pitch, row 1 extrapolated one pitch up to [17.81,21.64]; the printed 'Subtotal for this page' and 'Total Expenditures Received' underlines sit below 82.91 and are NOT rows. TWO-CROP PROOF at 1000 dpi: pct:80.0,17.81,10.5,3.83@p4 rendered the printed 'Amount' header above '$ 100 00' (recorded 100.00, row 1) and pct:80.0,29.29,10.5,3.85@p4 rendered '$ 250 00' (recorded 250.00, row 4, the last written row). A control crop of band 5, pct:80.0,33.14,10.5,3.82@p4, rendered an EMPTY cell. A further 1400 dpi crop below the grid captured the struck-and-corrected subtotal described in the recon."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "8/17/10",
+    "donor_raw": "UT. COUNTY REPUBLICAN PARTY",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE ONLY CONTRIBUTION ON THE FILING \u2014 the county party committee, seven weeks before the general election. The Mailing Address cell prints a post-office box with the city, state and (written above the line) the zip; only city and state are carried, verbatim including the filer's 'UT'. The date is the only two-digit-year date on this filing ('8/17/10'); every other date on the same sheet set is written with a four-digit year, and both are kept verbatim. First and only written row \u2014 the crop rendered the printed 'Amount' header above '500.00' and a control crop of band 2 rendered an EMPTY cell"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "6/01/2010",
+    "vendor_raw": "DOUEY ROAH (computer help)",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer writes the PURPOSE as a parenthetical inside the Name cell on three of the four rows \u2014 this Schedule B blank prints no Purpose column of its own \u2014 so vendor_raw carries the whole printed string verbatim and `purpose` is left unset rather than split by guesswork. The payee name is transcribed exactly as the block capitals render at 1000 dpi; it is an unusual spelling and no correction was invented. Cents are written as a small RAISED '00' after the dollars, which is how this filer writes every amount on the sheet. First row of the page \u2014 the crop rendered the printed 'Amount' header above '$ 100 00'"
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "6/01/2010",
+    "vendor_raw": "ADAM JACKMAN (computer help)",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell repeats the same Orem address as row 1; expenditure rows carry no address field, so nothing is carried"
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "6/01/2010",
+    "vendor_raw": "MARK TIPPETS (computer help)",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "A STRUCK-THROUGH CHARACTER sits between the surname and the opening parenthesis \u2014 a single crossed-out mark, not a word \u2014 and it is recorded here rather than transcribed into the name"
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "8/18/2010",
+    "vendor_raw": "JEFF SMITH (PAY BACK)",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the candidate reimbursing himself, with his own parenthetical '(PAY BACK)' kept verbatim; note the cover names him 'JEFFERY DEAN SMITH' and he signs the schedule line 'JEFF SMITH'. Last written row \u2014 the crop rendered '$ 250 00' and a control crop of band 5 rendered an EMPTY cell"
+   }
+  ],
+  "notes": "PAGE-FACE candidate name 'JEFFERY DEAN SMITH' (Republican, residence city Orem); index.csv names NO candidate for this row (the 2008-2018 listing grouped by office). Page-face Office Seeking reads 'UTAH COUNTY RECORDER' here, where the SAME FILER'S JUNE REPORT writes the abbreviated 'UT. COUNTY RECORDER' \u2014 both agree with index.csv's 'County Recorder' and neither was normalised. legacy_colAB, 4 pages, all four read full-page at 200 dpi: p1 cover, p2 SUMMARY PAGE (located by CONTENT), p3 Schedule A, p4 Schedule B; the cover is handwritten in all-caps block capitals and the summary page in a looser cursive hand. Only ONE report-type box is ticked here, 'Seven days preceding the General Election' \u2014 worth noting because this filer's JUNE report ticked TWO boxes at once, so the double-tick was a one-off and not his habit. THE AMENDMENT QUESTION IS LEFT WHOLLY UNANSWERED on both his 2010 filings \u2014 neither 'Yes' nor 'No' is ticked \u2014 which is an honest BLANK and never 'No' (ADDENDUM A4). Signed 10/25/10 and stamped received OCT 25 AM 9:18. FOLIATION: the top-right Page/of box is EMPTY on all three inner sheets while the Last Name and Date of Report cells are filled, exactly as on his June filing. TWO PRINTED FIGURES ARE LEFT BLANK BY THE FILER and are honest blanks rather than gaps in this transcription: Schedule A's 'Total Contributions Received' cell (its page subtotal IS filled, at 500.00) and the p2 foliation. The two sides are again equal to the cent (500.00 each), the same spend-out-to-zero pattern as his June report and as Rodney Campbell's 2010 Recorder filing in this chunk. Not a *_Redacted.pdf \u2014 the county published this era in the clear, so the donor's post-office box and the vendors' street lines are plainly visible on pp3-4 and were reduced to city/state at READ TIME for the contribution and DROPPED ENTIRELY for the expenditures; none reaches any field or note."
+ }
+]

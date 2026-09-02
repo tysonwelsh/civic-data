@@ -1,0 +1,159 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2016-02-04",
+   "vendor_raw": "Salt Lake County Republican Party",
+   "purpose": "Lincoln Day Dinner",
+   "amount": "240.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.03,26.09,80.64,4.18@p4",
+   "note": "recipient written on two lines, 'Salt Lake County' over 'Republican Party'. Amount written with superscript cents."
+  },
+  {
+   "line_no": 2,
+   "date": "2016-12-16",
+   "vendor_raw": "\"Letter 23\"",
+   "purpose": "website",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.03,30.27,80.64,4.11@p4",
+   "note": "recipient written inside quotation marks exactly as shown. Amount written with superscript cents."
+  },
+  {
+   "line_no": 3,
+   "date": "2016-12-16",
+   "vendor_raw": "Target",
+   "purpose": "cards",
+   "amount": "15.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.03,34.39,80.64,4.23@p4",
+   "note": "amount written with superscript cents"
+  },
+  {
+   "line_no": 4,
+   "date": "2016-12-16",
+   "vendor_raw": "Costco",
+   "purpose": "postage",
+   "amount": "15.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:10.03,38.61,80.64,4.07@p4",
+   "note": "amount written with superscript cents"
+  }
+ ],
+ "total_contributions": "0",
+ "total_expenditures": "$370.00",
+ "beginning_balance": "$21,172.20",
+ "ending_balance": "$20,802.20",
+ "aggregate": {
+  "total_contributions_to_date": "$39,353.50",
+  "total_expenditures_to_date": "$18,557.30",
+  "line5_subtotal": "$21,172.20"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "Jan. 24, 2017",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2016_disclosures__2016_year_end__steven-debry_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2016_disclosures__2016_year_end__steven-debry_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "FORM FAMILY CONFIRMED AS 'untitled-year' (chunk file agrees): the title prints only 'Financial Disclosure Report / For a Candidate' with NO year, over the older 'SHERRIE SWENSEN, Salt Lake County Clerk' letterhead and the 84190-1051 ZIP; every page foots 'k://election/candidateinfo/financialdisclosures/04pccfindisc.doc'. form_year is therefore honestly '' - it is NOT '2016' and the '04' in that file path is a template name, not a year to lift. Everything else agrees with the chunk file (Steven L. DeBry, County Council, District 5, Jan 24 2017; clerk RECEIVED stamp JAN 31 2017). YEAR-END box checked; NEITHER amendment box ticked, so is_amendment is honestly blank. THE FILER'S OWN AGGREGATE FIGURES DISAGREE BETWEEN THE SUMMARY PAGE AND THE SCHEDULES, and both were re-read at 600 dpi: contributions to date $39,353.50 (Summary) vs $39,353.30 (Schedule A total), a 20-cent gap; expenditures to date $18,557.30 (Summary) vs $18,551.30 (Schedule B total), a $6.00 gap. Both figures are retained verbatim in their own fields and NEITHER was recomputed. The gap is entirely in the CYCLE-AGGREGATE scope; the PERIOD scope reconciles exactly on both sides. Cover street-address and phone/fax/email bands are redacted at source; nothing from them was read. Schedule A is blank so no donor-geography question arises.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A (p3) is the county grid, PRESENT and wholly BLANK across all 16 data bands, with a printed SUBTOTAL FOR THIS PAGE of '0' (a written numeral zero, so 0 per the zero-glyph ruling - not a dash and not an empty cell). That matches Summary line 1 Column A, also '0'. A real zero. CAUTION on the basis: this page's 'TOTAL CONTRIBUTIONS RECEIVED (Sum of subtotals from all Schedule A pages)' cell does NOT hold a period total - the filer put a CYCLE-AGGREGATE figure there ($39,353.30). It is a Column-B-scope figure sitting in a Column-A-scope slot and was NOT used as the reconciliation anchor."
+    },
+    "expenditures": {
+     "stated": "$370.00",
+     "schedule_total": "$370.00",
+     "itemized": "370.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "4 rows (240.00 + 100.00 + 15.00 + 15.00) sum to 370.00 = the printed SUBTOTAL FOR THIS PAGE ($370.00) = Summary line 2 Column A ($370.00). Same basis caution as the contributions side: the page's 'TOTAL EXPENDITURES MADE' cell holds the cycle aggregate ($18,551.30), not the period figure, so the SUBTOTAL - not the schedule 'TOTAL' - is this filing's schedule-level period gate. No in-kind marker on the schedule."
+    }
+   },
+   "page_subtotal_gates": "p3 zero rows = printed SUBTOTAL '0' (EXACT); p4 rows 370.00 = printed SUBTOTAL $370.00 (EXACT). On BOTH pages the schedule's 'TOTAL ... (Sum of subtotals from all pages)' line holds a cycle-aggregate figure instead of the sum of this filing's subtotals, so the SUBTOTAL line is the correct page-level gate here.",
+   "escalations": 3,
+   "escalation_note": "600 dpi tight cell crops on the three disputed aggregate figures: Summary p2 Column B lines 1-2 (confirmed $39,353.50 and $18,557.30, both with superscript cents), Schedule A p3 TOTAL cell (confirmed $39,353.30) and Schedule B p4 TOTAL cell (confirmed $18,551.30). The discrepancies are real ink on the page, not misreads.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FORM FAMILY CONFIRMED AS 'untitled-year' (chunk file agrees): the title prints only 'Financial Disclosure Report / For a Candidate' with NO year, over the older 'SHERRIE SWENSEN, Salt Lake County Clerk' letterhead and the 84190-1051 ZIP; every page foots 'k://election/candidateinfo/financialdisclosures/04pccfindisc.doc'. form_year is therefore honestly '' - it is NOT '2016' and the '04' in that file path is a template name, not a year to lift. Everything else agrees with the chunk file (Steven L. DeBry, County Council, District 5, Jan 24 2017; clerk RECEIVED stamp JAN 31 2017). YEAR-END box checked; NEITHER amendment box ticked, so is_amendment is honestly blank. THE FILER'S OWN AGGREGATE FIGURES DISAGREE BETWEEN THE SUMMARY PAGE AND THE SCHEDULES, and both were re-read at 600 dpi: contributions to date $39,353.50 (Summary) vs $39,353.30 (Schedule A total), a 20-cent gap; expenditures to date $18,557.30 (Summary) vs $18,551.30 (Schedule B total), a $6.00 gap. Both figures are retained verbatim in their own fields and NEITHER was recomputed. The gap is entirely in the CYCLE-AGGREGATE scope; the PERIOD scope reconciles exactly on both sides. Cover street-address and phone/fax/email bands are redacted at source; nothing from them was read. Schedule A is blank so no donor-geography question arises."
+  }
+ }
+}

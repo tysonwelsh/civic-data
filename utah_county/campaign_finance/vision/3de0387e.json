@@ -3,7 +3,10 @@
  "key": "3de0387e",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:55:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -57,5 +60,41 @@
    "notes": "Handwritten in black ink, cursive but legible. The ENTIRE street-address row (street, city, state, zip) and the phone number are covered by solid black redaction bars applied upstream by the county before publication, so residence_city is '' - redacted upstream by the county, never reconstructed. Report type checked is '30 Days after the General Election' (the box at the foot of the list), and the amendment answer 'No' is checked. Zeros on lines 1A, 2A, 4 and 6 are plainly written '0' digits. Page footer 'Page 1 of 3'. County date stamp DEC 1 PM12:16."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r3_02)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {},
+   "in_kind_convention": "not testable and not asserted \u2014 both schedules are empty, so there are no rows against which either convention could be tested. Nothing on the filing prints an in-kind figure.",
+   "escalations": 2,
+   "escalation_note": "Two tight cell crops at 900 dpi, to establish WHICH nil mark each schedule's own footer carries (the B2 caution \u2014 nil notation must be read per line, not assumed down a page). WHAT THEY RENDERED: pct:75,82.5,20,8.5@p3 rendered a handwritten oval '0' on the 'Subtotal for this page' line AND a second oval '0' on the 'Total Contributions Received' line; pct:75,84.5,20,8.5@p4 rendered the same pair of oval zeros on Schedule B's 'Subtotal for this page' and 'Total Expenditures Received'. These are NUMERAL ZEROS (not slashed zeros, not bare dashes), so all four footers state 0 under the repo zero-glyph ruling, and they agree with the cover's Column A.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Jeffrey R. Buhman (page-face name; index.csv names NO candidate for this row \u2014 the 2008-2018 listing grouped by office), Political Party 'Republican', office printed 'Utah County Attorney'. Report type '30 Days after the General Election', signed 12-1-14, clerk-stamped DEC 1; the amendment question IS answered \u2014 the 'No' box is ticked.\n\nWHY BOTH SIDES ARE 'empty-schedule' AND NOT 'no-schedule-page' AND NOT 'withheld': the document HAS both schedule pages and they are PRESENT, HEADED AND SIGNED FOR \u2014 p3 is SCHEDULE A ('ITEMIZED CONTRIBUTIONS RECEIVED', foliated 2 of 3, Last Name 'Buhman', Date of Report 12-1-14) and p4 is SCHEDULE B ('ITEMIZED EXPENDITURES MADE', 3 of 3, same header) \u2014 and each carries ZERO entries. That is a real absence of entries, which is a different fact from a page that was never filed and from a page this transcription could not read.\n\nWHAT THE EMPTY PAGES ACTUALLY PRINT, AND A NIL NOTATION WORTH RECORDING: the filer VOIDED each schedule by drawing ONE LONG VERTICAL PEN STROKE DOWN EACH OF THE FOUR COLUMNS, top to bottom across all 17 ruled lines \u2014 four strokes per page, eight in all \u2014 and then wrote an oval '0' on that page's 'Subtotal for this page' line and another on its 'Total ... Received' line. Not a single date, name, address or amount is written in any cell of either grid. This full-height column strike-through is a nil notation the wave has not previously recorded (Addendum B5 lists an oval zero on the Total line, everything left blank, and a large 'N/A' across the grid); it states the same fact as those three and, like them, the cover's Column A is what gates the side.\n\nTHE ARITHMETIC, STATED THOUGH NO ROWS ARE PUBLISHED: the p2 SUMMARY PAGE prints line 1 'TOTAL CONTRIBUTIONS RECEIVED' Column A = 0 (a plain written zero) with Column B year-to-date 15709.58, and line 2 'TOTAL EXPENDITURES MADE' Column A = 0 with Column B 15607.50. Each schedule's own printed subtotal and total (0 and 0, proved by the crops above) agree with the cover's PROMOTED per-period Column A cells to the cent. The balance ladder closes as printed: line 3 Balance at Beginning 102.08 + line 4 (0) = line 5 Subtotal 102.08, minus line 6 (0) = line 7 Balance at Close 102.08. The Column B figures are the CUMULATIVE cycle totals and are never summed as increments; this is a per-period regime, and what this period reports is zero activity. So there is nothing missing here: the filing's own numbers say the campaign neither received nor spent anything in the 30-days-after-general window, while carrying a 102.08 balance forward.\n\nSINGLE REPORT, NOT A BUNDLE: CHUNK_BRIEF section 5 names 'Buhman 2014' as one of only two genuine multi-report bundles in the corpus. That is NOT this filing \u2014 this PDF is 4 pages holding exactly ONE report (one cover, one Summary Page foliated '1 of 3', one Schedule A '2 of 3', one Schedule B '3 of 3'), so no `report_index` is set. The bundle must be the filer's OTHER 2014 document (`raw/2014/2014_10-14Buhman_Redacted.pdf`), which is not in this chunk; flagged so the coordinator can point the right agent at it.\n\nFOLIATION: the cover is UNNUMBERED and the three following sheets are numbered 1, 2 and 3 'of 3' \u2014 the 'excluding the cover' practice. In this same chunk and cycle, Hemingway (fa00ee08) hand-numbers his cover '1/4' and counts it. Page ordinals locate nothing; every page here was classified from its own printed header.\n\nPRIVACY \u2014 REDACTED BY THE COUNTY, and the note says so deliberately: this file is a `*_Redacted.pdf` and the CLERK blacked out, on the cover, the entire Street Address / City / State / Zip row and the phone number block. Those bars ARE the document, not a failed read, which is why the filer's own residence city is honestly unavailable here. No donor or vendor address exists on this filing at all (both schedules are empty), so nothing else was reduced."
+  }
+ }
 }

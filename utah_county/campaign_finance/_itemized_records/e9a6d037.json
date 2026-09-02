@@ -1,0 +1,1071 @@
+[
+ {
+  "index_path": "raw/2022/2022_Leavitt_David_4.4.2022_Redacted2.pdf",
+  "key": "e9a6d037",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r10_03)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "itemized_pages_A": "2,3,4",
+  "itemized_pages_B": "5",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Box B 'Contributions Received this Period' (102284.96) on the p6 Summary Page — the PROMOTED per-period cell — which is also the printed 'Total Contributions Received (Sum of all Schedule A pages in this report)' repeated identically at the foot of ALL THREE Schedule A sheets (p2, p3, p4), and which each sheet's own 'Subtotal for this page' resolves into.",
+    "detail": "FOUR printed anchors agree and the rows reproduce every one of them. p2's 15 rows sum to 18,874.44 = its printed 'Subtotal for this page $ 18,874.44'. p3's 15 rows sum to 45,085.51 = its printed subtotal 45085.51. p4's 14 rows sum to 38,325.01 = its printed subtotal 38325.01. 18,874.44 + 45,085.51 + 38,325.01 = 102,284.96 exactly = the printed grand total on all three sheets = the cover's promoted per-period Box B. Box C 'Contributions Received Year to Date' also prints 102,284.96 and is retained as the CUMULATIVE figure, never summed as an increment (period equals year-to-date here because this is the cycle's first report on this cover, with Box A a small carried balance of 104.44). The cover ladder closes independently and corroborates both sides: Box F 'Subtotal before Expenditures (Box A + Box B)' prints 102,389.40 = 104.44 + 102,284.96 exactly, and the unlettered 'Balance at Close of Reporting Period (Box F - Box D)' prints 26,358.93 = 102,389.40 - 76,030.47 exactly."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Box D 'Expenditures Made this Period' (76030.47) on the p6 Summary Page — the PROMOTED per-period cell — which is also Schedule B's own printed 'Subtotal for this page $ 76030.47' and its printed 'Total Expenditures Made $ 76030.47 (Sum of all Schedule B pages in this report)' on p5.",
+    "detail": "The 9 Schedule B rows sum to 27001.00 + 27501.00 + 8100.00 + 7218.20 + 30.00 + 4000.00 + 821.39 + 1348.88 + 10.00 = 76,030.47 exactly = the printed page subtotal = the printed total = Box D. Box E 'Expenditures Made Year to Date' prints 76,030.47 and is retained as cumulative, never summed. Rows 10-15 of the printed 15-row grid are empty and the one-band-past control rendered an empty boxed cell."
+   }
+  },
+  "in_kind_convention": "not applicable, and that was established on the pages rather than assumed. This filing is on the OLDER four-column Schedule A ('Date / Name of Contributor / Address and Zip Code / Amount') and the matching Schedule B ('Date / Provider/Vendor / Purpose / Amount') — NEITHER schedule carries an In-Kind checkbox column, no row is annotated in-kind anywhere in the eight pages, and no separate in-kind sheet or in-kind line is bound in. Monetary-only and monetary-plus-in-kind therefore give identical sums on both sides (102,284.96 and 76,030.47) and both close. Nothing was carried in from any other filing.",
+  "escalations": 6,
+  "escalation_note": "Six escalations at 600-1400 dpi; ONE changed a confidence level, none changed a value. (1)-(4) The four per-page row-band proofs listed in each frame's measure_note (first row, last transcribed row and the mandatory one-band-past control on every schedule page). (5) FIELD-SHIFT SCREEN plus per-cell redaction judgement: 600 dpi crops of the whole Date/Name/Address block on each Schedule A sheet (e9a6d037_p2_addr_top.png, e9a6d037_p2_addr_bot.png, e9a6d037_p3_addr_top.png, e9a6d037_p4_addr_top.png) render the Date column holding dates, 'Name of Contributor' holding names and 'Address and Zip Code' holding either a bar-plus-city-state-zip or a bare ZIP — so the columns are assignable BY CONTENT, and each row's redaction status was judged individually rather than from the filename. (6) A 1400 dpi tight crop of the Ralph Yarro address cell (pct:50.5,68.27,27.0,4.21@p2 -> e9a6d037_p2_r13addr.png) to settle whether the city's first letter survives the redaction bar: it renders a partial round glyph followed by 'rem, UT 84058', which is why that row's city is carried at LOW confidence with needs_review=1 instead of as a clean read. A 900 dpi crop of the Schedule B vendor cells (e9a6d037_p5_vendor12.png) confirmed the vendor name as printed and that a street address shares the cell — which is why only the name portion is carried.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     77.13,
+     89.5
+    ],
+    "cells": [
+     [
+      9.68,
+      22.16
+     ],
+     [
+      22.16,
+      50.57
+     ],
+     [
+      50.57,
+      77.13
+     ],
+     [
+      77.13,
+      89.5
+     ]
+    ],
+    "rows": [
+     [
+      17.75,
+      22.34
+     ],
+     [
+      22.34,
+      26.52
+     ],
+     [
+      26.52,
+      30.68
+     ],
+     [
+      30.68,
+      34.88
+     ],
+     [
+      34.88,
+      39.07
+     ],
+     [
+      39.07,
+      43.23
+     ],
+     [
+      43.23,
+      47.38
+     ],
+     [
+      47.38,
+      51.57
+     ],
+     [
+      51.57,
+      55.75
+     ],
+     [
+      55.75,
+      59.93
+     ],
+     [
+      59.93,
+      64.09
+     ],
+     [
+      64.09,
+      68.27
+     ],
+     [
+      68.27,
+      72.48
+     ],
+     [
+      72.48,
+      76.68
+     ],
+     [
+      76.68,
+      80.84
+     ]
+    ],
+    "measure_note": "Schedule A sheet 1 on the OLDER four-column blank: a fully BOXED grid, so a row lies BETWEEN its own two printed rules and NOTHING is extrapolated (§I3; §A1's above-the-rule rule does not apply). rowbands.py at 200 dpi returns 18 h_rules_pct (17.75 .. 88.92) and 4 v_rules_pct (9.68 / 22.16 / 50.57 / 77.13); skew +0.3 deg, drift 0.40, so no column displacement worth correcting. THE GRID IS 15 ROWS, NOT 17: the 16th and 17th detected bands (80.84-85.26 and 85.26-88.92) are the footer 'Name of Candidate' and 'Date of Report / Page' box rules, which the one-past control proves. The grid's right border was not detected as a v_rule, so the amount band's right edge is hand-set at 89.50 — deliberately a little wider than the printed rule so that no right-aligned figure can clip (§G2); the proof crops show the figures rendering whole. TWO-CROP PROOF at 900 dpi --value plus the mandatory one-past control: the row-1 box pct:77.13,17.75,12.37,4.59@p2 rendered '1035.51' (recorded 1035.51); the row-15 box pct:77.13,76.68,12.37,4.16@p2 rendered '500.00' (recorded 500.00 for the last transcribed row); and the CONTROL one band past, pct:77.13,80.84,12.37,4.42@p2, rendered the printed '$ 18,874.44' subtotal line — which is exactly the §J6 outcome for a FULL grid (the strip outside the grid renders the subtotal, not an entry) and is a subtotal rather than a row by §H4, since it equals the sum of the 15 rows above it. §F1 trap 5 is therefore ruled out and the band list is not off by one."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     76.5,
+     88.71
+    ],
+    "cells": [
+     [
+      9.7,
+      22.2
+     ],
+     [
+      22.2,
+      50.0
+     ],
+     [
+      50.0,
+      76.5
+     ],
+     [
+      76.5,
+      88.71
+     ]
+    ],
+    "rows": [
+     [
+      18.05,
+      22.21
+     ],
+     [
+      22.21,
+      26.39
+     ],
+     [
+      26.39,
+      30.55
+     ],
+     [
+      30.55,
+      34.76
+     ],
+     [
+      34.76,
+      38.94
+     ],
+     [
+      38.94,
+      43.1
+     ],
+     [
+      43.1,
+      47.26
+     ],
+     [
+      47.26,
+      51.46
+     ],
+     [
+      51.46,
+      55.62
+     ],
+     [
+      55.62,
+      59.8
+     ],
+     [
+      59.8,
+      63.96
+     ],
+     [
+      63.96,
+      68.14
+     ],
+     [
+      68.14,
+      72.35
+     ],
+     [
+      72.35,
+      76.55
+     ],
+     [
+      76.55,
+      80.71
+     ]
+    ],
+    "measure_note": "Schedule A sheet 2, same boxed 15-row form. rowbands.py returns 18 h_rules_pct (18.05 .. 89.00) but only THREE v_rules_pct (50.00 / 76.50 / 88.71) — the left border and the Date|Name rule were not detected on this sheet, so those two boundaries in `cells` are carried across from the p2/p4 measurements as approximate provenance only; the load-bearing amount band 76.50-88.71 is measured on this page and crop-proven. Skew -0.4 deg, drift 0.54. As on p2 the last two detected bands are the footer boxes, not data rows. TWO-CROP PROOF at 900 dpi --value plus the one-past control: the row-1 box pct:76.5,18.05,12.21,4.16@p3 rendered '10000.00' (recorded 10000.00); the row-15 box pct:76.5,76.55,12.21,4.16@p3 rendered '200.00' (recorded 200.00); and the CONTROL one band past, pct:76.5,80.71,12.21,4.63@p3, rendered the printed '$ 45085.51' subtotal line — the §J6 full-grid outcome again, and a subtotal not an entry because it equals the sum of the 15 rows above."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     77.27,
+     89.53
+    ],
+    "cells": [
+     [
+      9.8,
+      22.3
+     ],
+     [
+      22.3,
+      50.74
+     ],
+     [
+      50.74,
+      77.27
+     ],
+     [
+      77.27,
+      89.53
+     ]
+    ],
+    "rows": [
+     [
+      18.43,
+      22.66
+     ],
+     [
+      22.66,
+      26.89
+     ],
+     [
+      26.89,
+      31.04
+     ],
+     [
+      31.04,
+      35.2
+     ],
+     [
+      35.2,
+      39.39
+     ],
+     [
+      39.39,
+      43.57
+     ],
+     [
+      43.57,
+      47.75
+     ],
+     [
+      47.75,
+      51.89
+     ],
+     [
+      51.89,
+      56.07
+     ],
+     [
+      56.07,
+      60.29
+     ],
+     [
+      60.29,
+      64.43
+     ],
+     [
+      64.43,
+      68.61
+     ],
+     [
+      68.61,
+      72.79
+     ],
+     [
+      72.79,
+      77.02
+     ],
+     [
+      77.02,
+      81.2
+     ]
+    ],
+    "measure_note": "Schedule A sheet 3, same boxed 15-row form; rowbands.py returns 18 h_rules_pct (18.43 .. 89.26) and 5 v_rules_pct (9.80 / 22.30 / 50.74 / 77.27 / 89.53) — this is the one sheet on which the grid's right border WAS detected, at 89.53, which independently corroborates the hand-set right edge used on the other sheets. Skew +0.3 deg, drift 0.40. THIS GRID IS NOT FULL: 14 rows are written and printed row 15 is empty, which is what makes the control here a true NEGATIVE control. TWO-CROP PROOF at 900 dpi --value plus the control: the row-1 box pct:77.27,18.43,12.26,4.23@p4 rendered '5000.00' (recorded 5000.00); the row-14 box pct:77.27,72.79,12.26,4.23@p4 rendered '50.00' (recorded 50.00 for the last transcribed row); and the CONTROL one band past, pct:77.27,77.02,12.26,4.18@p4, rendered an EMPTY boxed cell bounded by its two rules — no figure, so nothing continues below the last entry and the indexing is not off by one. All 15 measured bands are declared even though only 14 carry rows."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     76.69,
+     88.86
+    ],
+    "cells": [
+     [
+      9.7,
+      22.2
+     ],
+     [
+      22.2,
+      50.19
+     ],
+     [
+      50.19,
+      76.69
+     ],
+     [
+      76.69,
+      88.86
+     ]
+    ],
+    "rows": [
+     [
+      17.85,
+      22.03
+     ],
+     [
+      22.03,
+      26.19
+     ],
+     [
+      26.19,
+      30.35
+     ],
+     [
+      30.35,
+      34.57
+     ],
+     [
+      34.57,
+      38.71
+     ],
+     [
+      38.71,
+      42.89
+     ],
+     [
+      42.89,
+      47.07
+     ],
+     [
+      47.07,
+      51.26
+     ],
+     [
+      51.26,
+      55.44
+     ],
+     [
+      55.44,
+      59.62
+     ],
+     [
+      59.62,
+      63.76
+     ],
+     [
+      63.76,
+      68.01
+     ],
+     [
+      68.01,
+      72.17
+     ],
+     [
+      72.17,
+      76.35
+     ],
+     [
+      76.35,
+      80.53
+     ]
+    ],
+    "measure_note": "Schedule B, the same boxed 15-row form with a real PURPOSE column (Date / Provider/Vendor / Purpose / Amount). rowbands.py returns 17 h_rules_pct (17.85 .. 89.42) and 3 v_rules_pct (50.19 / 76.69 / 88.86); the left border and the Date|Vendor rule were not detected, so those two `cells` boundaries are approximate provenance carried from the Schedule A sheets. Skew -0.5 deg, drift 0.67. Nine rows are written and printed rows 10-15 are empty, so the control is a true negative. TWO-CROP PROOF at 900 dpi --value plus the control: the row-1 box pct:76.69,17.85,12.17,4.18@p5 rendered '27001.00' (recorded 27001.00); the row-9 box pct:76.69,51.26,12.17,4.18@p5 rendered '10.00' (recorded 10.00 for the last transcribed row); and the CONTROL one band past, pct:76.69,55.44,12.17,4.18@p5, rendered an EMPTY boxed cell. All 15 measured bands are declared even though only 9 carry rows."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 2,
+    "row": 1,
+    "date": "1/10/2022",
+    "donor_raw": "AV Tharp",
+    "amount": "1035.51",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "2",
+    "page": 2,
+    "row": 2,
+    "date": "1/19/2022",
+    "donor_raw": "Dylan Olsen",
+    "donor_city": "Logan",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 2,
+    "row": 3,
+    "date": "1/19/2022",
+    "donor_raw": "Joel Larson",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "4",
+    "page": 2,
+    "row": 4,
+    "date": "1/19/2022",
+    "donor_raw": "Karol Marroquin",
+    "donor_city": "Providence",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "5",
+    "page": 2,
+    "row": 5,
+    "date": "1/20/2022",
+    "donor_raw": "Judy Wiser",
+    "donor_city": "Providence",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 2,
+    "row": 6,
+    "date": "1/20/2022",
+    "donor_raw": "Dell Loy Hansen",
+    "donor_city": "Logan",
+    "donor_state": "UT",
+    "amount": "10000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer wrote the city as 'Logan' beside a ZIP that is not a Logan ZIP; both are the filer's own entry, the city is transcribed exactly as printed and the discrepancy is NOT adjudicated. The ZIP itself is not carried."
+   },
+   {
+    "line_no": "7",
+    "page": 2,
+    "row": 7,
+    "date": "1/21/2022",
+    "donor_raw": "Nate Edwards",
+    "donor_city": "Logan",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "8",
+    "page": 2,
+    "row": 8,
+    "date": "1/20/2022",
+    "donor_raw": "David Safavian",
+    "donor_city": "Alexandria",
+    "donor_state": "VA",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "9",
+    "page": 2,
+    "row": 9,
+    "date": "1/27/2022",
+    "donor_raw": "Keri Hale",
+    "amount": "1035.51",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "10",
+    "page": 2,
+    "row": 10,
+    "date": "1/27/2022",
+    "donor_raw": "Amy Hansen Atkinson",
+    "amount": "1035.51",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "11",
+    "page": 2,
+    "row": 11,
+    "date": "2/3/2022",
+    "donor_raw": "John Lunt",
+    "donor_city": "Holladay",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 2,
+    "row": 12,
+    "date": "2/3/2022",
+    "donor_raw": "Larry Lunt",
+    "donor_city": "Holladay",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "13",
+    "page": 2,
+    "row": 13,
+    "date": "2/4/2022",
+    "donor_raw": "Ralph Yarro",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "low",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "LOW CONFIDENCE ON THE CITY ONLY: the county's redaction bar overlaps the city's FIRST LETTER, so the cell renders as a partial round glyph followed by 'rem, UT 84058' even at 1400 dpi. The visible right half of the letter and the following three letters read 'Orem'; it is carried at low confidence with needs_review=1 rather than treated as certain, and nothing was inferred from the ZIP. The state 'UT' is fully legible."
+   },
+   {
+    "line_no": "14",
+    "page": 2,
+    "row": 14,
+    "date": "2/26/2022",
+    "donor_raw": "Anthony Christensen",
+    "amount": "517.91",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "15",
+    "page": 2,
+    "row": 15,
+    "date": "2/27/2022",
+    "donor_raw": "Jennifer Bukowsky",
+    "donor_city": "Columbia",
+    "donor_state": "MO",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 1,
+    "date": "12/15/2021",
+    "donor_raw": "John Miller",
+    "donor_city": "SLC",
+    "donor_state": "UT",
+    "amount": "10000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "city written by the filer as the abbreviation 'SLC'; kept verbatim, not expanded."
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 2,
+    "date": "11/29/2021",
+    "donor_raw": "Gail Miller",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is WHOLLY EMPTY — no text and NO redaction bar. City and state are blank because the filer left the cell empty, which is a different fact from a county redaction and from a zip-only entry."
+   },
+   {
+    "line_no": "18",
+    "page": 3,
+    "row": 3,
+    "date": "12/10/2021",
+    "donor_raw": "Paul Batista",
+    "donor_state": "VA",
+    "amount": "10000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the cell prints a STATE and a ZIP but NO CITY: the county's bar covers the street portion and what survives is 'VA 20109'. donor_state is 'VA'; donor_city is honestly blank. This is the mirror of §E4's city-without-state cause — a state without a city — and no city was inferred from the ZIP."
+   },
+   {
+    "line_no": "19",
+    "page": 3,
+    "row": 4,
+    "date": "12/10/2021",
+    "donor_raw": "Mike and Jackie Leavitt",
+    "donor_city": "Cedar City",
+    "donor_state": "UT",
+    "amount": "10000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a JOINT contributor entered as one line by the filer; kept as the single row the document reports and never split into two donors."
+   },
+   {
+    "line_no": "20",
+    "page": 3,
+    "row": 5,
+    "date": "12/10/2021",
+    "donor_raw": "Leavitt Land & Investment",
+    "donor_city": "Cedar City",
+    "donor_state": "UT",
+    "amount": "5000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "21",
+    "page": 3,
+    "row": 6,
+    "date": "12/15/2021",
+    "donor_raw": "Eric Leavitt",
+    "donor_city": "Cedar City",
+    "donor_state": "UT",
+    "amount": "5000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "22",
+    "page": 3,
+    "row": 7,
+    "date": "3/1/2022",
+    "donor_raw": "Thomas Kilcollin",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "23",
+    "page": 3,
+    "row": 8,
+    "date": "3/1/2022",
+    "donor_raw": "David Rockwell",
+    "amount": "1035.51",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "24",
+    "page": 3,
+    "row": 9,
+    "date": "3/2/2022",
+    "donor_raw": "Hampton Long",
+    "amount": "150.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "25",
+    "page": 3,
+    "row": 10,
+    "date": "3/3/2022",
+    "donor_raw": "George Enochs",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "26",
+    "page": 3,
+    "row": 11,
+    "date": "3/4/2022",
+    "donor_raw": "Martha Berman",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "27",
+    "page": 3,
+    "row": 12,
+    "date": "3/6/2022",
+    "donor_raw": "John Hewko",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "28",
+    "page": 3,
+    "row": 13,
+    "date": "3/9/2022",
+    "donor_raw": "Gary Matthews",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "29",
+    "page": 3,
+    "row": 14,
+    "date": "3/9/2022",
+    "donor_raw": "Tim Hutchinson",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "30",
+    "page": 3,
+    "row": 15,
+    "date": "3/12/2022",
+    "donor_raw": "Roxana van der Mensbrugghe",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "31",
+    "page": 4,
+    "row": 1,
+    "date": "1/17/2022",
+    "donor_raw": "Dane Leavitt",
+    "donor_city": "Cedar City",
+    "donor_state": "UT",
+    "amount": "5000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "32",
+    "page": 4,
+    "row": 2,
+    "date": "1/17/2022",
+    "donor_raw": "Mark Leavitt",
+    "donor_city": "Cedar City",
+    "donor_state": "UT",
+    "amount": "5000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "33",
+    "page": 4,
+    "row": 3,
+    "date": "3/17/2022",
+    "donor_raw": "Alexander Redmond",
+    "donor_city": "Poway",
+    "donor_state": "CA",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer wrote a ZIP beside 'Poway CA' that is not a California ZIP; the city and state are transcribed exactly as printed and the filer's own inconsistency is NOT adjudicated."
+   },
+   {
+    "line_no": "34",
+    "page": 4,
+    "row": 4,
+    "date": "3/3/2022",
+    "donor_raw": "David Leavitt",
+    "donor_state": "UT",
+    "amount": "4821.39",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the cell prints a STATE and a ZIP but NO CITY (the bar covers the street portion, leaving 'UT 84097'), so donor_state is 'UT' and donor_city is honestly blank; no city was inferred from the ZIP. NOTE this row carries the CANDIDATE'S OWN NAME as the contributor — a self-contribution as the document reports it; it is inside the printed page subtotal and the printed grand total, and nothing about it was adjudicated."
+   },
+   {
+    "line_no": "35",
+    "page": 4,
+    "row": 5,
+    "date": "3/30/2022",
+    "donor_raw": "Leavitt Group Enterprises",
+    "donor_city": "Cedar City",
+    "donor_state": "UT",
+    "amount": "15000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "36",
+    "page": 4,
+    "row": 6,
+    "date": "3/30/2022",
+    "donor_raw": "John Dahlstrom",
+    "donor_city": "SLC",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "city written by the filer as the abbreviation 'SLC'; kept verbatim, not expanded."
+   },
+   {
+    "line_no": "37",
+    "page": 4,
+    "row": 7,
+    "date": "3/30/2022",
+    "donor_raw": "Tracey Mihelic",
+    "amount": "207.35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "38",
+    "page": 4,
+    "row": 8,
+    "date": "3/30/2022",
+    "donor_raw": "Rodney Snoq",
+    "amount": "310.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "39",
+    "page": 4,
+    "row": 9,
+    "date": "3/31/2022",
+    "donor_raw": "Neil Kaplan",
+    "donor_city": "Cottonwood Heights",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "40",
+    "page": 4,
+    "row": 10,
+    "date": "3/31/2022",
+    "donor_raw": "Gina Dalton",
+    "amount": "5176.29",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "41",
+    "page": 4,
+    "row": 11,
+    "date": "3/31/2022",
+    "donor_raw": "Craig Martin",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "42",
+    "page": 4,
+    "row": 12,
+    "date": "3/31/2022",
+    "donor_raw": "Jacob Haueter",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "43",
+    "page": 4,
+    "row": 13,
+    "date": "3/31/2022",
+    "donor_raw": "Matt Rindlisbacher",
+    "amount": "259.11",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   },
+   {
+    "line_no": "44",
+    "page": 4,
+    "row": 14,
+    "date": "3/31/2022",
+    "donor_raw": "Walt Romney",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 'Address and Zip Code' cell holds a BARE ZIP CODE and nothing else — no city and no state — so donor_city and donor_state are honestly BLANK. This is the §B5 cause (the form as filled carries no city), not a county redaction: there is NO black bar on this row, the cell is clean. A ZIP is never converted into a city or a state name."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 5,
+    "row": 1,
+    "date": "12/24/2021",
+    "vendor_raw": "Gathering, Inc",
+    "purpose": "Signature Gathering",
+    "amount": "27001.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Provider/Vendor cell prints the name followed, IN THE SAME CELL, by a street number, a street name and a city and state. PRIVACY: expenditure rows carry no address field and no street address is reproduced anywhere in this record, so only the name portion is carried. The name as printed begins 'Gathering, Inc' — it is transcribed exactly as it appears and NOT reconstructed into any longer legal name, even though the Purpose column reads 'Signature Gathering'."
+   },
+   {
+    "line_no": "2",
+    "page": 5,
+    "row": 2,
+    "date": "2/9/2022",
+    "vendor_raw": "Gathering, Inc",
+    "purpose": "Signature Gathering",
+    "amount": "27501.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Provider/Vendor cell prints the name followed, IN THE SAME CELL, by a street number, a street name and a city and state. PRIVACY: expenditure rows carry no address field and no street address is reproduced anywhere in this record, so only the name portion is carried. The name as printed begins 'Gathering, Inc' — it is transcribed exactly as it appears and NOT reconstructed into any longer legal name, even though the Purpose column reads 'Signature Gathering'."
+   },
+   {
+    "line_no": "3",
+    "page": 5,
+    "row": 3,
+    "date": "3/11/2022",
+    "vendor_raw": "Rincon",
+    "purpose": "Campaign Mgmt/Marketing",
+    "amount": "8100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "4",
+    "page": 5,
+    "row": 4,
+    "date": "3/11/2022",
+    "vendor_raw": "Rincon",
+    "purpose": "Campaign Mgmt/Marketing",
+    "amount": "7218.20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "same vendor, same purpose and same date as line 3 but a different amount; both rows are real and both are required for the side to close at 76,030.47."
+   },
+   {
+    "line_no": "5",
+    "page": 5,
+    "row": 5,
+    "date": "3/11/2022",
+    "vendor_raw": "UCCU",
+    "purpose": "Bank Fees",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 5,
+    "row": 6,
+    "date": "3/10/2022",
+    "vendor_raw": "UT Co Republican Party",
+    "purpose": "Convention Costs",
+    "amount": "4000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "7",
+    "page": 5,
+    "row": 7,
+    "date": "3/2/2022",
+    "vendor_raw": "UT County",
+    "purpose": "Filing Fees",
+    "amount": "821.39",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the county filing fee as this filer states it. Per ADDENDUM E1/F5 the fee is office- and cycle-specific and was NOT used to corroborate anything on this or any other filing; it is recorded only as what the row prints."
+   },
+   {
+    "line_no": "8",
+    "page": 5,
+    "row": 8,
+    "date": "1/15-3/31",
+    "vendor_raw": "Stripe",
+    "purpose": "Stripe Fees",
+    "amount": "1348.88",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "THE DATE CELL PRINTS A RANGE WITH NO YEAR ('1/15-3/31'), not a single date. It is kept VERBATIM and flagged: a year is never filled in from the report date, and a range is never reduced to one endpoint."
+   },
+   {
+    "line_no": "9",
+    "page": 5,
+    "row": 9,
+    "date": "3/30/2022",
+    "vendor_raw": "UCCU",
+    "purpose": "Bank Fee",
+    "amount": "10.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer writes 'Bank Fee' singular here and 'Bank Fees' plural on line 5; both kept verbatim."
+   }
+  ],
+  "notes": "2022 cycle, `modern_boxAF`. ⚠ **NEW SOURCE PROPERTY — THIS IS A THIRD 2022 COVER VINTAGE, OLDER THAN BOTH BLANKS §J1 DESCRIBES.** Its five report types are '30 Days after withdrawal or elimination / Seven days preceding the Primary Election / **30 Days after the Primary Election (If eliminated at the Primary Election)** / Seven days preceding the General Election / 30 Days after the General Election'. It therefore has NO 'Seven days preceding Convention' option and DOES have the '30 Days after the Primary' option — which is precisely the pair of changes §J5 records the `v. 4.20` blank as having made (gaining Convention, losing 30-days-after-Primary). So the stock in circulation in 2022 is at least THREE deep: this pre-4.20 cover, the `v. 4.20` carry-over, and the newer unversioned six-type blank — and the wave's tell-table should be read as a sequence, not a pair. Consistent with the older vintage, its close box is UNLETTERED ('Balance at Close of Reporting Period (Box F - Box D)', no G), its Schedule A third column is 'Address and Zip Code' with no In-Kind checkbox, and it foliates with 'Date of Report' + 'Page'. All 8 pages rot 0 (pdfinfo -f 1 -l 8); no rotation handling needed. AcroForm present; every entered value is machine type. PAGE STRUCTURE, classified from each page's own printed header and never by ordinal: p1 COVER; p2, p3 and p4 are THREE 'Schedule A - Itemized Contributions Received' sheets, each with its own page subtotal and each repeating the same grand total; p5 'Schedule B - Itemized Expenditures Made'; p6 'Summary Page'; p7 the CHECKLIST DECOY; p8 BLANK. THE SUMMARY PAGE IS AT p6, NOT LAST — two further sheets follow it — so an ordinal rule would have missed it. **THE CHECKLIST DECOY IS BOUND AT p7**, immediately after the genuine Summary Page at p6, the §J2 pattern again; it is the OTHER revision of the decoy — its top-right box offers 'Website / Network / **HOLD**' (three options, where the Herring filing's copy in this same chunk offers only Website/Network), its two review copies are labelled '**Staff Signature #1**' and '**Staff Signature #2**' rather than a bare 'Staff Signature', and its last summary line reads '**Positive** balance at Close of Reporting Period'. Both copies are signed and dated 4/4/22 and 4/4/2022, in red and in magenta, and the sheet is born-digital clean. It carries ZERO dollar figures, it is a clerk work product, it is NOT part of the filing, and no figure was taken from it. PAGE-FACE IDENTITY: candidate 'David Leavitt' on the cover, p2, p5 and p6, and 'David O Leavitt' on p3 and p4 — recorded as varying within the one document and not adjudicated; Office box prints 'Utah County Attorney'; Date, Date of Report and every inner-sheet date read 04/01/2022 (p3 and p4 write it '4/01/2022' and '4/1/2022'); foliation runs 1-6 counting the cover, and the checklist and the blank verso are unfoliated. ⚠ **NO REPORT TYPE IS MARKED** — all five 'Mark the applicable report' radios are empty circles. That is an honest BLANK and is never read as any particular report; index.csv's channel label calls the period 'Convention', which the page does not state, and the two are recorded side by side with neither adjudicated. The amendment question IS answered: 'No' is filled. REDACTION judged PER CELL from the page, exactly as §I3 warns: the cover's Address/City/State/Zip block and the Signature block are solid black bars, while Phone and Email are in the clear; and on the schedules the county barred the STREET portion of some donor address cells while leaving the city, state and ZIP printed beside the bar — and other rows carry no bar at all because the filer had entered only a ZIP. Both patterns occur on the same page. No street address is carried into this record from any row, and the vendor cell on Schedule B lines 1-2 that embeds a street address is reduced to its name portion. Both sides close exactly on their promoted per-period cells against four (contributions) and three (expenditures) agreeing printed statements; the cover ladder also closes to the cent; nothing was nudged and no figure was taken from any other document."
+ }
+]

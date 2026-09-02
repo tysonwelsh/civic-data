@@ -3,7 +3,10 @@
  "key": "2da50965",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:05:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,41 @@
    "notes": "Handwritten in pencil, legible. Every Column A cell and all of lines 3-7 are written as a slashed-zero glyph (actually-written zeros, not blank cells), transcribed 0 at medium confidence; only the Year-to-Date column carries a figure (4656.61 on both line 1 and line 2). NEITHER amendment box is checked, so is_amendment is ''. Office Seeking reads 'Commissioner Seat A' where the index office is 'County Commission Seat A' - the same seat, a naming convention. Page footer 'Page 1 of 3'. County date stamp DEC 4 PM1:38."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r3_02)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {},
+   "in_kind_convention": "not testable and not asserted \u2014 both schedules are empty, so neither convention has a row to be tested against, and the filing prints no in-kind line or column anywhere.",
+   "escalations": 2,
+   "escalation_note": "Two tight cell crops at 900 dpi, to establish WHICH nil mark each schedule's own footer carries (the B2 caution \u2014 nil notation is read per line, never assumed down a page, and this filing writes in soft pencil where an oval zero, a slashed zero and a stray mark are easy to confuse at page scale). WHAT THEY RENDERED: pct:75,82,20,8.5@p3 rendered a clear SLASHED ZERO (an oval with a stroke drawn through it) on Schedule A's 'Subtotal for this page' line, with the top of a second slashed zero on the 'Total Contributions Received' line below; pct:75,84.5,20,8.5@p4 rendered the same pair on Schedule B's 'Subtotal for this page' and 'Total Expenditures Received'. Slashed zeros are NUMERAL ZEROS under the repo zero-glyph ruling, so all four footers state 0 \u2014 and they agree with the cover's Column A.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Gregory J. Graves (page-face name; index.csv names NO candidate for this row \u2014 the 2008-2018 listing grouped by office), Political Party 'Republican', office printed 'Commissioner Seat A' (the seat IS printed, so nothing is inferred), residence city Springville. Report type '30 Days after the General Election', signed 12-4-14, clerk-stamped DEC 4. THE AMENDMENT QUESTION IS LEFT WHOLLY UNANSWERED \u2014 neither Yes nor No is ticked (the A4 honest blank; never read as 'No').\n\nTRANSCRIBED INDEPENDENTLY OF THE WAVE'S REFERENCE RECORD, WHICH IS THIS SAME FILER'S OTHER 2014 FILING. `_itemized_records/40bd7997.json` is Graves's 10-14 report (4 contributions / 2 expenditures, both sides closing at 2,725.75). THIS is his 12-14 report and it is a different document with a different outcome; nothing was copied from that record, and the two were compared only after this one was read, as a check that they are not the same filing.\n\nWHY BOTH SIDES ARE 'empty-schedule' AND NOT 'no-schedule-page' AND NOT 'withheld': the document HAS both schedule pages, headed and identified \u2014 p3 is SCHEDULE A ('ITEMIZED CONTRIBUTIONS RECEIVED', foliated 2 of 3, Last Name 'Graves', Date of Report 12-4-14) and p4 is SCHEDULE B ('ITEMIZED EXPENDITURES MADE', 3 of 3, same header) \u2014 and each carries ZERO entries. All 17 ruled lines on each page are completely empty: no date, no name, no address, no amount anywhere in either grid. The only marks the filer made on those two pages are the header box (name and date) and a SLASHED ZERO on each of the four footer lines, proved by the crops above. That is a real absence of entries, which is a different fact from a page that was never filed and from a page this transcription could not read.\n\nTHE ARITHMETIC, STATED THOUGH NO ROWS ARE PUBLISHED: the p2 SUMMARY PAGE is written entirely in SLASHED ZEROS down Column A \u2014 line 1 (contributions this period) 0, line 2 (expenditures this period) 0, line 3 (balance at beginning) 0, line 4 0, line 5 0, line 6 0, line 7 (balance at close) 0 \u2014 while Column B carries 4656.61 for contributions year-to-date and 4656.61 for expenditures year-to-date. Each schedule's own printed subtotal and total are likewise 0. So every printed figure agrees: nothing was received and nothing was spent in the 30-days-after-general window, and the campaign closed at zero having raised and spent 4,656.61 across the cycle. The Column B figures are CUMULATIVE and are never summed as increments in this per-period regime; note in particular that the two of them are EQUAL, which is what a fully-spent-out campaign looks like and is not a transcription artefact.\n\nA NIL-NOTATION OBSERVATION WORTH RECORDING: this filer uses ONE nil mark consistently \u2014 a slashed zero \u2014 in all eleven places a figure could go (seven summary cells and four schedule footers). That is unusually consistent for this corpus; Addendum B5 records a filer using three different nil notations inside a single cycle, and 3de0387e earlier in this chunk voids its grids with full-height column strokes and writes plain oval zeros on the footers. Read per line all the same, which is what the crops did.\n\nFOLIATION: the cover is UNNUMBERED and the three following sheets are numbered 1, 2 and 3 'of 3' \u2014 the 'excluding the cover' practice, the same as 3de0387e (Buhman) in this chunk and the opposite of fa00ee08 (Hemingway), who hand-numbers his cover '1/4'. Page ordinals locate nothing; every page here was classified from its own printed header.\n\nPRIVACY: this file is not a *_Redacted.pdf and the county published it in the clear, but no donor or vendor data exists on it at all (both schedules are empty), so nothing was carried."
+  }
+ }
 }

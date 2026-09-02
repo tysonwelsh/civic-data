@@ -3,7 +3,11 @@
  "key": "aeddb421",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:00:00Z",
- "pages_read": [1, 4, 5],
+ "pages_read": [
+  1,
+  4,
+  5
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 4.20",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +56,69 @@
    "notes": "OFFICE RESOLVED FROM THE PAGE: 'Utah County Commissioner Seat A' - index.csv carries office_index = '' for this filing, so this is a new resolution, not a conflict. Name printed 'Steven Diamond' here vs 'Steven C. Diamond' on his 3/30/2022 filing (key 7cf59ece); both transcribed as printed. NEITHER amendment radio (No / Yes) is marked, so is_amendment is '' rather than assumed 'No'. Address block and signature are redacted upstream by the county (black bars), so residence_city is ''. Boxes C and E print '3000.00' with NO thousands comma (verbatim); Box B and the close box are a written '0' (real zeros, not blank cells). Box A (557.82) carries forward exactly from the close of the same filer's 3/30/2022 report. Typed fillable form, footer 'v. 4.20'; cover 'Page' box prints just '1', summary page '4'."
   }
  ],
- "notes": "The locator flagged summary_pages [4,5], but page 5 is NOT a second report - it is the county's internal 'Campaign Financial Disclosure Checklist', with two staff review sign-offs dated 4/18/22 and 4/20/2022. ONE report emitted. Mixed letterhead: cover (p1) Josh Daniels banner, summary (p4) Amelia Powers Gardner banner. This cover's report-type list omits 'Seven days preceding Convention' and includes '30 Days after the Primary Election' - a different v. 4.20 cover layout from the same filer's 3/30/2022 filing."
+ "notes": "The locator flagged summary_pages [4,5], but page 5 is NOT a second report - it is the county's internal 'Campaign Financial Disclosure Checklist', with two staff review sign-offs dated 4/18/22 and 4/20/2022. ONE report emitted. Mixed letterhead: cover (p1) Josh Daniels banner, summary (p4) Amelia Powers Gardner banner. This cover's report-type list omits 'Seven days preceding Convention' and includes '30 Days after the Primary Election' - a different v. 4.20 cover layout from the same filer's 3/30/2022 filing.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "04-11-2022",
+   "vendor_raw": "Steven Diamond",
+   "purpose": "reimbursement of donations to my campaign",
+   "amount": "557.82",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:78.60,15.98,13.00,4.27@p3",
+   "geometry_frame": "p3 axis=y cell=78.60-91.60 rowband=15.98-20.25 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The vendor is the CANDIDATE HIMSELF and the purpose cell is his own typed wording, carried verbatim. This is the modern v. 4.20 Schedule B, which prints a REAL Purpose column (Date / Provider/Vendor / Purpose / Amount) \u2014 captured. Machine-typed fillable-form text, not handwriting; the amount is right-aligned well inside its box (crop-proved)."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r10_02)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' = 0 on the p4 Summary Page, corroborated by Schedule A's own printed 'Subtotal for this page $ 0' and 'Total Contributions Received $ 0' (p2)",
+     "detail": "Schedule A (p2) is a fully printed 15-row boxed grid with NOT ONE cell filled \u2014 no banner, no stroke, no nil mark inside the grid \u2014 and the filer typed a plain '0' in both printed footers. Zero rows are published; 0 rows sum to 0.00 = the printed page subtotal 0 = the printed Total Contributions Received 0 = the promoted per-period cell Box B (0). Box C 'Contributions Received Year to Date' prints 3000.00 and is the CUMULATIVE cell: it is never summed as an increment, and it means this filer's contributions were received in earlier periods that THIS report does not itemize."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' (557.82) on the p4 Summary Page, which is also Schedule B's own printed 'Subtotal for this page $ 557.82' and its 'Total Expenditures Made $ 557.82'",
+     "detail": "The single Schedule B row sums to 557.82 exactly = the printed page subtotal = the printed Total Expenditures Made = the cover's promoted PER-PERIOD cell Box D. Box E 'Expenditures Made Year to Date' prints 3000.00 and is retained as cumulative, never summed. (Box A 557.82 and Box F 557.82 also equal the figure, and Balance at Close prints 0 = F - D, so the summary ladder closes on its own terms.)"
+    }
+   },
+   "in_kind_convention": "monetary-only closed. This is the v. 4.20 blank, whose Schedule A columns are Date / Name of Contributor / Address and Zip Code / Amount and whose Schedule B columns are Date / Provider/Vendor / Purpose / Amount \u2014 NEITHER schedule prints an in-kind column or checkbox (that is the NEWER unversioned 2022 blank, not this one), and no row or box on this filing carries an in-kind marking. Both conventions were tested on both sides and give the same figures: contributions 0 = Box B 0; expenditures 557.82 = Box D 557.82.",
+   "escalations": 1,
+   "escalation_note": "One 900 dpi tight value crop of the p3 row-1 amount cell (aeddb421_p3r1.png) to confirm the machine-typed figure and rule out a clipped right-hand digit (this is a born-digital fillable form printed and rescanned, so the amount is machine type): it rendered '557.82' cleanly inside its box with the box's right rule visible beyond the '2' \u2014 no \u00a7G2 column overflow on this filing.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 1,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "6-PDF-page document = a 4-page filing + a clerk work product + a blank. Classified from each page's own printed header, never by ordinal: p1 COVER (Office box prints 'Utah County Commissioner Seat A' \u2014 LEGIBLE and unredacted on THIS filing; type of report = '30 Days after withdrawal or elimination', the filled radio; the amendment question is answered NEITHER Yes nor No \u2014 an honest blank, not 'No'; Date of Report 04-11-2022, signature dated 04-11-2022), p2 SCHEDULE A - Itemized Contributions Received (blank grid, printed 0s in both footers), p3 SCHEDULE B - Itemized Expenditures Made (ONE row), p4 SUMMARY PAGE (located by content; boxes A / B / C / D / E / F and an UNLETTERED 'Balance at Close of Reporting Period (Box F - Box D)' \u2014 the v. 4.20 signature, NOT the lettered G of the newer 2022 blank), p5 the ELECTIONS DIVISION 'Campaign Financial Disclosure Checklist' \u2014 THE DOCUMENTED CHECKLIST DECOY, TWO staff-signed review copies on one sheet (red ticks + 'Justin' signature dated 4/18/22 above the dotted rule; a second black-ink X'd copy signed 'Karlee Jo Jarvis' dated 4/20/2022 below it), carrying ZERO dollar figures and born-digital clean while the report pages are photocopy-grade \u2014 it is NOT a summary page and publishes nothing; p6 BLANK. So this filing binds a checklist at p5 with the genuine summary at p4, matching the observed 5-after-4 pattern exactly. FORM: modern_boxAF, revision 'v. 4.20' printed in the footer of pp1-4 (the older of the two 2022 blanks: 4-column Schedule A headed 'Address and Zip Code', five report types, foliated 'Date of Report / Page' 1-4). TWO MASTHEAD VINTAGES INSIDE ONE FILING (the \u00a7J5 modern-era instance of independently stocked sheets): pp1 and 3 are headed 'Josh Daniels Clerk/Auditor' while pp2 and 4 are headed 'Amelia Powers Gardner Clerk/Auditor' \u2014 the two Clerk/Auditors bracket this cycle, and note Powers Gardner is herself a 2022 Commission Seat A filer in this same corpus. REDACTION IS PER CELL, judged from the page: the cover's Address/City/State/Zip block and the Signature block are BLACKED OUT BY THE COUNTY, while the Phone Number and Email print in the clear (neither is carried into this record, per privacy); no schedule cell on this filing is redacted, and Schedule A is blank because the FILER ENTERED NOTHING, not because anything was obscured. Page-face candidate name 'Steven Diamond' on all five report pages; index.csv's channel label is 'Steven Diamond' too, so no divergence. The module's known note that the page-face name elsewhere reads 'Steven C ...' is not contradicted here \u2014 every name field on this document prints plainly 'Steven Diamond'. DO NOT let this filing's legible Seat A inform its 3/30/22 sibling, whose Office box the county redacted; that filing's office remains a low-confidence corroboration in the module, and nothing here promotes it."
+  }
+ }
 }

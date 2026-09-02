@@ -1,0 +1,262 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W02.json",
+ "key": "10da35dc",
+ "index_path": "raw/live_wp/2024-Tom-Durrant.pdf",
+ "applies_to": [
+  "raw/live_wp/2024-Tom-Durrant.pdf"
+ ],
+ "sha256_prefix": "250a82e7e95ae803",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "second-report-cover",
+  "5": "form-A",
+  "6": "form-B",
+  "7": "second-report-cover",
+  "8": "form-A",
+  "9": "form-B"
+ },
+ "n_reports_in_pdf": 3,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "640.20",
+    "cover_over50_cum": "640.20",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": "640.20"
+   },
+   "itemized": "640.20",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "BUNDLE of 3 reports; top-level recon is report 1 (pages 1-3, period 1/2/24-6/12/24). One row 640.20; p2's printed TOTAL CONTRIBUTIONS 640.20 equals BOTH the THIS and CUMULATIVE cover cells because this is the filer's first report of the 2024 cycle, so the two scopes coincide. Cover line 2 (aggregate $50 or less) is handwritten 0/0/0 and is never itemized."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "640.20",
+    "cover_expense_cum": "640.20",
+    "cover_balance_end": "0",
+    "schedule_total": "640.20"
+   },
+   "itemized": "640.20",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Report 1. One row 640.20 = p3's printed TOTAL EXPENDITURES 640.20 = cover line 3 THIS and CUMULATIVE (first report, scopes coincide)."
+  }
+ },
+ "recon_by_report": [
+  {
+   "report_no": 1,
+   "pages": "1-3",
+   "report_date": "2024-06-12",
+   "period": "1/2/24 - 6/12/24",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "0",
+     "cover_over50_this": "640.20",
+     "cover_over50_cum": "640.20",
+     "cover_le50_last": "0",
+     "cover_le50_this": "0",
+     "cover_le50_cum": "0",
+     "schedule_total": "640.20"
+    },
+    "itemized": "640.20",
+    "basis": "cover-line1-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "first report of the cycle: THIS == CUMULATIVE == schedule total == 640.20"
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "0",
+     "cover_expense_this": "640.20",
+     "cover_expense_cum": "640.20",
+     "cover_balance_end": "0",
+     "schedule_total": "640.20"
+    },
+    "itemized": "640.20",
+    "basis": "cover-line3-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "first report of the cycle: THIS == CUMULATIVE == schedule total == 640.20"
+   }
+  },
+  {
+   "report_no": 2,
+   "pages": "4-6",
+   "report_date": "2024-12-06",
+   "period": "10/16/2024 - 12/6/2024",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "675.75",
+     "cover_over50_this": "-",
+     "cover_over50_cum": "675.75",
+     "cover_le50_last": null,
+     "cover_le50_this": null,
+     "cover_le50_cum": null,
+     "schedule_total": "0"
+    },
+    "itemized": "",
+    "basis": "cover-line1-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "EMPTY SCHEDULE, honestly zero: p5's only inked ledger line is the word 'None' with the Excel accounting fill '$   -' and no date/amount, so no transaction exists to itemize; the printed TOTAL CONTRIBUTIONS cell carries a hand-drawn slashed-zero over the accounting dash (= 0 per the zero-glyph ruling). Cover THIS cell prints the Excel accounting dash (verbatim '-'), i.e. nothing raised this period; cumulative 675.75 is carried forward from report 3. This cover generation has NO $50-or-less line at all, so cover_le50_* are null (field absent), not zero."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "675.75",
+     "cover_expense_this": "-",
+     "cover_expense_cum": "675.75",
+     "cover_balance_end": "-",
+     "schedule_total": "0"
+    },
+    "itemized": "",
+    "basis": "cover-line3-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "EMPTY SCHEDULE, honestly zero: p6 carries only the word 'None' and the same slashed-zero in the printed TOTAL EXPENDITURES cell."
+   }
+  },
+  {
+   "report_no": 3,
+   "pages": "7-9",
+   "report_date": "2024-10-15",
+   "period": "6/12/2024 - 10/15/2024",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "640.20",
+     "cover_over50_this": "35.55",
+     "cover_over50_cum": "675.75",
+     "cover_le50_last": null,
+     "cover_le50_this": null,
+     "cover_le50_cum": null,
+     "schedule_total": "35.55"
+    },
+    "itemized": "35.55",
+    "basis": "cover-line1-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "One row 35.55 = p8's printed TOTAL CONTRIBUTIONS 35.55 = cover line 1 THIS REPORT (35.55). It does NOT equal the CUMULATIVE cell (675.75), so this schedule is genuinely PER-PERIOD - a different scope from the cumulative figure this module publishes."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "640.20",
+     "cover_expense_this": "35.55",
+     "cover_expense_cum": "675.75",
+     "cover_balance_end": "-",
+     "schedule_total": "35.55"
+    },
+    "itemized": "35.55",
+    "basis": "cover-line3-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "One row 35.55 = p9's printed TOTAL EXPENDITURES 35.55 = cover line 3 THIS REPORT; not the cumulative 675.75. PER-PERIOD."
+   }
+  }
+ ],
+ "gates": {
+  "page_subtotal": "p2 rows 640.20 = printed TOTAL CONTRIBUTIONS 640.20 (exact); p3 rows 640.20 = printed TOTAL EXPENDITURES 640.20 (exact); p5/p6 zero rows = printed totals slashed-zero (exact); p8 rows 35.55 = printed TOTAL CONTRIBUTIONS 35.55 (exact); p9 rows 35.55 = printed TOTAL EXPENDITURES 35.55 (exact). All five gates fired and closed.",
+  "row_count": "rowbands.py: p2 21 bands = 20 data + 1 TOTAL footer, 1 inked -> 1 row; p3 21 bands = 20 data + 1 TOTAL, 1 inked -> 1 row; p5 19 bands = 1 boxed header + 17 data + 1 TOTAL, only the 'None' word inked -> 0 rows; p8 19 bands (1 boxed header + 17 data + 1 TOTAL), 1 inked -> 1 row; p9 same, 1 inked -> 1 row.",
+  "geometry_proof": "p2: first(=last)-row amount crop at 600dpi renders '640.20', control one pitch below renders EMPTY. p3: renders '640.20', control EMPTY. p8: renders '$   35.55  N', control EMPTY. p9: renders '$   35.55', control EMPTY.",
+  "balance_chain": "Report 1: 0 + 640.20 - 640.20 = 0 = printed balance 0, closes. Report 3: 640.20 carried + 35.55 - 35.55, balance cell prints the accounting dash (0), closes. Report 2: no activity, balance dash, closes. CROSS-FILING CHAIN inside the bundle RUN AND CLOSES: report 1 CUMULATIVE 640.20 -> report 3 'Total LAST Report' 640.20; report 3 CUMULATIVE 675.75 -> report 2 'Total LAST Report' 675.75. This proves the covers are not swapped and that the PDF staples the three reports OUT of chronological order (pages 1-3 = 1st, pages 7-9 = 2nd, pages 4-6 = 3rd/final)."
+ },
+ "escalations": 4,
+ "escalation_note": "600 dpi amount-cell crops on p2, p3, p8, p9 (geometry proof + value re-read); 600 dpi crop of p5's TOTAL cell to resolve the slashed-zero glyph.",
+ "notes": "Chunk file says candidate 'Tom Durrant', office 'Assessor', n_reports 3 - all three CONFIRMED at the pages ('Candidate for Office Of: Assessor' on every cover; n_reports_in_pdf = 3 as seen). TWO FORM GENERATIONS INSIDE ONE PDF: pages 1-3 are the 'WASHINGTON COUNTY / UTAH' county-branded form (handwritten cover, 4 cover lines incl. the $50-or-less aggregate); pages 4-9 are the newer \"AMERICA'S COUNTY\" county-branded form (typed cover, only 3 cover lines - the $50-or-less line was DROPPED from this generation, so cover_le50_* are null there, meaning the field does not exist, NOT zero). Reports are stapled out of chronological order. The row on report 1's Form A and report 3's Form A is the candidate contributing to himself; the matching Form B row is the county filing fee / FedEx. Report 3's dates are printed '13-Jun' with NO YEAR - left BLANK per the no-year rule with the verbatim in the row note, never back-filled from the report period. Privacy: page 1's cover prints the candidate's email and home phone in the clear - discarded at read time and written nowhere.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "donor_raw": "Tom Durrant",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "640.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.20,25.91,16.86,3.09@p2",
+   "note": "typed row; In Kind? column answered 'N'; the filer left the Mailing Address cell empty (honest blank, not a redaction)"
+  },
+  {
+   "line_no": "1",
+   "report_no": 3,
+   "date": "",
+   "donor_raw": "Tom Durrant",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "35.55",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.20,35.66,17.00,3.11@p8",
+   "note": "date cell reads verbatim '13-Jun' with NO YEAR printed - left blank per the no-year rule; the report period is 6/12/2024-10/15/2024 but the year is NOT filled in from it. In Kind? answered 'N'; address cell left empty by the filer"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Washington County",
+   "purpose": "Filing Fee",
+   "amount": "640.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.20,25.93,25.70,3.12@p3",
+   "note": "typed row"
+  },
+  {
+   "line_no": "1",
+   "report_no": 3,
+   "date": "",
+   "vendor_raw": "FedEx Office",
+   "purpose": "Overnight Mail",
+   "amount": "35.55",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.20,35.68,25.60,3.11@p9",
+   "note": "date cell reads verbatim '13-Jun' with NO YEAR printed - left blank per the no-year rule"
+  }
+ ]
+}

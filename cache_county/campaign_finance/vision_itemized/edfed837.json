@@ -1,0 +1,82 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C09.json",
+ "key": "edfed837",
+ "index_path": "raw/2014/2014_cc_Lemon_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Lemon_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "a4f978dfd6c25e5d",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": ".00",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": ".00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "p2 Form A is entirely blank at 200 dpi (the faint marks are reverse-side bleed-through, identical in pattern to the other blank Carr scans in this chunk). The filer filled ONLY the CUMULATIVE column, writing '.00' on all four lines; the LAST-REPORT and THIS-REPORT columns are left blank on every line. Rows sum 0.00 and cover line 1 cumulative is .00 -> exact. Scope is cumulative because the cumulative cell is the only printed figure on the line. The Carr form prints no schedule total."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": ".00",
+    "cover_balance_end": ".00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "p3 Form B is entirely blank at 200 dpi. Cover line 3 cumulative reads '.00' -> exact against zero rows."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "The Carr form prints no page subtotal and no schedule total on either p2 or p3; the cover's own lines are the only anchors, and both close.",
+  "row_count": "Not run against a grid: neither p2 nor p3 carries any filer ink, so there is no row to score. Verified by reading both pages full-page at 200 dpi.",
+  "geometry_proof": "Not applicable — zero rows emitted on both sides.",
+  "balance_chain": "Closes trivially: 0 + 0 - 0 = 0, and cover line 4 cumulative reads '.00'. A genuine nil report."
+ },
+ "escalations": 1,
+ "escalation_note": "600 dpi crop of the CUMULATIVE column, lines 1-4 (x=3350 y=3720 W=1400 H=1750). All four cells render as a decimal point followed by two hand-drawn zeros — '.00' — with nothing to the left of the point. This confirms the value is zero dollars and zero cents, not a truncated figure.",
+ "notes": "index.csv says candidate=Lemon, office='County Executive', 2014. THE FORM SAYS MORE THAN THE INDEX: 'Name of Office: EXECUTIVE/SURVEYOR' — the filer named TWO offices on one line. The printed word 'Candidate' on the name line is struck through and replaced with the handwritten annotation 'OFFICE HOLDER', and the name line reads 'M. LYNN LEMON'; Political Party REPUBLICAN; dated 11/18/14; clerk stamp RCVD 18 NOV 2014. IN SCOPE (county office(s)). Recording the office line verbatim rather than accepting the index's narrower 'County Executive'. Candidate street address, ZIP and both phone numbers appear in the clear and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

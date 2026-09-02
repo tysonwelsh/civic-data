@@ -1,0 +1,109 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W10.json",
+ "key": "a6d75ffc",
+ "index_path": "raw/state_disclosures/washington_2010 Elections_brock belnap 4-7-10.pdf",
+ "applies_to": [
+  "raw/state_disclosures/washington_2010 Elections_brock belnap 4-7-10.pdf"
+ ],
+ "sha256_prefix": "0582e0d17d257701",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr-5-5-PG-ruled",
+  "expenditures": "carr-5-5-PG-ruled"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "-0-",
+    "cover_over50_this": "500 00",
+    "cover_over50_cum": "500 00",
+    "cover_le50_this": "-0-",
+    "cover_le50_cum": "-0-",
+    "schedule_total": null
+   },
+   "itemized": "500.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "schedule_total is null because this form generation PRINTS NO schedule total - the cover is the only anchor, exactly as the county addendum warns. The single Form A row (500.00) equals cover line 1 THIS (500 00) and CUMULATIVE (500 00); line 1 LAST is '-0-', so this is the first report of the cycle and the two scopes coincide - recorded cumulative. Cover line 2 (the $50-or-less aggregate) reads '-0-' in all three columns, so there is no unitemized small-donor residue and line 1 alone is the right anchor."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "-0-",
+    "cover_expense_this": "500 00",
+    "cover_expense_cum": "500.00",
+    "schedule_total": null
+   },
+   "itemized": "500.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "No printed schedule total on this generation. The single Form B row (500.00) equals cover line 3 THIS (500 00) and CUMULATIVE (500.00); LAST is '-0-', first report of the cycle, scopes coincide."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No page/schedule subtotal exists to gate against on EITHER schedule - this generation prints none (addendum A). Both sides were gated on the cover line instead: p2 rows 500.00 = cover line 1 (500 00 THIS = 500 00 CUM); p3 rows 500.00 = cover line 3 (500 00 THIS = 500.00 CUM). Both close exactly.",
+  "row_count": "rowbands.py p2: 36 bands, no vertical rules found (this generation rules each column separately rather than boxing a grid), so bands are the writing lines. Ink counted on the 200 dpi page: exactly 1 written row on p2 and 1 on p3, on the first writing line under the header; every other line is empty (two stray specks in the p2/p3 body carry no glyphs). 1 row emitted per side.",
+  "geometry_proof": "p2: crop pct:80.20,8.90,10.00,1.90 renders the row-1 amount ('500 ...' with the date tail at its left edge); control one pitch below (y 11.20%) renders an empty ruled line. p3: crop pct:79.18,8.90,10.00,1.90 renders the row-1 amount; control one pitch below renders empty. Both pass.",
+  "balance_chain": "⚠ THE COVER'S OWN BALANCE LINE DOES NOT CLOSE, and the residual is the FILER's arithmetic, retained verbatim. Cover line 4 reads '-0-' LAST, '500 00' THIS, '500.00' CUMULATIVE. But contributions 500.00 minus expenses 500.00 = 0, so the balance at the end of the period should be 0, not 500.00: the filer appears to have carried the contributions figure down instead of computing the difference. Both figures are kept as printed; nothing was recomputed or overwritten. This does not affect either schedule's reconciliation, both of which close exactly against lines 1 and 3."
+ },
+ "escalations": 7,
+ "escalation_note": "500-600 dpi crops: cover money-grid line 1, cover money-grid lines 2-4, p2 date+name band, p2 address+amount band, p3 date+payee band, p3 purpose+amount band, plus the two geometry-proof/control pairs.",
+ "notes": "index.csv/chunk call this Brock R. Belnap, Attorney, 2010. The form's 'Name of Office' line reads 'County Attorney' - a county office, IN SCOPE; agrees. 'Political Party: Republican'; addressed 'TO Washington County Clerk'; Date/Signed April 7, 2010; a RECEIVED APR 7 2010 WASHINGTON COUNTY CLERK-AUDITOR stamp on the cover. Same filer as chunk document a3e7c633 (Belnap, 2018) but a DIFFERENT cycle, so no cross-filing cumulative chain is available between the two. Privacy: the cover prints the candidate's street address, ZIP, home and business phone in the clear, and Form A's address cell holds his full street address - ALL discarded at read time; only 'St George' / 'Ut' were kept from the Form A cell. Both amounts are written dollars-space-cents ('500 00') with no decimal point; the cover writes the same figure both ways ('500 00' on line 1, '500.00' on lines 3-4 cumulative), which settles the reading as 500.00.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-03-12",
+   "donor_raw": "Brock Belnap",
+   "donor_city": "St George",
+   "donor_state": "Ut",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.20,8.90,10.00,1.90@p2",
+   "note": "Date written '3/12/10'. Donor is the candidate himself (self-contribution). Amount written '500 00' (dollars, space, cents; no decimal point) - read as 500.00, the same figure the cover writes as '500.00'. The address cell holds a full street address plus city/state/ZIP; street and ZIP discarded at read time, city 'St George' and state 'Ut' kept verbatim as written ('Ut' lower-case on the form). This generation has NO in-kind column, so in_kind is false by absence of the field."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-03-12",
+   "vendor_raw": "Washington County",
+   "purpose": "Filing Fee",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:79.18,8.90,10.00,1.90@p3",
+   "note": "Date written '3/12/10'. Amount written '500 00' preceded by a small hand-drawn mark (a '$' or tick) in the amount cell - read as 500.00. This generation has NO in-kind column."
+  }
+ ]
+}

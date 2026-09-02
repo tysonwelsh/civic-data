@@ -3,7 +3,10 @@
  "key": "0989f448",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:36:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,68 @@
    "notes": "Handwritten. The party field is written abbreviated as 'Rep.' and is transcribed verbatim (not expanded to Republican). The Street Address line on the cover is EMPTY - the filer or the county left it blank; only the city (Orem), state and ZIP are filled. Phone and fax cells are also blank. Lines 2 Column A and 6 are plain hand-drawn zeros. Line 2 Column B (288.37) has a compressed double-8 and is recorded at medium confidence. Summary page header reads 'Page 2 of 4'."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "9-7-10",
+   "donor_raw": "Utah County Republican Party",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "400.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.45,17.89,9.54,3.82@p3",
+   "geometry_frame": "p3 axis=y cell=81.45-90.99 rowband=17.89-21.71 (1 of 1 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the Mailing Address cell prints ONLY 'Provo, UT' \u2014 the filer wrote no street address and the county redacted nothing here, so city/state are the whole cell. Cents written as '00' after a raised mid-line period ('400.00')."
+  }
+ ],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah)",
+   "transcribed_date": "2026-08-18",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (400.00) on the p2 Summary Page, which is also Schedule A's own printed 'Subtotal for this page' (400.00) and its printed 'Total Contributions Received' (400.00)",
+     "detail": "The single Schedule A row sums to 400.00 = the schedule's printed page subtotal (400.00) = the schedule's printed Total Contributions Received (400.00) = the cover's PROMOTED per-period cell Column A (400.00). Column B 'Year-to-Date Total' prints 900.00 and is NOT summed as an increment (utah is a per-period regime); the 500.00 difference is prior-period money this period-scoped schedule never itemizes."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE ('0') on the p2 Summary Page, matching Schedule B's own printed 'Subtotal for this page' ('0') and 'Total Expenditures Received' ('0')",
+     "detail": "Schedule B (p4) is a printed, retained page whose 16 underline rows are ALL BLANK; the filer wrote a handwritten '0' on both the page subtotal and the Total Expenditures Received line, and the p2 Summary line 2 Column A likewise prints '0'. Zero itemized rows against a printed zero \u2014 a real absence of entries, not an unread page. Column B YTD expenditures print 288.37 and are never summed as an increment."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 the legacy_colAB Schedule A/B on this filing prints no in-kind column and no row is annotated in-kind, so monetary-only and monetary-plus-in-kind give the identical sum (400.00) and both close on Column A",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 1,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "PAGE-FACE CANDIDATE: 'Jeffrey R. Buhman' \u2014 index.csv names NO candidate for this row (the 2008-2018 county_static listing grouped by office); the page face governs. Party printed 'Rep.' (verbatim, not expanded); residence city Orem, UT. legacy_colAB variant, 4 pages, each classified from its own printed header: p1 COVER ('2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES', Office Seeking hand-written 'County Attorney', type 'Seven days preceding the General Election' checked, amendment = No, signed 10-26-10, clerk date-stamp OCT 26 AM 8:25), p2 SUMMARY PAGE (located by its printed 'SUMMARY PAGE' header, and it is at the expected p2 ordinal for this variant), p3 SCHEDULE A, p4 SCHEDULE B. Both sides close on the promoted per-period Column A. SCHEDULE B IS AN EMPTY SCHEDULE, NOT AN UNREAD ONE: the page is present and printed, all 16 underline rows are blank, and the filer entered a handwritten '0' on both the 'Subtotal for this page' and 'Total Expenditures Received' lines \u2014 a typed/written zero numeral, read as 0 under the zero-glyph ruling, not a bare dash. The p2 balance ladder closes on its own terms: line 3 (211.63) + line 4 (400.00) = line 5 subtotal (611.63); line 5 - line 6 ('0') = line 7 close (611.63). This is the LATER of two Buhman 2010 filings in this chunk (the other is 1c604c81, 06-04-10); the two were transcribed strictly independently and no figure was differenced across covers."
+  }
+ }
 }

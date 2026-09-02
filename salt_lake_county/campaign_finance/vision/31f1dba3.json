@@ -1,0 +1,88 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "gregory Beglarian",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": "Small Budget Campaign Certificate (County and Local School Board Candidates)",
+  "is_amendment": null,
+  "amendment_of": "",
+  "report_date": "2026-03-30",
+  "form_year": null
+ },
+ "confidence": {},
+ "_meta": {
+  "index_path": "raw/easyvote/Beglarian-gregory__83DB3D73.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Beglarian, gregory",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Beglarian-gregory__83DB3D73.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Single-page Salt Lake County Clerk 'Small Budget Campaign Certificate' signed 03/30/26; attests the committee does not expect to exceed $2,000.00 aggregate contributions or $2,000.00 aggregate expenditures; carries NO figures, NO Summary Page, NO schedules. The certificate has NO office line (its title 'County and Local School Board Candidates' is generic) so the \u00a72 school-board screen cannot trigger on it; index labels him County Council At-Large A - flagged, not relabeled. EasyVote doc_name 'finances' does not describe the document - flagged, not relabeled. All totals null = fields do not exist in this document (never 0).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Summary Page and no Schedule A page exist in the document; the certificate carries NO figures at all"
+    },
+    "expenditures": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Summary Page and no Schedule B page exist in the document; the certificate carries NO figures at all"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages exist; no subtotal gates to fire",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Single-page Salt Lake County Clerk 'Small Budget Campaign Certificate' signed 03/30/26; attests the committee does not expect to exceed $2,000.00 aggregate contributions or $2,000.00 aggregate expenditures; carries NO figures, NO Summary Page, NO schedules. The certificate has NO office line (its title 'County and Local School Board Candidates' is generic) so the \u00a72 school-board screen cannot trigger on it; index labels him County Council At-Large A - flagged, not relabeled. EasyVote doc_name 'finances' does not describe the document - flagged, not relabeled. All totals null = fields do not exist in this document (never 0)."
+  }
+ }
+}

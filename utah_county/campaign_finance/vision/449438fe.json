@@ -3,7 +3,10 @@
  "key": "449438fe",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:12:00Z",
- "pages_read": [1, 6],
+ "pages_read": [
+  1,
+  6
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 12.23",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,99 @@
    "notes": "Handwritten on the printed v. 12.23 form; handwriting is crisp. Office field reads exactly 'Treasurer' (index.csv says 'County Treasurer' - a naming-convention difference, not a conflict). The form prints no political-party field. This filing is NOT redacted: the address block is fully legible (city Provo, UT 84604); only the city is recorded here per package privacy rules. Box A is written as a dollar sign, a zero, then a raised double-o cents glyph ('$0.oo') - read as 0.00 at medium confidence; the Balance at Close box is written the same way and is clearly $0.00. Amounts B-F carry the filer's dollar signs and comma thousands separators, transcribed without the leading $. A red clerk date stamp 'OCT 28 2024' with a blue received mark sits over the Type-of-Report block (clerk markup, not filer content). The PDF has 6 pages but the summary page's own footer numbers it 'Page 4' - the filer's page numbering does not match the scanned PDF pagination."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "12/28/2023",
+   "donor_raw": "Kim Jackson (Loan)",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "1375.74",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.21,15.98,13.79,4.57@p3",
+   "geometry_frame": "p3 axis=y cell=80.21-94.00 rowband=15.98-20.55 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The candidate's OWN money, annotated '(Loan)' by the filer inside the Name of Contributor cell \u2014 the parenthetical is kept verbatim as part of the name as written. Published as a contribution row because the page's ladder requires it (\u00a7B3), not because of the wording: Box A prints $0.00 and Box B repeats this row's 1,375.74. Dated 12/28/2023, in the calendar year before the cycle. Address cell prints ONLY 'Provo UT 84604' \u2014 the filer wrote a city, state and zip and NO street at all, so the privacy reduction is a no-op here and city/state come straight off the page (distinct from redacted-by-the-county and from left-empty). Amount written '$1,375.' with the cents '74' RAISED above the line (\u00a77 raised-cents rule)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "1/2/2024",
+   "vendor_raw": "Utah County",
+   "purpose": "Candidate Filing Fee",
+   "amount": "712.74",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.05,16.00,13.65,4.59@p5",
+   "geometry_frame": "p5 axis=y cell=80.05-93.70 rowband=16.00-20.59 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Written '$ 712.' with RAISED cents '74'. The raised pair was escalated to 900 dpi and is confirmed by the side's UNIQUE arithmetic closure (1,375.74 - 663.00 = 712.74). Recorded as a fee OBSERVATION only \u2014 2024, page-face office 'Treasurer' \u2014 and never used to corroborate anything (\u00a7E1/\u00a7F5/\u00a7L3); note it differs from the 712.25 other 2024 filings print, which is the point of that prohibition."
+  },
+  {
+   "line_no": "2",
+   "date": "6/15/2024",
+   "vendor_raw": "BCR Political, LLC",
+   "purpose": "Campaign Expenses",
+   "amount": "663.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.05,20.59,13.65,4.59@p5",
+   "geometry_frame": "p5 axis=y cell=80.05-93.70 rowband=20.59-25.18 (2 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Written '663.' with the cents as two RAISED ovals '00'. Purpose is the filer's own generic caption 'Campaign Expenses'; kept verbatim, nothing itemised behind it."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah r13_02)",
+   "transcribed_date": "2026-08-20",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "5",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' ($1,375.74, cents written raised) on the p6 Summary Page, equal to Schedule A's own printed 'Subtotal for this page $ 1,375.74' AND its 'Total Contributions Received / Sum of all Schedule A pages in this report $ 1,375.74' (p3)",
+     "detail": "The single Schedule A row is 1,375.74, which is by itself the schedule's printed page subtotal, the schedule's printed grand total, and the promoted PER-PERIOD cell Box B \u2014 three printed anchors, all agreeing to the cent. Box C 'Contributions Received Year to Date' also prints 1,375.74 (this is the filer's only report in the corpus for the cycle) and is NOT summed as an increment. LOAN LADDER (\u00a7B3): the sole row is the candidate's own money, labelled by the filer '(Loan)' in the name cell. It is a CONTRIBUTION row here, because the cover books Box A 'Balance at Beginning' at $0.00, leaving no beginning-balance slot, and Box B repeats the schedule's own 1,375.74 subtotal that consists of nothing else. The ladder closes: F = A + B = 0 + 1,375.74 = 1,375.74 and close = F - D = 1,375.74 - 1,375.74 = $0.00, exactly as printed. Classified by the ladder, never by the word 'loan'."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' ($1,375.74) on the p6 Summary Page, equal to Schedule B's own printed 'Subtotal for this page $ 1,375.74' AND its 'Total Expenditures Made / Sum of all Schedule B pages in this report $ 1,375.74' (p5)",
+     "detail": "2 Schedule B rows sum to 712.74 + 663.00 = 1,375.74 exactly = the printed page subtotal = the printed grand total = the promoted PER-PERIOD cell Box D. Box E YTD also prints 1,375.74 and is never summed as an increment. THE CLOSURE IS UNIQUE AND IT SETTLED A DIGIT: the filing fee cell renders as 712 with RAISED cents, and 1,375.74 - 663.00 = 712.74 admits no other reading, so the raised pair is '74' and not the '25' that other 2024 filings print for their own fees. This is precisely why \u00a7E1/\u00a7L3 forbid using the fee as a corroboration signal \u2014 a fee-constant 'correction' to 712.25 would have broken a page that closes exactly, the \u00a7J6 precedent."
+    }
+   },
+   "in_kind_convention": "monetary-only, and no other convention is available: this filing's schedules are the FOUR-column v. 12.23 sheets (Date / Name of Contributor / Address and Zip Code / Amount on Schedule A; Date / Provider-Vendor / Purpose / Amount on Schedule B) with NO in-kind checkbox column and no in-kind line anywhere on the form, and no row carries an in-kind annotation. Both conventions therefore give the same sums and both close at 1,375.74 / 1,375.74. Tested per \u00a7G1, not inherited from the two sibling Jackson documents in this chunk.",
+   "escalations": 5,
+   "escalation_note": "Five 900 dpi tight --value crops: every transcribed row on both sides (there are only three) plus a one-band-past control on each schedule page. The p5 row-1 crop was the substantive escalation \u2014 it resolved the RAISED cents on the filing fee as '74', which the side's unique arithmetic closure then confirmed (arithmetic outranks glyph reading, GOTCHAS). Nothing was changed.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 2,
+   "geometry": {
+    "measured": 3,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "MEMBER 1 OF THE KIM JACKSON THREE-DOCUMENT CLUSTER (449438fe / 713ed444 / ad8dc826), transcribed INDEPENDENTLY of the other two \u2014 nothing merged, netted or differenced. PAGE-FACE identity: handwritten 'Kim Jackson', Office box reads exactly 'Treasurer' (index.csv says 'County Treasurer' \u2014 a naming convention, not a conflict). Report type ticked 'Seven days preceding the General Election'; amendment ticked 'No'; signature present and NOT redacted; signature date and Date of Report both 10/28/2024; clerk RECEIVED stamp OCT 28 2024 on the cover and again across the p5 grid. \u26a0 THIS COPY IS PUBLISHED UNREDACTED \u2014 the filename carries no '_Redacted' suffix AND the page bears no redaction bar anywhere: the candidate's own street address, phone number and signature are all in the clear on the cover. PRIVACY WAS APPLIED AT READ TIME REGARDLESS: no street address and no phone number is carried into this record, not in a field and not in a note, per CHUNK_BRIEF \u00a77 and the module's standing rule for the county's unredacted 2024 postings. It also confirms \u00a7I1's 'a filename is not evidence of redaction' in the positive direction: channel is state_municipal, and the state system served the un-blacked original. DOCUMENT SHAPE: a 6-page PDF that is a FOUR-SHEET filing duplex-scanned \u2014 p2 and p4 are genuinely blank versos (\u00a7J3), each returning zero rules at -2.0 skew and rendering wholly white at 200 dpi, and the filer's own foliation runs 1 (cover) / 2 (Schedule A, PDF p3) / 3 (Schedule B, PDF p5) / 4 (Summary, PDF p6). So pdfinfo's page count is NOT the filing's length, and no page is missing. NO CHECKLIST DECOY is bound. FORM: modern_boxAF, footer 'v. 12.23' on all four report sheets, masthead 'Aaron Davidson / Clerk', schedules in the FOUR-column \u00a7M2 layout (no city-and-state column, no in-kind checkbox), Schedule B with a real Purpose column, Summary printing A / B-C / D-E / F and an UNLETTERED close box, located by content on the LAST page. Entirely HANDWRITTEN on the printed blank, in a crisp hand; the filer writes cents RAISED throughout (1,375.74 / 712.74 / 663.00 / 0.00). Both sides close EXACTLY on the promoted per-period figures, with all three printed anchors agreeing per side."
+  }
+ }
 }

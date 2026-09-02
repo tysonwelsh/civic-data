@@ -1,0 +1,98 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C15.json",
+ "key": "10254345",
+ "index_path": "raw/2020/2020_cc_Erica_Abbott.pdf",
+ "applies_to": [
+  "raw/2020/2020_cc_Erica_Abbott.pdf",
+  "raw/2020/2020_st_Abbott_summary.pdf"
+ ],
+ "sha256_prefix": "39802b39224cc291",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr-5-5-pg-form-A",
+  "expenditures": "carr-5-5-pg-form-B"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "cover_balance_end": "112.75",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is entirely BLANK - a real zero, not a gap. Every mark on that page is show-through/bleed from the reverse of the sheet (the page-4 statute text ghosts through in mirror-blurred form); no ruled line carries pen ink in any column. Cover line 1 reads a slashed-Ø zero glyph in ALL THREE columns, and line 2 (the never-itemized $50-or-less aggregate) is likewise Ø in all three, so there is no small-donor aggregate hiding an unitemized amount. Zero rows == cover line 1 THIS (0) == CUMULATIVE (0); the two scopes coincide (this is the filer's only report of the cycle - the LAST-REPORT column is 0 throughout), so scope is recorded cumulative. The Carr form prints NO schedule total on Form A, so the cover line is the only anchor, as the addendum states."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "112.75",
+    "cover_expense_cum": "112.75",
+    "cover_balance_end": "112.75",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "112.75",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One row, 112.75, equals cover line 3 in BOTH the THIS and the CUMULATIVE column (they are equal - first and only report of the cycle, LAST-REPORT column 0), so the two scopes coincide and scope is recorded cumulative. The Carr Form B prints no schedule total; the cover line is the only anchor."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "neither Carr schedule prints a subtotal or a total; p3 row sum 112.75 = cover line 3 (112.75 THIS and CUMULATIVE); p2 row sum 0 = cover line 1 (Ø).",
+  "row_count": "p3 rowbands.py --dpi 200 returns geometry_status 'gaps' with only 6 bands - the scan is a low-contrast fax-grade image whose ~40 writing rules are mostly not detected, so the tool is NOT usable as the row oracle here (consistent with the standing [DEBT] on it). Counted by ink instead: exactly one inked writing line on p3 (the topmost), one row emitted; zero inked lines on p2, zero rows emitted.",
+  "geometry_proof": "p3 first-row box (pct:82.29,9.85,13.71,2.58) crops to '$112.75'; it is also the LAST row (single-row side); control one row-pitch below (y 12.42) renders EMPTY (one bare rule plus scanner speckle, no ink).",
+  "balance_chain": "DOES NOT CLOSE, and the discrepancy is the FILER's arithmetic, retained verbatim: 0 (beginning) + 0 (contributions) - 112.75 (expenditures) = -112.75, but the filer wrote 112.75 in cover line 4 (balance at end of period) in both the THIS and the CUMULATIVE column - i.e. he entered the expenditure figure unsigned in the balance line. Nothing recomputed or overwritten. No earlier filing by this filer exists in this chunk to chain a prior CUMULATIVE column against."
+ },
+ "escalations": 2,
+ "escalation_note": "p3 amount cell at 1200 dpi (confirms $112.75, cramped cents group) plus the empty control crop one pitch below it.",
+ "notes": "Chunk file and form AGREE: index candidate 'Erica Abbott' = the form's 'Full Name of Candidate: Erica Abbott'; index office 'County Council' = the form's 'Name of Office: County Council', Office District 'Logan 2', Political Party 'Democratic Party'. IN SCOPE (county office, not school board / municipal). Addressed TO 'Cache' County Clerk; dated Dec. 02 2020; clerk date-stamp 'CLERK-DEC 2 '20 PM 4:58:23'. || The candidate's street address, apartment number, ZIP and two phone numbers are printed in the clear on the cover and were discarded at read time. || The two pages of bleed-through ghosting on p2/p3 are a scan artefact of this batch, not filer ink - stated explicitly so a later reader does not mistake the ghost text for uncaptured rows.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-12",
+   "vendor_raw": "Cache County",
+   "purpose": "Filing Fee",
+   "amount": "112.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.29,9.85,13.71,2.58",
+   "note": "date written '3-12-20' with hyphens and a two-digit year; amount written '$112.75' with a clear decimal point"
+  }
+ ]
+}

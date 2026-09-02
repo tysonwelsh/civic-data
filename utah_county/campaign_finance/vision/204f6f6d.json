@@ -3,7 +3,10 @@
  "key": "204f6f6d",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:46:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,52 @@
    "notes": "Typed fillable form, scanned lightly. OFFICE: the Office box literally contains the word 'same' - a filer non-answer that names no office; transcribed verbatim. index.csv carries 'County Commission Seat A', which the page face does NOT corroborate. Boxes A, B, D, F and G all carry a typed '0' (real written zeros, not blanks). Address printed in full (775 W. Center St, Orem, UT 84057) with a wet-ink signature - nothing redacted on this filing. Amendment 'No' is checked; Date and Date of Filing both 11/21/22."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah, chunk r12_03)",
+   "transcribed_date": "2026-08-20",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' = 0 on the p4 Summary Page, which equals Schedule A's own printed 'Subtotal for this page $ 0' and 'Total Contributions Received (Sum of all Schedule A Pages in this report) $ 0'",
+     "detail": "ZERO rows: the p2 Schedule A grid is a boxed 15-row grid with every Amount cell empty and every In-Kind checkbox unticked (crop-proved, see notes). The only mark inside the grid is the typed banner 'none since last report' in the Name-of-Contributor cell of printed row 1 \u2014 an annotation, not an entry, so it publishes no row. 0 = the printed page subtotal 0 = the printed Total Contributions Received 0 = the promoted per-period Box B 0. Box C 'Contributions Received Year to Date' prints 2662.90 and is CUMULATIVE \u2014 never summed as an increment (utah is a per-period regime)."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' = 0 on the p4 Summary Page, which equals Schedule B's own printed 'Subtotal for this page $ 0' and 'Total Expenditures Made (Sum of all Schedule B Pages in this report) $ 0'",
+     "detail": "ZERO rows: the p3 Schedule B grid is a boxed 15-row grid with every Amount cell empty and every In-Kind checkbox unticked (crop-proved). The typed banner 'none since last report' sits in the Provider/Vendor cell of printed row 1 and is an annotation, not an entry. 0 = printed page subtotal 0 = printed Total Expenditures Made 0 = the promoted per-period Box D 0. Box E YTD prints 2662.90 and is cumulative, never summed."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 no rows exist on either side, so the monetary-only and monetary-plus-in-kind conventions give the same sum (0) and both close on the printed zeros. The form DOES carry a per-row In-Kind checkbox column (the newer 2022 blank); all 30 checkboxes across the two grids are unticked, crop-verified with the Amount and In-Kind cells cropped TOGETHER as one block per J1.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Tom Tomeny, 2022 cycle, '30 Days after the General Election' (report type radio filled on p1; amendment question answered 'No'); signed and filed 11/21/22. modern_boxAF, and specifically the NEWER UNVERSIONED 2022 BLANK described in ADDENDUM J1 \u2014 verified on the page: Schedule A columns are Date / Name of Contributor / CITY AND STATE / Amount / IN-KIND checkbox; Schedule B columns are Date / Provider/Vendor / PURPOSE / Amount / IN-KIND checkbox (a real Purpose column); the close box is LETTERED 'G'; the cover offers SIX report types including 'End-of-Year Report'; and the cover's date fields are 'Date' + 'Date of Filing' (no Page/of foliation anywhere \u2014 this filing is UNFOLIATED). No version string is printed in the footer (the footer band is a degraded grey smear on every page; nothing legible at 200 dpi). pdfinfo: 4 pages, all letter, ALL /Rotate 0. Page kinds located BY CONTENT from their own printed headings: p1 cover, p2 'Schedule A - Itemized Contributions Received', p3 'Schedule B - Itemized Expenditures Made', p4 'Summary Page'. NO CHECKLIST DECOY is bound in this filing. BOTH SIDES ARE empty-schedule, not withheld and not no-schedule-page: both schedule pages exist and the filer entered nothing on them but a typed 'none since last report' banner. GHOST/SHOW-THROUGH SCREEN (K4): a single 400 dpi crop per schedule covering the whole Amount+In-Kind block (pct:72,14,21,66@p2 and @p3) rendered 15 empty amount cells and 15 empty checkboxes on each page, with the printed '$ 0' subtotal visible below the grid \u2014 no faint entries, no bleed-through. OFFICE: the page's Office box contains the single word 'same' \u2014 a filer non-answer that names no office and no seat; index.csv's 'County Commission Seat A' is the CHANNEL label and the page face does not corroborate it. Nothing inferred. PRIVACY: the filer's own street address is printed on the cover and is deliberately not carried anywhere in this record; no donor addresses exist to reduce."
+  }
+ }
 }

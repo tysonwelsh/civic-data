@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C09.json",
+ "key": "e28d9c82",
+ "index_path": "raw/2014/2014_cc_Jeppesen_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Jeppesen_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "64c381d9385ce19f",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page exists in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "1-page PDF: the Carr cover only, and EVERY ONE of its twelve money cells is left blank (verified at 200 dpi — blank, not a zero glyph; per the zero-glyph ruling an empty cell stays BLANK and is never 0). Form A is not present in the document. Anchors are '' (the field exists, the filer left it empty), never 0."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "",
+    "cover_balance_end": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page exists in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form B is not present in the document and all cover expense/balance cells are blank."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No schedule pages exist in this document; the Carr form prints no schedule total in any case.",
+  "row_count": "Not applicable — no ruled schedule page in the document.",
+  "geometry_proof": "Not applicable — zero rows emitted.",
+  "balance_chain": "Not runnable: every cover money cell is blank, so there is no beginning balance, no contribution figure, no expense figure and no ending balance to chain. Writing zeros here would be fabrication."
+ },
+ "escalations": 0,
+ "escalation_note": "",
+ "notes": "index.csv says candidate=Jeppesen, office=Treasurer, 2014. THE DOCUMENT PARTLY CONTRADICTS THIS. The cover's 'Name of Office' line is BLANK — a large hand-drawn 'N / A' is struck diagonally across the Name of Office, Office District and Political Party lines together. The only office evidence written in the form is an annotation above the name line, where the printed word 'Candidate' is struck through: 'Incumbent Treasurer', followed by 'Full Name of Candidate: Karen A. Jeppesen'. Signed 'Karen A. Jeppesen', dated 'Dec 3, 2014', clerk stamp RCVD 03 DEC 2014. This is one of the county's known BLANK-OFFICE-LINE filings (cache addendum D) and reads as a nil report by a sitting County Treasurer who was not a candidate. Kept IN SCOPE (county office, filed with the Cache County Clerk under County Code 2.21), with the office line quoted verbatim above rather than relabelled. Also a COVER-ONLY document (pdfinfo Pages: 1) — pages 2-4 of the printed form are absent. Candidate street address and ZIP appear in the clear and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

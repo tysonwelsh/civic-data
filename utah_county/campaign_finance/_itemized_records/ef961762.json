@@ -1,0 +1,983 @@
+[
+ {
+  "index_path": "raw/2022/2022_Balderree_Heidi_4.2.22_Redacted.pdf",
+  "key": "ef961762",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r9_02)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14
+  ],
+  "itemized_pages_A": "3,5",
+  "itemized_pages_B": "7,9",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Box B 'Contributions Received this Period' ($3,709.09) on the p11 SUMMARY PAGE, which equals Schedule A's own printed 'Total Contributions Received - Sum of all Schedule A pages in this report' ($3,709.09), printed on both Schedule A sheets",
+    "detail": "TWO Schedule A sheets, each gated on its OWN printed 'Subtotal for this page' first. Sheet 1 (p3, 15 rows) sums to 100.00 + 104.10 + 25.00 + 104.10 + 1000.00 + 50.00 + 520.51 + 104.10 + 1041.02 + 52.05 + 100.00 + 100.00 + 104.10 + 100.00 + 26.03 = 3,531.01 = its printed subtotal $3,531.01 exactly. Sheet 2 (p5, 3 rows) sums to 52.05 + 26.03 + 100.00 = 178.08 = its printed subtotal $178.08 exactly. 3,531.01 + 178.08 = 3,709.09 = the printed sum-of-all-pages total AND the promoted PER-PERIOD cell Box B. Box C 'Contributions Received Year to Date' also prints $3,709.09 (this is the cycle's first report, so period == year-to-date) and is never summed as an increment. Both in-kind conventions were tested and are identical: no row is marked in-kind and the v. 4.20 form prints no in-kind line."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Box D 'Expenditures Made this Period' ($2,723.47) on the p11 SUMMARY PAGE, which equals Schedule B's own printed 'Total Expenditures Made - Sum of all Schedule B pages in this report' ($2,723.47), printed on both Schedule B sheets",
+    "detail": "TWO Schedule B sheets, each gated on its own printed page subtotal. Sheet 1 (p7, 15 rows) sums to 711.69 + 30.00 + 12.17 + 345.39 + 30.00 + 17.87 + 345.35 + 493.00 + 562.54 + 12.11 + 29.02 + 4.10 + 0.99 + 4.10 + 39.40 = 2,637.73 = its printed subtotal $2,637.73 exactly. Sheet 2 (p9, 11 rows) sums to 1.97 + 20.51 + 4.10 + 41.02 + 2.05 + 3.94 + 4.10 + 3.94 + 1.03 + 2.05 + 1.03 = 85.74 = its printed subtotal $85.74 exactly. 2,637.73 + 85.74 = 2,723.47 = the printed sum-of-all-pages total AND Box D. Box E YTD $2,723.47 is the cumulative and is never summed. ONE AMOUNT IS A HANDWRITTEN CORRECTION and the closure settles it: sheet 1 row 4's amount cell carries a struck-through first figure with '345.39' written below it - the correction governs (the struck value is illegible and was not guessed), and 345.39 is the only reading that makes the sheet equal its printed subtotal. The filer's own ladder is internally consistent: Box F $3,709.09 = Box A $0 + Box B, and the close balance $985.62 = F - D."
+   }
+  },
+  "in_kind_convention": "monetary-only - both conventions tested on both sides and identical: no row carries an in-kind marker and the v. 4.20 form prints no separate in-kind line. Both close (3,709.09 / 2,723.47).",
+  "escalations": 15,
+  "escalation_note": "900 dpi tight value crops, a first-row and last-row proof plus the index control on each of the four schedule sheets: p3 r1 '$100.00' / p3 r15 '$26.03' / below-grid strip 'Subtotal for this page $ 3,531.01'; p5 r1 '$52.05' / p5 r3 '$100.00' / p5 r4 EMPTY; p7 r1 '$711.69' / p7 r15 '$39.40' (only after the band was WIDENED - the band bounded on the detected rule rendered '$39.4(' with the last digit clipped) / below-grid strip 'Subtotal for this page $ 2,637.73'; p9 r1 '$1.97' / p9 r11 '$1.03' / p9 r12 EMPTY. Plus THREE field escalations on p3: the row-1 address cell (rendered a redaction bar, the filer's black 'UT 84005', and 'Eagle Mountain' in blue/purple ink), the row-13 address cell (rendered the black 'Lehi ,' beside the bar and a word obliterated in blue before ', UT 84043'), and the row-14 date cell (rendered '3-2' + a blue-obliterated day digit + '-22', which is why that date is left blank).",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     75.5,
+     87.5
+    ],
+    "cells": [
+     [
+      14.77,
+      26.74
+     ],
+     [
+      26.74,
+      51.0
+     ],
+     [
+      51.0,
+      75.47
+     ],
+     [
+      75.47,
+      87.5
+     ]
+    ],
+    "rows": [
+     [
+      23.27,
+      27.01
+     ],
+     [
+      27.01,
+      30.64
+     ],
+     [
+      30.64,
+      34.3
+     ],
+     [
+      34.3,
+      37.87
+     ],
+     [
+      37.87,
+      41.46
+     ],
+     [
+      41.46,
+      45.03
+     ],
+     [
+      45.03,
+      48.53
+     ],
+     [
+      48.53,
+      52.1
+     ],
+     [
+      52.1,
+      55.71
+     ],
+     [
+      55.71,
+      59.32
+     ],
+     [
+      59.32,
+      63.0
+     ],
+     [
+      63.0,
+      66.73
+     ],
+     [
+      66.73,
+      70.55
+     ],
+     [
+      70.55,
+      74.32
+     ],
+     [
+      74.32,
+      78.2
+     ]
+    ],
+    "measure_note": "THE FULL-WIDTH SCAN FAILS ON THIS FILING AND THE --col RECOVERY WAS REQUIRED (addendum A2/C6/H6). This is a faint, skewed PHOTOCOPY of a handwritten form with a red border bled onto every sheet and a black redaction bar in most address cells; run full width, rowbands.py reports the redaction bars as 'bars' and returns only a handful of broken rules. Restricting the scan to the AMOUNT column's own band recovers a clean regular-pitch grid. Schedule A sheet 1 (skew -0.7): `rowbands.py <pdf> 3 --col 75,88` returns 19 rules, of which the SIXTEEN running 23.27 .. 78.20 at a regular pitch of ~3.66 are the printed 15-row grid; the rule at 21.96 is the header box's own lower edge and the two at 80.91 / 84.75 are below the grid (the candidate box and the subtotal underline). The Date|Name split and the amount column's left edge come from the same run's v_rules (14.77 / 26.74 / 75.47); the Name|Address split is not detectable under the redaction bars and was measured off the page image at ~51.0, which is provenance only - the AMOUNT band is what the geometry stamps. The right edge was set at 87.5 (the printed grid border) rather than the detected rule so a right-aligned figure cannot clip. PROOF at 900 dpi: the row-1 amount box pct:75.5,23.27,12.0,3.74@p3 rendered '$100.00' (recorded 100.00) and the row-15 box pct:75.5,74.32,12.0,3.88@p3 rendered '$26.03' (recorded 26.03). THE GRID IS FULL, so the one-past control was taken OUTSIDE it: a 500 dpi strip pct:14.0,78.20,74.0,4.5@p3 rendered the 'Name of Candidate / Heidi Balderree' box and 'Subtotal for this page $ 3,531.01' and NO sixteenth entry."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     72.2,
+     83.05
+    ],
+    "cells": [
+     [
+      16.32,
+      26.5
+     ],
+     [
+      26.5,
+      50.5
+     ],
+     [
+      50.5,
+      72.2
+     ],
+     [
+      72.2,
+      83.05
+     ]
+    ],
+    "rows": [
+     [
+      21.34,
+      25.2
+     ],
+     [
+      25.2,
+      28.93
+     ],
+     [
+      28.93,
+      32.71
+     ],
+     [
+      32.71,
+      36.39
+     ],
+     [
+      36.39,
+      40.05
+     ],
+     [
+      40.05,
+      43.71
+     ],
+     [
+      43.71,
+      47.27
+     ],
+     [
+      47.27,
+      50.91
+     ],
+     [
+      50.91,
+      54.52
+     ],
+     [
+      54.52,
+      58.13
+     ],
+     [
+      58.13,
+      61.81
+     ],
+     [
+      61.81,
+      65.47
+     ],
+     [
+      65.47,
+      69.26
+     ],
+     [
+      69.26,
+      72.99
+     ],
+     [
+      72.99,
+      76.83
+     ]
+    ],
+    "measure_note": "THE FULL-WIDTH SCAN FAILS ON THIS FILING AND THE --col RECOVERY WAS REQUIRED (addendum A2/C6/H6). This is a faint, skewed PHOTOCOPY of a handwritten form with a red border bled onto every sheet and a black redaction bar in most address cells; run full width, rowbands.py reports the redaction bars as 'bars' and returns only a handful of broken rules. Restricting the scan to the AMOUNT column's own band recovers a clean regular-pitch grid. Schedule A sheet 2 (skew -1.8, the worst on the filing): `--col 75,88` returns 19 rules, of which the SIXTEEN running 21.34 .. 76.83 at a pitch of ~3.70 are the 15-row grid. Column bands from the same run's v_rules (16.32 / 72.20 / 83.05) plus the two interior splits measured off the page image. PROOF at 900 dpi: the row-1 amount box pct:72.2,21.34,11.3,3.86@p5 rendered '$52.05' (recorded 52.05), the LAST transcribed row's box pct:72.2,28.93,11.3,3.78@p5 rendered '$100.00' (recorded 100.00, row 3), and the ONE-PAST control pct:72.2,32.71,11.3,3.68@p5 rendered an EMPTY cell."
+   },
+   "7": {
+    "axis": "y",
+    "cell": [
+     72.0,
+     88.0
+    ],
+    "cells": [
+     [
+      12.5,
+      23.5
+     ],
+     [
+      23.5,
+      48.0
+     ],
+     [
+      48.0,
+      70.5
+     ],
+     [
+      72.0,
+      88.0
+     ]
+    ],
+    "rows": [
+     [
+      22.46,
+      25.86
+     ],
+     [
+      25.86,
+      29.32
+     ],
+     [
+      29.32,
+      32.79
+     ],
+     [
+      32.79,
+      36.24
+     ],
+     [
+      36.24,
+      39.65
+     ],
+     [
+      39.65,
+      43.08
+     ],
+     [
+      43.08,
+      46.55
+     ],
+     [
+      46.55,
+      49.96
+     ],
+     [
+      49.96,
+      53.41
+     ],
+     [
+      53.41,
+      56.98
+     ],
+     [
+      56.98,
+      60.55
+     ],
+     [
+      60.55,
+      64.18
+     ],
+     [
+      64.18,
+      67.95
+     ],
+     [
+      67.95,
+      71.7
+     ],
+     [
+      71.7,
+      75.59
+     ]
+    ],
+    "measure_note": "THE FULL-WIDTH SCAN FAILS ON THIS FILING AND THE --col RECOVERY WAS REQUIRED (addendum A2/C6/H6). This is a faint, skewed PHOTOCOPY of a handwritten form with a red border bled onto every sheet and a black redaction bar in most address cells; run full width, rowbands.py reports the redaction bars as 'bars' and returns only a handful of broken rules. Restricting the scan to the AMOUNT column's own band recovers a clean regular-pitch grid. Schedule B sheet 1 (skew -1.1): `--col 68,84` returns 18 rules, of which the SIXTEEN running 22.46 .. 75.59 at a pitch of ~3.54 are the 15-row grid; 78.27 and 82.16 sit below it. THE AMOUNT BAND IS DELIBERATELY WIDENED to 72.0-88.0 and is NOT the printed column: at this skew the column drifts right down the page, and a crop bounded on the detected rule CLIPPED THE LAST DIGIT of row 15 (it rendered '$39.4(' with the '0' cut off). Widened and re-rendered per addendum G2, and the widening was checked at BOTH ends of the page since G2 overflow is a whole-filing property (addendum H6). The three interior column bands were measured off the page image and are provenance only. PROOF at 900 dpi with the widened band: the row-1 box pct:72.0,22.46,16.0,3.40@p7 rendered '$711.69' (recorded 711.69) and the row-15 box pct:72.0,71.70,16.0,3.89@p7 rendered '$39.40' in full (recorded 39.40). THE GRID IS FULL, so the control was taken OUTSIDE it: a 500 dpi strip pct:14.0,75.59,74.0,4.5@p7 rendered the candidate box and 'Subtotal for this page $ 2,637.73' and NO sixteenth entry."
+   },
+   "9": {
+    "axis": "y",
+    "cell": [
+     68.5,
+     82.5
+    ],
+    "cells": [
+     [
+      13.5,
+      24.0
+     ],
+     [
+      24.0,
+      48.5
+     ],
+     [
+      48.5,
+      68.5
+     ],
+     [
+      68.5,
+      82.5
+     ]
+    ],
+    "rows": [
+     [
+      23.09,
+      26.36
+     ],
+     [
+      26.36,
+      29.63
+     ],
+     [
+      29.63,
+      32.91
+     ],
+     [
+      32.91,
+      36.18
+     ],
+     [
+      36.18,
+      39.4
+     ],
+     [
+      39.4,
+      42.72
+     ],
+     [
+      42.72,
+      46.01
+     ],
+     [
+      46.01,
+      49.35
+     ],
+     [
+      49.35,
+      52.72
+     ],
+     [
+      52.72,
+      56.1
+     ],
+     [
+      56.1,
+      59.58
+     ],
+     [
+      59.58,
+      63.12
+     ],
+     [
+      63.12,
+      66.71
+     ],
+     [
+      66.71,
+      70.42
+     ],
+     [
+      70.42,
+      74.17
+     ]
+    ],
+    "measure_note": "THE FULL-WIDTH SCAN FAILS ON THIS FILING AND THE --col RECOVERY WAS REQUIRED (addendum A2/C6/H6). This is a faint, skewed PHOTOCOPY of a handwritten form with a red border bled onto every sheet and a black redaction bar in most address cells; run full width, rowbands.py reports the redaction bars as 'bars' and returns only a handful of broken rules. Restricting the scan to the AMOUNT column's own band recovers a clean regular-pitch grid. Schedule B sheet 2 (skew -0.6): `--col 66,82` returns 18 rules, of which the SIXTEEN running 23.09 .. 74.17 at a pitch of ~3.41 are the 15-row grid; 76.73 and 80.53 sit below it. The amount band is again set wider than the detected rule (68.5-82.5) for the same drift reason as p7. Interior column bands measured off the page image, provenance only. PROOF at 900 dpi: the row-1 amount box pct:68.5,23.09,11.5,3.27@p9 rendered '$1.97' (recorded 1.97), the LAST transcribed row's box pct:68.5,56.10,14.0,3.48@p9 rendered '$1.03' (recorded 1.03, row 11), and the ONE-PAST control pct:68.5,59.58,11.5,3.54@p9 rendered an EMPTY amount cell."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "2-26-22",
+    "donor_raw": "Melissa Clark",
+    "donor_city": "Eagle Mountain",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "low",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer. TWO INKS IN ONE CELL: the filer's own black hand wrote only 'UT 84005' below the bar, and the CITY 'Eagle Mountain' is written to the right in BLUE/PURPLE ink - a second hand or a second pass, the same ink that obliterates a word in row 13's address cell and a date digit in row 14. The value's meaning is unambiguous so it is carried, but confidence is low and the divergence is recorded rather than hidden; nothing was inferred from the zip. The filer also wrote 'cash' under the donor's name, a payment-method annotation, not part of the name."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "3-9-22",
+    "donor_raw": "John Andersen",
+    "donor_city": "Saratoga Springs",
+    "donor_state": "UT",
+    "amount": "104.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "3-9-22",
+    "donor_raw": "James Cunningham",
+    "donor_city": "Saratoga Springs",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "3-9-22",
+    "donor_raw": "Seth Sunderland",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "104.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "3-10-22",
+    "donor_raw": "Brett Wright",
+    "donor_city": "Eagle Mountain",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer. Amount written '$1,000.00'."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "3-11-22",
+    "donor_raw": "Marco Diaz",
+    "donor_city": "South Jordan",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "3-11-22",
+    "donor_raw": "Jonathan Johnson",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "520.51",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer."
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "3-11-22",
+    "donor_raw": "Sharon Peterson",
+    "donor_city": "Saratoga Springs",
+    "donor_state": "UT",
+    "amount": "104.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer."
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "3-15-22",
+    "donor_raw": "Tim Aalders",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "1041.02",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer. Amount written '$1,041.02'."
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "3-15-22",
+    "donor_raw": "Michelle Scharf",
+    "donor_city": "Layton",
+    "donor_state": "UT",
+    "amount": "52.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer."
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "date": "3-15-22",
+    "donor_raw": "Casey Voeks",
+    "donor_city": "Spring",
+    "donor_state": "TX",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer. An out-of-state donor (Texas)."
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "date": "3-16-22",
+    "donor_raw": "Richard Knapp",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer. The filer wrote 'check' under the donor's name, a payment-method annotation, not part of the name."
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "date": "3-21-22",
+    "donor_raw": "Corey Astill",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "104.10",
+    "in_kind": false,
+    "confidence": "low",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer. TWO INKS AGAIN: 'Lehi ,' is written in the filer's black beside the bar, while a word on the line below is SCRIBBLED OUT in blue/purple ink before ', UT 84043'. What the blue obliterated cannot be read and was not guessed; the city carried is the black 'Lehi' the cell itself prints."
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "donor_raw": "Marcus Jessop",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer. DATE NOT SETTLED: the cell reads '3-2' then a day digit OBLITERATED by a blue/purple scribble over the filer's black, then '-22'. The day cannot be read, so the date is left BLANK with needs_review rather than guessed, and a year is never supplied from the report date."
+   },
+   {
+    "line_no": "15",
+    "page": 3,
+    "row": 15,
+    "date": "3-28-22",
+    "donor_raw": "Ben Summerhalder",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "26.03",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer. Last row of Schedule A sheet 1, whose printed subtotal is $3,531.01."
+   },
+   {
+    "line_no": "16",
+    "page": 5,
+    "row": 1,
+    "date": "3-28-22",
+    "donor_raw": "Annmarie Wood",
+    "donor_city": "Saratoga Springs",
+    "donor_state": "UT",
+    "amount": "52.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "First row of Schedule A sheet 2. The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer."
+   },
+   {
+    "line_no": "17",
+    "page": 5,
+    "row": 2,
+    "date": "4-2-22",
+    "donor_raw": "Ben Summerhalder",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "26.03",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer. The same donor gives again on the same report (sheet 1 row 15); both printed, both transcribed."
+   },
+   {
+    "line_no": "18",
+    "page": 5,
+    "row": 3,
+    "date": "3-28-22",
+    "donor_raw": "Mandi Braithwaite",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The street line is BLACKED OUT BY THE COUNTY (a redaction bar, upstream, part of the document) while the city/state/zip line below it is published in the clear and is what city/state come from - redacted-by-the-county, not left-empty-by-the-filer. The filer wrote 'cash' under the donor's name, a payment-method annotation. Last row of Schedule A sheet 2, whose printed subtotal is $178.08 and whose printed sum-of-all-pages total is $3,709.09."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 7,
+    "row": 1,
+    "date": "2-28-22",
+    "vendor_raw": "Utah County Elections Division",
+    "purpose": "Filing Fee, Wes Voter list + transmission fee",
+    "amount": "711.69",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the purpose runs onto a second line inside the cell and is transcribed as one purpose. Per addendum E1/F5 this fee was NOT used to corroborate any other filing, and no other filing was used to corroborate it."
+   },
+   {
+    "line_no": "2",
+    "page": 7,
+    "row": 2,
+    "date": "2-24-22",
+    "vendor_raw": "UT Department of Commerce Licensing and Enforcement System",
+    "purpose": "Application fee for a non-profit + Articles of Incorporation",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "both the vendor and the purpose wrap onto a second line inside their cells; each is transcribed as one field"
+   },
+   {
+    "line_no": "3",
+    "page": 7,
+    "row": 3,
+    "date": "2-19-22",
+    "vendor_raw": "Go Daddy",
+    "purpose": "Domain Registration",
+    "amount": "12.17",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "4",
+    "page": 7,
+    "row": 4,
+    "date": "2-2?-22",
+    "vendor_raw": "PG Printers",
+    "purpose": "Campaign Flyers",
+    "amount": "345.39",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "HANDWRITTEN CORRECTION GOVERNS: a first figure in the amount cell is struck through with a heavy blue/purple line and '345.39' is written below it; the struck value is illegible and was not guessed. 345.39 is also the only reading that makes the sheet equal its printed 2,637.73. The DAY digit of the date is likewise overwritten and is transcribed verbatim as printed, '2-2?-22', with the doubt flagged."
+   },
+   {
+    "line_no": "5",
+    "page": 7,
+    "row": 5,
+    "date": "3-21-22",
+    "vendor_raw": "Thai House Cuisine",
+    "purpose": "Campaign Food Mtg.",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 7,
+    "row": 6,
+    "date": "3-21-22",
+    "vendor_raw": "Cracker Barrel",
+    "purpose": "Campaign Breakfast w/ Delegates",
+    "amount": "17.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the purpose wraps onto a second line inside the cell"
+   },
+   {
+    "line_no": "7",
+    "page": 7,
+    "row": 7,
+    "date": "3-22-22",
+    "vendor_raw": "PG Printers",
+    "purpose": "New campaign flyers",
+    "amount": "345.35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "note this is 345.35 against row 4's 345.39 - two similar but distinct figures by the same vendor, both crop-read and both required for the sheet to close"
+   },
+   {
+    "line_no": "8",
+    "page": 7,
+    "row": 8,
+    "date": "4-1-22",
+    "vendor_raw": "Election Hive",
+    "purpose": "Website Design & Hosting",
+    "amount": "493.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "9",
+    "page": 7,
+    "row": 9,
+    "date": "3-16-22",
+    "vendor_raw": "Matrix Signs",
+    "purpose": "Campaign Signs & wire stakes",
+    "amount": "562.54",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the purpose wraps onto a second line inside the cell"
+   },
+   {
+    "line_no": "10",
+    "page": 7,
+    "row": 10,
+    "date": "2-18-22",
+    "vendor_raw": "Starbucks Coffee",
+    "purpose": "Campaign Food mtg.",
+    "amount": "12.11",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "11",
+    "page": 7,
+    "row": 11,
+    "date": "3-11-22",
+    "vendor_raw": "Sabaidee Thai LLC",
+    "purpose": "Campaign Food mtg.",
+    "amount": "29.02",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 7,
+    "row": 12,
+    "date": "3-9-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  J.A.",
+    "amount": "4.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer appends the donor's INITIALS to each WinRed processing-fee purpose, tying the fee to the contribution it came from; kept verbatim as part of the purpose"
+   },
+   {
+    "line_no": "13",
+    "page": 7,
+    "row": 13,
+    "date": "3-9-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  J.C.",
+    "amount": "0.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed without a dollar sign, unlike its neighbours; kept verbatim"
+   },
+   {
+    "line_no": "14",
+    "page": 7,
+    "row": 14,
+    "date": "3-9-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  S.S.",
+    "amount": "4.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "15",
+    "page": 7,
+    "row": 15,
+    "date": "3-10-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  B.W.",
+    "amount": "39.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "last row of Schedule B sheet 1, whose printed subtotal is $2,637.73. The figure OVERFLOWS the printed amount column at this page's skew - a crop bounded on the detected rule clipped the final digit, so the frame's amount band was widened and re-rendered before the value was trusted (addendum G2/H6)."
+   },
+   {
+    "line_no": "16",
+    "page": 9,
+    "row": 1,
+    "date": "3-11-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  M.O.",
+    "amount": "1.97",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "first row of Schedule B sheet 2, which is 11 WinRed processing-fee rows and nothing else"
+   },
+   {
+    "line_no": "17",
+    "page": 9,
+    "row": 2,
+    "date": "3-11-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  J.J.",
+    "amount": "20.51",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "18",
+    "page": 9,
+    "row": 3,
+    "date": "3-11-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  S.P.",
+    "amount": "4.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 9,
+    "row": 4,
+    "date": "3-15-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  T.A.",
+    "amount": "41.02",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "20",
+    "page": 9,
+    "row": 5,
+    "date": "3-15-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  M.S.",
+    "amount": "2.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "21",
+    "page": 9,
+    "row": 6,
+    "date": "3-15-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  C.V.",
+    "amount": "3.94",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "22",
+    "page": 9,
+    "row": 7,
+    "date": "3-21-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  C.A.",
+    "amount": "4.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "23",
+    "page": 9,
+    "row": 8,
+    "date": "3-24-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  M.J.",
+    "amount": "3.94",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the date's day digits are written over each other and read 3-24-22; the corresponding contribution row (Schedule A sheet 1 row 14) has its own day digit obliterated and is left blank there - the two were NOT used to fill each other in"
+   },
+   {
+    "line_no": "24",
+    "page": 9,
+    "row": 9,
+    "date": "3-28-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  B.S.",
+    "amount": "1.03",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "25",
+    "page": 9,
+    "row": 10,
+    "date": "3-28-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  A.W.",
+    "amount": "2.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "26",
+    "page": 9,
+    "row": 11,
+    "date": "4-2-22",
+    "vendor_raw": "WinRed",
+    "purpose": "Processing Fee  B.S.",
+    "amount": "1.03",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "last row of Schedule B sheet 2, whose printed subtotal is $85.74 and whose printed sum-of-all-pages total is $2,723.47"
+   }
+  ],
+  "notes": "HEIDI BALDERREE, 2022, modern_boxAF rev 'v. 4.20', ENTIRELY HANDWRITTEN and retained as a FAINT, SKEWED PHOTOCOPY with a red scanner border bled onto every sheet - the hardest document in this chunk to measure and the one that needed the --col recovery on all four schedule pages. FOURTEEN pages, every one read full-page and classified from its own printed header: p1 cover; p3 and p5 'Schedule A - Itemized Contributions Received'; p7 and p9 'Schedule B - Itemized Expenditures Made'; p11 'Summary Page'; p13 the CHECKLIST DECOY; and pp2, 4, 6, 8, 10, 12 and 14 ALL GENUINELY BLANK - the document was scanned duplex from single-sided sheets, so every report page is followed by an empty verso. That is a page-count property worth knowing: a 14-page PDF here is a 7-page filing. THE CHECKLIST DECOY IS BOUND IN AT p13 - 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST' with the Website/Network/HOLD box, reciting every summary-page label ('Balance at Beginning of Period', 'Contributions Received this Period', '... Year to Date', 'Expenditures Made this Period', '... Year to Date', 'Subtotal before Expenditures', 'Positive balance at Close of Reporting Period') and carrying ZERO dollar figures, printed TWICE on one sheet with two staff review copies (Staff Signature #1 in red dated 4/4/22, Staff Signature #2 in purple dated 4/4/2022). NOTE IT IS BORN-DIGITAL CLEAN while every report page is a degraded photocopy - the checklist was added by the office after the filing was received, which is itself a tell that it is a clerk work product and not a report page. THE SUMMARY PAGE IS p11, NOT THE LAST PAGE OF THE PDF - located by content, exactly as the standing rule requires. OFFICE IS GENUINELY UNSTATED: the cover's Office cell is EMPTY (the county's redaction bar covers the Address row above it and stops short of the Office cell, which is simply blank), and index.csv carries a blank office for this filing. Nothing was inferred - not from the form's title, not from the filing address. Page-face candidate 'Heidi Balderree' agrees with the channel label. Report type: 'Seven days preceding Convention' is the filled radio; the amendment question is answered No; the signature block is BLACKED OUT BY THE COUNTY while the Date box beside it reads 4-2-22, matching the Date of Report boxes on every sheet. TWO INKS ARE AT WORK ON SCHEDULE A SHEET 1 and it matters: the filer's entries are black, and a BLUE/PURPLE hand adds a city to row 1's address cell, obliterates a word in row 13's address cell, and obliterates the day digit of row 14's date. Where the blue ADDS a legible value it is carried at low confidence with the second ink recorded; where it OBLITERATES, nothing is guessed - row 13 keeps only the black 'Lehi' the cell itself prints, and row 14's date is left BLANK with needs_review. The same discipline is applied on Schedule B, where a struck-through amount on sheet 1 row 4 is replaced by a handwritten '345.39' - the correction governs and the closure confirms it, and the struck figure is not reconstructed. PRIVACY: this filing is heavily redacted upstream - a black bar over the street line in most address cells - and the city/state/zip line below each bar is published in the clear. Every row's city/state comes from that visible line; no street line reached this record, and where a cell carries only a zip nothing was converted into a city name. The candidate's own address on the cover is blacked out by the county; her phone and email are published in the clear and were deliberately not carried. A SOURCE PROPERTY WORTH RECORDING: Schedule B sheet 2 is ELEVEN CONSECUTIVE WinRed payment-processor fee rows, each tying its fee to a named contribution by the DONOR'S INITIALS in the purpose cell ('Processing Fee  M.O.'). It is the first filing in this corpus to itemize per-contribution processing fees, and the initials are the filer's own cross-reference between the two schedules; they are transcribed verbatim as part of the purpose and were NOT used to fill any field on the other side. Columns were assigned by CONTENT as well as position (field-shift screen): no inversion on any sheet. All six row-index traps screened on all four sheets: the first written entry is band 1 everywhere (crop-proved), no continuation line, no voided row, no banner line, nothing below the last printed rule (crop-proved on the two FULL sheets, p3 and p7), and no doubled band - every recovered grid is regular-pitch and every sheet closes to the cent."
+ }
+]

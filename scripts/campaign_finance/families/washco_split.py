@@ -75,6 +75,10 @@ _H_EXPEND = re.compile(r"All\s+Expe(?:n)?ditures?\s+for|Detailed\s+Expe(?:n)?dit
                        re.I)
 
 _SUM_HDRS = ("submitted", "date due", "contributions", "expenditures", "balance")
+# These ledgers print a two-line column head — `Name` over `Address` — and the second line is
+# NOT a donor. Held over as a pending name it prefixed the first donor of every 2012-generation
+# ledger (`Address Darlo Esplin`), which is a wrong value in the published `donor_raw`.
+_SUBHEADER = re.compile(r"address|name|recipient", re.I)
 _LEDGER_HDR_C = re.compile(r"\bName\b.*\bAmount\b|\bDate:?\b.*\bName\s+of\s+Contributor", re.I)
 _LEDGER_HDR_E = re.compile(r"\bRecipient\b.*\bAmount\b|\bDate:?\b.*\bName\b.*\bAmount", re.I)
 _EXCEL_EPOCH = datetime.date(1899, 12, 30)
@@ -201,9 +205,14 @@ def _pdf_header(lines, rx, labels):
     return None, []
 
 
-def _pdf_rows(lines, hdr_i, cols, stop, meta, pl, kind, skipped):
+def _pdf_rows(lines, hdr_i, cols, stop, meta, pl, kind, skipped, cov=None):
     """Ledger rows from a laid-out PDF table, with wrapped continuation lines joined into the
-    NAME column and the strict completeness gate applied."""
+    NAME column and the strict completeness gate applied.
+
+    `cov` (optional) accumulates the SIDE COVERAGE counters the module-local builder needs to
+    tell FILER ARITHMETIC apart from PARSE LOSS: `logical` = money-bearing logical rows found in
+    the table body, `emitted` = rows actually published. A side is provably complete only when
+    the two agree; anything short is WITHHELD, never published as a short sum."""
     terr = _territories([c[1] for c in cols])
     names = [c[0].lower() for c in cols]
     idx = {n: i for i, n in enumerate(names)}
@@ -237,7 +246,17 @@ def _pdf_rows(lines, hdr_i, cols, stop, meta, pl, kind, skipped):
     for k, ln, tail, addr in rows:
         cells, ok = _assign_strict(ln, terr)
         ai = idx.get("amount")
+        if money_cell_spans(ln) and cov is not None:
+            cov["logical"] = cov.get("logical", 0) + 1
         if ai is None or ai not in cells:
+            # SILENT NO MORE (2026-08-23). A money-bearing row whose token misses the Amount
+            # territory entirely is the LOAN / mis-columned case, and dropping it without a
+            # word made a short ledger look like a complete one. Recorded so the side's
+            # completeness gate can see it.
+            if money_cell_spans(ln):
+                skipped.append(f"line {k + 1}: {kind} row NOT emitted — the row's money "
+                               f"token(s) fall outside the Amount column (a Loan/In-Kind-only "
+                               f"or mis-columned line); nothing published")
             continue
         if not ok or len(cells) > 3:
             skipped.append(f"line {k + 1}: {kind} row NOT emitted — money tokens do not resolve "
@@ -267,6 +286,8 @@ def _pdf_rows(lines, hdr_i, cols, stop, meta, pl, kind, skipped):
         page, lno = pl[k] if k < len(pl) else (1, k + 1)
         geo = geom_text(page, lno, cells[ai][1], cells[ai][2])
         iso = _date_any(dtok)
+        if cov is not None:
+            cov["emitted"] = cov.get("emitted", 0) + 1
         if kind == "contributions":
             # geography comes from the donor's own ADDRESS line, never from a status column
             city, state = split_city_state(addr) if addr else ("", "")
@@ -292,6 +313,308 @@ def _pdf_rows(lines, hdr_i, cols, stop, meta, pl, kind, skipped):
                 document_id=meta.get("document_id", ""), line_no=str(k + 1),
                 extract_method=method, needs_review="0" if iso else "1", geometry=geo))
     return out
+
+
+# -------------------------------------------------------- TRUE-COORDINATE ledger reader
+# (2026-08-23) The `-layout` reader above pins its column territories to the CHARACTER-CELL
+# geometry of the page the header is printed on, and that reconstruction is not stable across
+# pages: `Expenditures - Rob Tersigni.pdf` puts the Amount column at character columns 40-47 on
+# page 1 and 19-26 on page 2, so 54 of its 77 rows were dropped by the completeness gate. In
+# the PDF's OWN coordinates there is no drift — that file's amounts right-align to x=305.0 on
+# every page. So when the caller supplies `part['bbox']` (word boxes from
+# `pdftotext -bbox-layout`, produced by the county module's `bbox_lib.py`) this reader is used
+# instead: one header-derived column model, valid on every page, and `pct:` geometry measured
+# from the document rather than inferred.
+
+_MONEY_WORD = re.compile(r"^\(?-?\$?-?[\d,]+(?:\.\d{1,2})?\)?$")
+# UNAMBIGUOUS data tokens, used only to locate the first data column's left edge. Deliberately
+# narrower than `_MONEY_WORD`/`_DATE_TOK`: a bare 4-5 digit run is a house number or a ZIP in
+# these ledgers' address lines (`2059 W Sunstar Cir … UT 84790`) as often as it is a figure, and
+# letting one of those set the boundary would push the address INTO the date column.
+_EDGE_TOK = re.compile(r"^\(?-?\$[\d,]+(?:\.\d{1,2})?\)?$"
+                       # a slashed/dashed run of 3-4 numeric groups: a date, INCLUDING the
+                       # filer's own malformed ones (`03/09/20/12`, Slade Hughes 2012). Those
+                       # must still mark the date column's left edge, or the token drifts into
+                       # the name and ships as part of the vendor's name.
+                       r"|^\d{1,2}(?:[/-]\d{1,4}){2,3}$"
+                       r"|^[\d,]+\.\d{2}$")
+
+
+def _col_model(spans):
+    """[(label, x0, x1)] sorted by x -> (labels, boundaries). A token belongs to the column
+    whose interval contains its CENTRE; boundaries sit midway between adjacent header spans.
+    These tables print headers LEFT-aligned and figures RIGHT-aligned, so a value routinely
+    starts right of its own header and ends short of the next one — a midpoint boundary is the
+    only rule that gets both ends right."""
+    spans = sorted(spans, key=lambda s: s[1])
+    bounds = []
+    for a, b in zip(spans, spans[1:]):
+        bounds.append((a[2] + b[1]) / 2.0)
+    return [s[0] for s in spans], bounds
+
+
+def _col_of(x_centre, bounds):
+    i = 0
+    while i < len(bounds) and x_centre > bounds[i]:
+        i += 1
+    return i
+
+
+def _find_header(pages, labels):
+    """(page_index, line_index, [(label, x0, x1)]) of the ledger's own printed header."""
+    want = [l.lower() for l in labels]
+    for pi, page in enumerate(pages):
+        for li, ln in enumerate(page["lines"]):
+            toks = [(w[2].lower().strip(":"), w[0], w[1]) for w in ln["words"]]
+            found = {}
+            for j, (t, x0, x1) in enumerate(toks):
+                for lab in want:
+                    lw = lab.split()
+                    if [t] == lw[:1] and len(lw) == 1:
+                        found.setdefault(lab, (x0, x1))
+                    elif len(lw) > 1 and [z[0] for z in toks[j:j + len(lw)]] == lw:
+                        found.setdefault(lab, (x0, toks[j + len(lw) - 1][2]))
+            if "amount" in found and len(found) >= 2:
+                return pi, li, [(k, v[0], v[1]) for k, v in found.items()]
+    return None, None, []
+
+
+def _pct(page, x0, y0, x1, y1):
+    w, h = page["width"] or 612.0, page["height"] or 792.0
+    return "pct:%.2f,%.2f,%.2f,%.2f" % (100.0 * x0 / w, 100.0 * y0 / h,
+                                        100.0 * (x1 - x0) / w, 100.0 * (y1 - y0) / h)
+
+
+def _flat_lines(pages):
+    return [(pi, li, " ".join(w[2] for w in ln["words"]))
+            for pi, page in enumerate(pages) for li, ln in enumerate(page["lines"])]
+
+
+def _bbox_window(pages, rx):
+    """(start, end) flat-line indices of the ONE section `rx` names, or None.
+
+    Deliberately refuses a document that prints the section header more than once — the
+    `live_wp` annual re-posts staple four successive reports into one PDF, and picking "the
+    first" of those would publish an early report's ledger under a later deadline. Those files
+    keep the `-layout` reader's existing behaviour, unchanged.
+    """
+    flat = _flat_lines(pages)
+    hits = [i for i, (_p, _l, t) in enumerate(flat) if rx.search(t)]
+    if len(hits) != 1:
+        return None
+    start = hits[0]
+    end = len(flat)
+    for other in (_H_CONTRIB, _H_EXPEND, _H_SUMMARY):
+        if other is rx:
+            continue
+        for i, (_p, _l, t) in enumerate(flat):
+            if i > start and other.search(t):
+                end = min(end, i)
+                break
+    return start, end
+
+
+def _bbox_rows(pages, meta, kind, skipped, cov, labels, window=None):
+    """Ledger rows read from TRUE page coordinates, with `pct:` geometry."""
+    flat = _flat_lines(pages)
+    lo, hi = window if window else (0, len(flat))
+    keep = {(p, l) for i, (p, l, _t) in enumerate(flat) if lo <= i < hi}
+    pages = [{"width": pg["width"], "height": pg["height"],
+              "lines": [ln if (pi, li) in keep else {"y0": ln["y0"], "y1": ln["y1"], "words": []}
+                        for li, ln in enumerate(pg["lines"])]}
+             for pi, pg in enumerate(pages)]
+    hp, hl, spans = _find_header(pages, labels)
+    if hp is None:
+        return []
+    names, bounds = _col_model(spans)
+    ix = {n: i for i, n in enumerate(names)}
+    ai = ix.get("amount")
+    name_i = ix.get("name", ix.get("recipient", 0))
+    date_i = ix.get("received", ix.get("date"))
+    loan_i = ix.get("loan")
+    ink_i = ix.get("in kind")
+    desc_i = ix.get("description")
+    method = meta.get("extract_method", "washco_split/text")
+    out = []
+    pending_name = ""            # a text-only line held until the next money line decides it
+    last = None                  # the last emitted row (for a trailing address / wrapped tail)
+
+    def cols_of(line, bnds):
+        buckets = {}
+        for x0, x1, t in line["words"]:
+            buckets.setdefault(_col_of((x0 + x1) / 2.0, bnds), []).append((x0, x1, t))
+        return buckets
+
+    # ⚠ THE NAME COLUMN'S RIGHT EDGE IS SET BY THE DATA, NOT BY THE HEADER MIDPOINT.
+    # `Recipient` is a short header (x 56-98) over long values (`Southern Utah Office Supply`
+    # runs to x=183), while the next header `Received` starts at x=208 — so the midpoint at
+    # x=153 cut the vendor's own name in half and pushed `Supply` into the date column.
+    # Money and date tokens ARE unambiguous, so the first data column's true left edge is the
+    # leftmost of those; everything left of it is name. Measured from this document's own
+    # tokens, never assumed.
+    if bounds:
+        per_col = {}
+        for page in pages:
+            for line in page["lines"]:
+                for i, ws in cols_of(line, bounds).items():
+                    if i < 1:
+                        continue
+                    for x0, _x1, t in ws:
+                        if _EDGE_TOK.match(t):
+                            per_col.setdefault(i, []).append(x0)
+        # ⚠ MEDIAN PER COLUMN, NOT THE MINIMUM. One outlier is enough to ruin a minimum, and
+        # this corpus has one: the county's own sub-$50 AGGREGATE line prints its figure INSIDE
+        # the donor name (`Aggregate total under $50.00 contribution`), so a `$50.00` token
+        # lands at x=181.8 in a table whose dates all start at x=265.1. Taking the minimum
+        # moved the name column's right edge left of the addresses and truncated them
+        # (`292 E Joshua, Washington,` lost its `UT 84780`). These tables align a column's
+        # values to the same x on every row, so the median IS the column's true left edge.
+        if per_col:
+            meds = []
+            for xs in per_col.values():
+                xs.sort()
+                meds.append(xs[len(xs) // 2])
+            b0 = min(meds) - 1.0
+            if len(bounds) >= 2:
+                b0 = min(b0, bounds[1] - 1.0)
+            bounds = [b0] + bounds[1:]
+
+    for pi, page in enumerate(pages):
+        for li, line in enumerate(page["lines"]):
+            if pi < hp or (pi == hp and li <= hl):
+                continue
+            buckets = cols_of(line, bounds)
+            amt_toks = [w for w in buckets.get(ai, []) if _MONEY_WORD.match(w[2])]
+            money_here = bool(amt_toks) or any(
+                _MONEY_WORD.match(w[2]) and re.search(r"\d", w[2])
+                for c in (loan_i, ink_i) if c is not None for w in buckets.get(c, []))
+            text_of = lambda c: " ".join(w[2] for w in buckets.get(c, [])).strip()
+            nm_here = text_of(name_i)
+            if not money_here:
+                if not nm_here or _SUBHEADER.fullmatch(nm_here):
+                    continue          # the table's own `Address` sub-header line, never a name
+                # ⚠ A HELD-OVER LINE CARRYING DIGITS IS A STREET ADDRESS, always. `_looks_address`
+                # alone is not enough — `460 N 2460 W, Hurricane UT 84737` matches none of its
+                # street-word hints and has no comma before the state — and treating such a line
+                # as a wrapped NAME appends it to `donor_raw`, which is both a wrong value and a
+                # PRIVACY breach (PRIVACY.md: city/state only, the street is discarded). A
+                # wrapped personal/business name never carries a street number, so the digit
+                # test is the safe side of the ambiguity. (Same rule the `-layout` reader has
+                # always used; it was missing here and leaked 57 rows before this fix.)
+                if last is not None and (_looks_address(nm_here)
+                                         or any(ch.isdigit() for ch in nm_here)):
+                    city, state = split_city_state(nm_here)
+                    if hasattr(last, "donor_city"):
+                        last.donor_city, last.donor_state = city, state
+                    continue
+                # no digits and not address-shaped: EITHER this record's name printed above its
+                # figures, OR the wrapped tail of the row just emitted. The next money line
+                # decides which.
+                pending_name = (pending_name + " " + nm_here).strip()
+                continue
+            cov["logical"] = cov.get("logical", 0) + 1
+            addr = ""
+            if _looks_address(nm_here) and pending_name:
+                nm, addr = pending_name, nm_here      # name-above-address layout
+            elif nm_here:
+                if pending_name and last is not None:
+                    attr = "donor_raw" if hasattr(last, "donor_raw") else "vendor_raw"
+                    setattr(last, attr, (getattr(last, attr) + " " + pending_name).strip())
+                nm = nm_here
+            else:
+                # name above, and the filer printed NO address line — the held-over line is
+                # the donor's name (`Bob and Bev Sands` / `Gil Almquist`, Aldred 2012).
+                nm = pending_name
+            pending_name = ""
+            if not amt_toks:
+                # Money printed only in In Kind / Loan. Both are REAL ledger lines the form puts
+                # in their own column, and dropping them is what made several sides read short
+                # (Kevin Brooks 2010: J Ryan Lee's three IN-KIND entries — $400.00 / $100.92 /
+                # $243.13, right-aligned to x=454 under `In Kind`, against cash amounts
+                # right-aligned to x=395 under `Amount`). Each column's figures right-align a
+                # few points before the NEXT header's start, so the two are unambiguous.
+                iktoks = [w for w in buckets.get(ink_i, []) if _MONEY_WORD.match(w[2])
+                          and re.search(r"\d", w[2])] if ink_i is not None else []
+                ltoks = [w for w in buckets.get(loan_i, []) if _MONEY_WORD.match(w[2])
+                         and re.search(r"\d", w[2])] if loan_i is not None else []
+                if len(iktoks) == 1 and not ltoks and nm:
+                    amt_toks, is_loan, forced_ik = iktoks, False, True
+                elif kind == "contributions" and len(ltoks) == 1 and not iktoks and nm:
+                    amt_toks, is_loan, forced_ik = ltoks, True, False
+                else:
+                    skipped.append(
+                        "p%d y%.0f: %s row NOT emitted — money printed outside the Amount "
+                        "column and not a single clean In-Kind / Loan figure; nothing published"
+                        % (pi + 1, line["y0"], kind))
+                    continue
+            else:
+                is_loan = forced_ik = False
+            if len(amt_toks) != 1:
+                skipped.append("p%d y%.0f: %s row NOT emitted — %d money tokens land in the "
+                               "Amount column; nothing published"
+                               % (pi + 1, line["y0"], kind, len(amt_toks)))
+                continue
+            if not nm:
+                skipped.append("p%d y%.0f: %s row NOT emitted — an amount with no name in the "
+                               "name column" % (pi + 1, line["y0"], kind))
+                continue
+            val, mk = parse_money_cell(amt_toks[0][2])
+            if mk not in ("money", "zero-glyph"):
+                skipped.append("p%d y%.0f: %s row NOT emitted — the Amount cell reads %r, which "
+                               "is not clean money and is never repaired"
+                               % (pi + 1, line["y0"], kind, amt_toks[0][2]))
+                continue
+            geo = _pct(page, amt_toks[0][0], line["y0"], amt_toks[0][1], line["y1"]) \
+                + "@p%d" % (pi + 1)
+            # the FIRST DATE-SHAPED token in the date column — never simply the first word:
+            # a long vendor name can still spill one token into this territory.
+            iso = ""
+            for _x0, _x1, t in (buckets.get(date_i, []) if date_i is not None else []):
+                iso = _date_any(t)
+                if iso:
+                    break
+            in_kind = forced_ik
+            if not in_kind and ink_i is not None:
+                ik = text_of(ink_i)
+                v, k = parse_money_cell(ik)
+                in_kind = (k == "money" and bool(v)) or ik.strip().upper() in ("YES", "Y")
+            cov["emitted"] = cov.get("emitted", 0) + 1
+            common_kw = dict(
+                candidate=meta["candidate"], office=meta.get("office", ""),
+                seat=meta.get("seat", ""), election_year=meta["election_year"],
+                filing_date=meta.get("filing_date", ""),
+                reporting_period=meta.get("reporting_period", ""),
+                date=iso, amount=common.money_str(val),
+                in_kind="True" if in_kind else "False", is_incremental="",
+                source_filing=meta["source_filing"], document_id=meta.get("document_id", ""),
+                line_no=str(_line_no(pages, pi, li)), extract_method=method,
+                needs_review="0" if iso else "1", geometry=geo)
+            if kind == "contributions":
+                city, state = split_city_state(addr) if addr else ("", "")
+                row = ContribRow(donor_raw=nm, donor_city=city, donor_state=state, **common_kw)
+                if is_loan:
+                    row.donor_type = "loan"
+            else:
+                row = ExpendRow(vendor_raw=nm, purpose=text_of(desc_i) if desc_i is not None
+                                else "", **common_kw)
+            out.append(row)
+            last = row
+    if pending_name and last is not None:
+        nmattr = "donor_raw" if hasattr(last, "donor_raw") else "vendor_raw"
+        setattr(last, nmattr, (getattr(last, nmattr) + " " + pending_name).strip())
+    return out
+
+
+def _line_no(pages, pi, li):
+    """1-based line ordinal across the whole document — the stable `(source_filing, line_no)`
+    half of SCHEMA.md's itemized-row key when rows are read from coordinates rather than from
+    the `-layout` sidecar's own lines."""
+    n = 0
+    for j, page in enumerate(pages):
+        if j == pi:
+            return n + li + 1
+        n += len(page["lines"])
+    return n + li + 1
 
 
 # ------------------------------------------------------------------------- xls tables
@@ -328,15 +651,39 @@ def _xl_header(rows, keys):
     return None, {}
 
 
-def _xl_ledger(sheet, rows, meta, kind, skipped):
-    hdr_r, cols = _xl_header(rows, ("name", "recipient", "received", "amount", "in kind", "loan",
-                                    "description"))
+def _xl_ledger(sheet, rows, meta, kind, skipped, cov=None):
+    """Ledger rows from a `.xls` workbook sidecar (real cells).
+
+    TWO STACKING LAYOUTS live in this corpus and they are read from the page, not assumed
+    (2026-08-23):
+
+      * 2014-15 — NAME INLINE with the figures, the donor's street address on the row BELOW
+        (`Brian Filter | 41722 | 200` then `1724 S Rockcress Dr, St George, UT 84790`);
+      * 2012    — NAME ABOVE, the address sharing the figures' row
+        (`Bob Holt` then `Po Box 998, Enterprise, UT 84725 | 40991 | 100`).
+
+    Reading the second as if it were the first put the ADDRESS in `donor_raw` — a wrong value
+    and a PRIVACY breach at once. The two are told apart by whether the figure row's own name
+    cell reads as an address, and the held-over line is only ever used as a NAME.
+
+    In-Kind and Loan figures are real ledger lines the form puts in their own columns; a row
+    whose Amount cell is empty but whose In Kind / Loan cell carries one clean figure is
+    emitted from that column (`in_kind=True` / `donor_type='loan'`), never moved into Amount.
+    """
+    # ⚠ `date` is in this key list because the workbooks' EXPENDITURE sheets head their date
+    # column `Date`, not `Received` (`4 4 2014 Expenditures - Brock Belnap.xls`:
+    # `Recipient | Date | Amount | In Kind | Description`). Without it the column was never
+    # located and 1,174 workbook expenditure rows shipped with a BLANK date while the cell
+    # beside them held a perfectly good Excel serial.
+    hdr_r, cols = _xl_header(rows, ("name", "recipient", "received", "date", "amount", "in kind",
+                                    "loan", "description"))
     if hdr_r is None or "amount" not in cols:
         return []
     name_c = cols.get("name", cols.get("recipient", 0))
     out = []
     method = meta.get("extract_method", "washco_split/text")
-    pending = None
+    last = None
+    pending_name = ""
     for r, cells in rows:
         if r <= hdr_r:
             continue
@@ -344,48 +691,87 @@ def _xl_ledger(sheet, rows, meta, kind, skipped):
         def cell(i):
             return cells[i].strip() if i is not None and i < len(cells) else ""
 
+        nm_here = cell(name_c)
         amt, kindm = parse_money_cell(cell(cols["amount"]))
-        nm = cell(name_c)
-        if kindm not in ("money", "zero-glyph"):
-            if nm and pending is not None:
-                # the address line printed under a donor's name -> geography ONLY
-                city, state = split_city_state(nm)
-                pending.donor_city, pending.donor_state = city, state
-                pending = None
+        ik_v, ik_k = parse_money_cell(cell(cols.get("in kind")))
+        ln_v, ln_k = parse_money_cell(cell(cols.get("loan")))
+        money_here = (kindm in ("money", "zero-glyph") or ik_k == "money" or ln_k == "money"
+                      or kindm == "unparseable")
+        if not money_here:
+            if not nm_here or _SUBHEADER.fullmatch(nm_here):
+                continue              # the table's own `Address` sub-header line, never a name
+            if last is not None and (_looks_address(nm_here)
+                                     or any(ch.isdigit() for ch in nm_here)):
+                # a held-over line carrying digits is the donor's STREET ADDRESS — kept as
+                # city/state only, never appended to `donor_raw` (see the bbox reader's note)
+                city, state = split_city_state(nm_here)
+                if hasattr(last, "donor_city"):
+                    last.donor_city, last.donor_state = city, state
+                continue
+            pending_name = (pending_name + " " + nm_here).strip()
             continue
+        if cov is not None:
+            cov["logical"] = cov.get("logical", 0) + 1
+        addr = ""
+        if _looks_address(nm_here) and pending_name:
+            nm, addr = pending_name, nm_here
+        elif nm_here:
+            if pending_name and last is not None:
+                attr = "donor_raw" if hasattr(last, "donor_raw") else "vendor_raw"
+                setattr(last, attr, (getattr(last, attr) + " " + pending_name).strip())
+            nm = nm_here
+        else:
+            nm = pending_name
+        pending_name = ""
+        is_loan = False
+        in_kind = ik_k == "money" and bool(ik_v)
+        geo_col = cols["amount"]
+        if kindm not in ("money", "zero-glyph"):
+            if kindm == "unparseable":
+                skipped.append(f"{sheet} row {r + 1}: {kind} row NOT emitted — the Amount cell "
+                               f"reads {cell(cols['amount'])!r}, which is not clean money and is "
+                               f"never repaired; nothing published")
+                continue
+            if ik_k == "money" and ln_k != "money":
+                amt, in_kind, geo_col = ik_v, True, cols["in kind"]
+            elif ln_k == "money" and ik_k != "money" and kind == "contributions":
+                amt, is_loan, geo_col = ln_v, True, cols["loan"]
+            else:
+                skipped.append(f"{sheet} row {r + 1}: {kind} row NOT emitted — money printed "
+                               f"outside the Amount column and not a single clean In-Kind / "
+                               f"Loan figure; nothing published")
+                continue
         if not nm:
             skipped.append(f"{sheet} row {r + 1}: {kind} row NOT emitted — amount printed with "
                            f"no name in the name column")
             continue
-        iso = _date_any(cell(cols.get("received")))
-        ik_v, ik_k = parse_money_cell(cell(cols.get("in kind")))
+        if cov is not None:
+            cov["emitted"] = cov.get("emitted", 0) + 1
+        iso = _date_any(cell(cols.get("received"))) or _date_any(cell(cols.get("date")))
         rest = cell(cols.get("description"))
-        geo = geom_cell(sheet, r, cols["amount"])
+        geo = geom_cell(sheet, r, geo_col)
+        base_kw = dict(
+            candidate=meta["candidate"], office=meta.get("office", ""),
+            seat=meta.get("seat", ""), election_year=meta["election_year"],
+            filing_date=meta.get("filing_date", ""),
+            reporting_period=meta.get("reporting_period", ""),
+            date=iso, amount=common.money_str(amt),
+            in_kind="True" if in_kind else "False", is_incremental="",
+            source_filing=meta["source_filing"], document_id=meta.get("document_id", ""),
+            line_no=str(r + 1), extract_method=method,
+            needs_review="0" if iso else "1", geometry=geo)
         if kind == "contributions":
-            row = ContribRow(
-                candidate=meta["candidate"], office=meta.get("office", ""),
-                seat=meta.get("seat", ""), election_year=meta["election_year"],
-                filing_date=meta.get("filing_date", ""),
-                reporting_period=meta.get("reporting_period", ""),
-                date=iso, donor_raw=nm, amount=common.money_str(amt),
-                in_kind="True" if ik_k == "money" and ik_v else "False",
-                is_incremental="", source_filing=meta["source_filing"],
-                document_id=meta.get("document_id", ""), line_no=str(r + 1),
-                extract_method=method, needs_review="0" if iso else "1", geometry=geo)
-            pending = row
+            city, state = split_city_state(addr) if addr else ("", "")
+            row = ContribRow(donor_raw=nm, donor_city=city, donor_state=state, **base_kw)
+            if is_loan:
+                row.donor_type = "loan"
         else:
-            row = ExpendRow(
-                candidate=meta["candidate"], office=meta.get("office", ""),
-                seat=meta.get("seat", ""), election_year=meta["election_year"],
-                filing_date=meta.get("filing_date", ""),
-                reporting_period=meta.get("reporting_period", ""),
-                date=iso, vendor_raw=nm, purpose=rest, amount=common.money_str(amt),
-                in_kind="True" if ik_k == "money" and ik_v else "False",
-                is_incremental="", source_filing=meta["source_filing"],
-                document_id=meta.get("document_id", ""), line_no=str(r + 1),
-                extract_method=method, needs_review="0" if iso else "1", geometry=geo)
-            pending = None
+            row = ExpendRow(vendor_raw=nm, purpose=rest, **base_kw)
         out.append(row)
+        last = row
+    if pending_name and last is not None:
+        attr = "donor_raw" if hasattr(last, "donor_raw") else "vendor_raw"
+        setattr(last, attr, (getattr(last, attr) + " " + pending_name).strip())
     return out
 
 
@@ -480,12 +866,25 @@ def parse_group(parts, meta) -> dict:
     crows, erows = [], []
     summary = None
     deadline = (meta.get("deadline") or "").strip()
+    # SIDE COVERAGE (2026-08-23): money-bearing logical rows FOUND vs rows EMITTED, per side.
+    # The module-local builder uses it as a completeness gate — a side whose parse is short is
+    # WITHHELD rather than published as a short sum, so a delta can only ever mean the FILER's
+    # own arithmetic, never ours.
+    cov = {"contributions": {"logical": 0, "emitted": 0},
+           "expenditures": {"logical": 0, "emitted": 0}}
 
     for part in parts:
         text = part.get("text", "")
         role = classify(part)
         base = dict(meta)
-        base["source_filing"] = meta["source_filing"]
+        # ⚠ STAMP THE ROW'S OWN PART FILE (2026-08-23 — the documented multi-file emission bug,
+        # SCHEMA.md 2a caveat 1). One washington filing is up to THREE published files, and a
+        # row's `line_no` / `geometry` are measured inside the file it was READ from, not inside
+        # the group's primary (the Summary). Stamping the primary made `(source_filing, line_no)`
+        # — the schema's itemized-row key — point at the wrong document, which `make_snippet.py`
+        # then had to repair downstream by span-content search. Fixed AT EMISSION here.
+        base["source_filing"] = ((part.get("ix") or {}).get("path")
+                                 or meta.get("source_filing", ""))
         if is_xls(text):
             sheets = _xl_sheets(text)
             for sheet, rows in sheets:
@@ -495,9 +894,11 @@ def parse_group(parts, meta) -> dict:
                 if _H_SUMMARY.search(flat):
                     summary = summary or _summary_xls(rows, deadline, notes)
                 elif _H_CONTRIB.search(flat):
-                    crows += _xl_ledger(sheet, rows, base, "contributions", skipped)
+                    crows += _xl_ledger(sheet, rows, base, "contributions", skipped,
+                                        cov["contributions"])
                 elif _H_EXPEND.search(flat):
-                    erows += _xl_ledger(sheet, rows, base, "expenditures", skipped)
+                    erows += _xl_ledger(sheet, rows, base, "expenditures", skipped,
+                                        cov["expenditures"])
             continue
 
         lines = text.splitlines()
@@ -536,7 +937,25 @@ def parse_group(parts, meta) -> dict:
                                f"column header is printed once and the layout shifts per page, "
                                f"and the filing prints no total to prove completeness against")
                 continue
-            rows = _pdf_rows(lines, hdr_i, cols, stop, base, pl, kind, skipped)
+            # TRUE-COORDINATE path first (see `_bbox_rows`): it is the same table read from the
+            # PDF's own word boxes, so a multi-page ledger keeps ONE column model and every row
+            # carries `pct:` geometry. The `-layout` reader stays as the fallback for a part
+            # whose caller supplied no boxes.
+            bb = part.get("bbox")
+            rows = None
+            if bb:
+                win = _bbox_window(bb, rx)
+                if win:
+                    probe = {"logical": 0, "emitted": 0}
+                    rows = _bbox_rows(bb, base, kind, skipped, probe, labels, win)
+                    if rows:
+                        cov[kind]["logical"] += probe["logical"]
+                        cov[kind]["emitted"] += probe["emitted"]
+                        notes.append("%s read from TRUE PDF coordinates (`pdftotext -bbox-"
+                                     "layout`): one header-derived column model across all "
+                                     "pages, `pct:` geometry per row" % kind)
+            if not rows:
+                rows = _pdf_rows(lines, hdr_i, cols, stop, base, pl, kind, skipped, cov[kind])
             (crows if kind == "contributions" else erows).extend(rows)
 
     stated_c = summary.get("contributions") if summary else None
@@ -564,6 +983,7 @@ def parse_group(parts, meta) -> dict:
                 stated_contrib=stated_c, stated_expend=stated_e,
                 stated_begin=None, stated_end=stated_b,
                 is_incremental=inc, dedup_mode=regime,
+                coverage=cov, summary_row=summary,
                 notes="; ".join(notes))
 
 

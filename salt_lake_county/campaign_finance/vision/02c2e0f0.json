@@ -1,0 +1,242 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-04-16",
+   "donor_raw": "Jesse R. STUART",
+   "occupation": "RETIRED",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.42,22.26,87.40,4.09@p3",
+   "note": "name written with mixed case and no space before the middle initial ('JesseR.STUART'); recorded as the glyphs read. Cents written as a raised superscript pair over a rule that renders like '80' at this scan quality but is the filer's '00' \u2014 see the filing notes. Complete Mailing Address cell redacted at source; the redaction box UNDER-COVERS and a street-number-shaped digit fragment escapes into the left margin of the Occupation cell \u2014 discarded as address ink, not part of the occupation value."
+  },
+  {
+   "line_no": 2,
+   "date": "2018-06-01",
+   "donor_raw": "ROGER KEHR",
+   "occupation": "RETIRED",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.42,26.35,87.40,4.09@p3",
+   "note": "Cents written as a raised superscript pair over a rule (the filer's '00'). Complete Mailing Address cell redacted at source; the redaction box UNDER-COVERS and a street-type abbreviation escapes into the left margin of the Occupation cell \u2014 discarded as address ink, not part of the occupation value."
+  },
+  {
+   "line_no": 3,
+   "date": "2018-06-11",
+   "donor_raw": "DALE COX",
+   "occupation": "MURRAY CITY COUNCILMAN",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:7.42,30.44,87.40,4.09@p3",
+   "note": "AMOUNT DECIDED BY ARITHMETIC, NOT BY THE GLYPH: the cents read like '.80' at both 200 and 1200 dpi, but four printed figures on this filing (page subtotal, schedule TOTAL, Summary line 1 Column A, Summary line 4) all state 1,600 exactly, and the same hand's superscript '00' on rows 1-2 of this page renders with the identical joined-loop letterform. Transcribed 100.00 \u2014 see the filing notes for the full reasoning; flagged for a human reviewer. Occupation written across two lines in the cell, with the filer's O-shaped U ('MORRAY CITY COURCILMAN' as the letterforms fall) \u2014 read as MURRAY CITY COUNCILMAN. Complete Mailing Address cell redacted at source."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2008-06-05",
+   "vendor_raw": "HARDING CAMPAIGN",
+   "purpose": "DONATION",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.14,23.72,80.91,4.13@p4",
+   "note": "DATE PRINTED '6-5-08' \u2014 a decade off every other row on this 2018 filing (all others 4-14-18 .. 6-11-18). Escalated to 1200 dpi: the final pair is a round 0 then an 8, not the '1 8' the filer writes elsewhere. Well-formed filer typo, kept VERBATIM as printed and never completed to 2018. Cents written as a raised superscript pair over a rule."
+  },
+  {
+   "line_no": 2,
+   "date": "2018-05-23",
+   "vendor_raw": "UNION PRINT SHOP",
+   "purpose": "LAWN SIGNS",
+   "amount": "4,800.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.14,27.85,80.91,4.09@p4",
+   "note": "dollars escalated to 1200 dpi and read 4800 unambiguously; the printed 7,520.00 subtotal admits no other value. Cents written as a raised superscript pair over a rule."
+  },
+  {
+   "line_no": 3,
+   "date": "2018-05-17",
+   "vendor_raw": "GRASS ROOTS UTAH",
+   "purpose": "CONSULTING",
+   "amount": "1,120.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.14,31.94,80.91,4.14@p4",
+   "note": "Cents written as a raised superscript pair over a rule."
+  },
+  {
+   "line_no": 4,
+   "date": "2018-04-26",
+   "vendor_raw": "MARSHA HOLLAND CAMPAIGN",
+   "purpose": "DONATION",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.14,36.08,80.91,4.14@p4",
+   "note": "'MARSHA' is inserted above the line as a caret-style addition to 'HOLLAND CAMPAIGN'; both are transcribed as the one name the filer intended."
+  },
+  {
+   "line_no": 5,
+   "date": "2018-04-27",
+   "vendor_raw": "STATE DEM PARTY",
+   "purpose": "DONATION",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.14,40.22,80.91,4.13@p4",
+   "note": "escalated to 1200 dpi because the middle digit could have read 2; it is a 0 in the filer's looping hand, and the printed 7,520.00 subtotal admits no other value."
+  },
+  {
+   "line_no": 6,
+   "date": "2018-04-16",
+   "vendor_raw": "RURAL UTAH PROJECT",
+   "purpose": "DONATION",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.14,44.35,80.91,4.12@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2018-04-14",
+   "vendor_raw": "RIVERA FOR SHERIFF",
+   "purpose": "DONATION",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.14,48.47,80.91,4.11@p4"
+  }
+ ],
+ "total_contributions": "1600",
+ "total_expenditures": "7520",
+ "beginning_balance": "10,624.33",
+ "ending_balance": "4,704.33",
+ "aggregate": {
+  "total_contributions_to_date": "22,210.00",
+  "total_expenditures_to_date": "17,505.98",
+  "line5_subtotal": "12,224.33"
+ },
+ "cover": {
+  "candidate": "JIM BRADLEY",
+  "party": "DEM",
+  "office_sought": "COUNCIL AT-LARGE C",
+  "district_number": "",
+  "report_type": "Seven days before a primary election",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "6-13-18",
+  "form_year": "2018"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__june__jim-bradley_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "JIM BRADLEY",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/2018_disclosures__june__jim-bradley_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "CHUNK-FILE FLAG RESOLVED \u2014 schedule_a was 'not-inspected (the Schedule A page was not among the pages read)'. INSPECTED: p3 IS a county-grid Schedule A, filled in by hand, 3 contributor rows, page subtotal printed and closing exactly. Nothing about the filing is un-inspected now; all 4 pages were rendered and read. Candidate (JIM BRADLEY), office (County Council), seat (At-Large C \u2014 the cover writes 'SLCo Council AT-LARGE C' in the Office cell and 'Council At-Large C' in Office Sought), date (2018-06-13, the signature date) and reporting_period ('Seven days before a primary election', the checked box) are all CONFIRMED at the page; the listing label 'June' is a month, not the form's period, and the form governs. Received stamp: JUN 14 2018. form_year '2018' matches the report period here \u2014 no vintage-year mismatch on this filing. || \u26a0 A 2008 DATE ON A 2018 REPORT \u2014 p4 line 1 reads '6-5-08', escalated to 1200 dpi where the final pair is unambiguously a round 0 followed by an 8 (contrast the same filer's '5-23-18' and '4-14-18' on the rows below, which open with a clear vertical 1). Every other row on the page falls between 4-14-18 and 6-11-18. This is a WELL-FORMED FILER TYPO, so per the standing rule it is kept VERBATIM as 2008-06-05 and is NOT completed, corrected, or blanked. A human may want to read it as 2018-06-05; the repo does not make that call. || \u26a0 THE ROW-3 CENTS GLYPH, and how it was decided (this is the one judgement call in the chunk). p3 row 3 (DALE COX, 100) has cents that read '.80' at 200 dpi and STILL read like an 8-then-0 at 1200 dpi. It is transcribed as 100.00, on two independent grounds. (1) ARITHMETIC, which outranks any glyph re-read: four printed figures on this filing \u2014 the page SUBTOTAL, the schedule TOTAL cell, Summary line 1 Column A and Summary line 4 \u2014 all read 1,600 exactly, and 1,000.00 + 500.00 + 100.80 would be 1,600.80. (2) The filer's own LETTERFORM, exposed by the same escalation: on p3 rows 1 and 2 the SUPERSCRIPT cents (which must be '00', since those rows are 1,000 and 500 within a 1,600 subtotal) are written as a joined pair that renders exactly like '80' at this scan quality \u2014 the first zero carries a horizontal joining stroke that closes it into a figure-eight. The same hand produced row 3's inline cents. So the glyph is the filer's '00', not '80'. Recorded at amount cell_confidence=medium with the reasoning in the row note; a human reviewer should be pointed at this cell. || The same '00'-that-looks-like-'80' letterform recurs on p4 (rows 1 and 2 carry superscript cents over a rule) and is why 4,800.00 on p4 row 2 was also escalated: at 1200 dpi the dollars are unambiguously 4800, and the sum confirms it (any other reading breaks the 7,520.00 subtotal). || PRIVACY \u2014 THE COUNTY'S REDACTION BOX UNDER-COVERS ON p3, the class already documented in PRIVACY.md for the clerk-legacy era. The black box covers the Complete Mailing Address column for all three rows, but a fragment of the address block escapes past its right edge into the left margin of the Occupation cell on rows 1 and 2 (a bare street-number-shaped digit group on row 1, a street-type abbreviation on row 2). Both are ADDRESS ink: they are discarded at read time, are NOT part of the occupation values, and are written nowhere in this record \u2014 not in donor_raw, not in occupation, not verbatim in a note. donor_city/donor_state are blank on all three rows with 'redacted at source' in each note. This is a finding about the county's published copy, not about the transcription. || The cover's own street-address block and the phone/fax/email strip are also barred. || FORM HEADER BOXES: on pages 2, 3 and 4 the 'Page __ of __ / Candidate or Officeholder's Last Name / Date of Report' box is entirely EMPTY \u2014 the filer never filled it in (contrast the Gill and DeBry filings in this chunk, which complete it on every page). Page identity here rests on the PDF order and on the form's own section titles. || Both schedules are the county's own ruled grid filled in by hand \u2014 shape 'county-grid' on both sides, no attachment anywhere in the 4-page document, and no 'Other Campaign Accounts' pages in this vintage. || Summary Page Column B line 1 (22,210.00) is written ABOVE a struck-through earlier figure that the strike renders illegible \u2014 the surviving handwritten value is the one recorded, the strike is noted here, and the struck figure is NOT guessed. Column B line 2 (17,505.98) has its final digit written over another digit; the value is recorded as it finally reads, at medium confidence. Column A lines 1 and 2 are written without cents ('1600', '7520') and are kept verbatim in that form; lines 4 and 6 restate the same two figures WITH cents (1600.00, 7520.00), which is the internal corroboration for both.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1600",
+     "schedule_total": "1,600",
+     "itemized": "1,600.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "3 rows sum to 1,000.00 + 500.00 + 100.00 = 1,600.00, and FOUR printed figures agree with it: the page SUBTOTAL (1,600), the schedule's TOTAL CONTRIBUTIONS RECEIVED cell (1,600), Summary line 1 Column A (1600) and Summary line 4 (1600.00). See the notes for the row-3 cents glyph that this four-way agreement settled."
+    },
+    "expenditures": {
+     "stated": "7520",
+     "schedule_total": "7520.00",
+     "itemized": "7,520.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "7 rows sum to 100.00 + 4,800.00 + 1,120.00 + 200.00 + 500.00 + 500.00 + 300.00 = 7,520.00 = the page SUBTOTAL (7520.00) = the schedule's TOTAL EXPENDITUTRES MADE cell (7520.00) = Summary line 2 Column A (7520) = Summary line 6 (7520.00). Unlike the DeBry filing in this same chunk, this filer used the schedule grand-total cells for the sum of page subtotals rather than for the cycle aggregate, so schedule total and Summary figure coincide on both sides."
+    }
+   },
+   "page_subtotal_gates": "BOTH page-subtotal gates fired and BOTH are EXACT. p3: rows 1,000.00 + 500.00 + 100.00 = 1,600.00 = printed SUBTOTAL FOR THIS PAGE 1,600. p4: rows 100.00 + 4,800.00 + 1,120.00 + 200.00 + 500.00 + 500.00 + 300.00 = 7,520.00 = printed SUBTOTAL FOR THIS PAGE 7520.00. On both pages the schedule's own grand-total cell repeats the subtotal, giving a second, independent printed anchor.",
+   "escalations": 8,
+   "escalation_note": "1200 dpi tight cell crops x8, all re-read after the 200 dpi full-page pass: p4 Amount rows 1-2, p4 Amount row 5, p4 Date row 1, p3 Amount row 3, p3 Amount rows 1-2, p3 SUBTOTAL+TOTAL cells, p2 line 1 Column B, p2 line 2 Column B. Every escalated cell re-read identically to the 200 dpi reading EXCEPT p3 row 3's cents, where the escalation is what exposed the filer's zero-pair letterform (see notes) \u2014 the arithmetic, not the crop, settled that cell.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "CHUNK-FILE FLAG RESOLVED \u2014 schedule_a was 'not-inspected (the Schedule A page was not among the pages read)'. INSPECTED: p3 IS a county-grid Schedule A, filled in by hand, 3 contributor rows, page subtotal printed and closing exactly. Nothing about the filing is un-inspected now; all 4 pages were rendered and read. Candidate (JIM BRADLEY), office (County Council), seat (At-Large C \u2014 the cover writes 'SLCo Council AT-LARGE C' in the Office cell and 'Council At-Large C' in Office Sought), date (2018-06-13, the signature date) and reporting_period ('Seven days before a primary election', the checked box) are all CONFIRMED at the page; the listing label 'June' is a month, not the form's period, and the form governs. Received stamp: JUN 14 2018. form_year '2018' matches the report period here \u2014 no vintage-year mismatch on this filing. || \u26a0 A 2008 DATE ON A 2018 REPORT \u2014 p4 line 1 reads '6-5-08', escalated to 1200 dpi where the final pair is unambiguously a round 0 followed by an 8 (contrast the same filer's '5-23-18' and '4-14-18' on the rows below, which open with a clear vertical 1). Every other row on the page falls between 4-14-18 and 6-11-18. This is a WELL-FORMED FILER TYPO, so per the standing rule it is kept VERBATIM as 2008-06-05 and is NOT completed, corrected, or blanked. A human may want to read it as 2018-06-05; the repo does not make that call. || \u26a0 THE ROW-3 CENTS GLYPH, and how it was decided (this is the one judgement call in the chunk). p3 row 3 (DALE COX, 100) has cents that read '.80' at 200 dpi and STILL read like an 8-then-0 at 1200 dpi. It is transcribed as 100.00, on two independent grounds. (1) ARITHMETIC, which outranks any glyph re-read: four printed figures on this filing \u2014 the page SUBTOTAL, the schedule TOTAL cell, Summary line 1 Column A and Summary line 4 \u2014 all read 1,600 exactly, and 1,000.00 + 500.00 + 100.80 would be 1,600.80. (2) The filer's own LETTERFORM, exposed by the same escalation: on p3 rows 1 and 2 the SUPERSCRIPT cents (which must be '00', since those rows are 1,000 and 500 within a 1,600 subtotal) are written as a joined pair that renders exactly like '80' at this scan quality \u2014 the first zero carries a horizontal joining stroke that closes it into a figure-eight. The same hand produced row 3's inline cents. So the glyph is the filer's '00', not '80'. Recorded at amount cell_confidence=medium with the reasoning in the row note; a human reviewer should be pointed at this cell. || The same '00'-that-looks-like-'80' letterform recurs on p4 (rows 1 and 2 carry superscript cents over a rule) and is why 4,800.00 on p4 row 2 was also escalated: at 1200 dpi the dollars are unambiguously 4800, and the sum confirms it (any other reading breaks the 7,520.00 subtotal). || PRIVACY \u2014 THE COUNTY'S REDACTION BOX UNDER-COVERS ON p3, the class already documented in PRIVACY.md for the clerk-legacy era. The black box covers the Complete Mailing Address column for all three rows, but a fragment of the address block escapes past its right edge into the left margin of the Occupation cell on rows 1 and 2 (a bare street-number-shaped digit group on row 1, a street-type abbreviation on row 2). Both are ADDRESS ink: they are discarded at read time, are NOT part of the occupation values, and are written nowhere in this record \u2014 not in donor_raw, not in occupation, not verbatim in a note. donor_city/donor_state are blank on all three rows with 'redacted at source' in each note. This is a finding about the county's published copy, not about the transcription. || The cover's own street-address block and the phone/fax/email strip are also barred. || FORM HEADER BOXES: on pages 2, 3 and 4 the 'Page __ of __ / Candidate or Officeholder's Last Name / Date of Report' box is entirely EMPTY \u2014 the filer never filled it in (contrast the Gill and DeBry filings in this chunk, which complete it on every page). Page identity here rests on the PDF order and on the form's own section titles. || Both schedules are the county's own ruled grid filled in by hand \u2014 shape 'county-grid' on both sides, no attachment anywhere in the 4-page document, and no 'Other Campaign Accounts' pages in this vintage. || Summary Page Column B line 1 (22,210.00) is written ABOVE a struck-through earlier figure that the strike renders illegible \u2014 the surviving handwritten value is the one recorded, the strike is noted here, and the struck figure is NOT guessed. Column B line 2 (17,505.98) has its final digit written over another digit; the value is recorded as it finally reads, at medium confidence. Column A lines 1 and 2 are written without cents ('1600', '7520') and are kept verbatim in that form; lines 4 and 6 restate the same two figures WITH cents (1600.00, 7520.00), which is the internal corroboration for both."
+  }
+ }
+}

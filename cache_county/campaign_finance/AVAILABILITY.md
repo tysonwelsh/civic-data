@@ -240,3 +240,104 @@ donor tables, which this package produces only for the born-digital subset.
 The `vision/` transcriptions record cover-page and totals fields only — no donor rows — so
 no donor address is transcribed anywhere in this module. Nothing here is redacted, and
 nothing here should be redacted.
+
+---
+
+## THE ITEMIZED LAYER — QUEUE CLOSED 2026-08-24 (the Phase-B final vision wave)
+
+**Every document this dataset holds is now itemized.** The handwritten Carr era — described
+everywhere in these docs as "stated totals only" — has been transcribed from page images, and
+that language is retired.
+
+### 1. The queue, derived at the DOCUMENT grain
+
+The unit here is a **distinct document**, not an index row: 239 index rows are **197 distinct
+sha256**, because 42 rows are byte-identical copies served by a second channel. `prep.py`
+derived the queue as *every distinct sha256 no contributions/expenditures row already names* —
+**176 documents / 647 pages**, which splits as **123 `scanned`** + **37 the index calls `text`
+but which are image-faced** + **16 genuinely born-digital filings the 2026-08-02 `cache_cfd`
+parser left row-less**. One transcription is written per document and applied through
+`applies_to` to every index row sharing those bytes.
+
+### 2. What was published
+
+| | |
+|---|---:|
+| documents transcribed | **176 of 176** · 647 pages · 0 unfinished |
+| transcription rows | **556 contributions + 1,119 expenditures** |
+| rows carrying `pct:` geometry | **1,675 of 1,675 (100%)** |
+| sides `transcribed` / `none` / **withheld** | 319 / 33 / **0** |
+| side verdicts | 282 `exact` · 26 filer-arithmetic `delta` · 44 `unknown` (no printed anchor) |
+| scope split | 258 cumulative · 48 period · 46 undetermined |
+| amounts blank for illegibility | **0** |
+| escalations (tight cell crops, 600–2400 dpi) | 787 |
+
+Published CSVs are now **`contributions.csv` 756 rows** and **`expenditures.csv` 1,466** over
+**179 filings** — larger than the transcription counts because a document's rows are applied to
+every index row sharing its bytes. **Group on `sha256` before counting anything.**
+`validate_finance.py` → **PASS (0 fails, 0 warns)**.
+
+### 3. The Rhodes rule did real work, repeatedly
+
+Cache is the county that produced *ARITHMETIC CLOSURE OUTRANKS GLYPH READING AT ANY
+RESOLUTION*, and the wave re-earned it. The county's own pre-flight settled the Rhodes specimen
+**with the sibling copy never opened** — Form A sums to exactly 1,694.09, and Form B's fourteen
+rows independently sum to 1,799.09 — and found a property the specimen did not record: **Form B
+carries TWO simultaneously bistable cells**, four readings are individually legible, and exactly
+one closes. Across the wave, values that survived 900–2400 dpi and were decided by a printed sum
+include `1128.00` (read `1/28.00`), `83.11` (a joined cents stroke bistable between 11/44/u),
+`1,250.00` on a faxed page that reads `1,280.00` at 200 dpi, `500.76`, `47.82` and `40.20`.
+**Escalation resolves legibility; the page's own arithmetic decides truth.**
+
+### 4. Three things an empty itemized side means here — none of them "no donors"
+
+* **the schedule exists and is empty** — blank, or struck corner-to-corner, or marked `N/A` or a
+  slashed `Ø`. An honest zero.
+* **the PDF has NO schedule page at all** (33 sides). Several filings are a **cover-only
+  one-page scan**; for those, itemisation can never come from these bytes — it is an
+  ACQUISITION gap, not a transcription one, and re-pulling from the county is the only path.
+* **the filer states a figure his own schedule never itemizes** (e.g. a cover reporting
+  $1,521 or $3,606.80 against a blank Form A/B). Published as a `delta` or `unknown` with both
+  figures named; nothing is synthesized.
+
+### 5. The anchor rules this corpus forced
+
+* **The Carr 5-5-PG prints NO schedule total and NO page subtotal on either sheet.** The cover
+  line is the only anchor, and that is recorded per side (`schedule_total: null`) rather than
+  quietly assumed.
+* **Form "A" itemizes only contributions over $50**; the cover's line-2 aggregate is never
+  itemized. Sides are scored against **line 1**, not against `stated_total_contributions`
+  (= line 1 + line 2). The trap runs **both ways** — several filers itemize their sub-$50 gifts
+  anyway, and one (Roark 2018) **transposed her two cover lines**, so her >$50 rows sum to the
+  ≤$50 cell and vice versa, each closing exactly, crosswise.
+* **A whole-dollar figure written with the cents position struck** (`7,200.`, `1,000.-`) is read
+  for the ANCHOR only, never promoted into a published stated total — without that tolerance a
+  side that closes exactly against the printed cover line would have been scored a false delta.
+* `is_incremental` is decided from **which printed cell the rows equal**, per filing, never from
+  form family — and the module's own `period_basis` hypothesis was wrong on several filings.
+
+### 6. ⚠ TWO DUPLICATE CLASSES — and `sha256` only sees the first
+
+Beyond the 42 byte-identical cross-channel copies, **26 filings are the SAME REPORT RE-SCANNED
+with different bytes** and are flagged `CONTENT-DUPLICATE` in `filing_totals.notes` by a
+detector that fires only on an identical multiset of (date, name, amount) rows for one candidate
+and cycle. Specimens: a Buttars 2012 report published twice through two channels; a Mecham
+filing that is a **photocopy of an earlier one re-dated**, betrayed by the earlier clerk stamp
+reproduced at the bottom; the two Rhodes 2018 copies, one re-faxed. **Count each report once on
+both classes**, and never sum a cumulative restatement across a cycle.
+
+### 7. What the born-digital slice looked like on re-examination
+
+Of the 16 born-digital filings the `cache_cfd` parser left row-less, most are genuine
+zero-activity reports; the rest were real detail the parser could not read — including one where
+a date (`2026`) had been captured as an amount and one whose three parsed rows summed to
+**−25.00** against a stated 425.00. All are now transcribed. **The `cache_cfd` family itself was
+not modified** (the shared engine stays frozen); the vision path runs only where the parser
+emitted nothing, so the 2026-08-02 born-digital block is untouched and provably unchanged.
+
+### 8. Honest residue
+
+The itemisation queue is empty. What remains is unchanged and ACQUISITION-side: the 2 filings
+listed by the county whose bytes are gone everywhere (`unrecovered.csv`), the 5 filings whose
+office line the filer left blank, and the cover-only PDFs of §4 whose schedule pages the county
+never scanned.

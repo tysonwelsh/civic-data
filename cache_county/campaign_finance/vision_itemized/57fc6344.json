@@ -1,0 +1,81 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C05.json",
+ "key": "57fc6344",
+ "index_path": "raw/2012/2012_st_Barry_Martin_Franklin_10_26_12_general.pdf",
+ "applies_to": [
+  "raw/2012/2012_st_Barry_Martin_Franklin_10_26_12_general.pdf"
+ ],
+ "sha256_prefix": "19f44309bc9916b3",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) entirely blank at 90 dpi and at 170 dpi normalized — EMPTY SCHEDULE, zero rows. Cover line 1 reads 0 / 0 / 0. Every one of the twelve cover money cells is a SLASHED ZERO (a clean oval with a diagonal stroke through it), confirmed at 600 dpi on both the line-1/2 block and the line-3/4 block; under the repo zero-glyph ruling a slashed Zero-glyph IS 0, so these are numeric anchors, not blanks. Carr form prints no schedule total (null by form design). THIS and CUMULATIVE coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form B (p3) entirely blank at 90 dpi and at 170 dpi normalized — EMPTY SCHEDULE, zero rows. Cover line 3 reads 0 / 0 / 0 (slashed zeros). Agrees exactly."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No printed schedule or page subtotal on the Carr sheets (form design). Gated against the cover: p2 zero rows = cover line 1 0/0/0; p3 zero rows = cover line 3 0/0/0. All twelve cover cells are slashed zeros = 0.",
+  "row_count": "Not applicable — zero inked rows on p2 and p3. Verified by eye on 170 dpi -normalize renders of both full pages: every ruled writing line is clean; the only ink is the printed form.",
+  "geometry_proof": "Not applicable — no rows emitted.",
+  "balance_chain": "0 + 0 + 0 - 0 = 0, and cover line 4 (balance at end) is written 0 / 0 / 0. The chain CLOSES exactly. Cover identity LAST + THIS = CUMULATIVE also closes on all four lines (0 + 0 = 0 throughout)."
+ },
+ "escalations": 2,
+ "escalation_note": "p1 cover money block lines 1-2 and lines 3-4, each cropped at 600 dpi, specifically to separate a slashed-zero glyph from a bare dash (the fc127b71 filing in this same chunk uses bare dashes; this one uses unambiguous slashed zeros). p2/p3 re-rendered at 170 dpi with ImageMagick -normalize to rule out faint pencil.",
+ "notes": "Chunk file says candidate 'Barry Martin Franklin', office 'County Council'. The form agrees exactly: 'Full Name of Candidate: Barry Martin Franklin', 'Name of Office: County Council', 'Office District: District 1, Logan', 'Political Party: Democratic Party'. 'TO ___ County Clerk' is filled 'Cache' (the filer wrote the county, not the clerk's name). Cover Date reads 'Oct 26 201-' — the final year digit is written over/trails off and is not cleanly legible; the clerk stamp reads 'CACHE COUNTY CLERK RCVD 26 OCT 2012 PM 01:31', which is where the year 2012 comes from. Candidate street address, ZIP, home phone and business phone are in the clear on the cover and were discarded at read time. This is a genuine NO-ACTIVITY report: both schedules blank and every cover money cell a slashed zero.",
+ "contributions": [],
+ "expenditures": []
+}

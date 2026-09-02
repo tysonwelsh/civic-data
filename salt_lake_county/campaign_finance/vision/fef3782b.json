@@ -1,0 +1,94 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "0.00",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "0.00"
+ },
+ "cover": {
+  "candidate": "Maleah Bliss Caulford",
+  "party": "Forward",
+  "office_sought": "",
+  "district_number": null,
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2026-06-16",
+  "form_year": null
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Caulford-Maleah-Bliss__D85159AF.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Caulford, Maleah Bliss",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Caulford-Maleah-Bliss__D85159AF.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026 'Financial Disclosure Report For an Open Campaign Account' form (no year printed in the title; form_year null). FINAL/DISSOLUTION box checked; amendment No. Signature stamp 06/16/26 - 4:35 PM. The Office cell on the cover is BLANK (index.csv prior says County Council At-Large - the form itself prints no office; not a school-board filing). Every Summary figure, Column A and Column B, is $0.00. Candidate street/city/zip/phone/email bar-redacted at source.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": null,
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "no Schedule A page exists in the document; Summary line 1 Column A = $0.00, zero rows - a real zero, nothing to itemize"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": null,
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "no Schedule B page exists in the document; Summary line 2 Column A = $0.00, zero rows - a real zero, nothing to itemize"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages; nothing to gate",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026 'Financial Disclosure Report For an Open Campaign Account' form (no year printed in the title; form_year null). FINAL/DISSOLUTION box checked; amendment No. Signature stamp 06/16/26 - 4:35 PM. The Office cell on the cover is BLANK (index.csv prior says County Council At-Large - the form itself prints no office; not a school-board filing). Every Summary figure, Column A and Column B, is $0.00. Candidate street/city/zip/phone/email bar-redacted at source."
+  }
+ }
+}

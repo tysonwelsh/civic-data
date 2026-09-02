@@ -1,0 +1,98 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "$3784",
+ "ending_balance": "$3784",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "$3784"
+ },
+ "cover": {
+  "candidate": "JIM BRADLEY",
+  "party": "DEM",
+  "office_sought": "SLCo. Council",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/20",
+  "form_year": "2019"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/jim-bradley---redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "JIM BRADLEY",
+  "office": "County Council",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/jim-bradley---redacted.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "TWO-PAGE FILING, and the missing schedules are GENUINE, not a scan defect: the PDF is 2 pages, page 1 is the cover and page 2 the Summary Page, and both stated totals are ZERO, which is exactly why no Schedule A or B was filed. Recorded as sides='none' with the reason, never as a transcribed zero and never as a gap. || COVER: the Office Sought and District Number cells each carry a short blue pen stroke - a BARE DASH. Per the ZERO-GLYPH RULING a bare dash is a nil mark, not a value, so both are recorded BLANK; the chunk file's 'left blank' flag is confirmed at the page. The office recorded is the top-row 'Office' cell, 'SLCo. Council'. The chunk file's office/seat (County Council / At-Large C) comes from the clerk listing, NOT from this form - this form names no seat at all. || ZERO-GLYPH RULING applied SIX times on the Summary Page: lines 1 (both columns), 2 (both columns), 4 and 6 all carry a '-0-' dash-zero-dash glyph, which the ruling makes 0 with the glyph noted. || The balance figures are written '$3784' with NO cents - transcribed verbatim as printed, not padded to '3784.00'. || AMENDMENT: the 'No' box IS checked here (unlike the other three handwritten covers in this chunk, which leave both boxes empty). || The Summary Page's header box (Page/of, Candidate's Last Name, Date of Report) is entirely BLANK - the filer never filled it. || Street address, phone, fax, email and the signature line are redacted at source by black bars; nothing was read from them. || Signature date 1/31/20 agrees with the RECEIVED JAN 31 2020 stamp - no date conflict on this filing.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "the document is TWO pages - cover + Summary Page - and contains NO Schedule A page at all, so there is nothing to transcribe and no sum is claimed (sides='none' = non-existence, NOT a zero of our making). \u26a0 THIS IS NOT ONE OF THE 'non-zero stated total against a missing schedule' GAPS: the filing's own stated total for this side is ZERO in BOTH columns (a '-0-' nil glyph), so no itemized detail is owed by the form. Nothing is missing from the record."
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "same as contributions - no Schedule B page exists in the 2-page document, and Summary line 2 states ZERO in both columns ('-0-'), so no detail is owed. sides='none' by non-existence; no sum claimed."
+    }
+   },
+   "page_subtotal_gates": "not applicable - the document contains no schedule page, so no SUBTOTAL/TOTAL row exists to gate on.",
+   "escalations": 0,
+   "escalation_note": "nothing was in dispute - all seven Summary lines are large, clean handwriting and the balance chain closes.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "TWO-PAGE FILING, and the missing schedules are GENUINE, not a scan defect: the PDF is 2 pages, page 1 is the cover and page 2 the Summary Page, and both stated totals are ZERO, which is exactly why no Schedule A or B was filed. Recorded as sides='none' with the reason, never as a transcribed zero and never as a gap. || COVER: the Office Sought and District Number cells each carry a short blue pen stroke - a BARE DASH. Per the ZERO-GLYPH RULING a bare dash is a nil mark, not a value, so both are recorded BLANK; the chunk file's 'left blank' flag is confirmed at the page. The office recorded is the top-row 'Office' cell, 'SLCo. Council'. The chunk file's office/seat (County Council / At-Large C) comes from the clerk listing, NOT from this form - this form names no seat at all. || ZERO-GLYPH RULING applied SIX times on the Summary Page: lines 1 (both columns), 2 (both columns), 4 and 6 all carry a '-0-' dash-zero-dash glyph, which the ruling makes 0 with the glyph noted. || The balance figures are written '$3784' with NO cents - transcribed verbatim as printed, not padded to '3784.00'. || AMENDMENT: the 'No' box IS checked here (unlike the other three handwritten covers in this chunk, which leave both boxes empty). || The Summary Page's header box (Page/of, Candidate's Last Name, Date of Report) is entirely BLANK - the filer never filled it. || Street address, phone, fax, email and the signature line are redacted at source by black bars; nothing was read from them. || Signature date 1/31/20 agrees with the RECEIVED JAN 31 2020 stamp - no date conflict on this filing."
+  }
+ }
+}

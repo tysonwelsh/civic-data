@@ -1,0 +1,196 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2025-06-09",
+   "donor_raw": "Donna Ogden",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.35,22.02,89.03,4.14@p3",
+   "note": "city/state redacted at source (address bar covers the Complete Mailing Address cell); occupation cell left blank by filer"
+  },
+  {
+   "line_no": 2,
+   "date": "2025-06-09",
+   "donor_raw": "Christian Harrison",
+   "occupation": "Senior Research Analyst",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.35,26.16,89.03,4.14@p3",
+   "note": "city/state redacted at source (address bar)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2025-06-10",
+   "vendor_raw": "ActBlue",
+   "purpose": "Donation platform management fee",
+   "amount": "9.48",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,23.48,80.76,4.14@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2025-06-11",
+   "vendor_raw": "ActBlue",
+   "purpose": "Donation platform management fee",
+   "amount": "2.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,27.61,80.76,4.14@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2025-06-13",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Donation account management",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,31.73,80.76,4.14@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2025-07-31",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Donation account management fee",
+   "amount": "3.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,35.86,80.76,4.14@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2025-07-31",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Donation account management",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,40.00,80.76,4.14@p4"
+  }
+ ],
+ "total_contributions": "300.00",
+ "total_expenditures": "29.56",
+ "beginning_balance": "0.00",
+ "ending_balance": "270.44",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "300.00"
+ },
+ "cover": {
+  "candidate": "Thomas Merrill",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council District 1",
+  "district_number": "1",
+  "report_type": "YEAR-END REPORT: January 31 of each year (box checked) - form is 'Financial Disclosure Report For a Candidate'",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2026-02-02",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Merrill-Thomas__F9B4BC06.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Merrill, Thomas",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Merrill-Thomas__F9B4BC06.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026-cycle form 'Financial Disclosure Report For a Candidate' (no year printed in the title). Document name says 'Final 2025 Financial Disclosure' but the form contradicts the label: the YEAR-END (January 31) box is the one checked, NOT the Final/Dissolution box - transcribed from the form. Amendment box checked No; e-signature stamp 02/02/26 4:17 PM. Column B (Aggregate Total) prints 0.00/0.00 although line 1/2 Column A print 300.00/29.56 - the filer's amendment (Merrill-Thomas__1F87A6FE, filed 02/16/26) corrects Column B to 300.00/29.56; itemized content identical between the two, each transcribed from its own pages. Candidate address and phone bar-redacted on cover; donor addresses bar-redacted on Schedule A (city/state under the bar).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "300.00",
+     "schedule_total": "300.00",
+     "itemized": "300.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "2 rows sum 300.00 = Summary line 1 Column A = schedule printed TOTAL 300.00; no in-kind rows."
+    },
+    "expenditures": {
+     "stated": "29.56",
+     "schedule_total": "29.56",
+     "itemized": "29.56",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "5 rows sum 29.56 = Summary line 2 Column A = schedule printed TOTAL 29.56."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 300.00 = printed subtotal 300.00; p4 rows 29.56 = printed subtotal 29.56 - both exact; single-page schedules, so the subtotal gate and the grand-total gate are the same figure",
+   "escalations": 4,
+   "escalation_note": "p3 and p4 re-read in tight 600dpi crops (date+name and occupation/purpose+amount bands, 2 crops per page); all rows read identically",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026-cycle form 'Financial Disclosure Report For a Candidate' (no year printed in the title). Document name says 'Final 2025 Financial Disclosure' but the form contradicts the label: the YEAR-END (January 31) box is the one checked, NOT the Final/Dissolution box - transcribed from the form. Amendment box checked No; e-signature stamp 02/02/26 4:17 PM. Column B (Aggregate Total) prints 0.00/0.00 although line 1/2 Column A print 300.00/29.56 - the filer's amendment (Merrill-Thomas__1F87A6FE, filed 02/16/26) corrects Column B to 300.00/29.56; itemized content identical between the two, each transcribed from its own pages. Candidate address and phone bar-redacted on cover; donor addresses bar-redacted on Schedule A (city/state under the bar)."
+  }
+ }
+}

@@ -3,7 +3,10 @@
  "key": "fb4cd160",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:25:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -53,5 +56,52 @@
    "notes": "THE OFFICE FIELD DOES NOT NAME AN OFFICE. The filer wrote a street address into the 'Office' box - two handwritten lines, '5 E 400 N' / 'Springville UT 84603' - transcribed verbatim above. No office is stated anywhere on the cover page, so index.csv's blank office is CORRECT and this filing does not resolve. Adjacent evidence NOT used to infer an office, recorded here for the orchestrator only: the Email field reads 'j.taylor@nebo.edu' (Nebo School District domain), which is suggestive of a local-school-board filer but is not a stated office; no scope_flag is set because the office line names no board. residence_city 'Springville' is read from that same handwritten Office-box address (the form's own Address/City block is blacked out - redacted upstream by the county), hence medium confidence. Signature also redacted upstream. Every summary box is filled with the handwritten WORD 'Zero' (not a numeral) - transcribed verbatim as 'Zero'; these are written values, not blank cells. Handwriting is clear throughout."
   }
  ],
- "notes": "Page footer version string is illegible on this photocopy, so form_version is \"\"; the cover-page layout and the Box A-G summary match the v. 4.20-era modern form (the summary page's close-balance box carries a printed 'G')."
+ "notes": "Page footer version string is illegible on this photocopy, so form_version is \"\"; the cover-page layout and the Box A-G summary match the v. 4.20-era modern form (the summary page's close-balance box carries a printed 'G').",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r10_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' on the p4 Summary Page, in which the filer WROTE THE WORD 'Zero' \u2014 read as 0 under the repo-wide zero-glyph ruling with the glyph preserved verbatim. Corroborated by Schedule A's own two printed footers on p2, both of which carry a SLASHED ZERO, with the word '(zero)' additionally handwritten below the Total line.",
+     "detail": "Schedule A (p2) exists and is entirely unmarked: all 15 printed boxed rows are empty in every column (Date / Name of Contributor / City and State / Amount) and every In-Kind checkbox is untouched. Zero itemized rows sum to 0, which equals the schedule's printed 'Subtotal for this page' (a slashed zero), its printed 'Total Contributions Received' (a slashed zero, annotated '(zero)' in the filer's hand), and the cover's PROMOTED per-period Box B ('Zero'). Box C 'Contributions Received Year to Date' also reads 'Zero' and is retained as the cumulative figure, never summed as an increment. Every nil mark on this filing is a DENOTING glyph \u2014 a slashed zero or the written word 'zero' \u2014 never a bare dash, so all of them transcribe as 0. This is a genuine absence of entries by the filer: the state is empty-schedule, not withheld and not no-schedule-page."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' on the p4 Summary Page, which reads the written word 'Zero' (= 0). Corroborated by Schedule B's own printed 'Subtotal for this page' and 'Total Expenditures Made', both slashed zeros, with '(zero)' handwritten below the Total.",
+     "detail": "Schedule B (p3) exists and is entirely unmarked across all 15 printed boxed rows (Date / Provider/Vendor / Purpose / Amount), with every In-Kind checkbox empty. Zero rows sum to 0 = the printed page subtotal = the printed total = the promoted per-period Box D. Box E reads 'Zero' and is retained as cumulative. The page's own identities close trivially and consistently: Box F 'Subtotal before Expenditures (Box A + Box B)' reads 'Zero' and Box G 'Balance at Close of Reporting Period (Box F - Box D)' reads 'Zero'."
+    }
+   },
+   "in_kind_convention": "not distinguishable on this filing, and that was established rather than assumed. This is the newer 2022 blank and BOTH schedules carry a real In-Kind checkbox column, so the conventions COULD have differed here; but every checkbox on both pages is empty and both sides are zero, so monetary-only and monetary-plus-in-kind give the identical sum of 0 and both close against the schedule footers and the summary boxes.",
+   "escalations": 3,
+   "escalation_note": "Three escalations at 500-700 dpi, none of which changed a value. (1)+(2) GHOST/SHOW-THROUGH and in-kind screens per \u00a7K4 and \u00a7J1 before concluding the schedules are unmarked \u2014 this matters more than usual here because the document is a photograph-style scan with the sheet edge and a brown backing board visible around three sides, exactly the condition in which bleed-through and edge artefacts imitate entries. Crops of the top five grid bands full-width (pct:10.0,18.0,82.0,20.0@p2 -> fb4cd160_p2_top.png and pct:10.0,17.0,82.0,20.0@p3 -> fb4cd160_p3_top.png) rendered ONLY the printed column headings over completely empty cells with all In-Kind checkboxes EMPTY \u2014 no ink, no ghost, no show-through. The Amount and In-Kind cells were in one block per \u00a7J1, so the half-row-high checkbox offset could not misassign anything. (3) A 700 dpi crop of Schedule A's totals block (pct:55.0,82.0,42.0,14.0@p2 -> fb4cd160_p2_totals.png) rendered the 'Total Contributions Received $' line carrying a clear SLASHED ZERO with the handwritten '(zero)' beneath it, settling that the nil mark is a denoting glyph and not a bare dash \u2014 the distinction that decides whether the side reads 0 or blank.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "2022 cycle, `modern_boxAF`, and it is **the NEWER UNVERSIONED 2022 BLANK** of \u00a7J1 \u2014 all four tells read off the pages: SIX report types on the cover (the sixth being 'End-of-Year Report'), Schedule A's third column headed **'City and State'** plus a fifth **In-Kind checkbox** column, the close box **LETTERED 'G'**, and a bottom-right cover box headed **'Date of Filing'** with **no Page field anywhere** \u2014 so the filing is UNFOLIATED and page ordinals carry no filer evidence. No 'v.' revision string is printed. All 4 pages rot 0 (pdfinfo -f 1 -l 4); no rotation handling needed. The document is a scan of a HANDWRITTEN completion of the form (every entered value is in pen); AcroForm is present but nothing was typed into it. PAGE STRUCTURE, classified from each page's own printed header and never by ordinal: p1 COVER; p2 'Schedule A - Itemized Contributions Received'; p3 'Schedule B - Itemized Expenditures Made'; p4 'Summary Page'. **NO CHECKLIST DECOY is bound in this filing** \u2014 p4 carries the seven lettered boxes and a value in each, which is what distinguishes a genuine summary page from the decoy that recites the same labels with zero figures. \u26a0 **THE OFFICE IS HONESTLY UNRESOLVED AND NOTHING WAS INFERRED.** The cover's 'Office' box does not name an office: the filer wrote a STREET ADDRESS into it, in two handwritten lines (a house number and street on the first, a city, state and ZIP on the second). That is not an office claim, so no office is recorded here, and index.csv's office field is likewise empty. The candidate's Email cell holds a school-district address, which is suggestive but is ALSO not an office claim \u2014 no seat, body or office has been inferred from it, and none should be inferred downstream from this record. The page prints what it prints. PRIVACY: the street address written in the Office box is deliberately NOT reproduced anywhere in this record, not in a field and not in a note. PAGE-FACE IDENTITY, recorded in full because it varies within the one document: the cover's 'Name of Candidate' box reads **'John Stewart Taylor'**; the cover affirmation line and the p4 'Name of Candidate' box read **'John S. Taylor'**; the p2 and p3 footer boxes read **'John Taylor'**, which is also index.csv's channel label. The report-type box TICKED is 'End-of-Year Report'; the amendment question is answered \u2014 'No' is ticked; the Date, the Date of Filing and all three inner-sheet 'Date of Report' boxes read '12/21/22'. index.csv's period label 'Midterm' does not match the page's own 'End-of-Year Report' \u2014 both are recorded and neither is adjudicated; the page face governs. REDACTION judged per cell from the page, not from the filename: the Address/City/State/Zip block and the Signature block on p1 are solid black bars applied by the county, while the Phone Number and Email cells are published in the clear. NIL NOTATION \u2014 the filer uses TWO denoting forms and no bare dashes anywhere: SLASHED ZEROS on both schedules' 'Subtotal for this page' and total lines (each total additionally annotated with the handwritten word '(zero)'), and the WRITTEN WORD 'Zero' in all seven summary boxes A through G. Under the repo-wide zero-glyph ruling both forms transcribe as 0 with the glyph quoted, so \u00a7A3/\u00a7B2's blank-cover problem does not arise here \u2014 there is nothing blank to recover. This is a zero-activity End-of-Year report: both schedule PAGES EXIST and the filer entered nothing on either, so both sides are `empty-schedule` (a real absence of entries), which is a different fact from `no-schedule-page` and from `withheld`."
+  }
+ }
 }

@@ -1,0 +1,118 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C18.json",
+ "key": "a67f32cb",
+ "index_path": "raw/2022/2022_cc_D_Chad_Jensen.pdf",
+ "applies_to": [
+  "raw/2022/2022_cc_D_Chad_Jensen.pdf",
+  "raw/2022/2022_wb_D_Chad_Jensen.pdf"
+ ],
+ "sha256_prefix": "1109559869b0dfe4",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_this": "618.20",
+    "cover_over50_cum": "618.20",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "box_A_balance_begin": "0",
+    "box_F_subtotal": "618.20",
+    "cover_balance_end": "0",
+    "page_subtotal": "618.20",
+    "schedule_total": "618.20"
+   },
+   "itemized": "618.20",
+   "basis": "page-subtotal==schedule-total==BoxB==BoxC",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One row, 618.20, equal to the printed 'Subtotal for this page', the printed 'Total Contributions Received', and Summary boxes B (this period) and C (year-to-date), which are EQUAL here - the first report of this filer's cycle, so the two scopes coincide; recorded cumulative. The CFD form has no '$50.00 or less' line, so the le50 anchors are null."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_this": "618.20",
+    "cover_expense_cum": "618.20",
+    "box_A_balance_begin": "0",
+    "box_F_subtotal": "618.20",
+    "cover_balance_end": "0",
+    "page_subtotal": "618.20",
+    "schedule_total": "618.20"
+   },
+   "itemized": "618.20",
+   "basis": "page-subtotal==schedule-total==BoxD==BoxE",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One row, 618.20, equal to the printed page subtotal, the printed 'Total Expenditures Made', and Summary boxes D and E (equal). The whole filing is one self-contribution spent immediately on the county filing fee."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 row 618.20 = printed subtotal 618.20 = printed Total Contributions Received 618.20. p3 row 618.20 = printed subtotal 618.20 = printed Total Expenditures Made 618.20. Both gate exactly.",
+  "row_count": "rowbands.py p2 and p3 both 'ok' with 16 h-rules (15 writing bands). Exactly 1 band inked on each page (band 1); 1 row emitted per side - matches.",
+  "geometry_proof": "p2: the row-1 amount-cell band renders '$618.20'; the control one row-pitch below renders EMPTY. p3: the row-1 band renders '$618.2..' and the control below renders EMPTY.",
+  "balance_chain": "CLOSES EXACTLY. Box A = slashed zero, B = 618.20, C = 618.20, D = 618.20, E = 618.20, F (A+B) = 618.20, Balance at Close (F - D) = slashed zero. 0 + 618.20 - 618.20 = 0. CROSS-FILING CHAIN RUN against this filer's later 2022 filing 1c0385d0 (30 days after the General, 12/8/22): that report's Box A (balance at beginning) = 0 matches this one's Balance at Close = 0, and its year-to-date boxes C and E both read 618.20, matching this filing's cumulative figures exactly. The pair chains correctly, so neither cover is swapped."
+ },
+ "escalations": 4,
+ "escalation_note": "p2 and p3 row-1 full-width bands at 600dpi; p2 and p3 amount cells and their controls at 600dpi; both pages' subtotal/total blocks at 400dpi.",
+ "notes": "Office line INSIDE the form reads 'SHERIFF' - IN SCOPE, agrees with the chunk file. Candidate 'D. CHAD JENSEN' - agrees. Report type marked 'Seven days preceding the General Election'; amendment question answered 'No'. Date of Report 11-1-22, signature date 11/1/22, clerk stamp 'CLERK/AUDITOR RCVD 2022 NOV 1'. The chunk file's period_basis hypothesis 'period_equals_ytd' is CONFIRMED at the page (B==C and D==E). Schedule A's address cell holds a PO box and a ZIP with NO city written, so donor_city/donor_state are left blank rather than inferred; the PO box and ZIP are discarded at read time, as are the candidate's cover address, phone and personal email.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2022-02-28",
+   "donor_raw": "D. CHAD JENSEN",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "618.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.08,18.94,13.72,2.27@p2",
+   "note": "self-contribution by the candidate. Address cell holds a PO box and a ZIP only, no city - discarded at read time and NOT inferred from the cover."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2022-02-28",
+   "vendor_raw": "Cache County Corp.",
+   "purpose": "File FEE",
+   "amount": "618.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.08,18.94,13.72,2.27@p3",
+   "note": "purpose written 'File FEE' with the word FEE struck through once and rewritten over itself; kept verbatim as 'File FEE'."
+  }
+ ]
+}

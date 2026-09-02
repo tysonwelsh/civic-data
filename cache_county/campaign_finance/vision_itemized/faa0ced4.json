@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C02.json",
+ "key": "faa0ced4",
+ "index_path": "raw/2010/2010_wb_gzilles.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_gzilles.pdf"
+ ],
+ "sha256_prefix": "5df57b728d714369",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_last": "0",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is ONE page: the Carr 5-5-PG cover only ('Page 1'). Form 'A' is not present. A ZERO-DOLLAR filing: the filer wrote a single round 0 in the TOTALS-FROM-LAST-REPORT column of all four lines and left the THIS-REPORT and CUMULATIVE columns of every line completely EMPTY - confirmed in a 600 dpi crop of the whole four-line block. The zeros sit in the LAST column rather than the CUMULATIVE one, which is the filer's own placement and is recorded as printed rather than shifted."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "",
+    "cover_expense_cum": "",
+    "cover_balance_end": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form 'B' is not present in the one-page PDF. Line 3 and line 4 follow the same pattern: a written 0 in the LAST column, empty THIS and CUMULATIVE cells. cover_balance_end is recorded as '' because the CUMULATIVE balance cell is the empty one; the balance LAST cell holds a 0."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "not applicable - no schedule page exists in this document; the Carr form prints no schedule total in any case (addendum A.1)",
+  "row_count": "not applicable - no ruled schedule page in this document",
+  "geometry_proof": "not applicable - zero rows emitted",
+  "balance_chain": "Trivially consistent: every reported figure on the filing is 0, and the balance line carries the same 0. Nothing to chain - the LAST/THIS/CUMULATIVE identity cannot be tested where two of the three columns are empty."
+ },
+ "escalations": 1,
+ "escalation_note": "one 600 dpi crop of the whole four-line total block across all three columns, to separate written zeros from empty rules",
+ "notes": "ONE-PAGE DOCUMENT - cover only, and a genuine ZERO filing. index.csv says candidate 'Gordon Zilles', office 'County Council'; the form's 'Full Name of Candidate' reads 'Gordon A. Zilles', 'Name of Office' 'County Council', 'Office District' 'South East', party 'Rep.' - in scope and in agreement. Addressed 'TO Jill Zollinger, County Clerk'. Signature date 'Oct 12 2010'; clerk stamp 'RCVD 13 OCT 2010 am08:42', which is the chunk file's 2010-10-13. Candidate street address, ZIP and home phone are printed in the clear and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

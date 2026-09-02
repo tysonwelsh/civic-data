@@ -1,0 +1,102 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C24.json",
+ "key": "52bb33d4",
+ "index_path": "raw/2026/2026_cc_2026_Financial_Disclosure_Apr_3_Chad_Jensen.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_Apr_3_Chad_Jensen.pdf"
+ ],
+ "sha256_prefix": "53ff3fe039aa9c4e",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other",
+  "5": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "0",
+    "page_subtotal": "0",
+    "box_A_balance_begin": "0",
+    "box_F_subtotal": "0",
+    "cover_balance_end": "-752.56"
+   },
+   "itemized": "0.00",
+   "basis": "page-subtotal==schedule-total==cover-box-B==cover-box-C",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A carries the single word 'None' under the header and no transaction lines. Printed page subtotal 0, printed Total Contributions Received 0, Box B 0, Box C 0. Zero rows closes against every anchor. B == C so scope is cumulative."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "$752.56",
+    "cover_expense_cum": "752.56",
+    "schedule_total": "$752.56",
+    "page_subtotal": "$752.56",
+    "cover_balance_end": "-752.56"
+   },
+   "itemized": "752.56",
+   "basis": "page-subtotal==schedule-total==cover-box-D==cover-box-E",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One transaction, $752.56, equal to the printed page subtotal, the printed Total Expenditures Made, Box D and Box E. D == E so scope is cumulative (only report of the cycle in this document)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 0.00 = printed 'Subtotal for this page $0' = printed 'Total Contributions Received $ 0'. p3 rows 752.56 = printed 'Subtotal for this page $ $752.56' = printed 'Total Expenditures Made $ $752.56' (the form prints a stray doubled $ before the filer's own $). Both gates fire exactly.",
+  "row_count": "No per-row grid on the CFD schedule; independent ink count at 200 dpi and cross-check against the PDF text layer: p2 = 0 transaction lines (the word 'None' only), p3 = ONE transaction, typed as a single free-text string that wraps onto a second visual line. The wrap is NOT a second row - the second line carries only the amount '$752.56' of the same transaction, and the printed subtotal 752.56 proves there is exactly one. A 600 dpi control crop one line-pitch below renders empty.",
+  "geometry_proof": "p3: the amount box pct:6.00,22.60,7.00,1.60@p3 renders '$752.56' (the only row); control one pitch below (y=25.00) renders empty. Note the geometry sits at the FAR LEFT of the page, not under the printed 'Amount' header, because the filer typed the whole row into the Date column - see notes.",
+  "balance_chain": "Box A 0 + Box B 0 = Box F 0 (closes). Box F 0 - Box D $752.56 = -752.56 = printed Balance at Close -752.56 (closes). Chain closes exactly; the negative close is the filer's own figure."
+ },
+ "escalations": 2,
+ "escalation_note": "600 dpi crops of the single p3 transaction line and of the control band below it. Born-digital Jotform SIGN PDF whose text layer corroborates the visual read exactly; no ambiguous glyph.",
+ "notes": "FIELD PLACEMENT - FLAGGED, NOT WITHHELD: the filer typed the ENTIRE Schedule B transaction as one free-text string into the DATE cell - 'January2,2026 Cache County Filing Fee' with '$752.56' wrapping onto the next line, all of it left-aligned under the Date header. The Provider/Vendor, Purpose and Amount cells are physically EMPTY. Columns are nonetheless assignable with high confidence because the string is written in the form's own column order and the amount is independently confirmed by three printed anchors (page subtotal, Total Expenditures Made, Box D/E), so the side is transcribed rather than withheld under the field-shift screen; the row's geometry points at where the text ACTUALLY sits, not at the Amount column. Cover confirms candidate 'D.Chad Jensen' and office 'Sheriff' - AGREES with the chunk file. Date of Report 04-03-2026 on all four report pages, signed 2026-04-03 22:03; the chunk file says date=2026-04-06 - the FORM says 3 April 2026. Type of Report: 'Seven days preceding the General Election'; Amendment = No. p5 is the Jotform SIGN audit trail (document ID 260930245135047), not a report page. Schedule A is an honest empty schedule (the filer wrote 'None'), not a gap. Candidate's own street address on the cover discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2026-01-02",
+   "vendor_raw": "Cache County",
+   "purpose": "Filing Fee",
+   "amount": "$752.56",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.00,22.60,7.00,1.60@p3",
+   "note": "WHOLE ROW TYPED INTO THE DATE CELL as free text - verbatim string: 'January2,2026 Cache County Filing Fee' then '$752.56' on the wrapped second line. Date/vendor/purpose are parsed from that single string in the form's own column order, so needs_review:1 even though the reading is unambiguous; the Provider/Vendor, Purpose and Amount cells are physically empty. Date verbatim 'January2,2026' (no space after the month) -> 2026-01-02. Amount independently confirmed by the printed page subtotal, the printed Total Expenditures Made, Box D and Box E"
+  }
+ ]
+}

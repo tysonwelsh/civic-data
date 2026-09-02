@@ -1,0 +1,94 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Paul Recanzone",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year AND FINAL / DISSOLUTION REPORT (both boxes ticked)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/17/2018",
+  "form_year": "2017"
+ },
+ "confidence": {},
+ "_meta": {
+  "index_path": "raw/globalassets/paul-recanzone---redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Paul Recanzone",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/paul-recanzone---redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "STRUCTURAL GAP, recorded not reconstructed: this 4-page filing has NO standard Summary Page and NO Schedule B page. Its four pages are cover / blank Schedule A / blank 'Summary Page Other Campaign Accounts' / blank 'Itemized Expenditures from Other Campaign Accounts'. All stated totals are therefore null by non-existence (never 0). FLAG CONFIRMED: the cover is typed, the 'Office Sought' cell is blank and the top-row 'Office' cell reads 'County Council'; per the documented two-office-box precedent, office_sought carries the top-row Office value and the substitution is stated here. The District Number cell is ALSO blank, so this document does NOT itself say District 6 - index.csv's seat 'District 6' is an acquisition-time label the form does not corroborate. The form ticks BOTH the Year-End (January 31) box and the Final/Dissolution box, so this is simultaneously a year-end and a dissolution report; neither amendment box is ticked. Political Party reads Democrat. Signature date 1/17/2018, clerk RECEIVED IN OFFICE stamp JAN 17 2018 - both agree with the chunk file's 2018-01-17.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "The document contains NO standard Summary Page, so there is no stated total for either side, and the Schedule A page's own SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED cells are both blank. The Schedule A grid exists and is wholly empty (a real zero for the page that was actually looked at), but with no printed figure anywhere there is nothing to reconcile against - recorded as unknown, never as a fabricated 0.00 match."
+    },
+    "expenditures": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "No Schedule B page exists in this document - see sides.expenditures = none."
+    }
+   },
+   "page_subtotal_gates": "p2 prints SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED and BOTH cells are blank - no gate available on this filing (the \u00a71(5) blank-subtotal case, here with the grand total blank too). No gate fired anywhere in this document.",
+   "escalations": 2,
+   "escalation_note": "p1 Type-of-Report block at 600 dpi (to confirm that BOTH the Year-End and the Final/Dissolution boxes carry an X); p1 name/office header row at 600 dpi.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "STRUCTURAL GAP, recorded not reconstructed: this 4-page filing has NO standard Summary Page and NO Schedule B page. Its four pages are cover / blank Schedule A / blank 'Summary Page Other Campaign Accounts' / blank 'Itemized Expenditures from Other Campaign Accounts'. All stated totals are therefore null by non-existence (never 0). FLAG CONFIRMED: the cover is typed, the 'Office Sought' cell is blank and the top-row 'Office' cell reads 'County Council'; per the documented two-office-box precedent, office_sought carries the top-row Office value and the substitution is stated here. The District Number cell is ALSO blank, so this document does NOT itself say District 6 - index.csv's seat 'District 6' is an acquisition-time label the form does not corroborate. The form ticks BOTH the Year-End (January 31) box and the Final/Dissolution box, so this is simultaneously a year-end and a dissolution report; neither amendment box is ticked. Political Party reads Democrat. Signature date 1/17/2018, clerk RECEIVED IN OFFICE stamp JAN 17 2018 - both agree with the chunk file's 2018-01-17."
+  }
+ }
+}

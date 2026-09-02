@@ -1,0 +1,2099 @@
+[
+ {
+  "index_path": "raw/2022/2022_Gardner_Amelia_4.4.2022_Redacted.pdf",
+  "key": "7bac0cbd",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r10_02)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "itemized_pages_A": "2,3,4,5,6",
+  "itemized_pages_B": "7,8,9",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Box B 'Contributions Received this Period' = $29,685.62 on the p10 Summary Page, which is also the figure printed as 'Total Contributions Received (Sum of all Schedule A pages in this report)' on every one of the five Schedule A sheets",
+    "detail": "61 rows over 5 Schedule A sheets sum to 29,685.62. Each sheet closes on its OWN printed 'Subtotal for this page' first: p2 15 rows = 4,151.41 (printed 4151.41); p3 14 rows = 7,145.00 (printed 7,145.00); p4 10 rows = 6,835.26 (printed 6835.26); p5 14 rows = 7,975.00 (printed 7,975.00); p6 8 rows = 3,578.95 (printed 3578.95). The five subtotals then sum to 29,685.62 = the printed Total Contributions Received = the promoted PER-PERIOD cell Box B. Box C (Year to Date) also prints 29,685.62 - identical here because this is the cycle's first report, so period equals year-to-date; that coincidence is NOT a cumulative-regime reading and Box C is not summed as an increment."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Box D 'Expenditures Made this Period' = $17,168.60 on the p10 Summary Page, which is also the 'Total Expenditures Made (Sum of all Schedule B pages in this report)' printed on all three Schedule B sheets",
+    "detail": "40 rows over 3 Schedule B sheets sum to 17,168.60. Per sheet, against each sheet's own printed 'Subtotal for this page': p7 13 rows = 5,751.31 (printed 5,751.31); p8 15 rows = 5,461.37 (printed 5461.37); p9 12 rows = 5,955.92 (printed 5,955.92). The three subtotals sum to 17,168.60 = the printed total = Box D. Box E (Year to Date) prints the same 17,168.60 for the same first-report reason and is never summed as an increment."
+   }
+  },
+  "in_kind_convention": "monetary-only closed on BOTH sides, and it was tested both ways on each side. This is the v. 4.20 blank: Schedule A columns are Date / Name of Contributor / Address and Zip Code / Amount, with NO in-kind checkbox column (that belongs to the newer unversioned 2022 blank), and Schedule B is Date / Provider/Vendor / Purpose / Amount. No row on any of the eight schedule sheets is annotated in-kind, in-kind is written nowhere on the summary page, and no offsetting contribution/expenditure pair of identical date and amount appears. Monetary-only gives 29,685.62 = Box B and 17,168.60 = Box D exactly; adding in-kind would add nothing because there is none to add.",
+  "escalations": 20,
+  "escalation_note": "20 tight amount-cell crops at 600 dpi (all named 7bac0cbd_*), covering the first and last transcribed row of each of the eight schedule sheets plus the mandatory index controls: the \u00a7A1 first-entry control on p7 (band 1 rendered EMPTY, band 3 rendered $24.00), empty-band controls on p3 band 9, p4 (the five-band gap, proved by band 7 rendering $208.00) and p5 band 5, and the \u00a7B5 one-past-the-end control on p6 band 9 and p9 band 13 (both EMPTY). On the three FULL grids (p2, p7, p8) the one-past strip was taken OUTSIDE the grid per the full-grid rule and rendered that sheet's printed subtotal ($4151.41, $5,751.31, $5461.37) - so no ledger continues below the last rule and no band is doubled. Every crop reproduced the figure recorded for its row; nothing was re-read against the arithmetic because every sheet already closed on its own printed subtotal.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     79.74,
+     92.79
+    ],
+    "cells": [
+     [
+      8.74,
+      21.79
+     ],
+     [
+      21.79,
+      51.65
+     ],
+     [
+      51.65,
+      79.74
+     ],
+     [
+      79.74,
+      92.79
+     ]
+    ],
+    "rows": [
+     [
+      17.53,
+      21.84
+     ],
+     [
+      21.84,
+      26.21
+     ],
+     [
+      26.21,
+      30.53
+     ],
+     [
+      30.53,
+      34.89
+     ],
+     [
+      34.89,
+      39.25
+     ],
+     [
+      39.25,
+      43.57
+     ],
+     [
+      43.57,
+      47.94
+     ],
+     [
+      47.94,
+      52.25
+     ],
+     [
+      52.25,
+      56.57
+     ],
+     [
+      56.57,
+      60.89
+     ],
+     [
+      60.89,
+      65.25
+     ],
+     [
+      65.25,
+      69.59
+     ],
+     [
+      69.59,
+      73.93
+     ],
+     [
+      73.93,
+      78.3
+     ],
+     [
+      78.3,
+      82.62
+     ]
+    ],
+    "measure_note": "modern_boxAF v. 4.20 schedules are FULLY BOXED 15-row grids, so a row lies BETWEEN its own two printed rules and nothing is extrapolated (\u00a7A1's above-the-rule rule does not apply). rowbands.py at 200 dpi (raw frame) returned 16 grid rules on this page, giving exactly the 15 printed data bands counted on the full-page read; the rules below 82.6%% belong to the footer boxes and are excluded. TWO-CROP PROOF at 600 dpi: band 1 (pct:79.74,17.53,13.05,4.31@p2) rendered '$250.00' and band 15 (pct:79.74,78.30,13.05,4.32@p2) rendered '$100.00', both the figures recorded. The grid is FULL (all 15 bands used), so per the full-grid rule the one-past control was taken OUTSIDE the grid: pct:79.74,82.62,13.05,3.88@p2 rendered '$ 4151.41', the sheet's own printed 'Subtotal for this page' - i.e. nothing but the footer lies below band 15."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     78.88,
+     91.94
+    ],
+    "cells": [
+     [
+      8.7,
+      21.75
+     ],
+     [
+      21.75,
+      51.6
+     ],
+     [
+      51.6,
+      78.88
+     ],
+     [
+      78.88,
+      91.94
+     ]
+    ],
+    "rows": [
+     [
+      17.43,
+      21.75
+     ],
+     [
+      21.75,
+      26.11
+     ],
+     [
+      26.11,
+      30.43
+     ],
+     [
+      30.43,
+      34.8
+     ],
+     [
+      34.8,
+      39.16
+     ],
+     [
+      39.16,
+      43.48
+     ],
+     [
+      43.48,
+      47.8
+     ],
+     [
+      47.8,
+      52.16
+     ],
+     [
+      52.16,
+      56.48
+     ],
+     [
+      56.48,
+      60.84
+     ],
+     [
+      60.84,
+      65.18
+     ],
+     [
+      65.18,
+      69.57
+     ],
+     [
+      69.57,
+      73.89
+     ],
+     [
+      73.89,
+      78.25
+     ],
+     [
+      78.25,
+      82.61
+     ]
+    ],
+    "measure_note": "modern_boxAF v. 4.20 schedules are FULLY BOXED 15-row grids, so a row lies BETWEEN its own two printed rules and nothing is extrapolated (\u00a7A1's above-the-rule rule does not apply). rowbands.py at 200 dpi (raw frame) returned 16 grid rules on this page, giving exactly the 15 printed data bands counted on the full-page read; the rules below 82.6%% belong to the footer boxes and are excluded. NOTE: only 3 vertical rules survived the full-width scan on this sheet (the donor redaction bars swallow the left-hand rules), so the Date/Name/Address splits are taken from the clean sheets of the SAME print run (pp2/4/6) and only the Amount column's own two rules, 78.88 and 91.94, are measured here - which is the band the rows are stamped against. TWO-CROP PROOF at 600 dpi: band 1 (pct:78.88,17.43,13.06,4.32@p3) rendered '$100.00' and band 15 (pct:78.88,78.25,13.06,4.36@p3) rendered '$250.00'. A third control on band 9 (pct:78.88,52.16,13.06,4.32@p3) rendered an EMPTY boxed cell, proving the mid-grid gap that shifts every later entry by one band."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     79.57,
+     92.63
+    ],
+    "cells": [
+     [
+      8.66,
+      21.69
+     ],
+     [
+      21.69,
+      51.6
+     ],
+     [
+      51.6,
+      79.57
+     ],
+     [
+      79.57,
+      92.63
+     ]
+    ],
+    "rows": [
+     [
+      17.52,
+      21.89
+     ],
+     [
+      21.89,
+      26.21
+     ],
+     [
+      26.21,
+      30.52
+     ],
+     [
+      30.52,
+      34.89
+     ],
+     [
+      34.89,
+      39.25
+     ],
+     [
+      39.25,
+      43.57
+     ],
+     [
+      43.57,
+      47.91
+     ],
+     [
+      47.91,
+      52.25
+     ],
+     [
+      52.25,
+      56.57
+     ],
+     [
+      56.57,
+      60.89
+     ],
+     [
+      60.89,
+      65.23
+     ],
+     [
+      65.23,
+      69.59
+     ],
+     [
+      69.59,
+      73.93
+     ],
+     [
+      73.93,
+      78.25
+     ],
+     [
+      78.25,
+      82.62
+     ]
+    ],
+    "measure_note": "modern_boxAF v. 4.20 schedules are FULLY BOXED 15-row grids, so a row lies BETWEEN its own two printed rules and nothing is extrapolated (\u00a7A1's above-the-rule rule does not apply). rowbands.py at 200 dpi (raw frame) returned 16 grid rules on this page, giving exactly the 15 printed data bands counted on the full-page read; the rules below 82.6%% belong to the footer boxes and are excluded. THREE-CROP PROOF at 600 dpi: band 1 (pct:79.57,17.52,13.06,4.37@p4) rendered '$100.00'; band 7 (pct:79.57,43.57,13.06,4.34@p4) rendered '$208.00', proving the second entry sits on band 7 after five empty bands; band 15 (pct:79.57,78.25,13.06,4.37@p4) rendered '$20.00'."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     78.9,
+     91.93
+    ],
+    "cells": [
+     [
+      8.65,
+      21.7
+     ],
+     [
+      21.7,
+      51.6
+     ],
+     [
+      51.6,
+      78.9
+     ],
+     [
+      78.9,
+      91.93
+     ]
+    ],
+    "rows": [
+     [
+      16.93,
+      21.25
+     ],
+     [
+      21.25,
+      25.66
+     ],
+     [
+      25.66,
+      29.98
+     ],
+     [
+      29.98,
+      34.3
+     ],
+     [
+      34.3,
+      38.61
+     ],
+     [
+      38.61,
+      42.98
+     ],
+     [
+      42.98,
+      47.3
+     ],
+     [
+      47.3,
+      51.61
+     ],
+     [
+      51.61,
+      56.0
+     ],
+     [
+      56.0,
+      60.34
+     ],
+     [
+      60.34,
+      64.71
+     ],
+     [
+      64.71,
+      69.02
+     ],
+     [
+      69.02,
+      73.34
+     ],
+     [
+      73.34,
+      77.71
+     ],
+     [
+      77.71,
+      82.02
+     ]
+    ],
+    "measure_note": "modern_boxAF v. 4.20 schedules are FULLY BOXED 15-row grids, so a row lies BETWEEN its own two printed rules and nothing is extrapolated (\u00a7A1's above-the-rule rule does not apply). rowbands.py at 200 dpi (raw frame) returned 16 grid rules on this page, giving exactly the 15 printed data bands counted on the full-page read; the rules below 82.6%% belong to the footer boxes and are excluded. NOTE: the full-width scan recovered only the right-hand rules plus two spurious segments inside the redaction bars; the column splits are taken from the clean sheets of the same print run and the Amount band 78.90-91.93 is measured on this page. THREE-CROP PROOF at 600 dpi: band 1 (pct:78.90,16.93,13.03,4.32@p5) rendered '$150.00'; band 5 (pct:78.90,34.30,13.03,4.31@p5) rendered an EMPTY cell, proving the single-band gap; band 15 (pct:78.90,77.71,13.03,4.31@p5) rendered '$100.00'."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     79.61,
+     92.73
+    ],
+    "cells": [
+     [
+      8.61,
+      21.67
+     ],
+     [
+      21.67,
+      51.58
+     ],
+     [
+      51.58,
+      79.61
+     ],
+     [
+      79.61,
+      92.73
+     ]
+    ],
+    "rows": [
+     [
+      17.35,
+      21.69
+     ],
+     [
+      21.69,
+      26.03
+     ],
+     [
+      26.03,
+      30.37
+     ],
+     [
+      30.37,
+      34.71
+     ],
+     [
+      34.71,
+      39.07
+     ],
+     [
+      39.07,
+      43.41
+     ],
+     [
+      43.41,
+      47.73
+     ],
+     [
+      47.73,
+      52.07
+     ],
+     [
+      52.07,
+      56.39
+     ],
+     [
+      56.39,
+      60.75
+     ],
+     [
+      60.75,
+      65.07
+     ],
+     [
+      65.07,
+      69.44
+     ],
+     [
+      69.44,
+      73.78
+     ],
+     [
+      73.78,
+      78.12
+     ],
+     [
+      78.12,
+      82.43
+     ]
+    ],
+    "measure_note": "modern_boxAF v. 4.20 schedules are FULLY BOXED 15-row grids, so a row lies BETWEEN its own two printed rules and nothing is extrapolated (\u00a7A1's above-the-rule rule does not apply). rowbands.py at 200 dpi (raw frame) returned 16 grid rules on this page, giving exactly the 15 printed data bands counted on the full-page read; the rules below 82.6%% belong to the footer boxes and are excluded. TWO-CROP PROOF at 600 dpi: band 1 (pct:79.61,17.35,13.12,4.34@p6) rendered '$980.00' and the last transcribed band 8 (pct:79.61,47.73,13.12,4.34@p6) rendered '$980.90'. ONE-PAST CONTROL: band 9 (pct:79.61,52.07,13.12,4.32@p6) rendered an EMPTY cell - no row below the last entry, so traps \u00a7F1.5 and \u00a7H3 are ruled out on this sheet."
+   },
+   "7": {
+    "axis": "y",
+    "cell": [
+     78.84,
+     91.96
+    ],
+    "cells": [
+     [
+      8.6,
+      21.05
+     ],
+     [
+      21.05,
+      51.55
+     ],
+     [
+      51.55,
+      78.84
+     ],
+     [
+      78.84,
+      91.96
+     ]
+    ],
+    "rows": [
+     [
+      17.02,
+      21.34
+     ],
+     [
+      21.34,
+      25.7
+     ],
+     [
+      25.7,
+      30.07
+     ],
+     [
+      30.07,
+      34.39
+     ],
+     [
+      34.39,
+      38.7
+     ],
+     [
+      38.7,
+      43.07
+     ],
+     [
+      43.07,
+      47.39
+     ],
+     [
+      47.39,
+      51.71
+     ],
+     [
+      51.71,
+      56.07
+     ],
+     [
+      56.07,
+      60.43
+     ],
+     [
+      60.43,
+      64.8
+     ],
+     [
+      64.8,
+      69.11
+     ],
+     [
+      69.11,
+      73.43
+     ],
+     [
+      73.43,
+      77.8
+     ],
+     [
+      77.8,
+      82.14
+     ]
+    ],
+    "measure_note": "modern_boxAF v. 4.20 schedules are FULLY BOXED 15-row grids, so a row lies BETWEEN its own two printed rules and nothing is extrapolated (\u00a7A1's above-the-rule rule does not apply). rowbands.py at 200 dpi (raw frame) returned 16 grid rules on this page, giving exactly the 15 printed data bands counted on the full-page read; the rules below 82.6%% belong to the footer boxes and are excluded. NOTE: the full-width scan recovered 3 vertical rules on this sheet; the Amount band 78.84-91.96 is measured here and the Date/Vendor/Purpose splits are taken from the clean Schedule B sheet p8 of the same print run. FOUR-CROP PROOF at 600 dpi: band 1 (pct:78.84,17.02,13.12,4.32@p7) rendered an EMPTY cell and band 3 (pct:78.84,25.70,13.12,4.37@p7) rendered '$24.00' - so the first written entry is on band 3, not band 1 (the \u00a7A1 skipped-line trap, live on this sheet). Band 15 (pct:78.84,77.80,13.12,4.34@p7) rendered '$8.00'. The grid is full to band 15, so the one-past control was taken outside it: pct:78.84,82.14,13.12,4.00@p7 rendered '$ 5,751.31', the printed page subtotal."
+   },
+   "8": {
+    "axis": "y",
+    "cell": [
+     79.55,
+     92.66
+    ],
+    "cells": [
+     [
+      8.58,
+      21.61
+     ],
+     [
+      21.61,
+      51.52
+     ],
+     [
+      51.52,
+      79.55
+     ],
+     [
+      79.55,
+      92.66
+     ]
+    ],
+    "rows": [
+     [
+      17.44,
+      21.75
+     ],
+     [
+      21.75,
+      26.12
+     ],
+     [
+      26.12,
+      30.44
+     ],
+     [
+      30.44,
+      34.8
+     ],
+     [
+      34.8,
+      39.16
+     ],
+     [
+      39.16,
+      43.48
+     ],
+     [
+      43.48,
+      47.8
+     ],
+     [
+      47.8,
+      52.16
+     ],
+     [
+      52.16,
+      56.48
+     ],
+     [
+      56.48,
+      60.8
+     ],
+     [
+      60.8,
+      65.16
+     ],
+     [
+      65.16,
+      69.53
+     ],
+     [
+      69.53,
+      73.84
+     ],
+     [
+      73.84,
+      78.21
+     ],
+     [
+      78.21,
+      82.53
+     ]
+    ],
+    "measure_note": "modern_boxAF v. 4.20 schedules are FULLY BOXED 15-row grids, so a row lies BETWEEN its own two printed rules and nothing is extrapolated (\u00a7A1's above-the-rule rule does not apply). rowbands.py at 200 dpi (raw frame) returned 16 grid rules on this page, giving exactly the 15 printed data bands counted on the full-page read; the rules below 82.6%% belong to the footer boxes and are excluded. THREE-CROP PROOF at 600 dpi: band 1 (pct:79.55,17.44,13.11,4.31@p8) rendered '$136.62' and band 15 (pct:79.55,78.21,13.11,4.32@p8) rendered '$20.92'. FULL GRID, so the one-past control was taken outside it: pct:79.55,82.53,13.11,4.00@p8 rendered '$ 5461.37', the printed page subtotal."
+   },
+   "9": {
+    "axis": "y",
+    "cell": [
+     78.88,
+     91.94
+    ],
+    "cells": [
+     [
+      8.6,
+      21.03
+     ],
+     [
+      21.03,
+      51.55
+     ],
+     [
+      51.55,
+      78.88
+     ],
+     [
+      78.88,
+      91.94
+     ]
+    ],
+    "rows": [
+     [
+      17.07,
+      21.39
+     ],
+     [
+      21.39,
+      25.75
+     ],
+     [
+      25.75,
+      30.11
+     ],
+     [
+      30.11,
+      34.43
+     ],
+     [
+      34.43,
+      38.75
+     ],
+     [
+      38.75,
+      43.11
+     ],
+     [
+      43.11,
+      47.43
+     ],
+     [
+      47.43,
+      51.75
+     ],
+     [
+      51.75,
+      56.11
+     ],
+     [
+      56.11,
+      60.48
+     ],
+     [
+      60.48,
+      64.84
+     ],
+     [
+      64.84,
+      69.16
+     ],
+     [
+      69.16,
+      73.5
+     ],
+     [
+      73.5,
+      77.84
+     ],
+     [
+      77.84,
+      82.21
+     ]
+    ],
+    "measure_note": "modern_boxAF v. 4.20 schedules are FULLY BOXED 15-row grids, so a row lies BETWEEN its own two printed rules and nothing is extrapolated (\u00a7A1's above-the-rule rule does not apply). rowbands.py at 200 dpi (raw frame) returned 16 grid rules on this page, giving exactly the 15 printed data bands counted on the full-page read; the rules below 82.6%% belong to the footer boxes and are excluded. NOTE: 3 vertical rules recovered; Amount band 78.88-91.94 measured on this page, the other splits taken from p8. THREE-CROP PROOF at 600 dpi: band 1 (pct:78.88,17.07,13.06,4.32@p9) rendered '$15.98'; the last transcribed band 12 (pct:78.88,64.84,13.06,4.32@p9) rendered '$1500.00'; ONE-PAST CONTROL band 13 (pct:78.88,69.16,13.06,4.34@p9) rendered an EMPTY cell."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 2,
+    "row": 1,
+    "date": "1/16/2022",
+    "donor_raw": "Robert Richie",
+    "donor_city": "Takoma Park",
+    "donor_state": "MD",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "2",
+    "page": 2,
+    "row": 2,
+    "date": "2/17/2022",
+    "donor_raw": "Chris Gullickson",
+    "donor_city": "Plymouth",
+    "donor_state": "MN",
+    "amount": "10.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "3",
+    "page": 2,
+    "row": 3,
+    "date": "2/26/2022",
+    "donor_raw": "Marcus Jessop",
+    "donor_city": "Vineyard",
+    "donor_state": "UT",
+    "amount": "519.52",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "4",
+    "page": 2,
+    "row": 4,
+    "date": "2/26/2022",
+    "donor_raw": "Dan Hauser",
+    "donor_city": "Alpine",
+    "donor_state": "UT",
+    "amount": "259.92",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "5",
+    "page": 2,
+    "row": 5,
+    "date": "2/26/2022",
+    "donor_raw": "Phil Adams",
+    "donor_city": "East Peoria",
+    "donor_state": "IL",
+    "amount": "26.27",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "6",
+    "page": 2,
+    "row": 6,
+    "date": "3/3/2022",
+    "donor_raw": "Spencer Cox",
+    "donor_city": "SLC",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; city printed as the abbreviation 'SLC', kept as the filer wrote it"
+   },
+   {
+    "line_no": "7",
+    "page": 2,
+    "row": 7,
+    "date": "3/15/2022",
+    "donor_raw": "Mark Gardner",
+    "donor_city": "Taylorsville",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; the date cell carries a faint stray mark to the left of the date, and two small marks sit in the name cell - neither alters the printed values"
+   },
+   {
+    "line_no": "8",
+    "page": 2,
+    "row": 8,
+    "date": "3/15/2022",
+    "donor_raw": "Thomas Butler",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "9",
+    "page": 2,
+    "row": 9,
+    "date": "3/20/2022",
+    "donor_raw": "Helen Porter",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the ADDRESS CELL PRINTS THE WORD 'Anonymous' - it is neither a redaction nor an empty cell nor an address: the filer wrote a disclosure status where the address goes. city/state honestly BLANK for that reason (a distinct cause from the redacted/left-empty/zip-only/lost-in-reproduction/city-without-state/no-address-field/payment-channel causes already on record). The donor IS named on the page; only the address is withheld by the filer"
+   },
+   {
+    "line_no": "10",
+    "page": 2,
+    "row": 10,
+    "date": "3/19/2022",
+    "donor_raw": "Laurel Price",
+    "donor_city": "Herriman",
+    "donor_state": "UT",
+    "amount": "10.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "11",
+    "page": 2,
+    "row": 11,
+    "date": "3/19/2022",
+    "donor_raw": "Adrielle Herring",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "12",
+    "page": 2,
+    "row": 12,
+    "date": "3/19/2022",
+    "donor_raw": "Jessica Egbert",
+    "donor_city": "Mapleton",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "13",
+    "page": 2,
+    "row": 13,
+    "date": "3/19/2022",
+    "donor_raw": "John Pestana",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "14",
+    "page": 2,
+    "row": 14,
+    "date": "3/19/2022",
+    "donor_raw": "Eric Moutsos",
+    "donor_city": "Washington",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; the city is the UTAH town of Washington (zip 84780 printed), not Washington DC"
+   },
+   {
+    "line_no": "15",
+    "page": 2,
+    "row": 15,
+    "date": "3/19/2022",
+    "donor_raw": "Mike Green",
+    "donor_city": "Draper",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 1,
+    "date": "3/19/2022",
+    "donor_raw": "Aimee Winder Newton",
+    "donor_city": "Taylorsville",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 2,
+    "date": "3/19/2022",
+    "donor_raw": "Jennifer Scott",
+    "donor_city": "West Jordan",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; the printed zip carries a trailing stray character ('84088J') - noted, not carried, since zips are not published"
+   },
+   {
+    "line_no": "18",
+    "page": 3,
+    "row": 3,
+    "date": "3/20/2022",
+    "donor_raw": "Ailana Nair",
+    "donor_city": "Vineyard",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "19",
+    "page": 3,
+    "row": 4,
+    "date": "3/20/2022",
+    "donor_raw": "Jeremy Cai",
+    "donor_city": "Park City",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "20",
+    "page": 3,
+    "row": 5,
+    "date": "3/20/2022",
+    "donor_raw": "Carl Drowning",
+    "donor_city": "Hurricane",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "21",
+    "page": 3,
+    "row": 6,
+    "date": "3/20/2022",
+    "donor_raw": "Jennifer Andalin",
+    "donor_city": "West Jordan",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "22",
+    "page": 3,
+    "row": 7,
+    "date": "3/21/2022",
+    "donor_raw": "Greg Rintala",
+    "donor_city": "Rio Verde",
+    "donor_state": "AZ",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "23",
+    "page": 3,
+    "row": 8,
+    "date": "3/22/2022",
+    "donor_raw": "Jefferson Moss",
+    "donor_city": "Saratoga Springs",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "24",
+    "page": 3,
+    "row": 10,
+    "date": "3/24/2022",
+    "donor_raw": "Jeff Hartley",
+    "donor_city": "Alpine",
+    "donor_state": "UT",
+    "amount": "4000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; printed band 9 is WHOLLY EMPTY (crop-proved), so this entry sits on band 10 - the row index is not the entry ordinal"
+   },
+   {
+    "line_no": "25",
+    "page": 3,
+    "row": 11,
+    "date": "3/25/2022",
+    "donor_raw": "Justin Anderson",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "26",
+    "page": 3,
+    "row": 12,
+    "date": "3/25/2022",
+    "donor_raw": "John Curtis",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "27",
+    "page": 3,
+    "row": 13,
+    "date": "3/26/2022",
+    "donor_raw": "Allyson Bell",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "28",
+    "page": 3,
+    "row": 14,
+    "date": "3/26/2022",
+    "donor_raw": "Kory Holdaway",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "29",
+    "page": 3,
+    "row": 15,
+    "date": "3/27/2022",
+    "donor_raw": "Jon Hawkins",
+    "donor_city": "Pleasant Grove",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "30",
+    "page": 4,
+    "row": 1,
+    "date": "3/30/2022",
+    "donor_raw": "Jordan Teuscher",
+    "donor_city": "South Jordan",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "31",
+    "page": 4,
+    "row": 7,
+    "date": "3/8/2022",
+    "donor_raw": "Bryant Nielson",
+    "donor_city": "Arlington",
+    "donor_state": "VA",
+    "amount": "208.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; printed bands 2-6 are WHOLLY EMPTY (crop-proved), so the second entry on this sheet sits on band 7"
+   },
+   {
+    "line_no": "32",
+    "page": 4,
+    "row": 8,
+    "date": "3/8/2022",
+    "donor_raw": "Brady Brammer",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "259.92",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "33",
+    "page": 4,
+    "row": 9,
+    "date": "3/12/2022",
+    "donor_raw": "Marsha Judkins",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "104.15",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "34",
+    "page": 4,
+    "row": 10,
+    "date": "3/14/2022",
+    "donor_raw": "Adam Gardiner",
+    "donor_city": "West Jordan",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "35",
+    "page": 4,
+    "row": 11,
+    "date": "3/15/2022",
+    "donor_raw": "Trace Mayer",
+    "donor_city": "Las Vegas",
+    "donor_state": "NV",
+    "amount": "1038.73",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "36",
+    "page": 4,
+    "row": 12,
+    "date": "3/15/2022",
+    "donor_raw": "Michelle Scharf",
+    "donor_city": "Layton",
+    "donor_state": "UT",
+    "amount": "52.23",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "37",
+    "page": 4,
+    "row": 13,
+    "date": "3/30/2022",
+    "donor_raw": "Mark Cook",
+    "donor_city": "Draper",
+    "donor_state": "UT",
+    "amount": "52.23",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; the filer printed a city and state but NO ZIP on this row"
+   },
+   {
+    "line_no": "38",
+    "page": 4,
+    "row": 14,
+    "date": "3/30/2022",
+    "donor_raw": "Thomas Wright",
+    "donor_city": "Park City",
+    "donor_state": "UT",
+    "amount": "4000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; city and state printed, no zip"
+   },
+   {
+    "line_no": "39",
+    "page": 4,
+    "row": 15,
+    "date": "3/30/2022",
+    "donor_raw": "Cole LaCroix",
+    "donor_city": "Washington",
+    "donor_state": "D.C.",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; the address cell prints 'Washington D.C., 20009' - a district, not a state abbreviation; recorded as printed and nothing inferred from the zip"
+   },
+   {
+    "line_no": "40",
+    "page": 5,
+    "row": 1,
+    "date": "3/28/2022",
+    "donor_raw": "Ruffin Judd",
+    "donor_city": "St George",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "41",
+    "page": 5,
+    "row": 2,
+    "date": "3/29/2022",
+    "donor_raw": "Thomas Cox",
+    "donor_city": "Ridgefield",
+    "donor_state": "WA",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "42",
+    "page": 5,
+    "row": 3,
+    "date": "3/29/2022",
+    "donor_raw": "Belva Parr",
+    "donor_city": "Lindon",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "43",
+    "page": 5,
+    "row": 4,
+    "date": "3/30/2022",
+    "donor_raw": "Jeff Hartley",
+    "donor_city": "Alpine",
+    "donor_state": "UT",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; the SAME donor also gave 4,000.00 on 3/24/2022 (p3 band 10) - two separate printed entries, published as two rows exactly as the document reports them"
+   },
+   {
+    "line_no": "44",
+    "page": 5,
+    "row": 6,
+    "date": "3/30/2022",
+    "donor_raw": "Dan Hemmert",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; printed band 5 is WHOLLY EMPTY (crop-proved), so this entry sits on band 6"
+   },
+   {
+    "line_no": "45",
+    "page": 5,
+    "row": 7,
+    "date": "3/30/2022",
+    "donor_raw": "Sam Castor",
+    "donor_city": "Las Vegas",
+    "donor_state": "NV",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "46",
+    "page": 5,
+    "row": 8,
+    "date": "3/30/2022",
+    "donor_raw": "Spencer Stokes",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "47",
+    "page": 5,
+    "row": 9,
+    "date": "3/30/2022",
+    "donor_raw": "Sarah Hunt",
+    "donor_city": "Washington",
+    "donor_state": "D.C.",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; the address cell prints 'Washington D.C. 20003'"
+   },
+   {
+    "line_no": "48",
+    "page": 5,
+    "row": 10,
+    "date": "3/30/2022",
+    "donor_raw": "Maurice Reeder",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "49",
+    "page": 5,
+    "row": 11,
+    "date": "3/31/2022",
+    "donor_raw": "Ryan McCoy",
+    "donor_city": "South Jordan",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "50",
+    "page": 5,
+    "row": 12,
+    "date": "3/25/2022",
+    "donor_raw": "Brandon Fugal",
+    "donor_city": "South Jordan",
+    "donor_state": "UT",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; dated 3/25 among rows dated 3/30-3/31 - the filer's own ordering, kept verbatim"
+   },
+   {
+    "line_no": "51",
+    "page": 5,
+    "row": 13,
+    "date": "3/31/2022",
+    "donor_raw": "Eric Heaps",
+    "donor_city": "Santaquin",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "52",
+    "page": 5,
+    "row": 14,
+    "date": "3/31/2022",
+    "donor_raw": "Jim Evans",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "53",
+    "page": 5,
+    "row": 15,
+    "date": "3/31/2022",
+    "donor_raw": "Yemi Aruasi",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "54",
+    "page": 6,
+    "row": 1,
+    "date": "3/15/2022",
+    "donor_raw": "Seth Sunderland",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "980.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; 980.00 here vs 980.90 on the same sheet's rows 2 and 8 - the page's own subtotal 3,578.95 closes ONLY with 980.00, so the arithmetic settles the reading"
+   },
+   {
+    "line_no": "55",
+    "page": 6,
+    "row": 2,
+    "date": "3/15/2022",
+    "donor_raw": "Curtis Blair",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "980.90",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "56",
+    "page": 6,
+    "row": 3,
+    "date": "3/13/2022",
+    "donor_raw": "Marc Roberts",
+    "donor_city": "Salem",
+    "donor_state": "UT",
+    "amount": "245.15",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "57",
+    "page": 6,
+    "row": 4,
+    "date": "3/12/2022",
+    "donor_raw": "Jason Richardson",
+    "donor_city": "South Jordan",
+    "donor_state": "UT",
+    "amount": "98.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "58",
+    "page": 6,
+    "row": 5,
+    "date": "3/28/2022",
+    "donor_raw": "Anthony Loubet",
+    "donor_city": "Kearns",
+    "donor_state": "UT",
+    "amount": "98.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried; the black bar overlaps the top of the city line, which still reads Kearns, UT"
+   },
+   {
+    "line_no": "59",
+    "page": 6,
+    "row": 6,
+    "date": "3/28/2022",
+    "donor_raw": "Stewart Peay",
+    "donor_city": "Alpine",
+    "donor_state": "UT",
+    "amount": "98.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "60",
+    "page": 6,
+    "row": 7,
+    "date": "3/17/2022",
+    "donor_raw": "David Acheson",
+    "donor_city": "Salem",
+    "donor_state": "UT",
+    "amount": "98.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   },
+   {
+    "line_no": "61",
+    "page": 6,
+    "row": 8,
+    "date": "3/17/2022",
+    "donor_raw": "Jeff Burningham",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "980.90",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "street line REDACTED BY THE COUNTY (a black bar over the address line); the city/state line below the bar prints in the clear and is what is carried"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 7,
+    "row": 3,
+    "date": "2/21/2022",
+    "vendor_raw": "doTERRA International",
+    "purpose": "Elected Women of Utah Semi-Annual Forum",
+    "amount": "24.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed bands 1 and 2 of this sheet are WHOLLY EMPTY (crop-proved), so the schedule's first entry sits on band 3 - the filer skipped the first two ruled lines"
+   },
+   {
+    "line_no": "2",
+    "page": 7,
+    "row": 4,
+    "date": "3/8/2022",
+    "vendor_raw": "Emily Pearl",
+    "purpose": "Campaign Photoshoot",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 7,
+    "row": 5,
+    "date": "2/28/2022",
+    "vendor_raw": "Utah County Republican Women",
+    "purpose": "Amelia for Utah County Commission",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the purpose cell repeats the campaign's own name, as printed"
+   },
+   {
+    "line_no": "4",
+    "page": 7,
+    "row": 6,
+    "date": "3/2/2022",
+    "vendor_raw": "U.S. Senate Candidate Series",
+    "purpose": "Event",
+    "amount": "136.62",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "5",
+    "page": 7,
+    "row": 7,
+    "date": "3/2/2022",
+    "vendor_raw": "Tactical Campaigns",
+    "purpose": "Campaign Christmas Cards",
+    "amount": "1158.13",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed with a thousands comma as '$1,158.13'"
+   },
+   {
+    "line_no": "6",
+    "page": 7,
+    "row": 8,
+    "date": "3/5/2022",
+    "vendor_raw": "Utah County Republican Party",
+    "purpose": "Utah County Republican Party",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the purpose cell repeats the payee, as printed"
+   },
+   {
+    "line_no": "7",
+    "page": 7,
+    "row": 9,
+    "date": "3/5/2022",
+    "vendor_raw": "Outcry Digital",
+    "purpose": "Christmas Cards",
+    "amount": "265.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "amount printed WITHOUT a dollar sign, unlike its neighbours; the figure itself is plain"
+   },
+   {
+    "line_no": "8",
+    "page": 7,
+    "row": 10,
+    "date": "2/27/2022",
+    "vendor_raw": "Curtis for Congress",
+    "purpose": "Curtis for Congress Donation",
+    "amount": "29.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "9",
+    "page": 7,
+    "row": 11,
+    "date": "3/2/2022",
+    "vendor_raw": "Utah County Elections Office",
+    "purpose": "Filing Fee",
+    "amount": "744.56",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the county filing fee, recorded because the page prints it; per the wave rule it is NEVER used to corroborate any other figure"
+   },
+   {
+    "line_no": "10",
+    "page": 7,
+    "row": 12,
+    "date": "3/7/2022",
+    "vendor_raw": "Laurel Price",
+    "purpose": "Fundraiser Postage",
+    "amount": "181.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the same person appears as a 10.00 CONTRIBUTOR on p2 band 10; the two are separate printed entries about separate transactions and neither informs the other"
+   },
+   {
+    "line_no": "11",
+    "page": 7,
+    "row": 13,
+    "date": "3/8/2022",
+    "vendor_raw": "Amber Howard",
+    "purpose": "Campaign Supplies",
+    "amount": "85.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 7,
+    "row": 14,
+    "date": "3/1/2022",
+    "vendor_raw": "Amie Winder Newton",
+    "purpose": "Donation",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "spelled 'Amie' here and 'Aimee Winder Newton' as a contributor on p3 band 1; both kept verbatim, neither normalized to the other"
+   },
+   {
+    "line_no": "13",
+    "page": 7,
+    "row": 15,
+    "date": "3/7/2022",
+    "vendor_raw": "Parking for Campaign Event",
+    "purpose": "Parking for Campaign Event",
+    "amount": "8.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee cell holds a DESCRIPTION rather than a vendor name; kept verbatim in the vendor field because that is what the Provider/Vendor column prints (\u00a7G3: assign by content, and here the content is a description on both sides)"
+   },
+   {
+    "line_no": "14",
+    "page": 8,
+    "row": 1,
+    "date": "3/4/2022",
+    "vendor_raw": "Utah Federation of Republican Women",
+    "purpose": "Utah Federation of Republican Women",
+    "amount": "136.62",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "15",
+    "page": 8,
+    "row": 2,
+    "date": "3/4/2022",
+    "vendor_raw": "Professional Republican Women",
+    "purpose": "Professional Republican Women",
+    "amount": "19.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "16",
+    "page": 8,
+    "row": 3,
+    "date": "3/2/2022",
+    "vendor_raw": "Utah County Republican Party",
+    "purpose": "Utah County Republican Party",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "17",
+    "page": 8,
+    "row": 4,
+    "date": "2/28/2022",
+    "vendor_raw": "Costco",
+    "purpose": "Costco",
+    "amount": "547.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "amount printed without a dollar sign"
+   },
+   {
+    "line_no": "18",
+    "page": 8,
+    "row": 5,
+    "date": "2/24/2022",
+    "vendor_raw": "PG Printers",
+    "purpose": "Posters, Flyers, Biz Cards",
+    "amount": "291.18",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 8,
+    "row": 6,
+    "date": "2/23/2022",
+    "vendor_raw": "Professional Republican Women",
+    "purpose": "Lunch",
+    "amount": "24.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "20",
+    "page": 8,
+    "row": 7,
+    "date": "2/15/2022",
+    "vendor_raw": "Website",
+    "purpose": "Domain Fee",
+    "amount": "6.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "21",
+    "page": 8,
+    "row": 8,
+    "date": "2/7/2022",
+    "vendor_raw": "Brandon Beckham",
+    "purpose": "Campaign Donations",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "22",
+    "page": 8,
+    "row": 9,
+    "date": "1/15/2022",
+    "vendor_raw": "Website",
+    "purpose": "Domain Fee",
+    "amount": "6.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "23",
+    "page": 8,
+    "row": 10,
+    "date": "12/30/2022",
+    "vendor_raw": "Jordan Teuscter",
+    "purpose": "Campaign Donation",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "DATE PRINTED AS 12/30/2022 - AFTER this report's own 3/30/2022 date; kept VERBATIM and not adjudicated (the filer most likely meant 2021, but nothing on the page says so). Payee spelled 'Teuscter' here; a 'Jordan Teuscher' appears as a contributor on p4 band 1 - both spellings kept verbatim"
+   },
+   {
+    "line_no": "24",
+    "page": 8,
+    "row": 11,
+    "date": "12/24/2022",
+    "vendor_raw": "PG Printers",
+    "purpose": "Christmas Cards",
+    "amount": "75.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "date printed as 12/24/2022, after the report date; verbatim, not adjudicated"
+   },
+   {
+    "line_no": "25",
+    "page": 8,
+    "row": 12,
+    "date": "3/15/2022",
+    "vendor_raw": "Website",
+    "purpose": "Domain Fee",
+    "amount": "6.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "26",
+    "page": 8,
+    "row": 13,
+    "date": "3/12/2022",
+    "vendor_raw": "Amazon",
+    "purpose": "Campaign Booth Items",
+    "amount": "159.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "27",
+    "page": 8,
+    "row": 14,
+    "date": "3/14/2022",
+    "vendor_raw": "Candid Communications",
+    "purpose": "Candid Communications",
+    "amount": "4000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "28",
+    "page": 8,
+    "row": 15,
+    "date": "3/15/2022",
+    "vendor_raw": "UPS",
+    "purpose": "Campaign Flyers",
+    "amount": "20.92",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "29",
+    "page": 9,
+    "row": 1,
+    "date": "3/15/2022",
+    "vendor_raw": "Walgreens",
+    "purpose": "Address Labels",
+    "amount": "15.98",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "30",
+    "page": 9,
+    "row": 2,
+    "date": "3/15/2022",
+    "vendor_raw": "PG Printers",
+    "purpose": "Flyers",
+    "amount": "636.09",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "31",
+    "page": 9,
+    "row": 3,
+    "date": "3/15/2022",
+    "vendor_raw": "Hobby Lobby",
+    "purpose": "Event Table Cloth",
+    "amount": "31.33",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "32",
+    "page": 9,
+    "row": 4,
+    "date": "3/28/2022",
+    "vendor_raw": "That's Great News",
+    "purpose": "Plaque",
+    "amount": "199.90",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "33",
+    "page": 9,
+    "row": 5,
+    "date": "3/17/2022",
+    "vendor_raw": "Emily Pearl",
+    "purpose": "Campaign Photoshoot",
+    "amount": "2290.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "34",
+    "page": 9,
+    "row": 6,
+    "date": "3/18/2022",
+    "vendor_raw": "Hale Center Theater",
+    "purpose": "Fundraiser Deposit",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "35",
+    "page": 9,
+    "row": 7,
+    "date": "3/16/2022",
+    "vendor_raw": "Staples",
+    "purpose": "Campaign Supplies",
+    "amount": "38.04",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "36",
+    "page": 9,
+    "row": 8,
+    "date": "3/16/2022",
+    "vendor_raw": "Dollar Tree",
+    "purpose": "Campaign Supplies",
+    "amount": "1.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "37",
+    "page": 9,
+    "row": 9,
+    "date": "3/24/2022",
+    "vendor_raw": "Smiths",
+    "purpose": "Flowers for Event",
+    "amount": "21.44",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "38",
+    "page": 9,
+    "row": 10,
+    "date": "3/25/2022",
+    "vendor_raw": "Checks.com",
+    "purpose": "Checkbooks",
+    "amount": "13.89",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "39",
+    "page": 9,
+    "row": 11,
+    "date": "3/25/2022",
+    "vendor_raw": "IKEA",
+    "purpose": "Chairs for Events",
+    "amount": "208.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "40",
+    "page": 9,
+    "row": 12,
+    "date": "3/22/2022",
+    "vendor_raw": "Tactical Campaigns",
+    "purpose": "Campaign Consulting",
+    "amount": "1500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   }
+  ],
+  "notes": "12-PDF-page document = a 10-page filing + a clerk work product + a blank verso. Every page classified from its own printed header, never by ordinal: p1 COVER; pp2-6 SCHEDULE A - Itemized Contributions Received (five sheets); pp7-9 SCHEDULE B - Itemized Expenditures Made (three sheets); p10 SUMMARY PAGE (boxes A / B / C / D / E / F and an UNLETTERED 'Balance at Close of Reporting Period (Box F - Box D)' - the v. 4.20 signature, not the lettered G of the newer 2022 blank); p11 the ELECTIONS DIVISION 'Campaign Financial Disclosure Checklist' - THE CHECKLIST DECOY, carrying zero dollar figures, with TWO staff-reviewed copies on the one sheet (red ticks, 'Staff Signature #1', dated 4/4/22; a magenta-ticked copy, 'Staff Signature #2', dated 4/4/22). It is the OTHER documented checklist revision from the one in this chunk's Diamond filing: this one carries a HOLD box in the header and numbered #1/#2 signature lines, and its Summary-Page sub-list ends 'POSITIVE balance at Close of Reporting Period'. p12 BLANK. So this filing binds a checklist at p11 with the genuine summary at p10 - again the immediately-after pattern, and again located by content. FORM: modern_boxAF, revision 'v. 4.20' printed in the footer of pp1-10; five report types on the cover including 'Seven days preceding Convention', which is the filled radio (index.csv's period label 'Convention' agrees with the page face); the amendment question is answered 'No'. TWO MASTHEAD VINTAGES INSIDE ONE FILING, and they alternate by SHEET, not by section: pp1, 7, 8 and 9 are headed 'Josh Daniels Clerk/Auditor' while pp2, 3, 4, 5, 6 and 10 are headed 'Amelia Powers Gardner Clerk/Auditor' - the filer of this very report is the Clerk/Auditor named on six of her own sheets, since she held that office while running for Commission Seat A. Cover and schedule blanks were stocked independently; neither predicts the other. SHEETS ARE BOUND OUT OF THE FILER'S OWN FOLIATION ORDER: PDF page 3 is foliated 'Page 4' and PDF page 4 is foliated 'Page 3'. Both are Schedule A sheets so no side was swapped, but it is a live instance of the rule that a page ordinal locates nothing - the record's `page` values are ABSOLUTE PDF pages, and each row's sheet is identified by its own printed subtotal. THREE DATES DISAGREE INSIDE THE DOCUMENT and none was adjudicated: the cover's 'Date of Report' box prints 3/30/2022, the cover's signature Date box prints 04/02/2022, and the footer 'Date of Report' boxes read 3/30/2022 on pp1-5 and 7-8 but 3/31/2022 on pp6, 9 and 10. All transcribed as printed. A STRAY '$100.00' IS PRINTED OUTSIDE THE GRID on PDF p3, up in the top-right white space OVER the ELECTIONS DIVISION logo, above the form's own frame, together with a small 'x' in the top-left corner. It occupies no cell, and the sheet's 15 bands already sum exactly to its printed 7,145.00 subtotal, so it is NOT an entry and was not assigned a slot (the \u00a7I2 discipline: take a value only from a cell that exists). REDACTION IS UPSTREAM, PER CELL, AND PARTIAL BY DESIGN: on every contribution row the county blacked out the STREET line and left the city/state/zip line below it in the clear, which is exactly the level this record publishes; the cover's Address block and the Signature block are blacked out too, while the cover's phone and email print in the clear (neither carried). No schedule row is illegible as a result. Two contribution rows print a city and state but no zip, one address cell prints the word 'Anonymous' instead of an address, and two print a District of Columbia address - each noted on its row. PAGE-FACE NAME 'Amelia Powers Gardner' on all ten report pages, matching index.csv; page-face office 'Utah County Commission Seat A'."
+ }
+]

@@ -17,7 +17,16 @@ What it adds (everything carries a leading `city` column, like the core):
                     use cf_cycle for any per-candidate/race total (repo rule).
   cf_contribution   union of campaign_finance/contributions.csv (+ amount_num REAL parsed)
   cf_expenditure    union of campaign_finance/expenditures.csv  (+ amount_num REAL parsed)
-  cf_cycle          union of campaign_finance/cycle_totals.csv — the deduped rollup
+  cf_cycle          union of campaign_finance/cycle_totals.csv — the deduped rollup.
+                    CITY-ONLY: only `level=='city'` entities are read into it.
+  cf_cycle_county   union of campaign_finance/cycle_totals_county.csv — the COUNTY-tier
+                    per-candidate-cycle rollup (2026-08-23), read ONLY from non-city
+                    entities. A DIFFERENT MEASUREMENT from cf_cycle: derived per cycle
+                    from that cycle's own printed arithmetic, carrying `regime`, a
+                    separated `carryover_opening`, `is_floor`, chain proof, governing-filing
+                    provenance and honest GAP rows. Never rank a cf_cycle figure against a
+                    cf_cycle_county one without reading both `basis`/`regime` — the
+                    `v_cf_cycle_all` view unions them and carries that caveat on every row.
   cf_candidate_person  (city, candidate) → person_id crosswalk, exact name-key matches
                     only; person_id NULL where no safe match (never forced)
   ordinance         union of every ordinances/index.csv (SCHEMA_SPEC §9 contract
@@ -146,7 +155,9 @@ DROP TABLE IF EXISTS comment;
 DROP TABLE IF EXISTS cf_filing;
 DROP TABLE IF EXISTS cf_contribution;
 DROP TABLE IF EXISTS cf_expenditure;
+DROP VIEW IF EXISTS v_cf_cycle_all;
 DROP TABLE IF EXISTS cf_cycle;
+DROP TABLE IF EXISTS cf_cycle_county;
 DROP TABLE IF EXISTS cf_candidate_person;
 DROP TABLE IF EXISTS ordinance;
 DROP TABLE IF EXISTS document;
@@ -185,7 +196,12 @@ CREATE TABLE cf_contribution (
     donor_raw TEXT, donor_normalized TEXT, donor_type TEXT, donor_city TEXT,
     donor_state TEXT, donor_district TEXT, amount TEXT, amount_num REAL,
     in_kind TEXT, is_incremental TEXT, source_filing TEXT, document_id TEXT,
-    line_no TEXT, extraction_confidence TEXT, extract_method TEXT, needs_review TEXT
+    line_no TEXT, extraction_confidence TEXT, extract_method TEXT, needs_review TEXT,
+    -- donor_occupation: the Occupation/Employer the filer wrote on the form, VERBATIM.
+    -- Populated ONLY by salt_lake_county's 2015-2021 paper slice, whose Schedule A
+    -- pre-prints the column (owner decision 2026-08-20); NULL everywhere else, which
+    -- means "the form has no such field", never "the filer left it blank".
+    donor_occupation TEXT
 );
 CREATE TABLE cf_expenditure (
     city TEXT NOT NULL, candidate TEXT, office TEXT, seat TEXT,
@@ -200,6 +216,24 @@ CREATE TABLE cf_cycle (
     seat TEXT, raised REAL, spent REAL, n_filings TEXT, n_live TEXT,
     basis TEXT, review_flag TEXT
 );
+CREATE TABLE cf_cycle_county (
+    -- The COUNTY per-candidate-cycle rollup. DERIVED — regenerate with
+    -- `python3 scripts/campaign_finance/cycle_totals_county.py --all`, never hand-edit;
+    -- corrections go through <county>/campaign_finance/cycle_overrides_county.csv.
+    -- Method + honest ceilings: COUNTY_CYCLE_REDUCER_SPEC.md and the two caveat rows
+    -- `cf-cycle-tiers` / `cf-cycle-county-method`.
+    city TEXT NOT NULL, candidate TEXT, election_year TEXT, office TEXT, seat TEXT,
+    regime TEXT, regime_basis TEXT,
+    raised_gross REAL, spent_gross REAL,
+    carryover_opening REAL, carryover_basis TEXT, raised_net_of_carryover REAL,
+    ending_balance REAL, chain_closes TEXT,
+    n_filings INTEGER, n_live INTEGER, n_governing INTEGER, chain_len INTEGER,
+    is_floor TEXT, in_kind_basis TEXT, confidence TEXT,
+    governing_filings TEXT, excluded_filings TEXT, gap_reason TEXT,
+    itemized_check_raised REAL, itemized_check_spent REAL, itemized_check_note TEXT,
+    review_flag TEXT
+);
+CREATE INDEX idx_cfcc_cand ON cf_cycle_county(city, candidate, election_year);
 CREATE TABLE cf_candidate_person (
     city TEXT NOT NULL, candidate TEXT NOT NULL,
     person_id INTEGER REFERENCES person(person_id),
@@ -288,6 +322,34 @@ CREATE VIEW v_term_provenance AS
 SELECT city, confidence, COUNT(*) AS n_terms
 FROM term
 GROUP BY city, confidence;
+
+-- v_cf_cycle_all — THE DELIBERATE CROSS-TIER DOOR. Unions the CITY rollup (cf_cycle) with
+-- the COUNTY rollup (cf_cycle_county) so "who raised the most" is one query, while the
+-- `cf-cycle-tiers` caveat rides EVERY ROW because the two are DIFFERENT MEASUREMENTS:
+--   * city   `basis`  = summary | sum-interim | single | max-mixed | override — a dedup of
+--            stated totals with NO carryover concept and no governing-filing provenance;
+--   * county `regime` = per-period | cumulative | *-single | undetermined, derived from
+--            each cycle's own printed arithmetic, with carryover_opening SEPARATE and
+--            `is_floor` marking a published LOWER BOUND rather than a total.
+-- Read `basis`/`regime` and `is_floor` before ranking a city figure against a county one.
+-- GAP rows are deliberately EXCLUDED here (a gap is not a total) but remain in
+-- cf_cycle_county, which is where a coverage question is asked.
+CREATE VIEW v_cf_cycle_all AS
+  SELECT c.city, e.level AS gov_level, c.candidate, c.election_year, c.office, c.seat,
+         c.raised AS raised, c.spent AS spent,
+         NULL AS carryover_opening, c.basis AS basis, NULL AS regime,
+         NULL AS confidence, '' AS is_floor, c.review_flag,
+         (SELECT caveat FROM caveat WHERE city='*' AND code='cf-cycle-tiers') AS tier_caveat
+    FROM cf_cycle c JOIN entity e ON e.slug = c.city
+  UNION ALL
+  SELECT q.city, e.level, q.candidate, q.election_year, q.office, q.seat,
+         q.raised_gross, q.spent_gross,
+         q.carryover_opening, q.regime_basis, q.regime,
+         q.confidence, COALESCE(q.is_floor,''), q.review_flag,
+         (SELECT caveat FROM caveat WHERE city='*' AND code='cf-cycle-tiers')
+    FROM cf_cycle_county q JOIN entity e ON e.slug = q.city
+   WHERE q.raised_gross IS NOT NULL;
+
 """
 
 
@@ -324,7 +386,12 @@ CF_CONTRIB_COLS = ["candidate", "office", "seat", "election_year", "filing_date"
                    "donor_type", "donor_city", "donor_state", "donor_district",
                    "amount", "in_kind", "is_incremental", "source_filing",
                    "document_id", "line_no", "extraction_confidence",
-                   "extract_method", "needs_review"]
+                   "extract_method", "needs_review",
+                   # TRAILING, additive 2026-08-23 (owner decision 2026-08-20). Only
+                   # salt_lake_county's 2015-2021 paper slice populates it — every other
+                   # dataset's contributions.csv has no such column, so `r.get()` yields
+                   # NULL and not one existing row changes.
+                   "donor_occupation"]
 CF_EXPEND_COLS = ["candidate", "office", "seat", "election_year", "filing_date",
                   "reporting_period", "date", "vendor_raw", "vendor_normalized",
                   "purpose", "amount", "in_kind", "is_incremental", "source_filing",
@@ -332,9 +399,22 @@ CF_EXPEND_COLS = ["candidate", "office", "seat", "election_year", "filing_date",
                   "extract_method", "needs_review"]
 
 
+CF_CYCLE_COUNTY_COLS = [
+    "city", "candidate", "election_year", "office", "seat", "regime", "regime_basis",
+    "raised_gross", "spent_gross", "carryover_opening", "carryover_basis",
+    "raised_net_of_carryover", "ending_balance", "chain_closes",
+    "n_filings", "n_live", "n_governing", "chain_len", "is_floor", "in_kind_basis",
+    "confidence", "governing_filings", "excluded_filings", "gap_reason",
+    "itemized_check_raised", "itemized_check_spent", "itemized_check_note", "review_flag"]
+CF_CYCLE_COUNTY_NUM = {"raised_gross", "spent_gross", "carryover_opening",
+                       "raised_net_of_carryover", "ending_balance",
+                       "itemized_check_raised", "itemized_check_spent"}
+CF_CYCLE_COUNTY_INT = {"n_filings", "n_live", "n_governing", "chain_len"}
+
+
 def load_cf(out):
     counts = {"cf_filing": 0, "cf_contribution": 0, "cf_expenditure": 0,
-              "cf_cycle": 0}
+              "cf_cycle": 0, "cf_cycle_county": 0}
     # Cities first (their row order is unchanged from the city-only era), then every
     # non-city entity with a dir — county campaign_finance/ datasets federate too
     # (2026-08-01 county-acquisition package). Entities without the dataset contribute
@@ -362,14 +442,33 @@ def load_cf(out):
             out.execute("INSERT INTO cf_expenditure VALUES (?%s)"
                         % (",?" * (len(CF_EXPEND_COLS) + 1)), [c.slug] + vals)
             counts["cf_expenditure"] += 1
-        for r in read_csv(os.path.join(cf, "cycle_totals.csv")):
-            out.execute(
-                "INSERT INTO cf_cycle VALUES (?,?,?,?,?,?,?,?,?,?,?)",
-                (c.slug, r.get("candidate"), r.get("election_year"),
-                 r.get("office"), r.get("seat"), parse_amount(r.get("raised")),
-                 parse_amount(r.get("spent")), r.get("n_filings"),
-                 r.get("n_live"), r.get("basis"), r.get("review_flag")))
-            counts["cf_cycle"] += 1
+        # THE TWO CYCLE TABLES ARE TIER-GATED, AND THE GATE IS THE POINT. `cf_cycle` is
+        # CITY-ONLY (max(latest summary, summed interims) of stated totals, no carryover
+        # concept); `cf_cycle_county` is the county tier (per-cycle arithmetic, regime,
+        # separated carryover, gap rows). They are DIFFERENT MEASUREMENTS. The filenames
+        # differ so a county file can never answer to the city loader's name, and these
+        # `e.level` guards make it structural rather than conventional — see
+        # COUNTY_CYCLE_REDUCER_SPEC.md §0.
+        if getattr(c, "level", "city") == "city":
+            for r in read_csv(os.path.join(cf, "cycle_totals.csv")):
+                out.execute(
+                    "INSERT INTO cf_cycle VALUES (?,?,?,?,?,?,?,?,?,?,?)",
+                    (c.slug, r.get("candidate"), r.get("election_year"),
+                     r.get("office"), r.get("seat"), parse_amount(r.get("raised")),
+                     parse_amount(r.get("spent")), r.get("n_filings"),
+                     r.get("n_live"), r.get("basis"), r.get("review_flag")))
+                counts["cf_cycle"] += 1
+        else:
+            for r in read_csv(os.path.join(cf, "cycle_totals_county.csv")):
+                out.execute(
+                    "INSERT INTO cf_cycle_county VALUES (%s)" % ",".join(
+                        ["?"] * len(CF_CYCLE_COUNTY_COLS)),
+                    [c.slug] + [
+                        (parse_amount(r.get(k)) if k in CF_CYCLE_COUNTY_NUM
+                         else (int(r[k]) if k in CF_CYCLE_COUNTY_INT and r.get(k) not in
+                               (None, "") else r.get(k)))
+                        for k in CF_CYCLE_COUNTY_COLS[1:]])
+                counts["cf_cycle_county"] += 1
     # candidate → person crosswalk (exact name-key only; never forced)
     persons = {}
     for city, pid, nk in out.execute("SELECT city, person_id, name_key FROM person"):
@@ -763,7 +862,8 @@ def main():
         ", ".join("%s %d" % (k, v) for k, v in sorted(
             n_comments.items(), key=lambda kv: -kv[1]) if v)))
     cf_counts, n_cand, n_matched = load_cf(out)
-    for t in ("cf_filing", "cf_contribution", "cf_expenditure", "cf_cycle"):
+    for t in ("cf_filing", "cf_contribution", "cf_expenditure", "cf_cycle",
+              "cf_cycle_county"):
         log("  %-18s %6d rows" % (t, cf_counts[t]))
     log("  cf_candidate_person %5d candidates, %d matched to person (exact "
         "name-key; unmatched stay NULL)" % (n_cand, n_matched))
@@ -798,6 +898,7 @@ def main():
         ("cf_contribution", cf_counts["cf_contribution"]),
         ("cf_expenditure", cf_counts["cf_expenditure"]),
         ("cf_cycle", cf_counts["cf_cycle"]),
+        ("cf_cycle_county", cf_counts["cf_cycle_county"]),
         ("ordinance", n_ord),
         ("term", roster_counts["term"]),
         ("district_version", roster_counts["district_version"]),

@@ -1,0 +1,78 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W03.json",
+ "key": "23ed53ac",
+ "index_path": "raw/wayback_forms2018/Dec 10_Robert E Ford_FCR_12-14-2018.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/Dec 10_Robert E Ford_FCR_12-14-2018.pdf"
+ ],
+ "sha256_prefix": "6f1ed0580a6d79e3",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "2250.00",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "2250.00",
+    "cover_le50_last": "110.00",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "110.00",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A (printed 'Page 2') is a completely blank ruled grid and its printed TOTAL cell is blank. Rows-sum 0 equals the cover's line 1 THIS REPORT cell, which the filer wrote as a struck/slashed zero glyph (per the zero-glyph ruling = 0). It does NOT equal the CUMULATIVE cell 2250.00, so this filing's schedule is PER-PERIOD: a final report with no new activity, whose 2250.00 cycle total was itemized on earlier filings not in this PDF. Scope 'period' therefore differs from the CUMULATIVE figure the module publishes. Line 2 (the $50-or-less aggregate, 110.00 cumulative) is never itemized and anchors nothing."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "4,066.29",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "4,066.29",
+    "cover_balance_end": "4,066.29",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (printed 'Page 3') is a completely blank ruled grid with a blank printed TOTAL cell. Rows-sum 0 equals the cover's line 3 THIS REPORT struck-zero glyph; it does not equal the CUMULATIVE 4,066.29. Scope 'period'."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 (Form A): 0 inked rows, rows-sum 0.00, printed TOTAL cell BLANK - gated against cover line 1 THIS REPORT (zero glyph), closes. p3 (Form B): 0 inked rows, rows-sum 0.00, printed TOTAL cell BLANK - gated against cover line 3 THIS REPORT (zero glyph), closes.",
+  "row_count": "p2 and p3 rowbands.py -> geometry_status 'gaps', 34 h_rules each for ~40-row grids (tool merges the heavy every-5th group rules). Counted by eye at 200 dpi: ZERO inked data rows on each sheet. 0 rows emitted on each side - consistent.",
+  "geometry_proof": "not applicable - zero rows emitted on either side.",
+  "balance_chain": "THIS-period chain closes trivially: 0 in - 0 out = 0. CUMULATIVE chain does NOT close and the discrepancy is the FILER'S arithmetic, retained verbatim: line 1 cum 2250.00 + line 2 cum 110.00 - line 3 cum 4,066.29 = -1,706.29, yet line 4 (balance at end of period) is written 4,066.29 - i.e. the filer copied the EXPENSE cumulative into the balance line. The line 4 LAST and THIS cells are left empty. Nothing recomputed or overwritten. No earlier filing by this filer sits in this chunk, so the cross-filing TOTALS-FROM-LAST-REPORT chain could not be run."
+ },
+ "escalations": 0,
+ "escalation_note": "No disputed glyph: cover figures read cleanly at 200 dpi and both schedules are empty.",
+ "notes": "Generation-2 county-branded cover; Form A carries the 'In Kind?' column (Gen-2), Form B the four-column Gen-1-style layout - both with printed TOTAL footers, both untouched. FORM vs CHUNK FILE: the chunk file says office 'Commission Seat A'; the cover's Office line reads 'County Commission Seat A' with Representative District 'Washington County' - AGREES, county office, in scope. Candidate 'Robert E. Ford' agrees. Clerk RECEIVED stamp DEC 10 2018; certification period October 27, 2018 to Dec. 10, 2018; signed Dec. 10, 2018. Zero glyphs: the three line-1/2/3 THIS REPORT cells each carry a hand-drawn slashed zero, transcribed as 0 per the zero-glyph ruling; the verbatim glyph is a struck/slashed '0'. Privacy: the cover prints a street address, PO box, ZIP and home phone in the clear - all discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

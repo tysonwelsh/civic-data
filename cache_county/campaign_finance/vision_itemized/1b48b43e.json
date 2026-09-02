@@ -1,0 +1,84 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C23.json",
+ "key": "1b48b43e",
+ "index_path": "raw/2026/2026_cc_2026_Financial_Disclosure_PreCon_Peter_Thatcher.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_PreCon_Peter_Thatcher.pdf"
+ ],
+ "sha256_prefix": "e9a9d4f81aac3989",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "0",
+    "schedule_total": "0",
+    "page_subtotal": "0",
+    "box_A_balance_begin": "0",
+    "box_F_subtotal": "0"
+   },
+   "itemized": "0",
+   "basis": "page-subtotal==schedule-total==Box B==Box C",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A (p2) carries the filer's typed words 'None so far' in the Date column and no other ink -- an EMPTY SCHEDULE, zero rows. 'None so far' is a WORDED nil statement, not a numeral, so it is recorded here rather than treated as a row. Printed 'Subtotal for this page $0' and 'Total Contributions Received $ 0'; Summary p4 Box B = 0 and Box C = 0. B == C so period and cumulative coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "0",
+    "schedule_total": "0",
+    "page_subtotal": "0"
+   },
+   "itemized": "0",
+   "basis": "page-subtotal==schedule-total==Box D==Box E",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule B (p3) carries a single '0' in the Date column and no other ink -- empty schedule, zero rows. Printed 'Subtotal for this page $ 0' and 'Total Expenditures Made $ 0'; Summary p4 Box D = 0 and Box E = 0. Period and cumulative coincide."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows-sum 0 = printed subtotal 0 = printed total 0. p3 rows-sum 0 = printed subtotal 0 = printed total 0. Both gate exactly.",
+  "row_count": "Born-digital pdf-lib rendering with NO printed row rules on either schedule (rowbands.py has no grid to score). Counted by ink and cross-checked against the PDF's embedded text layer: p2 returns one token line ('None so far') and p3 one token line ('0') between the column header and the footer block; neither is a transaction, so 0 rows emitted on each side.",
+  "geometry_proof": "Not applicable -- zero rows emitted on both sides, so no row geometry is claimed.",
+  "balance_chain": "Summary p4: A=0, B=0, C=0, D=0, E=0, F=0, Balance at Close=0. 0 + 0 - 0 = 0 closes exactly."
+ },
+ "escalations": 0,
+ "escalation_note": "No escalation needed: born-digital typed zeros, unambiguous at 200 dpi.",
+ "notes": "BLANK OFFICE LINE AT THE PAGE -- index.csv says 'County Council' but the cover's Office box is EMPTY (the filer wrote nothing in it). This is one of the county's known honest blank-office states, so the money is transcribed normally and the blank is recorded rather than filled from the index; scope was therefore judged on the FORM'S OWN TITLE plus the fact that the filing is in the county's county-office CFD channel, and nothing in the document names a school-board or municipal seat. A human should confirm the seat from another source before the office is published for this filing. DATE DISAGREES WITH THE CHUNK FILE: the chunk says 2026-03-11; the form's Date, its three 'Date of Report' footers and the 'Signed at: 2026-03-10 21:11:57' stamp all read 03-10-2026. Transcribed from the form. REPORT TYPE: none of the three printed radios is marked; the filer typed the free-text line '7 days prior to the convention' instead. Candidate home street address, phone and email printed in the clear on the cover were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

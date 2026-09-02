@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-03-04",
+   "donor_raw": "Kerry Soelberg-Loan",
+   "occupation": "Retired",
+   "amount": "282.63",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,20.84,89.60,3.89@p3",
+   "note": "donor name printed 'Kerry Soelberg-Loan' verbatim; city/state redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-03-04",
+   "vendor_raw": "Salt Lake County",
+   "purpose": "Filing Fee",
+   "amount": "282.63",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,22.18,81.28,3.93@p4"
+  }
+ ],
  "total_contributions": "$282.63",
  "total_expenditures": "$282.63",
  "beginning_balance": "$0.00",
@@ -49,6 +78,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Amendment (dated 2022-09-13) of the all-zero April 5 report, restating it at $282.63 - the original and the amendment are both kept; never summed. Form title reads 2020 (template reuse)."
+  "notes": "Amendment (dated 2022-09-13) of the all-zero April 5 report, restating it at $282.63 - the original and the amendment are both kept; never summed. Form title reads 2020 (template reuse).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "282.63",
+     "schedule_total": "282.63",
+     "itemized": "282.63",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "single row 282.63 = Summary line 1 Column A = schedule TOTAL; cached anchor confirmed at the page"
+    },
+    "expenditures": {
+     "stated": "282.63",
+     "schedule_total": "282.63",
+     "itemized": "282.63",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "single row 282.63 = Summary line 2 Column A = schedule TOTAL"
+    }
+   },
+   "page_subtotal_gates": "p3 row 282.63 = printed SUBTOTAL FOR THIS PAGE 282.63; p4 row 282.63 = printed subtotal 282.63",
+   "escalations": 0,
+   "escalation_note": "400dpi row-band re-read crops for verification only; no disputes",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2022 filing on the 2020 candidate form. April 5 interim box checked; amendment = Yes, date of report amended 2022-09-13; report date 09/14/22 (signed 09/14/22 12:00 PM) - this is the amendment of the April 5 report. Party field reads 'UUP' as the prior says. Contributor address cell bar-redacted at source. Donor name printed 'Kerry Soelberg-Loan' verbatim (the '-Loan' suffix is in the name cell)."
+  }
  }
 }

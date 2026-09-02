@@ -34,6 +34,14 @@ value other than `election_cycle` (Taylorsville's `annual` March-1 statements) a
 EXCLUDED before grouping — mandatory annual financial statements are a parallel statutory
 stream and must never enter race totals. Cities without the column are unaffected.
 
+CITY-ONLY (guard 2026-08-23) — see `COUNTY_CYCLE_REDUCER_SPEC.md` §0. `all_cities()`
+returns `level=='city'` entities only and `write_city()` REFUSES a non-city slug: the
+`cycle_totals.csv` this module writes is federated unconditionally into the city-only
+`cf_cycle` table, and every rule above is wrong for the county corpora (the regime filter
+would drop all of weber/utah/wasatch, whose `filing_regime` carries an arithmetic basis
+rather than a statutory stream; summit's documented-cumulative reports would be SUMMED).
+The county tier is `cycle_totals_county.py` -> `cycle_totals_county.csv` -> `cf_cycle_county`.
+
 Reads existing dataset outputs only (filing_totals.csv + index.csv for office/seat);
 never rebuilds. Regenerate after any `build_finance.py` run.
 
@@ -234,6 +242,22 @@ COLS = ["city", "candidate", "election_year", "office", "seat",
 
 
 def write_city(city):
+    # HARD GUARD (2026-08-23, COUNTY_CYCLE_REDUCER_SPEC.md §0): this writer emits
+    # `cycle_totals.csv`, which `build_search_layer.py::load_cf` federates
+    # UNCONDITIONALLY into the CITY-ONLY `cf_cycle` table. A non-city slug here
+    # would put county rows — computed by city rules that are wrong for every
+    # county regime — into a table whose documented semantics is city-only.
+    # Counties go through cycle_totals_county.py.
+    try:
+        lvl = by_slug(city).level
+    except KeyError:
+        lvl = "city"          # unregistered slug -> historical city fallback path
+    if lvl != "city":
+        raise ValueError(
+            f"cycle_totals.py is the CITY reducer; refusing non-city slug "
+            f"{city!r} (level={lvl!r}). Use "
+            f"scripts/campaign_finance/cycle_totals_county.py — see "
+            f"COUNTY_CYCLE_REDUCER_SPEC.md §0.")
     rows = cycle_totals(city)
     if not rows:
         return 0, 0
@@ -247,10 +271,25 @@ def write_city(city):
 
 
 def all_cities():
-    # every registry entity with a structured layer (cities AND counties since
-    # 2026-08-01); registry order is stable, sort keeps the historical output order
-    return sorted(e.slug for e in ENTITIES if e.dir and os.path.exists(
-        os.path.join(REPO, e.dir, "campaign_finance", "filing_totals.csv")))
+    """Every CITY entity with a structured layer.
+
+    CITY-ONLY BY CONSTRUCTION (guard added 2026-08-23; see
+    COUNTY_CYCLE_REDUCER_SPEC.md §0). Between 2026-08-01 and 2026-08-23 this
+    returned every entity with a `campaign_finance/filing_totals.csv`, which
+    since the county-CF federation includes all 8 counties — and
+    `build_search_layer.py::load_cf` federates `cycle_totals.csv` from EVERY
+    entity into the CITY-ONLY `cf_cycle` table. So `--all` would have written
+    county files that silently landed in a city table, computed by rules that
+    are WRONG for the county corpora: the regime filter drops every
+    weber/utah/wasatch filing (their `filing_regime` carries an arithmetic
+    basis, not a statutory stream), and summit's documented-CUMULATIVE reports
+    get SUMMED (David R. Brickey 2014 -> 32,400.00 where the truth is
+    16,800.00). The county tier has its own reducer and its own table:
+    `cycle_totals_county.py` -> `cycle_totals_county.csv` -> `cf_cycle_county`.
+    """
+    return sorted(e.slug for e in ENTITIES
+                  if e.dir and e.level == "city" and os.path.exists(
+                      os.path.join(REPO, e.dir, "campaign_finance", "filing_totals.csv")))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,85 @@
+[{
+ "index_path": "raw/2018/2018_PSakievich.pdf",
+ "key": "adf28180",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r7_02)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED (1,740.00) on the SUMMARY PAGE, which on this filing is bound LAST (p4, located by its printed heading 'SUMMARY PAGE'); the same 1,740.00 is Schedule A's own printed 'Subtotal for this page' AND its 'Total Contributions Received (Sum of subtotals from all Schedule A pages)', and it is repeated at summary line 4 'Total Contributions Received (From Line 1 Column A)'",
+   "detail": "4 Schedule A rows sum to 120.00 + 250.00 + 250.00 + 1120.00 = 1,740.00 exactly = the schedule's printed page subtotal = its printed total = the cover's promoted PER-PERIOD cell (Column A). THE SUM CLOSES ONLY WITH IN-KIND INCLUDED: rows 1 and 4 are marked '(IN-KIND)' by the filer in the Amount column and total 1,240.00, so a monetary-only reading gives 500.00 and fails by 1,240.00. Column B 'Year-to-Date Total' prints 12,161.17 and is NEVER summed as an increment (utah is a per-period regime). The cover ladder independently corroborates: line 3 beginning 956.80 + line 4 1,740.00 = line 5 subtotal 2,696.80, minus line 6 expenditures 2,696.80 = line 7 balance at close, written as a SLASHED ZERO (0 under the zero-glyph ruling)."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' line 2 TOTAL EXPENDITURES MADE (2,696.80) on the p4 SUMMARY PAGE, equal to Schedule B's own printed 'Subtotal for this page' 2,696.80 and its printed 'Total Expenditures (Sum of subtotals from all Schedule B pages)' 2,696.80, and repeated at summary line 6",
+   "detail": "5 Schedule B rows sum to 120.00 + 29.05 + 15.00 + 1120.00 + 1412.75 = 2,696.80 exactly = the printed page subtotal = the printed total = the cover's Column A line 2. AGAIN THE SUM CLOSES ONLY WITH IN-KIND: rows 1 and 4 carry the filer's '(IN-KIND)' marker and total 1,240.00; monetary-only gives 1,456.80 and fails by 1,240.00. The two in-kind gifts on Schedule A are entered a second time here as offsetting expenditures of the identical date and amount (the ADDENDUM G1 'Voeks' pattern), and both stated Column A figures include them. Column B YTD 12,161.17 is retained as cumulative and never summed."
+  }
+ },
+ "in_kind_convention": "MONETARY-PLUS-IN-KIND on both sides — tested both ways per ADDENDUM G1. Contributions: monetary-only 500.00 vs stated 1,740.00 (fails); monetary+in-kind 1,740.00 (closes). Expenditures: monetary-only 1,456.80 vs stated 2,696.80 (fails); monetary+in-kind 2,696.80 (closes). The filer wrote '(IN-KIND)' in the AMOUNT column on the wrap line above the two affected rows on each schedule, and double-entered each gift as a contribution and an equal offsetting expenditure.",
+ "escalations": 2,
+ "escalation_note": "The two 120.00 amount cells (Schedule A row 1 and Schedule B row 1) were escalated to a 900 dpi tight cell crop because the filer's '2' is a rounded open glyph that could read as a '6'. Both were settled by UNIQUE ARITHMETIC CLOSURE (120 + 250 + 250 + 1120 = 1,740.00, the printed subtotal; 126 would give 1,746.00) AND by the filer's own comparison glyph on the SAME row — the Name/Nature cell of each row reads '(120 SIGN LEGS)' with the identical rounded glyph, and his date cells 'JUNE 26, 2018' / 'JUN 23, 2018' write the same character. Arithmetic closure outranks glyph reading (GOTCHAS / Rhodes reversal); the glyph comparison only confirms it.",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [85.27, 95.75],
+   "cells": [[4.58, 16.59], [18.24, 53.20], [54.84, 83.62], [85.27, 95.75]],
+   "rows": [[14.15, 18.21], [18.21, 22.27], [22.27, 26.34], [26.34, 30.37]],
+   "measure_note": "legacy_colAB Schedule A is the UNDERLINE form: rowbands.py returns 17 per-column underline rules (4 segments each) from y=18.21 to y=83.28 at a regular pitch of 4.065, and the four segments ARE the column bands (Date 4.58-16.59, Name of Contributor 18.24-53.20, Mailing Address & Zip Code 54.84-83.62, Amount 85.27-95.75). 17 rules = 17 usable lines (ADDENDUM H1) because THE TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1's band is extrapolated one pitch up from the first rule (14.15-18.21). TWO-CROP PROOF at 900 dpi: the row-1 amount box pct:85.27,14.15,10.48,4.06@p2 rendered the printed 'Amount' header, the filer's '(IN-KIN[D])' marker and the figure '120.00' (recorded 120.00) — so the FIRST WRITTEN ENTRY IS ON BAND 1, the ADDENDUM A1 control passed and no line was skipped; and the ONE-PAST-THE-END control box pct:85.27,30.37,10.48,4.07@p2 (band 5) rendered EMPTY WHITE between two printed rules — no figure, so trap F1.5 (a ledger continuing below the grid) and trap H3 (two entries in one band) are both excluded, and the band list is not off by one. A widened proof strip pct:84.5,14.15,15.4,16.2@p2 rendered all four figures in order: 120.00 / 250.00 / 250.00 / 1,120.00. ROW 4 OVERFLOWS ITS PRINTED COLUMN (ADDENDUM G2): '1,120.00' with a trailing pen stroke runs past the amount column's right rule at 95.75, so row 4 carries an explicit widened geometry string that renders the whole figure; the frame is kept as the honest measurement of the printed grid. Every other row was checked in the widened strip and fits inside the measured band."
+  },
+  "3": {
+   "axis": "y",
+   "cell": [85.29, 95.76],
+   "cells": [[4.60, 16.66], [18.25, 53.21], [54.86, 83.64], [85.29, 95.76]],
+   "rows": [[16.15, 20.21], [20.21, 24.24], [24.24, 28.31], [28.31, 32.38], [32.38, 36.46]],
+   "measure_note": "Same underline grid as p2, skew -0.6 deg, pitch 4.065, first rule 20.21, row 1 extrapolated one pitch up to 16.15. ⚠ rowbands.py returned only 16 rules here and a DOUBLE BAND of 8.15 (= 2x pitch) spanning 28.31-36.46 — the ADDENDUM F6 missed-faint-rule case. The missing rule at y=32.38 was PROVED by crop: the 900 dpi box pct:84.5,32.38,15.4,4.08@p3 renders that rule at its top edge as a BLUE-INK line (the filer redrew/overwrote the printed rule in pen, which is why the black-rule scan missed it), so the doubled band splits into rows 4 and 5 and the two bands are HAND-MEASURED at the fitted pitch. FOUR-CROP PROOF at 900 dpi: row 1 pct:84.5,16.15,15.4,4.06@p3 rendered '(IN-KIND)' over '120.00' (recorded 120.00; first-entry control passed, band 1 is the first written line); row 4 pct:84.5,28.31,15.4,4.07@p3 rendered '(IN-KIND)' over '1,120.00' beside the address tail 'K DR,' (recorded 1120.00); row 5 pct:84.5,32.38,15.4,4.08@p3 rendered '1,412.75' (recorded 1412.75); and the ONE-PAST-THE-END control pct:84.5,36.46,15.4,4.07@p3 (band 6) rendered EMPTY WHITE between two printed rules. A widened strip pct:80,20.21,20,12.2@p3 rendered 29.05 / 15.00 / 1,120.00 in order for rows 2-4. ROW 4 OVERFLOWS the printed amount column exactly as on p2 and carries an explicit widened geometry string."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 2, "row": 1, "date": "MAY 15, 2018",
+   "donor_raw": "BRYAN THOMPSON", "donor_city": "SF", "donor_state": "UT",
+   "amount": "120.00", "in_kind": true, "confidence": "medium", "verified": 1,
+   "note": "IN-KIND: the filer wrote '(IN-KIND)' in the Amount column on the wrap line above this row and '(120 SIGN LEGS)' in the Name of Contributor column — 120 yard-sign legs valued at 120.00. The city is written by the filer as the abbreviation 'SF' at the end of the street line, with 'UT 84660' on the wrap line above it; 'SF' is carried VERBATIM and not expanded (84660 is the Spanish Fork ZIP and the candidate's own cover address is Spanish Fork, but that is corroboration, not the cell's own value). PRIVACY: the street line printed on the form is deliberately not carried. Address is present and unredacted — this 2018 filing was published in the clear by the county."},
+  {"line_no": "2", "page": 2, "row": 2, "date": "JUNE 15, 2018",
+   "donor_raw": "KYLE BATEMAN", "donor_city": "MAPLETON", "donor_state": "UT",
+   "amount": "250.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "cash. The filer writes the address over two lines with CITY/STATE/ZIP on the wrap line ABOVE the street line ('MAPLETON, UT 84664' above the street); city/state read from that line, street not carried."},
+  {"line_no": "3", "page": 2, "row": 3, "date": "JUNE 26, 2018",
+   "donor_raw": "SAM SAKIEVICH", "donor_city": "SPRING", "donor_state": "TX",
+   "amount": "250.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "cash; an out-of-state donor ('SPRING, TX 77389' on the wrap line above the street). Surname matches the candidate's; no relationship is stated on the form and none is inferred."},
+  {"line_no": "4", "page": 2, "row": 4, "date": "JUNE 30, 2018",
+   "donor_raw": "MARK SAKIEVICH", "donor_city": "HERRIMAN", "donor_state": "UT",
+   "amount": "1120.00", "in_kind": true, "confidence": "medium", "verified": 1,
+   "geometry": "pct:84.50,26.34,15.40,4.03@p2",
+   "note": "IN-KIND: '(IN-KIND)' in the Amount column and '(WEBMASTER WORK)' in the Name of Contributor column on the wrap line above this row — donated web work valued at 1,120.00. GEOMETRY WIDENED (ADDENDUM G2): the figure and its trailing pen stroke run past the amount column's printed right rule at 95.75, so a crop bounded by the measured band clips the last digits; the explicit string above renders the whole figure. Surname matches the candidate's; no relationship stated."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "MAY 15, 2018",
+   "vendor_raw": "BRYAN THOMPSON", "purpose": "(120 SIGN LEGS)",
+   "amount": "120.00", "in_kind": true, "confidence": "medium", "verified": 1,
+   "note": "The offsetting entry for the same-dated in-kind contribution on Schedule A line 1: the filer wrote '(IN-KIND)' in the Amount column again. This blank's Schedule B column is headed 'Name/Nature of Expenditure' (the ADDENDUM H5 vocabulary), so the parenthetical nature the filer wrote on the wrap line above the payee IS that column's own content and is carried as `purpose` per ADDENDUM G3 (assign by content, then heading) — it is not lifted from another column."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "JUN 23, 2018",
+   "vendor_raw": "COSTCO GAS", "amount": "29.05", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "cash; the filer wrote no nature for this row, so purpose is honestly blank. Date abbreviated 'JUN' here while the neighbouring rows read 'JUNE' — kept verbatim."},
+  {"line_no": "3", "page": 3, "row": 3, "date": "JUNE 28, 2018",
+   "vendor_raw": "STRIPE CREDIT CARD", "purpose": "TRANSFER FEES (FINAL)",
+   "amount": "15.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "cash; nature written on the wrap line above the payee in the same 'Name/Nature of Expenditure' column."},
+  {"line_no": "4", "page": 3, "row": 4, "date": "JUNE 30, 2018",
+   "vendor_raw": "MARK SAKIEVICH", "purpose": "(WEBMASTER WORK)",
+   "amount": "1120.00", "in_kind": true, "confidence": "medium", "verified": 1,
+   "geometry": "pct:84.50,28.31,15.40,4.07@p3",
+   "note": "The offsetting entry for the in-kind web work on Schedule A line 4, same date and amount, marked '(IN-KIND)' in the Amount column. GEOMETRY WIDENED (ADDENDUM G2) for the same right-edge overflow as its Schedule A twin. This row sits in the band whose lower rule rowbands.py missed (the filer redrew it in blue ink) — the band was hand-measured and crop-proved."},
+  {"line_no": "5", "page": 3, "row": 5, "date": "JULY 5, 2018",
+   "vendor_raw": "TOM & MARTI SAKIEVICH", "purpose": "LOAN REFUND-PARTIAL",
+   "amount": "1412.75", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "cash; the nature line above the payee reads 'LOAN REFUND-PARTIAL' and the address is the candidate's own (it matches the cover). CLASSIFIED BY THE LADDER, NOT BY THE WORD 'LOAN' (ADDENDUM B3): it is printed on Schedule B, and the cover closes only with it as an expenditure — 956.80 + 1,740.00 - 2,696.80 = 0 — so it is an expenditure row, not a negative contribution. No corresponding loan appears anywhere on Schedule A; any earlier loan sits inside the 956.80 beginning balance, which this filing does not itemize."}
+ ],
+ "notes": "Thomas V. Sakievich, Utah County Commission Seat A, 2018 cycle. PAGE-FACE CANDIDATE NAME IS 'THOMAS V. SAKIEVICH' while index.csv names NO candidate at all (the channel label is the reporting-period string 'Out at Primary - Sakievich'); the page face governs and the coordinator may promote it. Report type: '30 Days after the Primary Election (if eliminated at the Primary)', amendment = No (the 'No' box is ticked), signed July 25, 2018. Office Seeking is written on the page as 'UTAH COUNTY COMMISSION, SEAT A' — the seat is PRINTED here, not inferred. Party written REPUBLICAN. Single report, no bundle. FORM SHAPE — worth recording: the SUMMARY PAGE IS BOUND LAST (p4) on this legacy_colAB filing, not p2; the order is p1 cover / p2 SCHEDULE A / p3 SCHEDULE B / p4 SUMMARY PAGE, and every page was classified from its own printed heading (ADDENDUM H6). No checklist decoy page is present. STOCK: the cover is the COUNTY-ONLY blank titled 'FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' (Utah County Code 2-5 & Utah State Code 17-16-6.5) with a vertical rail reading 'County & Local School Candidates', while all three inner sheets are strap-lined '2016 County & Local School Board Candidates' — leftover 2016 stock used for a genuinely 2018 filing (utah-template-vintage-year; ADDENDUM H2 named this filing correctly, and reading the headings confirmed it). Each inner sheet foliates itself 'Page 1 of 1'. Schedule B's column is headed 'Name/Nature of Expenditure'. THE FILER'S OWN CONVENTION, stated once here because it drives every field assignment: he writes each entry across TWO lines within one band — the upper (wrap) line carries the in-kind marker, the nature/purpose and the CITY/STATE/ZIP, and the ruled line carries the date, the name and the street. That is why city/state come from the line ABOVE the street on rows 2-4 of Schedule A. Both sides reconcile EXACTLY to the promoted per-period Column A figure, and only with in-kind included."
+}]

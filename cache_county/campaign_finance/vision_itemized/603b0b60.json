@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C06.json",
+ "key": "603b0b60",
+ "index_path": "raw/2012/2012_cc_J_White_campaign_finance_12_6_12.pdf",
+ "applies_to": [
+  "raw/2012/2012_cc_J_White_campaign_finance_12_6_12.pdf",
+  "raw/2012/2012_st_Barnard_Jon_White_12_11_12_General.pdf"
+ ],
+ "sha256_prefix": "5398dd079ffec3f1",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page exists in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is ONE page: the Carr 5-5-PG cover only. Page 2 (Form A) does not exist in the document, so there is no schedule to transcribe and no itemized sum to claim. Every cell of cover line 1 and line 2 carries a bare hand-drawn DASH, not a figure and not a zero glyph -- per the zero-glyph ruling a bare dash stays BLANK, so all four anchors are '' (the cell exists, the filer entered no numeral)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "",
+    "cover_balance_end": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page exists in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Page 3 (Form B) does not exist in the document -- the PDF ends at the cover. Cover lines 3 and 4 carry bare dashes in all three columns (one on line 3 LAST is a short angled stroke), so all anchors are '' -- BLANK, never 0."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No schedule page in the document, so no page/schedule gate can be run. The cover prints no numerals at all -- only nil dashes -- so there is nothing to gate against either.",
+  "row_count": "Not applicable: the only page is the cover, which is not a ruled ledger. 0 rows emitted on both sides.",
+  "geometry_proof": "Not applicable -- zero rows emitted.",
+  "balance_chain": "Cannot be run: every money cell on the cover is a bare dash, so beginning/contributions/expenditures/ending are all blank. No arithmetic identity is asserted by this document."
+ },
+ "escalations": 1,
+ "escalation_note": "600 dpi crops of the cover money block (lines 1-2 and lines 3-4) to establish that the marks in all twelve cells are bare DASHES and not numerals or slashed-zero glyphs. They are plain single strokes -- no numeral, no ' 0 ', no '-0-'.",
+ "notes": "1-page document -- this is a SHORT FILING, not a truncated render: pdfinfo reports Pages: 1. Cover 'Name of Office' reads 'County Council South' (the Office District line is left empty and the district is written inline on the office line); the chunk file's office 'County Council' AGREES. Full Name of Candidate reads 'Barnard Jon White'; the chunk file's candidate 'J White' is the short form, and the duplicate path raw/2012/2012_st_Barnard_Jon_White_12_11_12_General.pdf carries the full form -- consistent. Cover date 'Dec 11-12', clerk RCVD stamp 11 DEC 2012 (the chunk's date column says 2012-12-06 -- the DOCUMENT says the filer dated and the clerk received it 11 Dec 2012, a contradiction of the chunk file's date, stated loudly here). IN-SCOPE (county office). This filer reported a wholly nil campaign: all twelve cover money cells are dashes, and he attached neither schedule page. Both sides are 'none' rather than a zero -- the schedules are absent from the document, which is a different fact from a blank schedule. The candidate's street address and both phone numbers on the cover were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

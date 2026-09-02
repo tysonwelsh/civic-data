@@ -1,0 +1,77 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W09.json",
+ "key": "9e7b6315",
+ "index_path": "raw/live_outpost/David Whitehead_Treasurer_FCR_10-26-2024.pdf",
+ "applies_to": [
+  "raw/live_outpost/David Whitehead_Treasurer_FCR_10-26-2024.pdf"
+ ],
+ "sha256_prefix": "bea19ccbb2187d0c",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-B",
+  "3": "form-A"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid (2024 branded), p3",
+  "expenditures": "county-grid (2024 branded), p2"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "640.20",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "640.20",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A (on PAGE 3 of this PDF - see the page-order note) is a completely EMPTY grid: an ink projection across the full grid width returns only the 18 printed rules plus the footer caption, no handwriting in any data row. Zero rows, an honest empty schedule. Unlike the other blank-schedule filing in this chunk, this one CAN be scored, because the filer DREW a zero rather than leaving the cells empty: the schedule footer cell reads a hand-drawn slashed zero over the printed accounting dash, and so does the cover's line-1 'Total THIS Report' cell. Under the repo zero-glyph ruling a drawn slashed zero IS 0, so 0 rows = 0 = both period anchors: exact. Scope is PERIOD - the cumulative 640.20 is carried forward from an earlier report of the cycle and is not itemised here. This 2024 cover generation prints only THREE money lines, with no 'aggregate of $50.00 or less' line, so cover_le50_* are null (field absent)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "640.20",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "640.20",
+    "cover_balance_end": "0",
+    "schedule_total": "-"
+   },
+   "itemized": "0.00",
+   "basis": "cover-line2-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (on PAGE 2 of this PDF) is likewise a completely EMPTY grid - ink projection returns only the 18 printed rules and the footer caption. Zero rows. Here the two anchors DIFFER in kind and the distinction matters: the schedule footer prints only the bare accounting dash with NO handwriting over it, so schedule_total is transcribed '-' and is BLANK, not 0; but the cover's expense-line 'Total THIS Report' cell carries a hand-DRAWN slashed zero, which is 0. Scored on the cover cell: 0 rows = 0, exact, period scope. The 640.20 cumulative is a carry-forward, unitemised here."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Both schedules print a footer total. p3 (Form A): the filer drew a slashed zero in the TOTAL CONTRIBUTIONS cell - 0 rows = 0, gate fired and closed. p2 (Form B): the TOTAL EXPENDITURES cell holds only the printed dash and no handwriting, so that cell is BLANK and no numeric gate could be fired there; the side was gated against the cover's drawn zero instead. Stated rather than invented.",
+  "row_count": "rowbands.py ran cleanly on both schedule pages (geometry_status 'ok'): 20 h-rules / 19 bands each = 1 header + 18 ruled data rows (the last band is the printed TOTAL footer, outside the grid rules). Independent ink projection across the full grid width returns, on BOTH pages, only thin bands (h 0.27-0.45 pct = the printed rules) between the header and the footer caption - zero data-ink bands in 18 rows on each page. 0 rows emitted on each side, as the grid holds.",
+  "geometry_proof": "Not applicable - zero rows emitted on either side, so no row geometry is claimed.",
+  "balance_chain": "CLOSES EXACTLY. Contributions cumulative 640.20 minus expenses cumulative 640.20 = 0, and the cover's balance line carries a hand-drawn slashed zero (= 0) in ALL THREE columns. The LAST-REPORT column also closes internally: 640.20 + 0 (this report) = 640.20 (cumulative) on both money lines. The earlier filing that produced the 640.20 is not in this chunk, so the cross-filing chain could not be run from here."
+ },
+ "escalations": 3,
+ "escalation_note": "Cover money block re-rendered at 500 dpi to separate hand-drawn slashed zeros from the form's printed accounting dashes; both schedule footer cells re-rendered at 600 dpi for the same reason.",
+ "notes": "** PAGE ORDER IS REVERSED IN THIS PDF: page 2 is Form B (Itemized EXPENDITURE Report) and page 3 is Form A (Itemized CONTRIBUTION Report). ** The usual cover/A/B order does not hold, and page_map above records what the pages actually are, verified from each page's own printed title. ** THE PORTAL LABEL ALSO CONTRADICTS THE DOCUMENT: the file is named '...FCR_10-26-2024.pdf', but no date on the form is 10/26/2024 - the certified period is 6/18/24 to 10/21/24, the candidate signed 10/21/24, Date Received reads 10/21/2024 and the verifying inspector signed 10/24/2024. ** Generation-2 county-branded form, 2024 revision. Cover 'Candidate for Office Of' reads 'TREASURER' and the name 'DAVID WHITEHEAD' (both hand-printed in caps) - both agree with the chunk file. The PDF has NO text layer (pdftotext returns nothing); all three faces are images. This filer draws his zeros: throughout the cover and on the Form A footer he inks a slashed zero ON TOP of the form's own printed accounting dash, and telling the two apart is the whole reconciliation on this filing - that distinction was made at 500-600 dpi, not on the contact sheet. Nothing was received or spent in the certified period, which is why both schedules are empty. Observation, not a defect: the 640.20 cumulative here matches the 640.20 in the county addendum's Tom Durrant/Assessor illustration - both are 2024 county-office filing-fee-sized figures, and the two filings are unrelated.",
+ "contributions": [],
+ "expenditures": []
+}

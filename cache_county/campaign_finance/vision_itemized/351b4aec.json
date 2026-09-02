@@ -1,0 +1,82 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C12.json",
+ "key": "351b4aec",
+ "index_path": "raw/2018/2018_cc_D_Chad_Jensen_final.pdf",
+ "applies_to": [
+  "raw/2018/2018_cc_D_Chad_Jensen_final.pdf",
+  "raw/2018/2018_st_Jensen_D_Chad_2.pdf"
+ ],
+ "sha256_prefix": "98ac58fe847a3797",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (page 2) exists and is entirely BLANK - a real zero, not a gap. All three cells of cover line 1 carry the filer's slashed-zero glyph, so THIS and CUMULATIVE coincide at 0 and the empty schedule reconciles exactly. Line 2 (the <=$50 aggregate, never itemized) is also nil in all three columns. Per the zero-glyph ruling the slashed glyphs are 0; the verbatim glyph is a slashed zero written as a crossed loop."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "933.19",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "933.19",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this-report",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form B (page 3) exists and is entirely BLANK - a real zero. Cover line 3 reads LAST 933.19, THIS nil, CUMULATIVE nil. The empty schedule equals BOTH the THIS cell and the CUMULATIVE cell (both nil), so the two coincide at 0 and the side is exact against either. FILER ARITHMETIC CONTRADICTION, retained verbatim and NOT corrected: line 3's own printed identity LAST + THIS = CUMULATIVE would give 933.19 + 0 = 933.19, but the filer wrote a nil glyph in the line-3 CUMULATIVE cell; on line 4 immediately below he did carry 933.19 into the CUMULATIVE cell. Both cells are transcribed as written."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "The Carr form prints no schedule total or page subtotal on either schedule - stated, not invented. Both schedules are blank, so the only gate available is against the cover: p2 rows 0.00 = cover line 1 (nil in all three columns); p3 rows 0.00 = cover line 3 THIS/CUMULATIVE (nil).",
+  "row_count": "Not run with rowbands.py - zero data rows to count. Both ruled sheets were read at 200 dpi full-page and carry NO filer ink at all; the marks visible on p2 and p3 are MIRROR-IMAGE show-through of the printed statute text from page 4 (heavy on p3, lighter on p2), typeset and reversed, not handwriting. No ghost row was transcribed.",
+  "geometry_proof": "Not applicable - zero rows emitted.",
+  "balance_chain": "The Carr cover has no beginning-balance line. Taking the CUMULATIVE column as the filer wrote it: 0 (line 1) + 0 (line 2) - 0 (line 3) = 0, but line 4 CUMULATIVE reads 933.19 - it does NOT close, because the filer nil-ed the line-3 CUMULATIVE cell instead of carrying 933.19 forward. Taking the LAST-REPORT column: line 4 = 933.19 = line 3 = 933.19, self-consistent only if the prior report's contributions covered it. This is the filer's own arithmetic and is retained verbatim; it changes nothing about the itemization, which is empty on both sides. CROSS-FILING CHAIN TEST RUN (two filings by this filer in this cycle are in my chunk): chunk key d631eedd (raw/2018/2018_st_Jensen_D_Chad.pdf) is the same filer's 10/30/18 INTERIM report and this is the 12/5/18 SUMMARY. The interim's CUMULATIVE column reads line1 nil, line2 nil, line3 933.19, line4 933.19; this report's TOTALS FROM LAST REPORT column reads line1 nil, line2 nil, line3 933.19, line4 933.19. THE CHAIN CLOSES EXACTLY ON ALL FOUR LINES - not a swapped-cover pair - which also confirms that the nil in THIS report's line-3 CUMULATIVE cell is a filer slip (933.19 should have carried forward, as it did on line 4)."
+ },
+ "escalations": 2,
+ "escalation_note": "1200 dpi column crops of the cover's LAST-REPORT and CUMULATIVE money columns (lines 2-4) to confirm the nil glyphs and both 933.19 figures.",
+ "notes": "index.csv says candidate 'D Chad Jensen', office 'Sheriff'; the form reads 'D. Chad Jensen' and 'Sheriff' - agrees. Office District left blank. Political Party REPUBLICAN. Signed/dated 12/5/18; clerk stamp 'CLERK - DEC 5 18 PM 3:47:07'. The ZIP cell on the cover was written, struck out and rewritten. Candidate's street address, city, ZIP and both phone numbers appear in the clear and were discarded at read time. Both schedules are honest blanks with zero rows: an EMPTY SCHEDULE, never 'no donors' by inference - the cover independently states nil for this period.",
+ "contributions": [],
+ "expenditures": []
+}

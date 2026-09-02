@@ -1,0 +1,130 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C23.json",
+ "key": "acadb821",
+ "index_path": "raw/2025/2025_cc_2025_Stephanie_Miller_Financial_Disclosure.pdf",
+ "applies_to": [
+  "raw/2025/2025_cc_2025_Stephanie_Miller_Financial_Disclosure.pdf"
+ ],
+ "sha256_prefix": "362272bf004ab268",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "$74.45",
+    "schedule_total": "0",
+    "page_subtotal": "0",
+    "box_A_balance_begin": "0",
+    "box_F_subtotal": "0"
+   },
+   "itemized": "0",
+   "basis": "page-subtotal==schedule-total==Box B==Box C",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A (p2) is entirely blank: no inked rows in any of its ~15 ruled bands. Printed 'Subtotal for this page $ 0' and 'Total Contributions Received $ 0' (handwritten '0' glyphs), and Summary Page p4 Box B (This Period) = 0 and Box C (Year-to-Date) = 0. Zero rows emitted; every printed contribution anchor is 0, so the empty schedule gates exactly. Box B == Box C, so period and cumulative scopes coincide on this filing."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "$74.45",
+    "cover_expense_cum": "$74.45",
+    "cover_balance_end": "$74.45",
+    "schedule_total": "$74.45",
+    "page_subtotal": "$74.45"
+   },
+   "itemized": "74.45",
+   "basis": "page-subtotal==schedule-total==Box D==Box E",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "3 rows 38.52 + 12.19 + 23.74 = 74.45, equal to the printed 'Subtotal for this page $74.45', 'Total Expenditures Made $74.45' (sum of all Schedule B pages), and BOTH Summary Page boxes D (Expenditures Made This Period) and E (Expenditures Made Year-to-Date) = $74.45. D == E, so the period and cumulative scopes coincide on this filing (there is no earlier 2026-cycle filing by this candidate in the chunk)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 (Schedule A) zero inked rows, rows-sum 0 = printed subtotal 0 = printed total 0. p3 (Schedule B) rows-sum 74.45 = printed 'Subtotal for this page $74.45' = printed 'Total Expenditures Made $74.45'. Both gate exactly.",
+  "row_count": "rowbands.py p3 => geometry_status ok, 16 h-rules / 15 data bands, deskew -0.1deg. Ink present in bands 1-3 only (band N = the space [rule N-1, rule N]; filer's typed rows sit ABOVE each rule). 3 rows emitted = 3 inked bands. p2 same grid, 0 inked bands, 0 rows emitted.",
+  "geometry_proof": "p3 first-row amount crop (600 dpi, x=3978 y=1122) renders '$38.52'; last-row amount crop (y=1690) renders '$23.74'; control one row-pitch below (y=1978) renders EMPTY. Row-pitch 4.37% of page height confirmed against the rowbands h_rules.",
+  "balance_chain": "Summary p4: A(begin)=0, B=0, C=0, D=$74.45, E=$74.45, F(Box A + Box B)=0, Balance at Close (printed as Box F - Box D)=$74.45. 0 + 0 - 74.45 = -74.45, so the printed Balance at Close DOES NOT close under the form's own definition -- the filer wrote the positive magnitude $74.45 instead of -$74.45 (or spent from unreported personal funds). FILER ARITHMETIC, transcribed verbatim, not adjusted. The itemized side is unaffected: it gates exactly against D/E and against the schedule total."
+ },
+ "escalations": 2,
+ "escalation_note": "p3 amount column re-rendered at 600 dpi as tight cell crops (3 row crops + 1 control) and once as a 600 dpi band strip across the 3 inked rows; every amount read identically to the 200 dpi full-page read.",
+ "notes": "index.csv says candidate 'Stephanie Miller', office 'County Executive'; the cover's Office line reads 'County Executive' verbatim -- AGREES, in scope (county office). Cover 'Type of Report' marks '3 Days Prior to Party Nominating Convention'. NOTE a DATE DISAGREEMENT INSIDE THE DOCUMENT: the cover's Date and 'Date of Report' both read 09/04/2025, while the Schedule A / Schedule B / Summary footers all read 09/03/2025; the chunk file's date column says 2025-09-09, which matches NEITHER printed date. Transcribed from the form; flagged. Page 4 is the Summary Page (the A-F lettered box block the addendum describes lives on p4 here, not on the p1 cover). Candidate home street address, phone and email printed in the clear on the cover were discarded at read time. This CFD form family prints no in-kind column, so in_kind is false on every row by construction, never inferred.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2025-08-28",
+   "vendor_raw": "Wix.com",
+   "purpose": "Web Site",
+   "amount": "38.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.00,16.90,13.00,4.35@p3",
+   "note": "printed as '$38.52'; typed (born-digital fill), date printed 08/28/2025"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2025-08-28",
+   "vendor_raw": "Godaddy.com",
+   "purpose": "Web Site",
+   "amount": "12.19",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.00,21.25,13.00,4.35@p3",
+   "note": "printed as '$12.19'; date printed 08/28/2025"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2025-09-03",
+   "vendor_raw": "Sam's Club",
+   "purpose": "Ice cream for meet & greet",
+   "amount": "23.74",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.00,25.60,13.00,4.40@p3",
+   "note": "printed as '$23.74'; date printed 09/03/2025"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+[{
+ "index_path": "raw/2014/2014_12-14Ratcliffe.pdf",
+ "key": "6d40e35d",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r4_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (2,038.13, written '2038' with a raised superscript '13') on the p2 SUMMARY PAGE — the same figure Schedule A prints on both of its own anchors, 'Subtotal for this page' 2,038.13 and 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' 2,038.13",
+   "detail": "4 Schedule A rows sum to 500.00 + 682.19 + 801.50 + 54.44 = 2,038.13 exactly, matching all THREE printed anchors (page subtotal, schedule total, cover Column A line 1) and the same 2,038.13 re-copied at summary line 4. Column B 'Year-to-Date Total' also prints 2,038.13 — identical here because this filer reports his whole cycle in one report, so period and year-to-date coincide; that coincidence is NOT a cumulative-exact case (§A6) and the PER-PERIOD Column A cell is still the anchor. The ladder closes to the glyph: line 3 beginning '-0-' (a zero) + line 4 2,038.13 = line 5 subtotal 2,038.13, minus line 6 2,038.13 = line 7 close '-0-'."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (2,038.13, '2038' with a raised '13') on the p2 SUMMARY PAGE — also Schedule B's own printed 'Subtotal for this page' 2,038.13 and its 'Total Expenditures Received' 2,038.13",
+   "detail": "4 Schedule B rows sum to 500.00 + 682.19 + 801.50 + 54.44 = 2,038.13 exactly, matching all three printed anchors and the 2,038.13 re-copied at summary line 6. The two sides carry the SAME four amounts in the same order and on the same four dates — the filer funded each purchase with a matching same-day self-contribution — so the coincidence of the two totals is a real property of this campaign, not a transposition: each schedule was read independently and each closes on its own printed footer. Column B YTD 2,038.13 is cumulative and, per the per-period regime, never summed as an increment."
+  }
+ },
+ "in_kind_convention": "monetary-only closed on both sides at 2,038.13. Neither schedule prints an in-kind column and no row is annotated in-kind, so the monetary-only and monetary-plus-in-kind conventions are identical here; both were considered rather than the cash-only family default being inherited.",
+ "escalations": 6,
+ "escalation_note": "Six 400 dpi full-row-strip crops, used as the two mandatory geometry controls per schedule page; no glyph was in dispute (clean blue ballpoint at 200 dpi) so nothing was escalated to settle truth. p3 (Schedule A): the §A1 first-entry crop of the extrapolated band 1 rendered '2/14/14  Gary Ratcliffe (self)  695 North 100 West / Springville, Utah 84663  $500' — this filer did NOT skip the first ruled line — and the row-4 crop rendered '3/25/14  \" \" \"  \"  $54 44' with the cents raised; the §B5 one-band-past control (row 5) rendered four EMPTY ruled lines. p4 (Schedule B): band 1 rendered '2/14/14  BCR Political (contract)  [address]  $500', row 4 rendered '3/25/14  Copies Plus (info. fliers)  [address]  $54 44', and the one-past control (row 5) rendered empty ruled lines. PRIVACY: the street lines those crops render are read and discarded at read time; only city/state reach the contribution rows and nothing at all reaches the expenditure rows.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [82.52, 92.22],
+   "cells": [[7.52, 18.75], [20.28, 52.75], [54.22, 81.05], [82.52, 92.22]],
+   "rows": [[17.49, 21.39], [21.39, 25.32], [25.32, 29.20], [29.20, 33.09], [33.09, 37.00], [37.00, 40.91], [40.91, 44.82], [44.82, 48.73], [48.73, 52.61], [52.61, 56.52], [56.52, 60.43], [60.43, 64.32], [64.32, 68.23], [68.23, 72.14], [72.14, 76.00], [76.00, 79.91], [79.91, 83.80]],
+   "measure_note": "legacy_colAB Schedule A on the 2014 blank, the UNDERLINE form: rowbands.py (raw frame, skew -0.2 deg) returns 17 per-column underline rules at 21.39 .. 83.80, mean pitch 3.90, each carrying exactly 4 segments which ARE the column bands (Date 7.52-18.75, Name of Contributor 20.28-52.75, Address/City/Zip 54.22-81.05, Amount 82.52-92.22). TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up from 21.39 to 17.49. TWO-CROP PROOF at 400 dpi, full row strip x=7.5 w=85: pct:7.5,17.49,85.0,3.90@p3 rendered the printed headings along the top edge and beneath them '2/14/14  Gary Ratcliffe (self)  695 North 100 West / Springville, Utah 84663  $500' (recorded 500.00); pct:7.5,29.20,85.0,3.89@p3 rendered '3/25/14' with three ditto marks in the name column, one ditto in the address column, and '$54 44' (recorded 54.44). NEGATIVE CONTROL one band past the last entry, pct:7.5,33.09,85.0,3.91@p3, rendered four EMPTY ruled lines — no fifth entry, bands not off by one."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [82.65, 92.41],
+   "cells": [[7.59, 18.88], [20.41, 52.88], [54.35, 81.17], [82.65, 92.41]],
+   "rows": [[19.37, 23.27], [23.27, 27.16], [27.16, 31.05], [31.05, 34.98], [34.98, 38.86], [38.86, 42.77], [42.77, 46.68], [46.68, 50.57], [50.57, 54.48], [54.48, 58.39], [58.39, 62.27], [62.27, 66.18], [66.18, 70.09], [70.09, 73.98], [73.98, 77.86], [77.86, 81.77], [81.77, 85.68]],
+   "measure_note": "Same underline grid as p3 but measured independently (skew -0.1 deg vs p3's -0.2, and a different first-rule offset — the two sheets of this one PDF are NOT interchangeable): 17 rules at 23.27 .. 85.68, mean pitch 3.90, four segments per rule giving the column bands (Date 7.59-18.88, Purchased From/Source 20.41-52.88, Address/City/Zip 54.35-81.17, Amount 82.65-92.41). Text above its rule; row 1 extrapolated one pitch up from 23.27 to 19.37. TWO-CROP PROOF at 400 dpi, full row strip: pct:7.5,19.37,85.0,3.90@p4 rendered '2/14/14  BCR Political (contract)  [street line, not carried]  $500' (recorded 500.00) and pct:7.5,31.05,85.0,3.93@p4 rendered '3/25/14  Copies Plus (info. fliers)  [street line, not carried]  $54 44' (recorded 54.44). NEGATIVE CONTROL one band past the last entry, pct:7.5,34.98,85.0,3.88@p4, rendered four EMPTY ruled lines."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "2/14/14",
+   "donor_raw": "Gary Ratcliffe (self)", "donor_city": "Springville", "donor_state": "Utah",
+   "amount": "500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "A SELF-CONTRIBUTION, marked '(self)' by the filer and booked by the cover at line 1 CONTRIBUTIONS (not at line 3 as a beginning balance), so the LADDER makes it an itemized contribution row — brief §B3/§C2, classified by the arithmetic and not by the wording. City/state reduced at read time from the address cell as printed ('Springville, Utah 84663'); the street line is deliberately not carried. Amount written '$500' with no cents."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "3/14/14",
+   "donor_raw": "Gary Ratcliffe (self)", "donor_city": "Springville", "donor_state": "Utah",
+   "amount": "682.19", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the name cell holds THREE DITTO MARKS (\") — one under each of the filer's three written words — and the address cell one ditto mark, all repeating row 1; the repeated values are carried per the ditto rule and the cell content is stated here rather than invented. Cents written as a raised superscript ('682' with a small '19' above) = 682.19."},
+  {"line_no": "3", "page": 3, "row": 3, "date": "3/18/14",
+   "donor_raw": "Gary Ratcliffe (self)", "donor_city": "Springville", "donor_state": "Utah",
+   "amount": "801.50", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "name and address cells are DITTO MARKS repeating row 1 (three in the name column, one in the address column); values carried per the ditto rule. Raised superscript cents ('801' with '50' above) = 801.50."},
+  {"line_no": "4", "page": 3, "row": 4, "date": "3/25/14",
+   "donor_raw": "Gary Ratcliffe (self)", "donor_city": "Springville", "donor_state": "Utah",
+   "amount": "54.44", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "name and address cells are DITTO MARKS repeating row 1; values carried per the ditto rule. Raised superscript cents ('54' with '44' above) = 54.44."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "2/14/14",
+   "vendor_raw": "BCR Political (contract)", "purpose": "contract",
+   "amount": "500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "The 2014 Schedule B prints NO Purpose column; this filer used the PARENTHESIS workaround, writing the purpose in brackets after the payee inside the 'Purchased From/Source' cell. Payee cell kept verbatim; purpose read out of it. PRIVACY: an address is printed in the separate address cell and is not carried — expenditure rows hold no address field."},
+  {"line_no": "2", "page": 4, "row": 2, "date": "3/14/14",
+   "vendor_raw": "Ut. Co. Govt. (filing fee)", "purpose": "filing fee",
+   "amount": "682.19", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "purpose in parentheses, as row 1; payee is the county itself and the amount is the 2014 County Surveyor candidate filing fee. Raised superscript cents ('682' with '19' above) = 682.19."},
+  {"line_no": "3", "page": 4, "row": 3, "date": "3/18/14",
+   "vendor_raw": "Printing (BCR Political)", "purpose": "Printing",
+   "amount": "801.50", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "THE FILER INVERTS HIS OWN PARENTHESIS CONVENTION ON THIS ROW: rows 1, 2 and 4 put the PAYEE first and the purpose in brackets, but here the bracketed text is the payee name and the unbracketed word is the purpose. The row's OWN address cell settles it — it repeats row 1's address exactly, i.e. the vendor is the same one row 1 names — so purpose='Printing' is read from within the row, not inferred across rows or sections (§C3). vendor_raw is kept exactly as written. Raised superscript cents ('801' with '50' above) = 801.50."},
+  {"line_no": "4", "page": 4, "row": 4, "date": "3/25/14",
+   "vendor_raw": "Copies Plus (info. fliers)", "purpose": "info. fliers",
+   "amount": "54.44", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "purpose in parentheses, as rows 1-2; abbreviation 'info.' kept verbatim. Raised superscript cents ('54' with '44' above) = 54.44."}
+ ],
+ "notes": "Page-face candidate 'GARY RATCLIFFE' in block capitals (REPUBLICAN, Office Seeking 'SURVEYOR', residence city Springville); index.csv names NO candidate for this row, so the page face supplies it, and it agrees with the channel's 'County Surveyor'. Entirely handwritten in blue ballpoint. 4 pages (pdfinfo), all read full-page: p1 the county's 2014 blank cover, '30 Days after the General Election' ticked, amendment answered 'No', signed 12/2/14; p2 the SUMMARY PAGE; p3 SCHEDULE A; p4 SCHEDULE B. ⚠ ON THE MIXED-TEMPLATE WARNING: this chunk was flagged as the filing where a 2014 cover was found bound to older 2012-era schedule sheets. THAT IS NOT THIS FILING — read off each page's own printed headings, p3 heads its columns 'Date / Name of Contributor / Address, City & Zip / Amount' and p4 heads them 'Date / Purchased From/Source / Address, City & Zip / Amount', which are the 2014 blanks on BOTH schedules (the 2012 tells would be 'Mailing Address & Zip Code' and a Schedule B reusing 'Name of Contributor'; neither is present). Two OTHER 2014 Ratcliffe filings exist in index.csv ('6-14 Ratcliffe' and '10-14 Ratcliffe') and are not in this chunk — if the mixed-template specimen is real it is one of those, and the headings must be read there too. FOLIATION excludes the cover here: the summary page is numbered 'Page 1 of 3', Schedule A '2 of 3', Schedule B '3 of 3' — a fourth practice by this filer's own hand, and one that would have mis-located the summary page had an ordinal been trusted. ZERO GLYPHS: summary lines 3 and 7 are written '-0-' (a zero flanked by dashes) and read 0 under the zero-glyph ruling; the glyph is quoted here verbatim. MONEY NOTATION: every cent value on this filing is written as a RAISED SUPERSCRIPT pair ('2038' with a small '13' above the line), on the cover and on both schedules; each is transcribed as that many cents. THE TWO SIDES CARRY IDENTICAL AMOUNTS on identical dates (500.00 / 682.19 / 801.50 / 54.44) because the filer self-funded each purchase on the day he made it; the schedules were read independently and each closes on its own printed subtotal and total, so this is a property of the campaign, not a transcription artifact. Cross-check on a third-party figure (§B5): the filing fee paid to 'Ut. Co. Govt.' is 682.19 for County Surveyor in 2014, distinct from the 519.48 two 2012 filers recorded — noted as an observation only, never used as a source. NOT the same document as the 2010-cycle Ratcliffe flag resolved in ADDENDUM C §C2 (that concerns his 061410 report, a different cycle); nothing here was differenced against any other cover."
+}]

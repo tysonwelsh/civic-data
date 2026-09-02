@@ -1,0 +1,115 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2019-12-22",
+   "vendor_raw": "AMERICA FIRST",
+   "purpose": "LESS INTREST TOTAL OF BANK FEES",
+   "amount": "87.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.68,25.37,76.56,3.89@p3",
+   "note": "date written '12-22-19'; purpose occupies two handwritten lines in one cell - 'LESS INTREST' over 'TOTAL OF BANK FEES' - transcribed in printed order, filer spelling 'INTREST' kept verbatim; amount written 87 with superscript cents 00 over a rule"
+  }
+ ],
+ "total_contributions": "0.00",
+ "total_expenditures": "87.00",
+ "beginning_balance": "20,205.08",
+ "ending_balance": "20,118.08",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "87.00",
+  "line5_subtotal": "20,205.08"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "COUNCIL B",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-28-20",
+  "form_year": "2019"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/richard-snelgrove_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "RICHARD SNELGROVE",
+  "office": "County Council",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/richard-snelgrove_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "FLAG CONFIRMED: there is no Schedule A page in this document. It is NOT a withheld side and NOT a zero-row transcription - it is honest non-existence, and the Summary Page states contributions of 0.00 for the period AND to date, so nothing is lost by it. Cover is a 2019 form vintage (title '2019 Financial Disclosure Report For a Candidate') used for a report dated 1-28-20 and stamped RECEIVED IN OFFICE JAN 29 2020 - form_year is the printed title, not the cycle. Office reads 'COUNCIL B' and Office Sought 'COUNCIL B' with District Number blank, which matches index.csv's At-Large B; Political Party 'GOP'. Only the Year-End box is ticked; neither amendment box is ticked. A black redaction bar crosses the signature line on the cover, but the signature Date '1-28-20' beside it is legible. The single expenditure's purpose is written on two lines, 'LESS INTREST' above 'TOTAL OF BANK FEES'; it is transcribed in printed order with the filer's spelling kept.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "summary-line-1",
+     "result": "unknown",
+     "detail": "FLAG CONFIRMED and it costs nothing: the document contains NO Schedule A page, and the Summary Page's line 1 states 0.00 in BOTH Column A and Column B. So this is honest non-existence with a stated ZERO behind it - no money is asserted without itemization, and no donor detail is missing. sides.contributions is 'none' (the page does not exist), never a transcribed zero, but the reader should know the stated total is 0.00. The filer's own page numbering confirms the document is complete as filed: p2 is marked 'Page 2 of 3' and p3 'Page 3 of 3', so no Schedule A page was lost in the county's scan - the filer simply did not file one."
+    },
+    "expenditures": {
+     "stated": "87.00",
+     "schedule_total": "87.00",
+     "itemized": "87.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "the single Schedule B row is 87.00 = the printed TOTAL EXPENDITUTRES MADE 87.00 = Summary line 2 Column A 87.00 (and Column B 87.00). Exact."
+    }
+   },
+   "page_subtotal_gates": "p3 prints SUBTOTAL FOR THIS PAGE and the cell is LEFT BLANK while TOTAL EXPENDITUTRES MADE carries 87.00 - the \u00a71(5) case. Gated on the schedule grand total instead: rows 87.00 = printed 87.00.",
+   "escalations": 0,
+   "escalation_note": "none needed - the whole filing is legible at 200 dpi full page and both printed gates closed on the first read.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FLAG CONFIRMED: there is no Schedule A page in this document. It is NOT a withheld side and NOT a zero-row transcription - it is honest non-existence, and the Summary Page states contributions of 0.00 for the period AND to date, so nothing is lost by it. Cover is a 2019 form vintage (title '2019 Financial Disclosure Report For a Candidate') used for a report dated 1-28-20 and stamped RECEIVED IN OFFICE JAN 29 2020 - form_year is the printed title, not the cycle. Office reads 'COUNCIL B' and Office Sought 'COUNCIL B' with District Number blank, which matches index.csv's At-Large B; Political Party 'GOP'. Only the Year-End box is ticked; neither amendment box is ticked. A black redaction bar crosses the signature line on the cover, but the signature Date '1-28-20' beside it is legible. The single expenditure's purpose is written on two lines, 'LESS INTREST' above 'TOTAL OF BANK FEES'; it is transcribed in printed order with the filer's spelling kept."
+  }
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W10.json",
+ "key": "a3e7c633",
+ "index_path": "raw/wayback_forms2018/Oct 23_2018_Brock R Belnap_FCR_10-23-2018.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/Oct 23_2018_Brock R Belnap_FCR_10-23-2018.pdf"
+ ],
+ "sha256_prefix": "ec0e1fff5127d47e",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "997.00",
+    "cover_over50_this": "-0-",
+    "cover_over50_cum": "997.00",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A is COMPLETELY BLANK at 200 dpi - not one inked row in the ~40-row grid, and the printed TOTAL line was left empty by the filer (schedule_total ''). Cover line 1 reads LAST 997.00 + THIS -0- = CUM 997.00, so the schedule's emptiness is exactly right for a per-period schedule: zero rows == the THIS-report cell, which under the repo-wide zero-glyph ruling is 0. This is a NO-ACTIVITY-THIS-PERIOD report, not a gap. Note the module publishes the CUMULATIVE figure (997.00), a DIFFERENT SCOPE from these (zero) rows, so reconciles_* should stay blank - that is not a failure. Cover line 2 blank in all columns."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "997.00",
+    "cover_expense_this": "-0-",
+    "cover_expense_cum": "997.00",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B is COMPLETELY BLANK at 200 dpi, printed TOTAL left empty. Cover line 3: LAST 997.00 + THIS -0- = CUM 997.00. Zero rows == the THIS cell (0). Same scope caveat as Form A."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No gate could fire on either schedule: the filer left both printed TOTAL cells blank and inked no rows. Zero rows vs an empty printed total is consistent, and the only live anchor is the cover's own -0- THIS cells, which the zero row set matches.",
+  "row_count": "p2 and p3 read at 200 dpi full-page: every data band in both grids is empty (no ink of any kind between the header rule and the TOTAL rule). 0 rows emitted per side; rowbands not needed to count an all-empty grid, and an ink sweep of the 200 dpi renders found none.",
+  "geometry_proof": "n/a - zero rows emitted, so no row geometry is claimed.",
+  "balance_chain": "Cover line 4 balance reads -0- in ALL THREE columns. Period chain: 0 + 0 - 0 = 0 closes. Cycle chain: 997.00 contributions - 997.00 expenses = 0 ending balance, closes exactly."
+ },
+ "escalations": 2,
+ "escalation_note": "400 dpi crops of the cover money grid (to separate '-0-' nil marks from blank cells) and of the Office line.",
+ "notes": "index.csv/chunk call this Brock R Belnap, Attorney, 2018. The cover's 'Full Name of Candidate' reads 'Brock R Belnap' and the 'Office' line reads 'County Attorney' - a county office, IN SCOPE; agrees with the chunk file. Certification period June 14, 2018 to Oct. 23, 2018; signed Oct. 23, 2018; a 'RECEIVED OCT 23 2018 WASHINGTON COUNTY CLERK-AUDITOR' stamp sits on the cover. The candidate's street address, ZIP, home phone and business phone are printed in the clear on this cover and were DISCARDED at read time per the privacy rule. Zero-glyph ruling applied: the '-0-' marks in the THIS-report and balance columns are 0, not blanks; the empty cells on cover line 2 stay blank.",
+ "contributions": [],
+ "expenditures": []
+}

@@ -1,0 +1,159 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-07-07",
+   "donor_raw": "Robert Cundick / Loan to self",
+   "occupation": "Software Developer",
+   "amount": "149.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.58,23.56,85.56,4.00@p3",
+   "note": "name cell holds 'Robert Cundick' with 'Loan to self' written beneath it on a second line; address block redacted at source"
+  },
+  {
+   "line_no": 2,
+   "date": "2018-07-27",
+   "donor_raw": "Loan to self",
+   "occupation": "Software Developer",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.58,27.56,85.56,4.00@p3",
+   "note": "Occupation/Employer cell holds two ditto marks; resolved to the row above ('Software Developer') per the ditto rule. Address block redacted at source."
+  },
+  {
+   "line_no": 3,
+   "date": "2018-09-05",
+   "donor_raw": "Ann Adams",
+   "occupation": "Homemaker",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.58,31.56,85.56,3.95@p3",
+   "note": "address block redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-07-07",
+   "vendor_raw": "Online Candidate",
+   "purpose": "Website",
+   "amount": "149.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.83,24.88,78.12,4.00@p4"
+  }
+ ],
+ "total_contributions": "299.00",
+ "total_expenditures": "149.00",
+ "beginning_balance": "0",
+ "ending_balance": "150.00",
+ "aggregate": {
+  "total_contributions_to_date": "299.00",
+  "total_expenditures_to_date": "149.00",
+  "line5_subtotal": "299.00"
+ },
+ "cover": {
+  "candidate": "Robert (Robb) Cundick",
+  "party": "UUP",
+  "office_sought": "SL County Council",
+  "district_number": "4",
+  "report_type": "September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/12/18",
+  "form_year": "2018"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__september__cundick-robert--council-41.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Robert (Robb) Cundick",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/2018_disclosures__september__cundick-robert--council-41.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Form title prints '2018 Financial Disclosure Report For a Candidate'. Cover office line = 'SL County Council', Office Sought 'SL County Council', District Number '4' \u2014 agrees with the chunk file (District 4). Signature date 9/12/18 agrees with the chunk file's 2018-09-12; clerk stamp RECEIVED IN OFFICE SEP 12 2018. NEITHER amendment box (Yes/No) is checked \u2014 is_amendment is honestly blank, not 'No'. Summary Page and both schedule pages leave the Page/of, Last Name and Date of Report header box EMPTY. Contributor mailing addresses are covered by the county's redaction bar on p3 (donor_city/donor_state blank, 'redacted at source'). Occupation/Employer column is present and filled on all 3 rows.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "299.00",
+     "schedule_total": "299.00",
+     "itemized": "299.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "3 rows sum to 299.00 = printed TOTAL CONTRIBUTIONS RECEIVED 299.00 = Summary line 1 Column A. This is the filer's first report of the cycle, so Column A and Column B carry the same figure and the two printed anchors have the SAME scope (tested per the DeBry rule; no inversion here). The SUBTOTAL FOR THIS PAGE cell is printed but LEFT BLANK, so the page-subtotal gate is not available and the schedule grand total was used instead."
+    },
+    "expenditures": {
+     "stated": "149.00",
+     "schedule_total": "149.00",
+     "itemized": "149.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "1 row 149.00 = printed SUBTOTAL FOR THIS PAGE 149.00 = printed TOTAL EXPENDITUTRES MADE 149.00 = Summary line 2 Column A (and Column B). Both anchors same scope."
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL FOR THIS PAGE printed but LEFT BLANK (the \u00a71(2)-noted class) \u2014 gated on the schedule grand total: rows 299.00 = printed TOTAL 299.00. p4 rows 149.00 = printed SUBTOTAL 149.00 = printed TOTAL 149.00.",
+   "escalations": 2,
+   "escalation_note": "p2 Summary Column A lines 1-2 cell crop at 1200 dpi (the filer's cents '00' is written with a leading curl that reads as '60' at 200 dpi; the filing's own arithmetic \u2014 lines 4/5/6/7 and both schedule totals \u2014 settles it as 00, and per GOTCHAS arithmetic outranks the glyph re-read); p3 occupation column cell crop at 1200 dpi to resolve the row-2 ditto marks.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Form title prints '2018 Financial Disclosure Report For a Candidate'. Cover office line = 'SL County Council', Office Sought 'SL County Council', District Number '4' \u2014 agrees with the chunk file (District 4). Signature date 9/12/18 agrees with the chunk file's 2018-09-12; clerk stamp RECEIVED IN OFFICE SEP 12 2018. NEITHER amendment box (Yes/No) is checked \u2014 is_amendment is honestly blank, not 'No'. Summary Page and both schedule pages leave the Page/of, Last Name and Date of Report header box EMPTY. Contributor mailing addresses are covered by the county's redaction bar on p3 (donor_city/donor_state blank, 'redacted at source'). Occupation/Employer column is present and filled on all 3 rows."
+  }
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C08.json",
+ "key": "cabbcf64",
+ "index_path": "raw/2014/2014_cc_Daines_Dec_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Daines_Dec_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "aae9420ebff3da9d",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "6,550.00",
+    "cover_over50_this": "-400.43",
+    "cover_over50_cum": "6,149.57",
+    "cover_le50_this": "0.00",
+    "cover_le50_cum": "180.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "-400.43",
+   "basis": "cover-line1-this-period",
+   "result": "exact",
+   "scope": "period",
+   "detail": "⚠ THIS IS A PERIOD-SCOPED SIDE and the distinction is load-bearing here. The LAST REPORT column is FILLED on every cover line, so this is a later report of the cycle, not the first. The one Form A row is -400.43 — a NEGATIVE amount, a partial RETURN of a contribution the filer annotates '(Partial Return of contribution) (see Section 20A-11-104(2)(f), Utah Code)'. It equals the line-1 THIS REPORT cell exactly. It does NOT equal the CUMULATIVE cell (6,149.57), which is the cycle-to-date figure this module publishes, and 6,550.00 - 400.43 = 6,149.57 confirms the cover's own LAST + THIS = CUMULATIVE identity closes. So the rows are on the PERIOD scope and the published cumulative figure is a DIFFERENT SCOPE — honest and expected. Also note cover line 2's own le50 columns disagree with each other in the ordinary way (LAST 180.00 + THIS 0.00 = CUM 180.00, which closes). The Carr form prints no schedule total."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "6,309.26",
+    "cover_expense_this": "20.31",
+    "cover_expense_cum": "6,329.57",
+    "cover_balance_end": "0.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "20.31",
+   "basis": "cover-line3-this-period",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Two rows, 14.92 + 5.39 = 20.31, equal to the line-3 THIS REPORT cell exactly. The cover's identity closes too: 6,309.26 + 20.31 = 6,329.57 = the CUMULATIVE cell. The rows are period-scoped, not cumulative."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints NO schedule total and NO page subtotal. p2: 1 row -400.43 = cover line 1 THIS REPORT (-400.43). p3: 2 rows 14.92 + 5.39 = 20.31 = cover line 3 THIS REPORT (20.31). Both exact. Additionally all four cover lines satisfy the printed LAST + THIS = CUMULATIVE identity to the cent (6,550.00-400.43=6,149.57; 180.00+0.00=180.00; 6,309.26+20.31=6,329.57), which is an independent check on the anchors themselves.",
+  "row_count": "rowbands.py reports 'gaps' on both pages (rules merged under handwriting), so both were counted by INK against the measured rule grid. Form A: ONE transaction. The schedule carries three inked writing lines, but lines 2 and 3 are the filer's parenthetical ANNOTATION written across the name/address columns — '(Partial Return of contribution)' and '(see Section 20A-11-104(2)(f), Utah Code).' — with no date and no amount of their own. They are not transactions and are not emitted as rows; the note is attached to line 1. Form B: exactly 2 inked rows, 2 dates / 2 payees / 2 purposes / 2 amounts, 1:1 aligned. Field-shift screen passes on both.",
+  "geometry_proof": "p2: the single amount is written on the SECOND ruled line (band [11.70,14.25] by rowbands), one line BELOW its own contributor name, because the address wrapped — the emitted box points at the AMOUNT cell, and the crop (pct 83.50,12.10,12.50,2.60) renders '400.⁴³'; the control one pitch below renders empty but for the descender of the row above. The proof box used for the render was the slightly narrower 84.50,12.10,11.00,2.60 and the emitted box is a strict superset that also contains the leading minus sign. p3 first-row crop (pct 83.50,10.95,12.50,2.30) renders '14 ⁹²'; last-row crop (pct 83.50,13.15,12.50,2.30) renders '5 ³⁹'; control one pitch below (y=15.45%) renders EMPTY.",
+  "balance_chain": "Cover line 4: LAST 420.74, THIS 420.74, CUMULATIVE 0.00. The cycle chain closes exactly: 420.74 (opening balance) - 400.43 (the returned contribution) - 20.31 (expenses) = 0.00 = the CUMULATIVE balance the filer printed. The cumulative form also closes: contributions 6,149.57 + 180.00 = 6,329.57 = cumulative expenses 6,329.57, balance 0. ⚠ CROSS-FILING CHAIN NOT RUN: the LAST REPORT column carries a real prior filing's figures (6,550.00 / 180.00 / 6,309.26 / 420.74), but THIS CHUNK CONTAINS ONLY ONE DAINES FILING, so the check that would catch a swapped cover pair cannot be performed here and is left to the orchestrator. No other filer appears twice in this chunk either."
+ },
+ "escalations": 8,
+ "escalation_note": "p1 cover four-line anchor block at 600 dpi (all twelve cells, superscript cents resolved); p2 schedule head at 600 dpi (the negative amount, the wrapped address, and the two annotation lines); p3 schedule head at 600 dpi (both amounts with superscript cents); rowbands.py run on p2 and p3 to measure the rule grid; plus 10 geometry-proof crops at 600 dpi across two calibration passes (the first pass sat ~0.5% high and the boxes were re-proved after shifting).",
+ "notes": "⚠ FILENAME CONTRADICTION: the file is named '2014_cc_Daines_Dec_2014_campaign_finance.pdf' but the cover is dated 11/17/14, the clerk stamp reads 'RCVD 17 NOV 2014 PM 01:17', and both Form A and Form B are dated 11/17/14 and 11/7/14 — a NOVEMBER filing. The chunk file's date 2014-11-17 agrees with the form; only the filename says December. Cover 'Name of Office' reads 'Cache County Attorney' — agrees with the chunk file's 'County Attorney'. Office District reads 'N/A or Cache' verbatim. Candidate 'Christopher Lyle Daines' — chunk file says 'Daines'; agrees. Political Party 'Independent American Party'. Note this chunk also contains the OTHER 2014 County Attorney candidate (Swink, key 85e73611) — different filers, different documents, not duplicates. THE SINGLE FORM A ENTRY IS A NEGATIVE AMOUNT (a partial return of a contribution to the candidate himself, Chris Daines), which is why the contributions side reduces the cycle total rather than adding to it; downstream consumers must not take its absolute value. The cover prints 'Cell' written over the 'Phone: Home' label plus a business number; the candidate's street address and both phone numbers were discarded at read time, as was the contributor address on Form A (the contributor is the candidate, same address). Cover cites 'Utah Code reference 17-16-6.5' and page 4 prints that statute in two columns.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-11-17",
+   "donor_raw": "Chris Daines",
+   "donor_city": "North Logan",
+   "donor_state": "UT",
+   "amount": "-400.43",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.50,12.10,12.50,2.60@p2",
+   "note": "NEGATIVE amount, printed '-400' with superscript cents '43' over a rule -> -400.43. The filer annotated the entry on the two writing lines below, in the name/address columns: '(Partial Return of contribution)' and '(see Section 20A-11-104(2)(f), Utah Code).' — those lines carry no date and no amount and are NOT emitted as rows. The contributor is the candidate himself. The amount is written on the second ruled line, beside the wrapped address, not beside the name"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-11-07",
+   "vendor_raw": "Square One Printing",
+   "purpose": "Thank You Cards",
+   "amount": "14.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.50,10.95,12.50,2.30@p3",
+   "note": "printed '14' with superscript cents '92' over a rule -> 14.92"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2014-11-07",
+   "vendor_raw": "U.S. Postal Service",
+   "purpose": "Postage",
+   "amount": "5.39",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.50,13.15,12.50,2.30@p3",
+   "note": "printed '5' with superscript cents '39' over a rule -> 5.39"
+  }
+ ]
+}

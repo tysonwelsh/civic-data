@@ -1,0 +1,204 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2023-01-03",
+   "vendor_raw": "Cyprus Baseball",
+   "purpose": "Donation/Equipment",
+   "amount": "1,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:15.41,24.30,71.90,3.55@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2023-03-23",
+   "vendor_raw": "Cyprus Baseball Equipment",
+   "purpose": "Donation",
+   "amount": "609.96",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:15.41,27.85,71.90,3.55@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2023-04-20",
+   "vendor_raw": "United Fleet Services",
+   "purpose": "Campaign Vehicle Maintenance",
+   "amount": "194.01",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:15.41,31.40,71.90,3.55@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2023-04-24",
+   "vendor_raw": "Cyprus Baseball/Football",
+   "purpose": "Donation/Sponsorship",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:15.41,34.95,71.90,3.55@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2023-06-18",
+   "vendor_raw": "Cyprus Football",
+   "purpose": "Donation/Sponsorship",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:15.41,38.50,71.90,3.55@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2023-09-03",
+   "vendor_raw": "Hagerty Insurance",
+   "purpose": "Campaign Vehicle Insurance",
+   "amount": "312.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:15.41,42.05,71.90,3.55@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2023-10-02",
+   "vendor_raw": "Cyprus Football",
+   "purpose": "Donation/Sponsorship",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:15.41,45.60,71.90,3.55@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2023-11-21",
+   "vendor_raw": "Cyprus Baseball/Wrestling",
+   "purpose": "Donation/Equipment",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:15.41,49.15,71.90,3.55@p4"
+  }
+ ],
+ "total_contributions": "0.00",
+ "total_expenditures": "6,615.97",
+ "beginning_balance": "19,187.19",
+ "ending_balance": "12,571.22",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "19,187.19"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#2",
+  "report_type": "Year-End Report: January 31 of each year (2024 form 'Financial Disclosure Report For a Candidate')",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01-21-24",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Jensen-Michael__FDF00AFC.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jensen, Michael",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Jensen-Michael__FDF00AFC.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Year-end report dated 01-21-24 on the 2024 'For a Candidate' form covering calendar 2023 - all expenditure dates print in full-year 'MM-DD-2023' format. Typed throughout. No redaction on the itemized rows; only the cover address block and signature are barred. Cover Office line reads 'SL Council District 2'. All expenditures are Cyprus High School athletics donations/sponsorships/equipment plus campaign-vehicle insurance and maintenance.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "0.00",
+     "itemized": "0",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A carries a single typed placeholder row NA/NA/NA/NA/$0.00 with SUBTOTAL $0.00 and TOTAL $0.00 - a real zero, 0 rows"
+    },
+    "expenditures": {
+     "stated": "6,615.97",
+     "schedule_total": "6,615.97",
+     "itemized": "6615.97",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "8 rows sum 6615.97 = Schedule B printed SUBTOTAL/TOTAL $6,615.97 = Summary line 2 Col A $6,615.97"
+    }
+   },
+   "page_subtotal_gates": "p4 rows 6615.97 = printed SUBTOTAL $6,615.97 and TOTAL $6,615.97; p3 SUBTOTAL $0.00 and TOTAL $0.00 with 0 rows",
+   "escalations": 0,
+   "escalation_note": "none; all rows re-verified in one 400dpi band and read identically",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Year-end report dated 01-21-24 on the 2024 'For a Candidate' form covering calendar 2023 - all expenditure dates print in full-year 'MM-DD-2023' format. Typed throughout. No redaction on the itemized rows; only the cover address block and signature are barred. Cover Office line reads 'SL Council District 2'. All expenditures are Cyprus High School athletics donations/sponsorships/equipment plus campaign-vehicle insurance and maintenance."
+  }
+ }
+}

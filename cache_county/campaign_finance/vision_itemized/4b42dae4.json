@@ -1,0 +1,261 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C17.json",
+ "key": "4b42dae4",
+ "index_path": "raw/2020/2020_cc_Adam_K_S_Tripp_pdf.pdf",
+ "applies_to": [
+  "raw/2020/2020_cc_Adam_K_S_Tripp_pdf.pdf",
+  "raw/2020/2020_st_tripp_summary.pdf"
+ ],
+ "sha256_prefix": "1a71c3e7505009c4",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg Form A, ruled grid, 9 hand-written rows (a cleaner re-write of the same list this filer filed on 10/27)",
+  "expenditures": "carr_5_5_pg Form B, ruled grid, 2 hand-written rows"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "2,350.00",
+    "cover_over50_cum": "",
+    "cover_le50_last": "",
+    "cover_le50_this": "25.00",
+    "cover_le50_cum": "",
+    "cover_expense_last": "",
+    "cover_expense_this": "697.00",
+    "cover_expense_cum": "",
+    "cover_balance_end": "1,678.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "2,485.00",
+   "basis": "cover-line1-this (the only anchor: LAST and CUMULATIVE are blank and the Carr form prints no schedule total)",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "9 rows sum to 2,485.00; rows STRICTLY over $50.00 = 2,360.00; all rows except the 25.00 line-2 aggregate = 2,460.00. Cover line 1 reads 2,350.00, so the side will not gate on any basis (residual +10.00 strict, +110.00 otherwise). This copy is written in a much clearer hand than the filer's 10/27 interim and the digits here are firm at 1200 dpi (row 2 '$50' vs row 3 '$60' are visibly different glyphs; row 8 '$500' vs row 9 '$600' likewise). The COVER is internally consistent - 2,350.00 + 25.00 - 697.00 = 1,678.00 exactly - so the disagreement is between the filer's own cover total and his own schedule."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "697.00",
+    "cover_expense_cum": "",
+    "cover_balance_end": "1,678.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "708.00",
+   "basis": "cover-line3-this",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "642.00 + 66.00 = 708.00 against the cover's printed 697.00 - residual +11.00, identical to the residual on this filer's interim. Both amounts re-read at 1200 dpi."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "no printed schedule total on either Carr schedule; the cover lines are the only anchors. p2: rows-sum 2,485.00 (strict over-$50 2,360.00) vs cover line 1 2,350.00 - WILL NOT GATE, residual +10.00/+110.00. p3: rows-sum 708.00 vs cover line 3 697.00 - WILL NOT GATE, residual +11.00. Nothing was adjusted to close either.",
+  "row_count": "rowbands.py p2: geometry_status ok, 36 rules / 36 bands, pitch 2.295%, rules at 11.09, 13.88, 16.18, 18.45, 20.77, 23.09, 25.36, 27.68, 29.96, 32.23 ... the nine inked rows sit ABOVE their rules, one per band, filling the first nine bands; every later band is empty. rowbands.py p3: ok, 36 rules / 35 data bands, rules from 10.45, 13.23, 15.49 - two inked rows in the first two bands, the rest empty. 9 and 2 rows emitted.",
+  "geometry_proof": "p2: first-row amount crop renders '$25', last-row (9) crop renders '$600' (the Realtors association), control one row-pitch below renders EMPTY. p3: the amount-column crop renders '$642.00' and '$66.00' in their two row boxes with nothing below.",
+  "balance_chain": "cover: 2,350.00 + 25.00 - 697.00 = 1,678.00 = the balance line, EXACTLY - the cover closes on its own figures. CROSS-FILING - IMPORTANT: this is the filer's SECOND filing of the 2020 cycle (the pre-general interim is key e8fc486d, signed 10/27/2020). This later report leaves TOTALS FROM LAST REPORT entirely BLANK, repeats the interim's four THIS-column figures unchanged, and re-itemizes the SAME nine donors and two expenditures. It therefore does NOT chain as the form intends: it restates the cycle instead of reporting a new period, and the two filings must NOT be added together - doing so would double-count every row. Both are marked scope 'cumulative' to make that explicit."
+ },
+ "escalations": 6,
+ "escalation_note": "1200 dpi -normalize cell crops of Form A rows 2, 3, 8 and 9 amounts (the 5-vs-6 question, settled WITHIN this document by contrasting the two glyph forms) and of the Form B amount column; 600 dpi column crops of the full name column and the full amount column; 600 dpi first/last/control geometry crops.",
+ "notes": "index.csv calls this document 'Adam K S Tripp.pdf' / County Council / 2020, and gives its date as 2020-12-17 (an index artefact - a harvest or posting date). THE FORM SAYS: 'Full Name of Candidate: Adam K S Tripp', 'Name of Office: Cache county council', 'Office District: Logan 1', 'Political Party: Democratic', signed 11/18/2020, clerk stamp CLERK-NOV23'20 3:15:29. Candidate and office agree; the DATE on the document is 11/18/2020, not the index's 2020-12-17. This is the POST-GENERAL SUMMARY report; the interim twin is key e8fc486d. Candidate address/phone discarded at read time; donor street addresses and ZIPs discarded, city/state kept only where the filer wrote them. WORTH A HUMAN'S EYE: (a) both sides are deltas against the cover, in the same direction and by the same amounts as on the interim; (b) this copy TRANSPOSES two amounts relative to the interim (here Jason Holmes 500.00 and the Realtors association 600.00; on the interim they are 600.00 and 500.00) - identical pair total, and each document is transcribed only from its own page; (c) two donor surnames are written differently across the filer's two copies (this copy: 'michelle Nelsch', 'Todd Shermann'; the interim: 'Michelle Nelson', 'Todd Sherman') - both are transcribed as they appear on their own page, neither was harmonised. Every row carries needs_review:1 because its side is a delta. This filing shares its bytes with raw/2020/2020_st_tripp_summary.pdf (see applies_to).",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-09-27",
+   "donor_raw": "paul Ray Andrus",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,11.70,12.00,2.20@p2",
+   "note": "written '$25'; equals the cover's line-2 small-donor aggregate, itemized by the filer. The address cell holds a street only ('[street address discarded at read time per PRIVACY.md]') with no city, state or ZIP, so donor_city/donor_state stay blank."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-09-27",
+   "donor_raw": "christine mangban",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,14.10,12.00,2.20@p2",
+   "note": "surname transcribed as the legible glyph string ('m-a-n-g-b-a-n' on this copy) rather than normalised to a real surname; donor=low. Amount '$50' - a flat-topped 5, visibly different from row 3's 6 at 1200 dpi."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2020-10-16",
+   "donor_raw": "michelle Nelsch",
+   "donor_city": "Logan",
+   "donor_state": "",
+   "amount": "60.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=low;amount=medium",
+   "verified": 1,
+   "geometry": "pct:82.50,16.40,12.00,2.20@p2",
+   "note": "surname reads 'Nelsch' on THIS page (the filer's other copy reads 'Nelson' - not used to alter this one); donor=low. Amount '$60' - the leading digit carries the round lead-in stroke this hand uses for 6, unlike the 5s in rows 2 and 6. The address line gives a street, 'Logan' and a partly-formed ZIP with no state."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2020-10-06",
+   "donor_raw": "weston Lewis",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,18.60,12.00,2.20@p2",
+   "note": "written '$1000', no cents."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2020-10-06",
+   "donor_raw": "Nancy Davis Buckway",
+   "donor_city": "Hyde Park",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,20.90,12.00,2.20@p2",
+   "note": ""
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "2020-10-08",
+   "donor_raw": "Todd Shermann",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,23.10,12.00,2.20@p2",
+   "note": "surname written 'Shermann' (double n) on this copy."
+  },
+  {
+   "line_no": "7",
+   "report_no": 1,
+   "date": "2020-10-22",
+   "donor_raw": "sid Roderer",
+   "donor_city": "Lewiston",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,25.40,12.00,2.20@p2",
+   "note": "written cleanly here (the interim copy has a struck-out word between the given and family name)."
+  },
+  {
+   "line_no": "8",
+   "report_no": 1,
+   "date": "2020-10-13",
+   "donor_raw": "Jason Holmes",
+   "donor_city": "Providence",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:82.50,27.70,12.00,2.20@p2",
+   "note": "written '$500' on THIS page (flat-topped 5). The filer's interim copy gives this donor 600.00 and the Realtors association 500.00 - transposed relative to this copy; pair total identical, each document read from its own page."
+  },
+  {
+   "line_no": "9",
+   "report_no": 1,
+   "date": "2020-10-22",
+   "donor_raw": "cachevalley Assoc. of REALTORS",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "600.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:82.50,30.10,12.00,2.20@p2",
+   "note": "the address cell is filled with 'N/A' - a nil mark, not a place, so donor_city/donor_state are blank (core §3(f): a bare N/A is not data). Amount '$600' (round lead-in 6)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-09-24",
+   "vendor_raw": "Square One printing",
+   "purpose": "yard signs",
+   "amount": "642.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,11.30,12.00,2.20@p3",
+   "note": "date written '9/24/20'. needs_review because the expenditure side is a delta (708.00 rows vs 697.00 cover)."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-10-06",
+   "vendor_raw": "US postal service",
+   "purpose": "postage for mailers",
+   "amount": "66.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,13.60,12.00,2.20@p3",
+   "note": "date written '10/6/20'."
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+[{
+ "index_path": "raw/2026/2026_Christopher_Forbush_Redacted.pdf",
+ "key": "598569ae",
+ "wave": "itemized-vision(claude-opus-5[1m]; 2026-08-20 wave B2 utah chunk r13_03)",
+ "transcribed_date": "2026-08-20",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' ($189.92) on the p4 Summary Page, corroborated by Schedule A's own printed 'Subtotal for this page $ $189.92' AND its printed 'Total Contributions Received (Sum of all Schedule A pages in this report) $ $189.92'",
+   "detail": "The single written Schedule A row sums to 189.92 exactly = the page subtotal = the sum-of-all-pages total = the promoted per-period Box B. Box C (Year to Date) prints the identical $189.92 and is NOT summed as an increment; this is the cycle's only report (a 30-days-after-withdrawal-or-elimination report dated 5/4/26), so period == year-to-date. THE SELF-CONTRIBUTION WAS TESTED AGAINST THE LADDER, not assumed: the sole donor is the candidate himself, Box A prints 0, and Box B prints the full 189.92, so the payment is an itemized contribution and not a beginning balance. NOTE, retained verbatim and NOT adjudicated: Box F ('Box A + Box B') prints 0 where A + B = 189.92, and the close box prints 0 where F - D would be -189.92. Both are balance-ladder cells that touch no itemized row; the side is gated on Box B, which the schedule's own two footers independently corroborate."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' ($189.92) on the p4 Summary Page, corroborated by Schedule B's own printed 'Subtotal for this page $ $189.92' AND its printed 'Total Expenditures Made (Sum of all Schedule B pages in this report) $ 189.92'",
+   "detail": "The single written Schedule B row sums to 189.92 exactly = the page subtotal = the sum-of-all-pages total = the promoted per-period Box D. Box E (YTD) prints the identical $189.92 and is never summed as an increment. The whole filing is one transaction in and one out for the same amount on the same date (3/2/2026): the candidate funded his own campaign with 189.92 and spent 189.92 with Printology on delegate flyers. The two printed footers on each schedule are formatted with a DOUBLED dollar sign ('$ $189.92') because the filer typed his own '$' into a field the form already prefixes; that is a typing artifact, not a second figure."
+  }
+ },
+ "in_kind_convention": "monetary-only — and the two conventions are identical here. Schedule A prints FOUR columns (Date / Name of Contributor / City and Zip Code / Amount) with NO in-kind checkbox column; neither row is annotated in-kind; the Summary Page has no in-kind line and no compound '+Inkind' cell. Both conventions give 189.92 on each side and both close exactly.",
+ "escalations": 0,
+ "escalation_note": "No value was in doubt: this is a born-digital typed fillable form and every printed figure on it is the same machine-set 189.92. The only crops taken were the six geometry proofs recorded in the two measure_notes.",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [80.40, 94.10],
+   "cells": [[5.90, 19.50], [19.50, 50.90], [50.90, 80.40], [80.40, 94.10]],
+   "rows": [[15.93, 20.48], [20.48, 24.98], [24.98, 29.52], [29.52, 34.11], [34.11, 38.66], [38.66, 43.16], [43.16, 47.70], [47.70, 52.23], [52.23, 56.80], [56.80, 61.32], [61.32, 65.73], [65.73, 70.30], [70.30, 74.84], [74.84, 79.39], [79.39, 83.93]],
+   "measure_note": "pdfinfo: all four pages are 612x792 pts (US letter) with rot 0, so axis is 'y'. Schedule A is a fully BOXED 15-row grid — a row lies between its own two rules, nothing extrapolated. rowbands.py at 200 dpi (skew +0.3) returned 18 rules / 17 bands and proposed SEVENTEEN data bands because the two printed footer underlines ('Subtotal for this page' at 83.93 and 'Total Contributions Received' at 88.64) fall on the same ~4.54 pitch as the grid and were not trimmed; the printed grid is 15 rows and the frame stops there. v_rules 5.9 / 19.5 / 50.9 / 80.4 / 94.1 give the four column bands, amount 80.4-94.1. Only one row is written, so it was proved with BOTH controls. At 800 dpi: pct:80.4,15.93,13.7,4.55@p2 rendered '$189.92' (recorded 189.92) directly beneath the printed 'Amount' header, which independently proves no row was lost above band 1; the one-past control pct:80.4,20.48,13.7,4.5@p2 rendered a WHOLLY EMPTY ruled cell; and the end-of-grid control pct:80.4,79.39,13.7,4.54@p2 rendered an empty ruled cell at band 15, confirming nothing continues below the transcribed row. Bands 2-15 are unused."
+  },
+  "3": {
+   "axis": "y",
+   "cell": [80.40, 94.10],
+   "cells": [[5.80, 19.50], [19.50, 50.90], [50.90, 80.40], [80.40, 94.10]],
+   "rows": [[15.75, 20.29], [20.29, 24.82], [24.82, 29.39], [29.39, 33.93], [33.93, 38.48], [38.48, 43.02], [43.02, 47.59], [47.59, 52.11], [52.11, 56.66], [56.66, 61.16], [61.16, 65.66], [65.66, 70.20], [70.20, 74.75], [74.75, 79.30], [79.30, 83.84]],
+   "measure_note": "Schedule B, same boxed 15-row grid and the same column rules as p2 (skew +0.4; rowbands.py returned 17 rules / 15 data bands on a ~4.54 pitch, the 15th band closing on the grid's bottom border at 83.84). Only one row is written, so it was proved with both controls. At 800 dpi: pct:80.4,15.75,13.7,4.54@p3 rendered '$189.92' (recorded 189.92) under the printed 'Amount' header; the one-past control pct:80.4,20.29,13.7,4.53@p3 rendered a WHOLLY EMPTY ruled cell; the end-of-grid control pct:80.4,79.3,13.7,4.54@p3 rendered an empty ruled cell. Bands 2-15 are unused."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 2, "row": 1, "date": "3/2/2026",
+   "donor_raw": "Christopher Forbush", "donor_city": "Saratoga Springs",
+   "amount": "189.92", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "A SELF-CONTRIBUTION by the candidate — the filing's only donor is the filer himself. It is an itemized contribution row because the ladder says so (Box A = 0, Box B = the full 189.92), not because of any wording; the row carries no 'loan' annotation. The City and Zip Code cell prints 'Saratoga Springs, 84045' and NOTHING ELSE: the filer typed no street at all, so there is nothing for the privacy reduction to remove and no redaction bar anywhere on this page. donor_state is honestly BLANK because THE 2026 'City and Zip Code' BLANK HAS NO STATE FIELD and the filer typed none. Date written in full four-digit form, kept verbatim."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "3/2/2026",
+   "vendor_raw": "Printology", "purpose": "Print Delegate Flyers",
+   "amount": "189.92", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "The 2026 v. 12.23 Schedule B carries a REAL Purpose column and the filer used it. Expenditure rows have no address field on this form and none is written. Same date and same amount as the sole contribution — the candidate funded and spent the identical sum on one day."}
+ ],
+ "notes": "FORM CHARACTERISATION (2026 stock, fourth specimen) — variant modern_boxAF, footer 'v. 12.23' on every page, masthead 'Aaron Davidson, Clerk'. Four pages, summary LAST, each classified from its own printed header: p1 cover, p2 'Schedule A - Itemized Contributions Received', p3 'Schedule B - Itemized Expenditures Made', p4 'Summary Page'. NO CHECKLIST DECOY is bound in this document. Schedule A's third column is headed 'City and Zip Code' — the same blank Bowles (d4741fec) and Herrin (fea010e2) used, and NOT the 'Address and Zip Code' blank Voeks (a9fc51aa) used, all four under the identical v. 12.23 footer. Schedule B keeps the real Purpose column; both schedules are boxed 15-row grids printing their own two footers; the Summary Page prints A, B/C, D/E, F and an UNLETTERED close box. Report type '30 Days after withdrawal or elimination' is ticked, the amendment question is ticked 'No', and the report date is 5/4/26 on the cover and on every inner sheet's Date of Report box. Foliation is continuous counting the cover (Pages 1-4) with no 'of N' component printed. TYPING ARTIFACT worth naming so a later reader does not misread it as a second figure: the filer typed his own '$' into the two footer fields on each schedule, which the form already prefixes with '$', so those lines print '$ $189.92'. There is exactly one printed value on this document, 189.92, and it appears as Box B, Box C, Box D, Box E, both Schedule A footers, both Schedule B footers, the contribution row and the expenditure row. FILER ARITHMETIC RETAINED VERBATIM, NOT ADJUDICATED: Box F ('Box A + Box B') prints 0 where A + B = 189.92, and the close box prints 0 where F - D would be -189.92. The filer evidently reasoned that the campaign ended at zero — which is true in substance — but the boxes as printed do not follow the form's own formulae. Neither cell touches an itemized row and both sides gate on Box B / Box D, each corroborated twice over by the schedules' own footers. PAGE-FACE IDENTITY: cover, affirmation line and every sheet's candidate box read 'Christopher Forbush', matching index.csv. The OFFICE BOX IS FILLED AND LEGIBLE — 'County Commission Seat A' — in exact agreement with index.csv, corroborated from the page itself. REDACTION: this is a *_Redacted.pdf and the county blacked out the cover's entire address row INCLUDING ITS OWN PRINTED LABEL BAR, the phone number block, and the signature; the email address and the Office box were left in the clear. There is NO redaction on any schedule page. Because the only donor is the candidate and he typed no street, no cell on this filing was ever at risk of carrying an address. BORN-DIGITAL typed fillable form, but printed, redacted and re-scanned, so row confidence stays at the OCR tier 'medium' per SCHEMA §6."
+}]

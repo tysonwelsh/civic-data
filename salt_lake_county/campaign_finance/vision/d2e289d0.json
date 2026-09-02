@@ -1,6 +1,168 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-09-10",
+   "donor_raw": "Report Carryover",
+   "occupation": "Contribution Carryover",
+   "amount": "2901.97",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.60,20.84,81.50,3.89@p3",
+   "note": "carryover row, not a person; address redacted at source"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-07-08",
+   "donor_raw": "tah Realators Associatio",
+   "occupation": "Realtors",
+   "amount": "6000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.60,24.73,81.50,3.93@p3",
+   "note": "donor cell text clipped in the source PDF at both ends; visible glyphs 'tah Realators Associatio' (likely 'Utah Realators Association' but clipped - not repaired); address redacted at source"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-06-12",
+   "donor_raw": "Sheldon Stewart",
+   "occupation": "Banking",
+   "amount": "277.83",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.60,28.66,81.50,3.91@p3",
+   "note": "candidate self-contribution; address redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-06-23",
+   "vendor_raw": "Next Day Flyers",
+   "purpose": "Thank you Stickers",
+   "amount": "172.82",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.30,22.18,73.80,3.93@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-06-27",
+   "vendor_raw": "SEOWerkz",
+   "purpose": "Marketing Services",
+   "amount": "3000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.30,26.11,73.80,3.91@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-07-28",
+   "vendor_raw": "Estela Newton",
+   "purpose": "Design Services",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.30,30.02,73.80,3.89@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2022-08-03",
+   "vendor_raw": "Danielle Ahn for DA",
+   "purpose": "Campaign Donation",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.30,33.91,73.80,3.93@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2022-08-03",
+   "vendor_raw": "Goud4Clerk",
+   "purpose": "Donation",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.30,37.84,73.80,3.93@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2022-08-03",
+   "vendor_raw": "Snelgrove Victory Fund",
+   "purpose": "Donation",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.30,41.77,73.80,3.89@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2022-08-03",
+   "vendor_raw": "SLCO GOP",
+   "purpose": "Donation",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.30,45.66,73.80,3.89@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2022-09-03",
+   "vendor_raw": "SLCO GOP",
+   "purpose": "Donation",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.30,49.55,73.80,3.93@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2022-09-08",
+   "vendor_raw": "Jim's",
+   "purpose": "od for Snr. Policy Advisor Meetin",
+   "amount": "34.35",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.30,53.48,73.80,3.93@p4",
+   "note": "purpose cell text clipped in the source PDF at both ends; visible glyphs 'od for Snr. Policy Advisor Meetin' (likely 'Food for Snr. Policy Advisor Meeting' but clipped - not repaired)"
+  }
+ ],
  "total_contributions": "$9,179.80",
  "total_expenditures": "$6,357.17",
  "beginning_balance": "$0.00",
@@ -49,6 +211,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Clerk listing calls it the \"9/10/2022 Financial Report\"; the form checks \"September 15\" and is signed 09/12/22. Both Column B aggregate cells read $0.00 and Line 3 opens at $0.00 (his June report closed at $2,901.97) - kept verbatim. TITLE reads \"2020 Financial Disclosure Report\" (stale template)."
+  "notes": "Clerk listing calls it the \"9/10/2022 Financial Report\"; the form checks \"September 15\" and is signed 09/12/22. Both Column B aggregate cells read $0.00 and Line 3 opens at $0.00 (his June report closed at $2,901.97) - kept verbatim. TITLE reads \"2020 Financial Disclosure Report\" (stale template).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "9179.80",
+     "schedule_total": "9179.80",
+     "itemized": "9179.80",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "3 rows sum 2901.97+6000.00+277.83 = 9179.80 = Summary line 1 Column A = schedule grand total = page subtotal"
+    },
+    "expenditures": {
+     "stated": "6357.17",
+     "schedule_total": "6357.17",
+     "itemized": "6357.17",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "9 rows sum 172.82+3000.00+100.00+1000.00+1000.00+1000.00+25.00+25.00+34.35 = 6357.17 = Summary line 2 Column A = schedule grand total = page subtotal"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 9179.80 = printed SUBTOTAL FOR THIS PAGE 9179.80; p4 rows 6357.17 = printed SUBTOTAL FOR THIS PAGE 6357.17",
+   "escalations": 3,
+   "escalation_note": "p3 rows 1-3 re-read in 600dpi band crop x1; p4 rows 1-9 re-read in 600dpi band crops x2 (second crop for row 9)",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 9,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Form masthead reads '2020 Financial Disclosure Report For a Candidate' though the report date is 09/12/22 (form vintage, not a mislabel). 'September 15' interim-report box checked. Complete Mailing Address column bar-redacted on all Schedule A rows - city/state do not survive. Two cells are text-CLIPPED in the source PDF itself (clip path, not redaction): Schedule A row 2 contributor name reads only 'tah Realators Associatio' and Schedule B row 9 purpose reads only 'od for Snr. Policy Advisor Meetin'; both transcribed as the visible glyphs."
+  }
  }
 }

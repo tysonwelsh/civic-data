@@ -1,0 +1,104 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "0",
+ "ending_balance": "",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": ""
+ },
+ "cover": {
+  "candidate": "Paul Sanchez",
+  "party": "Democrat",
+  "office_sought": "SL County Council",
+  "district_number": "1",
+  "report_type": "Midterm Vacancy",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2025-06-10",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Sanchez-Paul__0EFB15FB.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sanchez, Paul",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Sanchez-Paul__0EFB15FB.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Undated 2026-family 'Financial Disclosure Report For a Candidate' form (title prints no year). Signed 6/10/25; NEITHER amendment box checked. MISLABEL (flagged, not relabelled): cover 'Office' field reads 'South Salt Lake City Council' while 'Office Sought' reads 'SL County Council' District 1 - classified by the Office Sought line. p5-p7 are the equally blank Other Campaign Accounts Summary + its two itemized pages. Cover street/city/state/zip bar-redacted.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "",
+     "itemized": "0",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A page p3 present and wholly blank - a real zero against stated $0; no subtotal figures written anywhere."
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": "",
+     "itemized": "0",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "Schedule B page p4 present and wholly blank - a real zero against stated $0."
+    }
+   },
+   "page_subtotal_gates": "no subtotal or total figures written on p3/p4 (blank cells); gated on Summary lines 1/2 = $0",
+   "escalations": 1,
+   "escalation_note": "400dpi crop of p2 summary money cells (x1) confirmed $0/$0/$0 and blank 4-7/Column B",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Undated 2026-family 'Financial Disclosure Report For a Candidate' form (title prints no year). Signed 6/10/25; NEITHER amendment box checked. MISLABEL (flagged, not relabelled): cover 'Office' field reads 'South Salt Lake City Council' while 'Office Sought' reads 'SL County Council' District 1 - classified by the Office Sought line. p5-p7 are the equally blank Other Campaign Accounts Summary + its two itemized pages. Cover street/city/state/zip bar-redacted."
+  }
+ }
+}

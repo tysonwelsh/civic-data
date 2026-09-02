@@ -1,0 +1,230 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W07.json",
+ "key": "768bcbd5",
+ "index_path": "raw/live_wp/2006-David-Whitehead.pdf",
+ "applies_to": [
+  "raw/live_wp/2006-David-Whitehead.pdf"
+ ],
+ "sha256_prefix": "fe00a5248eb95c9b",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen1-ruled",
+  "expenditures": "gen1-ruled"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "200 —",
+    "cover_over50_cum": "200. —",
+    "cover_le50_this": "50. —",
+    "cover_le50_cum": "50. —",
+    "schedule_total": null
+   },
+   "itemized": "200.00",
+   "basis": "cover-line1-this==cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "GENERATION 1 (Carr Printing 5-5-PG) - Form A prints NO schedule total, so the cover is the ONLY anchor and schedule_total is null by construction. The single row, 200 with a trailing dash (whole dollars, no cents = 200.00), equals cover line 1 in BOTH the THIS and CUMULATIVE columns. THE SUB-$50 TRAP APPLIES HERE: cover line 2 separately reports a 50.00 aggregate of sub-$50 gifts which is NOT itemized anywhere and must NOT be added to the Form A target - the module's published stated_total_contributions is silent/blank for this filing but the two lines are reported separately above. The Totals-from-LAST-Report column is a bare dash on all four lines, so this is the first (and only) report of the cycle and the THIS/CUMULATIVE scopes coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "916.²⁴",
+    "cover_expense_cum": "916.²⁴",
+    "cover_balance_end": "<666.24>",
+    "schedule_total": "916.²⁴"
+   },
+   "itemized": "916.24",
+   "basis": "cover-line3-this==cover-line3-cumulative==filer-written schedule total",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "TRIPLE-GATED. The nine transcribed rows sum to exactly 916.24 (360.00 + 50.00 + 63.75 + 53.77 + 52.82 + 184.47 + 29.75 + 115.80 + 5.88), which equals cover line 3 in both the THIS and CUMULATIVE columns AND the word 'Total' the filer wrote by hand on the last ruled line of Form B with 916.24 beside it. The Generation 1 form prints no schedule total, so that hand-written line is the filer's own, not a form field, and is recorded as the schedule_total anchor with that caveat - it is NOT emitted as a tenth transaction row. The exact sum is what settled every ambiguous superscript-cents group on the page (63 75, 52.8-2, 29 75)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p3 nine rows sum 916.24 = the filer's hand-written 'Total 916.24' on the last ruled line = cover line 3 THIS and CUM - gate fires to the cent, and it is the arithmetic that fixed 63.75 / 52.82 / 29.75 / 5.88 (all written as superscript cents over the rule, several clipped at the cell edge). p2 one row 200 = cover line 1 THIS and CUM - gate fires; Form A prints no total of its own.",
+  "row_count": "rowbands.py p2: geometry_status=ok, 41 rules, 40 bands, pitch 2.098%; the Gen-1 sheet is ruled lines, not a boxed grid, and the filer writes ABOVE the rule, so row N is the band ENDING at rule N. Row 1 = [8.21,10.61] (ink at 9.3-10.5%), 1 inked band, 1 row emitted, 39 empty. p3: geometry_status=gaps, 39 rules, 38 bands, same pitch; rows 1-9 = the bands ending at 10.16/12.26/14.27/16.41/18.37/20.54/22.54/24.66/26.70%; 9 inked bands, 9 rows emitted. The hand-written 'Total' line sits far below at ~88% with ~30 empty bands between it and row 9, so it cannot be confused with a data row.",
+  "geometry_proof": "p2: 600-dpi crop pct x 78-98, y 7.5-15.5 upscaled 3x renders row 1's '200 —' in its emitted band and the two bands below render EMPTY. p3: 600-dpi crop pct x 74-94, y 6.5-26.0 upscaled 3x renders all nine emitted amounts in order (360 / 50 / 63 75 / 53.77 / 52.82 / 184.47 / 29 75 / 115.80 / 5.88); the control crop at pct y 24.5-31.0 renders row 9's '5. 88' and then EMPTY ruled lines; a separate crop at pct y 84.5-90.5 renders the hand-written 'Total ... 916.24' line.",
+  "balance_chain": "Closes EXACTLY: 200.00 (line 1) + 50.00 (line 2) - 916.24 (line 3) = -666.24, and cover line 4 prints <666.24> in both the THIS and CUMULATIVE columns - angle brackets used as accounting parentheses, i.e. negative. The Totals-from-LAST-Report column is a bare dash on every line, so there is no prior filing to chain to; the module holds no earlier 2006 Whitehead report."
+ },
+ "escalations": 4,
+ "escalation_note": "p3 amount column at 600 dpi with a 3x LANCZOS upscale (the superscript cents groups); p3 date+payee columns at 600 dpi with a 1.8x upscale; p3 hand-written Total line at 600 dpi; p2 amount column at 600 dpi with a 3x upscale.",
+ "notes": "GENERATION 1 form - Carr Printing Company 5-5-PG, cover citing Utah Code 17-16-6.5, 'the law is also printed on page four of this report'. THE STATUTE PAGE IS NOT IN THIS PDF: the county's re-scan is 3 pages, so page 4 (the statute text) was not captured - a scan limit, not a missing schedule. Chunk file / index.csv say DAVID ALAN WHITEHEAD, Treasurer, 2006; the cover's Full Name of Candidate reads 'DAVID ALAN WHITEHEAD' and its 'Name of Office' line reads 'TREASURER' - AGREES, and this DOCUMENT-VERIFIES an office the index held only at office_confidence=medium from a portal listing. Political Party line reads 'Republican'. Signed and dated 10/20/06. A hand-written margin note across the top right reads 'No other expenses final. per Cal' (Cal = Calvin Robison, the County Clerk the report is addressed to). Gen 1 has NO in-kind column on either schedule, so in_kind is false on every row by construction and NOT inferred. Gen 1 also has NO reporting-period fields - the cover carries only a signature date - so the period is honestly unknown from the form; that is a property of this form generation, not a lost crop. Two Form B rows (Filing FEE, Convention FEE) have an EMPTY payee cell - honestly blank, not illegible. One Form B row (THE mail Place / Postage / 184.47) has an EMPTY date cell - blank with needs_review=1; no year was borrowed from the rows around it. Candidate's home street address, city, ZIP, home phone and business phone are printed in the clear on the cover and were discarded at read time; the single Form A row's address cell was left empty by the filer, so donor_city/donor_state are honestly blank.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2006-03-17",
+   "donor_raw": "Russ. Shirts",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "200 —",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.20,8.21,10.40,2.40@p2",
+   "note": "amount written as '200' followed by a long dash = whole dollars, no cents, i.e. 200.00 (the trailing-dash convention). Address cell left EMPTY by the filer. Gen 1 Form A has no in-kind column."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2006-03-17",
+   "vendor_raw": "",
+   "purpose": "Filing FEE",
+   "amount": "360.⁰⁰",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=blank-on-form;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.60,8.06,11.30,2.10@p3",
+   "note": "payee cell left EMPTY by the filer (the purpose reads 'Filing FEE'); superscript cents over the rule, partly clipped at the cell edge - read as 00 and confirmed by the schedule sum"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2006-04-07",
+   "vendor_raw": "",
+   "purpose": "Convention FEE",
+   "amount": "50.⁰⁰",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=blank-on-form;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.60,10.16,11.30,2.10@p3",
+   "note": "payee cell left EMPTY by the filer; superscript cents"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2006-04-19",
+   "vendor_raw": "LC Signs",
+   "purpose": "BANNER",
+   "amount": "63 75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.60,12.26,11.30,2.01@p3",
+   "note": "no decimal point printed - dollars then superscript cents ('63' + '75') = 63.75, confirmed by the schedule sum"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2006-04-10",
+   "vendor_raw": "STAPLES",
+   "purpose": "Flyer Supplies",
+   "amount": "53.77",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.60,14.27,11.30,2.14@p3",
+   "note": ""
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2006-04-20",
+   "vendor_raw": "STAPLES",
+   "purpose": "Convention Supplies",
+   "amount": "52.8²",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.60,16.41,11.30,1.96@p3",
+   "note": "superscript cents over the rule = 52.82, confirmed by the schedule sum"
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "THE mail Place",
+   "purpose": "Postage",
+   "amount": "184.47",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=blank-on-form;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.60,18.37,11.30,2.17@p3",
+   "note": "the date cell for this row is EMPTY on the form - the filer printed no date, so the date is blank with needs_review=1; the year is NOT filled from the neighbouring rows"
+  },
+  {
+   "line_no": "7",
+   "report_no": 1,
+   "date": "2006-04-20",
+   "vendor_raw": "Kinkos",
+   "purpose": "Copying",
+   "amount": "29 75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.60,20.54,11.30,2.00@p3",
+   "note": "no decimal point printed - '29' + superscript '75' = 29.75, confirmed by the schedule sum"
+  },
+  {
+   "line_no": "8",
+   "report_no": 1,
+   "date": "2006-04-21",
+   "vendor_raw": "COSTCO",
+   "purpose": "Food",
+   "amount": "115.80",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.60,22.54,11.30,2.12@p3",
+   "note": "superscript cents over the rule"
+  },
+  {
+   "line_no": "9",
+   "report_no": 1,
+   "date": "2006-04-22",
+   "vendor_raw": "Lins",
+   "purpose": "Food",
+   "amount": "5.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.60,24.66,11.30,2.04@p3",
+   "note": "superscript cents over the rule"
+  }
+ ]
+}

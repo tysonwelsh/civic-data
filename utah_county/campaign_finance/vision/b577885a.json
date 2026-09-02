@@ -3,7 +3,10 @@
  "key": "b577885a",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:46:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -54,5 +57,225 @@
    "notes": "Handwritten. THIS FILING IS AN AMENDMENT: the 'Yes' box is checked and the Date of Report line reads '10-20-2010' - is_amendment 'Yes', and 10-20-2010 (rather than the 10-25 filing date in the county's reporting_period label) is the report date the filer printed, matching the cover signature date. Every summary amount is written with a leading '$' and SUPERSCRIPTED, UNDERLINED cents in this filer's cursive; the cells were cropped and enlarged to read them, and all are logged at medium confidence: line 1 6,820.00 / 10,370.00; line 2 6,664.58 / 9,368.28; line 3 846.30; line 5 7,666.30 (the filer's '6' glyph closes into a loop that reads like an 'l' or 'd' at page scale); line 7 1,001.72. The '$' signs are not carried into the transcribed values, per the schema. Line 3 (Balance at Beginning) is the only row whose printed label is obscured - the form's 'Refer to Line 7 on your last report' note is overprinted across it, leaving '...orting Period' visible; the row position is unambiguous. Office Seeking reads 'Utah County Commission SEAT B', agreeing with index.csv. The Page/of, Last Name and Date of Report boxes on the summary page were left blank."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "5/24/2010",
+   "donor_raw": "Republican Party",
+   "amount": "500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:45.00,66.85,8.50,1.84@p5",
+   "note": "the ledger's Address cell is EMPTY for this donor (left blank by the filer, not redacted \u2014 this era was published in the clear), so city and state are honestly blank. The filer names the party committee only, with no seat or level. First row of the period segment"
+  },
+  {
+   "line_no": "2",
+   "date": "6/24/2010",
+   "donor_raw": "Cash from Ann Eves",
+   "donor_city": "Springville",
+   "amount": "200.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:45.00,68.85,8.50,1.89@p5",
+   "note": "donor_raw is the ledger cell VERBATIM \u2014 this filer prefixes the payment method ('Cash from ...'), kept rather than silently stripped. The Address cell prints a street line and the town but NO state, so donor_state is honestly omitted; the street line is not carried"
+  },
+  {
+   "line_no": "3",
+   "date": "8/24/2010",
+   "donor_raw": "Republican Party",
+   "amount": "4000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:45.00,70.91,8.50,1.89@p5",
+   "note": "Address cell empty, as on the 5/24 line; the largest single contribution on the filing"
+  },
+  {
+   "line_no": "4",
+   "date": "8/29/2010",
+   "donor_raw": "Jeff Metler",
+   "amount": "400.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:45.00,72.97,8.50,1.84@p5",
+   "note": "THE ADDRESS CELL IS TRUNCATED BY THE FILER'S OWN PRINTOUT: a 900 dpi crop shows the street portion followed by a town name cut off after four letters ('Spri.'). donor_city is therefore left BLANK rather than completed to a town the page does not print in full, and the street portion is not carried."
+  },
+  {
+   "line_no": "5",
+   "date": "10/18/2010",
+   "donor_raw": "Kyle Powell",
+   "donor_city": "Orem",
+   "donor_state": "Ut",
+   "amount": "1700.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:45.00,74.98,8.50,1.89@p5",
+   "note": "the Address cell prints the town and state, 'Orem, Ut', after the street portion; state carried verbatim as the filer wrote it ('Ut'), street portion not carried"
+  },
+  {
+   "line_no": "6",
+   "date": "10/18/2010",
+   "donor_raw": "Janene Crane",
+   "amount": "20.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:45.00,77.04,8.50,1.89@p5",
+   "note": "Address cell empty (left blank by the filer); last contribution row on the ledger, proved by the geometry crop which rendered '$20.00'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "9/17/2010",
+   "vendor_raw": "Transport of signs from St. George",
+   "amount": "150.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.50,66.80,8.00,1.84@p5",
+   "geometry_frame": "p5 axis=y cell=83.50-91.50 rowband=66.80-68.64 (21 of 28 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the ledger's single free-text column is headed 'Expenditures' and mixes PURPOSE and PAYEE in one string with no separator convention, so vendor_raw carries the printed string verbatim and `purpose` is left unset on every row rather than split by guesswork. First row of the period segment"
+  },
+  {
+   "line_no": "2",
+   "date": "9/18/2010",
+   "vendor_raw": "\"Design to Print\" Campaign Signs",
+   "amount": "3558.69",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.50,68.80,8.00,1.89@p5",
+   "geometry_frame": "p5 axis=y cell=83.50-91.50 rowband=68.80-70.69 (22 of 28 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer's own quotation marks around the vendor name are kept"
+  },
+  {
+   "line_no": "3",
+   "date": "9/21/2010",
+   "vendor_raw": "T-posts and ties for campaign signs",
+   "amount": "291.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.50,70.86,8.00,1.89@p5",
+   "geometry_frame": "p5 axis=y cell=83.50-91.50 rowband=70.86-72.75 (23 of 28 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "9/30/2010",
+   "vendor_raw": "Copies Plus",
+   "amount": "619.68",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.50,72.92,8.00,1.84@p5",
+   "geometry_frame": "p5 axis=y cell=83.50-91.50 rowband=72.92-74.76 (24 of 28 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "10/6/2010",
+   "vendor_raw": "Copies Plus",
+   "amount": "495.75",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.50,74.92,8.00,1.89@p5",
+   "geometry_frame": "p5 axis=y cell=83.50-91.50 rowband=74.92-76.81 (25 of 28 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "10/14/2010",
+   "vendor_raw": "RED [Research Enhanced Design]",
+   "amount": "645.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.50,76.98,8.00,1.89@p5",
+   "geometry_frame": "p5 axis=y cell=83.50-91.50 rowband=76.98-78.87 (26 of 28 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer's own square-bracket gloss is kept verbatim; 'RED' also appears on his May ledger as 'Design of Fliers and Signs RED'"
+  },
+  {
+   "line_no": "7",
+   "date": "10/19/2010",
+   "vendor_raw": "\"Design to Print\" Campaign Signs",
+   "amount": "404.02",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.50,79.04,8.00,1.84@p5",
+   "geometry_frame": "p5 axis=y cell=83.50-91.50 rowband=79.04-80.88 (27 of 28 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "8",
+   "date": "10/22/2010",
+   "vendor_raw": "Copies Plus",
+   "amount": "500.44",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.50,81.10,8.00,1.84@p5",
+   "geometry_frame": "p5 axis=y cell=83.50-91.50 rowband=81.10-82.94 (28 of 28 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "last row of the ledger; the crop of band 28 rendered '$500.44'"
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk r2_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "5",
+   "itemized_pages_B": "5",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED ($6,820.00) on the p2 Summary Page, restated at line 4 'Total Contributions Received (From Line 1 Column A)' AND printed a third time on the filer's own p6 summary sheet as 'Period Contributions $6,820.00'. The county's Schedule A (p3) carries NO subtotal \u2014 it is struck through with 'Refer to attached Spreadsheet' \u2014 so the ledger's own period segment is what the anchor gates.",
+     "detail": "The 6 contribution lines in the ledger's PERIOD segment (p5, the block below the printed 'Remaining Balance 5/11/2010 $846.30' rule-off) sum to 500.00 + 200.00 + 4,000.00 + 400.00 + 1,700.00 + 20.00 = 6,820.00 exactly = Column A = line 4 = the p6 'Period Contributions' line. The segment boundary is the DOCUMENT'S OWN, not an inference: the ledger prints 'Total Contributions $3,550.00' and then a dated 'Remaining Balance $846.30' line before restarting, and 846.30 is exactly the line 3 'Balance at Beginning of Reporting Period' on this filing's own cover. The four lines ABOVE that boundary (3,550.00) are the PRIOR period, already itemized under this filer's May report, and are deliberately NOT republished here: this module's promoted anchor is the PER-PERIOD cell and republishing them would double-count. Column B 'Year-to-Date Total' prints 10,370.00 = 3,550.00 + 6,820.00 and is retained as cumulative, never summed as an increment; the p6 sheet prints the same figure as 'Total Contributions'. The balance ladder closes on the period figures: 846.30 (line 3) + 6,820.00 (line 4) = 7,666.30 (line 5); 7,666.30 - 6,664.58 (line 6) = 1,001.72, the printed line 7 close, which the p6 sheet repeats as '10/20/2010 Remaining Balance $1,001.72'."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE ($6,664.58) on the p2 Summary Page, restated at line 6 and printed again on the filer's own p6 summary sheet as 'Period Expenditures $6,664.58'. The county's Schedule B (p4) carries no subtotal \u2014 it too is struck through with 'Refer to attached Spreadsheet'.",
+     "detail": "The 8 expenditure lines in the ledger's PERIOD segment sum to 150.00 + 3,558.69 + 291.00 + 619.68 + 495.75 + 645.00 + 404.02 + 500.44 = 6,664.58 exactly = Column A = line 6 = the p6 'Period Expenditures' line. The 20 lines above the segment boundary total the ledger's own printed 'Total Expenditures $2,703.70' \u2014 the May report's figure \u2014 and are not republished here for the same anti-double-count reason. Column B YTD 9,368.28 = 2,703.70 + 6,664.58 and is retained as cumulative, never summed."
+    }
+   },
+   "in_kind_convention": "MONETARY-ONLY on both sides, tested rather than inherited. Nothing on the landscape ledger is marked in-kind, the ledger prints no in-kind column or line, the county's Schedule A/B blanks print none either, and the p2 Summary Page has no separate in-kind line \u2014 so the monetary-only and monetary-plus-in-kind conventions give the identical sums (6,820.00 / 6,664.58) and both close on Column A. NOTE what IS on the ledger and is NOT in-kind: two 'Loan from Doug Witney' lines (1,000.00 + 2,000.00) in the PRIOR-period segment. They are candidate loans the filer books inside his own printed 'Total Contributions $3,550.00', not in-kind gifts, and they belong to the previous period; see the notes for what that reclassification means.",
+   "escalations": 2,
+   "escalation_note": "Two 900 dpi cell escalations, both legibility rather than arithmetic (both sides had already closed exactly on three printed figures each): (1) the Jeff Metler address cell proved TRUNCATED BY THE FILER'S OWN PRINTOUT \u2014 the town name is cut off after four letters ('Spri.'), so donor_city is honestly blank rather than completed; (2) the Kyle Powell address cell resolved cleanly and prints the town and state 'Orem, Ut', which are carried as printed. Four further 900 dpi crops were the geometry proofs described in the p5 measure_note.",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 8,
+   "geometry": {
+    "measured": 8,
+    "explicit": 6,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "PAGE-FACE candidate name 'Douglas Witney' (Republican, residence city Springville); index.csv names NO candidate for this row. Page-face Office Seeking reads 'Utah County Commission SEAT B', agreeing with index.csv. THIS FILING IS AN AMENDMENT: the cover ticks 'Seven days preceding the General Election' AND ticks 'Yes' on 'Is this report an amendment?', writing '10-20-2010' on the Date of Report line; it is signed 10-20-2010 and stamped received OCT 25 PM 1:51. It is ONE report, not a multi-report bundle, so no report_index is set. The p2 Summary Page's own top-right Page/Last Name/Date box is left WHOLLY BLANK, and the printed label of line 3 is partly overprinted by the form's 'Refer to Line 7 on your last report' arrow so that only '...orting Period' shows \u2014 the line is still line 3 and carries 846.30. A SOURCE PROPERTY THIS BRIEF DID NOT LIST, AND A THIRD VARIANT OF THE ADDENDUM A2 PATTERN: THE COUNTY'S SCHEDULE A (p3) AND SCHEDULE B (p4) ARE BOTH PRESENT, BOTH EMPTY OF ENTRIES, AND BOTH VOIDED BY THE FILER \u2014 each carries a single handwritten line on its first ruled row reading 'Refer to attached Spreadsheet' and one large diagonal stroke drawn across the whole grid, with the 'Subtotal for this page' and 'Total ... Received' cells left blank. That is NOT an `empty-schedule` state (the filer did not report zero entries) and NOT `no-schedule-page` (the pages exist): the entries are real and live on the attached ledger, so both sides are `transcribed` and the arithmetic gate is the cover plus the ledger's own printed totals. Compare this filer's MAY report, which had no county schedule pages at all; his OCTOBER report has them and cancels them. THE LEDGER IS CUMULATIVE AND IS RE-PRINTED IN FULL EACH REPORT, divided by the filer's own dated 'Remaining Balance' line, and p6 is a one-line summary sheet restating Period/Total Contributions and Expenditures and the 10/20/2010 remaining balance. WHAT THE AMENDMENT ACTUALLY CHANGED, visible only by comparing the ledger's prior-period block with the May filing: in May the contribution ledger carried TWO typed lines (500.00 + 50.00 = 550.00) plus a HANDWRITTEN 3,000.00 'Personal loan' annotation that the May cover assigned to line 3, Balance at Beginning. In this October reprint that annotation has been TYPED IN and SPLIT INTO TWO ledger lines \u2014 '5/1/2010 Loan from Doug Witney $1,000.00' and '5/11/2010 Loan from Doug Witney $2,000.00' \u2014 and the block's printed 'Total Contributions' is now $3,550.00: the filer has RECLASSIFIED his own loan from an opening balance into contributions, and Column B here (10,370.00 = 3,550.00 + 6,820.00) carries that forward. Nothing was recomputed or adjudicated; the prior-period rows are not republished (they belong to the May report's own record) and this note exists so the change is not silently lost. Not a *_Redacted.pdf \u2014 the county published this era in the clear, so donor street lines are plainly visible on p5 and were reduced to city/state at READ TIME; none reaches any field or note. Three period donors' Address cells are simply EMPTY (Republican Party twice, Janene Crane) \u2014 left blank by the FILER, not redacted by the county."
+  }
+ }
 }

@@ -1,0 +1,309 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2017-03-28",
+   "donor_raw": "ANTHONY MITCHELL",
+   "occupation": "RETIRED",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.40,22.47,89.23,4.11@p3",
+   "note": "address redacted at source (county black bar); the bar under-covers at its right edge and a stray ink fragment sits just left of the Occupation cell - nothing was read from it"
+  },
+  {
+   "line_no": 2,
+   "date": "2017-04-15",
+   "donor_raw": "KENT BRIGGS",
+   "occupation": "RETIRED",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.40,26.58,89.23,4.11@p3",
+   "note": "address redacted at source; row band derived by splitting a rowbands merged band (the separating rule falls under the redaction bar)"
+  },
+  {
+   "line_no": 3,
+   "date": "2017-07-17",
+   "donor_raw": "KEM GARDNER FAMILY PAC",
+   "occupation": "SELF EMP.",
+   "amount": "5,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.40,30.69,89.23,4.09@p3",
+   "note": "written on two lines with 'FAMILY PAC' ABOVE 'KEM GARDNER'; address redacted at source"
+  },
+  {
+   "line_no": 4,
+   "date": "2017-07-17",
+   "donor_raw": "LYNN DOUGAN",
+   "occupation": "SELF EMPLOYED FINANCE",
+   "amount": "5,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.40,34.78,89.23,4.14@p3",
+   "note": "occupation wraps to a second line; address redacted at source"
+  },
+  {
+   "line_no": 5,
+   "date": "2017-11-19",
+   "donor_raw": "LYNN DOUGAN",
+   "occupation": "SELF EMPLOYED FINANCE",
+   "amount": "6,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.40,38.92,89.23,4.14@p3",
+   "note": "the Occupation cell holds a DITTO MARK (\") which resolves to the row above, 'SELF EMPLOYED FINANCE' - resolution stated per the ditto rule; address redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2017-04-19",
+   "vendor_raw": "UNIVERSITY CREDIT UNION",
+   "purpose": "LOAN REPAYMENT",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.17,23.92,80.91,4.14@p4",
+   "note": "vendor wraps to a second line"
+  },
+  {
+   "line_no": 2,
+   "date": "2017-04-27",
+   "vendor_raw": "GRASS ROOTS UTAH",
+   "purpose": "SOCIAL MEDIA",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.17,28.06,80.91,4.07@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2017-06-13",
+   "vendor_raw": "DALE COX CAMPAIGN",
+   "purpose": "CONTRIBUTION",
+   "amount": "125",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.17,32.13,80.91,4.14@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2017-07-31",
+   "vendor_raw": "JIM BRADLEY",
+   "purpose": "LOAN REPAYMENT",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.17,36.26,80.91,4.09@p4",
+   "note": "repayment to the candidate himself; printed BEFORE the 7-19-17 row, i.e. out of date order"
+  },
+  {
+   "line_no": 5,
+   "date": "2017-07-19",
+   "vendor_raw": "JIM BRADLEY",
+   "purpose": "LOAN REPAYMENT",
+   "amount": "2,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.17,40.35,80.91,4.14@p4",
+   "note": "the Purpose cell holds two DITTO MARKS resolving to 'LOAN REPAYMENT' from the row above - resolution stated per the ditto rule"
+  },
+  {
+   "line_no": 6,
+   "date": "2017-07-20",
+   "vendor_raw": "GRASS ROOTS UTAH",
+   "purpose": "ELECTRONIC MEDIA",
+   "amount": "3,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.17,44.49,80.91,4.14@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2017-07-26",
+   "vendor_raw": "MIKELL FOR COUNCIL",
+   "purpose": "CONTRIBUTION",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.17,48.63,80.91,4.14@p4",
+   "note": "vendor glyphs read 'MIKELL FOR COUNCIL'"
+  },
+  {
+   "line_no": 8,
+   "date": "2017-08-17",
+   "vendor_raw": "JIM BRADLEY",
+   "purpose": "LOAN REPAYMENT",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.17,52.76,80.91,4.09@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2017-09-19",
+   "vendor_raw": "JIM BRADLEY",
+   "purpose": "LOAN REPAYMENT",
+   "amount": "1000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.17,56.85,80.91,4.14@p4",
+   "note": "written '1000' with no thousands comma - verbatim"
+  },
+  {
+   "line_no": 10,
+   "vendor_raw": "JIM BRADLEY",
+   "purpose": "LOAN REPAYMENT",
+   "amount": "1000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.17,60.99,80.91,4.09@p4",
+   "note": "date printed VERBATIM as '11-31-17' - NOVEMBER HAS ONLY 30 DAYS, so the date is impossible and the ISO date is left BLANK rather than corrected to 11-30 or 12-31. The Purpose cell holds two DITTO MARKS resolving to 'LOAN REPAYMENT' from the row above."
+  }
+ ],
+ "total_contributions": "18,000",
+ "total_expenditures": "9175",
+ "beginning_balance": "110.21",
+ "ending_balance": "8935.21",
+ "aggregate": {
+  "total_contributions_to_date": "18,110.21",
+  "total_expenditures_to_date": "9175",
+  "line5_subtotal": "18,110.21"
+ },
+ "cover": {
+  "candidate": "JIM BRADLEY",
+  "party": "DEM",
+  "office_sought": "SLCO. COUNCIL",
+  "district_number": "AT LARGE C",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1-27-17",
+  "form_year": "2017"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/jim-bradley_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "JIM BRADLEY",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/jim-bradley_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "\u26a0 SIGNATURE-DATE / STAMP CONFLICT, KEPT VERBATIM AND UNRESOLVED: the signature line reads '1-27-17' while the clerk stamp reads RECEIVED IN OFFICE JAN 29 2018, and the form's own title is the '2017 Financial Disclosure Report' whose Schedule A/B rows run 3/28/17 to 11/31/17. The year '17' in the signature is therefore a FILER YEAR TYPO for 1-27-18. cover.report_date carries the signature date VERBATIM ('1-27-17'); the stamp is recorded here and NEITHER was silently corrected to the other. || LINE 5 GLYPH, and how it was settled: Summary line 5 is written '18,110 21' with the decimal point faint to absent, which read naively is the malformed '18,11021'. It was NOT repaired by rule. It is settled by the document's OWN arithmetic and by a second printed instance: line 3 (110.21) + line 4 (18,000) = 18,110.21, and Summary line 1 COLUMN B independently prints '18,110.21' with a clear decimal point. Recorded as '18,110.21' at medium confidence with the ambiguity stated. Arithmetic outranks the glyph. || Schedule A row 3's donor is written on two lines - 'FAMILY PAC' ABOVE 'KEM GARDNER' - and is recorded as 'KEM GARDNER FAMILY PAC'; the printed layout is noted on the row. || Schedule A occupations SURVIVE on this filing and are captured verbatim: RETIRED, RETIRED, SELF EMP., SELF EMPLOYED FINANCE, and a ditto mark on row 5 resolved to the row above. The Complete Mailing Address column is covered by a black bar - redacted at source, a different fact from a filer leaving it empty - and the bar UNDER-COVERS at its right edge, leaving stray ink fragments intruding into the Occupation column; nothing was read from those fragments and no address text was written anywhere. || Schedule B row 10 prints the date '11-31-17'. NOVEMBER HAS 30 DAYS - the date is impossible, so the ISO date is BLANK with needs_review=1 and the verbatim kept on the row. Never completed to 11-30 or 12-31. || Schedule B rows 4 and 5 are out of date order as printed (7-31-17 before 7-19-17); printed order preserved. Rows 5 and 10 use ditto marks in the Purpose column, resolved to the row above and noted. || Rows 4, 5, 8, 9 and 10 of Schedule B are LOAN REPAYMENTS to the candidate himself (Jim Bradley) - recorded as ordinary expenditure rows, since the form has no separate loan field. || No in-kind marker appears anywhere on this filing (the county Schedule A has no in-kind column, and the filer wrote no in-kind note), so in_kind is false throughout and the schedule totals need no in-kind adjustment - the schedule-total-vs-summary-gap class does not apply here.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "18,000",
+     "schedule_total": "18,000",
+     "itemized": "18000.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "5 rows sum to 18,000 EXACTLY = the printed SUBTOTAL FOR THIS PAGE (18,000) = the printed TOTAL CONTRIBUTIONS RECEIVED (18,000) = Summary line 1 Column A = Summary line 4. SCOPE TEST RUN: Column B on line 1 reads 18,110.21, a DIFFERENT figure - it is the cumulative total (18,000 period plus the 110.21 carried balance, per this filer's own line 5). The schedule's printed figures equal COLUMN A, so the anchor is summary-line-1 (period) and Column B is recorded for the reader without being treated as the anchor. Gating on Column B would have manufactured a false $110.21 delta."
+    },
+    "expenditures": {
+     "stated": "9175",
+     "schedule_total": "9175",
+     "itemized": "9175.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "10 rows sum to 9,175 EXACTLY (1,000+500+125+200+2,000+3,000+100+250+1,000+1,000) = the printed SUBTOTAL FOR THIS PAGE (9175) = the printed TOTAL EXPENDITUTRES MADE (9175) = Summary line 2 Column A = Column B = Summary line 6. SCOPE TEST: Columns A and B are identical for expenditures on this filing, so both scopes coincide and no basis ambiguity exists."
+    }
+   },
+   "page_subtotal_gates": "p3 rows sum 18,000 = printed SUBTOTAL FOR THIS PAGE 18,000 (= the printed grand TOTAL on the same page). p4 rows sum 9,175 = printed SUBTOTAL FOR THIS PAGE 9175 (= the printed grand TOTAL 9175). Both gates fired and both closed exactly.",
+   "escalations": 4,
+   "escalation_note": "Summary Page cells re-cropped at 600 and 1200 dpi: line 1 (both columns), line 2 (both columns), line 5 Column A and line 7 Column A. The 1200 dpi crops were too tight to be useful and were re-run at 600 dpi with a wider frame - a reminder that crop WIDTH, not dpi, is what a cramped multi-digit group needs. Outcome: line 1 A '18,000' / B '18,110.21' confirmed; line 2 '9175' both columns confirmed (the trailing up-stroke after Column A's '5' is a pen flourish, not a digit); line 7 '8935.21' confirmed (this filer's '8' is a crossed double loop, matching the '8' in '18,000'). Line 5 is the one residual - see notes.",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 10,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "\u26a0 SIGNATURE-DATE / STAMP CONFLICT, KEPT VERBATIM AND UNRESOLVED: the signature line reads '1-27-17' while the clerk stamp reads RECEIVED IN OFFICE JAN 29 2018, and the form's own title is the '2017 Financial Disclosure Report' whose Schedule A/B rows run 3/28/17 to 11/31/17. The year '17' in the signature is therefore a FILER YEAR TYPO for 1-27-18. cover.report_date carries the signature date VERBATIM ('1-27-17'); the stamp is recorded here and NEITHER was silently corrected to the other. || LINE 5 GLYPH, and how it was settled: Summary line 5 is written '18,110 21' with the decimal point faint to absent, which read naively is the malformed '18,11021'. It was NOT repaired by rule. It is settled by the document's OWN arithmetic and by a second printed instance: line 3 (110.21) + line 4 (18,000) = 18,110.21, and Summary line 1 COLUMN B independently prints '18,110.21' with a clear decimal point. Recorded as '18,110.21' at medium confidence with the ambiguity stated. Arithmetic outranks the glyph. || Schedule A row 3's donor is written on two lines - 'FAMILY PAC' ABOVE 'KEM GARDNER' - and is recorded as 'KEM GARDNER FAMILY PAC'; the printed layout is noted on the row. || Schedule A occupations SURVIVE on this filing and are captured verbatim: RETIRED, RETIRED, SELF EMP., SELF EMPLOYED FINANCE, and a ditto mark on row 5 resolved to the row above. The Complete Mailing Address column is covered by a black bar - redacted at source, a different fact from a filer leaving it empty - and the bar UNDER-COVERS at its right edge, leaving stray ink fragments intruding into the Occupation column; nothing was read from those fragments and no address text was written anywhere. || Schedule B row 10 prints the date '11-31-17'. NOVEMBER HAS 30 DAYS - the date is impossible, so the ISO date is BLANK with needs_review=1 and the verbatim kept on the row. Never completed to 11-30 or 12-31. || Schedule B rows 4 and 5 are out of date order as printed (7-31-17 before 7-19-17); printed order preserved. Rows 5 and 10 use ditto marks in the Purpose column, resolved to the row above and noted. || Rows 4, 5, 8, 9 and 10 of Schedule B are LOAN REPAYMENTS to the candidate himself (Jim Bradley) - recorded as ordinary expenditure rows, since the form has no separate loan field. || No in-kind marker appears anywhere on this filing (the county Schedule A has no in-kind column, and the filer wrote no in-kind note), so in_kind is false throughout and the schedule totals need no in-kind adjustment - the schedule-total-vs-summary-gap class does not apply here."
+  }
+ }
+}

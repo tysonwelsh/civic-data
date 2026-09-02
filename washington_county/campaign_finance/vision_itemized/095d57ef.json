@@ -1,0 +1,109 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W01.json",
+ "key": "095d57ef",
+ "index_path": "raw/live_outpost/Tom Durrant_Assessor_FCR_10-26-2024.pdf",
+ "applies_to": [
+  "raw/live_outpost/Tom Durrant_Assessor_FCR_10-26-2024.pdf"
+ ],
+ "sha256_prefix": "4c1d9f1c83f33fc4",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "640.20",
+    "cover_over50_this": "35.55",
+    "cover_over50_cum": "675.75",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "35.55"
+   },
+   "itemized": "35.55",
+   "basis": "schedule-total==cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "One inked row, 35.55, equal to Form A's printed TOTAL CONTRIBUTIONS 35.55 and to the cover's line-1 THIS REPORT cell. The CUMULATIVE cell is 675.75, so the rows are on the PERIOD scope, NOT the cumulative scope this module publishes - reconciles_* should be left blank for it, which is not a failure. This cover generation prints only THREE money lines: there is NO '$50.00 or less' aggregate line, so cover_le50_* are null (field does not exist)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "640.20",
+    "cover_expense_this": "35.55",
+    "cover_expense_cum": "675.75",
+    "schedule_total": "35.55"
+   },
+   "itemized": "35.55",
+   "basis": "schedule-total==cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "One inked row, 35.55 (FedEx Office, Overnight Mail), equal to Form B's printed TOTAL EXPENDITURES and the cover's line-3 THIS REPORT cell. Cumulative 675.75 carries the prior report forward."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 35.55 = printed TOTAL CONTRIBUTIONS 35.55; p3 rows 35.55 = printed TOTAL EXPENDITURES 35.55. Both gate exactly.",
+  "row_count": "rowbands.py p2 and p3 -> ok, 19 bands each. Band 1 is the BOXED HEADER row (this print puts the column headers inside the grid), bands 2-18 are the 17 data rows and band 19 is the TOTAL row - mapped by matching the ink's y-position, not by an arithmetic. Exactly one band (band 2) is inked on each page; 1 row emitted per side.",
+  "geometry_proof": "p2: crop of pct 66.15,35.66,16.88,3.11 renders '$ 35.55'; control one row-pitch below (y 38.77) renders EMPTY. p3: crop of pct 66.12,35.68,25.41,3.11 renders '$ 35.55'; control (y 38.79) renders EMPTY. A companion left-column crop over the same band renders '13-Jun | Tom Durrant' on p2 and '13-Jun | FedEx Office | Overnight Mail' on p3, confirming the row index is not shifted.",
+  "balance_chain": "CLOSES, and the CROSS-FILING chain closes too - this is the check §3(d) asks for and this chunk contains the whole three-filing sequence for this filer. (a) Within this filing: 640.20 + 35.55 = 675.75 on BOTH the contributions and the expenses line, exactly as the cover's LAST + THIS = CUMULATIVE grid states, and the balance line prints the accounting zero '-' in all three columns, consistent with contributions cum 675.75 minus expenses cum 675.75 = 0. (b) Backwards: this filing's line-1 LAST cell (640.20) equals the CUMULATIVE of chunk document 05dec2b1 (period 1/2/24-6/12/24, cum 640.20), and this filing's period Start Date 6/12/2024 is exactly that filing's End Date - the pair chains with no gap and no swap. (c) Forwards: chunk document 03d7f7ab (the 12/7/2024-1/6/2026 annual officeholder report) carries LAST = 675.75, which is this filing's CUMULATIVE. All three covers chain."
+ },
+ "escalations": 3,
+ "escalation_note": "600 dpi cell crops: p2 row-1 amount + control, p3 row-1 amount + control, and a left-column strip on each page across the same band for the field-shift screen.",
+ "notes": "index.csv says Tom Durrant / Assessor; the form reads Tom Durrant / Assessor - AGREES. Form generation 2, county-branded 'AMERICA'S COUNTY' logo, the THREE-line cover variant (no '$50.00 or less' aggregate line), typed throughout except the signature and dates. Reporting period Start Date 6/12/2024, End Date 10/15/2024; signed 10-15-24; clerk Date Received 10-15-24 and verifying-inspection date 10/15/2024 - NOTE the FILENAME says 10-26-2024, which matches nothing on the document; the document governs. This is the ONLY document in this chunk whose PDF page boxes are natively portrait (612x792); the other six are 792x612 with a /Rotate, which poppler renders portrait anyway - all geometry below is in poppler's rendered portrait frame. Privacy: this cover prints no address block at all (that variant of the form has none), so nothing had to be discarded from it; Form A's address cell was left empty by the filer.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "donor_raw": "Tom Durrant",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "35.55",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.15,35.66,16.88,3.11@p2",
+   "note": "Date cell reads verbatim '13-Jun' - NO YEAR PRINTED, so the date is left blank per contract and the year is NOT taken from the reporting period. In Kind? answered 'N'. Filer left the Mailing Address and Zip Code cell empty (honest blank, not a redaction). Self-contribution by the candidate, matched by the FedEx expenditure on Form B."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "FedEx Office",
+   "purpose": "Overnight Mail",
+   "amount": "35.55",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.12,35.68,25.41,3.11@p3",
+   "note": "Date cell reads verbatim '13-Jun' - no year printed, date left blank per contract. Form B has no In Kind column on this generation."
+  }
+ ]
+}

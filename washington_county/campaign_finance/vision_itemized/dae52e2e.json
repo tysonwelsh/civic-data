@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W13.json",
+ "key": "dae52e2e",
+ "index_path": "raw/live_outpost/Gary L_01-08-2025. Christensen_Recorder_Final.pdf",
+ "applies_to": [
+  "raw/live_outpost/Gary L_01-08-2025. Christensen_Recorder_Final.pdf"
+ ],
+ "sha256_prefix": "28307febaa70b8ee",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "640.20",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "640.20",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A (p2) verified BLANK at 200dpi and its printed TOTAL CONTRIBUTIONS cell left blank (bare '$' and the cell's trailing dash). The cover's line-1 THIS cell is a struck zero glyph, with LAST and CUMULATIVE both typed 640.20 - so zero itemised rows is EXACT on the PERIOD scope (17-Oct-24 .. 31-Dec-24), a real empty period against a 640.20 cumulative. Cover arithmetic closes: 640.20 + 0 = 640.20."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "640.20",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "640.20",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line2-this (the expense line; this generation's cover has no le50 line, so expenses are printed on the SECOND row of the grid, not the third)",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (p3) verified BLANK at 200dpi with its printed TOTAL EXPENDITURES cell left blank. The cover's expense THIS cell is a struck zero glyph, LAST and CUMULATIVE both 640.20. Exact on the period scope. Cover arithmetic closes: 640.20 + 0 = 640.20."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Both schedules print a footer TOTAL and the filer left both cells blank, so neither page-subtotal gate could fire - stated rather than invented. Zero rows is consistent with both blank totals and with the struck-zero THIS cells on the cover.",
+  "row_count": "Boxed grid, ~18 data rows per schedule plus a header row and the footer TOTAL row. Counted against INK at 200dpi after re-rendering both pages in full: p2 ZERO inked rows, p3 ZERO inked rows. Field-shift screen not applicable (no rows).",
+  "geometry_proof": "Not applicable - zero rows emitted on both sides. Blankness established by reading both full pages at 200dpi.",
+  "balance_chain": "Cover line 3 (Balance at the end of this reporting period): LAST, THIS and CUMULATIVE are ALL struck zero glyphs. 640.20 (cumulative contributions) - 640.20 (cumulative expenses) = 0.00 = the printed cumulative balance. Closes exactly. No other Christensen filing is in my chunk, so no cover-to-cover chain check was possible; the internal chain closes on every line."
+ },
+ "escalations": 2,
+ "escalation_note": "Cover anchor grid re-cropped at 400dpi to confirm the THIS cells are struck zero glyphs (not blanks) and to read the typed 640.20 figures; both schedule pages re-rendered at 200dpi to confirm blankness.",
+ "notes": "OFFICE VERIFIED IN THE DOCUMENT: 'Candidate for Office Of: Recorder' and 'Full Name of Candidate: Gary L. Christensen' - both agree with the chunk file (office 'Recorder', candidate 'Gary L. Christensen'). Period typed 17-Oct-24 .. 31-Dec-24, signed 'Jan 6, 2025', clerk RECEIVED stamp JAN 06 2025 and a red Clerk/Auditor verifying-inspection date 1/6/2025 - but the chunk's index_path filename says 01-08-2025 and the reporting_year column says 2025 against a 2024 cycle. The DOCUMENT is a 2024-cycle year-end report signed and received 1/6/2025; the filename date is two days later and is not a date the form carries anywhere. Flagged, not reconciled. Note also that this filing's 640.20 cumulative equals the 640.20 figure the county brief cites from a DIFFERENT 2024 filing (Tom Durrant, Assessor) - a coincidence of the identical 2024 county filing fee, NOT a duplicate document; the candidate, office and period all differ. Form A and Form B carry '0' printed in their own 'Full Name of Candidate' and 'Candidate for Office Of' fields (a form-fill artefact of the fillable template, present on the blank), which is NOT a zero-valued datum and was not transcribed. PRIVACY: this cover prints no street address or phone. PDF stores Page rot 270; pct: geometry (none needed here) would be in the portrait frame poppler renders.",
+ "contributions": [],
+ "expenditures": []
+}

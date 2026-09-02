@@ -1,0 +1,126 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W08.json",
+ "key": "8332ac45",
+ "index_path": "raw/state_disclosures/washington_2010 Elections_Kevin Brooks 4-9-10.pdf",
+ "applies_to": [
+  "raw/state_disclosures/washington_2010 Elections_Kevin Brooks 4-9-10.pdf"
+ ],
+ "sha256_prefix": "3bbbb1bd41da4b7a",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen1-carr-5-5-PG-ruled",
+  "expenditures": "gen1-carr-5-5-PG-ruled"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "744.05",
+    "cover_over50_cum": "744.05",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null
+   },
+   "itemized": "744.05",
+   "basis": "cover-line1-cumulative (== cover-line1-this)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Three Form A rows sum to 744.05: 400.00 + 100.92 + 243.13. That equals cover line 1 in BOTH the THIS REPORT and CUMULATIVE columns; the LAST REPORT cell holds a written numeral 0 (a digit, not a nil mark), so this is the first report of the cycle and the two scopes coincide -- recorded as cumulative per the addendum. Line 2 (the $50.00-or-less aggregate) is BLANK in all three columns, so no sub-$50 aggregate competes and reconciling against line 1 alone is unambiguous here. Generation-1 form -- no printed schedule total exists on the sheet, so the cover line is the only anchor. The two cents groups are the only doubt on the page and the sum settles them: 100.92 + 243.13 = 344.05, and 400.00 + 344.05 = 744.05 exactly."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "",
+    "schedule_total": null
+   },
+   "itemized": "0",
+   "basis": "no printed anchor exists",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form B (page 3) is a WHOLLY BLANK ruled sheet -- the page exists, every writing line is empty, nothing is struck out. Cover line 3 is likewise BLANK in all three columns: the filer left the cells empty rather than writing a zero glyph, which under the repo-wide zero-glyph ruling is a blank, NOT a 0. So there is no printed figure to score the (empty) side against, and the result is 'unknown' rather than 'exact'. The side itself is an honest zero -- sides.expenditures = 'transcribed' with zero rows, not a gap and not a withholding."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Generation-1 (Carr Printing 5-5-PG) prints NO schedule total on either sheet, so schedule_total is null on both sides and the cover lines are the only anchors. p2 rows 400.00 + 100.92 + 243.13 = 744.05 = cover line 1 (THIS and CUMULATIVE) -- gates exactly. p3 has no rows and cover line 3 has no figure, so no gate exists to fire there; that is reported rather than invented.",
+  "row_count": "rowbands.py p2: geometry_status 'ok', 37 h-rules / 36 bands, header rule at 8.85%, pitch 2.32% of page height -- exactly 3 inked writing lines, 3 rows emitted, band 4 and every band below it render empty. p3: geometry_status 'ok', 37 h-rules / 36 bands, ZERO inked lines across the whole sheet (verified by reading the full page at 200 dpi), 0 rows emitted.",
+  "geometry_proof": "p2: 600-dpi crop of row 1's amount box renders '400 00'; row 3's box renders '243 13'; the control crop one row-pitch below row 3 renders EMPTY.",
+  "balance_chain": "NOT AVAILABLE ON THIS FILING and that is a property of the document, not a gap: cover lines 3 (expenses) and 4 (balance) are blank in all three columns, so beginning + contributions - expenditures = ending cannot be evaluated against any printed figure. The only chain the cover does assert is line 1's own horizontal one -- 0 (LAST) + 744.05 (THIS) = 744.05 (CUMULATIVE) -- which closes exactly. No earlier filing by this filer in this cycle is in my chunk, so the cover-to-cover CUMULATIVE -> TOTALS FROM LAST REPORT test could not be run; the written 0 in the LAST cell asserts there was none."
+ },
+ "escalations": 4,
+ "escalation_note": "p2 date column and amount column each re-cropped at 900 dpi; the two disputed cents groups (rows 2 and 3) re-cropped at 1200 dpi and settled as 92 and 13 -- confirmed by the cover total; the row-3 day glyph re-cropped at 1200 dpi (a 7 with a crossbar, distinguishable from the plain vertical 1 the same hand writes in row 2); plus the single-cell geometry-control crops.",
+ "notes": "Generation-1 Carr Printing 5-5-PG form citing Utah Code 17-16-6.5. CHUNK FILE AGREES WITH THE DOCUMENT: candidate 'Kevin Edward Brooks' matches the cover's Full Name of Candidate, and office 'Sheriff' matches 'Name of Office: Sheriff, Washington County'. County office, in scope; political party written 'Democrate' [sic]. Cover Date line 4-8-10, clerk RECEIVED stamp APR 8 2010, addressed to County Clerk 'Melanie Abplanalp'. This is a SIBLING FILING of chunk document 7c0d9d88 (Steven W. Despain, same office, same clerk, both stamped APR 8 2010, both harvested from raw/state_disclosures) -- different candidates, not a re-post of one another. PDF holds only 3 pages; the statute page 4 the form refers to was not scanned (a scan-scope fact, not a data gap). ALL THREE CONTRIBUTIONS COME FROM ONE DONOR, 'J. Ryan Lee', at one St. George address -- reported as written, with the street address and ZIP discarded at read time. Neither schedule has an in-kind column, so in_kind is false by form design everywhere and was never inferred. Every amount and name is legible; no row is blank for illegibility and neither side is a floor. Candidate street address, ZIP, home and business phone printed in the clear on the cover were discarded at read time per PRIVACY.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-03-18",
+   "donor_raw": "J. Ryan Lee",
+   "donor_city": "St. George",
+   "donor_state": "UT",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;city=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.90,8.62,9.50,2.32@p2",
+   "note": "date written '3-18-10'; amount written as whole dollars '400' with superscript cents '00' over the rule -> 400.00; the ZIP for this row is written ABOVE the address line and, like the street address, was discarded at read time"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2010-04-01",
+   "donor_raw": "J. Ryan Lee",
+   "donor_city": "St. George",
+   "donor_state": "",
+   "amount": "100.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;city=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:82.90,10.94,9.50,2.32@p2",
+   "note": "date written '4-1-10'; superscript cents over the rule -> 100.92; the cents pair was bistable between '92' and '22' at 200 dpi and was settled BOTH by a 1200-dpi cell crop (a clear 9 then 2) and by the cover total (100.92 + 243.13 + 400.00 = 744.05 exactly); this row's address cell prints no state, so donor_state is left BLANK rather than carried down from row 1; street address discarded at read time"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2010-04-07",
+   "donor_raw": "J. Ryan Lee",
+   "donor_city": "St. George",
+   "donor_state": "",
+   "amount": "243.13",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;city=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:82.90,13.26,9.50,2.32@p2",
+   "note": "date written '4-7-10' -- the day glyph carries a horizontal crossbar (a 7) and is distinguishable at 1200 dpi from the plain vertical 1 the same hand writes in row 2, but it is the weakest cell on the page, so date=medium; superscript cents over the rule -> 243.13, settled with row 2 by the cover total; this row's address cell prints no state, so donor_state is left BLANK; street address discarded at read time"
+  }
+ ],
+ "expenditures": []
+}

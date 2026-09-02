@@ -1,0 +1,515 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W01.json",
+ "key": "0e7cbe0e",
+ "index_path": "raw/live_wp/2024-Adam-Snow.pdf",
+ "applies_to": [
+  "raw/live_wp/2024-Adam-Snow.pdf"
+ ],
+ "sha256_prefix": "13ee82febe0c73cc",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "second-report-cover",
+  "5": "form-A",
+  "6": "form-B",
+  "7": "second-report-cover",
+  "8": "form-A",
+  "9": "form-B"
+ },
+ "n_reports_in_pdf": 3,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line1-this==cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "TOP-LEVEL RECON IS REPORT 1, the report whose pages begin the PDF (pages 1-3, period 1/1/24-6/18/24) - THIS PDF IS A BUNDLE OF THREE REPORTS; see recon_by_report for the other two. Report 1's Form A (p2) is an EMPTY grid whose first data row the filer struck through with a pen line across all five cells; its printed TOTAL CONTRIBUTIONS carries a hand-drawn circled zero, and the cover's line-1 LAST, THIS and CUMULATIVE cells all carry the same circled-zero glyph. Under the repo zero-glyph ruling all four read 0, so the empty schedule is a real zero and the period and cumulative scopes coincide (first report of the cycle). This cover generation prints only THREE money lines - no '$50.00 or less' aggregate line exists, hence cover_le50_* null."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "1286.75",
+    "cover_expense_cum": "1286.75",
+    "schedule_total": "1286.75"
+   },
+   "itemized": "1286.75",
+   "basis": "schedule-total==cover-line3-this==cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Report 1's Form B (p3) carries 4 inked rows summing EXACTLY to 1286.75 = the printed TOTAL EXPENDITURES = the cover's line-3 THIS cell = its CUMULATIVE cell (LAST is a circled zero, so this is the first report of the cycle and the two scopes coincide). All four amounts are written with SUPERSCRIPT CENTS over a rule except row 1; transcribed with a decimal point per contract."
+  }
+ },
+ "recon_by_report": [
+  {
+   "report_no": 1,
+   "pages": "1-3",
+   "report_date": "6/18/24 (period 1/1/24 to 6/18/24; clerk Date Received 6/18/2024)",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "0",
+     "cover_over50_this": "0",
+     "cover_over50_cum": "0",
+     "cover_le50_this": null,
+     "cover_le50_cum": null,
+     "schedule_total": "0"
+    },
+    "itemized": "0.00",
+    "basis": "schedule-total==cover-line1-this==cover-line1-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "Empty Form A, first data row struck through by the filer; printed total and all three cover cells are the hand-drawn circled zero. A real zero, not a gap."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "0",
+     "cover_expense_this": "1286.75",
+     "cover_expense_cum": "1286.75",
+     "schedule_total": "1286.75"
+    },
+    "itemized": "1286.75",
+    "basis": "schedule-total==cover-line3-this==cover-line3-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "4 rows, exact. Superscript-cents notation on rows 2-4 and on the printed total."
+   }
+  },
+  {
+   "report_no": 2,
+   "pages": "4-6",
+   "report_date": "12/31/24 (period 10/28/24 to 12/31/24; clerk RECEIVED stamp JAN 06 2025)",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "10,383",
+     "cover_over50_this": "10,250",
+     "cover_over50_cum": "20,633",
+     "cover_le50_this": "",
+     "cover_le50_cum": "",
+     "schedule_total": "10,250"
+    },
+    "itemized": "10400.00",
+    "basis": "cover-line1-this==schedule-total",
+    "result": "delta",
+    "scope": "period",
+    "detail": "Eight donors sum to 10,400.00 against a printed TOTAL of 10,250 that both the schedule footer and the cover's THIS cell carry. DELTA 150.00, cause traced: the first SEVEN rows alone sum to exactly 10,250 and the eighth (Brad Stucki, 150) has its amount written one grid line low, on the wrapped continuation of his address, so the filer's own total omits it. Rows published verbatim with needs_review on every one. Line 2's '$50.00 or less' cover cells each carry a bare horizontal dash = BLANK under the zero-glyph ruling, so Form A is scored against line 1 alone."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "0",
+     "cover_expense_this": "1,658.18",
+     "cover_expense_cum": "1,658.18",
+     "schedule_total": "1658.18"
+    },
+    "itemized": "1658.18",
+    "basis": "schedule-total==cover-line3-this==cover-line3-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "7 rows, exact. THIS and CUMULATIVE coincide because the line-3 LAST cell is 0, even though the contributions side of the same cover is mid-cycle."
+   }
+  },
+  {
+   "report_no": 3,
+   "pages": "7-9",
+   "report_date": "10/28/2024 (period 6/18/2024 to 10/28/2024; clerk Date Received 10/28/2024)",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "9,419.00",
+     "cover_over50_this": "2,250.00",
+     "cover_over50_cum": "11,669.00",
+     "cover_le50_this": null,
+     "cover_le50_cum": null,
+     "schedule_total": "2,250.00"
+    },
+    "itemized": "2250.00",
+    "basis": "schedule-total==cover-line1-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "2 typed rows summing EXACTLY to 2,250.00 = the printed TOTAL CONTRIBUTIONS = the cover's line-1 THIS cell. The CUMULATIVE cell is 11,669.00, so these rows are on the PERIOD scope, not the cumulative scope this module publishes. Three-line cover generation, so no '$50.00 or less' line exists."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "1,286.00",
+     "cover_expense_this": "-",
+     "cover_expense_cum": "1,286.00",
+     "schedule_total": "-"
+    },
+    "itemized": "0.00",
+    "basis": "schedule-total==cover-line3-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "Form B (p9) is EMPTY except that the filer typed the word 'None' in the first data row's 'Person or Organization Paid' cell - a statement, not a transaction, so zero rows are emitted. Its printed TOTAL EXPENDITURES and the cover's line-3 THIS cell both read '$ -', this typed template's Excel accounting rendering of zero (the same convention as chunk documents 03d7f7ab and 095d57ef); recorded verbatim as '-'. The 1,286.00 cumulative carries report 1's expenses forward, rounded to whole dollars."
+   }
+  }
+ ],
+ "gates": {
+  "page_subtotal": "p2 (rpt1 Form A): 0 rows = printed circled-zero total, gates. p3 (rpt1 Form B): 4 rows sum 1286.75 = printed TOTAL 1286.75, EXACT. p5 (rpt2 Form A): 8 rows sum 10,400.00 vs printed TOTAL 10,250 - WILL NOT GATE, delta 150.00 with the cause traced (see recon_by_report). p6 (rpt2 Form B): 7 rows sum 1658.18 = printed TOTAL 1658.18, EXACT. p8 (rpt3 Form A): 2 rows sum 2250.00 = printed TOTAL 2,250.00, EXACT. p9 (rpt3 Form B): 0 rows = printed '$ -', gates.",
+  "row_count": "p2/p3 (rpt1, gen-2 grid): rowbands ok, 21 bands each, headers printed above the box so bands 1-20 are data rows and band 21 is the TOTAL; p2 zero inked, p3 bands 1-4 inked -> 0 and 4 rows emitted. p5/p6 (rpt2, gen-3 dense grid): rowbands reports 'gaps' on both, as it did on the identical pages of chunk document 09c79b79; grid mapped by hand at a 1.73% pitch - 8 named donors on data rows 1-8 plus row 9 carrying only the wrap of row 8's address and its amount, and 7 inked expenditure rows. p8/p9 (rpt3, gen-2 grid with a BOXED header): rowbands ok, 19 bands; band 1 is the header, bands 2-18 the 17 data rows, band 19 the TOTAL. p8 bands 2-3 inked (band 2 is 4.41% tall because the address wraps to two lines) -> 2 rows; p9 has ink only in band 2's vendor cell, the typed word 'None' -> 0 rows.",
+  "geometry_proof": "Report 1 / p3: first-row crop (pct 65.46,25.61,25.30,3.11) renders '640.20' = line 1; last-row crop (pct 65.46,34.93,25.30,3.11) renders '75 72' = line 4; control one row-pitch below (y 38.04) renders EMPTY. Report 3 / p8: first-row crop (pct 66.21,35.75,16.85,4.41) renders '$ 250.00' = line 1; last-row crop (pct 66.21,40.16,16.85,3.11) renders '$ 2,000.00' = line 2; control one pitch below (y 43.27) renders EMPTY. Report 2 / p5-p6: the pages are PIXEL-IDENTICAL to chunk document 09c79b79's pages 2 and 3 (verified by a full-page difference at 200 dpi: mean 0.0, max 0), so that document's proven geometry is carried across unchanged with the page numbers rewritten to p5/p6.",
+  "balance_chain": "RUN ACROSS ALL THREE STAPLED REPORTS AND AGAINST CHUNK DOCUMENT 09c79b79 - and it exposes a real convention error by the filer, which no single-page arithmetic could see. (1) Report 1 closes EXACTLY: balance LAST 9,419.85 minus expenses 1,286.75 = 8,133.10 = its balance THIS and CUMULATIVE cells (contributions are 0 this period). (2) Report 3 closes exactly on its own face: 9,419.00 + 2,250.00 = 11,669.00 on line 1; 1,286.00 + 0 = 1,286.00 on line 3; 8,133.00 + 2,250.00 = 10,383.00 on line 4. (3) BUT report 3's line-1 LAST cell (9,419.00) is NOT report 1's contributions cumulative, which is 0 - it is report 1's BALANCE-brought-forward 9,419.85, rounded down to whole dollars. The filer is carrying the balance figure forward on the CONTRIBUTIONS line, and rounds every carried figure to the dollar (1,286.75 -> 1,286.00; 8,133.10 -> 8,133.00). (4) The chain to report 2 runs through the BALANCE column, not the contributions column: report 3's balance cumulative 10,383.00 is exactly report 2's line-1 LAST cell of 10,383, while report 3's contributions cumulative 11,669 appears nowhere on report 2. (5) Report 2's own balance line does not close exactly (20,633 - 1,658.18 = 18,974.82 against a printed 18,975, an 0.18 rounding). Every figure is retained verbatim; nothing was recomputed or overwritten."
+ },
+ "escalations": 8,
+ "escalation_note": "600 dpi: p3 vendor+purpose column strip rows 1-4, p3 amount column strip rows 1-4, and six geometry-proof crops (p3 first/last/control, p8 first/last/control). Report 2's escalations were performed on its pixel-identical twin, chunk document 09c79b79 (9 escalations there), and are not double-counted here. Low-resolution contact sheet at 90 dpi used only to classify the 9 pages; every transcribed figure was read at 200 dpi or above.",
+ "notes": "index.csv says 'Kenneth Adam Snow' / 'Commission Seat C', n_reports 3. CONFIRMED AT THE PAGES: the PDF staples THREE reports and every cover's name line reads Kenneth Adam Snow; the office lines read 'Commission' (reports 1 and 3) and 'Commission' (report 2) - THE SEAT LETTER 'C' IS ON NO PAGE OF THE DOCUMENT. A county office, in scope. THE THREE REPORTS ARE OUT OF CHRONOLOGICAL ORDER, exactly the trap the addendum flags: pages 1-3 are the FIRST period (1/1/24-6/18/24), pages 4-6 are the LAST period (10/28/24-12/31/24), pages 7-9 are the MIDDLE period (6/18/2024-10/28/2024). report_no follows PDF page order per contract, so report_no 2 is chronologically last and report_no 3 chronologically second - stated here so no consumer infers order from the number. THREE DIFFERENT FORM PRINTS IN ONE PDF: report 1 is generation 2 (colour 'AMERICA'S COUNTY' logo, three-line cover, handwritten, with the filer's entries marked in yellow highlighter); report 2 is generation 3 (the 'WASHINGTON COUNTY CANDIDATE' print with the numbered 1-4 cover and the dense ~40-line schedules); report 3 is generation 2 again (greyscale logo, three-line cover, entirely TYPED). CROSS-CHANNEL RE-POST CONFIRMED, NOT ASSUMED: pages 4-6 are PIXEL-IDENTICAL to chunk document 09c79b79 (raw/live_outpost/Adam Snow - Commission Seat C-Final_01-06-2025.pdf) - a full-page 200 dpi difference over all three pages returns mean 0.0 and max 0. Per addendum §D both are transcribed and neither is skipped; the module should flag the pair downstream. TWO FINDINGS A HUMAN SHOULD LOOK AT. (a) DOUBLE-REPORTED CONTRIBUTIONS: report 3 (period ending 10/28/24) itemizes Stephen Studdert 250.00 and the Washington County Republican Central Committee 2,000.00; report 2 (period beginning 10/28/24) itemizes the SAME two contributions again as 'Steve Studdert' 250 and 'Washington County RP' 2,000 - so the same 2,250.00 appears on two consecutive reports. The dates disagree too: report 3 dates Studdert 10/15/2024, report 2 dates him 10-24-24. Both are transcribed verbatim from their own faces; no row was suppressed. (b) VENDOR IDENTITY: report 1 line 4 clearly reads 'Beehive State Consulting' for Campaign Consulting, while report 2 line 5 reads 'Boehire Consulting' for Campaign Consulting at low confidence. That is suggestive of one vendor, but a sibling document is not evidence about a glyph, so neither read was changed - flagged for a human. Privacy: report 2's cover prints the candidate's street address, city, ZIP, email and phone, and every Form A address cell across reports 2 and 3 carries a full street address or PO box plus ZIP - ALL DISCARDED at read time; only city and state tokens are kept.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 2,
+   "date": "2024-10-22",
+   "donor_raw": "Washington County RP",
+   "donor_city": "STG",
+   "donor_state": "UT",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:76.00,14.38,8.10,1.73@p5",
+   "note": "Report 2 (pages 4-6). needs_review is set on every row of this side because the side is a delta. Superscript cents over a rule - transcribed with a decimal point. Date read at 1200 dpi on the identical twin as '10-22-24'; it PRECEDES report 2's certified period beginning of 10/28/24 and the same contribution is also itemized on report 3 (line 2 below) as 2,000.00 dated 10/22/2024. PO box and ZIP discarded at read time. In Kind? cell blank (blank is not N on this form)."
+  },
+  {
+   "line_no": "2",
+   "report_no": 2,
+   "date": "2024-10-24",
+   "donor_raw": "Steve Studdert",
+   "donor_city": "StG.",
+   "donor_state": "",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:76.00,16.11,8.10,1.73@p5",
+   "note": "Report 2. Delta side. Whole dollars, no cents written. Date PRECEDES report 2's period beginning 10/28/24; report 3 itemizes the same donor and amount dated 10/15/2024 - the two reports disagree on the date. Street address, unit and ZIP discarded at read time; the filer wrote no state on this row. In Kind? cell blank."
+  },
+  {
+   "line_no": "3",
+   "report_no": 2,
+   "date": "2024-10-30",
+   "donor_raw": "Brett Burgess",
+   "donor_city": "STG",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=high;amount=low",
+   "verified": 1,
+   "geometry": "pct:76.00,17.84,8.10,1.73@p5",
+   "note": "Report 2. Delta side. Amount cell carries a correction: an earlier figure heavily struck through (illegible at 600 dpi) with '1,000' plus superscript cents written beside it, running past the cell's right rule. The struck figure is NOT transcribed. Street address and ZIP discarded at read time. In Kind? cell blank."
+  },
+  {
+   "line_no": "4",
+   "report_no": 2,
+   "date": "2024-10-30",
+   "donor_raw": "Monte Holm",
+   "donor_city": "StG",
+   "donor_state": "UT",
+   "amount": "3000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:76.00,19.57,8.10,1.73@p5",
+   "note": "Report 2. Delta side. Whole dollars, no cents. Street address and ZIP discarded at read time. In Kind? cell blank."
+  },
+  {
+   "line_no": "5",
+   "report_no": 2,
+   "date": "2024-10-30",
+   "donor_raw": "Stan Smith",
+   "donor_city": "Springdale",
+   "donor_state": "UT",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:76.00,21.30,8.10,1.81@p5",
+   "note": "Report 2. Delta side. Whole dollars, no cents. PO box and ZIP discarded at read time. In Kind? cell blank."
+  },
+  {
+   "line_no": "6",
+   "report_no": 2,
+   "date": "2024-10-30",
+   "donor_raw": "Kevin McLaws",
+   "donor_city": "Hurricane",
+   "donor_state": "UT",
+   "amount": "2500",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:76.00,23.11,8.10,1.82@p5",
+   "note": "Report 2. Delta side. DATE CELL HOLDS A DITTO MARK, resolved to the row above (10/30/24) and flagged rather than left blank. Whole dollars, no cents. Street address and ZIP discarded at read time. In Kind? cell blank."
+  },
+  {
+   "line_no": "7",
+   "report_no": 2,
+   "date": "2024-11-01",
+   "donor_raw": "Breck Dockstader",
+   "donor_city": "STG",
+   "donor_state": "UT",
+   "amount": "1000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:76.00,24.93,8.10,1.73@p5",
+   "note": "Report 2. Delta side. Whole dollars, no cents. Street address and ZIP discarded at read time. In Kind? cell blank."
+  },
+  {
+   "line_no": "8",
+   "report_no": 2,
+   "date": "2024-11-01",
+   "donor_raw": "Brad Stucki",
+   "donor_city": "Pine Valley",
+   "donor_state": "UT",
+   "amount": "150",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:76.00,28.39,8.10,1.70@p5",
+   "note": "Report 2. THE ROW THAT CAUSES THE DELTA. His name is on grid data row 8 but his address needed two lines, so his amount (150) sits in the amount cell of grid data row 9 - the geometry points at that cell, one band below the name, deliberately. Grid row 9's date cell carries a dash and its name cell a drawn-through pen line, the filer's own marks that it is a continuation and not a ninth donor. The printed TOTAL 10,250 is the sum of rows 1-7 only. DATE CELL HOLDS A DITTO MARK, resolved to the row above (11/1/24). Street address and ZIP discarded at read time. In Kind? cell blank."
+  },
+  {
+   "line_no": "1",
+   "report_no": 3,
+   "date": "2024-10-15",
+   "donor_raw": "Stephen Studdert",
+   "donor_city": "St George",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.21,35.75,16.85,4.41@p8",
+   "note": "Report 3 (pages 7-9), typed throughout. In Kind? column answered 'N'. This row's grid band is 4.41% tall (about 1.4 pitches) because the typed address wraps to two lines - the geometry reflects the real band, not a nominal pitch. Street address, unit and ZIP discarded at read time. Report 2 itemizes what appears to be the same contribution again, dated 10-24-24 and named 'Steve Studdert'."
+  },
+  {
+   "line_no": "2",
+   "report_no": 3,
+   "date": "2024-10-22",
+   "donor_raw": "Washington County Republican Central Committee",
+   "donor_city": "St George",
+   "donor_state": "UT",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.21,40.16,16.85,3.11@p8",
+   "note": "Report 3, typed. In Kind? answered 'N'. Amount printed with a thousands comma - kept verbatim. PO box and ZIP discarded at read time. Report 2 itemizes what appears to be the same contribution again as 'Washington County RP', 2,000.00, dated 10-22-24."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-08",
+   "vendor_raw": "Washington Co.",
+   "purpose": "Candidate filing fee",
+   "amount": "640.20",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:65.46,25.61,25.30,3.11@p3",
+   "note": "Report 1 (pages 1-3). The vendor cell opens with a heavily scribbled-out word before 'Washington Co.'; the struck word is illegible at 600 dpi and is NOT transcribed - only the surviving text is. The amount's final glyph is bistable 0/6 ('640.20' vs '640.26'); resolved to 640.20 by the schedule's own arithmetic (the four rows close on the printed 1286.75 only under .20) - the Rhodes rule, arithmetic over glyph. Form B has no In Kind column on this generation."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2024-01-16",
+   "vendor_raw": "Got your back shack",
+   "purpose": "campaign materials",
+   "amount": "550.83",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:65.46,28.72,25.30,3.11@p3",
+   "note": "Report 1. Amount written as SUPERSCRIPT CENTS over a rule ('550' with a raised underlined 83) - transcribed with a decimal point per contract."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2024-01-05",
+   "vendor_raw": "Washington County Rep. Women",
+   "purpose": "Campaign lunch",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:65.46,31.84,25.30,3.09@p3",
+   "note": "Report 1. Superscript cents over a rule ('20' with a raised underlined 00) - transcribed with a decimal point. Vendor abbreviated by the filer as written; not expanded. Note the ledger is not in date order (1/8, 1/16, 1/5, 1/2) - printed order retained per contract."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Beehive State Consulting",
+   "purpose": "Campaign Consulting",
+   "amount": "75.72",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:65.46,34.93,25.30,3.11@p3",
+   "note": "Report 1. Superscript cents over a rule ('75' with a raised underlined 72). This vendor name is legible here, unlike report 2 line 5's 'Boehire Consulting' (also for Campaign Consulting) - flagged in notes for a human; neither read was altered to match the other."
+  },
+  {
+   "line_no": "1",
+   "report_no": 2,
+   "date": "2024-10-30",
+   "vendor_raw": "Anedot",
+   "purpose": "fundraising fees",
+   "amount": "281.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.45,14.38,15.15,1.73@p6",
+   "note": "Report 2 (pages 4-6). Form B has no In Kind column on this generation."
+  },
+  {
+   "line_no": "2",
+   "report_no": 2,
+   "date": "2024-11-04",
+   "vendor_raw": "Anedot",
+   "purpose": "fundraising fees",
+   "amount": "46.60",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.45,16.11,15.15,1.73@p6",
+   "note": "Report 2. Date day-glyph is a check-like stroke read as 4 at 600 dpi but not certain - needs_review set on the date. The filer's rows are not in date order (line 3 is 11/6, line 4 is 11/5), so neighbours cannot be used to infer it."
+  },
+  {
+   "line_no": "3",
+   "report_no": 2,
+   "date": "2024-11-06",
+   "vendor_raw": "Benja Thai",
+   "purpose": "Campaign victory dinner",
+   "amount": "85.08",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.45,17.84,15.15,1.73@p6",
+   "note": "Report 2."
+  },
+  {
+   "line_no": "4",
+   "report_no": 2,
+   "date": "2024-11-05",
+   "vendor_raw": "Pinkbox",
+   "purpose": "Republican victory food",
+   "amount": "27.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.45,19.57,15.15,1.73@p6",
+   "note": "Report 2. Dated one day BEFORE the row above it; printed order retained."
+  },
+  {
+   "line_no": "5",
+   "report_no": 2,
+   "date": "2024-11-27",
+   "vendor_raw": "Boehire Consulting",
+   "purpose": "Campaign Consulting",
+   "amount": "978.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.45,21.30,15.15,1.81@p6",
+   "note": "Report 2. Vendor glyphs read 'Boehire' but the 'r' could be a 'v' - transcribed as the legible-glyph string at LOW confidence, NOT resolved to a plausible real firm name. Report 1 line 4 of this same PDF clearly reads 'Beehive State Consulting' for the same purpose; that similarity is flagged in notes but was NOT used to overwrite this glyph."
+  },
+  {
+   "line_no": "6",
+   "report_no": 2,
+   "date": "2024-12-03",
+   "vendor_raw": "Walgreens",
+   "purpose": "Campaign card",
+   "amount": "91.72",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.45,23.11,15.15,1.82@p6",
+   "note": "Report 2."
+  },
+  {
+   "line_no": "7",
+   "report_no": 2,
+   "date": "2024-12-09",
+   "vendor_raw": "Costco",
+   "purpose": "Campaign postage",
+   "amount": "148.06",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.45,24.93,15.15,1.73@p6",
+   "note": "Report 2."
+  }
+ ]
+}

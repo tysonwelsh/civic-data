@@ -1,0 +1,102 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "3072.36",
+ "ending_balance": "3072.36",
+ "aggregate": {
+  "total_contributions_to_date": "13,263.99",
+  "total_expenditures_to_date": "12,776.99",
+  "line5_subtotal": "3072.36"
+ },
+ "cover": {
+  "candidate": "Dea Theodore",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "6",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2024-01-29",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Theodore-Dea__22D3401A.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Theodore, Dea",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Theodore-Dea__22D3401A.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Fully handwritten 2024-cycle year-end on the '2024 Financial Disclosure Report For a Candidate' form; signed 01/29/24 (index.csv date 2024-01-30 disagrees by one day - the page governs). Amendment Yes/No boxes BOTH unmarked. Struck-zero glyphs (slashed O) at Summary lines 1/2/4/6 Column A and both schedule TOTAL lines recorded as 0 per zero-glyph ruling. Column B aggregates handwritten 13,263.99 / 12,776.99 (cycle-to-date, not this period - not a contradiction); the chunk/audit prior for line 1 Column B was $13263.79 but the page at 1200dpi reads 13,263.99 - the page governs. Cover address/phone block bar-redacted.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Summary line 1 Column A is a handwritten struck-zero glyph (slashed O); Schedule A p3 grid wholly blank, SUBTOTAL cell blank, TOTAL carries the same struck-zero glyph - real zero-activity period"
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "Summary line 2 Column A struck-zero glyph; Schedule B p4 grid wholly blank, SUBTOTAL cell blank, TOTAL carries struck-zero glyph - real zero"
+    }
+   },
+   "page_subtotal_gates": "p3 and p4 SUBTOTAL cells printed but left blank; gated on the TOTAL lines instead, each a handwritten struck-zero glyph consistent with Summary lines 1/2 Column A",
+   "escalations": 3,
+   "escalation_note": "p2 Summary figures re-read at 400dpi (lines 1-2 and 3-7 bands); line 1 Column B re-read at 1200dpi to settle the cents digits",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Fully handwritten 2024-cycle year-end on the '2024 Financial Disclosure Report For a Candidate' form; signed 01/29/24 (index.csv date 2024-01-30 disagrees by one day - the page governs). Amendment Yes/No boxes BOTH unmarked. Struck-zero glyphs (slashed O) at Summary lines 1/2/4/6 Column A and both schedule TOTAL lines recorded as 0 per zero-glyph ruling. Column B aggregates handwritten 13,263.99 / 12,776.99 (cycle-to-date, not this period - not a contradiction); the chunk/audit prior for line 1 Column B was $13263.79 but the page at 1200dpi reads 13,263.99 - the page governs. Cover address/phone block bar-redacted."
+  }
+ }
+}

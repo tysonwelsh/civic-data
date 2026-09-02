@@ -1,0 +1,99 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C16.json",
+ "key": "9e31cc88",
+ "index_path": "raw/2020/2020_cc_Craig_McCallister.pdf",
+ "applies_to": [
+  "raw/2020/2020_cc_Craig_McCallister.pdf",
+  "raw/2020/2020_st_McAllister_summary.pdf"
+ ],
+ "sha256_prefix": "b7662f2e04c09d5f",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A is an EMPTY SCHEDULE - a dash in the first Date cell and 'None' written across the Name of Contributor column, no amounts anywhere. Zero rows (a real zero). All six line-1/line-2 cover cells are SLASHED-ZERO glyphs = 0 under the repo zero-glyph ruling. Carr Form A prints no schedule total."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "488.55",
+    "cover_balance_end": "488.55",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "488.55",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "The single Form B row (488.55) equals the cover's line-3 CUMULATIVE cell 488.55 and NOT the line-3 THIS cell (a slashed zero) - the schedule restates the one expenditure already reported on the 10/13/2020 filing, so the transcribed side is on the CUMULATIVE scope. Note the cover's own identity LAST + THIS = CUMULATIVE FAILS on line 3 as the filer wrote it: 0 + 0 does not equal 488.55; the 488.55 he owed in the line-3 LAST cell was written in the line-4 LAST cell instead. Both cells retained verbatim, nothing recomputed."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Form prints no schedule total or page subtotal. p2: empty schedule, cover line-1 all zero-glyphs. p3: rows sum 488.55 = cover line-3 CUMULATIVE 488.55 (it does NOT equal the line-3 THIS cell, 0 - the expected consequence of the cumulative scope).",
+  "row_count": "p2 rowbands.py: ok, deskew 0.2 deg, first rules 10.12/12.89/15.19... -> 36 writing bands, ink on exactly one line ('None' + dash, no amount) = 0 transactions. p3 rowbands.py: ok, deskew 0.3 deg, rules 9.60/12.42/14.68... -> 36 writing bands, exactly 1 inked (band 1, [9.60,12.42]) = 1 row emitted.",
+  "geometry_proof": "p3 600 dpi crop of the row-1 amount cell (x4150,y630,W800,H280) renders '488.55'; the control crop one row-pitch below (y915,H200) renders EMPTY; a third 600 dpi full-width crop of band 1 renders '3-13-2020 | CACHE COUNTY CLERK | ELECTION FILI...'.",
+  "balance_chain": "Cover line 4 reads LAST 488.55 / THIS 0 / CUM 488.55: 488.55 + 0 - 0 = 488.55 closes arithmetically as written, but line 4 again duplicates the expense total rather than reporting a cash balance (the same pattern as the filer's earlier report). CROSS-FILING CHAIN RUN (two filings by one filer in one cycle): the 10/13/2020 report (key e467a713) line-3 CUMULATIVE 488.55 does NOT chain to this report's line-3 TOTALS FROM LAST REPORT, which is a slashed zero; the 488.55 appears in this report's line-4 LAST cell instead. This is a FILER bookkeeping error, not a swapped-cover pair - the two covers carry different dates (10/13 vs 11/18), different clerk stamps (OCT14 vs NOV18) and the same single 488.55 expenditure, and the cumulative totals agree at 488.55 on both."
+ },
+ "escalations": 3,
+ "escalation_note": "600 dpi tight crops: p3 row-1 amount cell, p3 one-pitch control, p3 band-1 full width; plus 400 dpi crops of cover lines 1-2 and lines 3-4 to read the slashed-zero glyphs.",
+ "notes": "index.csv calls the candidate 'Craig McCallister', office 'Treasurer'; the cover spells the name 'R. CRAIG McALLISTER' (one 'l' in Mc-A-l-l, no 'c' after Mc) and reads 'CACHE COUNTY TREASURER' / 'Office District: CACHE COUNTY' - office AGREES, but the DOCUMENT'S SPELLING of the surname is McAllister, not McCallister as the index file has it. Cover date 11/18/2020, clerk stamp 'CLERK-NOV18'20PM2:02:25'; the 'TO' line reads 'JESS BRADFIELD'. Carr 5-5-PG confirmed; p4 is the statute text. Chunk file lists this key as byte-shared with raw/2020/2020_st_McAllister_summary.pdf (applies_to) - transcribed once here. Candidate street address, ZIP and phone numbers discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "CACHE COUNTY CLERK",
+   "purpose": "ELECTION FILING",
+   "amount": "488.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:84.80,9.60,11.10,2.82@p3",
+   "note": "All-capitals hand. Re-read at 600 dpi: 488.55 identical. Same expenditure as the filer's 10/13/2020 report (key e467a713), restated here on the cumulative scope. Carr Form B has no in-kind column."
+  }
+ ]
+}

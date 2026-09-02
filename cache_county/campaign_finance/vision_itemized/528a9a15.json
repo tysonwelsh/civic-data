@@ -1,0 +1,177 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C12.json",
+ "key": "528a9a15",
+ "index_path": "raw/2016/2016_cc_Karl_Ward_Campaign_Finance_Report.pdf",
+ "applies_to": [
+  "raw/2016/2016_cc_Karl_Ward_Campaign_Finance_Report.pdf"
+ ],
+ "sha256_prefix": "362f9714436c488b",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "2,669.00",
+    "cover_over50_this": "-0-",
+    "cover_over50_cum": "2,669.00",
+    "cover_le50_this": "",
+    "cover_le50_cum": "40.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "2669.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Carr form prints NO schedule total on Form A (sheet ends '(If additional space is needed, use blank paper ...)'), so the cover line-1 cells are the only anchor. Four rows sum 1000.00+500.00+500.00+669.00 = 2669.00, equal to cover line 1 CUMULATIVE 2,669.00 and to its LAST-REPORT cell (THIS REPORT cell is a nil glyph '-0-'), so LAST and CUM coincide on this summary report. RHODES-STYLE ARITHMETIC RESOLUTION: the row-4 amount and the line-1 CUMULATIVE cell both end in a bistable 8/9 glyph; the balance line decides (2,669 + 40 - 2,232 = 477 = the printed line-4 balance; 2,668 would give 476), so the digit is 9 in both. Cover line 2 (aggregate <=$50) is 40.00 and is deliberately NOT part of this reconciliation."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "2,232.00",
+    "cover_expense_this": "",
+    "cover_expense_cum": "2,232.00",
+    "cover_balance_end": "477.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "2232.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form B prints no schedule total. Two rows sum 2159.15+72.85 = 2232.00, equal to cover line 3 in BOTH the LAST-REPORT and CUMULATIVE columns (the THIS REPORT cell is blank). The line-3 LAST cell read bistably 2,252/2,232 at 200-1200 dpi; a 2400 dpi crop resolved the middle glyph as the same zig-zag '3' the filer writes in the CUMULATIVE cell, and the Form B sum independently confirms 2,232.00."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No printed schedule total or page subtotal exists on either Carr schedule (form prints none) - stated, not invented. Gated against the cover instead: p2 rows 2669.00 = cover line 1 CUM 2,669.00; p3 rows 2232.00 = cover line 3 CUM 2,232.00.",
+  "row_count": "rowbands.py p2: 36 bands, pitch 2.21%, status ok; ink occupies bands 1-4 only (filer writes ABOVE each rule) = 4 rows emitted. rowbands.py p3: 31 bands, status 'gaps' (the rule at ~15.93% was not detected); bands mapped by hand against ink = 2 inked rows = 2 rows emitted; all remaining ruled lines are blank.",
+  "geometry_proof": "p2: first-row box (81.00,11.16,14.00,2.70) renders '1,000.00'; last-row box (81.00,18.27,14.00,2.23) renders '669.00'; control one pitch below (y=20.50) renders EMPTY. p3: first-row box (81.00,11.49) renders '2,159.15'; last-row box (81.00,13.72) renders '72.85'; control (y=15.93) renders EMPTY.",
+  "balance_chain": "Carr cover has no beginning-balance line. 2,669.00 (line1 cum) + 40.00 (line2 cum) - 2,232.00 (line3 cum) = 477.00 = printed line-4 balance. CLOSES EXACTLY, and this identity is what settled the two bistable glyphs. No other filing by this filer in this cycle is in my chunk, so no cross-filing chain test was possible."
+ },
+ "escalations": 9,
+ "escalation_note": "1200 dpi cell crops of cover lines 1 and 3 (LAST and CUM columns) and of both schedules' amount columns; 2400 dpi re-crops of cover line-1 CUM, line-3 LAST/CUM and Form A row 4; 1200 dpi crop of the Form B date column.",
+ "notes": "index.csv says candidate 'Karl Ward', office 'County Council'; the form's 'Full Name of Candidate' reads KARL B. WARD and 'Name of Office' reads CACHE COUNTY COUNCIL - agrees (index drops the middle initial). Office District line left blank by the filer. Political Party REPUBLICAN. Signed/dated 12-8-16; clerk stamp 'CLERK REC'D DEC 12 11:02'. Cover line 2 THIS-REPORT cell is SCRIBBLED OUT by the filer (not a zero and not blank) - recorded as '' with this note; line 1 THIS-REPORT cell carries a nil glyph read as '-0-' = 0 per the zero-glyph ruling. Mailing-address column on Form A is entirely blank for all four rows, so no donor_city/donor_state exist to emit. Candidate's own street address, ZIP and both phone numbers appear in the clear on the cover and were discarded at read time. A printing vendor (Watkins Printing) appears as BOTH a Form A contributor (669.00) and the Form B payee; transcribed verbatim, no in-kind inference made (the Carr form has no in-kind column).",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2016-06-07",
+   "donor_raw": "Dell Loy Hansen",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.00,11.16,14.00,2.70@p2",
+   "note": "written '1,000.00'; date written '6-7-16'; address cell left blank by filer"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2016-06-07",
+   "donor_raw": "Jim Lamb",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.00,13.86,14.00,2.20@p2",
+   "note": "date written '6-7-16'; address cell blank"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2016-06-07",
+   "donor_raw": "LARRY W. Miller",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.00,16.06,14.00,2.20@p2",
+   "note": "date written '6-7-16'; address cell blank"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2016-06-10",
+   "donor_raw": "WATKINS Printing",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "669.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:81.00,18.27,14.00,2.23@p2",
+   "note": "final digit bistable 8/9 at every resolution; settled as 9 by the cover's own arithmetic (rows must sum to 2,669.00 and 2,669+40-2,232 must equal the printed balance 477.00). Date written '6-10-16'; address cell blank"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2016-07-01",
+   "vendor_raw": "WATKINS Printing",
+   "purpose": "CAMPAIGN FLYERS",
+   "amount": "2159.15",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.00,11.49,14.00,2.23@p3",
+   "note": "written '2,159.15'; date written '7-1-16'"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2016-06-03",
+   "vendor_raw": "WATKINS Printing",
+   "purpose": "STICKERS FOR CAMPAIGN SIGN",
+   "amount": "72.85",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:81.00,13.72,14.00,2.21@p3",
+   "note": "date written '6-3-16'; middle digit is the filer's zig-zag 3 (same glyph as the 3 in 2,232.00), read as 5 at 90 dpi - kept at medium. Amount cents digit bistable 8/5; 2232.00-2159.15 = 72.85 fixes it as 8. 'SIGN' is squeezed at the cell edge under 'CAMPAIGN'"
+  }
+ ]
+}

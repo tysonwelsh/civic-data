@@ -1,0 +1,39 @@
+[{
+ "index_path": "raw/2014/2014_30DayBowen.pdf",
+ "key": "dbfc9509",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r4_02)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2],
+ "itemized_pages_B": "2",
+ "sides": {"contributions": "no-schedule-page", "expenditures": "transcribed"},
+ "withheld_reason": {
+  "contributions": "The retained document contains NO Schedule A page. `pdfinfo` reports Pages: 2, and both were read full-page and classified from their own printed headings: p1 the 2014 cover, p2 'SCHEDULE B / ITEMIZED EXPENDITURES MADE'. There is no Schedule A and no SUMMARY PAGE either. ⚠ The Schedule B's own foliation box reads 'Page 3 of 3', so the filer submitted three sheets and the county published only two — one middle sheet of his own filing is absent from what was retained. Whatever that sheet was, no Schedule A is present here, and the absence is a property of the retained document, not an unread page. This is why the module's stated cover totals are empty for this filing."
+ },
+ "recon": {
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Schedule B's OWN two printed figures on p2 — 'Subtotal for this page' $1572.00 and 'Total Expenditures Received (Sum of subtotals from all Schedule B pages)' $1,572.00. ⚠ THERE IS NO COVER COLUMN A CELL TO CROSS-CHECK: the retained document has no Summary Page (see withheld_reason), so the usual promoted per-period cell does not exist on this document. The schedule's own total is a period-scoped printed figure of matching scope and it is the anchor.",
+   "detail": "The single Schedule B row carries '$1572' (written without cents) and the filer's own footer prints 'Subtotal for this page $1572.00' and 'Total Expenditures Received $1,572.00'. 1572 = 1572.00 = 1,572.00 — the row sums to both printed anchors exactly. Nothing was differenced across filings and no figure was synthesized; the missing summary page was NOT reconstructed from anything."
+  }
+ },
+ "in_kind_convention": "monetary-only closed exactly (1,572.00). Both conventions tested and identical: the schedule prints no in-kind column, no row is marked in-kind, and there is no summary page on which a separate in-kind line could appear.",
+ "escalations": 3,
+ "escalation_note": "Three 900 dpi tight crops: the row-1 amount cell (§A1 first-entry control), the row-2 band (§B5 one-past-the-end control), and the cover's Type-of-Report checkbox block, escalated because two boxes appear marked at page resolution. The escalation confirmed one unambiguous check on '30 Days after withdraw or elimination' and a FAINT DIAGONAL inside the 'Seven days preceding the General Election' box that cannot be told from a reproduction artifact — NOT adjudicated, reported as seen. No amount was in doubt.",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [81.23, 90.71],
+   "cells": [[7.82, 18.88], [20.41, 52.00], [53.53, 79.71], [81.23, 90.71]],
+   "rows": [[20.02, 23.82], [23.82, 27.61], [27.61, 31.41], [31.41, 35.23], [35.23, 39.02], [39.02, 42.84], [42.84, 46.64], [46.64, 50.43], [50.43, 54.25], [54.25, 58.05], [58.05, 61.82], [61.82, 65.64], [65.64, 69.46], [69.46, 73.27], [73.27, 77.07], [77.07, 80.86], [80.86, 84.66]],
+   "measure_note": "legacy_colAB UNDERLINE form. rowbands.py on the RAW frame (deskew -0.1 deg) returns 17 per-column underlines at 23.82 .. 84.66 pct with four segments each, and the segments ARE the column bands: Date 7.82-18.88, Name 20.41-52.00, Address 53.53-79.71, Amount 81.23-90.71. Fitted pitch (84.66-23.82)/16 = 3.8025. TEXT SITS ABOVE ITS UNDERLINE, so row 1 is extrapolated one pitch up to [20.02, 23.82]. BOTH CONTROLS at 900 dpi with --value, on a page with only ONE entry so every row is proved: (a) §A1 first-entry crop pct:81.23,20.02,9.48,3.80@p2 rendered the printed 'Amount' header above the handwritten '$1572' — the filer used the first ruled line (recorded 1572); (b) §B5 crop ONE BAND PAST, pct:81.23,23.82,9.48,3.79@p2, rendered EMPTY (two bare rules, no ink). Bands 2-17 are all blank on this sheet."
+  }
+ },
+ "contributions": [],
+ "expenditures": [
+  {"line_no": "1", "page": 2, "row": 1, "vendor_raw": "Carlton Bowen",
+   "amount": "1572", "in_kind": false, "confidence": "medium", "verified": 1,
+   "needs_review": 1,
+   "note": "THE DATE CELL IS EMPTY — the filer entered no date at all, so date is honestly blank and nothing was inferred from the report date (needs_review=1 for that reason, not for the amount, which is certain). The amount is written '$1572' with NO CENTS and no decimal point; kept verbatim, and the filer's own footer on the same page states the identical figure as '1572.00'. The address cell is likewise EMPTY (left empty by the filer — this 2014 filing is not redacted); expenditure rows carry no address field in any case. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column, so purpose is honestly blank. NOTE what the document says: the sole expenditure line names the CANDIDATE HIMSELF as the payee. It is transcribed exactly as the page reports it and NOT reclassified — with no summary page there is no balance ladder to run, so the loan/self-funding question this row raises cannot be decided by arithmetic and is deliberately left undecided."}
+ ],
+ "notes": "PAGE-FACE candidate 'Carlton Edward Bowen' (signed 'Carlton Bowen') — index.csv names NO filer for this row, so the page face fills an empty channel label. Page-face office 'County Commissioner B', which agrees with the channel's 'County Commission Seat B'. TWO pages only: p1 the 2014 cover (Utah County Code 2-5), p2 SCHEDULE B foliated by the filer as 'Page 3 of 3'. NO SUMMARY PAGE AND NO SCHEDULE A EXIST IN THE RETAINED DOCUMENT — a sheet of the filer's own three is missing from what the county published, which is exactly why this filing's stated cover totals are empty in the module's totals layer. ⚠ TYPE OF REPORT: '30 Days after withdraw or elimination' carries an unambiguous check; the 'Seven days preceding the General Election' box carries a faint diagonal that a 900 dpi crop could not distinguish from a reproduction artifact. TWO boxes may therefore be marked. Not adjudicated — reported as seen, per the standing rule against resolving a filer's own inconsistency. Cover date 5-12-14; the Schedule B header dates the same report '5-12-2014' (four-digit year there, two-digit on the cover). Clerk's date-received stamp 'MAY 12 PM 1:40'. Party 'Republican'; amendment ticked 'No'. PRIVACY: this filing is UNREDACTED and the candidate's own street address is legible on the cover; nothing of it was carried into this record. SOURCE PROPERTY: the filer's foliation ('3 of 3') is what proves the retained PDF is short a sheet — page COUNT alone would not have shown it, and no page ordinal was used to locate anything."
+}]

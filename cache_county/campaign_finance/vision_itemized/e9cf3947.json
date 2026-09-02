@@ -1,0 +1,161 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C01.json",
+ "key": "e9cf3947",
+ "index_path": "raw/2008/2008_wb_vcollins.pdf",
+ "applies_to": [
+  "raw/2008/2008_wb_vcollins.pdf"
+ ],
+ "sha256_prefix": "f337deedc36708a8",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "—",
+    "cover_over50_this": "100.00",
+    "cover_over50_cum": "100.00",
+    "cover_le50_this": "NA",
+    "cover_le50_cum": "NA",
+    "cover_expense_last": "",
+    "cover_expense_this": "193.62",
+    "cover_expense_cum": "193.62",
+    "cover_balance_end": "-93.62",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "100.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One Form A row, 100.00. The Carr form prints NO schedule total (schedule_total null); the filer HAND-WROTE 'total 100.00' on the last writing line of p2, which is a filer addition, not a printed field, and it agrees. Cover line 1 THIS = CUM = 100.00 (LAST column holds a bare dash, treated as blank per the zero-glyph ruling), so the two scopes coincide on this first report of the cycle. Cover line 2 (<=$50 aggregate) reads 'NA' in both columns and is never itemized, so it is excluded from the basis per the sub-$50 aggregate rule."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "193.62",
+    "cover_expense_cum": "193.62",
+    "cover_balance_end": "-93.62",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "193.62",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Four Form B rows sum 39.96+42.00+71.66+40.00 = 193.62, equal to cover line 3 in BOTH the THIS and CUMULATIVE columns (LAST column blank), so the scopes coincide. The filer's own hand-written 'total 193.62' on the last writing line of p3 agrees; the form itself prints no schedule total."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Form prints NO schedule total or page subtotal on either schedule (the sheet ends with the '(If additional space is needed...)' note), so the cover line is the only anchor. Filer-written totals on the last writing line of each schedule agree: p2 rows 100.00 = filer 'total' 100.00 = cover line 1; p3 rows 193.62 = filer 'total' 193.62 = cover line 3.",
+  "row_count": "rowbands.py p2: geometry ok, 39 data bands (grid pitch 2.118%); 1 inked writing band (band 1) + the filer's total on band 39 = 1 row emitted. p3: geometry ok, 39 data bands; 4 inked writing bands (1-4) + filer total on band 39 = 4 rows emitted.",
+  "geometry_proof": "p2: crop of row-1 amount band renders '100.00'; control one pitch below renders empty. p3: crop of row-1 amount band renders '39.96', crop of row-4 amount band renders '40.00', control one pitch below row 4 renders empty.",
+  "balance_chain": "0 + 100.00 - 193.62 = -93.62; cover line 4 prints -93.62 in both the THIS and CUMULATIVE columns. Closes exactly."
+ },
+ "escalations": 4,
+ "escalation_note": "800 dpi cell crops of the p2 row-1 amount + control, and of the p3 row-1 / row-4 amounts + control; 600 dpi crops of both halves of the cover anchor block.",
+ "notes": "index.csv calls the candidate Vonda Collins / office County Council; the cover's 'Full Name of Candidate' reads 'Vonda Collins' and 'Name of Office' reads 'Cache County Council' - agrees, in scope. Office District left blank by the filer. Cover line 1 LAST-REPORT cell holds a bare dash (not a zero glyph) - recorded verbatim, treated as blank. Cover line 2 reads 'NA' rather than a figure. Contributor Richard Collins shares the candidate's surname and address - transcribed verbatim, no inference drawn. Street address and ZIP on both the cover and the Form A row discarded at read time; only city/state kept.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2008-04-05",
+   "donor_raw": "Richard Collins",
+   "donor_city": "Hyrum",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.40,8.51,10.90,2.44@p2",
+   "note": "date written '4-5-08' (two-digit year, parses to 2008); street address and ZIP discarded at read time"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2008-04-02",
+   "vendor_raw": "Kinko's",
+   "purpose": "printing of mailers",
+   "amount": "39.96",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.60,8.76,11.10,1.94@p3",
+   "note": "date written '4/2/08'"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2008-04-05",
+   "vendor_raw": "US Post Office",
+   "purpose": "stamps for mailers",
+   "amount": "42.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.60,10.70,11.10,2.17@p3",
+   "note": "date written '4/5/08'"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2008-04-06",
+   "vendor_raw": "Sam's Club",
+   "purpose": "candy & water for convention",
+   "amount": "71.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.60,12.87,11.10,2.03@p3",
+   "note": "date written '4/6/08'; purpose written \"candy'd water for convention\" - read as 'candy & water'"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2008-03-10",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "filing for office",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.60,14.90,11.10,2.15@p3",
+   "note": "date written '3/10/08' - earlier than the three rows above it, transcribed in printed order"
+  }
+ ]
+}

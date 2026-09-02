@@ -3,7 +3,10 @@
  "key": "3ebf4721",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T22:10:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -54,5 +57,151 @@
    "notes": "Handwritten. Lines 3 and 7 are written as a slashed-zero glyph (the filer's zero); transcribed as 0 at medium confidence. The candidate's signature date on the cover page is not cleanly legible; report_date is taken from the summary page's printed 'Date of Report' box (5/20/2010)."
   }
  ],
- "notes": "REFERENCE CACHE for the Utah County vision tranche - the schema every other vision/<key>.json follows."
+ "notes": "REFERENCE CACHE for the Utah County vision tranche - the schema every other vision/<key>.json follows.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "3/19/2010",
+   "donor_raw": "STEPHEN HEMINGWAY",
+   "donor_city": "Orem",
+   "donor_state": "UT",
+   "amount": "913.33",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:85.29,15.06,10.12,4.10@p3",
+   "geometry_frame": "p3 axis=y cell=85.29-95.41 rowband=15.06-19.16 (1 of 1 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the candidate's own money \u2014 the donor name and residence city on this line are the filer's own, written 'STEPHEN' here while the cover signs 'STEVE HEMINGWAY'; both kept as printed. The county published this filing unredacted; per the privacy rule only city/state were carried from the address cell."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "3/19/2010",
+   "vendor_raw": "Filing Fee - Utah County",
+   "purpose": "Filing fee",
+   "amount": "484.51",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:85.21,15.21,10.18,4.09@p4",
+   "geometry_frame": "p4 axis=y cell=85.21-95.39 rowband=15.21-19.30 (1 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Schedule B on this form prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount); this filer writes 'purpose - payee' into the name cell, so purpose is read from that same cell and the payee half is kept in vendor_raw"
+  },
+  {
+   "line_no": "2",
+   "date": "4/20/2010",
+   "vendor_raw": "Posters - KINKOS",
+   "purpose": "Posters",
+   "amount": "14.42",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:85.21,19.30,10.18,4.09@p4",
+   "geometry_frame": "p4 axis=y cell=85.21-95.39 rowband=19.30-23.39 (2 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "4/23/2010",
+   "vendor_raw": "Flyers - KINKOS",
+   "purpose": "Flyers",
+   "amount": "110.04",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:85.21,23.39,10.18,4.08@p4",
+   "geometry_frame": "p4 axis=y cell=85.21-95.39 rowband=23.39-27.47 (3 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer wrote a first word (reads 'Banners') and SCRIBBLED IT OUT, leaving 'Flyers - Kinkos' standing; the correction governs and the struck word is not carried as part of the value. The address cell is a pair of DITTO MARKS repeating the Kinkos line above. Amount confirmed twice: a 900 dpi cell crop rendered '110.04' and the printed page subtotal forces the same figure."
+  },
+  {
+   "line_no": "4",
+   "date": "4/23/2010",
+   "vendor_raw": "TREATS - Food Giveaways - Costco",
+   "purpose": "Treats / food giveaways",
+   "amount": "34.57",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:85.21,27.47,10.18,4.09@p4",
+   "geometry_frame": "p4 axis=y cell=85.21-95.39 rowband=27.47-31.56 (4 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "4/23/2010",
+   "vendor_raw": "PHONE CALLS - INTERACTIVE TELESIS",
+   "purpose": "Phone calls",
+   "amount": "249.79",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:85.21,31.56,10.18,4.05@p4",
+   "geometry_frame": "p4 axis=y cell=85.21-95.39 rowband=31.56-35.61 (5 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer packed a toll-free number, a Carlsbad, CA line and a parenthetical Oklahoma City mailing line into the name/address cells; per the privacy rule the street line and the phone number are NOT carried, and vendor_raw keeps only the purpose-and-payee text"
+  },
+  {
+   "line_no": "6",
+   "date": "4/24/2010",
+   "vendor_raw": "ROOM DONATION - LINDA Houskeper",
+   "purpose": "Room donation",
+   "amount": "20.00",
+   "in_kind": false,
+   "confidence": "low",
+   "verified": 1,
+   "geometry": "pct:85.21,35.61,10.18,4.10@p4",
+   "geometry_frame": "p4 axis=y cell=85.21-95.39 rowband=35.61-39.71 (6 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "confidence LOW on the NAME only: the payee surname is written in a compressed hand and reads 'Houskeper' at 1500 dpi \u2014 possibly the 'Houskeeper' of the county's 2010 Commission Seat B field, but that is NOT adjudicated here and the glyphs are transcribed as written. The amount 20.00 is certain (crop-rendered and forced by the printed subtotal). The filer wrote a street address after the name; it is not carried."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk_01)",
+   "transcribed_date": "2026-08-18",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (913.33) on the p2 Summary Page, which is also Schedule A's own printed 'Subtotal for this page' ($913.33) and its printed 'Total Contributions Received' ($913.33)",
+     "detail": "1 Schedule A row: 913.33 = the schedule's printed page subtotal = the schedule's printed total = the cover's promoted PER-PERIOD Column A cell. Column B 'Year-to-Date Total' also prints 913.33 (this is the filer's only report of the cycle, a '30 Days after withdraw or elimination' report, so period and YTD coincide) and is NOT summed as an increment. The p2 balance ladder closes on its own terms: line 3 (slashed zero = 0) + line 4 913.33 = line 5 913.33; 913.33 - line 6 913.33 = line 7 (slashed zero = 0)."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (913.33) on the p2 Summary Page, equal to Schedule B's printed 'Subtotal for this page' ($913.33) and its printed 'Total Expenditures Received' ($913.33)",
+     "detail": "6 Schedule B rows sum to 484.51 + 14.42 + 110.04 + 34.57 + 249.79 + 20.00 = 913.33 exactly = the printed page subtotal = the printed schedule total = the cover's promoted per-period Column A cell = line 6 of the balance ladder. Column B YTD 913.33 is the same figure (single-report cycle) and is retained as cumulative, never summed as an increment. The arithmetic also SETTLES two cells the handwriting leaves ambiguous: 110.04 (row 3) and 14.42 (row 2) are each forced to the cent by the other five rows against the printed subtotal, and a 900 dpi cell crop of row 3 independently rendered '110.04' \u2014 closure and glyph agree."
+    }
+   },
+   "in_kind_convention": "monetary-only closed on both sides; the monetary-plus-in-kind convention was also tested and is identical here because no row on either schedule is marked in-kind and the form prints no in-kind column or line. NOTE the filer's own wording 'Room Donation' on Schedule B row 6 \u2014 it is entered as a 20.00 EXPENDITURE in the money column, not as an in-kind contribution, and is transcribed where the filer put it.",
+   "escalations": 4,
+   "escalation_note": "Four tight cell crops, all LEGIBILITY-only (arithmetic was already closed, and per GOTCHAS closure outranks glyph reading): (1) p4 row-3 amount at 900 dpi rendered '110.04', agreeing with the figure the subtotal forces; (2) p4 row-5 name band at 700/900 dpi resolved the vendor to 'INTERACTIVE TELESIS' with a Carlsbad, CA line and a parenthetical second line the filer squeezed under it; (3) p4 row-6 name band at 900 and 1500 dpi resolved 'ROOM DONATION - LINDA Houskeper' \u2014 the surname is written in a compressed hand and the final syllable stays doubtful, so that row is confidence 'low' on the NAME (its amount, 20.00, rendered cleanly and is forced by the subtotal); (4) p4 row-3 name band at 1200 dpi showed the filer's first word SCRIBBLED OUT with 'Flyers - Kinkos' left standing.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 6,
+   "geometry": {
+    "measured": 7,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "legacy_colAB variant on the '2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' blank; 4 PDF pages: p1 cover ('30 Days after withdraw or elimination', signed 5/20/2010, amendment box marked No, stamped received MAY 21), p2 SUMMARY PAGE, p3 Schedule A, p4 Schedule B. The three numbered sheets carry the filer's own 'Page 1 of 3 / 2 of 3 / 3 of 3' foliation, which EXCLUDES the unnumbered cover \u2014 a document property worth knowing when a page ordinal is used to locate the summary page. Both sides close EXACTLY on the promoted per-period Column A figures (913.33 each), i.e. the filer raised and spent the same amount and closed at zero. PAGE-FACE candidate name is 'STEVE HEMINGWAY' (Republican, residence city Orem) \u2014 index.csv names NO candidate for this row, and the county's own FILENAME spells it 'Hemmingway' with a double m, which the page face does not support; Schedule A's donor line spells the same person 'STEPHEN HEMINGWAY'. Page-face Office Seeking reads 'UTAH COUNTY ASSESSOR', agreeing with index.csv's 'County Assessor'. Lines 3 and 7 of the balance ladder are SLASHED ZEROS, read 0 under the repo zero-glyph ruling. Not a *_Redacted.pdf \u2014 the county published this filing in the clear, so donor/vendor street addresses were visible on the page and were reduced to city/state (contributions) or dropped entirely (expenditures) at READ TIME."
+  }
+ }
 }

@@ -1,0 +1,75 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C03.json",
+ "key": "85d0094e",
+ "index_path": "raw/2010/2010_wb_mllemon.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_mllemon.pdf"
+ ],
+ "sha256_prefix": "53a9f9cba53065eb",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": ".00",
+    "cover_over50_this": ".00",
+    "cover_over50_cum": ".00",
+    "cover_le50_this": ".00",
+    "cover_le50_cum": ".00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page exists in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is ONE page — the Carr cover only. Form A (printed page 2) is physically ABSENT from the document, so this is 'none', not a transcribed zero. The cover itself reports '.00' in all three columns of line 1 and line 2, so nothing would have been itemizable, but that is the COVER's statement and not an observation of a schedule page."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": ".00",
+    "cover_expense_this": ".00",
+    "cover_expense_cum": ".00",
+    "cover_balance_end": ".00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page exists in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form B (printed page 3) is ABSENT from the 1-page PDF. Cover line 3 reports '.00' in all three columns."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No schedule pages in the document, so no page or schedule total exists to gate against. Cover-internal identity checked instead: LAST + THIS = CUMULATIVE holds on all four lines (.00 + .00 = .00).",
+  "row_count": "Not applicable — no ruled schedule page in the document. rowbands.py not run.",
+  "geometry_proof": "Not applicable — zero rows emitted.",
+  "balance_chain": "Cover line 4 prints '.00' in all three columns. .00 + .00 - .00 = .00 — closes exactly, an all-zero filing."
+ },
+ "escalations": 1,
+ "escalation_note": "Cover money grid re-rendered at 600 dpi (-x 1000 -y 4600 -W 4200 -H 1500) to confirm the cells are a bare handwritten '.00' with NO dollars digit written to the left of the decimal point (checked specifically because a leading digit falling outside the crop is the trap here).",
+ "notes": "SINGLE-PAGE DOCUMENT — the chunk file's pages=1 is correct and this is an honest non-scope, not a failure to look: pdfinfo reports 1 page and page 1 is the Carr cover. Handwritten. Cover 'Name of Office' reads 'CACHE COUNTY EXECUTIVE/SURVEYOR' — the chunk file says office='County Executive'; the FORM names TWO offices on one line (Executive/Surveyor) and the form governs. County office either way, in scope. 'Full Name of Candidate' reads 'M. LYNN LEMON' — agrees with the chunk file. Cover date '10/12/10' but the clerk RCVD stamp reads '13 OCT 2010 AM08:42'; the chunk file's date is 2010-10-13 (the received date). Both retained verbatim here; neither overwritten. All money cells are '.00' — a written numeral zero-with-cents, so the filing states a zero campaign, but with no schedule pages present the sides are 'none'. Privacy: home street address and two phone numbers printed in the clear on the cover — discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

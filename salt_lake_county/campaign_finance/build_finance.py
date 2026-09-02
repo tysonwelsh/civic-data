@@ -36,7 +36,7 @@ import build_lib as BL
 import vision_lib as VL
 import common
 from common import (ContribRow, ExpendRow, FilingTotals, CONTRIB_HEADER, EXPEND_HEADER,
-                    TOTALS_HEADER, GEOMETRY_COL, money_str, row_to_dict)
+                    TOTALS_HEADER, GEOMETRY_COL, OCCUPATION_COL, money_str, row_to_dict)
 from normalize_donors import tier1, classify_donor_type, normalize_contrib, normalize_vendor, load_aliases
 
 API = os.path.join(HERE, "raw", "easyvote_api")
@@ -151,7 +151,57 @@ def load_cache(index_path):
         return json.load(fh)
 
 
-def build_totals_tranche():
+def _tranche_era(r, api_docids):
+    """Which vision-tranche era an index.csv row belongs to, or None. MIRRORS the era test
+    inside `build_totals_tranche` — the two must not drift, or a filing gets two rows.
+
+    The 2026-08-24 wave-W2 addition: an EasyVote filing OUTSIDE the 2022 cycle whose
+    `document_id` has NO rows in the advanced-search API at all (the UNGATED set — a
+    school-board filing whose rows exist but are gated out, like Fife-Jepperson's, is
+    excluded here too, which is exactly the owner ruling: never publish a county-office row
+    for a school-board filing). Those are the 143 filings (all 2024 + all 2026 of the
+    row-less residue) whose covers W2 reads. An EasyVote filing the API DOES itemize stays
+    in the structured block, byte-identical."""
+    if r["source"] == "clerk_legacy":
+        return "clerk_legacy"
+    if r["source"] == "globalassets":
+        return "globalassets_2015_2021"
+    if r["source"] == "easyvote" and r["path"] not in _OUT_OF_SCOPE_PATHS:
+        if r["election_year"] == "2022":
+            return "easyvote_2022"
+        if (r["document_id"] or "").upper() not in (api_docids or set()):
+            return "easyvote_2024_2026"
+    return None
+
+
+# Eras processed in the ORIGINAL loop order — their filing_totals rows and itemized rows
+# keep their pre-W2 positions. W2-era rows (and the W2 itemized halves of easyvote_2022
+# caches) are APPENDED after them, so the wave is additive in all three CSVs.
+_LEGACY_ERAS = ("clerk_legacy", "easyvote_2022", "globalassets_2015_2021")
+_W2_ERA = "easyvote_2024_2026"
+
+# OUT OF SCOPE (owner ruling: school-board filings are never transcribed under a county
+# label — classify by the office line INSIDE the form). These two documents sit inside the
+# EasyVote row-less residue cohort with no API rows, so the era test would otherwise emit
+# county FilingTotals rows for them. Both covers were read at the page on 2026-08-24 (wave
+# W2, chunk_17) and read "Office Sought: Salt Lake School Board, District 2" — the audit
+# (`_audits/2026-08-20-easyvote-residue/README.md` item 3) flagged the same mislabel. They
+# are ledgered as out-of-scope records in the wave's records, exactly like the other five
+# Fife-Jepperson filings (which carry school-board API rows and likewise get no county row).
+_OUT_OF_SCOPE_PATHS = {
+    "raw/easyvote/FIFE-JEPPERSON-CHARLOTTE__AE07FEF8.pdf",
+    "raw/easyvote/FIFE-JEPPERSON-CHARLOTTE__D20522DA.pdf",
+}
+
+
+def tranche_document_ids(api_docids=None):
+    """The `document_id`s `build_totals_tranche` emits a FilingTotals row for."""
+    with open(os.path.join(HERE, "index.csv"), newline="") as fh:
+        return {r["document_id"] for r in csv.DictReader(fh)
+                if r["document_id"] and _tranche_era(r, api_docids)}
+
+
+def build_totals_tranche(api_itemized=None, api_docids=None):
     """FilingTotals rows for the clerk-legacy (~2006-2015) + EasyVote-2022 eras, from the
     `vision/` caches. Returns (rows, crows, erows, stats, warnings). One row per index.csv
     filing in those eras — including filings with NO cache, which are emitted as honest
@@ -159,18 +209,34 @@ def build_totals_tranche():
 
     Since wave B2 the same pass ALSO emits each cache's itemized Schedule A/B rows and fills
     that filing's itemized/reconciliation half (see the tranche header above). A cache whose
-    row lists are still empty behaves exactly as before — the two tranches compose."""
+    row lists are still empty behaves exactly as before — the two tranches compose.
+
+    `api_itemized` (2026-08-20 office-gate repair) maps `document_id` -> the RAW EasyVote
+    advanced-search rows for that filing, for the EasyVote-2022 filings whose itemized data
+    exists in the structured API but which are ALSO in this tranche (their stated totals live
+    only on the image-only PDF). Those filings get ONE row — this one — with the vision-read
+    `stated_*` untouched and the itemized half filled from the API. A filing that already has
+    a VISION itemization keeps it (the transcribed, geometry-anchored layer wins; the API set
+    is not merged on top) and says so in `notes`."""
     with open(os.path.join(HERE, "index.csv"), newline="") as fh:
         idx = list(csv.DictReader(fh))
     aliases = load_aliases(os.path.join(HERE, "donor_aliases.csv"))
     rows, all_c, all_e, warnings, stats = [], [], [], [], Counter()
+    # Wave W2 (2026-08-24): ordering discipline. FilingTotals rows for the LEGACY eras keep
+    # their pre-W2 positions; the new `easyvote_2024_2026` rows APPEND at the end. ITEMIZED
+    # rows from any EasyVote vision cache (the W2-itemized 2022 row-less filings AND the new
+    # era) likewise APPEND after the pre-existing vision blocks — inserting the 2022 W2 rows
+    # between clerk-legacy and globalassets would shift every globalassets row and break the
+    # frozen-block proof. The 26 API-routed 2022 filings keep their historical position
+    # (the `elif api:` branch below extends all_c/all_e directly, as before).
+    w2_crows, w2_erows = [], []
+    ordered = []
     for r in idx:
-        if r["source"] == "clerk_legacy":
-            era = "clerk_legacy"
-        elif r["source"] == "easyvote" and r["election_year"] == "2022":
-            era = "easyvote_2022"
-        else:
-            continue
+        era = _tranche_era(r, api_docids)
+        if era:
+            ordered.append((r, era))
+    ordered.sort(key=lambda t: 0 if t[1] in _LEGACY_ERAS else 1)   # stable within groups
+    for r, era in ordered:
         stats[era] += 1
         cache = load_cache(r["path"])
         meta = (cache or {}).get("_meta", {})
@@ -259,6 +325,7 @@ def build_totals_tranche():
 
         # --- itemized half (wave B2). Absent cache / empty lists => unchanged totals-only row.
         it_meta = ((cache or {}).get("_meta") or {}).get("itemized") or {}
+        api = (api_itemized or {}).get(r["document_id"] or "")
         crows, erows, sides, it = ([], [], {}, {})
         if it_meta:
             # SCHEMA 2/3: an itemized ROW carries `candidate` / `election_year` / `filing_date`
@@ -272,11 +339,33 @@ def build_totals_tranche():
                 cache, r, office, r["seat"], r["election_year"], r["date"], rp, aliases,
                 "vision-itemized/" + (it_meta.get("wave") or "claude-opus-5"))
 
+        if it_meta:
+            if era == "clerk_legacy":
+                # The 496 clerk-legacy rows carry this EXACT historical wording — it is a
+                # close-out gate that they stay byte-identical.
+                item_head = ("; itemized Schedule A/B rows VISION-TRANSCRIBED "
+                             "(2026-08-02 wave B2)")
+            else:
+                # Every other era reads the wave stamp from the cache's own `_meta` — the
+                # eras were transcribed by DIFFERENT waves (W1 globalassets; W2 EasyVote
+                # residue 2022 + 2024/2026), and the stamp is published provenance.
+                item_head = ("; itemized Schedule A/B rows VISION-TRANSCRIBED ("
+                             + (it_meta.get("wave") or "2026-08-02 wave B2") + ")")
+        elif api:
+            item_head = ("; itemized rows from the EasyVote STRUCTURED API "
+                         "(advancedsearch, 2026-08-20 office-gate repair) — the stated totals "
+                         "above stay the vision read of this filing's own Summary Page")
+        else:
+            item_head = "; itemized layer NOT built for this filing -> reconciliation unknown"
+        tranche_stamp = ("Read-tool, $0 API; 2026-08-23 wave W1 (2015-2021 paper slice)"
+                         if era == "globalassets_2015_2021"
+                         else "ReadMediaFile vision (Kimi K3); 2026-08-24 wave W2 "
+                              "(EasyVote residue)"
+                         if era == _W2_ERA
+                         else "Read-tool, $0 API; 2026-08-01 totals tranche")
         head = ("stated totals VISION-TRANSCRIBED from the filing's own cover + Summary Page "
-                "(Read-tool, $0 API; 2026-08-01 totals tranche)"
-                + ("; itemized Schedule A/B rows VISION-TRANSCRIBED (2026-08-02 wave B2)"
-                   if it_meta else
-                   "; itemized layer NOT built for this filing -> reconciliation unknown")
+                f"({tranche_stamp})"
+                + item_head
                 + f" [{era}]")
         ft = FilingTotals(
             candidate=r["candidate"], office=office, election_year=eyear,
@@ -293,15 +382,34 @@ def build_totals_tranche():
             notes="")
         if it_meta:
             warnings.extend(apply_itemized(ft, crows, erows, sides, it, notes))
-            all_c.extend(crows)
-            all_e.extend(erows)
+            if era in ("clerk_legacy", "globalassets_2015_2021"):
+                all_c.extend(crows)          # pre-W2 positions, frozen-block proof holds
+                all_e.extend(erows)
+            else:
+                w2_crows.extend(crows)       # EasyVote vision rows are ALL wave-W2 additions:
+                w2_erows.extend(erows)       # appended after every pre-existing block
             stats["itemized_filings"] += 1
             stats["itemized_contrib_rows"] += len(crows)
             stats["itemized_expend_rows"] += len(erows)
             for side in ("contributions", "expenditures"):
                 stats["side_" + (sides.get(side) or "none")] += 1
+            if api:
+                notes.append("this filing ALSO has itemized rows in the EasyVote structured "
+                             "API; the VISION transcription above is what is published (the "
+                             "two are not merged — that would double-count the same schedule)")
+                stats["api_itemized_yielded_to_vision"] += 1
+        elif api:
+            acrows, aerows = api_itemized_rows_for(api, r, office, r["seat"], rp, aliases)
+            apply_api_itemized(ft, acrows, aerows, notes)
+            all_c.extend(acrows)
+            all_e.extend(aerows)
+            stats["api_itemized_filings"] += 1
+            stats["api_itemized_contrib_rows"] += len(acrows)
+            stats["api_itemized_expend_rows"] += len(aerows)
         ft.notes = "; ".join([head] + notes)
         rows.append(ft)
+    all_c.extend(w2_crows)
+    all_e.extend(w2_erows)
     return rows, all_c, all_e, stats, warnings
 
 
@@ -339,6 +447,24 @@ def _money(v):
     return float(s) if s else None
 
 
+def _occupation(row):
+    """The published `donor_occupation` for one transcribed contribution row.
+
+    The county's own Schedule A prints ONE cell headed `Occupation/Employer`, and filers fill
+    it as one string ("POLICY ADVISOR / SL COUNTY" written on two lines of the same cell). But
+    three filings in this slice attach the filer's own spreadsheet, and that spreadsheet SPLITS
+    the field into two columns. Both halves are kept verbatim in the cache; here they compose
+    back into the single field the form defines, joined with " / " — the same separator the
+    handwritten cells already use. Nothing is invented: if only one half exists, only that half
+    is published, and if neither does the value is blank (with the cache row's note recording
+    WHY it is blank — no such column, filer left it empty, or redacted at source)."""
+    occ = (row.get("occupation") or "").strip()
+    emp = (row.get("employer") or "").strip()
+    if occ and emp:
+        return f"{occ} / {emp}"
+    return occ or emp
+
+
 def itemized_rows_for(cache, r, office, seat, eyear, fdate, rp, aliases, method):
     """(ContribRow[], ExpendRow[], stats) for ONE filing's vision cache."""
     it = (cache.get("_meta") or {}).get("itemized") or {}
@@ -361,7 +487,13 @@ def itemized_rows_for(cache, r, office, seat, eyear, fdate, rp, aliases, method)
             extraction_confidence=(row.get("confidence") or "medium"),
             extract_method=method,
             needs_review=("1" if (amt is None or not donor or row.get("needs_review")) else "0"),
-            geometry=row.get("geometry", ""))
+            geometry=row.get("geometry", ""),
+            # Occupation/Employer, VERBATIM as the filer wrote it (owner decision
+            # 2026-08-20). Blank means one of three DIFFERENT things, and the row's note in
+            # the cache says which: the form has no such column (every pre-2015 filing), the
+            # column exists and the filer left it empty, or the county's redaction bar covers
+            # it. Never inferred from the donor name and never normalized.
+            donor_occupation=_occupation(row))
         normalize_contrib(cr, r["candidate"], aliases)
         crows.append(cr)
     for i, row in enumerate(cache.get("expenditures") or [], 1):
@@ -422,6 +554,125 @@ def apply_itemized(ft, crows, erows, sides, it, notes):
             notes.append(f"{side}: itemized rows transcribed but the form states no total for "
                          f"this side — reconciliation UNKNOWN, never assumed")
             continue
+
+        # ---- THE RECONCILIATION-BASIS RULE (owner-ratified 2026-08-17), enforced in code.
+        # A wave-W1 record NAMES the printed figure it reconciled against (`recon.<side>.basis`)
+        # and carries that figure in `recon.<side>.schedule_total`. Where that anchor is NOT the
+        # Summary line this module publishes as `stated_*`, the two figures HAVE DIFFERENT
+        # SCOPES and subtracting one from the other is a basis error, not a delta.
+        #
+        # Snelgrove April-2016 is the proof and the reason this branch exists. His Schedule B
+        # footer prints 3,161.02 (5 rows, in-kind INCLUDED — the schedule's own SUBTOTAL and
+        # TOTAL both equal it) while Summary line 2 prints 501.02 (the 4 cash rows, in-kind
+        # EXCLUDED). Both are correct; they measure different things, and the difference is
+        # exactly the one $2,660.00 in-kind row. Comparing the transcribed rows to `stated_*`
+        # would publish `reconciles_expend=False` with a **manufactured +2,660.00 delta** on a
+        # filing that closes exactly against both of its own printed figures.
+        #
+        # So: publish the itemized sum, publish the stated figure verbatim, and assert NO
+        # VERDICT — `reconciles_*` and `recon_delta_*` stay BLANK (unknown). This is the same
+        # answer utah's `cumulative-exact` sides get, for the same reason, and it needs no
+        # weakening of validate_finance.py (a blank verdict is always legal). Legacy wave-B2
+        # caches carry no `basis` key at all and are untouched by this branch, which is what
+        # keeps the 496 clerk-legacy filings byte-identical.
+        # The trigger is a MEASURED disagreement, not the label. A transcriber may reconcile
+        # against the schedule's grand total and that total may simply EQUAL the Summary figure
+        # (most filings: one scope, two printed copies of it). Blanking the verdict there would
+        # discard a real reconciliation — it did, on 3 of the first 7 rows this branch caught,
+        # where stated and itemized agreed to the cent. So the scope-split treatment applies
+        # ONLY where the declared anchor and the published stated figure actually differ.
+        # THREE conditions, and the third is the one that keeps this honest. A non-summary
+        # anchor that DISAGREES with the stated figure has two possible causes, and they get
+        # opposite treatments:
+        #
+        #   * DIFFERENT SCOPES (transcriber verdict `exact`) — the rows match the anchor
+        #     exactly, and the anchor differs from `stated_*` because the two printed figures
+        #     measure different things (Snelgrove: in-kind included vs excluded). No verdict
+        #     can be asserted; blank it. This branch.
+        #   * SAME SCOPE, FILER DISAGREES WITH HIMSELF (verdict `delta`) — Evershed's 20 rows
+        #     equal the attachment total AND the county stub total AND Summary line 6, while
+        #     Summary line 2 prints $14.05 less. Nothing about scope explains it; it is the
+        #     filer's own arithmetic inside his own Summary Page. That is a REAL delta and the
+        #     repo's rule is to publish it verbatim with the trace — so it falls through to the
+        #     ordinary path below.
+        #
+        # The transcriber, who had the page in hand, records which it is. The build does not
+        # guess: absent an explicit `exact`, the ordinary stated-total comparison applies.
+        # The anchor is compared to THE LINE THIS MODULE PUBLISHES for this side — line 1 for
+        # contributions, line 2 for expenditures — because that is what `stated_*` holds. Any
+        # OTHER declared basis means the rows were reconciled against a different figure.
+        #
+        # ⚠ `summary-line-4` / `summary-line-6` ARE such a case, and missing that would have
+        # been catastrophic. DeBry's 2021 year-end (chunk 24) runs the inversion one level
+        # deeper than his earlier filings: the schedule grand total is cumulative AND Summary
+        # line 1 Column A is *also* cumulative (it prints the PRIOR cycle total, 64,893.50,
+        # byte-identical to his 2018 year-end's schedule grand total). The period figure exists
+        # ONLY at lines 4 and 6 — 7,350.00 / 80.00 — which is exactly what the page subtotals
+        # match. The transcriber reconciled against `summary-line-4`, deliberately left
+        # `schedule_total` EMPTY so no wrong-scope anchor could be adopted, and flagged it.
+        # An earlier version of this branch required `anchor is not None`, so it fell through
+        # to the ordinary path and would have published a **-57,543.50 delta** on a side that
+        # closes exactly — undoing the transcriber's care with a mechanical comparison.
+        #
+        # So: an absent anchor is not a reason to compare against `stated_*`. It is a reason
+        # NOT to, because the record has already said the rows do not answer to that figure.
+        # TWO independent tests, either sufficient. Both ask the same question — *do the rows
+        # answer to the figure this module publishes as `stated_*`?* — but they detect the two
+        # different ways a record can say no.
+        #
+        # (a) THE RECORD ANCHORED ON A DIFFERENT FIGURE ENTIRELY. `recon.<side>.stated` is the
+        #     figure the transcriber reconciled against; `stated_*` is Summary Column A. When
+        #     they differ, the transcriber's verdict is about something else. Evershed's
+        #     2018 year-end is the case: his attachment totals equal Summary **Column B**
+        #     (cumulative, 75,405.83 / 33,613.31) while Column A is the period (29,053.68 /
+        #     26,175.09), and his own note says the schedules run from 8/2017. His contributions
+        #     verdict is `delta` (a 2-cent spreadsheet slip against HIS anchor), so a
+        #     verdict-only test would have fallen through to the ordinary path and published a
+        #     **+46,352.17** delta — the exact fabrication this whole branch exists to prevent.
+        #
+        # (b) THE RECORD ANCHORED ON A DIFFERENT *LINE* while quoting the same `stated`.
+        #     Snelgrove: `recon.stated` is 501.02 (= ours) but the rows were gated on the
+        #     schedule's own 3,161.02, which includes the in-kind row Summary line 2 excludes.
+        #
+        # And the case that must NOT trip either test — Evershed's OTHER filing, where the
+        # attachment total equals Summary line 6 AND the county stub total, and only line 2
+        # disagrees by $14.05. Same scope, filer's own arithmetic: `recon.stated` equals ours
+        # and the verdict is `delta`, so it falls through and the real delta is published.
+        published_line = ("summary-line-1" if side == "contributions" else "summary-line-2")
+        basis = (recon.get(side) or {}).get("basis", "")
+        verdict = (recon.get(side) or {}).get("result", "")
+        anchor = _money((recon.get(side) or {}).get("schedule_total"))
+        rec_stated = _money((recon.get(side) or {}).get("stated"))
+        anchored_elsewhere = (rec_stated is not None
+                              and abs(rec_stated - float(stated)) > 0.01)
+        different_line = (basis and basis != published_line and verdict == "exact"
+                          and (anchor is None or abs(anchor - float(stated)) > 0.01))
+        scope_split = anchored_elsewhere or different_line
+        if scope_split:
+            setattr(ft, sum_attr, money_str(total))
+            gap = (round(anchor - float(stated), 2)
+                   if anchor is not None else None)
+            notes.append(
+                f"SCHEDULE-SCOPE SPLIT ({side}) — "
+                f"{side} RECONCILIATION BASIS = {basis!r}: the rows were reconciled against "
+                f"the filing's own printed schedule total"
+                + (f" ({money_str(anchor)})" if anchor is not None else "")
+                + (f", which is a DIFFERENT SCOPE from the Summary-Page figure this module "
+                   f"publishes as stated ({stated})" if anchor is not None else
+                   f" rather than against the Summary-Page figure this module publishes as "
+                   f"stated ({stated}); the record deliberately states NO schedule figure here, "
+                   f"so no anchor of that scope exists to compare")
+                + (f" — the two differ by {money_str(gap)}" if gap else "")
+                + ". Both printed figures are retained verbatim and NEITHER is recomputed; "
+                f"`reconciles_{side[:6]}` and `recon_delta_{side[:6]}` are left BLANK because "
+                f"comparing figures of different scope is a basis error, not a delta"
+                + (f". The record reconciled against {money_str(rec_stated)}"
+                   if anchored_elsewhere else "")
+                + (f"; the transcriber's own verdict against THAT figure was {verdict!r}"
+                   if anchored_elsewhere and verdict else "")
+                + (f". Transcriber: {(recon.get(side) or {}).get('detail', '')}"
+                   if (recon.get(side) or {}).get("detail") else ""))
+            continue
         # SIGN CONVENTION. A few filers attach a register/QuickBooks export that prints every
         # amount NEGATIVE — accounting parentheses ("($745.00)") or a leading minus. SCHEMA
         # reads those as negative and the rows keep the printed sign VERBATIM, so a signed sum
@@ -465,6 +716,112 @@ def apply_itemized(ft, crows, erows, sides, it, notes):
     return warn
 
 
+# =====================================================================================
+# API ITEMIZATION ATTACHED TO A VISION TOTALS ROW (2026-08-20 office-gate repair)
+# =====================================================================================
+# The EasyVote-2022 filings are BOTH in the vision totals tranche (their printed totals live
+# only on an image-only PDF) and in the structured advanced-search API (their itemized rows
+# are born-digital). Before the office-gate repair the API half was silently dropped for
+# every filing whose OfficeGuid is absent from `offices.json`, so these filings carried
+# stated totals with a blank itemized half. Now the two halves meet on ONE row: `stated_*`
+# stays the verbatim vision read, the itemized half comes from the API, and the delta between
+# them is reported — never nudged.
+
+def api_itemized_rows_for(api, r, office, seat, rp, aliases):
+    """(ContribRow[], ExpendRow[]) for ONE filing's RAW EasyVote advanced-search rows.
+
+    SCHEMA 2/3 (and the wave-B2 precedent in `itemized_rows_for`): an itemized row carries
+    `candidate` / `election_year` / `filing_date` VERBATIM FROM index.csv — validate_finance
+    checks every row's `(candidate, election_year)` against the manifest — so this builds
+    those from `r`, not from the API's own filer metadata. Amounts, dates and party names are
+    the API's, verbatim. PRIVACY: the advanced-search payload carries NO address field of any
+    kind (verified 2026-08-20 over both files: no street/city/state/zip key exists), so
+    donor_city / donor_state / donor_district stay blank — an honest absence, not a redaction.
+    """
+    crows, erows = [], []
+    for i, row in enumerate(sorted(api.get("c", []),
+                                   key=lambda x: (x.get("ContributionDate") or "",
+                                                  x.get("ContributionAmount") or 0)), 1):
+        donor = BL.contributor_raw(row)
+        amt = row.get("ContributionAmount")
+        cr = ContribRow(candidate=r["candidate"], office=office, seat=seat,
+                        election_year=r["election_year"], filing_date=r["date"],
+                        reporting_period=rp,
+                        date=(row.get("ContributionDate") or "")[:10], donor_raw=donor,
+                        donor_city="", donor_state="", donor_district="",
+                        amount=money_str(amt), in_kind="False", is_incremental="True",
+                        source_filing=r["path"], document_id=r["document_id"],
+                        line_no=str(i), extraction_confidence="high",
+                        extract_method="easyvote_api/json",
+                        needs_review=("1" if (amt is None or not donor) else "0"))
+        normalize_contrib(cr, r["candidate"], aliases)
+        crows.append(cr)
+    for i, row in enumerate(sorted(api.get("e", []),
+                                   key=lambda x: (x.get("DistributionDate") or "",
+                                                  x.get("DistributionAmount") or 0)), 1):
+        amt = row.get("DistributionAmount")
+        er = ExpendRow(candidate=r["candidate"], office=office, seat=seat,
+                       election_year=r["election_year"], filing_date=r["date"],
+                       reporting_period=rp,
+                       date=(row.get("DistributionDate") or "")[:10],
+                       vendor_raw=BL.payee_raw(row), purpose="",
+                       amount=money_str(amt), in_kind="False", is_incremental="True",
+                       source_filing=r["path"], document_id=r["document_id"],
+                       line_no=str(i), extraction_confidence="high",
+                       extract_method="easyvote_api/json",
+                       needs_review=("1" if amt is None else "0"))
+        normalize_vendor(er)
+        erows.append(er)
+    return crows, erows
+
+
+def apply_api_itemized(ft, crows, erows, notes):
+    """Fill the itemized/reconciliation half of a VISION FilingTotals row from API rows.
+
+    Same discipline as `apply_itemized`: `stated_*` is NEVER recomputed from the rows; where
+    both figures exist the signed delta is published (`recon_delta_* = itemized - stated`) and
+    BOTH stay; |delta| <= $0.01 is the verdict rule. One extra guard this path needs and the
+    vision path does not: the vision cache states per side whether it was `transcribed` or
+    `withheld`, but the API just returns rows. Zero rows on a side is only read as a real
+    zero when the form ITSELF states $0.00 for that side; otherwise the side is left BLANK
+    (unknown), because "the feed returned nothing" and "the filer raised nothing" are
+    different facts."""
+    self_funded = sum(float(c.amount) for c in crows
+                      if c.amount and c.donor_type in ("candidate-self", "loan"))
+    if self_funded:
+        ft.self_funded_amount = money_str(self_funded)
+    for side, rows, stated_attr, sum_attr, rec_attr, delta_attr, n_attr in (
+            ("contributions", crows, "stated_total_contributions", "itemized_contrib_sum",
+             "reconciles_contrib", "recon_delta_contrib", "n_contrib_rows"),
+            ("expenditures", erows, "stated_total_expenditures", "itemized_expend_sum",
+             "reconciles_expend", "recon_delta_expend", "n_expend_rows")):
+        stated = getattr(ft, stated_attr)
+        if not rows and not (stated and abs(float(stated)) <= 0.01):
+            notes.append(f"{side}: the structured API returns NO rows for this filing while "
+                         f"the form states {stated or 'no total'} — itemization for this side "
+                         f"left BLANK (unknown), never read as a zero")
+            continue
+        setattr(ft, n_attr, str(len(rows)))
+        blanks = sum(1 for x in rows if not x.amount)
+        if blanks:
+            notes.append(f"{blanks} {side} row(s) carry no amount in the API — left blank and "
+                         f"EXCLUDED from the itemized sum, so this side is a floor")
+        total = sum(float(x.amount) for x in rows if x.amount)
+        setattr(ft, sum_attr, money_str(total))
+        if not stated:
+            notes.append(f"{side}: itemized rows from the structured API but the form states "
+                         f"no total for this side — reconciliation UNKNOWN, never assumed")
+            continue
+        delta = round(total - float(stated), 2) + 0.0
+        setattr(ft, delta_attr, money_str(delta))
+        setattr(ft, rec_attr, "True" if abs(delta) <= 0.01 else "False")
+        if abs(delta) > 0.01:
+            notes.append(f"{side} RECONCILIATION DELTA {money_str(delta)} (itemized "
+                         f"{money_str(total)} from the EasyVote structured API vs the form's "
+                         f"printed {stated}) — published VERBATIM, never adjusted; the two are "
+                         f"independent readings of the same filing")
+
+
 def build():
     offices = {o["OfficeId"].upper(): o["OfficeName"] for o in load_json("offices.json")}
     docsearch = load_json("documentsearch.json")
@@ -475,10 +832,13 @@ def build():
     doc_meta = {}
     filer_path = {}
     # map documentid -> download path via the easyvote fetch log
+    filer_officename = {}
     for line in open(os.path.join(HERE, "raw", "easyvote", "_fetch_log.jsonl")):
         r = json.loads(line)
         if r.get("documentid") and not r.get("error"):
             filer_path[r["documentid"].upper()] = r["path"]
+            if r.get("officename"):
+                filer_officename[r["documentid"].upper()] = r["officename"]
     for f in docsearch:
         for d in f["documents"]:
             did = (d.get("documentid") or "").upper()
@@ -495,8 +855,29 @@ def build():
     def base_fid(r):
         return (r.get("DocumentFilingId") or "").replace("_Redacted", "").upper()
 
-    def county_office(guid):
-        return BL.is_county_officename(offices.get((guid or "").upper(), ""))
+    # OFFICE RESOLUTION, TWO-STEP (2026-08-20 repair).
+    # `offices.json` is a snapshot of CURRENTLY-ACTIVE offices, NOT a complete historical
+    # GUID table: 12 distinct OfficeGuids that appear on itemized rows are absent from it.
+    # The old gate looked the GUID up, got "", and silently DROPPED the row — taking 1,228
+    # provably-county contributions and 479 expenditures with it (Clerk, Sheriff, Auditor,
+    # Recorder, Surveyor and four Council seats).
+    # So: the ROW's own OfficeGuid wins whenever it resolves, and only when it does NOT does
+    # the filing's own metadata (`documentsearch.json`'s filer-level `officename`, mirrored in
+    # raw/easyvote/_fetch_log.jsonl) stand in. That ORDER matters and is evidence-based:
+    # GOTCHAS' "portal labels lie" holds here too — Charlotte Fife-Jepperson's filer record
+    # says "Salt Lake County Council District 2", but her filing's own cover reads
+    # "Office Sought: Salt Lake School Board, District 2" (verified at the page, 2026-08-20),
+    # and her rows' OfficeGuid correctly resolves to 'Salt Lake School Board'. Trusting the
+    # filer label over the GUID would have pulled 73 school-board contributions into a county
+    # dataset. GUID-first also makes the change a strict SUPERSET: every row the old gate
+    # admitted is admitted on exactly the same string.
+    def officename_for(r):
+        return (offices.get((r.get("OfficeGuid") or "").upper())
+                or doc_meta.get(base_fid(r), {}).get("officename")
+                or filer_officename.get(base_fid(r), ""))
+
+    def county_office(r):
+        return BL.is_county_officename(officename_for(r))
 
     def meta_for(fid):
         return doc_meta.get(fid)
@@ -506,10 +887,10 @@ def build():
     by_filing_c = defaultdict(list)
     by_filing_e = defaultdict(list)
     for r in contribs:
-        if county_office(r.get("OfficeGuid")):
+        if county_office(r):
             by_filing_c[base_fid(r)].append(r)
     for r in distribs:
-        if county_office(r.get("OfficeGuid")):
+        if county_office(r):
             by_filing_e[base_fid(r)].append(r)
 
     all_fids = set(by_filing_c) | set(by_filing_e)
@@ -526,7 +907,7 @@ def build():
         else:
             # itemized-only filing (no documentsearch doc) -> fall back to itemized name
             cand = sample.get("displayrecipientname") or sample.get("displaycandidatename") or ""
-            office_raw = offices.get((sample.get("OfficeGuid") or "").upper(), "")
+            office_raw = officename_for(sample)
             fdate = ""
             period = ""
             skipped_no_meta.append(fid)
@@ -537,6 +918,17 @@ def build():
         return cand, office, seat, eyear, fdate, period, path
 
     skipped_no_pdf = []
+    # A filing whose stated totals come from the VISION tranche (clerk-legacy + EasyVote-2022:
+    # image-only PDFs) must end up with exactly ONE filing_totals row. Its API itemization is
+    # handed to that tranche instead of being emitted as a second, stated-total-less row.
+    # `api_docids` is the UNGATED set of filings the API carries any rows for (2026-08-24,
+    # wave W2): the new `easyvote_2024_2026` tranche era is defined as EasyVote filings with
+    # NO API rows at all — ungated, so a school-board filing whose rows the county-office
+    # gate drops (Fife-Jepperson) is still excluded from the county tranche.
+    api_docids = {base_fid(r) for r in contribs} | {base_fid(r) for r in distribs}
+    tranche_docids = tranche_document_ids(api_docids)
+    api_itemized = {}
+    routed_to_tranche = []
     for fid in sorted(all_fids):
         cl = by_filing_c.get(fid, [])
         el = by_filing_e.get(fid, [])
@@ -547,6 +939,10 @@ def build():
         # cannot be keyed to an index.csv path, so they are honestly excluded (logged).
         if not path:
             skipped_no_pdf.append((fid, cand))
+            continue
+        if fid in tranche_docids:
+            api_itemized[fid] = {"c": cl, "e": el}
+            routed_to_tranche.append(fid)
             continue
         # contributions
         c_sum = 0.0
@@ -617,13 +1013,22 @@ def build():
     # header change; the EasyVote rows' own field values are unchanged.
     n_structured = len(filing_rows)
     n_structured_c, n_structured_e = len(crows), len(erows)
-    tranche_rows, t_crows, t_erows, tstats, twarn = build_totals_tranche()
+    tranche_rows, t_crows, t_erows, tstats, twarn = build_totals_tranche(api_itemized, api_docids)
     filing_rows = filing_rows + tranche_rows
     crows = crows + t_crows
     erows = erows + t_erows
 
     geo = any(getattr(r, "geometry", "") for r in crows + erows)
-    write("contributions.csv", CONTRIB_HEADER + ([GEOMETRY_COL] if geo else []), crows)
+    # `donor_occupation` (2026-08-23, owner decision 2026-08-20) is the SECOND optional
+    # trailing column and is emitted only after `geometry`, so the header grows by a suffix
+    # and never reorders. Only the 2015-2021 paper slice populates it; if a future rebuild
+    # had no such rows the column would simply not be written and the file would revert to
+    # the wave-B2 header — the same contract `geometry` itself has.
+    occ = any(getattr(r, "donor_occupation", "") for r in crows)
+    c_header = CONTRIB_HEADER + ([GEOMETRY_COL] if geo else []) + ([OCCUPATION_COL] if occ else [])
+    if occ and not geo:                       # order is fixed; never emit occupation alone
+        c_header = CONTRIB_HEADER + [GEOMETRY_COL, OCCUPATION_COL]
+    write("contributions.csv", c_header, crows)
     write("expenditures.csv", EXPEND_HEADER + ([GEOMETRY_COL] if geo else []), erows)
     write("filing_totals.csv", TOTALS_HEADER, filing_rows)
     print(f"contributions {len(crows)} (EasyVote {n_structured_c} + vision-itemized {len(t_crows)})"
@@ -635,6 +1040,8 @@ def build():
         print(f"  !! RECONCILIATION VERDICT DISAGREEMENTS ({len(twarn)}) — transcriber vs arithmetic:")
         for w in twarn:
             print("     " + w)
+    print(f"API itemization routed onto a vision totals row (one row per filing): "
+          f"{len(routed_to_tranche)} filings")
     print(f"itemized-only filings (no documentsearch meta): {len(set(skipped_no_meta))}")
     print(f"excluded (no downloaded PDF, e.g. Training Candidate): {len(skipped_no_pdf)} -> {skipped_no_pdf}")
     tot_c = sum(float(r.amount) for r in crows if r.amount)

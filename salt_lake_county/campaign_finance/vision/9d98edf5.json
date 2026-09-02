@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2023-01-30",
+   "vendor_raw": "RICHARD D.M. BARNES (SELF/CANDIDATE)",
+   "purpose": "LOAN REPAYMENT",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.19,23.68,77.16,3.68@p4",
+   "note": "filer annotation '(SELF/CANDIDATE)' is part of the recipient cell; Summary line 2 Column A prints the same magnitude as a negative parenthetical '-(25 00)'"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "-(25.00)",
  "beginning_balance": "25.00",
@@ -49,6 +64,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten. BOTH the Year-End and the Final/Dissolution boxes are checked. Line 2 Column A is written as a leading minus sign plus accounting parentheses around 25 with superscript cents: -(25 00); kept verbatim as \"-(25.00)\". Line 6 carries the same -(25.00). Lines 1 and 7 Column A are slashed Os = 0. The word \"OUT-\" is scrawled above the District Number cell next to the \"1\". Line 2 Column B (605.26) differs from the 580.26 aggregate expenditures shown on this filer's earlier reports - kept verbatim."
+  "notes": "Handwritten. BOTH the Year-End and the Final/Dissolution boxes are checked. Line 2 Column A is written as a leading minus sign plus accounting parentheses around 25 with superscript cents: -(25 00); kept verbatim as \"-(25.00)\". Line 6 carries the same -(25.00). Lines 1 and 7 Column A are slashed Os = 0. The word \"OUT-\" is scrawled above the District Number cell next to the \"1\". Line 2 Column B (605.26) differs from the 580.26 aggregate expenditures shown on this filer's earlier reports - kept verbatim.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A struck 'NONE TO REPORT' across the grid; SUBTOTAL and TOTAL print zero glyphs (\u00d8 \u2192 0); Summary line 1 Column A is a slashed \u00d8 zero glyph; zero rows emitted - a real zero at this filing"
+    },
+    "expenditures": {
+     "stated": "-(25.00)",
+     "schedule_total": "25.00",
+     "itemized": "25.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "1 row 25.00 = printed page subtotal 25.00 = printed TOTAL 25.00; Summary line 2 Column A prints the SAME figure as a negative parenthetical '-(25 00)' - the filer books the loan repayment to self as a contra on the Summary while Schedule B itemizes it positive; magnitude exact, sign convention noted, both figures retained verbatim"
+    }
+   },
+   "page_subtotal_gates": "p4 rows 25.00 = printed subtotal 25.00 (fires, closes); p3 zero rows vs printed zero-glyph subtotal \u00d8 (consistent)",
+   "escalations": 1,
+   "escalation_note": "p4 row 1 re-read in a 600 dpi cell crop; read identically",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2022 form, wholly handwritten; Final/Dissolution box checked (year-end box also checked) signed Jan. 30, 2023, received JAN 30 2023. Chunk priors (c empty-schedule / e 1 row county-form) confirmed at the page."
+  }
  }
 }

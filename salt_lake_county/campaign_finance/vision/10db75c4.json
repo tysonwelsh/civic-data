@@ -1,0 +1,130 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2015-10-29",
+   "donor_raw": "BEN McADAMS",
+   "occupation": "MAYOR - SL COUNTY",
+   "amount": "3,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.18,22.59,88.47,3.82@p3",
+   "note": "Occupation/Employer cell was first written 'SELF EMPLOYED', that entry STRUCK THROUGH with several horizontal pen strokes, and 'MAYOR - SL COUNTY' written beneath it; the unstruck value is the one captured and the strike is recorded here (the struck text is legible at 900 dpi and read 'SELF EMPLOYED'). The Complete Mailing Address cell is NOT redacted at source but holds a workplace/building descriptor for the county government complex rather than a mailing address - no street, no PO box, no ZIP - so no geography is derivable and donor_city/donor_state are honestly blank. Amount written without cents as '3,000'."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2015-10-29",
+   "vendor_raw": "LOVE COMMUNICATIONS",
+   "purpose": "ADVERTIZING",
+   "amount": "3,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.00,24.50,80.88,3.50@p4",
+   "note": "Date written '10-29-15'. The recipient name is block capitals run together; at 1200 dpi the third glyph reads as a rounded-bottom U. Adjudicated WITHIN THIS PAGE, not from any sibling document: the same filer's Purpose cell on the same row spells ADVERTIZING, and its third letter is drawn with the identical rounded bottom - this hand draws V as a rounded glyph, so the name is LOVE COMMUNICATIONS. Purpose kept verbatim with the filer's own spelling ADVERTIZING (Z, not S). Amount written without cents as '3,000'."
+  }
+ ],
+ "total_contributions": "3,000",
+ "total_expenditures": "3,000",
+ "beginning_balance": "100.21",
+ "ending_balance": "100.21",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "3,100.21"
+ },
+ "cover": {
+  "candidate": "JIM BRADLEY",
+  "party": "D",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-16",
+  "form_year": "2015"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2015_disclosures__2015_year_end__jim_bradley2015ye.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "JIM BRADLEY",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2015_disclosures__2015_year_end__jim_bradley2015ye.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "PAIRED FILING - READ WITH 4478799f. This is the ORIGINAL year-end; 4478799f is Jim Bradley's AMENDMENT of the same year-end period (its cover ticks 'Yes, this is an amendment', date of report 1-31-16). The two are kept as SEPARATE records per AGENT_BRIEF s1(4); no figure from either was copied onto the other. CHUNK-FILE DISAGREEMENT: the chunk file gives seat 'At-Large C', but this FORM states no seat - the Office cell reads 'SALT LAKE COUNTY COUNCIL' and BOTH 'Office Sought' and 'District Number' are left entirely blank. The seat is an index.csv attribution, not a form fact, and cover.office_sought is '' accordingly. Political Party is written as the single letter 'D'. The Year-End (January 31) box is ticked with an X drawn across it; the amendment question is left entirely blank (neither Yes nor No), so is_amendment is ''. Column B (Aggregate Total) is blank on every Summary line - totals_to_date are '' (filer left blank), never 0. The Summary Page, Schedule A and Schedule B header boxes (Page _ of _, Last Name, Date of Report) are ALL BLANK on this filing - only the cover carries a date. Amounts are written without cents ('3,000', '$3,000'); per the currency contract a 3-digit trailing group is thousands, so these are three thousand dollars and are kept verbatim as printed. CHUNK-FILE FLAG - 'UNREDACTED contributor address cell on Schedule A' - VERIFIED PRESENT BUT BENIGN: the Complete Mailing Address cell is indeed NOT covered by the county's black bar, but what the filer wrote there is a workplace/building descriptor for the county government complex, not a street address, PO box or ZIP - there is no house number, no street name and no postal code anywhere in the cell. Nothing from that cell is reproduced in this record; donor_city/donor_state stay blank because no city or state is printed, and the row note records that the cell was left unredacted and holds a workplace descriptor. CROSS-DOCUMENT OBSERVATION (recorded, not used to set any value): this chunk's McAdams year-end 9e3ec673 lists on its own expenditure attachment '10/29/2015 | Jim Bradley for Council | Contribution | 3,000.00', the mirror image of this filing's single Schedule A row - the two filings independently record the same transfer.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "3,000",
+     "schedule_total": "$3,000",
+     "itemized": "3000.00",
+     "basis": "schedule-grand-total",
+     "result": "exact",
+     "detail": "The single Schedule A row is 3,000 = the printed TOTAL CONTRIBUTIONS RECEIVED cell '$3,000' = Summary Page line 1 Column A '3,000'. The SUBTOTAL FOR THIS PAGE cell is printed but LEFT BLANK (confirmed empty in a 900 dpi crop), so only the schedule grand total and the Summary figure are available; both agree. No in-kind marker on the page."
+    },
+    "expenditures": {
+     "stated": "3,000",
+     "schedule_total": "",
+     "itemized": "3000.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "The single Schedule B row is 3,000 = Summary Page line 2 Column A '3,000'. BOTH Schedule B footer cells - SUBTOTAL FOR THIS PAGE and TOTAL EXPENDITUTRES MADE - are printed but LEFT BLANK (confirmed empty in a 900 dpi crop), so schedule_total is '' by the filer leaving it blank, and the Summary figure is the only anchor."
+    }
+   },
+   "page_subtotal_gates": "Neither schedule offers a page-subtotal gate: p3 SUBTOTAL blank (its TOTAL cell IS filled, $3,000, and was used instead); p4 SUBTOTAL and TOTAL both blank (gated on Summary line 2). Both blank-footer states were confirmed at 900 dpi rather than assumed from the 200 dpi page.",
+   "escalations": 6,
+   "escalation_note": "900 dpi cell crops: p3 row-1 date/name/address group, p3 row-1 occupation+amount group (settles the struck-through occupation), p3 SUBTOTAL+TOTAL footer cells; p4 row-1 full band, p4 amount cell, p4 SUBTOTAL+TOTAL footer cells. Plus one 1200 dpi crop of the p4 recipient name and one of the p4 purpose cell to adjudicate the filer's U/V letterform (see notes).",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PAIRED FILING - READ WITH 4478799f. This is the ORIGINAL year-end; 4478799f is Jim Bradley's AMENDMENT of the same year-end period (its cover ticks 'Yes, this is an amendment', date of report 1-31-16). The two are kept as SEPARATE records per AGENT_BRIEF s1(4); no figure from either was copied onto the other. CHUNK-FILE DISAGREEMENT: the chunk file gives seat 'At-Large C', but this FORM states no seat - the Office cell reads 'SALT LAKE COUNTY COUNCIL' and BOTH 'Office Sought' and 'District Number' are left entirely blank. The seat is an index.csv attribution, not a form fact, and cover.office_sought is '' accordingly. Political Party is written as the single letter 'D'. The Year-End (January 31) box is ticked with an X drawn across it; the amendment question is left entirely blank (neither Yes nor No), so is_amendment is ''. Column B (Aggregate Total) is blank on every Summary line - totals_to_date are '' (filer left blank), never 0. The Summary Page, Schedule A and Schedule B header boxes (Page _ of _, Last Name, Date of Report) are ALL BLANK on this filing - only the cover carries a date. Amounts are written without cents ('3,000', '$3,000'); per the currency contract a 3-digit trailing group is thousands, so these are three thousand dollars and are kept verbatim as printed. CHUNK-FILE FLAG - 'UNREDACTED contributor address cell on Schedule A' - VERIFIED PRESENT BUT BENIGN: the Complete Mailing Address cell is indeed NOT covered by the county's black bar, but what the filer wrote there is a workplace/building descriptor for the county government complex, not a street address, PO box or ZIP - there is no house number, no street name and no postal code anywhere in the cell. Nothing from that cell is reproduced in this record; donor_city/donor_state stay blank because no city or state is printed, and the row note records that the cell was left unredacted and holds a workplace descriptor. CROSS-DOCUMENT OBSERVATION (recorded, not used to set any value): this chunk's McAdams year-end 9e3ec673 lists on its own expenditure attachment '10/29/2015 | Jim Bradley for Council | Contribution | 3,000.00', the mirror image of this filing's single Schedule A row - the two filings independently record the same transfer."
+  }
+ }
+}

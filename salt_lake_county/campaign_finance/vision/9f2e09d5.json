@@ -1,0 +1,101 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "3253.34",
+ "ending_balance": "3253.34",
+ "aggregate": {
+  "total_contributions_to_date": "112229.36",
+  "total_expenditures_to_date": "87376.02",
+  "line5_subtotal": "3253.34"
+ },
+ "cover": {
+  "candidate": "Carlos Moreno",
+  "party": "Republican",
+  "office_sought": "County Council District",
+  "district_number": "2",
+  "report_type": "Year-End Report (January 31)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/31/25",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Moreno-Carlos__F6C587F1.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Moreno, Carlos ",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Moreno-Carlos__F6C587F1.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Form titled '2020 Financial Disclosure Report For a Candidate' filed 01/31/25 for the 2024 cycle year-end. Two pages only: cover + Summary; no Schedule A or B exists. Column A $0.00 on lines 1/2; Column B aggregates $112,229.36 / $87,376.02 are cycle-to-date. Chunk file stated_contrib/stated_expend $0.00/$0.00 match Column A.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {
+    "contributions": "",
+    "expenditures": ""
+   },
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page in the document; Summary line 1 Column A is $0.00, so no contradiction"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page in the document; Summary line 2 Column A is $0.00, so no contradiction"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages; nothing to gate",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Form titled '2020 Financial Disclosure Report For a Candidate' filed 01/31/25 for the 2024 cycle year-end. Two pages only: cover + Summary; no Schedule A or B exists. Column A $0.00 on lines 1/2; Column B aggregates $112,229.36 / $87,376.02 are cycle-to-date. Chunk file stated_contrib/stated_expend $0.00/$0.00 match Column A."
+  }
+ }
+}

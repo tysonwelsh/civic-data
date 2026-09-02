@@ -135,28 +135,115 @@ entity, append to the registry + `registry/relationships.csv` and regenerate
 - **Public comments across cities**: `gov.db` `comment` table (+ `fts_comment`);
   the per-city CSVs remain canonical.
 - **Campaign finance** (who funded whom; money vs votes): `gov.db` `cf_contribution`
-  / `cf_expenditure` / `cf_cycle` / `cf_candidate_person` (joins donors to `person` →
-  `vote`). **Never sum `cf_filing` dollar columns** — filings overlap (interim +
-  summary); `cf_cycle` is the only sanctioned per-candidate total — **and cf_cycle is
-  CITY-ONLY** (county rollups deliberately not derived; design lead in LEADS.md). **The
-  layer spans TWO tiers** (county tier added 2026-08-01; vision-totals tranche completed
+  / `cf_expenditure` / `cf_cycle` / `cf_cycle_county` / `cf_candidate_person` (joins donors
+  to `person` → `vote`). **Never sum `cf_filing` dollar columns** — filings overlap (interim
+  + summary). **There are TWO sanctioned cycle tables and they are DIFFERENT
+  MEASUREMENTS**: `cf_cycle` is **CITY-ONLY** (805 rows / 29 cities; `basis` =
+  `max(latest summary, summed interims)` of stated totals, no carryover concept), and
+  **`cf_cycle_county` is the COUNTY tier** (1,008 candidate-cycles, built 2026-08-23,
+  regenerated 2026-09-01 after wave W2 —
+  `scripts/campaign_finance/COUNTY_CYCLE_REDUCER_SPEC.md`), derived per cycle from that
+  cycle's **own printed arithmetic** via a balance-chain closure proof, carrying `regime`
+  (per-period / cumulative / *-single / undetermined), a **separated `carryover_opening`
+  that is never folded into the raised figure**, `is_floor`=1 where the number is a provable
+  LOWER BOUND (222 rows), `governing_filings` (every figure re-derivable from exactly those
+  filings), and **351 honest GAP rows** — blank figures + a `gap_reason`, a gap and never a
+  zero (657 of 1,008 publish a figure). ⚠ **Never sum a cumulative snapshot or a restating
+  ledger** — a cumulative cycle's total is the LATEST governing report (summing summit's
+  Brickey 2014 gives 32,400.00 where the truth is 16,800.00). `v_cf_cycle_all` unions the
+  two tiers deliberately and carries the `cf-cycle-tiers` caveat on every row; read
+  `basis`/`regime` and `is_floor` before ranking across tiers. Both layers are **DERIVED** —
+  `cycle_totals.py --all` (cities) / `cycle_totals_county.py --all` (counties), never
+  hand-edited. **The layer spans TWO tiers** (county tier added 2026-08-01; vision-totals tranche completed
   2026-08-02): 29 of 31 cities structured, plus all 8 counties' per-filing STATED TOTALS
-  federated into `cf_filing` (salt_lake 834 · utah 265 · cache 239 · washington 206 ·
+  federated into `cf_filing` (salt_lake 1,112 · utah 265 · cache 239 · washington 206 ·
   summit 131 · wasatch 111 · weber 98 · juab 27 — every cover vision-read; offices
   Commission/Council, Mayor, Sheriff, Clerk, Auditor, Attorney, Assessor, Recorder,
-  Treasurer, Surveyor, back to 2006). County ITEMIZED rows come from salt_lake's EasyVote
-  2024/2026 API data, juab's 3 transcribed 2020 filings, the **born-digital parser sweep**
-  (1,311 geometry-anchored rows over 82 machine-readable filings, 2026-08-02), and the
+  Treasurer, Surveyor, back to 2006). County ITEMIZED rows come from salt_lake's **2015-2021 paper slice** (130 filings / 6,028 rows, vision, closed 2026-08-23 — the only source of `donor_occupation`), its EasyVote
+  **2022/2024/2026** API data (197 filings — an office-gate bug that silently dropped rows
+  keyed to 12 historical `OfficeGuid`s was repaired 2026-08-20; contributions
+  19,702→20,930, expenditures 11,403→11,882, zero rows lost, all `stated_*` byte-identical),
+  juab's 3 transcribed 2020 filings, the **born-digital parser sweep**
+  (2026-08-02; washington's share of it was re-parsed and superseded 2026-08-23, below), and the
   **wave-B2 vision itemization of SLCo's handwritten legacy era — QUEUE CLOSED 2026-08-03**
   (22,871 rows over 496 of 496 clerk-legacy filings, double-gated + geometry-anchored;
   855 sides exact-reconciled, 80 filer-arithmetic deltas verbatim, 8 sides across 5
-  filings are documented no-schedule-page gaps ~$121k/$120k). **FOUR MORE COUNTIES CLOSED
+  filings are documented no-schedule-page gaps ~$121k/$120k). **SALT LAKE COUNTY'S EASYVOTE
+  ERA IS NOW CLOSED TOO — wave W2, verified + federated 2026-09-01.** The queue was DERIVED
+  (every EasyVote filing with no rows in the advanced-search API): **240 filings = 238
+  transcribed + 2 school-board filings ledgered OUT OF SCOPE**, delivering **18,240 rows**
+  (11,852C + 6,388E, 100% `pct:` geometry) and **141 previously-missing covers** — so
+  `cf_filing` for the county went 971 → **1,112** and every document the county holds now has
+  both halves it can have. Per SIDE (480): **359 exact · 33 delta-with-cause · 82 `none` ·
+  2 unknown · 4 out-of-scope; ZERO withheld.** 78 contribution amounts are blank BY SOURCE
+  (77 of them Wilson `B5D1F91C`, whose county bar spans the Amount column on pp.3/6 — that
+  side is a documented FLOOR). ⚠ **This is the FIRST non-Claude transcription in `gov.db`**:
+  its rows carry `extract_method = 'vision-itemized/W2 EasyVote residue (2026-08-24;
+  kimi-k3)'` (658 rows say `chunk resumed 2026-08-24 by claude-opus-5`). Its
+  **2015–2021 PAPER SLICE closed earlier**
+  (harvested 2026-08-20, transcribed 2026-08-23 by wave W1): **130/130 filings, 717 pages,
+  6,028 rows** (3,422C + 2,606E), 0 withheld, 0 amounts blank for illegibility. ⚠ CORRECTED
+  2026-09-01 — the paper slice is **no longer the only** source of
+  **`cf_contribution.donor_occupation`**: W2 found the same Occupation/Employer field on the
+  EasyVote forms and filer attachments, so the column now carries **12,517 rows repo-wide**
+  (W2 10,225 + paper slice 2,292). NULL still means the form has no such field, the filer
+  left it empty, or it was redacted — the row note says which. ⚠ Two semantic traps ride the
+  paper slice's rows: a **SCHEDULE-SCOPE SPLIT**
+  on 5 filings whose printed schedule total and Summary figure measure different things
+  (in-kind included vs excluded, or cumulative vs per-period) — those publish BOTH figures with
+  `reconciles_*` deliberately BLANK — and one filer whose Summary Column A is itself cumulative.
+  **The scope test must be run PER PAGE**: the same filer flips convention between his original
+  and his amendment. Also **one duplicate pair** (a second scan of one Schedule B sheet, sha256-
+  distinct) that must never be summed. What remains unacquired for 2015–2021 is the **251
+  online-filed reports, GRAMA-only** (the county portal application is DEAD, not WAF-blocked —
+  corrected 2026-08-20); they are COMPLEMENTARY, since 34 of the 54 portal filers have no
+  clerk-page PDF at all. **FOUR MORE COUNTIES CLOSED
   2026-08-14..18** (Phase B waves, same B2 contract): **juab 27/27** (187 rows) ·
   **wasatch 111/111** (851) · **summit 131/131 filings, queue closed 2026-08-17**
   (2,600 vision rows, 100% geometry; 5 sides withheld with stated reasons) ·
   **weber 98/98, closed 2026-08-18** (2,616 rows, 100% geometry, ZERO withheld).
-  Still NOT itemized beyond their born-digital slices: **utah, cache (pre-2022),
-  washington** — empty itemized there = NOT TRANSCRIBED, never "no donors". Salt Lake CITY's first
+  **UTAH — THE LARGEST PHASE B CORPUS — CLOSED 2026-08-20**: 245/245 scanned filings over 247
+  reports, **6,513 rows** (2,884C + 3,629E), 100% geometry, **ZERO withheld**; 342 of 389
+  transcribed sides close EXACTLY, 34 filer-arithmetic deltas retained verbatim, and 11
+  `cumulative-exact` sides leave `reconciles_*` honestly BLANK (the schedule restates the whole
+  cycle — a DIFFERENT SCOPE from the per-period figure utah publishes; comparing them is a basis
+  error). ⚠ **utah's regime is PER-PERIOD and INVERTED** relative to summit/weber.
+  **WASHINGTON — THE PARSER TRANCHE, CLOSED 2026-08-23** (the one Phase-B county that was
+  mostly machine-readable, so no page was read): its queue derived from `index.csv` is
+  **106 machine-readable filings of 206** — 102 born-digital Summary+ledger sets plus 4
+  ledger-only 2008 postings — against **100 image-faced handwritten cover forms** (95 the
+  index calls `scanned` PLUS **5 it mislabels `text`**, where a stamped transmittal note is the
+  only text layer). All 102 sets parsed: **3,256 rows** (1,518C + 1,738E) over 101 filings,
+  cycles 2010/2012/2014, **100% geometry** (2,659 `.xls` cell refs + 597 `pct:` boxes measured
+  from `pdftotext -bbox-layout`), superseding the 489-row 2026-08-02 slice with **every
+  previously-published row preserved at an identical amount and 0 of 206 `stated_*` moved**.
+  Of 204 sides: 57 `stated-exact`, **63 `cumulative-exact` with `reconciles_*` honestly BLANK**
+  (same basis rule as utah), 42 filer-arithmetic deltas published verbatim, 41 empty schedules,
+  **1 withheld** (a `$5,00.00` export typo that is never repaired). ⚠ **washington's LEDGERS
+  RESTATE THE CYCLE TO DATE** — rows carry `is_incremental=False` and the 3,256 rows hold only
+  676 distinct donations + 758 distinct payments, so **never sum them across a cycle**.
+  **CACHE AND WASHINGTON BOTH CLOSED 2026-08-24 — the Phase-B final wave; with salt_lake's
+  W2 residue closed 2026-09-01, THE COUNTY ITEMIZATION PROGRAMME IS COMPLETE for every
+  document the repo has acquired.** washington's **100 handwritten
+  cover forms** (530C + 778E, 100% geometry, **0 withheld**, 173 of 200 sides exact) and cache's
+  **176 of 176 remaining distinct documents** (556C + 1,119E transcribed → 756/1,466 published
+  after the byte-duplicate fan-out, 100% geometry, **0 withheld**, 282 of 352 sides exact) were
+  read from page images; **every document either county holds is now itemized**, and cache's
+  born-digital `cache_cfd` gaps closed with them. Both counties' queues were re-derived from the
+  primary files rather than inherited, both rebuild byte-identical, `validate_finance` PASSes on
+  both, and **no `stated_*` figure and no published `cf_cycle_county` total moved** (the
+  itemized cross-check improved instead: washington 0→15 cycles cross-checked, cache 5→50).
+  ⚠ Three per-county traps ride these rows: **Form "A" itemizes only contributions OVER $50**, so
+  a side is scored against the cover's line 1, never against `stated_total_contributions`
+  (= line 1 + the never-itemized ≤$50 aggregate); **scope is decided PER FILING** from which
+  printed cell the rows equal, so a `reconciles_*` left BLANK is a different SCOPE and not a
+  failure; and cache carries **TWO duplicate classes** — 42 byte-identical index rows AND 26
+  same-report-different-bytes `CONTENT-DUPLICATE` filings that `sha256` cannot see.
+  Nothing acquired is left un-itemized in the county tier. The one remaining county-tier
+  ACQUISITION gap is salt_lake's **251 online-filed 2015–2021 reports, GRAMA-only** (dead
+  portal application). Empty itemized
+  anywhere in the county tier = NOT TRANSCRIBED, an EMPTY SCHEDULE, or a PDF with no schedule
+  page at all — never "no donors". Salt Lake CITY's first
   CF rows also exist (2003 cycle, **10 filings / 248+176 rows** after the 2026-08-14
   IA-interstitial retry cleared the last 2 blocked filings — see slc's caveat). Read
   each county's `cf-*` caveat row + `campaign_finance/AVAILABILITY.md` before comparing

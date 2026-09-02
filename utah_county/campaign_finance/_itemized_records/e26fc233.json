@@ -1,0 +1,67 @@
+[{
+ "index_path": "raw/2022/2022_Williams_Taylor_5.9.2022_Redacted.pdf",
+ "key": "e26fc233",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah, chunk r12_03)",
+ "transcribed_date": "2026-08-20",
+ "pages_read": [1, 2, 3, 4, 5, 6],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' (864.95) on the p4 Summary Page — THE SIDE'S ONLY ANCHOR, because BOTH of Schedule A's own printed footers ('Subtotal for this page $ ____' and 'Total Contributions Received $ ____') were left WHOLLY BLANK by the filer (the ADDENDUM I4 case)",
+   "detail": "ONE Schedule A row of 864.95 = the promoted PER-PERIOD Box B 864.95, corroborated inside the same summary by Box F 'Subtotal before Expenditures (Box A + Box B)' 864.95 with Box A 0. The schedule prints NO subtotal and NO total, so unlike every other side in this chunk there is no second independent anchor on the schedule itself — said loudly here rather than glossed. Box C 'Contributions Received Year to Date' prints 3488.45 and is CUMULATIVE — never summed as an increment, and never differenced against the filer's other report to synthesize anything."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' (864.95) on the p4 Summary Page, which equals Schedule B's own printed 'Subtotal for this page $ 864.95' and 'Total Expenditures Made (Sum of all Schedule B Pages in this report) $ 864.95'",
+   "detail": "4 Schedule B rows sum to 724.84 + 26.53 + 97.50 + 16.08 = 864.95 exactly = the printed page subtotal = the printed Total Expenditures Made = the promoted per-period Box D. (Running: 724.84 -> 751.37 -> 848.87 -> 864.95.) Box E YTD prints 3488.45 and is cumulative, never summed. The ladder closes: F 864.95 - D 864.95 = the printed Box G 0. Rows 5-15 of the boxed grid are empty (crop-proved)."
+  }
+ },
+ "in_kind_convention": "monetary-only — and the pairing was read, not assumed: this is the newer 2022 blank with a per-row IN-KIND CHECKBOX column, and per ADDENDUM J1 the Amount and In-Kind cells were cropped TOGETHER as one block on every proof crop. All 30 checkboxes across the two grids are UNTICKED, and no cell carries an in-kind word or annotation, so both conventions give the same sums (864.95 / 864.95) and both close. Tested on this filing: the same filer's OTHER filing in this chunk (a14994b8) is on a different blank with no checkbox column at all, so nothing was carried between them.",
+ "escalations": 2,
+ "escalation_note": "Two 900 dpi escalations, taken for the geometry proof and for the In-Kind pairing rather than to settle a doubtful glyph — the form is born-digital fillable, printed and scanned, and every figure is machine type legible at 200 dpi. Note this filer types cents inconsistently ACROSS his own two filings: '97.5' on the 4/1/2022 report and '97.50' for the same CallHub text-message charge here. Each is recorded exactly as its own page prints it; neither was normalized to match the other.",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [73.49, 86.23],
+   "cells": [[9.82, 22.61], [22.61, 48.05], [48.05, 73.49], [73.49, 86.23], [86.23, 91.73]],
+   "rows": [[15.89, 19.84], [19.84, 23.89], [23.89, 27.89], [27.89, 31.84], [31.84, 35.84], [35.84, 39.82], [39.82, 43.84], [43.84, 47.80], [47.80, 51.78], [51.78, 55.80], [55.80, 59.75], [59.75, 63.73], [63.73, 67.75], [67.75, 71.71], [71.71, 75.73]],
+   "measure_note": "modern_boxAF (NEWER unversioned 2022 blank) Schedule A, a fully BOXED 15-row grid — a row lies BETWEEN its own two rules and nothing is extrapolated. rowbands.py (raw frame, skew +0.3) returned every rule cleanly: 12.46 is the top of the COLUMN-HEADING strip (Date / Name of Contributor / City and State / Amount / In-Kind), 15.89 is the grid's first data rule, and the data grid runs 15.89 through 75.73 at a ~4.0 pitch with NO missing rule and NO band ~2x the pitch; 89.64 is the Name-of-Candidate box. v_rules 9.82 / 22.61 / 48.05 / 73.49 / 86.23 / 91.73 give all FIVE columns including the In-Kind checkbox band 86.23-91.73. TWO-CROP PROOF at 900 dpi with Amount and In-Kind cropped as ONE block (J1): the row-1 box pct:73.4,15.89,18.4,3.95@p2 rendered '864.95' beside an UNTICKED checkbox (recorded 864.95) — the only transcribed row, so also the last — and the B5 NEGATIVE CONTROL one band past, pct:73.4,19.84,18.4,4.05@p2, rendered an EMPTY amount cell with an unticked checkbox."
+  },
+  "3": {
+   "axis": "y",
+   "cell": [72.90, 85.61],
+   "cells": [[9.23, 22.50], [22.50, 47.46], [47.46, 72.90], [72.90, 85.61], [85.61, 90.99]],
+   "rows": [[15.36, 19.39], [19.39, 23.34], [23.34, 27.32], [27.32, 31.34], [31.34, 35.29], [35.29, 39.32], [39.32, 43.29], [43.29, 47.23], [47.23, 51.27], [51.27, 55.23], [55.23, 59.18], [59.18, 63.23], [63.23, 67.18], [67.18, 71.18], [71.18, 75.18]],
+   "measure_note": "Same boxed 15-row grid on Schedule B (skew -0.4, pitch ~3.99). rowbands.py returned all sixteen grid rules cleanly, 15.36 through 75.18, no interpolation and no doubled band; 89.32 is the candidate box. v_rules 9.23 / 47.46 / 72.90 / 85.61 / 90.99 — the Date|Provider rule was not detected, so the 22.50 boundary in `cells` is carried from p2's own 22.61 and is provenance-only; the AMOUNT band 72.90-85.61 and the In-Kind band 85.61-90.99 are crop-proved. TWO-CROP PROOF at 900 dpi, Amount+In-Kind together: the row-1 box pct:72.9,15.36,18.1,4.03@p3 rendered '724.84' with an unticked checkbox (recorded 724.84) and the last transcribed row's box pct:72.9,27.32,18.1,4.02@p3 rendered '16.08' with an unticked checkbox (recorded 16.08, row 4). B5 NEGATIVE CONTROL one band past: pct:72.9,31.34,18.1,3.95@p3 rendered an EMPTY cell — the ledger stops at row 4 and nothing continues below the last printed rule."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 2, "row": 1, "date": "4/11",
+   "donor_raw": "Taylor Wiliams", "amount": "864.95", "in_kind": false,
+   "confidence": "medium", "verified": 1, "needs_review": 1,
+   "note": "the candidate's own self-contribution. NAME KEPT VERBATIM as typed on this page — 'Taylor Wiliams', with a single l, where the cover and the Name-of-Candidate boxes print 'Taylor Williams'; the filer's own typo is not corrected. DATE HAS NO YEAR (bare '4/11') — verbatim, and a year is NEVER filled in from the report date. CITY AND STATE HONESTLY BLANK for two compounding reasons visible on the page: the county REDACTED the cell with a black bar, and what survives beside the bar is a bare ZIP ('84045') with no city and no state — a zip is never converted into a city. In-Kind checkbox UNTICKED (cropped together with the amount)."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "4/1",
+   "vendor_raw": "Skymailint", "purpose": "Mailer", "amount": "724.84",
+   "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1,
+   "note": "bare M/D date, no year — verbatim, no year inferred. Vendor typed 'Skymailint' as on the filer's other report; kept verbatim."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "4/22",
+   "vendor_raw": "CallHub", "purpose": "Phone provider", "amount": "26.53",
+   "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1,
+   "note": "bare M/D date, no year — verbatim, no year inferred"},
+  {"line_no": "3", "page": 3, "row": 3, "date": "4/6",
+   "vendor_raw": "CallHub", "purpose": "Text Message", "amount": "97.50",
+   "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1,
+   "note": "bare M/D date, no year. Amount printed here with full cents ('97.50') where the same filer typed '97.5' for a same-named charge on his other report — each recorded as its own page prints it."},
+  {"line_no": "4", "page": 3, "row": 4, "date": "4/1",
+   "vendor_raw": "SendGrid", "purpose": "Email Provider", "amount": "16.08",
+   "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1,
+   "note": "bare M/D date, no year — verbatim, no year inferred"}
+ ],
+ "notes": "Taylor Williams, 2022 cycle, '30 Days after withdrawal or elimination' (radio filled on p1); amendment answered 'No'; signed and filed 5/9/2022. Born-digital fillable modern_boxAF form, printed and scanned. THIS IS THE NEWER UNVERSIONED 2022 BLANK (ADDENDUM J1) — verified on the page and materially different from the SAME FILER'S OWN EARLIER v. 4.20 report (key a14994b8) six weeks before: Schedule A's third column is 'CITY AND STATE' (not 'Address and Zip Code'), both schedules carry a per-row IN-KIND CHECKBOX column, the close box is LETTERED 'G', the cover offers SIX report types including 'End-of-Year Report', the affirmation block is headed 'Affirmation' (the v. 4.20 sheet mislabels it a second 'Type of Report'), the cover's date fields are 'Date' + 'Date of Filing' with NO Page/of foliation box anywhere, and the masthead rule is printed in colour. ONE FILER USED BOTH 2022 BLANKS SIX WEEKS APART — the J1 observation, confirmed again here. No version string is printed in the footer. pdfinfo: 6 pages, letter, ALL /Rotate 0 — read before measuring per K1. Pages classified BY CONTENT: p1 cover, p2 Schedule A, p3 Schedule B, p4 Summary Page, p5 CHECKLIST, p6 blank. ⚠ NEW SOURCE PROPERTY — A THIRD CHECKLIST REVISION EXISTS. ADDENDA J2/L4 record TWO checklist revisions (the plain one and the HOLD/#1/#2 one). The checklist bound at p5 here is NEITHER: its corner box offers only TWO options, 'Website' and 'Network', with NO 'HOLD' line; its title is set in black mixed-case ('Campaign Financial Disclosure Checklist') rather than the all-caps blue of the other revision; its staff boxes are labelled plain 'Staff Signature' with no #1/#2; and its summary-page sub-items are worded differently ('Balance at Beginning of REPORTING PERIOD' and a final 'Balance at Close of Reporting Period' where the HOLD revision reads 'Balance at Beginning of Period' and 'POSITIVE balance at Close'). Both review copies on the sheet are dated 5/18/2022 — one signed in blue with a legible staff name, one in red — and BOTH corner boxes are unticked. That makes THREE revisions in the 2022 cycle alone, and it further weakens the 'revision is a date signal' idea already withdrawn in L4: this 5/18/22 review uses a layout the 4/4-4/6/22 reviews in this same chunk did not. ALSO: the summary page here sits at p4 and the checklist at p5, matching the common pattern, while the same filer's earlier report put the checklist at p9 of a duplex scan — the position is a property of the SCAN, not of the filing. ROW-INDEX TRAPS: all six screened, none present — first entry on band 1 on both schedules (crop-proved), no continuation lines, no voided rows, no banner, one-band-past controls empty on both pages, complete rule sets so no doubled band. FIELD-SHIFT SCREEN: passed — vendors in the Provider/Vendor column, purposes in the Purpose column, assignable by content. SUMMARY-BOX PAIRING SCREEN (L1): both sides carry the identical 864.95, so arithmetic alone cannot see a crossed pairing; the pairing is confirmed by CONTENT (Schedule A holds the candidate as a donor; Schedule B holds four service vendors) and by each sheet's printed heading. OBSERVATION, USED TO GATE NOTHING: Box C/E cumulative 3488.45 equals this report's 864.95 plus the 2623.50 stated on the same filer's 4/1/2022 report — noted only because it is the filer's own arithmetic and it is consistent; no figure here was derived by differencing or adding two covers, and each report was transcribed independently. PRIVACY: the county redacted the candidate's own address block on p1 (his signature is NOT redacted on this filing, unlike his earlier one — redaction is per-document and per-cell, ADDENDUM K4) and the single donor address cell on p2; only a bare zip survives there and no city was inferred from it."
+}]

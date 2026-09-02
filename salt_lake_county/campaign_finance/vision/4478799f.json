@@ -1,0 +1,138 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2015-10-26",
+   "donor_raw": "Ben McAdams",
+   "occupation": "SL Co. Mayor",
+   "amount": "3000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.29,23.55,88.12,3.00@p3",
+   "note": "Amount printed '3000.-' - a trailing dash after whole dollars, so no cents, recorded as 3000.00 per the currency contract. Day digit adjudicated as 6 against the same writer's cursive 6 on the cover (see the filing notes); date cell confidence is medium, not high. The Complete Mailing Address cell is NOT redacted at source and prints a residential street address, which was discarded at read time and appears nowhere in this record; no city or state is printed there, so donor_city/donor_state are honestly blank rather than redacted-blank. This same contribution appears in the filing's own bundled original (p7) dated 10/29/15."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2015-10-29",
+   "vendor_raw": "Jim Bradley",
+   "purpose": "Loan Repayment",
+   "amount": "3000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.06,24.09,80.53,3.18@p4",
+   "note": "Amount printed '3000.-' - trailing dash means no cents, recorded as 3000.00 per the currency contract. A repayment to the candidate himself; the recipient name is the filer's own name as written. This row REPLACES the original filing's Schedule B row (LOVE COMMUNICATIONS / ADVERTIZING, same date, same 3,000) - the two are the same dollars reported as different transactions, and both are retained, each in its own record."
+  }
+ ],
+ "total_contributions": "3,000",
+ "total_expenditures": "3,000",
+ "beginning_balance": "100.21",
+ "ending_balance": "100.21",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "3,100.21"
+ },
+ "cover": {
+  "candidate": "Jim Bradley",
+  "party": "Democrat",
+  "office_sought": "County Council",
+  "district_number": "At-Large C",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "Yes",
+  "amendment_of": "1-31-16",
+  "report_date": "",
+  "form_year": "2015"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2015_disclosures__2015_year_end__jim-bradley-amendment---redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jim Bradley",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2015_disclosures__2015_year_end__jim-bradley-amendment---redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "BUNDLED DOCUMENT - AGENT_BRIEF s1(4) APPLIES, AND IN A FORM THE BRIEF DOES NOT LIST. This 8-page PDF is TWO documents: pages 1-4 are the AMENDMENT (cover ticks 'Yes, this is an amendment', date of report 1-31-16, RECEIVED MAR 15 2016, filled out in blue ink in a cursive hand) and pages 5-8 are a PHOTOCOPY OF THE ORIGINAL YEAR-END BEING AMENDED (cover ticks no amendment box at all, signature dated 1-31-16, RECEIVED FEB 01 2016, black block capitals) - page for page the same document as this chunk's separate filing 10db75c4, including the struck-through occupation cell and the identical Schedule B row. ONLY PAGES 1-4 ARE TRANSCRIBED HERE. Pages 5-8 are ledgered as a bundled duplicate and none of their figures were summed, or copied, into this record; 10db75c4 holds them. PAIRED FILING - READ WITH 10db75c4. WHAT THE AMENDMENT ACTUALLY CHANGED (the totals are identical, so the change is entirely in the detail): (a) Schedule A's contribution date moves from 10/29/15 in the original to 10/26/15 here; (b) Schedule A's Occupation/Employer is written cleanly as 'SL Co. Mayor' instead of the original's struck-through 'SELF EMPLOYED' overwritten with 'MAYOR - SL COUNTY'; (c) Schedule B's recipient and purpose change entirely, from 'LOVE COMMUNICATIONS / ADVERTIZING' in the original to 'Jim Bradley / Loan Repayment' here - the same 3,000 dollars, reported as a different transaction. (d) The original leaves three of its four schedule footer cells blank; the amendment fills all four. CHUNK-FILE AGREEMENT: unlike its original, THIS form does state the seat - Office 'SL County Council At-Large C', Office Sought 'County Council', District Number 'At-Large C' - which matches the chunk file's seat 'At-Large C'. Party is written out as 'Democrat'. CHUNK-FILE FLAG VERIFIED: the signature Date line is indeed left BLANK on this cover (the only date on it is the amendment-of date 1-31-16 and the clerk's MAR 15 2016 received stamp), so cover.report_date is '' rather than a guess; index.csv's 2016-03-15 is the clerk's received date, not a form date. THE DAY DIGIT ON SCHEDULE A - HOW IT WAS SETTLED: the p3 contribution date's day read ambiguously between 25 and 26 at 200 and 900 dpi. It was resolved WITHIN THIS DOCUMENT, not from any sibling: the same blue-pen hand wrote '1-31-16' on the cover, and that 6 is a distinctive cursive form - a stroke rising to the upper right that curls over and closes into a bottom-left loop - which the disputed glyph matches, while the writer's 5 (in '/15' on the same date cell) is a different two-stroke form with a flat top bar. Date recorded as 2015-10-26 at medium cell confidence. PRIVACY - REAL EXPOSURE ON THIS FILING, AND THE CHUNK FILE HAS IT ON THE WRONG DOCUMENT: the chunk file attaches the flag 'UNREDACTED contributor address cell on Schedule A' to 10db75c4, whose address cell in fact holds only a workplace descriptor for the county government complex. It is THIS filing, 4478799f, whose Schedule A prints a genuine unredacted residential STREET ADDRESS for the contributor - house number and street name in the clear, no black bar - despite the file being named '_redacted'. Per PRIVACY.md that street was discarded at read time: it is written nowhere in this record, not in donor_raw and not in any note, and because no city or state is printed anywhere in the cell there is no geography to keep, so donor_city and donor_state are honestly blank. The candidate's own street-address block and the phone/fax/email block on the cover ARE redacted at source by solid bars. Amounts are written with a trailing dash after whole dollars ('3000.-'); per the currency contract that means no cents, so the row amounts are recorded as 3000.00 and the printed form is named in each row note; the Summary-Page figures are kept verbatim as printed. Column B is blank on every Summary line - totals_to_date are '' (filer left blank), never 0. The Summary Page, Schedule A and Schedule B header boxes (Page _ of _, Last Name, Date of Report) are ALL BLANK. CROSS-DOCUMENT OBSERVATION (recorded, not used to set any value): this chunk's McAdams year-end 9e3ec673 records the mirror side of the contribution on its own expenditure attachment, dated 10/29/2015 - the date the ORIGINAL used, not the 10/26/15 this amendment substituted.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "3,000",
+     "schedule_total": "3000.-",
+     "itemized": "3000.00",
+     "basis": "schedule-grand-total",
+     "result": "exact",
+     "detail": "The single Schedule A row (p3) is 3000.- = printed SUBTOTAL FOR THIS PAGE 3000.- = printed TOTAL CONTRIBUTIONS RECEIVED 3000.- = Summary Page line 1 Column A '3,000' and line 4 '3000.-'. All four printed figures agree. No in-kind marker on the page, so schedule and Summary share one scope. ONLY pages 1-4 were summed; the bundled photocopy on pages 5-8 is a DIFFERENT filing and its identical 3,000 was deliberately NOT added."
+    },
+    "expenditures": {
+     "stated": "3,000",
+     "schedule_total": "3000.-",
+     "itemized": "3000.00",
+     "basis": "schedule-grand-total",
+     "result": "exact",
+     "detail": "The single Schedule B row (p4) is 3000.- = printed SUBTOTAL FOR THIS PAGE 3000.- = printed TOTAL EXPENDITUTRES MADE 3000.- = Summary Page line 2 Column A '3,000' and line 6 '3000.-'. Pages 5-8 excluded for the same reason."
+    }
+   },
+   "page_subtotal_gates": "BOTH gates fire and BOTH pass on this filing (unlike its own original, where three of the four footer cells are blank): p3 row 3000.00 = printed subtotal 3000.- = printed total 3000.-; p4 row 3000.00 = printed subtotal 3000.- = printed total 3000.-. Footer cells confirmed at 900 dpi.",
+   "escalations": 9,
+   "escalation_note": "900 dpi cell crops on the amendment's own pages: p3 date cell, p3 Occupation+Amount group, p3 SUBTOTAL+TOTAL footer cells, p4 full row band, p4 SUBTOTAL+TOTAL footer cells. Then 1800 dpi crops of the p3 date and the p4 date, a 1200 dpi crop of the cover's handwritten amendment date '1-31-16', and a contrast-stretched magnification of the single disputed p3 day glyph - four escalations spent on one digit (see notes).",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "BUNDLED DOCUMENT - AGENT_BRIEF s1(4) APPLIES, AND IN A FORM THE BRIEF DOES NOT LIST. This 8-page PDF is TWO documents: pages 1-4 are the AMENDMENT (cover ticks 'Yes, this is an amendment', date of report 1-31-16, RECEIVED MAR 15 2016, filled out in blue ink in a cursive hand) and pages 5-8 are a PHOTOCOPY OF THE ORIGINAL YEAR-END BEING AMENDED (cover ticks no amendment box at all, signature dated 1-31-16, RECEIVED FEB 01 2016, black block capitals) - page for page the same document as this chunk's separate filing 10db75c4, including the struck-through occupation cell and the identical Schedule B row. ONLY PAGES 1-4 ARE TRANSCRIBED HERE. Pages 5-8 are ledgered as a bundled duplicate and none of their figures were summed, or copied, into this record; 10db75c4 holds them. PAIRED FILING - READ WITH 10db75c4. WHAT THE AMENDMENT ACTUALLY CHANGED (the totals are identical, so the change is entirely in the detail): (a) Schedule A's contribution date moves from 10/29/15 in the original to 10/26/15 here; (b) Schedule A's Occupation/Employer is written cleanly as 'SL Co. Mayor' instead of the original's struck-through 'SELF EMPLOYED' overwritten with 'MAYOR - SL COUNTY'; (c) Schedule B's recipient and purpose change entirely, from 'LOVE COMMUNICATIONS / ADVERTIZING' in the original to 'Jim Bradley / Loan Repayment' here - the same 3,000 dollars, reported as a different transaction. (d) The original leaves three of its four schedule footer cells blank; the amendment fills all four. CHUNK-FILE AGREEMENT: unlike its original, THIS form does state the seat - Office 'SL County Council At-Large C', Office Sought 'County Council', District Number 'At-Large C' - which matches the chunk file's seat 'At-Large C'. Party is written out as 'Democrat'. CHUNK-FILE FLAG VERIFIED: the signature Date line is indeed left BLANK on this cover (the only date on it is the amendment-of date 1-31-16 and the clerk's MAR 15 2016 received stamp), so cover.report_date is '' rather than a guess; index.csv's 2016-03-15 is the clerk's received date, not a form date. THE DAY DIGIT ON SCHEDULE A - HOW IT WAS SETTLED: the p3 contribution date's day read ambiguously between 25 and 26 at 200 and 900 dpi. It was resolved WITHIN THIS DOCUMENT, not from any sibling: the same blue-pen hand wrote '1-31-16' on the cover, and that 6 is a distinctive cursive form - a stroke rising to the upper right that curls over and closes into a bottom-left loop - which the disputed glyph matches, while the writer's 5 (in '/15' on the same date cell) is a different two-stroke form with a flat top bar. Date recorded as 2015-10-26 at medium cell confidence. PRIVACY - REAL EXPOSURE ON THIS FILING, AND THE CHUNK FILE HAS IT ON THE WRONG DOCUMENT: the chunk file attaches the flag 'UNREDACTED contributor address cell on Schedule A' to 10db75c4, whose address cell in fact holds only a workplace descriptor for the county government complex. It is THIS filing, 4478799f, whose Schedule A prints a genuine unredacted residential STREET ADDRESS for the contributor - house number and street name in the clear, no black bar - despite the file being named '_redacted'. Per PRIVACY.md that street was discarded at read time: it is written nowhere in this record, not in donor_raw and not in any note, and because no city or state is printed anywhere in the cell there is no geography to keep, so donor_city and donor_state are honestly blank. The candidate's own street-address block and the phone/fax/email block on the cover ARE redacted at source by solid bars. Amounts are written with a trailing dash after whole dollars ('3000.-'); per the currency contract that means no cents, so the row amounts are recorded as 3000.00 and the printed form is named in each row note; the Summary-Page figures are kept verbatim as printed. Column B is blank on every Summary line - totals_to_date are '' (filer left blank), never 0. The Summary Page, Schedule A and Schedule B header boxes (Page _ of _, Last Name, Date of Report) are ALL BLANK. CROSS-DOCUMENT OBSERVATION (recorded, not used to set any value): this chunk's McAdams year-end 9e3ec673 records the mirror side of the contribution on its own expenditure attachment, dated 10/29/2015 - the date the ORIGINAL used, not the 10/26/15 this amendment substituted."
+  }
+ }
+}

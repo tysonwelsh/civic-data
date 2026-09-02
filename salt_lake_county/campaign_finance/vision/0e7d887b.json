@@ -1,0 +1,98 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "22.61",
+ "ending_balance": "22.61",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "22.61"
+ },
+ "cover": {
+  "candidate": "Arlyn Bradshaw",
+  "party": "Democrat",
+  "office_sought": "_Council - District",
+  "district_number": "1",
+  "report_type": "Year-End Report (January 31) checked; '2020 Financial Disclosure Report For a Candidate' form",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/31/25",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Bradshaw-Arlyn__40C7F8B8.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Bradshaw, Arlyn",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Bradshaw-Arlyn__40C7F8B8.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Form titled '2020 Financial Disclosure Report For a Candidate' filed for the 2024 cycle (year-end, stamp-signed 01/31/25). Cover Office field reads 'County Council District'; Office Sought verbatim '_Council - District' (leading underscore artifact), District Number 1. Cover address block and phone/email bar-redacted at source. NO Schedule A or Schedule B page exists; every Summary figure is $0.00 with $22.61 carried in and out. Chunk-prior no-schedule-page/no-schedule-page CONFIRMED at the page. Balance-chain caveat: this filing's line 3 ($22.61) does NOT chain from the 2022-11-01 sibling's line 7 ($5,210.16) -- intervening 2023/2024 year-end filings (not in this chunk) presumably carried the balance down; not a swapped cover, both figures verified at their own pages.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page in the 2-page document; Summary line 1 states $0.00 so the absent schedule is consistent"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page in the 2-page document; Summary line 2 states $0.00 so the absent schedule is consistent"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages; nothing to gate",
+   "escalations": 0,
+   "escalation_note": "none",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Form titled '2020 Financial Disclosure Report For a Candidate' filed for the 2024 cycle (year-end, stamp-signed 01/31/25). Cover Office field reads 'County Council District'; Office Sought verbatim '_Council - District' (leading underscore artifact), District Number 1. Cover address block and phone/email bar-redacted at source. NO Schedule A or Schedule B page exists; every Summary figure is $0.00 with $22.61 carried in and out. Chunk-prior no-schedule-page/no-schedule-page CONFIRMED at the page. Balance-chain caveat: this filing's line 3 ($22.61) does NOT chain from the 2022-11-01 sibling's line 7 ($5,210.16) -- intervening 2023/2024 year-end filings (not in this chunk) presumably carried the balance down; not a swapped cover, both figures verified at their own pages."
+  }
+ }
+}

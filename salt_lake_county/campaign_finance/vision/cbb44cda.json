@@ -49,6 +49,52 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "2-page filing. TITLE reads \"2020 Financial Disclosure Report\" for a 01/26/23 year-end filing (stale template)."
+  "notes": "2-page filing. TITLE reads \"2020 Financial Disclosure Report\" for a 01/26/23 year-end filing (stale template).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": null,
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "no Schedule A page exists in the document; Summary line 1 Column A = $0.00 (read at page; agrees with chunk prior $0.00), zero rows - a real zero, nothing to itemize"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": null,
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "no Schedule B page exists in the document; Summary line 2 Column A = $0.00 (read at page; agrees with chunk prior $0.00), zero rows - a real zero, nothing to itemize"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages; nothing to gate",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2-page filing: p1 cover + p2 Summary Page only; no Schedule A/B pages exist (chunk 'no-schedule-page' prior confirmed at page). needs_totals=0: cover/totals keys omitted per brief. Cover is the '2020 Financial Disclosure Report For a Candidate' form; YEAR-END REPORT 'January 31 of each year' box checked; amendment 'No' box checked; signature stamp 01/26/23 - 10:43 PM. Office Sought reads 'Council - District' with District Number 2 (consistent with index County Council). All-zero activity with $12.16 carried balance (lines 3, 5, 7 = $12.16; lines 1, 2, 4, 6 = $0.00; Column B lines 1-2 = $0.00). Candidate address bar-redacted at source."
+  }
  }
 }

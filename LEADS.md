@@ -1,5 +1,57 @@
 # LEADS — options, expansion menus, and watches (created by the 2026-07-31 restructure)
 
+- **2026-09-01 — `cycle_totals_county.py` has NO `--help`, and a bare or unrecognized-flag run
+  REGENERATES ALL EIGHT COUNTIES.** OBSERVED while closing wave W2: `python3
+  scripts/campaign_finance/cycle_totals_county.py --help` fell through `args = [a for a in
+  sys.argv[1:] if not a.startswith("--")]` → `if not slugs: slugs = county_slugs()` and wrote
+  all 8 `cycle_totals_county.csv` files. Harmless because the reducer is deterministic (7 of
+  the 8 came back with zero row changes, verified against the pre-run `cf_cycle_county` table),
+  but it is a footgun for anyone who types `--help` first. Options: add a usage guard, or make
+  a bare run require `--all` explicitly.
+
+- **2026-09-01 — the SLCo EasyVote redaction bar takes a MONEY column on exactly one filing,
+  and that is the only known dollar-level redaction floor in the corpus.**
+  `Wilson-Jennifer__B5D1F91C.pdf` pp.3 and 6: the county's bar spans **Address → Amount
+  inclusive** (verified at the page 2026-09-01; 37 + 40 rows) while Date, Name, Employer and
+  Occupation survive, so 77 of 276 contribution rows publish with a blank amount and the side
+  is a documented FLOOR — $114,980.00 readable against a stated $161,699.85, ≈29% of the side
+  unrecoverable from the public record. Everywhere else in SLCo the bar takes only the address.
+  Worth a GRAMA line item if the county's own unredacted copy is ever requested, and worth a
+  calibration specimen: it is the page that tempts a transcriber to infer an amount from the
+  cover total.
+
+- **2026-09-01 — the "side-by-side attachment" shape: one page carrying a donations table AND
+  an expenditures table sharing a single `List` column** (`Ahn-Danielle__E634CB98` pp.8–10,
+  found during W2's chunk-03 resumption). It closes with a footer of `Donations Total` · a
+  printed-and-BLANK `Expenditure Total` · `Total (Donation TTL − Expenditure TTL)`, so **an
+  agent that reads only the left half of the page silently loses 51 expenditure rows**, and the
+  difference cell is the only printed gate for the expenditure side. Add to the shape census
+  any future wave classifies against (the three declared shapes — county-grid,
+  attachment-behind-stub, attachment-is-the-schedule — do not name it).
+
+- **2026-09-01 — wave scratch-dir naming forked inside W2**: batch-1 agents wrote both
+  `work/chunk_07/` and `work/chunk07/` for the same chunk, because `AGENT_BRIEF.md` says
+  `work/chunkNN/` while the generated per-chunk prompts say `work/chunk_NN/`. Renders are
+  disposable so nothing was lost, but the two conventions should be reconciled in the brief
+  template before the next multi-agent wave.
+
+- **2026-09-01 — a filer can be OUT of county scope in one cycle and IN it the next, and only
+  the `Office Sought` line says which.** Charlotte Fife-Jepperson's 2024 filings print
+  Office Sought = "Salt Lake School Board" (out of scope, ledgered), while her 2026 filing
+  `B5AB014E` prints Office = "Salt Lake City School Board District 2" (her sitting seat) and
+  Office Sought = "**Salt Lake County Council District 2**" (in scope, correctly published).
+  Both verified at the cover 2026-09-01. Any scope classifier keyed on the top-row Office, on
+  the filer label, or on "this person is a school board member" gets one of the two wrong.
+
+- **2026-08-20 — `has_itemized` in salt_lake_county's `index.csv` is channel-inconsistent and
+  under-reports by 436.** OBSERVED while closing the build_index landmine: the column is
+  documented as an EasyVote acquisition-time flag, so **436 clerk_legacy filings that DO carry
+  itemized rows (wave B2 vision) still read `has_itemized='no'`**. The easyvote channel is now
+  correct (197 yes / 245 no on the fixed `n_contrib_rows+n_expend_rows>0` predicate). The build
+  prints this as a standing NOTE each run so it is visible rather than hidden. Options: retire the
+  column, or redefine it channel-uniformly as "appears as `source_filing` in the itemized CSVs".
+  Not a wrong published value in the db (`cf_filing` does not carry it), so filed here, not TODO.
+
 **This is a MENU, not a queue.** Nothing here is owed; not doing an item is never a defect.
 No checkboxes. Each bullet = date + what was observed + where the evidence lives. Agents: file
 new leads HERE (one line each), never in TODO.md; a lead is promoted to TODO.md [DEBT] only
@@ -52,6 +104,99 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
 - **PMN JSON-POST/X-CSRF search channel** — fold into pmn_crosscheck/refresh tooling. (L1308)
 
 ## Acquisition backfills (bounded, source-dependent)
+
+### Filed 2026-08-23 by SLCo wave W1 phase 2 (the 2015–2021 paper slice)
+
+- **⚠ OWNER DECISION PENDING — a Salt Lake County published PDF's redaction is COSMETIC.**
+  `2020_…_staggs-mayor_redacted.pdf` (public clerk page, `_redacted` in the URL) has black bars
+  drawn over an **intact text layer**: 40,598 extractable characters and **156 ZIP-shaped tokens
+  against exactly 156 contribution rows**, verified structurally by the coordinator printing no
+  values. Nothing was extracted; no address token from it exists anywhere in the repo. This is a
+  defect in the COUNTY'S publication, not this repo's. Three decisions are the owner's: telling
+  the Clerk; whether to structurally sweep the 442 EasyVote PDFs for the same defect (cheap —
+  count text-layer characters and ZIP shapes per PDF, print no values); and whether PRIVACY.md
+  should carry "cosmetic redaction over a live text layer" as a class distinct from the existing
+  "bar under-covers". Full write-up: `_backups/2026-08-23-slco-w1p2/OWNER_DECISION_PRIVACY.md`.
+- **SLCo CF: Gill's April-2018 filing binds 59 contribution rows the filer EXPLICITLY EXCLUDES**
+  ("Previously reported, not included in current report total", period ending 1/31/2018, printed
+  total $125,301.00 — 125,301.00 + 6,520.00 = 131,821.00 = his Column B, so the exclusion is
+  arithmetically confirmed). Correctly NOT transcribed into that filing. **But no Gill filing for
+  that period exists in `raw/globalassets/`**, so the bound-in attachment may be the corpus's only
+  surviving copy of that detail. Scope decision: transcribe it as its own logical filing, or leave
+  it as documented context. Evidence: `raw/globalassets/2018_disclosures__april__sim-gill.pdf` pp.5-6.
+- **`common.repair_money_line` repairs the `utah-malformed-decimal` strings ONLY WHEN THEY CARRY A
+  `$` — the conflict is real but strictly narrower than first filed** (⚠ the original measurement
+  here was WRONG; corrected 2026-08-23 at the source by the washington pre-flight and re-verified
+  by the coordinator). The repair is `$`-ANCHORED: `repair_money_line('23.744.71')` and
+  `('23,744,71')` both return the string **UNCHANGED** with `changed=False`, while
+  `('$23.744.71') -> ('$23744.71', True)` and `('$23,744,71') -> ('$23,744.71', True)`. So it
+  **cannot fire on the Ioannides page as printed**, whose cells carry no `$`. **Nothing published
+  is wrong today** — a
+  repo-wide scan of every `vision/*.json` found only 4 caches holding a malformed money string,
+  all salt_lake's SANCTIONED decimal-comma convention plus this wave's dot-thousands `10.624.23`,
+  and **zero summit/utah caches hold one** because their transcribers correctly blanked them at the
+  page. So the guard lives entirely in transcriber judgement, not in the shared parser. Decide
+  whether the repair should be **opt-in PER FORM FAMILY** (slco handwritten: yes; summit/utah
+  typed: no) rather than shared-and-always-on.
+- **2026-08-24 (cache+washington wave) — a THIRD washington CF form generation exists** that the
+  module's two-generation taxonomy does not describe: `WASHINGTON COUNTY CANDIDATE FINANCIAL
+  CAMPAIGN REPORT` citing **County Code 1-7-1**, with Generation 1's dense ~35-line ruled grid
+  but Generation 2's **printed footer TOTAL on both schedules and an `In Kind?` column**. Newer
+  covers also drop the `$50-or-less` line entirely (`null` = field ABSENT, not blank). Observed
+  on ~15 filings across chunks W01/W05/W12/W13/W15. Decide an anchor by what the sheet PRINTS,
+  never by form vintage. Evidence: `raw/wayback_forms2018/…Victor Moses Iverson…`.
+- **2026-08-24 — cache has cover-only PDFs whose schedule pages were never scanned** (several
+  1-page filings in chunks C02/C09/C10/C12: Potter, White, Jensen, Jeppesen, Zilles and others).
+  Their covers state figures that **cannot ever be itemized from these bytes** — this is an
+  ACQUISITION gap, not a transcription one. Re-pulling from the county (or GRAMA) is the only
+  path. Sized at 33 sides across the corpus; ledgered in the module's AVAILABILITY.
+- **2026-08-24 — cache `raw/2020/2020_st_Scan_2` + `Scan_3` are ONE filing split across two
+  PDFs** (a lone Carr cover for Marc Kevin Ensign, and a lone Form B "Page 3"). The Form B's
+  seven rows sum to **exactly 8,523.67**, the cover's stated expenses. They were deliberately
+  transcribed separately with no anchor borrowed; **merging them would turn one `unknown` side
+  into `exact`** and give Scan_3 a candidate and office it cannot otherwise have. A scope
+  decision for the owner.
+- **2026-08-24 — washington's `index.csv` `seat` values are not document-verified on several
+  Commission filings.** Repeatedly across chunks, the index asserts `Commission Seat A/B/C` while
+  the form's office line reads only "Washington County Commission" with **no seat letter
+  anywhere** (Goode 2024, Snow 2024, Almquist 2018, Cox 2016 — whose title line actually says
+  **SEAT A** against an index/filename `Seat C`). This is the `person_roster` hazard the module
+  already documents for OFFICE, one level finer. Candidate for a `seat`-verification sweep using
+  the same `office_determinations.csv` path.
+- **2026-08-24 — a contract conflict inside the transcription brief itself, worth settling in the
+  calibration suite**: core §3(g) lists `2,250.-` under *malformed → blank* while the very next
+  clause rules a trailing dash after whole dollars means **no cents → .00**. Cache's Potter 2010
+  filing decides it empirically — all five Form A amounts are written `1,000.- / 100.- / 5,000.-`
+  and only the trailing-dash reading totals the printed `7,200.`. `common.parse_vision_amount`
+  implements the trailing-dash rule; utah's published rows are untouched. **A specimen should
+  pin which clause governs.**
+- **2026-08-24 — ~20 new calibration-specimen candidates were surfaced by the two wave
+  pre-flights and 41 chunks** and are recorded verbatim in `_backups/2026-08-23-cache-washington-cf/CLOSEOUT.md`.
+  The strongest: `rhodes-two-unknown-simultaneous-close` (two bistable cells, four legible
+  readings, exactly one closes — no single-cell escalation can pass it),
+  `zero-glyph-in-a-DIGIT-POSITION` (`956.8Ø` — the 2026-08-02 ruling is written for whole cells
+  and a configuration can be wrong in two opposite directions here), `swapped-schedules`
+  (a cache filing whose Form A holds the expenditures, provable only by the pair of gates),
+  `colAB-first-report-B-equals-A` (YTD legitimately equals period, so A+B double-counts exactly
+  and no per-column check can see it), and `filer-collapses-the-grid-into-one-cell`.
+- **5 new calibration-specimen candidates are drafted and ground-truthed** at
+  `_backups/2026-08-23-slco-w1p2/SPECIMEN_CANDIDATES.md`, awaiting promotion into
+  `_audits/cf-calibration-suite/manifest.csv`. Three of them (`slco-schedule-scope-split`,
+  `slco-cumulative-in-the-grand-total-slot`, `slco-same-scope-filer-disagreement`) **must be graded
+  TOGETHER** — two require a blanked verdict and the third requires a published delta, so a
+  configuration that handles one by treating every non-summary anchor alike gets another wrong.
+  The other two: `slco-decimal-point-omitted` and `slco-rotated-attachment-band-drift`.
+- **The 2026-08-20 globalassets harvest report has two errors worth correcting at source** (both
+  already corrected in the module docs): its §3 calls `burdick-fin-report-3.pdf` a split filing
+  needing pairing when it is a **duplicate scan** (summing the pair double-counts $9,533.28), and
+  its `characterisation.csv` puts the "UNREDACTED contributor address" flag on
+  `jim_bradley2015ye.pdf` when the genuine unredacted residential address is on
+  `jim-bradley-amendment---redacted.pdf`.
+- **A cheap generalisable check the wave wants next time:** cross-schedule pairing as a row-
+  alignment gate. On one filing all 38 in-kind Schedule A rows had a same-date, same-amount
+  Schedule B counterpart — an independent proof of alignment on a rotated attachment that no
+  single-side sum could give.
+
 
 - 2026-08-14 — **`webdme.slcgov.com` is a NEW, undocumented SLC Laserfiche WebLink host
   (v11.0.2411.10) carrying EIGHT live, anonymously-readable public apps**: `AgendasMinutes`
@@ -176,8 +321,18 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
     the "no gate available is a claim to test" attachment-total case (McAdams/simgill);
     rule-detection row counting for subtotal-less spreadsheets (rowbands.py); the
     shared-temp-glob liveness trap; the wave-stamp clobber.
-  - *County cycle_totals design (DEFERRED BY DESIGN 2026-08-02 — cf_cycle stays
-    city-only):* the vision wave proved the generic city rules would publish wrong county
+  - *County cycle_totals design — **EXECUTED AND CLOSED 2026-08-23**. The layer shipped as
+    `cf_cycle_county` (968 candidate-cycles, 618 publishing / 350 honest gap rows) via
+    `scripts/campaign_finance/cycle_totals_county.py`, spec
+    `scripts/campaign_finance/COUNTY_CYCLE_REDUCER_SPEC.md`, record
+    `_backups/2026-08-23-cycle-reducer-impl/CLOSEOUT.md`. Every hazard listed below is
+    answered by an explicit mechanism rather than a heuristic: per-candidate regime
+    detection from each cycle's own printed arithmetic (the county form prior can only
+    confirm, never decide); carryover REPORTED in its own column and never subtracted;
+    same-period amendments resolved by the balance-chain closure proof with no marker
+    required; and anything the filings do not establish emitting a gap row. The original
+    deferral text is kept verbatim below because it is the evidence the design answers.*
+    the vision wave proved the generic city rules would publish wrong county
     figures: regimes vary per CANDIDATE not per form (wasatch: three 2024/2026 filers
     restate cumulatively on the period sheet), officeholder carryover inflates cumulative
     totals (weber Harvey/Hatch/Froerer open from prior-cycle closings — 'raised in cycle
@@ -197,6 +352,22 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
     full page; 1 populated date misread). Elevated blank-`filing_date` rates elsewhere:
     utah_county 62/265, washington 19/206 (washington's older variant genuinely lacks a
     date line — separate the form property from the crop loss before re-reading).
+  - *`filing_regime` vocabulary collision (filed 2026-08-23, from the county cycle-reducer
+    build):* at the county tier this ONE column carries TWO incompatible vocabularies — a
+    STATUTORY STREAM (`election_cycle` / `annual`; juab 27, washington 178/28) and an
+    ARITHMETIC BASIS (`per-period` / `cumulative` / `period`; utah 265, weber 98, wasatch
+    62/49), while cache/summit/salt_lake leave it blank and keep the regime in module docs.
+    The collision is live: the CITY reducer's `regime != 'election_cycle' -> drop` rule
+    silently drops EVERY utah, weber and wasatch filing. `cycle_totals_county.py` works
+    around it (it reads the column for the `annual` filter only, never as a basis), but the
+    durable fix is splitting it into `statutory_stream` + `stated_basis` so the collision
+    cannot recur — a schema change across `filing_totals.csv`, `common.py`,
+    `validate_finance.py` and `cf_filing`.
+  - *SLCo cross-era candidate-name variance (filed 2026-08-23):* the same person appears as
+    `Sim Gill` in the clerk-legacy era and `Gill, Sim` in EasyVote, so `cf_cycle_county`
+    groups them as two rows in two non-overlapping cycles — correct for that layer, which
+    groups VERBATIM by design. Person-level folding belongs to `cf_candidate_person`, whose
+    exact name-key match will not bridge the two forms (229 of 1,403 candidates matched).
   - *Tooling gaps:* `validate_finance.py` has no conformance mode for document-only CF
     modules; SLCo cycle_totals.csv not yet derived from its EasyVote structured layer;
     the desktop `normalize_sovc.py` could adopt the repo's new families E/G + SpreadsheetML
@@ -481,6 +652,45 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
     row-count gate) are county-agnostic — promotion candidates for
     `scripts/campaign_finance/` before the weber/utah waves.
 
+### utah wave B2 leads (filed 2026-08-20, queue closed)
+
+- **2026-08-20** — `rowbands.py` recovery worth folding into the tool: a **background-normalised
+  dark-run scan** (subtract a Gaussian blur, then threshold) restricted to the target column
+  recovered every band the rule detector missed, across four filings and three failure modes.
+  Evidence: `_backups/2026-08-18-utah-cf/workdir/ROWBANDS_PROMOTION.md` "DEFECT 7"; the defect
+  itself is filed as [DEBT].
+- **2026-08-20** — **utah `index.csv` carries commission SEATS the pages do not corroborate**:
+  Bowles 2026 (Office box wholly BLANK), Spencer 2026 (page reads "Utah County Commissioner",
+  names no seat), Brimley 2026 (page reads "Utah County Commisioner **E**" at 1400 dpi — a seat
+  Utah County does not have) all carry a channel-derived seat. Nothing changed; the module's
+  do-not on inferring a seat governs. A seat-corroboration audit across the 263 rows is the
+  bounded follow-up.
+- **2026-08-20** — **washington_county CF year columns: `election_year` is blank on 310 of 409
+  rows, but that is BY DESIGN, not a gap** (corrected same day after checking the source). The
+  temporal data is carried in `reporting_year` (filled **407/409**, and **95/95** of the scanned
+  filings) and `cycle_year` (382/409), each with an explicit `*_source` companion naming how it
+  was derived (filename 237 · document 99 · url_folder 43 · portal_year_label 28).
+  `election_year` appears to be populated only where an actual ELECTION year is determinable.
+  A cycle-level comparison should join on `reporting_year`/`cycle_year` and respect the
+  `_source` provenance — it is not blocked. Confirm the intended semantics of the three columns
+  before washington's tranche.
+- **2026-08-20** — **washington is ~77% machine-readable** (189 spreadsheet + 125 text vs 95
+  scanned), so its itemization is mostly a PARSER tranche, not a vision wave — a different and
+  much cheaper shape than cache's 150 scanned. Recorded because the [GATED] item's "largest
+  first" ordering by filing count mis-orders the two.
+- **2026-08-20** — **a county REDACTION PASS can disclose strictly LESS than its unredacted
+  twin, inconsistently row by row** (city barred on 6 of 15 rows of one page). Cells left
+  honestly blank, never backfilled. A cross-corpus screen for redacted/unredacted sibling pairs
+  would quantify how much disclosure the redaction actually removes.
+- **2026-08-20** — **a 2020 amendment NAMES two previously-anonymous donors** ($250, $50) with
+  otherwise identical totals — visible only by row-by-row comparison, never from totals. Suggests
+  a general "amendment adds disclosure" diff across every original/amendment pair in the CF layer.
+- **2026-08-20** — **the filing fee is confirmed useless as a corroboration signal, again**: two
+  filers for the SAME 2024 office and cycle paid 747.11 and 818.23; four 2026 filings agree at
+  901.50 while 2026 Clerk and 2026 Auditor both pay 848.28. Consistent with the standing rule —
+  never use it to settle a figure.
+
+
 ## Routine (fold into the quarterly refresh — next run early Oct 2026)
 
 - /audit-city-data after any large ingest (murray PC ~300 unaudited dispositions are queued
@@ -489,6 +699,76 @@ session). Prune freely at triage; full pre-restructure context for every bullet 
   codification-lag re-probes (copperton, kearns, white_city, orem); pending-adoption 60-day
   window revisit after 2–3 cycles; magna lower-confidence crosscheck flags (deliberate scope
   cut). (L2147–2153, L3018–3021, L2776, L3390)
+
+### washington parser tranche leads (filed 2026-08-23, machine-readable queue closed)
+
+- **2026-08-23** — **washington `index.csv` `election_year` semantics CONFIRMED AT THE SOURCE**
+  (closes the 2026-08-20 open question): it is `build_index.read_document`'s `doc_year`, i.e.
+  **the Election Year the DOCUMENT ITSELF PRINTED**, and only the born-digital `County Candidate
+  Summary` cover prints one — hence 99/409 filled. It is a document-stated field, never derived,
+  so blank is correct and it is NOT a substitute for `cycle_year` (382/409) or `reporting_year`
+  (407/409, and **100/100 of the handwritten filings**). ⚠ `filing_totals.election_year` is a
+  DIFFERENT quantity — `cycle_year` falling back to the cover's stated year. Documented in the
+  module CLAUDE.md's index-column table.
+- **2026-08-23** — **the "95 scanned" sizing was 5 filings short, and the same trap bites any
+  format-based queue derivation.** washington's vision queue is **100 filings**: 95 the index
+  calls `scanned` PLUS 5 it calls `text` because a stamped transmittal note is the only text
+  layer while the report faces are images (Dean Cox 2016, Gil Almquist 2016 ×2, Ryan Sullivan
+  2024 ×2). The authority is the cache's `transcribed_by`, never `index.csv` `format` — the same
+  hazard `extract_born_digital.py`'s hard guard already exists for. Queue ledgered by year and
+  office in `washington_county/campaign_finance/AVAILABILITY.md` §9; **no calibration pre-flight
+  has been run for washington** — do that first.
+- **2026-08-23** — **`pdftotext -layout` column geometry is NOT STABLE BETWEEN PAGES of one
+  document, and the header is printed only once.** On
+  `washington_county/campaign_finance/raw/wayback_2010elections/Expenditures - Rob Tersigni.pdf`
+  the Amount column lands at character columns 40-47 on page 1 and 19-26 on page 2; in the PDF's
+  own coordinates the amounts right-align to `x=305.0` on **every** page. Any family that pins
+  column territories to a `-layout` grid silently drops every row on pages 2+ (here: 23 of 77 on
+  one filing). Fix pattern now in `washington_county/campaign_finance/bbox_lib.py` —
+  `pdftotext -bbox-layout` word boxes + one header-derived column model — which also yields
+  `pct:` geometry free. **Candidate promotion to `scripts/campaign_finance/` and a likely
+  cheaper route for `rowbands.py` DEFECT 7 than rule detection.** Worth screening every other
+  `-layout`-positional family (`cache_cfd`, `weber_polimorphic`, `utahcounty_schedab`) for the
+  same multi-page loss.
+- **2026-08-23** — **a column's left edge must be taken from a ROBUST statistic, not the
+  minimum.** washington's sub-$50 AGGREGATE line prints its figure INSIDE the donor name
+  (`Aggregate total under $50.00 contribution`), so one `$50.00` token at x=181.8 in a table
+  whose dates all start at x=265.1 dragged the name column's boundary left and truncated every
+  donor address on the page. Median per column fixed it. Generalisable to any positional reader.
+- **2026-08-23** — **washington's ledgers restate the CYCLE TO DATE, so its published itemized
+  rows are RESTATEMENTS, not additions**: 1,518 contribution rows carry 676 distinct donations
+  and 1,738 expenditure rows 758 distinct payments. Flagged `is_incremental=False` and
+  caveat-carried. A cross-county "who gave the most" query that sums rows will over-count
+  washington ~2.2× unless it takes the latest filing per candidate-cycle. **A shared
+  `cycle_totals`-style reducer for the COUNTY tier would retire this whole class of hazard** —
+  it is the same design lead already filed for `cf_cycle` being city-only. **CLOSED
+  2026-08-23** — `cf_cycle_county` implements exactly this: its advisory itemized
+  cross-check takes the LATEST ledger for an `is_incremental=False` cycle and never the sum
+  (specimen T7 in `tests/test_cycle_totals_county.py`), and the `cf-cycle-tiers` caveat
+  carries the never-sum-a-restating-ledger guard on every `v_cf_cycle_all` row.
+- **2026-08-23** — **17 of washington's 102 born-digital filings have a summary sheet whose own
+  arithmetic closes on NEITHER a per-period nor a cumulative reading** (its Balance column is
+  the test; e.g. Paul Van Dam 2014-10-28 prints Balance `373.12` against `13,786.94 −
+  14,810.28 = −1,023.34` per-period and `10,110 − 13,932.15 = −3,822.15` cumulative). These are
+  filer bookkeeping errors, not extraction defects — the ledgers parse completely. Recorded
+  because "the county's template is per-period" is a statement about the TEMPLATE, not about
+  every filer: Kevin Brooks 2010 and Chris White 2012 fill it cumulatively and their Balance
+  column proves it.
+- **2026-08-23** — **`washco_split`'s `-layout` fallback reader (`_pdf_rows`) did NOT get the
+  in-kind / loan-column recovery or the name-above-address handling** that the new bbox reader
+  has. It is now only reachable when a caller supplies no `bbox` (i.e. never in this module's
+  own build), so nothing published depends on it — but a future caller that skips `bbox_lib`
+  would silently get the old, lossier behaviour. Either delete it or bring it to parity.
+- **2026-08-23** — **`validate_finance.py` reports `FAIL (3 fails)` for
+  `draper_city_council/campaign_finance`** — the directory has an `index.csv` but no
+  contributions/expenditures/filing_totals at all (root CLAUDE.md: "draper
+  acquired-but-unstructured"). Pre-existing and documented, **not a regression**; recorded so a
+  repo-wide validator sweep is not misread. (`scripts/campaign_finance` also "fails" a sweep —
+  it is the tooling directory, not a dataset.)
+- **2026-08-23** — **cache_county is now the LAST unstarted Phase B county** (150 scanned
+  filings, a true vision wave), alongside washington's 100 handwritten filings and salt_lake's
+  row-less EasyVote 245. Every other county's itemized queue is closed.
+
 
 ## WATCHES — external events; check at each refresh, never "work"
 

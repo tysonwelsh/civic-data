@@ -1,0 +1,174 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-01-25",
+   "donor_raw": "Salt Lake Board of Realtors (BORPAC)",
+   "occupation": "realtors",
+   "amount": "1,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,22.68,85.04,3.96@p3",
+   "note": "name written on two lines in the cell ('Salt Lake Board of' / 'Realtors (BORPAC)'). Complete Mailing Address cell redacted at source. Cents written as a raised superscript '00' over a rule."
+  },
+  {
+   "line_no": 2,
+   "date": "2018-01-26",
+   "donor_raw": "KOM Enterprises",
+   "occupation": "self-employed",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,26.64,85.04,3.95@p3",
+   "note": "Complete Mailing Address cell redacted at source; a stray 'd.' glyph overflows the redaction bar into the left edge of the Occupation cell and is address-block ink, not part of the occupation value. Cents written as a raised superscript '00' over a rule."
+  },
+  {
+   "line_no": 3,
+   "date": "2018-03-22",
+   "donor_raw": "Salt Lake Board of Realtors (BORPAC)",
+   "occupation": "realtors",
+   "amount": "1,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,30.59,85.04,3.93@p3",
+   "note": "name written on two lines in the cell ('Salt Lake Board of' / 'Realtors (BORPAC)'); same donor as line 1, written out again by the filer, not a ditto. Complete Mailing Address cell redacted at source. Cents written as a raised superscript '00' over a rule."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-03-09",
+   "vendor_raw": "S.L. County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "242.57",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.57,26.16,80.77,4.07@p4",
+   "note": "written 'S.L. County Clerk' with the periods as the filer wrote them"
+  },
+  {
+   "line_no": 2,
+   "date": "2018-03-27",
+   "vendor_raw": "S.L.Co. Republican Party",
+   "purpose": "Booth - Convention",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.57,30.23,80.77,4.14@p4",
+   "note": "name wraps to a second line in the cell ('S.L.Co. Republican' / 'Party'); purpose written with an en-dash-like stroke. Cents written as a raised superscript '00' over a rule."
+  }
+ ],
+ "total_contributions": "4,000.00",
+ "total_expenditures": "742.57",
+ "beginning_balance": "27,102.20",
+ "ending_balance": "30,359.63",
+ "aggregate": {
+  "total_contributions_to_date": "49,953.50",
+  "total_expenditures_to_date": "19,593.87",
+  "line5_subtotal": "31,102.20"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "March 29, 2018",
+  "form_year": null
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__april__steve-debry.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L DeBry",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/2018_disclosures__april__steve-debry.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "\u26a0 THIS FILE CARRIES A CANON-SCANNER FONT LAYER AND IT IS A TRAP, CONFIRMED: pdfinfo reports Creator 'Canon iR-ADV C5051 PDF' / Form: AcroForm and pdftotext returns the PRE-PRINTED form labels, but every figure and every name on this filing is HANDWRITTEN and exists only as pixels. Nothing here was taken from the text layer; all values are read off 200 dpi page images with 600 dpi cell escalation. || FORM VINTAGE: the cover title prints NO year at all \u2014 'Financial Disclosure Report / For a Candidate' under a 'SHERRIE SWENSEN, Salt Lake County Clerk' letterhead (the older vintage; the Gill April-2018 filing in this same chunk uses the newer '2017 Financial Disclosure Report' stock). form_year is therefore null = the field does not exist in this document, NOT a blank the filer left and never a guess. This confirms the chunk file's form_family='untitled-year'. || AMENDMENT BOX: NEITHER 'Yes' NOR 'No' is ticked (verified at 200 dpi \u2014 both squares are empty, unlike Gill's filing where 'No' carries an X). is_amendment is recorded as '' \u2014 honestly blank, never inferred to 'No'. || CHUNK-FILE / LISTING-LABEL DISAGREEMENT: the clerk listing label reads 'Through March 31, 2018'; the FORM checks the APRIL 5 interim box and is signed 'March 29, 2018' (stamped RECEIVED IN OFFICE APR 02 2018). The form governs: reporting_period = 'April 5'. The chunk file's date (2018-03-29) matches the signature date exactly, and candidate ('Steven L. DeBry' \u2014 the form spells DeBry with a capital B), office (County Council) and seat (District 5 \u2014 written '#5' in the District Number cell) are all CONFIRMED at the page. || PRIVACY: the county's bar covers the cover-page street address block and the phone/fax/email strip, and on p3 a single black box spans the Complete Mailing Address column for all three contributor rows \u2014 so no donor geography survives; donor_city/donor_state are blank with 'redacted at source' in each row note. One stray glyph fragment ('d.') sits at the left edge of row 2's Occupation cell, overflowing from under that bar; it is address-block ink, is NOT part of the occupation value, and is not transcribed. || CURRENCY: this filer writes cents as a raised superscript over a short rule ($1,500.00 / $1,000.00 / $500.00 / $4,000.00); those are transcribed with a decimal point per the standing convention. 242.57 / 742.57 / 19,593.87 / 49,953.50 / 27,102.20 / 31,102.20 / 30,359.63 are written in full. The final '0' of Column B's 49,953.50 runs into the cell's right rule; it is legible and is independently corroborated by the identical figure in the Schedule A TOTAL cell, so it is recorded at medium confidence rather than low. || Both schedules are the county's own ruled grid filled in by hand \u2014 shape 'county-grid' on both sides, no attachment anywhere in this 4-page document, and there is no 'Other Campaign Accounts' page in this vintage.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4,000.00",
+     "schedule_total": "49,953.50",
+     "itemized": "4,000.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "3 handwritten rows sum to 1,500.00 + 1,000.00 + 1,500.00 = 4,000.00 = the printed SUBTOTAL FOR THIS PAGE (4,000.00) = Summary Page line 1 Column A (4,000.00) = Summary line 4. \u26a0 The schedule's printed grand-total cell ('TOTAL CONTRIBUTIONS RECEIVED \u2014 Sum of subtotals from all Schedule A pages') reads 49,953.50, which is NOT a sum of page subtotals: it is the CYCLE AGGREGATE and is byte-for-byte the Summary Page Column B figure. That is a per-filer basis quirk, not a delta \u2014 this is a one-Schedule-A-page filing, so a true sum-of-subtotals would read 4,000.00. It is reported here as schedule_total verbatim but is NOT the scope-matching anchor; the period-scope anchors (page subtotal and Summary Column A) agree exactly with the rows. This is NOT the schedule-total-vs-summary-gap class (no in-kind rows exist on this side)."
+    },
+    "expenditures": {
+     "stated": "742.57",
+     "schedule_total": "19,593.87",
+     "itemized": "742.57",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "2 handwritten rows sum to 242.57 + 500.00 = 742.57 = the printed SUBTOTAL FOR THIS PAGE (742.57) = Summary Page line 2 Column A (742.57) = Summary line 6. The printed 'TOTAL EXPENDITUTRES MADE (Sum of subtotals from all Schedule B pages)' cell reads 19,593.87 \u2014 the same filer quirk as Schedule A: it is the cycle aggregate and equals Summary Column B, not the sum of this filing's page subtotals."
+    }
+   },
+   "page_subtotal_gates": "BOTH page-subtotal gates fired and BOTH are EXACT. p3: rows 1,500.00 + 1,000.00 + 1,500.00 = 4,000.00 = printed SUBTOTAL FOR THIS PAGE 4,000.00. p4: rows 242.57 + 500.00 = 742.57 = printed SUBTOTAL FOR THIS PAGE 742.57.",
+   "escalations": 4,
+   "escalation_note": "600 dpi tight cell crops x4 \u2014 p3 Amount column rows 1-3, p3 SUBTOTAL+TOTAL cells, p4 Amount column rows 1-2, p4 SUBTOTAL+TOTAL cells. Every figure re-read IDENTICALLY, so all 5 rows carry verified=1. The crops also settled that the raised cents are a superscript-over-a-rule convention, not a separate figure.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "\u26a0 THIS FILE CARRIES A CANON-SCANNER FONT LAYER AND IT IS A TRAP, CONFIRMED: pdfinfo reports Creator 'Canon iR-ADV C5051 PDF' / Form: AcroForm and pdftotext returns the PRE-PRINTED form labels, but every figure and every name on this filing is HANDWRITTEN and exists only as pixels. Nothing here was taken from the text layer; all values are read off 200 dpi page images with 600 dpi cell escalation. || FORM VINTAGE: the cover title prints NO year at all \u2014 'Financial Disclosure Report / For a Candidate' under a 'SHERRIE SWENSEN, Salt Lake County Clerk' letterhead (the older vintage; the Gill April-2018 filing in this same chunk uses the newer '2017 Financial Disclosure Report' stock). form_year is therefore null = the field does not exist in this document, NOT a blank the filer left and never a guess. This confirms the chunk file's form_family='untitled-year'. || AMENDMENT BOX: NEITHER 'Yes' NOR 'No' is ticked (verified at 200 dpi \u2014 both squares are empty, unlike Gill's filing where 'No' carries an X). is_amendment is recorded as '' \u2014 honestly blank, never inferred to 'No'. || CHUNK-FILE / LISTING-LABEL DISAGREEMENT: the clerk listing label reads 'Through March 31, 2018'; the FORM checks the APRIL 5 interim box and is signed 'March 29, 2018' (stamped RECEIVED IN OFFICE APR 02 2018). The form governs: reporting_period = 'April 5'. The chunk file's date (2018-03-29) matches the signature date exactly, and candidate ('Steven L. DeBry' \u2014 the form spells DeBry with a capital B), office (County Council) and seat (District 5 \u2014 written '#5' in the District Number cell) are all CONFIRMED at the page. || PRIVACY: the county's bar covers the cover-page street address block and the phone/fax/email strip, and on p3 a single black box spans the Complete Mailing Address column for all three contributor rows \u2014 so no donor geography survives; donor_city/donor_state are blank with 'redacted at source' in each row note. One stray glyph fragment ('d.') sits at the left edge of row 2's Occupation cell, overflowing from under that bar; it is address-block ink, is NOT part of the occupation value, and is not transcribed. || CURRENCY: this filer writes cents as a raised superscript over a short rule ($1,500.00 / $1,000.00 / $500.00 / $4,000.00); those are transcribed with a decimal point per the standing convention. 242.57 / 742.57 / 19,593.87 / 49,953.50 / 27,102.20 / 31,102.20 / 30,359.63 are written in full. The final '0' of Column B's 49,953.50 runs into the cell's right rule; it is legible and is independently corroborated by the identical figure in the Schedule A TOTAL cell, so it is recorded at medium confidence rather than low. || Both schedules are the county's own ruled grid filled in by hand \u2014 shape 'county-grid' on both sides, no attachment anywhere in this 4-page document, and there is no 'Other Campaign Accounts' page in this vintage."
+  }
+ }
+}

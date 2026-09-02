@@ -1,0 +1,98 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "100.00",
+ "ending_balance": "100.00",
+ "aggregate": {
+  "total_contributions_to_date": "401.61",
+  "total_expenditures_to_date": "301.61",
+  "line5_subtotal": "100.00"
+ },
+ "cover": {
+  "candidate": "Roger Livingston",
+  "party": "Republican",
+  "office_sought": "County Council District",
+  "district_number": "4",
+  "report_type": "INTERIM REPORTS: Seven days before a primary election",
+  "is_amendment": "Yes",
+  "amendment_of": "2024-06-19",
+  "report_date": "2024-06-19",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Livingston-Roger__567F4532.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Livingston, Roger",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Livingston-Roger__567F4532.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Form titled '2020 Financial Disclosure Report For a Candidate' filed for the 2024 cycle - form_year is the printed title, NEVER the cycle. Two-page filing: cover + Summary Page only; NO Schedule A or B page exists in the document. Marked 'Seven days before a primary election' AND 'Is this report an amendment? Yes (If yes, date of report) 2024-06-19'. Column A is $0.00 on lines 1/2 while Column B aggregates print $401.61 (contributions to date) and $301.61 (expenditures to date) - consistent with an amendment that zeroes the period figures. Signature is a DocuSign e-stamp dated 06/19/24 3:30 PM covering the Date line. Cover 'Office Sought' prints 'County Council District' with District Number '4' (index prior 'County Council' confirmed in substance). Audit priors confirmed at the page.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page exists in the document; Summary line 1 Column A prints $0.00 so the absence is consistent, not a gap"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page exists in the document; Summary line 2 Column A prints $0.00 so the absence is consistent, not a gap"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages - no subtotals to gate",
+   "escalations": 0,
+   "escalation_note": "none needed - all figures cleanly legible at 200dpi",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Form titled '2020 Financial Disclosure Report For a Candidate' filed for the 2024 cycle - form_year is the printed title, NEVER the cycle. Two-page filing: cover + Summary Page only; NO Schedule A or B page exists in the document. Marked 'Seven days before a primary election' AND 'Is this report an amendment? Yes (If yes, date of report) 2024-06-19'. Column A is $0.00 on lines 1/2 while Column B aggregates print $401.61 (contributions to date) and $301.61 (expenditures to date) - consistent with an amendment that zeroes the period figures. Signature is a DocuSign e-stamp dated 06/19/24 3:30 PM covering the Date line. Cover 'Office Sought' prints 'County Council District' with District Number '4' (index prior 'County Council' confirmed in substance). Audit priors confirmed at the page."
+  }
+ }
+}

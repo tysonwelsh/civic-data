@@ -1,6 +1,35 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-10-06",
+   "donor_raw": "Kerry Soelberg",
+   "occupation": "Retired",
+   "amount": "769.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,20.84,89.60,3.89@p3",
+   "note": "city/state redacted at source (address cell bar-blackened)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-10-06",
+   "vendor_raw": "City Printing",
+   "purpose": "Loan to campaign - Signs",
+   "amount": "769.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,22.18,81.28,3.93@p4"
+  }
+ ],
  "total_contributions": "$769.52",
  "total_expenditures": "$769.52",
  "beginning_balance": "$0.00",
@@ -49,6 +78,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Final/Dissolution, zero closing balance. Listed as 'NovFinancial2022' but the form checks Final/Dissolution and is dated 10/28/22. Form title reads 2020 (template reuse)."
+  "notes": "Final/Dissolution, zero closing balance. Listed as 'NovFinancial2022' but the form checks Final/Dissolution and is dated 10/28/22. Form title reads 2020 (template reuse).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "769.52",
+     "schedule_total": "769.52",
+     "itemized": "769.52",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "single row 769.52 = Summary line 1 Column A = schedule TOTAL; cached anchor confirmed at the page"
+    },
+    "expenditures": {
+     "stated": "769.52",
+     "schedule_total": "769.52",
+     "itemized": "769.52",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "single row 769.52 = Summary line 2 Column A = schedule TOTAL"
+    }
+   },
+   "page_subtotal_gates": "p3 row 769.52 = printed SUBTOTAL FOR THIS PAGE 769.52; p4 row 769.52 = printed subtotal 769.52",
+   "escalations": 0,
+   "escalation_note": "400dpi row-band re-read crops for verification only; no disputes",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2022 filing on the 2020 candidate form. FINAL / DISSOLUTION REPORT box checked; amendment = No; signed 10/28/22. Party UUP; Office Sought '_Council - District', District 3. Contributor address cell bar-redacted at source."
+  }
  }
 }

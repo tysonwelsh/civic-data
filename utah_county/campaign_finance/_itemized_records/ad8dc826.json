@@ -1,0 +1,30 @@
+[{
+ "index_path": "raw/2024/2024_Kim_Jackson_Redacted_1_.pdf",
+ "key": "ad8dc826",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah r13_02)",
+ "transcribed_date": "2026-08-20",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "",
+ "itemized_pages_B": "",
+ "sides": {"contributions": "empty-schedule", "expenditures": "empty-schedule"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' ($0.00, handwritten with the cents raised) on the p4 Summary Page, equal to Schedule A's own printed 'Subtotal for this page $ 0.00' AND its 'Total Contributions Received / Sum of all Schedule A pages in this report $ 0.00' (p2)",
+   "detail": "ZERO rows, and the page states zero explicitly three times over. Schedule A's 15-row boxed grid is WHOLLY UNMARKED — no entry, no banner, no strike, no void stroke — and the filer wrote an explicit '0.' with raised '00' cents on BOTH printed footers; Box B repeats it. Under the zero-glyph ruling that written 0.00 is a NUMERAL (not a nil mark), so the side's honest reconciliation is zero rows summing to 0.00 against a printed 0.00. Box C 'Contributions Received Year to Date' prints 1,375.74 — the cycle figure carried forward from this filer's earlier 'Seven days preceding the General Election' report — and is NEVER summed as an increment and NEVER used to justify importing that report's rows here. This is a genuinely zero-activity period, not an unread schedule."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' ($0.00) on the p4 Summary Page, equal to Schedule B's own printed 'Subtotal for this page $ 0.00' AND its 'Total Expenditures Made / Sum of all Schedule B pages in this report $ 0.00' (p3)",
+   "detail": "ZERO rows against a printed zero, on the same terms as the contribution side: Schedule B's 15-row boxed grid is wholly unmarked and the filer wrote an explicit '0.' with raised '00' on both printed footers, repeated at Box D. Box E YTD prints 1,375.74 (cumulative, never summed as an increment). The whole ladder is nil: A = $0.00, F = A + B = $0.00, close = F - D = $0.00, all handwritten and all consistent."
+  }
+ },
+ "in_kind_convention": "not applicable — no rows exist on either side. The schedules are the FOUR-column v. 12.23 sheets, which carry no in-kind checkbox and no in-kind line at all, so neither convention has anything to act on and both give 0.00 / 0.00.",
+ "escalations": 2,
+ "escalation_note": "Two 600 dpi crops, both GHOST/SHOW-THROUGH SCREENS rather than value escalations (§K4): the full width of the upper half of each schedule grid (pct:5.1,15.64,88.0,34.5@p2 and pct:5.3,15.75,88.0,34.5@p3) was rendered enlarged to check whether faint marks or bleed-through from the sheet behind could be mistaken for entries. Both rendered CLEAN RULED CELLS with no ink of any kind — only the pale blue scanner banding that crosses every page of this document. The lower halves were cleared by the full-page 200 dpi reads. No figure was in dispute and nothing was changed.",
+ "frames": {},
+ "contributions": [],
+ "expenditures": [],
+ "notes": "MEMBER 3 OF THE KIM JACKSON THREE-DOCUMENT CLUSTER (449438fe / 713ed444 / ad8dc826), read INDEPENDENTLY of the other two. ⚠⚠ CLUSTER VERDICT FOR THIS DOCUMENT (§K2): it is kind (4), A DIFFERENT REPORT ENTIRELY — NOT a second redaction pass, despite the filename. The '_Redacted_1_' suffix is exactly the kind of pointer the wave guidance warns about: the base brief flags '_Redacted_1_ is literal' as a second-redaction-pass tell, and on THIS filing that reading is WRONG. The page face settles it beyond doubt: the ticked report type is '30 DAYS AFTER THE GENERAL ELECTION' (the sibling pair both tick 'Seven days preceding the General Election'), the signature date and Date of Report are 12/5/2024 (the pair are 10/28/2024), and the clerk RECEIVED stamp reads DEC 05 2024 in four places (the pair carry OCT 28 2024). It is the filer's NEXT report of the same cycle. Row-level evidence, not totals: this document's Schedule A and Schedule B are both wholly EMPTY where the siblings each carry a full ledger, and its Box C / Box E print 1,375.74 as the YEAR-TO-DATE carry of what the siblings reported as the PERIOD figure — the classic per-period-to-cumulative hand-off between two consecutive reports, which is why nothing may be merged, netted or differenced across them. The '_1_' in the filename is a downloader's collision suffix on a repeated file name, not a redaction generation. SIDE STATES: both sides are `empty-schedule` — the schedule pages EXIST and the filer entered nothing — and each page states that in its own hand with an explicit 0.00 at both printed footers. This is a WHOLLY BLANK GRID, not a 'None' banner: §N6 distinguishes the two `empty-schedule` facts and this document shows the blank-grid one on both sides. It is emphatically NOT 'no donors unknown' and NOT a failed read. PAGE-FACE identity: 'Kim Jackson' handwritten; Office box reads exactly 'Treasurer' (index.csv's 'County Treasurer' is a naming convention; its 'Kim T Jackson' carries a middle initial the page does not print — the page face governs). index.csv's reporting_period '30 Days after General' AGREES with the page face here. FORM: modern_boxAF, footer 'v. 12.23' on all four pages, masthead 'Aaron Davidson / Clerk', four-column §M2 schedules, Schedule B with a real Purpose column, Summary located by content on the LAST page with an UNLETTERED close box; foliation complete 1 / 2 / 3 / 4. NO CHECKLIST DECOY is bound. REDACTION is the county's and covers the cover's street address, phone number and signature; City / State / Zip stay in the clear; neither schedule carries a bar, so the empty cells are the filer's, not the clerk's. PRIVACY: no street address or phone number is carried into this record."
+}]

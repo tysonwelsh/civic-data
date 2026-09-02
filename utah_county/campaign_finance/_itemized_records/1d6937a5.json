@@ -1,0 +1,121 @@
+[
+ {
+  "index_path": "raw/2016/2016_RNIvie.pdf",
+  "key": "1d6937a5",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_03)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4",
+  "sides": {
+   "contributions": "empty-schedule",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED, a written '0' with the filer's raised-dash cents mark, on the p2 SUMMARY PAGE — repeated at line 4. ⚠ SCHEDULE A ITSELF PRINTS NO FIGURE: both its 'Subtotal for this page' and 'Total Contributions Received' lines are left BLANK, so the cover's Column A is the ONLY printed anchor for this side and none was synthesized.",
+    "detail": "ZERO-ACTIVITY CONTRIBUTION SIDE. Schedule A (p3) carries the single handwritten word 'None' in the Name of Contributor cell of printed row 1, with that row's Date, Address and Amount cells empty and all fifteen rows below it blank. That is a BANNER LINE (addendum E3): an annotation, NOT an entry — it publishes ZERO rows, and the side's state is `empty-schedule` (the page exists and the filer entered nothing), not `withheld` and not `no-schedule-page`. Zero rows sum to 0.00 = the cover's Column A '0'. Column B Year-to-Date prints 29,194 — the cycle figure, identical to the one on his own 11/1/16 report — and was NOT summed as an increment. ⚠ THE BANNER OCCUPIES PRINTED ROW 1: had this filer written a real entry below it, every row index on the sheet would have been shifted by one with no arithmetic gate able to see it. Recorded so the trap stays visible."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Schedule B's own printed 'Subtotal for this page $179.35' (written '179' with a raised '35'), which equals Column A 'Total this Period' TOTAL EXPENDITURES MADE (179.35) on the p2 SUMMARY PAGE and the cover's line 6. ⚠ Schedule B's 'Total Expenditures' line is left BLANK, so the page subtotal and the cover are the two anchors and the third printed anchor this form usually offers does not exist here.",
+    "detail": "The 3 Schedule B rows sum to 134.61 + 23.37 + 21.37 = 179.35 EXACTLY — equal to the schedule's printed page subtotal and to the cover's PROMOTED per-period Column A cell. All three cents figures are raised underlined superscripts and each was escalated to a 1200 dpi tight crop; the closure is what fixes the reading (ARITHMETIC CLOSURE OUTRANKS GLYPH READING). Column B Year-to-Date prints 28,814.25 and was never summed as an increment. The cover's ladder closes independently: line 3 beginning balance 559.10 — which is exactly the line 7 close of this filer's own 11/1/16 report (68f90974), an observation only, nothing differenced — plus line 4 '0' = line 5 subtotal 559.10, minus line 6 179.35 = line 7 close 379.75, all as printed."
+   }
+  },
+  "in_kind_convention": "not applicable / both conventions identical — no in-kind column is printed on either schedule, no row is marked in-kind, the contribution side has no rows at all, and the summary page carries no in-kind line, so monetary-only and monetary-plus-in-kind both give 0.00 and 179.35. Tested per filing, not inherited.",
+  "escalations": 6,
+  "escalation_note": "6 crops. FIVE at 1200 dpi on Schedule B — all three amount cells, the one-past control and the printed page subtotal — run because every cents figure on this filing is a raised underlined superscript; each reproduced what is recorded, the control was empty, and no figure was changed. ONE at 500 dpi across Schedule A's printed row 1, which rendered the single handwritten word 'None' in the Name of Contributor cell with the Date, Address and Amount cells of that row empty — the evidence for the banner-line reading.",
+  "frames": {
+   "4": {
+    "axis": "y",
+    "cell": [
+     83.29,
+     93.48
+    ],
+    "cells": [
+     [
+      5.66,
+      17.55
+     ],
+     [
+      19.02,
+      52.69
+     ],
+     [
+      54.04,
+      81.82
+     ],
+     [
+      83.29,
+      93.48
+     ]
+    ],
+    "rows": [
+     [
+      17.69,
+      21.74
+     ],
+     [
+      21.74,
+      25.79
+     ],
+     [
+      25.79,
+      29.82
+     ]
+    ],
+    "measure_note": "legacy_colAB UNDERLINE form. rowbands.py p4: 17 per-column underline rules at 21.74..85.x, pitch 4.05, skew +0.2 deg (17 rules = 16 data rows). Column bands from the rule segments: Date 5.66-17.55, EXPENDITURE 19.02-52.69, Mailing Address & Zip Code 54.04-81.82, Amount 83.29-93.48. TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N]; band 1 extrapolated one pitch up to [17.69,21.74]. FOUR-CROP PROOF at 1200 dpi --value, EVERY transcribed row plus the control (there are only three rows): the §A1 FIRST-ENTRY control pct:83.29,17.69,10.19,4.05@p4 rendered the printed 'Amount' header WITH '134' + a raised underlined '61' beneath it — the filer did NOT skip the first ruled line; row 2 pct:83.29,21.74,10.19,4.05@p4 rendered '23' + raised '37'; row 3 pct:83.29,25.79,10.19,4.03@p4 rendered '21' + raised '37'; and the mandatory §B5 ONE-PAST control pct:83.29,29.82,10.19,4.07@p4 rendered an EMPTY cell — no trap-5 row below the grid. A further crop of the footer band rendered '$ 179' + raised '35', the sheet's own printed 'Subtotal for this page'. NOTE the cents on this filing are RAISED, UNDERLINED SUPERSCRIPTS over the dollars, which is why each was crop-verified."
+   }
+  },
+  "contributions": [],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "9 Dec 2016",
+    "vendor_raw": "Allens Camera",
+    "purpose": "Thank you Cards",
+    "amount": "134.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "date written day-month-year in words ('9 Dec 2016'), the filer's own format, kept VERBATIM. Cents are a RAISED UNDERLINED SUPERSCRIPT over the dollars and the cell was escalated to a 1200 dpi tight crop; the reading is additionally fixed by the side's exact closure at 179.35. ⚠ FIELD-ORDER NOTE (addendum F2 class, benign): the third column is PRINTED 'Mailing Address & Zip Code' but the filer used it for the PURPOSE on all three rows and gave no vendor address anywhere. Columns were assigned BY CONTENT, not position — payee from the 'Expenditure' column, purpose from the address column — the same habit this filer shows on his 11/1/16 report (68f90974). The side is fully assignable, so it is transcribed, not withheld. There is NO Purpose column on this form."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "9 Dec 2016",
+    "vendor_raw": "USPS",
+    "purpose": "Stamps",
+    "amount": "23.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "date written day-month-year in words ('9 Dec 2016'), the filer's own format, kept VERBATIM. Cents are a RAISED UNDERLINED SUPERSCRIPT over the dollars and the cell was escalated to a 1200 dpi tight crop; the reading is additionally fixed by the side's exact closure at 179.35. ⚠ FIELD-ORDER NOTE (addendum F2 class, benign): the third column is PRINTED 'Mailing Address & Zip Code' but the filer used it for the PURPOSE on all three rows and gave no vendor address anywhere. Columns were assigned BY CONTENT, not position — payee from the 'Expenditure' column, purpose from the address column — the same habit this filer shows on his 11/1/16 report (68f90974). The side is fully assignable, so it is transcribed, not withheld. There is NO Purpose column on this form."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "15 Dec 2016",
+    "vendor_raw": "Allens Camera",
+    "purpose": "Printing",
+    "amount": "21.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "date written day-month-year in words ('15 Dec 2016'), the filer's own format, kept VERBATIM. Cents are a RAISED UNDERLINED SUPERSCRIPT over the dollars and the cell was escalated to a 1200 dpi tight crop; the reading is additionally fixed by the side's exact closure at 179.35. ⚠ FIELD-ORDER NOTE (addendum F2 class, benign): the third column is PRINTED 'Mailing Address & Zip Code' but the filer used it for the PURPOSE on all three rows and gave no vendor address anywhere. Columns were assigned BY CONTENT, not position — payee from the 'Expenditure' column, purpose from the address column — the same habit this filer shows on his 11/1/16 report (68f90974). The side is fully assignable, so it is transcribed, not withheld. There is NO Purpose column on this form."
+   }
+  ],
+  "notes": "⚠ ONE FILER, ONE CYCLE, TWO DIFFERENT INNER-SHEET STOCKS — the sharpest F6 instance in this chunk. This is R. Nathan Ivie's second 2016 filing (the first is 68f90974, 11/1/16). Both sit under the same cover blank ('FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', Utah County Code 2-5 & 17-16-6.5 & 20A-11-13, HEART of UTAH letterhead, 'Local School & County Candidates' down the left margin — note even THAT margin string differs from his other filing's 'County & Local School Board Candidates'). But the INNER SHEETS are a different print run: here they are strap-lined '2016 County Commission & Local School Board Candidate' and the SCHEDULE B COLUMN IS HEADED 'Expenditure', where his 11/1/16 filing is strap-lined '2016 County & Local School Board Candidates' with Schedule B headed 'Name/Nature of Expenditure'. The same hand, six weeks apart, on two different stocks. Read the headings off every page — the cover predicts nothing, and neither does the filer's previous filing. Across this chunk the 2016 cycle now shows TWO cover blanks and THREE Schedule-B column vocabularies in ONE seat. 4 pages, each classified by its own printed header: p1 cover, p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B. The Page __ of __ / Last Name / Date of Report block is printed on pp2-4 and left WHOLLY BLANK on all three, as on his other filing and on both Bowen filings. PAGE-FACE NAME 'Nathan Ivie'; index.csv names NO candidate for this row, and note the page face here reads 'Nathan Ivie' where his 11/1/16 cover reads 'R. Nathan Ivie' — the same drift the channel labels show. OFFICE SEEKING is written simply 'Commissioner' — NO SEAT LETTER IS PRINTED ON THIS FILING. The channel and index.csv carry 'County Commission Seat C'; the seat is NOT inferred here from the channel, from his other filing, or from the cycle (CHUNK_BRIEF §5). Party 'Rep'. Report type '30 Days after the General Election'; amendment ticked 'No'; report date '23 Dec 2016', day-month-year in words — the same date, in the same format, as Jeanne Bowen's year-end filing (950f13c0), which is a coincidence of the filing deadline and is used for nothing. THE ITEMIZED DATES ARE ALSO DAY-MONTH-YEAR IN WORDS ('9 Dec 2016', '15 Dec 2016') — a third date format in this chunk alongside M/D/YYYY and bare M/D. Kept verbatim; the build normalizes what it can. PRIVACY: not a redacted file. The contribution side has no rows; on the expenditure side the filer recorded no vendor address at all (he used that column for purposes), and expenditure rows carry no address field in this schema in any case. The filer's own residence street line on the cover was not carried. FIELD-SHIFT SCREEN run on the expenditure side and it caught the purpose-in-the-address-column pattern described in each row's note; the columns are assignable by content, so nothing is withheld. Row-index traps: the §A1 and §B5 controls passed on Schedule B, and Schedule A carries a live instance of trap E3 — a 'None' BANNER on printed row 1 that publishes no row."
+ }
+]

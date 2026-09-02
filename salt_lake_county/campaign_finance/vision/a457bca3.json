@@ -1,0 +1,117 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2016-03-11",
+   "vendor_raw": "SLCO Clerk",
+   "purpose": "Filing Fee",
+   "amount": "235.53",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.97,23.66,81.00,4.16@p4",
+   "note": "PURPOSE CELL HOLDS TWO LINES. The second reads 'Filing Fee' clearly. The first is an illegible cursive word - at 1200 dpi, contrast-normalized, the legible glyphs are approximately 'Ca...ll' (it begins 'Ca' and ends in a tall double-stroke) and it straddles the header rule. It was NOT completed to a plausible word; the obvious semantic candidate given the payee is not transcribed because the glyphs do not support it. Amount written 235 with a raised superscript 53 over a rule = 235.53, which the page's own SUBTOTAL/TOTAL and Summary line 2 all confirm."
+  }
+ ],
+ "total_contributions": "0",
+ "total_expenditures": "235.53",
+ "beginning_balance": "10,171.62",
+ "ending_balance": "9,936.09",
+ "aggregate": {
+  "total_contributions_to_date": "10,171.62",
+  "total_expenditures_to_date": "735.53",
+  "line5_subtotal": "10,171.62"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "6",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-5-2016",
+  "form_year": "2016"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2016_disclosures__april__max-burdick_april.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2016_disclosures__april__max-burdick_april.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Chunk-file agreement: candidate/office/seat/date/period all confirmed at the form (Max Burdick, Office Sought 'Council', District Number 6, April 5 box checked, signed 4-5-2016, RECEIVED APR 05 2016). The chunk file's schedule_a value 'not-inspected' is now resolved: the Schedule A page EXISTS (p3) and is blank - a real zero, NOT a missing page. The amendment Yes/No pair is left entirely unchecked, so is_amendment is ''. On the cover the candidate's handwritten name runs out of the Name box into the adjacent 'Office' box, so that box has no independent value; office_sought is taken from the 'Office Sought' line as the form intends. CURRENCY: this filer writes cents as a raised superscript over a short rule throughout (235 with a superscript 53 = 235.53, 10,171 with a superscript 62 = 10,171.62); transcribed with a decimal point per the standing convention. ZERO GLYPHS: Summary line 1 Column A and line 4 both carry a hand-drawn oval with a horizontal strike through it, and the Schedule A SUBTOTAL/TOTAL cells carry the same mark - all read as 0 with the glyph described here. The Schedule A page also carries a single long diagonal pen stroke across the whole grid (a nil mark), which is not a transaction. Column B is LARGER than Column A on line 2 (735.53 aggregate vs 235.53 this period), which is internally consistent; kept verbatim. Each of pages 2, 3 and 4 is numbered 'Page 1 of 1' by the filer rather than 2/3/4 of 4 - a per-sheet numbering habit, recorded, not corrected.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "A REAL ZERO, not a gap: the county Schedule A page is present (p3) and every data row is empty; the filer struck a single diagonal line across the whole grid and wrote a zero glyph in the SUBTOTAL and TOTAL cells. Summary line 1 Column A carries the same slashed-zero glyph. Per the repo ZERO-GLYPH RULING a glyph denoting zero IS 0, so stated = schedule_total = itemized = 0 and the side gates exactly with zero rows."
+    },
+    "expenditures": {
+     "stated": "235.53",
+     "schedule_total": "235.53",
+     "itemized": "235.53",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "The single Schedule B row (235.53) equals the page's printed SUBTOTAL FOR THIS PAGE (235.53), the printed TOTAL EXPENDITUTRES MADE (235.53), and Summary Page line 2 Column A (235.53). No in-kind marker on the side, so no scope question."
+    }
+   },
+   "page_subtotal_gates": "p3: SUBTOTAL and TOTAL cells both carry a hand-drawn zero glyph (read at 1200 dpi) = the transcribed row sum of 0 - the blank-schedule gate holds. p4: rows 235.53 = printed SUBTOTAL 235.53 = printed TOTAL 235.53.",
+   "escalations": 5,
+   "escalation_note": "p2 line-1 Column A/B cell at 1200 dpi x1 (confirmed the slashed-zero glyph and the superscript cents on 10,171.62); p2 lines 3-7 block at 1200 dpi x1 (confirmed the second slashed zero on line 4 and every superscript-cents figure); p3 SUBTOTAL/TOTAL cells at 1200 dpi x1 (confirmed both are zero glyphs, not figures); p4 row 1 full width at 1200 dpi x1; p4 Purpose cell at 1200 dpi contrast-normalized x1 (still could not resolve the first word).",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Chunk-file agreement: candidate/office/seat/date/period all confirmed at the form (Max Burdick, Office Sought 'Council', District Number 6, April 5 box checked, signed 4-5-2016, RECEIVED APR 05 2016). The chunk file's schedule_a value 'not-inspected' is now resolved: the Schedule A page EXISTS (p3) and is blank - a real zero, NOT a missing page. The amendment Yes/No pair is left entirely unchecked, so is_amendment is ''. On the cover the candidate's handwritten name runs out of the Name box into the adjacent 'Office' box, so that box has no independent value; office_sought is taken from the 'Office Sought' line as the form intends. CURRENCY: this filer writes cents as a raised superscript over a short rule throughout (235 with a superscript 53 = 235.53, 10,171 with a superscript 62 = 10,171.62); transcribed with a decimal point per the standing convention. ZERO GLYPHS: Summary line 1 Column A and line 4 both carry a hand-drawn oval with a horizontal strike through it, and the Schedule A SUBTOTAL/TOTAL cells carry the same mark - all read as 0 with the glyph described here. The Schedule A page also carries a single long diagonal pen stroke across the whole grid (a nil mark), which is not a transaction. Column B is LARGER than Column A on line 2 (735.53 aggregate vs 235.53 this period), which is internally consistent; kept verbatim. Each of pages 2, 3 and 4 is numbered 'Page 1 of 1' by the filer rather than 2/3/4 of 4 - a per-sheet numbering habit, recorded, not corrected."
+  }
+ }
+}

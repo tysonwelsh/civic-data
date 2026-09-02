@@ -3,7 +3,10 @@
  "key": "c2a292b6",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:15:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -58,5 +61,76 @@
    "notes": "Same filer as key 9162c34a, the post-election report. The cover page is the handwritten legacy county form; the summary page is again the filer's own TYPED 'Summary Page' spreadsheet (This Period / Year to Date columns plus a Balance Summary block) rather than the printed Column A/B grid. TWO CELLS PRINT A DASH, NOT A NUMBER: 'Contributions Received - This Period' and 'Total Contributions Received' both show a spreadsheet accounting-format '$   -'. A dash is not a digit, so both are transcribed '' and flagged rather than read as zero. The Year-to-Date contributions figure 46,422.13 is identical to the one on this filer's pre-election report (key 9162c34a), and the beginning balance 4,019.95 matches that report's closing balance. Office Seeking reads 'Treasurer' (index office 'County Treasurer' - naming convention). Phone and fax left blank by the filer."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "11/4/2014",
+   "vendor_raw": "BCR Political, LLC - Campaign Work",
+   "purpose": "Campaign Work",
+   "amount": "888.66",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.82,16.85,8.83,2.09@p4",
+   "geometry_frame": "p4 axis=y cell=81.82-90.65 rowband=16.85-18.94 (1 of 2 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the 2014 blank's Schedule B prints NO Purpose column, and this filer's own typed ledger reproduces that four-column shape (Date / Name of Recipient / Mailing Address & Zip Code / Amount); the purpose is the documented workaround of APPENDING IT AFTER A HYPHEN inside the payee cell, so 'Campaign Work' is the filer's own stated purpose read out of the payee cell and the payee cell is kept verbatim. PRIVACY: the ledger prints a street line for this payee; expenditure rows carry no address field and it is deliberately not carried anywhere, not even in this note."
+  },
+  {
+   "line_no": "2",
+   "date": "12/4/2014",
+   "vendor_raw": "Kim Jackson - Loan Payback",
+   "purpose": "Loan Payback",
+   "amount": "3126.29",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.82,18.94,8.83,2.09@p4",
+   "geometry_frame": "p4 axis=y cell=81.82-90.65 rowband=18.94-21.03 (2 of 2 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "purpose appended after a hyphen in the payee cell, as row 1. A LOAN LINE CLASSIFIED BY THE LADDER, not by the word 'loan' (brief \u00a7B3/\u00a7C2): this is a repayment TO the candidate on the EXPENDITURE side and the cover books it inside expenditures \u2014 beginning 4,019.95 + 0 contributions - 4,014.95 = closing 5.00 closes only with this 3,126.29 counted as an expenditure, so it is an itemized expenditure row. Dated the same day the report was signed (12/4/2014). PRIVACY: the payee is the candidate himself and his own street line is printed beside it; not carried."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r4_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "expenditures": {
+     "result": "exact",
+     "anchor": "the p2 Summary Page's 'This Period' column for 'Expenditures Made' (4,014.95), which is also its 'Total Expenditures Made' line AND the printed total that closes the p4 'Expenditures Made' ledger",
+     "detail": "2 typed ledger rows sum to 888.66 + 3126.29 = 4,014.95 exactly = the ledger's own printed total line on p4 = the Summary Page's per-period 'This Period' Expenditures Made = its 'Total Expenditures Made' balance-summary line. The CUMULATIVE 'Year to Date' cell prints 46,417.13 and is NOT summed as an increment (utah_county is a per-period regime). The ladder also closes: beginning 4,019.95 + contributions 0 = subtotal 4,019.95 - 4,014.95 = closing 5.00, exactly as printed."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 this filer's own typed ledger has no in-kind column and no row is marked in-kind, so monetary-only and monetary-plus-in-kind give the identical sum 4,014.95 and both close on the printed anchor",
+   "escalations": 3,
+   "escalation_note": "Three 900 dpi tight --value cell crops on p4, used as the mandatory geometry proof rather than to settle a legibility dispute (this filing is typed and clean): row 1 amount rendered '$ 888.66', row 2 amount rendered '$ 3,126.29', and the mandatory one-band-past-the-end control rendered '$ 4,014.95' \u2014 the ledger's PRINTED TOTAL line, not a third entry, which is the proof there are exactly two data rows. A fourth crop (400 dpi, full band strip) of p3 below its header rule rendered only the four printed column headings 'Date / Name of Contributor / Mailing Address & Zip Code / Amount' over white space, proving the contributions schedule is blank rather than unread.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "measured": 2,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Page-face candidate 'Kim Jackson' (Republican, Office Seeking 'Treasurer', residence city Orem) \u2014 index.csv names NO candidate for this row, so the page face supplies it. 4 pages: p1 is the county's 2014 blank cover ('2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', Utah County Code 2-5 & Utah State Code 17-16-6.5), report type '30 Days after the General Election' ticked, amendment answered 'No', signed 12/4/2014. NEW SOURCE PROPERTY: pp2-4 are NOT the county's printed Summary Page / Schedule A / Schedule B at all \u2014 this filer substituted THREE PAGES OF HIS OWN TYPED (spreadsheet-produced) LEDGER, headed 'Summary Page', 'Contributions Received' and 'Expenditures Made', reproducing the county's line labels and its four-column schedule shape but with no printed grid rules beyond the header underline and no 'Subtotal for this page' line. This is the PORTRAIT analogue of the landscape case in ADDENDUM A \u00a7A2 (Witney 2010): the county FORM is missing, the filer's ENTRIES are not, so the sides are transcribed/empty-schedule on their own terms and NOT 'no-schedule-page'. The 4-page count (pdfinfo) confirms nothing is missing. CONTRIBUTIONS SIDE = empty-schedule: p3 'Contributions Received' prints its four column headings ('Date / Name of Contributor / Mailing Address & Zip Code / Amount') over their underlines and NOTHING BELOW THEM \u2014 no entries, no 'None' banner, no total line; a 400 dpi strip crop of the 12% of page height below the header rule rendered white. Consistent with the Summary Page, which prints a BARE DASH for Contributions Received 'This Period' and again on the balance-summary 'Total Contributions Received' line \u2014 under the zero-glyph ruling a bare dash is a nil mark, NOT a numeral, so no zero is claimed and the module's published stated total for contributions stays blank; the ladder nonetheless requires the period's contributions to be nil (4,019.95 + x - 4,014.95 = 5.00 => x = 0). The typeset is Excel's accounting format, in which '$    -' is how that program prints zero, but the glyph on the page is a dash and it is transcribed as one. Year-to-Date contributions 46,422.13 and expenditures 46,417.13 are cumulative and never summed. This is the filer's post-election wind-up report \u2014 same filer as key 9162c34a per the cover tranche's note."
+  }
+ }
 }

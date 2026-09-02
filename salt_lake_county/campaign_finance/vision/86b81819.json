@@ -1,0 +1,313 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "JIM BRADLEY (LOAN)",
+   "amount": "1200",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=high;occupation=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.69,21.35,89.50,4.04@p5",
+   "note": "DATE LEFT BLANK: the cell reads '8/20' verbatim - two fields only, so either the day or the year is missing and the form does not say which. Never completed from the report date. The contributor cell holds the filer's own name with '(LOAN)' circled beneath it, transcribed together as written; the Summary Page repeats '(LOAN)' under line 1 Column A. This is a candidate self-loan, but the county Schedule A prints no in-kind and no loan column, so in_kind is false and the marker lives here. OCCUPATION: blank because the county's black bar covers the Occupation/Employer cell as well as the address column - REDACTED AT SOURCE, not left empty by the filer."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2020-01-20",
+   "vendor_raw": "LANDSLIDE POLITICAL",
+   "purpose": "website devel.",
+   "amount": "400",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,22.32,80.94,4.13@p6",
+   "note": "the only lower-case purpose on the page; written 'website devel.' with the abbreviation point."
+  },
+  {
+   "line_no": 2,
+   "date": "2020-04-21",
+   "vendor_raw": "LANDSLIDE POLITICAL",
+   "purpose": "website devel.",
+   "amount": "400",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,26.45,80.94,4.07@p6",
+   "note": "DITTO ROW: both the Recipient and the Purpose cells hold a pair of ditto marks (\") resolving to row 1 - 'LANDSLIDE POLITICAL' / 'website devel.'. Resolution stated per the ditto rule."
+  },
+  {
+   "line_no": 3,
+   "date": "2020-06-21",
+   "vendor_raw": "MAX BURDICK FOR COUNCIL",
+   "purpose": "DONATION",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,30.53,80.94,4.14@p6",
+   "note": "written on two lines, 'MAX BURDICK FOR' / 'COUNCIL'. Same-chunk observation: Max Burdick is the filer of record 2 in chunk_24."
+  },
+  {
+   "line_no": 4,
+   "date": "2020-08-21",
+   "vendor_raw": "MAX CHANG FOR SCH. BOARD",
+   "purpose": "DONATION",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,34.66,80.94,4.09@p6",
+   "note": "written on two lines, 'MAX CHANG FOR' / 'SCH. BOARD'. A school-board recipient does NOT make this a school-board filing - the office line inside this form is SLCo. Council, so the filing stays in scope; only the payee is a school-board campaign."
+  },
+  {
+   "line_no": 5,
+   "vendor_raw": "RASHELLE FOR RECORDER",
+   "purpose": "DONATION",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,38.75,80.94,4.15@p6",
+   "note": "DATE LEFT BLANK: the cell reads '8/[day]/20' where the day is a SINGLE OVERWRITTEN GLYPH - two digits struck one on top of the other. Re-rendered at 1200 dpi and still not separable ('21' and '27' both fit the strokes), so it is not completed; month 8 and year 20 are certain. Name written on two lines, 'RASHELLE FOR' / 'RECORDER', with the writer's habitual horizontal strike through 'RASHELLE' and 'FOR' (a flourish, not a deletion - the row counts toward the subtotal, which closes exactly with it)."
+  },
+  {
+   "line_no": 6,
+   "date": "2020-09-22",
+   "vendor_raw": "DEBRAH GATTRELL FOR COUNCIL",
+   "purpose": "DONATION",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,42.91,80.94,4.12@p6",
+   "note": "spelled 'DEBRAH' here in all caps (no 'o' after the B) and 'Deborah' in mixed case on line 12 - the SAME payee spelled two ways by the filer. Both kept verbatim as written; neither was normalized to the other."
+  },
+  {
+   "line_no": 7,
+   "date": "2020-10-27",
+   "vendor_raw": "DEBRAH GATTRELL FOR COUNCIL",
+   "purpose": "DONATION",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,47.03,80.94,4.09@p6",
+   "note": "DITTO ROW: ditto marks in both the Recipient and Purpose cells, resolving to row 6."
+  },
+  {
+   "line_no": 8,
+   "date": "2020-09-22",
+   "vendor_raw": "TERRI HERCHKOSY CAMPAIGN",
+   "purpose": "DONATION",
+   "amount": "400",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,51.12,80.94,4.14@p6",
+   "note": "name written compressed on one line and struck through in the writer's usual way; read at 600 dpi as 'TERRI HERCHKOSY CAMPAIGN'. Purpose is a ditto pair resolving to 'DONATION'."
+  },
+  {
+   "line_no": 9,
+   "date": "2020-09-06",
+   "vendor_raw": "GREG SKORDUS CAMPAIGN",
+   "purpose": "DONATION",
+   "amount": "263",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,55.25,80.94,4.14@p6",
+   "note": "written on two lines, 'GREG SKORDUS' / 'CAMPAIGN'; the surname's final glyphs read 'US' at 600 dpi and are transcribed as written, not corrected toward any similar public name. Purpose is a ditto pair resolving to 'DONATION'."
+  },
+  {
+   "line_no": 10,
+   "date": "2020-10-15",
+   "vendor_raw": "BEN McADAMS CONGRESS",
+   "purpose": "DONATION",
+   "amount": "515",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,59.39,80.94,4.09@p6",
+   "note": "written on two lines, 'BEN McADAMS' / 'CONGRESS'. Largest row on the side. Purpose is a ditto pair resolving to 'DONATION'."
+  },
+  {
+   "line_no": 11,
+   "date": "2020-10-21",
+   "vendor_raw": "TERRI HERCHKOSY CAMPAIGN",
+   "purpose": "DONATION",
+   "amount": "200",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,63.48,80.94,4.14@p6",
+   "note": "written on two lines here, 'TERRI HERCHKOSY' / 'CAMPAIGN' - the same payee as line 8, written more openly. Purpose is a ditto pair resolving to 'DONATION'."
+  },
+  {
+   "line_no": 12,
+   "date": "2020-10-27",
+   "vendor_raw": "Deborah GATTRELL FOR COUNCIL",
+   "purpose": "DONATION",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,67.62,80.94,4.14@p6",
+   "note": "'Deborah' in mixed case here against 'DEBRAH' on line 6 - the filer's own two spellings, both kept verbatim. Purpose is a ditto pair resolving to 'DONATION'."
+  },
+  {
+   "line_no": 13,
+   "date": "2020-09-22",
+   "vendor_raw": "Deborah GATTRELL FOR COUNCIL",
+   "purpose": "DONATION",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,71.75,80.94,4.15@p6",
+   "note": "DITTO ROW: ditto marks in both cells, resolving to row 12 (the row immediately above). Note the date runs BACKWARDS against line 12 - this side is not in date order, and rows are kept in printed order per the line_no contract."
+  },
+  {
+   "line_no": 14,
+   "date": "2020-10-21",
+   "vendor_raw": "GREG SKORDUS CAMPAIGN",
+   "purpose": "DONATION",
+   "amount": "210",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.18,75.91,80.94,4.07@p6",
+   "note": "written on two lines, 'GREG SKORDUS' / 'CAMPAIGN', struck through in the writer's usual way; last row of a grid that is exactly full. Purpose is a ditto pair resolving to 'DONATION'."
+  }
+ ],
+ "total_contributions": "1200",
+ "total_expenditures": "",
+ "beginning_balance": "3784",
+ "ending_balance": "896",
+ "aggregate": {
+  "total_contributions_to_date": "1200",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "4984"
+ },
+ "cover": {
+  "candidate": "JIM BRADLEY",
+  "party": "D",
+  "office_sought": "SLCo. Council - C",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year AND FINAL / DISSOLUTION REPORT (BOTH boxes checked)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2/1/2021",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/forms__jim-bradley_redacted_1.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "JIM BRADLEY",
+  "office": "County Council",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/forms__jim-bradley_redacted_1.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "\u26a0 THE PAGE-1 TRAP IS REAL AND IS CONFIRMED EXACTLY AS FLAGGED. This 6-page PDF is TWO documents. p1 is a 'Dissolution of a Candidate Campaign Committee' notice (Name of Committee 'JIM BRADLEY CAMPAIGN', Name of Candidate 'JIM BRADLEY', County/Local School Board Office 'SL Co. Council', Name of Committee Secretary 'NONE', signed 1/27/21). p2 is a near-blank GHOST PAGE - I recorded it in page_map as what it is rather than skipping it: it is the verso of the dissolution sheet, its measured pixel range is 168-255 (no true black anywhere on the page), and contrast-stretching resolves the faint marks into MIRRORED show-through of p1's own text blocks, so there is nothing on it to lose. The FDR COVER IS PAGE 3, found by reading every page rather than by position, and its Summary Page is page 4. || THE FORM CHECKS BOTH 'YEAR-END REPORT: January 31' AND 'FINAL / DISSOLUTION REPORT' - two boxes, both a firm X - which confirms the chunk file's reporting_period 'Year-End (Jan 31) AND Final/Dissolution' and its filing_type 'final' AT THE PAGE. The amendment question is answered 'No' (box X'd). || COVER FIELDS: the 'Office Sought' and 'District Number' cells are BOTH EMPTY. office_sought is therefore taken from the top-row 'Office' cell, which reads 'SLCo. Council - C', and the substitution is stated here per the 2008-era precedent; district_number stays '' rather than being filled from the '- C'. That '- C' is the At-Large C seat and agrees with the chunk file. Party 'D'. Clerk stamp 'RECEIVED IN OFFICE / FEB 0 2 2021 / SALT LAKE COUNTY CLERK' - one stamp, not two. || \u26a0 PRIVACY - THE COUNTY'S REDACTION UNDER-COVERS ON THIS FILING, which is the PRIVACY.md 'white boxes that under-cover' class and is a finding about slco.org, not about this record: on the p3 cover the black bar over the Street Address row sits slightly HIGH, leaving the descenders and part of the street line legible below it, and a sliver of the City cell is visible too. It was discarded at read time under PRIVACY.md and is written NOWHERE - not in a field, not in a note. On Schedule A (p5) the bar covers the Complete Mailing Address column AND most of the Occupation/Employer cell, so the single row's occupation is 'redacted at source', a different fact from the filer leaving it empty. || The filer writes in a heavy all-caps hand and habitually draws a horizontal STRIKE through his own words ('FOR', 'DEBRAH', 'RASHELLE', 'GREG SKORDUS'); it is a stylistic flourish, not a deletion - every struck word is still the operative text and the page's arithmetic closes with all of them counted. || THIS FILING IS A CROSS-REFERENCE INSIDE ITS OWN CHUNK, noted as an observation and not as a join: Bradley's Schedule B row 3 is a $200 donation to 'MAX BURDICK FOR COUNCIL' (Max Burdick is the filer of chunk_24's second record), and DeBry's Schedule A row 4 in this same chunk is a $100 contribution FROM 'Jim Bradley', occupation 'S.L.Co. councilman'. || The chunk file's candidate/office/seat/date/reporting_period/doc_kind ('bundle') all agree with the form; its schedule_a value 'not-inspected (the Schedule A page was not among the pages read)' is now resolved - the Schedule A is p5, is a county grid, and carries exactly one row.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "5",
+   "itemized_pages_B": "6",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1200",
+     "schedule_total": "1200",
+     "itemized": "1200",
+     "basis": "summary-line-1",
+     "detail": "One row, and all four printed anchors agree at the same PERIOD scope: the single Schedule A row 1200 = printed SUBTOTAL FOR THIS PAGE 1200 = printed TOTAL CONTRIBUTIONS RECEIVED 1200 = Summary line 1 Column A 1200 = Summary line 1 Column B 1200 = Summary line 4. EXACT. (Column A and Column B are equal here because the filer treats this final report's period as the whole remaining cycle; that is stated, not inferred.) The row is a CANDIDATE SELF-LOAN - the filer wrote '(LOAN)' under his own name in the contributor cell and again under the figure on the Summary Page - but the county Schedule A has no in-kind and no loan column, so in_kind stays false and the marker is carried in the row note. \u26a0 The p5 grid also shows FAINT SHOW-THROUGH of the Schedule B rows on the reverse of the sheet, in the otherwise empty data rows. It is bleed-through, not ink on this page, and the arithmetic proves it: the one real row alone equals the printed subtotal. Nothing was transcribed from it.",
+     "result": "exact"
+    },
+    "expenditures": {
+     "stated": "4088",
+     "schedule_total": "4088",
+     "itemized": "4088",
+     "basis": "summary-line-6",
+     "detail": "The 14 rows sum to 400+400+200+250+250+250+250+400+263+515+200+250+250+210 = 4,088 = printed SUBTOTAL FOR THIS PAGE 4088 = printed TOTAL EXPENDITUTRES MADE 4088 = Summary line 6 (Total Expenditures Made, From Line 2 Column A) 4088, and the balance chain closes on that figure. EXACT. \u26a0 BASIS NOTE: Summary line 2 Column A - the slot the contract normally reads as stated_total_expenditures - is LEFT BLANK by the filer, as is line 2 Column B; the period expenditure figure exists on this filing only at line 6 and on the schedule itself. So the anchor named here is summary-line-6, and totals.total_expenditures is honestly '' (the field exists and the filer left it empty), NOT 4088 and never null. This is an internal inconsistency of the form, retained verbatim, not a defect to repair.",
+     "result": "exact"
+    }
+   },
+   "page_subtotal_gates": "p5 single row 1200 = printed SUBTOTAL FOR THIS PAGE 1200 (EXACT); the schedule's own TOTAL cell also reads 1200. p6 rows sum 4088 = printed SUBTOTAL FOR THIS PAGE 4088 = printed TOTAL EXPENDITUTRES MADE 4088 (EXACT). Both schedule grand totals were tested against the Summary columns before use and are PERIOD-scope on this filing (the DeBry inversion does not occur here).",
+   "escalations": 4,
+   "escalation_note": "p6 date+name columns re-rendered as two 600 dpi band crops (x=500,y=1420,W=2050,H=1950 and x=500,y=3330,W=2050,H=1990) to settle the recipient names; p6 row-5 date cell at 1200 dpi (x=950,y=5100,W=1450,H=750) - still unresolved, so the date is BLANK; p6 rows 5-6 name cells at 1200 dpi (x=2300,y=5100,W=2900,H=1350) to settle RASHELLE / DEBRAH. In addition p2 was contrast-stretched (PIL autocontrast + threshold) to test whether the ghost page hides anything: it does not.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 14,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "\u26a0 THE PAGE-1 TRAP IS REAL AND IS CONFIRMED EXACTLY AS FLAGGED. This 6-page PDF is TWO documents. p1 is a 'Dissolution of a Candidate Campaign Committee' notice (Name of Committee 'JIM BRADLEY CAMPAIGN', Name of Candidate 'JIM BRADLEY', County/Local School Board Office 'SL Co. Council', Name of Committee Secretary 'NONE', signed 1/27/21). p2 is a near-blank GHOST PAGE - I recorded it in page_map as what it is rather than skipping it: it is the verso of the dissolution sheet, its measured pixel range is 168-255 (no true black anywhere on the page), and contrast-stretching resolves the faint marks into MIRRORED show-through of p1's own text blocks, so there is nothing on it to lose. The FDR COVER IS PAGE 3, found by reading every page rather than by position, and its Summary Page is page 4. || THE FORM CHECKS BOTH 'YEAR-END REPORT: January 31' AND 'FINAL / DISSOLUTION REPORT' - two boxes, both a firm X - which confirms the chunk file's reporting_period 'Year-End (Jan 31) AND Final/Dissolution' and its filing_type 'final' AT THE PAGE. The amendment question is answered 'No' (box X'd). || COVER FIELDS: the 'Office Sought' and 'District Number' cells are BOTH EMPTY. office_sought is therefore taken from the top-row 'Office' cell, which reads 'SLCo. Council - C', and the substitution is stated here per the 2008-era precedent; district_number stays '' rather than being filled from the '- C'. That '- C' is the At-Large C seat and agrees with the chunk file. Party 'D'. Clerk stamp 'RECEIVED IN OFFICE / FEB 0 2 2021 / SALT LAKE COUNTY CLERK' - one stamp, not two. || \u26a0 PRIVACY - THE COUNTY'S REDACTION UNDER-COVERS ON THIS FILING, which is the PRIVACY.md 'white boxes that under-cover' class and is a finding about slco.org, not about this record: on the p3 cover the black bar over the Street Address row sits slightly HIGH, leaving the descenders and part of the street line legible below it, and a sliver of the City cell is visible too. It was discarded at read time under PRIVACY.md and is written NOWHERE - not in a field, not in a note. On Schedule A (p5) the bar covers the Complete Mailing Address column AND most of the Occupation/Employer cell, so the single row's occupation is 'redacted at source', a different fact from the filer leaving it empty. || The filer writes in a heavy all-caps hand and habitually draws a horizontal STRIKE through his own words ('FOR', 'DEBRAH', 'RASHELLE', 'GREG SKORDUS'); it is a stylistic flourish, not a deletion - every struck word is still the operative text and the page's arithmetic closes with all of them counted. || THIS FILING IS A CROSS-REFERENCE INSIDE ITS OWN CHUNK, noted as an observation and not as a join: Bradley's Schedule B row 3 is a $200 donation to 'MAX BURDICK FOR COUNCIL' (Max Burdick is the filer of chunk_24's second record), and DeBry's Schedule A row 4 in this same chunk is a $100 contribution FROM 'Jim Bradley', occupation 'S.L.Co. councilman'. || The chunk file's candidate/office/seat/date/reporting_period/doc_kind ('bundle') all agree with the form; its schedule_a value 'not-inspected (the Schedule A page was not among the pages read)' is now resolved - the Schedule A is p5, is a county grid, and carries exactly one row."
+  }
+ }
+}

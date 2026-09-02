@@ -1,0 +1,231 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W14.json",
+ "key": "fc0dd53a",
+ "index_path": "raw/live_wp/2024-David-Whitehead.pdf",
+ "applies_to": [
+  "raw/live_wp/2024-David-Whitehead.pdf"
+ ],
+ "sha256_prefix": "44feb1b9a2bca071",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "second-report-cover",
+  "5": "form-B",
+  "6": "form-A",
+  "7": "second-report-cover",
+  "8": "form-A",
+  "9": "form-B"
+ },
+ "n_reports_in_pdf": 3,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "640.20",
+    "cover_over50_cum": "640.20",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": "640.20"
+   },
+   "itemized": "640.20",
+   "basis": "schedule-total==cover-line1-this==cover-line1-cum",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One row, 640.20, equal to p2 Form A's printed TOTAL CONTRIBUTIONS and to both filled cover line-1 cells (THIS and CUMULATIVE), with LAST a slashed-zero glyph = 0. This is the first report of the 2024 cycle (period begins 1/2/24), so the period and cumulative scopes coincide. Cover line 2 (the $50-or-less aggregate, present on this older cover variant) is a slashed-zero glyph = 0 in all three columns, so there is no small-donor aggregate and the sub-$50 trap is not in play. NOTE ON THE MONEY GLYPHS: this filer writes cents separated by a SPACE rather than a decimal point ('640 20') in most cells; the value is unambiguous at 640 dollars 20 cents, is written the same way in four independent places, and closes the gates, so it is recorded as 640.20 with the verbatim rendering noted."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "640.20",
+    "cover_expense_cum": "640.20",
+    "schedule_total": "640.20"
+   },
+   "itemized": "640.20",
+   "basis": "schedule-total==cover-line3-this==cover-line3-cum",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One row, 640.20 (the county filing fee), equal to p3 Form B's printed TOTAL EXPENDITURES and to both filled cover line-3 cells; LAST is a slashed-zero glyph = 0. First report of the cycle, so the scopes coincide."
+  }
+ },
+ "recon_by_report": [
+  {
+   "report_no": 1,
+   "pages": "1-3",
+   "report_date": "2024-06-18",
+   "period": "1/2/24 to 6-18-24",
+   "clerk_received": "JUN 18 2024",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "0",
+     "cover_over50_this": "640.20",
+     "cover_over50_cum": "640.20",
+     "cover_le50_last": "0",
+     "cover_le50_this": "0",
+     "cover_le50_cum": "0",
+     "schedule_total": "640.20"
+    },
+    "itemized": "640.20",
+    "basis": "schedule-total==cover-line1-this==cover-line1-cum",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "One row, 640.20, equal to p2 Form A's printed TOTAL CONTRIBUTIONS and to both filled cover line-1 cells (THIS and CUMULATIVE), with LAST a slashed-zero glyph = 0. This is the first report of the 2024 cycle (period begins 1/2/24), so the period and cumulative scopes coincide. Cover line 2 (the $50-or-less aggregate, present on this older cover variant) is a slashed-zero glyph = 0 in all three columns, so there is no small-donor aggregate and the sub-$50 trap is not in play. NOTE ON THE MONEY GLYPHS: this filer writes cents separated by a SPACE rather than a decimal point ('640 20') in most cells; the value is unambiguous at 640 dollars 20 cents, is written the same way in four independent places, and closes the gates, so it is recorded as 640.20 with the verbatim rendering noted."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "0",
+     "cover_expense_this": "640.20",
+     "cover_expense_cum": "640.20",
+     "schedule_total": "640.20"
+    },
+    "itemized": "640.20",
+    "basis": "schedule-total==cover-line3-this==cover-line3-cum",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "One row, 640.20 (the county filing fee), equal to p3 Form B's printed TOTAL EXPENDITURES and to both filled cover line-3 cells; LAST is a slashed-zero glyph = 0. First report of the cycle, so the scopes coincide."
+   }
+  },
+  {
+   "report_no": 2,
+   "pages": "4-6 (Form B on p5 BEFORE Form A on p6)",
+   "report_date": "2024-10-21",
+   "period": "6/18/24 to 10/21/24",
+   "clerk_received": "10/21/2024 (clerk verifying-inspection signature dated 10/24/2024)",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "640.20",
+     "cover_over50_this": "0",
+     "cover_over50_cum": "640.20",
+     "cover_le50_last": null,
+     "cover_le50_this": null,
+     "cover_le50_cum": null,
+     "schedule_total": "0"
+    },
+    "itemized": "0.00",
+    "basis": "schedule-total==cover-line1-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "p6 Form A is a wholly blank grid whose printed TOTAL CONTRIBUTIONS cell carries a handwritten slashed-zero glyph (verified at 600 dpi) = 0. That equals the cover's THIS REPORT cell (also a slashed-zero glyph) and NOT the CUMULATIVE cell (640.20), so this schedule is PER-PERIOD - the 640.20 was itemized on report 1 of this same bundle. NOTE: this newer cover variant has only THREE money lines; the '$50.00 or less aggregate' line does not exist on it, so cover_le50_* are null (field absent), not zero."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "640.20",
+     "cover_expense_this": "0",
+     "cover_expense_cum": "640.20",
+     "schedule_total": "-"
+    },
+    "itemized": "0.00",
+    "basis": "schedule-total==cover-line2-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "p5 Form B is a wholly blank grid; its printed TOTAL EXPENDITURES cell carries the form's own PRE-PRINTED accounting dash (no handwriting at all, verified at 600 dpi), kept verbatim as '-' per the bare-dash rule rather than converted to a zero. The empty schedule matches the cover's THIS REPORT expense cell (a handwritten slashed-zero = 0) and not the CUMULATIVE cell (640.20) - per-period again."
+   }
+  },
+  {
+   "report_no": 3,
+   "pages": "7-9",
+   "report_date": "2025-01-06",
+   "period": "10.21.24 to 1-6.25",
+   "clerk_received": "JAN 06 2025 (clerk verifying-inspection signature dated 1/10/25)",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "640.20",
+     "cover_over50_this": "0",
+     "cover_over50_cum": "640.20",
+     "cover_le50_last": null,
+     "cover_le50_this": null,
+     "cover_le50_cum": null,
+     "schedule_total": "0"
+    },
+    "itemized": "0.00",
+    "basis": "schedule-total==cover-line1-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "p8 Form A is a blank grid whose printed TOTAL CONTRIBUTIONS cell carries a handwritten slashed-zero glyph = 0, equal to the cover's THIS REPORT cell and not to its CUMULATIVE cell (640.20) - per-period. SEE THE ROW-COUNT NOTE: the FIRST data row's Amount cell also carries a slashed-zero glyph, with the row's Date, Name of Donor, Mailing Address and In Kind? cells all empty. That is the filer marking the schedule nil, not a transaction, and NO ROW WAS EMITTED FOR IT - emitting a $0 contribution from a nameless donor would fabricate a transaction. It does not change the sum either way."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "640.20",
+     "cover_expense_this": "0",
+     "cover_expense_cum": "640.20",
+     "schedule_total": "0"
+    },
+    "itemized": "0.00",
+    "basis": "schedule-total==cover-line2-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "p9 Form B is a wholly blank grid whose printed TOTAL EXPENDITURES cell carries a handwritten slashed-zero glyph = 0, equal to the cover's THIS REPORT cell and not to its CUMULATIVE cell (640.20) - per-period."
+   }
+  }
+ ],
+ "gates": {
+  "page_subtotal": "Report 1 - p2 one row 640.20 = printed TOTAL CONTRIBUTIONS 640.20 (gate fires); p3 one row 640.20 = printed TOTAL EXPENDITURES 640.20 (gate fires). Report 2 - p6 zero rows = printed TOTAL CONTRIBUTIONS slashed-zero 0 (fires); p5 zero rows against the form's pre-printed accounting dash (consistent, nothing to sum). Report 3 - p8 zero rows = printed TOTAL CONTRIBUTIONS slashed-zero 0 (fires); p9 zero rows = printed TOTAL EXPENDITURES slashed-zero 0 (fires). Every gate that exists fires.",
+  "row_count": "All six schedule sheets are the ~19-row boxed county grid. Ink counted on the full 200 dpi render of every one of the nine pages: p2 has exactly ONE inked data row (its address text wraps down into the second band's address cell - a wrap, not a second row, since that band's date, name, amount and In Kind? cells are all empty); p3 has exactly ONE; p5, p6 and p9 have ZERO; p8 has zero inked TRANSACTIONS but carries a lone slashed-zero glyph in the first band's Amount cell with every other cell of that band empty (a nil mark, deliberately not emitted as a row - see recon detail). 1 contribution row and 1 expenditure row emitted in total, both from report 1.",
+  "geometry_proof": "p2: the 900 dpi crop of the amount+In-Kind columns at the emitted band renders '640 20' and 'N', and the band one pitch below renders EMPTY in both columns. p3: the 900 dpi crop of the amount column at the emitted band renders '640 20' and the band one pitch below renders EMPTY. Each side has exactly one row, so first row, last row and the one-pitch control are all covered by those two renders; no row-index shift.",
+  "balance_chain": "CLOSES WITHIN EACH REPORT AND ACROSS ALL THREE. Report 1: 640.20 contributed - 640.20 spent = 0, and the cover's balance line is a slashed-zero glyph (=0) in all three columns. Report 2: its TOTALS FROM LAST REPORT cells are 640.20 for contributions AND 640.20 for expenses, chaining exactly to report 1's cumulative figures; nothing moves this period (both THIS cells are slashed zeros), leaving cumulative 640.20 / 640.20 and a zero balance. Report 3: its LAST cells are again 640.20 / 640.20, chaining exactly to report 2's cumulative figures, nothing moves, cumulative 640.20 / 640.20, zero balance. Unlike the other bundle in this chunk (f3f2dc07), THIS bundle is stapled in correct chronological order, and the chain confirms it: no swapped cover."
+ },
+ "escalations": 11,
+ "escalation_note": "90 dpi 3x3 contact sheet to classify all nine pages, then 200 dpi full-page reads of ALL NINE. Escalations: 900 dpi crops of the p2 date/name cells, the p2 amount+In-Kind cells with a control band, the p3 date/vendor/purpose cells and the p3 amount cell with a control band; 600 dpi crops of the p2 and p3 printed TOTAL cells and of the printed TOTAL cells on p5, p6, p8 and p9, plus the lone glyph in p8's first-band Amount cell. Every escalated figure read identically to the 200 dpi page read.",
+ "notes": "A THREE-REPORT BUNDLE in correct chronological order: report 1 (pp.1-3) covers 1/2/24 to 6-18-24, report 2 (pp.4-6) covers 6/18/24 to 10/21/24, report 3 (pp.7-9) covers 10.21.24 to 1-6.25. The chunk file's n_reports=3 AGREES. TWO COVER GENERATIONS INSIDE ONE PDF: report 1 uses the older county-branded cover with FOUR money lines (including the '$50.00 or less' aggregate) and a candidate contact block, while reports 2 and 3 use the newer THREE-line cover with no aggregate line and an Office Use Only clerk block - so cover_le50_* are real zeros on report 1 and null (field absent) on reports 2 and 3. SCHEDULE PAGES OUT OF ORDER IN REPORT 2: page 5 is the Itemized EXPENDITURE Report (Form 'B') and page 6 is the Itemized CONTRIBUTION Report (Form 'A') - the reverse of the A-then-B order used by reports 1 and 3 and by every other document in this chunk. Both were read as what their own titles say, not as their position implies. Chunk file says candidate 'DAVID WHITEHEAD', office 'Treasurer'; all three covers and all six schedule headers read 'DAVID WHITEHEAD' / 'TREASURER' - AGREE throughout. The only itemized money in the whole bundle is the candidate's own $640.20 self-contribution on 1/2/24 and the matching $640.20 county filing fee on the same day. Every In Kind? cell in the bundle except p2 row 1 (answered 'N') is blank. Candidate street address, ZIP, personal email and phone are printed in the clear on the report-1 cover and were discarded at read time; on the Form A row the donor is the candidate himself, so only the city (Santa Clara) was kept - the schedule prints no state for him, so donor_state is honestly blank rather than inferred.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "donor_raw": "DAVID WHITEHEAD",
+   "donor_city": "SANTA CLARA",
+   "donor_state": "",
+   "amount": "640.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:64.58,25.68,17.01,2.97@p2",
+   "note": "date written '1.2.24' with dot separators (confirmed at 900 dpi) -> 2024-01-02. Self-contribution by the candidate. Amount written '640 20' - cents separated by a SPACE, no decimal point and no dollar sign; read 640.20, corroborated by the printed TOTAL CONTRIBUTIONS ('640 20') and both cover line-1 cells. In Kind? column answered 'N'. The address cell reads '400 CLAUDE DR / SANTA CLARA' with the ZIP wrapping down into the next band's address cell; street line and ZIP discarded at read time, city kept. NO STATE is printed on this schedule row, so donor_state is left blank rather than inferred from the cover."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "County Clerk",
+   "purpose": "Filing FEE",
+   "amount": "640.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:65.00,25.40,25.60,3.29@p3",
+   "note": "date written '1-2-24' (the first separator is a dot or short dash; confirmed at 900 dpi) -> 2024-01-02, the same day as the matching self-contribution and the certified period's start date. Purpose kept verbatim with the filer's mixed case ('Filing FEE'). Amount written '640 20' with the cents space-separated; read 640.20, corroborated by the printed TOTAL EXPENDITURES and both cover line-3 cells."
+  }
+ ]
+}

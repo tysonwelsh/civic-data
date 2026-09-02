@@ -1,0 +1,109 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W01.json",
+ "key": "05dec2b1",
+ "index_path": "raw/live_outpost/06-14-2024-Tom Durrant_Assessor_06-15-2024.pdf",
+ "applies_to": [
+  "raw/live_outpost/06-14-2024-Tom Durrant_Assessor_06-15-2024.pdf"
+ ],
+ "sha256_prefix": "aaf46fac529a6c1b",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "640.20",
+    "cover_over50_cum": "640.20",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": "640.20"
+   },
+   "itemized": "640.20",
+   "basis": "schedule-total==cover-line1-this==cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row, 640.20. Form A's printed TOTAL CONTRIBUTIONS is 640.20 and the cover's line-1 THIS and CUMULATIVE cells are BOTH 640.20 because the LAST cell is 0 - this is the filer's FIRST report of the 2024 cycle, so the period and cumulative scopes COINCIDE. Recorded as cumulative per the addendum. The line-2 '$50.00 or less' aggregate is 0/0/0, so scoring against the over-$50 line and against line1+line2 would give the same figure here; the over-$50 line is the one used."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "640.20",
+    "cover_expense_cum": "640.20",
+    "schedule_total": "640.20"
+   },
+   "itemized": "640.20",
+   "basis": "schedule-total==cover-line3-this==cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row, 640.20 (Washington County, Filing Fee). Form B's printed TOTAL EXPENDITURES is 640.20 and the cover's line-3 THIS and CUMULATIVE cells are both 640.20 (LAST = 0, first report of the cycle, scopes coincide)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 640.20 = printed TOTAL CONTRIBUTIONS 640.20; p3 rows 640.20 = printed TOTAL EXPENDITURES 640.20. Both gate exactly.",
+  "row_count": "rowbands.py p2 and p3 -> geometry_status ok, 21 bands each (the column headers are printed ABOVE the boxed grid on this print, so bands 1-20 are data rows and band 21 is the TOTAL row). Exactly 1 band carries ink on each page; 1 row emitted per side.",
+  "geometry_proof": "p2: crop of the emitted amount box (pct 66.21,25.89,16.85,3.09) renders '640.20'; the control crop one row-pitch below renders an EMPTY box. p3: crop of pct 66.24,25.91,25.29,3.11 renders '640.20'; control one pitch below renders EMPTY. Both sides have a single row, so first-row and last-row crops are the same crop.",
+  "balance_chain": "0 + 640.20 - 640.20 = 0, and the cover's line-4 balance-at-end cells read 0 / 0 / 0. Closes exactly. Cross-filing chain: this filing's CUMULATIVE 640.20 is checked against the later 2024-cycle filing 095d57ef in this same chunk - see that record's balance_chain."
+ },
+ "escalations": 2,
+ "escalation_note": "600 dpi cell crops of the p2 and p3 amount boxes (row 1 and the one-pitch-below control) - the transcription-and-verification pass, not a doubt.",
+ "notes": "index.csv says Tom Durrant / Assessor; the form's handwritten 'Full name of Candidate' reads Tom Durrant and 'Candidate for Office Of' reads Assessor - AGREES. Form generation 2 (county-branded, 'WASHINGTON COUNTY / UTAH' logo variant) with the FOUR-line cover including the '$50.00 or less' aggregate. Cover is handwritten; both schedules are typed. Reporting period Beginning 1/2/24, Ending 6/12/24; signed 6/12/24; clerk RECEIVED stamp JUN 14 2024. Privacy: the cover prints the candidate's street-address/city-state-zip lines (left blank by the filer), his personal email and his phone number - all DISCARDED at read time and written nowhere. Form A's address column was left empty by the filer on the one inked row (an honest blank, not a redaction). Contribution is a self-contribution by the candidate, matched dollar-for-dollar by the filing fee paid to the county.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "donor_raw": "Tom Durrant",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "640.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.21,25.89,16.85,3.09@p2",
+   "note": "In Kind? column answered 'N' - not in-kind. Filer left the Mailing Address and Zip Code cell empty (honest blank, not a redaction)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Washington County",
+   "purpose": "Filing Fee",
+   "amount": "640.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.24,25.91,25.29,3.11@p3",
+   "note": "Form B on this generation has no In Kind column, so in_kind is false by absence of the field, not by an answered N."
+  }
+ ]
+}

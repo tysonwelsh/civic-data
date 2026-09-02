@@ -1,0 +1,84 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C19.json",
+ "key": "b7803180",
+ "index_path": "raw/2022/2022_cc_Jess_W_Bradfield_22G.pdf",
+ "applies_to": [
+  "raw/2022/2022_cc_Jess_W_Bradfield_22G.pdf",
+  "raw/2022/2022_wb_Jess_W_Bradfield_22G.pdf"
+ ],
+ "sha256_prefix": "41de98de7750ef66",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "0",
+    "cover_over50_cum": "1309.80",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "0",
+    "page_subtotal": "0",
+    "box_A_balance_begin": "$185.92",
+    "box_F_subtotal": "$185.92"
+   },
+   "itemized": "0",
+   "basis": "page-subtotal==schedule-total==Box-B (this-period)",
+   "result": "exact",
+   "scope": "period",
+   "detail": "NIL SIDE. Schedule A carries no transaction lines at all; the filer hand-wrote 'No expenditures since last filing' on the first writing line and hand-wrote a zero glyph in both 'Subtotal for this page $' and 'Total Contributions Received $'. Zero rows emitted, sum 0, which equals Box B (Contributions Received This Period = 0) and the two printed schedule figures. It does NOT equal Box C (Year-to-Date 1309.80), so the ROWS are on the PERIOD scope - the 1309.80 cumulative belongs to this filer's earlier 2022 filing (key c05379aa), which is itemized separately in this same chunk. Reporting scope 'period' so a naive cycle sum does not double-count. Per the SS 3(f) zero-glyph ruling the written zero is 0, not blank; the glyph is recorded verbatim in this detail."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "0",
+    "cover_expense_cum": "1123.88",
+    "schedule_total": "0",
+    "page_subtotal": "0",
+    "cover_balance_end": "$185.92"
+   },
+   "itemized": "0",
+   "basis": "page-subtotal==schedule-total==Box-D (this-period)",
+   "result": "exact",
+   "scope": "period",
+   "detail": "NIL SIDE. Schedule B carries no transaction lines; the filer hand-wrote 'No Expenditures since last filing' on the first writing line and a zero glyph in both 'Subtotal for this page $' and 'Total Expenditures Made $'. Rows sum 0 == Box D (This Period). Box E (Year-to-Date 1123.88) is a different scope and is NOT what the rows equal."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 zero rows sum 0 = printed 'Subtotal for this page' 0 = 'Total Contributions Received' 0 (gate fires exact). p3 zero rows sum 0 = printed 'Subtotal for this page' 0 = 'Total Expenditures Made' 0 (gate fires exact).",
+  "row_count": "rowbands.py p2 geometry_status=ok, 15 bands, deskew 0.6 deg; rowbands.py p3 geometry_status=ok, 15 bands, deskew -0.1 deg. On BOTH pages exactly one band (band 1) carries ink and that ink is the filer's prose note ('No expenditures since last filing' / 'No Expenditures since last filing'), not a transaction line - it occupies the Date/Name columns as free text with no amount opposite it, so it is not a field and is not transcribed as a row. Bands 2-15 are empty on both pages, confirmed at 200 dpi full-page reads. 0 rows emitted on each side.",
+  "geometry_proof": "Not applicable - zero rows on both sides, so there is no row geometry to prove. The whole 200 dpi page was read for both p2 and p3 to establish that no band below the prose note carries ink.",
+  "balance_chain": "CLOSES EXACTLY, AND THE CROSS-FILING CHAIN CLOSES TOO. Within this filing: Box A 185.92 + Box B 0 = Box F 185.92 (printed F = $185.92); Box F 185.92 - Box D 0 = 185.92 = printed 'Balance at Close' $185.92. ACROSS THE CYCLE (SS 3(d) check, both of this filer's 2022 filings are in this chunk): the earlier filing key c05379aa (Date of Report 10/31/2022) closes at $185.92, and THIS filing (Date of Report 12-5-2022) opens Box A at $185.92 - exact chain. Its cumulative columns also chain: c05379aa Box C 1309.80 -> this filing Box C 1309.80, and c05379aa Box E 1123.88 -> this filing Box E 1123.88. No swapped-cover pair; the two covers are correctly paired with their own schedules."
+ },
+ "escalations": 0,
+ "escalation_note": "No escalation needed: both schedules are nil and every printed figure on the Summary Page is machine-set text read cleanly at 200 dpi.",
+ "notes": "NIL REPORT. Type of Report marked '30 Days after the General Election'; 'Is this report an amendment?' answered No. Signature date 12-5-2022; Date of Report 12-5-2022 (rendered 12/05/2022 in the p2 footer); clerk stamp 'CLERK/AUDITOR RCVD 2022 DEC 7 PM12:23'. || OFFICE LINE IS BLANK ON THE FORM, exactly as on this filer's other 2022 filing - the chunk file / index.csv say 'Clerk/Auditor' but the p1 'Office' box is empty. Addendum SS D known blank-office-line state; recorded, not relabelled. || FILER WORDING SLIP: the note written across the CONTRIBUTIONS schedule reads 'No expenditures since last filing' (the word is 'expenditures' on the Schedule A page). Transcribed verbatim here rather than corrected; the Summary Page Box B = 0 confirms the filer did mean no contributions this period. || REDACTED AT SOURCE: on p1 the candidate's Address, City and Zip Code cells are covered by solid black redaction bars applied by the county. Those cells would in any case have been discarded at read time under the privacy rule, and NOTHING was backfilled from the unredacted sibling filing c05379aa (which prints the same candidate's address in the clear) - a county redaction pass may disclose strictly less than its twin and is never reversed here. The p1 phone number is legible on this copy and was discarded at read time. || Identity confirmed on every page by the footer block 'Name of Candidate Jess W. Bradfield / Date of Report 12-5-2022 / Page n' for n = 2, 3, 4; pages 1-4 complete, n_reports_in_pdf=1. || Field-shift screen: not applicable, zero rows on both sides.",
+ "contributions": [],
+ "expenditures": []
+}

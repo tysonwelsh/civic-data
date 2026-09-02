@@ -1,0 +1,274 @@
+[
+ {
+  "index_path": "raw/2010/2010_CountyCommissionSeatB-BarrattTedB-061510.pdf",
+  "key": "8c629a81",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk r2_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (519.48) on the p2 Summary Page, which is ALSO Schedule A's own printed 'Subtotal for this page' (519.48) and its printed 'Total Contributions Received' (519.48), and is restated at summary line 4 'Total Contributions Received (From Line 1 Column A)' and line 5 'Subtotal'",
+    "detail": "2 Schedule A rows sum to 516.00 + 3.48 = 519.48 exactly = the schedule's printed page subtotal = its printed Total Contributions Received = the cover's promoted PER-PERIOD Column A cell. Column B 'Year-to-Date Total' prints the same 519.48 and is NOT summed as an increment \u2014 this is the filer's FIRST report of the cycle (line 3 'Balance at Beginning' is a handwritten zero glyph), so period and year-to-date coincide. The balance ladder closes on the same figures: 0 (line 3) + 519.48 (line 4) = 519.48 (line 5); 519.48 - 519.48 (line 6) = the printed line 7 close, a zero glyph."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (519.48) on the p2 Summary Page, equal to Schedule B's own printed 'Subtotal for this page' (519.48) and its printed 'Total Expenditures Received' (519.48), and restated at summary line 6",
+    "detail": "The single Schedule B row is 519.48 and equals the schedule's printed page subtotal, its printed total, and the cover's Column A. Column B YTD prints the same 519.48 (first report of the cycle) and is retained as cumulative, never summed as an increment. NOTE the coincidence is real and not a transcription slip: the county filing fee of 519.48 is the whole of both sides, funded by a 516.00 party contribution plus 3.48 of the candidate's own money \u2014 the same 519.48 filing fee appears on other Utah County 2010 filings in this wave."
+   }
+  },
+  "in_kind_convention": "not applicable \u2014 neither Schedule A nor Schedule B on this legacy_colAB blank prints an in-kind column, no row is annotated in-kind, and the p2 Summary Page carries no separate in-kind line. BOTH conventions were tested rather than inherited: monetary-only gives 519.48 on each side and monetary-plus-in-kind gives the identical 519.48 (there is no in-kind amount to add), so both close on Column A.",
+  "escalations": 0,
+  "escalation_note": "No arithmetic escalation was needed \u2014 both sides closed on three independent printed figures each (page subtotal, schedule total, Column A). Five tight crops at 900 dpi were geometry proofs and are described in the measure_notes.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     84.84,
+     95.09
+    ],
+    "cells": [
+     [
+      6.03,
+      17.87
+     ],
+     [
+      19.4,
+      53.59
+     ],
+     [
+      55.18,
+      83.31
+     ],
+     [
+      84.84,
+      95.09
+     ]
+    ],
+    "rows": [
+     [
+      15.45,
+      19.39
+     ],
+     [
+      19.39,
+      23.33
+     ],
+     [
+      23.33,
+      27.24
+     ],
+     [
+      27.24,
+      31.18
+     ],
+     [
+      31.18,
+      35.1
+     ],
+     [
+      35.1,
+      39.03
+     ],
+     [
+      39.03,
+      42.97
+     ],
+     [
+      42.97,
+      46.91
+     ],
+     [
+      46.91,
+      50.84
+     ],
+     [
+      50.84,
+      54.78
+     ],
+     [
+      54.78,
+      58.7
+     ],
+     [
+      58.7,
+      62.61
+     ],
+     [
+      62.61,
+      66.55
+     ],
+     [
+      66.55,
+      70.49
+     ],
+     [
+      70.49,
+      74.49
+     ],
+     [
+      74.49,
+      78.41
+     ],
+     [
+      78.41,
+      82.27
+     ]
+    ],
+    "measure_note": "legacy_colAB Schedule A, the UNDERLINE form: rowbands.py returns 17 per-column underline rules at a regular 3.93 pitch, and the four segments of each rule ARE the column bands (Date 6.03-17.87, Name of Contributor 19.40-53.59, Mailing Address & Zip 55.18-83.31, Amount 84.84-95.09). THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 has no rule above it \u2014 its band is extrapolated one pitch up from the first detected rule at 19.39, giving [15.46,19.39]. \u00a7A1 FIRST-ENTRY CONTROL: that extrapolated band was cropped BEFORE being used and rendered the printed 'Amount' header with the handwritten '516.00' sitting directly on the rule beneath it \u2014 i.e. this filer did NOT skip the first ruled line and her first written entry IS band 1. PROOF OF EVERY WRITTEN ROW (there are only two): pct:84.84,15.46,10.25,3.93@p3 rendered '516.00' (recorded 516.00) and pct:84.84,19.39,10.25,3.94@p3 rendered '3.48' (recorded 3.48). A third control crop of band 3 (pct:84.84,23.33,10.25,3.91@p3) rendered an EMPTY cell, confirming the schedule really stops at two rows and the bands are not off by one."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     84.67,
+     95.03
+    ],
+    "cells": [
+     [
+      6.27,
+      18.1
+     ],
+     [
+      19.69,
+      53.47
+     ],
+     [
+      55.06,
+      83.14
+     ],
+     [
+      84.67,
+      95.03
+     ]
+    ],
+    "rows": [
+     [
+      15.58,
+      19.51
+     ],
+     [
+      19.51,
+      23.44
+     ],
+     [
+      23.44,
+      27.36
+     ],
+     [
+      27.36,
+      31.3
+     ],
+     [
+      31.3,
+      35.16
+     ],
+     [
+      35.16,
+      39.1
+     ],
+     [
+      39.1,
+      43.06
+     ],
+     [
+      43.06,
+      47.02
+     ],
+     [
+      47.02,
+      50.91
+     ],
+     [
+      50.91,
+      54.87
+     ],
+     [
+      54.87,
+      58.79
+     ],
+     [
+      58.79,
+      62.77
+     ],
+     [
+      62.77,
+      66.71
+     ],
+     [
+      66.71,
+      70.62
+     ],
+     [
+      70.62,
+      74.58
+     ],
+     [
+      74.58,
+      78.5
+     ],
+     [
+      78.5,
+      82.39
+     ]
+    ],
+    "measure_note": "Same underline grid as p3: 17 rules, pitch 3.93, first rule 19.51, row 1 extrapolated one pitch up to [15.58,19.51]. PROOF OF EVERY WRITTEN ROW (there is only one): pct:84.67,15.58,10.36,3.93@p4 rendered the printed 'Amount' header above the handwritten '519.48' (recorded 519.48), and the control crop of band 2 (pct:84.67,19.51,10.36,3.93@p4) rendered an EMPTY cell \u2014 so the single entry is band 1 and nothing below it was missed."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "3.17.10",
+    "donor_raw": "Utah Co. Democratic Party",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "516.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the party committee that nominated the filer. The Mailing Address cell prints a post-office box with the zip written above the printed 'Zip Code' label; PRIVACY \u2014 the box number is deliberately not carried, only the city and state the same cell prints. Cents written as a raised '00' after the point."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "3.17.10",
+    "donor_raw": "Ted B. Barratt",
+    "donor_city": "Am. Fork",
+    "amount": "3.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE CANDIDATE'S OWN 3.48 \u2014 the odd cents that top the party's round 516.00 up to the exact 519.48 filing fee. donor_city is the filer's own abbreviation 'Am. Fork' (American Fork), kept verbatim; the cell prints a street line and a zip but NO state, so donor_state is honestly omitted rather than inferred. PRIVACY: the street line is not carried."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "3.12.2010",
+    "vendor_raw": "Utah County Clerk.",
+    "amount": "519.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the candidate filing fee. Schedule B on this blank prints NO Purpose column \u2014 its four columns are Date / 'Name of Contributor' (the form reuses Schedule A's header wording on the expenditure sheet) / Mailing Address & Zip Code / Amount \u2014 so purpose is honestly blank. The address cell prints 'Provo, UT'; expenditure rows carry no address field, so it is dropped entirely. The filer writes the year in full here ('3.12.2010') and in two digits on Schedule A ('3.17.10'); both kept verbatim."
+   }
+  ],
+  "notes": "PAGE-FACE candidate name 'Ted B. Barratt' (Political Party written 'Democratic', residence city American Fork); index.csv names NO candidate for this row (the 2008-2018 listing grouped by office). Page-face Office Seeking reads 'Utah County Commission Seat B.' \u2014 with the filer's own trailing full stop \u2014 agreeing with index.csv. legacy_colAB, 4 pages, all four read full-page at 200 dpi: p1 cover ('Seven days preceding the Primary Election' ticked, 'No' ticked on the amendment question, signed 6.15.2010, stamped received JUN 15 PM 4:55), p2 SUMMARY PAGE (located by CONTENT, not ordinal), p3 Schedule A, p4 Schedule B. THE WHOLE FILING IS A FAX: every page carries the transmission header 'JUN/15/2010/TUE 05:22 PM  Century 21 All Pros  FAX No.801-756-7672  P.00n' printed across the top by the sending machine \u2014 a realty office's fax, i.e. the filer's workplace, not a county artifact. That header is the ONLY thing above the form on each sheet and it does not disturb the grid. The page-number/last-name/date-of-report box at the top right of pp2-4 is printed but LEFT WHOLLY BLANK by the filer on all three sheets (companion to the ADDENDUM A4 foliation finding: here there is no foliation at all). Lines 3 and 7 of the balance ladder are handwritten ZERO GLYPHS (open circles) and were read 0 by the 2026-08-01 cover tranche under the repo's zero-glyph ruling; this transcription does not disturb that reading. Not a *_Redacted.pdf \u2014 the county published this era in the clear, so the donor street line and PO box are plainly visible on p3 and were reduced to city/state at READ TIME; neither reaches any field or note."
+ }
+]

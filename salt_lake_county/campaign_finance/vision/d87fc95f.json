@@ -1,0 +1,120 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Catherine Kanter",
+   "purpose": "Repayment of Loan",
+   "amount": "219.36",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "vendor=high;purpose=high;amount=high;date=high",
+   "verified": 1,
+   "geometry": "pct:12.06,23.31,78.82,3.98@p4",
+   "note": "date prints '1/2017' verbatim - month/year only, no day, not ISO-parseable; almost certainly a filer typo (precedes the 2026 reporting period)"
+  }
+ ],
+ "total_contributions": "0",
+ "total_expenditures": "219.36",
+ "beginning_balance": "219.36",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "219.36"
+ },
+ "cover": {
+  "candidate": "Catherine Kanter",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council At Large B",
+  "district_number": null,
+  "report_type": "Final / Dissolution Report (2026 form family 'Financial Disclosure Report For an Open Campaign Account')",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2026-02-02",
+  "form_year": null
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Kanter-Catherine__E25BF7BE.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Kanter, Catherine",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Kanter-Catherine__E25BF7BE.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026 'For an Open Campaign Account' form family; no year printed in the form title. Final/Dissolution box checked; document is the full 7-page report, not a one-page notice. Neither amendment Yes nor No box is checked. Column B (Aggregate Total YTD) left entirely blank on the Summary Page. Schedule B row date prints '1/2017' (month/year only, precedes the reporting period; kept verbatim per audit prior, almost certainly a filer typo). pp.5-7 Other Campaign Accounts section filled N/A (summary) and wholly blank (both itemized pages). Cover street-address/phone/email block blacked at source; no redaction on the itemized row. Digitally signed 2026-02-02; received stamp FEB 02 2026.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A page exists (p3) and is a real zero: the first row's Amount cell prints 0 with no other cells filled; SUBTOTAL FOR THIS PAGE 0; TOTAL CONTRIBUTIONS RECEIVED 0 = Summary line 1 Column A 0"
+    },
+    "expenditures": {
+     "stated": "219.36",
+     "schedule_total": "219.36",
+     "itemized": "219.36",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "single Schedule B row 219.36 = printed subtotal 219.36 = TOTAL 219.36 = Summary line 2 Column A 219.36"
+    }
+   },
+   "page_subtotal_gates": "p3: 0 rows, printed subtotal 0 and total 0 (real zero); p4: rows 219.36 = printed SUBTOTAL 219.36 = TOTAL 219.36",
+   "escalations": 1,
+   "escalation_note": "p4 row 1 re-read at 400dpi tight crop, read identically",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026 'For an Open Campaign Account' form family; no year printed in the form title. Final/Dissolution box checked; document is the full 7-page report, not a one-page notice. Neither amendment Yes nor No box is checked. Column B (Aggregate Total YTD) left entirely blank on the Summary Page. Schedule B row date prints '1/2017' (month/year only, precedes the reporting period; kept verbatim per audit prior, almost certainly a filer typo). pp.5-7 Other Campaign Accounts section filled N/A (summary) and wholly blank (both itemized pages). Cover street-address/phone/email block blacked at source; no redaction on the itemized row. Digitally signed 2026-02-02; received stamp FEB 02 2026."
+  }
+ }
+}

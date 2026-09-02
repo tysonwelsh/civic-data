@@ -1,0 +1,110 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W12.json",
+ "key": "c374acd2",
+ "index_path": "raw/live_outpost/06-18-2024-David Whitehead-Treasurer_06-20-2024.pdf",
+ "applies_to": [
+  "raw/live_outpost/06-18-2024-David Whitehead-Treasurer_06-20-2024.pdf"
+ ],
+ "sha256_prefix": "ea7410f03f9d3fc9",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "-0-",
+    "cover_over50_this": "640 20",
+    "cover_over50_cum": "640.20",
+    "cover_le50_this": "-0-",
+    "cover_le50_cum": "-0-",
+    "schedule_total": "640 20"
+   },
+   "itemized": "640.20",
+   "basis": "schedule-total==cover-line1-this==cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "one row 640.20; Form A's printed TOTAL CONTRIBUTIONS equals BOTH the THIS and CUMULATIVE cover cells (first report of the cycle -- the LAST REPORT cells are slashed-zero glyphs -- so the two scopes coincide). The line-2 sub-$50 aggregate is a zero glyph in every column, so nothing is un-itemized."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "-0-",
+    "cover_expense_this": "640 20",
+    "cover_expense_cum": "640 20",
+    "cover_balance_end": "-0-",
+    "schedule_total": "640 20"
+   },
+   "itemized": "640.20",
+   "basis": "schedule-total==cover-line3-this==cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "one row 640.20 (the county filing fee, paid to the County Clerk); Form B's printed TOTAL EXPENDITURES matches both cover cells."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 640.20 = printed TOTAL CONTRIBUTIONS 640.20; p3 rows 640.20 = printed TOTAL EXPENDITURES 640.20 -- both gate exactly",
+  "row_count": "p2 rowbands.py geometry_status=ok, 21 bands = 20 data rows + the TOTAL CONTRIBUTIONS footer row; 1 inked data row, 1 emitted. p3 identical (21 bands, 20 data + footer); 1 inked, 1 emitted. The footer band was mapped explicitly and NOT counted as a data row.",
+  "geometry_proof": "p2 600dpi crop of the row-1 band renders '1-2-24 | DAVID WHITEHEAD | 640 20 | N'; the control crop one row-pitch below renders an EMPTY amount cell (it carries only the wrapped ZIP of row 1's address, which was discarded at read time). p3 row-1 crop renders '1-2-24 | County clerk | filing FEE | 640.20'.",
+  "balance_chain": "0 + 640.20 - 640.20 = 0; cover line 4 prints a zero glyph in the THIS and CUMULATIVE cells -- closes exactly. This filer's other filing in this chunk (ccad9cea) is the 2020 cycle, a different cycle, so no cross-filing cumulative chain applies."
+ },
+ "escalations": 4,
+ "escalation_note": "p2 and p3 row-1 bands plus a p2 control band at 600dpi",
+ "notes": "Generation 2 county-branded form (WASHINGTON COUNTY UTAH logo; 'Campaign Financial Disclosure Per Title 1 Chapter 7 of Washington County Code of Ordinances'). Form A carries the In Kind? Y/N column and the single row is answered 'N'. 'Candidate for Office Of' reads TREASURER and the candidate line reads DAVID WHITEHEAD -- both agree with the chunk file. Period 1/2/24 to 6-18-24, signed 6-18-24, RECEIVED JUN 18 2024. CROSS-CHANNEL RE-POST: the module's filing_totals records this same report also appearing inside the bundle raw/live_wp/2024-David-Whitehead.pdf; that bundle is not in this chunk, so nothing was skipped here. Money cells throughout are written WITHOUT a decimal point ('640 20'); anchors are recorded verbatim and the row amount normalised to 640.20, which is what the cover's cumulative cell does print with a point. Candidate street address, ZIP, email and phone were discarded at read time.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "donor_raw": "DAVID WHITEHEAD",
+   "donor_city": "SANTA CLARA",
+   "donor_state": "",
+   "amount": "640.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;in_kind=high",
+   "verified": 1,
+   "geometry": "pct:64.55,25.63,16.91,3.09@p2",
+   "note": "self-contribution -- the donor is the candidate. Amount written '640 20' with no decimal point; recorded as 640.20 to match the cover's cumulative cell. In Kind? column answered 'N'. Street address and ZIP discarded at read time; the ZIP wrapped onto the next grid line and is NOT a second row."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "County clerk",
+   "purpose": "filing FEE",
+   "amount": "640.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:64.80,25.63,25.44,3.09@p3",
+   "note": "Form B on this generation has no in-kind column"
+  }
+ ]
+}

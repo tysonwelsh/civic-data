@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C02.json",
+ "key": "a6e24167",
+ "index_path": "raw/2008/2008_wb_cyeates1204.pdf",
+ "applies_to": [
+  "raw/2008/2008_wb_cyeates1204.pdf"
+ ],
+ "sha256_prefix": "306ddb0fdacd89f6",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "40",
+    "cover_le50_this": "",
+    "cover_le50_cum": "40",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is ONE page: the Carr 5-5-PG cover only ('Page 1'). Form 'A' is not present. Line 1 (over $50 - the only line Form A anchors) is ZERO: the LAST cell holds a plain written 0 and the CUMULATIVE cell a struck/slashed zero glyph, both zeros under the repo zero-glyph ruling; the THIS cell is empty. So this candidate reported no itemizable contribution at all. All 40 dollars sit on line 2, the <=$50 aggregate, which this form never itemizes (core brief section 4)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "40",
+    "cover_expense_this": "",
+    "cover_expense_cum": "40",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form 'B' is not present in the one-page PDF. Cover line 3 reads LAST 40 / THIS empty / CUMULATIVE 40 (600 dpi crop). Line 4 balance carries a slashed-zero glyph in the LAST and CUMULATIVE cells (= 0) and an empty THIS cell."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "not applicable - no schedule page exists in this document; the Carr form prints no schedule total in any case (addendum A.1)",
+  "row_count": "not applicable - no ruled schedule page in this document",
+  "geometry_proof": "not applicable - zero rows emitted",
+  "balance_chain": "Closes exactly on the cumulative column: contributions 0 (line 1) + 40 (line 2) = 40, minus expenses 40 = 0, and the filer wrote a slashed-zero balance. The LAST and CUMULATIVE columns carry identical figures with the THIS column left empty throughout - i.e. nothing moved in this final period."
+ },
+ "escalations": 4,
+ "escalation_note": "600 dpi cell crops of all four cover lines across all three columns, to separate written zeros from empty rules and to confirm 40 / 40",
+ "notes": "ONE-PAGE DOCUMENT - cover only. index.csv says candidate 'Cory Yeates', office 'County Council'; the form's 'Full Name of Candidate' reads 'Cory Yeates', 'Name of Office' 'Cache County Council', 'Office District' 'Logan Seat #1', party Republican - in scope and in agreement. Addressed 'TO Jill Zollinger, County Clerk'. Clerk RECEIVED stamp 2008 DEC -4 AM 8:50; signature date 12/4/08, matching the chunk file's 2008-12-04. ZERO-GLYPH NOTE: line 1 CUMULATIVE and both filled balance cells are slashed/struck zero glyphs, which the repo ruling reads as 0 (not blank); line 1 LAST is an ordinary round 0. Every THIS-REPORT cell on the cover is genuinely EMPTY (no dash, no glyph). Candidate street address, ZIP, home phone and business phone are printed in the clear and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

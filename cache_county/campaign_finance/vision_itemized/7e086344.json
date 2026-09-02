@@ -1,0 +1,104 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C26.json",
+ "key": "7e086344",
+ "index_path": "raw/2026/2026_cc_2026_Financial_Disclosure_June16_Sandi_Goodlander.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_June16_Sandi_Goodlander.pdf"
+ ],
+ "sha256_prefix": "37e45167ae7f9a4e",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "$0",
+    "cover_over50_cum": "$0",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "$0",
+    "page_subtotal": "$0",
+    "box_A_balance_begin": "$0",
+    "box_F_subtotal": "0",
+    "cover_balance_end": "-187.95"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==page-subtotal==cover-box-B==cover-box-C (all $0)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A (p2) carries NO transaction. The only ink in the grid area is a bare '$0' typed at the far left of the first row slot (PDF-text bbox x=40.18pt, i.e. inside the Date column, x=6.57% of page width) with no date, no contributor name and no address — it is the filer's nil notation for the schedule, not an itemized line, so zero rows are emitted (core brief section 6: 'do not transcribe what is not a field'). Printed 'Subtotal for this page $ $0' and 'Total Contributions Received $ $0' both close at 0.00 with zero rows. Box B (this period) $0 and Box C (year-to-date) $0 are EQUAL, so the two scopes coincide degenerately at zero; recorded as cumulative per the cache addendum section C. This CFD form has no separate '$50.00 or less' aggregate line at all, so the le50 keys are null, not 0.",
+   "n_rows": 0
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "$187.95",
+    "cover_expense_cum": "$687.95",
+    "schedule_total": "$187.95",
+    "page_subtotal": "$187.95",
+    "box_A_balance_begin": "$0",
+    "box_F_subtotal": "0",
+    "cover_balance_end": "-187.95"
+   },
+   "itemized": "187.95",
+   "basis": "schedule-total==page-subtotal==cover-box-D (Expenditures Made This Period)",
+   "result": "exact",
+   "scope": "period",
+   "detail": "One expenditure row summing 187.95. It equals the printed 'Subtotal for this page $ $187.95', the printed 'Total Expenditures Made $ $187.95' AND Summary-Page Box D 'Expenditures Made This Period' $187.95. It does NOT equal Box E 'Expenditures Made Year-to-Date' $687.95, so the rows are on the PERIOD scope, not the cycle-to-date scope. This is the scope the chunk file hypothesised (period_basis=cfd_period_ytd, scope_status=period_and_ytd_differ) and the page confirms it. The $500.00 difference between Box E and Box D is prior-period spending itemised in this filer's EARLIER report of the cycle; nothing in this document itemises it and no figure was synthesised by differencing.",
+   "n_rows": 1
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: 0 rows sum 0.00 = printed 'Subtotal for this page $ $0' = printed 'Total Contributions Received $ $0' (gate fires, empty schedule). p3: 1 row sums 187.95 = printed 'Subtotal for this page $ $187.95' = printed 'Total Expenditures Made $ $187.95' (gate fires exactly). Both schedules print BOTH a per-page subtotal and a report total, and on this single-schedule-page filing the two coincide by construction.",
+  "row_count": "rowbands.py returned geometry_status='no-reliable-geometry' (n_bands=0) on BOTH p2 and p3: this born-digital CFD schedule prints no ruled writing lines, only a header rule (p3 20.23%, p2 19.91%) and a footer rule (p3 84.09%, p2 83.50%). Counted ink by eye instead, per the core brief. p3: exactly ONE inked block between the two rules, comprising four stacked field values (May 15, 2026 / Mike Johnson / Campaign Photo / $187.95) = 1 row emitted. p2: no inked block at all apart from the single bare '$0' glyph described in recon.contributions.detail = 0 rows emitted.",
+  "geometry_proof": "p3 amount-cell crop at 600 dpi (-x 290 -y 1700 -W 520 -H 170) renders '$187.95' — the row's own value; the control crop one row-pitch (14.98 pt) below at the same box (-y 1825) renders EMPTY. First row == last row here (single row), so the two-crop test collapses to one crop plus the control, and both behaved as specified.",
+  "balance_chain": "Closes exactly on the period basis: Box A $0 + Box B $0 = Box F 0, and Box F 0 - Box D $187.95 = -187.95 = printed 'Balance at Close of Reporting Period' -187.95. NOTE the filer's own internal oddity, retained verbatim and NOT reconciled: Box E year-to-date expenditures $687.95 against Box C year-to-date contributions $0 and Box A beginning balance $0 — i.e. the YTD columns describe $687.95 spent with $0 ever raised, and the beginning balance of this period is $0 rather than the -$500.00 the YTD columns imply. That is the FILER's arithmetic across periods, not a transcription defect, and no cell was adjusted. Cross-filing chain check (this filing's TOTALS-FROM-LAST-REPORT vs an earlier filing's cumulative column) is NOT RUNNABLE here: the CFD form has no 'totals from last report' column at all, and this chunk contains only this one document by this filer."
+ },
+ "escalations": 1,
+ "escalation_note": "p3 amount cell re-rendered as a tight crop at 600 dpi to verify the row and to run the geometry control; read identically ($187.95). No bistable glyphs anywhere in this document — it is born-digital, and the PDF text layer (pdftotext -layout / -bbox) agrees glyph-for-glyph with the 200 dpi page images on every figure transcribed. Values were taken from the 200 dpi renders and the text layer, never from the 90 dpi classification sheet.",
+ "notes": "IN SCOPE. The office line INSIDE the form (p1 'Office' box) reads 'County Council' — a county office; the chunk file's office 'County Council' and candidate 'Sandi Goodlander' both agree with the form (candidate name appears on p1 twice and in the p2/p3/p4 footer 'Name of Candidate' blocks). Form family confirmed as cache_cfd, matching the chunk file's form_read. Report identity: p1 'Type of Report' has 'Seven days preceding the General Election' marked and 'Is this report an amendment?' answered 'No'; every page footer prints 'Date of Report 06-16-2026' and the signature block prints 'Signed at: 2026-06-16 13:53:38', so all four pages belong to one report. The 'Page' footer cell is left blank on p2/p3/p4 (filer omission, honest). ONE LABEL CONTRADICTION worth a human eye, in the PDF METADATA only, not on any page: the file's embedded Title is '2024 Candidate Financial Disclosure (2) (1).pdf' with Author 'Naomi Clark' and CreationDate 2025-03-28 — the county's blank template was evidently re-used and re-saved (ModDate 2026-06-16), while the FORM ITSELF is unambiguously the 2026-06-16 report. Transcribed from the form, per core brief section 7. Also noted for the record: the report type marked is 'Seven days preceding the General Election' although the report is dated 2026-06-16, seven days before the June 2026 PRIMARY; the mark is transcribed as the filer made it and not reinterpreted. PRIVACY: p1 prints the candidate's home street address, home phone and email in the clear, and they are discarded at read time — written nowhere in this record. The single Schedule B row's Provider/Vendor cell carries no address at all. LAYOUT NOTE for downstream: on both schedules this filer's field values render STACKED in the left margin (each field on its own line at x=37.36pt) rather than spread across the Date/Vendor/Purpose/Amount columns — a form-field rendering artifact of the flattened PDF, not a field shift. Field-shift screen passes on its content test: line 1 is date-shaped, line 2 name-shaped, line 3 purpose-shaped, line 4 amount-shaped, in exactly the form's printed column order, and the count of names (1) equals the count of amounts (1). Columns are therefore assigned by ORDER, confidently, and the amount assignment is independently confirmed by the printed subtotal.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2026-05-15",
+   "vendor_raw": "Mike Johnson",
+   "purpose": "Campaign Photo",
+   "amount": "187.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.10,26.06,6.65,1.89@p3",
+   "note": "Verbatim on the page: 'May 15, 2026' / 'Mike Johnson' / 'Campaign Photo' / '$187.95', rendered as four stacked lines in the left margin rather than across the four printed columns (see the layout note in the document notes) — assigned by printed column order, with the amount independently confirmed by the printed page subtotal. Amount transcribed without the '$' sigil; the page prints '$187.95'. This CFD form has no in-kind column, so in_kind is false by absence, never inferred. Confidence capped at medium because this is a vision read, per the per-row contract, although the page is born-digital and its text layer agrees exactly."
+  }
+ ]
+}

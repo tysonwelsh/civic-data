@@ -1,0 +1,155 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W03.json",
+ "key": "2bcac904",
+ "index_path": "raw/live_wp/K.-Adam-Snow-2.pdf",
+ "applies_to": [
+  "raw/live_wp/K.-Adam-Snow-2.pdf"
+ ],
+ "sha256_prefix": "cddbc2696e639c59",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "16,875.51",
+    "cover_over50_this": "-",
+    "cover_over50_cum": "16,875.51",
+    "cover_le50_last": null,
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "11,654.51",
+    "schedule_total": "-"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A is a completely EMPTY grid - not one of its ~17 data rows carries a character - and its printed TOTAL CONTRIBUTIONS cell renders as the accounting dash '-', exactly as the cover's THIS REPORT cell does. On this typed, spreadsheet-generated form the dash is the accounting-format rendering of ZERO, not a nil mark, and the balance chain proves it: 16,875.51 + 0 - 5,221.00 = 11,654.51 exactly, which only closes if contributions THIS is 0. Rows-sum 0 therefore equals both the schedule total and cover line 1 THIS. It does NOT equal the CUMULATIVE cell 16,875.51 (money raised in earlier reports), so this schedule is PER-PERIOD: scope 'period', a different scope from the CUMULATIVE figure the module publishes - honest, not a failure. NOTE the form generation difference: this modern county-branded cover has only THREE lines and NO '$50.00 or less' aggregate line at all, so cover_le50_* are null (the field does not exist), not blank."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "5,221.00",
+    "cover_expense_cum": "5,221.00",
+    "cover_balance_end": "11,654.51",
+    "schedule_total": "5,221.00"
+   },
+   "itemized": "5221.00",
+   "basis": "schedule-total==cover-line2-this==cover-line2-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "All 5 typed Form B rows sum to exactly 5,221.00 = the sheet's printed TOTAL EXPENDITURES = the cover's expense THIS REPORT cell = the cover's expense CUMULATIVE cell (three anchors, all agreeing). The expense LAST REPORT cell is left EMPTY, so THIS and CUMULATIVE coincide on this side and the scope is recorded 'cumulative' with that coincidence stated. Contrast the contributions side of the SAME cover, whose LAST cell carries 16,875.51 - a single filing can sit on different scopes side by side, which is why the scope test is run per side."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 (Form A): 0 rows, rows-sum 0.00 = printed TOTAL CONTRIBUTIONS (accounting dash for zero) - closes. p3 (Form B): 5 rows sum 350.00 + 4,485.68 + 200.00 + 91.72 + 93.60 = 5,221.00 = printed TOTAL EXPENDITURES 5,221.00 - EXACT. No gate failed on this filing.",
+  "row_count": "p3 rowbands.py returned CLEAN geometry: 20 h_rules on a 2.91-pct pitch and 5 v_rules (7.75 / 16.32 / 42.20 / 68.04 / 94.01) delimiting Date | Person Paid | Purpose | Amount. Bands 1-5 below the header carry ink, bands 6-17 are empty, then the TOTAL row - 5 rows emitted, matching. p2 (Form A) has the same ruled grid with ~17 bands and ZERO inked - 0 rows emitted.",
+  "geometry_proof": "RAN AND CAUGHT A ONE-BAND OFFSET, then re-proved. First attempt used the rule ladder's first entry as row 1's top: that box rendered the printed 'Amount' HEADER, not a value, proving the first detected rule is the header's bottom. Corrected mapping: first-row box pct:68.04,35.08,25.97,2.91@p3 renders '$ 350.00'; last-row box pct:68.04,46.75,25.97,2.87@p3 renders '$ 93.60'; the control one pitch below (y=49.62) renders EMPTY. Row indices confirmed unshifted under the corrected mapping. This is exactly the shift no arithmetic gate can see - the 5 rows summed correctly under BOTH mappings.",
+  "balance_chain": "CLOSES EXACTLY: beginning balance 16,875.51 + contributions 0 - expenditures 5,221.00 = 11,654.51 = the printed ending-balance CUMULATIVE cell. The THIS-REPORT balance cell is printed in accounting parentheses, '(5,221.00)', i.e. NEGATIVE 5,221.00 - the period's net change - and that too is consistent. Cross-filing chain: this chunk also holds two other K. Adam Snow filings (keys 2d6daad8 and, per the chunk file, the same filer under the fuller name 'Kenneth Adam Snow'), but those are 2024-cycle campaign reports while this is the 2025 ANNUAL officeholder report for a sitting commissioner, so they are not two filings in one cycle and no TOTALS-FROM-LAST-REPORT chain links them. See notes."
+ },
+ "escalations": 1,
+ "escalation_note": "The whole Form B row block plus the header was re-rendered at 450 dpi and each of the three geometry-proof cells at 600 dpi. The page is typed rather than handwritten, so no glyph was in doubt; the escalation that mattered was the geometry re-proof described in geometry_proof.",
+ "notes": "This is the MODERN county-branded form generation (Washington County 'America's County' logo, 'Campaign Financial Disclosure Per Title 1 Chapter 7 of Washington County Code of Ordinances'), typed and highlighted rather than handwritten, and its layout differs from the other Gen-2 filings in this chunk in three ways worth recording: (a) the cover has only THREE money lines - there is NO '$50.00 or less' aggregate line, so the sub-$50 trap does not arise and cover_le50_* are null; (b) Form A's columns are Date | Name of Donor | Amount | In Kind? Y/N - there is NO mailing-address column at all, so even a populated row could carry no donor city or state; (c) both schedules print a footer total. FORM vs CHUNK FILE: the chunk file says candidate 'K. Adam Snow', office 'Commission (seat not stated)', reporting_year 2025 with no cycle year; the form's Full Name line reads 'K. Adam Snow' and its 'Candidate for Office Of' line reads 'Commission' with no seat - AGREES. In scope: this is the January ANNUAL officeholder report (certified period 1/1/2025 to 12/31/2025, signed 1/8/26, clerk-received 1/9/2026), which the county addendum names as the odd-year exception to the even-year county-office cycle. POSSIBLE SAME-FILER PAIR, NOT A DUPLICATE: chunk key 2d6daad8 is a 2024 filing by 'Kenneth Adam Snow' for Commission Seat C - almost certainly the same person, but a different report in a different cycle; both are transcribed independently and neither is skipped. The zero-glyph question is decided here by ARITHMETIC, not by appearance: the '-' in the contributions cells is the spreadsheet's accounting rendering of zero (the balance chain closes only under 0), not a hand-drawn nil mark. Privacy: this cover prints no home address or phone; nothing needed discarding beyond the candidate's signature, which is not transcribed.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2025-01-29",
+   "vendor_raw": "Caddy Group",
+   "purpose": "Networking with business leaders",
+   "amount": "350.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:68.04,35.08,25.97,2.91@p3",
+   "note": "typed row; no in-kind column exists on Form B."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2025-03-14",
+   "vendor_raw": "Adam Snow",
+   "purpose": "Reimbursement for Constant Contact",
+   "amount": "4,485.68",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:68.04,37.99,25.97,2.91@p3",
+   "note": "the payee is the candidate himself, reimbursed for an email-service expense - recorded verbatim as printed, not reclassified."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2025-01-23",
+   "vendor_raw": "Perfect Golf",
+   "purpose": "Hole Sponsorship for Campaign",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:68.04,40.90,25.97,2.93@p3",
+   "note": "out of chronological order (1/23 listed after 3/14) - transcribed in printed order."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2025-12-05",
+   "vendor_raw": "Walgreens",
+   "purpose": "Campaign Christmas Cards",
+   "amount": "91.72",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:68.04,43.83,25.97,2.92@p3",
+   "note": ""
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2025-12-16",
+   "vendor_raw": "USPS",
+   "purpose": "Campaign Christmas Card Postage",
+   "amount": "93.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:68.04,46.75,25.97,2.87@p3",
+   "note": ""
+  }
+ ]
+}

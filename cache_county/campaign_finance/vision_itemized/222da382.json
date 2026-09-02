@@ -1,0 +1,82 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C11.json",
+ "key": "222da382",
+ "index_path": "raw/2016/2016_cc_Barnard_White_Campaign_Finance_Report.pdf",
+ "applies_to": [
+  "raw/2016/2016_cc_Barnard_White_Campaign_Finance_Report.pdf"
+ ],
+ "sha256_prefix": "4147f10c4cf84ee5",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr-5-5-pg-form-A",
+  "expenditures": "carr-5-5-pg-form-B"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0",
+   "basis": "no printed figure exists - cover lines 1 and 2 are BLANK in all six cells",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form A (page 2) is an entirely EMPTY ruled schedule, so the side is an honest zero with zero rows. It cannot be SCORED, however: the cover's line 1 and line 2 are left BLANK in all three columns - empty cells, not slashed zeros - and per the zero-glyph ruling a blank cell is BLANK, never 0. There is therefore no printed anchor for this side and the result is unknown, not exact."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "112.50",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "$112.50",
+    "cover_balance_end": "($112.50)",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0",
+   "basis": "cover-line3-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (page 3) is likewise an entirely EMPTY ruled schedule: rows sum 0. That equals cover line 3's THIS REPORT cell, which the filer wrote as a slashed zero (= 0 per the zero-glyph ruling) - NOT the CUMULATIVE cell, which is $112.50. So these ROWS ARE ON THE PERIOD SCOPE: this filing reports no new expenditure, and the $112.50 was itemised on the prior filing (cover line 3 LAST REPORT = 112.50). The identity closes: 112.50 + 0 = $112.50. Scoring an empty Form B against the $112.50 cumulative figure would manufacture a false mismatch."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "the Carr 5-5-PG form prints NO schedule total on either schedule, so the cover lines are the only anchors; both schedules are empty and only line 3's THIS cell (a slashed zero) is a scorable figure",
+  "row_count": "scored by eye against ink at 200 dpi on both schedule pages: ~40 ruled writing lines each, ZERO inked. All marks on pages 2 and 3 are show-through of the page-4 statute text from the reverse of the sheet (serif body type running across the column rules, no figure in any Amount cell). rowbands.py not needed - there is no ink to score.",
+  "geometry_proof": "no rows emitted, so no row geometry to prove",
+  "balance_chain": "LAST + THIS = CUM closes on line 3 (112.50 + 0 = 112.50). Line 4 is written ONLY in the CUMULATIVE column, as ($112.50) - accounting parentheses, i.e. NEGATIVE 112.50 - and the LAST and THIS cells are blank, so the line-4 chain itself cannot be checked. The period identity does close in sign: contributions (blank/none) minus expenses 112.50 = -112.50, which is exactly the parenthesised balance. Unlike the Zilles and Tidwell covers in this chunk, THIS filer used the parentheses convention and got the sign right. No earlier filing by this filer is in this chunk, so the cross-filing LAST-column chain could not be run here."
+ },
+ "escalations": 1,
+ "escalation_note": "600 dpi crop of the whole four-line cover anchor block to read lines 3 and 4 and confirm lines 1 and 2 are blank rules rather than faint marks",
+ "notes": "Chunk file says candidate 'Barnard White', office 'County Council'. The cover reads 'Full Name of Candidate: Barnard Jon White' and 'Name of Office: County Council (South)' / 'Office District: South'. AGREES; county office, in scope. Form date reads 'Dec 5 2016'; the chunk file's date field says 2016-12-07, which is the county's index date and NOT the date on the form - the FORM governs. Clerk stamp: CLERK REC'D DEC 7 '12:01. BOTH SCHEDULES ARE HONEST ZEROS (the pages exist and are blank), and the contributions side additionally has NO printed anchor at all because the filer left cover lines 1 and 2 wholly blank - a blank cell is not a zero. Candidate street address, ZIP and business phone are printed in the clear on the cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

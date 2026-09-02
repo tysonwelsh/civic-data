@@ -1,0 +1,113 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C02.json",
+ "key": "5f7193c8",
+ "index_path": "raw/2010/2010_wb_lnelson.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_lnelson.pdf"
+ ],
+ "sha256_prefix": "83972c46db4af131",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr-ruled-ledger",
+  "expenditures": "carr-ruled-ledger"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "784,00",
+    "cover_over50_cum": "784,00",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "784,00",
+   "basis": "cover-line1-cumulative (== the THIS cell)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row on p2 for 784,00 (decimal comma - see the currency note). The cover's line-1 THIS and CUMULATIVE cells BOTH read 784,00 and the LAST column is blank, so this is the first and only report of the cycle and the two scopes coincide; recorded as cumulative per addendum C. Line 2 (the <=$50 aggregate) carries a bare dash in the THIS cell and is otherwise blank, so nothing is hidden behind the small-donor line. The Carr form prints no schedule total and no page subtotal."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "388,06",
+    "cover_expense_cum": "388.06",
+    "cover_balance_end": "395.94",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "388,06",
+   "basis": "cover-line3-cumulative (== the THIS cell)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row on p3 for 388,06, equal to both the THIS and the CUMULATIVE line-3 cells (LAST blank - first and only report of the cycle, so the scopes coincide). The CUMULATIVE cell's separator glyph reads as a point rather than the comma the filer uses elsewhere; both recorded as printed."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "The Carr 5-5-PG prints NEITHER a schedule total NOR a page subtotal (addendum A.1). Gated against the cover instead: p2 row 784,00 = cover line 1 (exact); p3 row 388,06 = cover line 3 (exact).",
+  "row_count": "rowbands.py p2: 23 bands, geometry_status 'gaps' - the tool loses the rules where the filer's typed explanatory paragraph overlays the middle of the sheet (bands jump from 14.35% to 47.08%); mapped by hand, exactly ONE band is inked (band 1) = 1 row emitted, every other ruled line on the ~40-line grid is empty. rowbands.py p3: 36 bands, geometry_status 'ok'; band 1 alone is inked = 1 row emitted. Filer writes ON/ABOVE the rule, so row 1 is the space above rule 1; scored against ink.",
+  "geometry_proof": "p2: the declared row-1 amount box renders '784, 00'; the control crop one row-pitch below renders EMPTY (bare rule). p3: the declared row-1 box renders '388,06'; the control one pitch below renders EMPTY. The declared 11.50%-wide box clips the last cent glyph at its right edge on both pages - it points unambiguously at the correct cell and row, but a consumer wanting the whole cell should widen it by about 1.5 points.",
+  "balance_chain": "CLOSES EXACTLY: 784.00 contributions - 388.06 expenses = 395.94, and the filer wrote 395.94 in the cumulative Balance-at-end cell. This is a first-and-only report of the cycle (the LAST column is blank on every line), so no cross-filing chain is available and none was invented."
+ },
+ "escalations": 8,
+ "escalation_note": "600 dpi crops of cover lines 1, 2, 3 and 4; 1200 dpi cell crops of cover line-1 THIS, line-1 CUMULATIVE, line-3 CUMULATIVE and line-4 CUMULATIVE (to settle the comma-vs-point separator); 1200 dpi crops of the p2 and p3 amount cells; a 600 dpi sweep of the bottom edge of p2 to confirm nothing is stapled below the footer",
+ "notes": "index.csv says candidate 'G. Lynn Nelson', office 'Sheriff'; the form's 'Full Name of Candidate' reads 'Gerald Lynn Nelson' and 'Name of Office' reads 'Sheriff' (Office District left blank, party Republican) - a county office, in scope, and in agreement with the chunk file. DOCUMENT CONTRADICTS THE CHUNK FILE ON DATE: the chunk's date column says 2010-10-13, but this filing is signed '10/19/10' and the clerk stamp reads 'RCVD 20 OCT 2010 pm0407'. Neither of the document's own dates is 2010-10-13; the two other 2010 filings in this chunk (gzilles, hcpetersen) are the ones stamped 13 OCT 2010, so the index date on this row looks carried over. CURRENCY: this filer uses a DECIMAL COMMA (784,00 / 388,06) and a comma-like tick that in two cells reads as a point (388.06 / 395.94); amounts are transcribed VERBATIM as printed per core section 3(g), never normalised here. FILER ANNOTATION, NOT A FIELD: the middle of p2 carries a typed paragraph headed 'Ride For the Sheriff's' explaining that 'In 2010, this ride was for Cache and Weber sheriffs. People lined up on the day of the event and bought tickets, expenses for the ride were deducted and each sheriff received a portion of the rest of the monies.' It is narrative, sits in no column, and was NOT transcribed as a row. The Form A address cell was left empty by the filer, so donor_city/donor_state are blank - an empty cell, not a redaction. Candidate street address, suite, ZIP and both phone numbers are printed in the clear on the cover and were discarded at read time. Field-shift screen passed: 1 date / 1 name / 1 amount on p2 and 1 date / 1 vendor / 1 purpose / 1 amount on p3.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-07-17",
+   "donor_raw": "Ride for the Sheriff's",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "784,00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:82.50,6.90,11.50,2.82@p2",
+   "note": "Contributor is an EVENT/fundraiser, not a person - the filer's typed note on the same page explains it was a motorcycle ride whose net proceeds were split between the Cache and Weber sheriffs. Address cell left EMPTY by the filer (not redacted). Amount written with a decimal comma and a raised '00' after a space: '784, 00'; kept verbatim as '784,00' per core section 3(g)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Cache Co. Clerk",
+   "purpose": "Filling fee",
+   "amount": "388,06",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:82.50,8.10,11.50,2.77@p3",
+   "note": "DATE CELL READS '3/10' VERBATIM - two fields only, so it is either month/year (March 2010) or month/day with no year printed. Not cleanly parseable either way, so the date is left BLANK with needs_review per the per-row contract; the year was NOT filled in from the report date. Purpose is the filer's own spelling, 'Filling fee'. Amount carries a clear decimal comma."
+  }
+ ]
+}

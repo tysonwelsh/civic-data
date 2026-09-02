@@ -3,7 +3,10 @@
  "key": "9630b1c7",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:52:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2012 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,52 @@
    "notes": "Handwritten block capitals. TYPE OF REPORT: NONE of the five Interim Reports boxes is checked - the filer left the report-type question blank, so report_type_printed is '' (blank on the form is not a value; the portal's reporting_period label 'Ballard - 08/30/12' is not evidence of which box was meant). POLITICAL PARTY: the cell is left entirely blank by the filer, so party_printed is '' - not 'unknown', just unwritten. A ZERO REPORT: every one of the nine summary cells carries the filer's hand-drawn oval zero; all are transcribed '0' at high confidence (these are written zeros, not blanks). AMENDMENT: the 'No' box is checked with an X; there is separately a struck-out fragment ('8/3') written on the 'Yes, Date of Report' line and crossed through - the surviving answer is No. Office Seeking on the page reads 'COUNTY COMMISSION SEAT C', which AGREES with office_index 'County Commission Seat C'. candidate_index was blank; the cover names LARRY BALLARD and the verification block names LARRY L. BALLARD. Page box reads 'Page 1 of 2'."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r2_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED, written as a handwritten oval ZERO (read 0 under the repo zero-glyph ruling), matched by Schedule A's own printed 'Total Contributions Received $ 0' - the schedule's 'Subtotal for this page' cell is left BLANK",
+     "detail": "Schedule A (p3) carries NO entries: all 16 ruled lines are empty in every column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), and even the sheet's own Page-of / Last Name / Date of Report header block is left blank. The filer wrote nothing on 'Subtotal for this page' and a single oval 0 on 'Total Contributions Received'. A 900 dpi crop of that footer block (pct:78,85.0,20,9@p3) RENDERED an empty subtotal rule and an unmistakable handwritten oval zero on the Total line. That agrees with the cover's promoted per-period cell (Column A line 1, also an oval 0) and with summary line 4 'Total Contributions Received (From Line 1 Column A)'. Column B Year-to-Date is likewise 0 and is not summed as an increment. 0 rows = 0.00 = the printed anchor."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 2 TOTAL EXPENDITURES MADE, written as a handwritten oval ZERO (read 0 under the repo zero-glyph ruling), matched by Schedule B's own printed 'Total Expenditures Received $ 0' - its 'Subtotal for this page' cell is likewise BLANK",
+     "detail": "Schedule B (p4) carries NO entries: all 16 ruled lines empty, header block blank. A 900 dpi crop of the footer (pct:78,85.0,20,9@p4) RENDERED an empty 'Subtotal for this page' rule and a handwritten oval zero on 'Total Expenditures Received'. Agrees with the cover's Column A line 2 (oval 0) and with summary line 6. Column B YTD is 0. 0 rows = 0.00 = the printed anchor."
+    }
+   },
+   "in_kind_convention": "not applicable - both schedules are empty and this form prints no in-kind column or line anywhere. Both conventions were tested and both give 0.00, which is what every printed anchor states.",
+   "escalations": 2,
+   "escalation_note": "Two 900 dpi footer crops (p3 and p4) to settle whether the zero glyph sits on the 'Subtotal for this page' line or the 'Total ... Received' line, and whether the blank subtotal is truly blank. It is: subtotal blank, total = oval zero, on both schedules.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "**2012 FORM CHARACTERISATION - the first 2012 filing read in this wave; this note is the map for the rest of the cycle.** VARIANT: legacy_colAB, confirmed from the page. The cover (p1) is headed '2012 FINANCIAL CAMPAIGN REPORT / FOR COUNTY CANDIDATES' with the citation '(Utah County Code 2-5 & Utah State Code 17-16-6.5)' - i.e. the '2-5' citation of the 2010 blank, NOT the undated '2-5-2' blank Poulson used in December 2010 (ADDENDUM A4). Remember the printed year is the TEMPLATE VINTAGE, not the cycle (\u00a75 / A4): here they happen to agree, but do not treat that as a rule - Larry Alton Ellertson also filed in 2008 on a different blank. FOUR PAGES, each classified from its own printed header: p1 COVER, p2 SUMMARY PAGE, p3 SCHEDULE A - ITEMIZED CONTRIBUTIONS RECEIVED, p4 SCHEDULE B - ITEMIZED EXPENDITURES MADE. WHERE THE SUMMARY PAGE SITS: p2 here, but located by its printed 'SUMMARY PAGE' heading, never by ordinal - and this filing proves why, because the filer's own foliation box on that page reads 'Page 1 of 2' for what is PDF page 2 of 4, while the p3 and p4 foliation boxes are left entirely blank. SCHEDULE STRUCTURE: both schedules are the UNDERLINE form (no boxed cells) with 17 printed per-column underlines = 16 data rows, four columns, and the text sits ABOVE its rule. BOTH schedules print their own two-level footer: 'Subtotal for this page $___' AND 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $___' / 'Total Expenditures Received (Sum of subtotals from all Schedule B pages) $___' - so each schedule offers TWO independent printed anchors beyond the cover, exactly as the 2010 and 2014 blanks do. ONE 2012-SPECIFIC QUIRK WORTH CARRYING FORWARD: the county's 2012 SCHEDULE B reuses SCHEDULE A's column headings verbatim - its payee column is printed 'Name of Contributor' (not 'Purchased From' as on the 2014 blank), and there is NO Purpose column on Schedule B, so `purpose` will be honestly blank for every 2012 expenditure row. THIS FILING: page-face candidate 'LARRY BALLARD' (verification block 'LARRY L. BALLARD'), office written 'COUNTY COMMISSION SEAT C', residence city Salem UT; index.csv names NO candidate for this row (channel label is the period string 'Ballard - 08/30/12'), so the page face supplies the name and it agrees with index.csv's office. TYPE OF REPORT: none of the five INTERIM REPORTS boxes is checked - the report type is an honest BLANK, not inferable. AMENDMENT: 'No' is checked (X), but the 'Yes, Date of Report' rule carries a struck-through handwritten fragment reading like '8/3-' - a false start the filer crossed out; the ticked box governs. Clerk stamp AUG 30 AM 10:00. A ZERO-ACTIVITY REPORT: every cell of the summary ladder (lines 1-7, both columns) is a handwritten oval zero, and both schedules are EMPTY SCHEDULES - the pages exist and the filer entered nothing. That is a real absence of entries, not an unread page and not a missing page."
+  }
+ }
 }

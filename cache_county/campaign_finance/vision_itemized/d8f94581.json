@@ -1,0 +1,256 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C13.json",
+ "key": "d8f94581",
+ "index_path": "raw/2018/2018_cc_Paul_R_Borup.pdf",
+ "applies_to": [
+  "raw/2018/2018_cc_Paul_R_Borup.pdf",
+  "raw/2018/2018_st_Borup_Paul.pdf"
+ ],
+ "sha256_prefix": "69d9025a8e24d1f9",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "N/A",
+    "cover_over50_this": "1,649.67",
+    "cover_over50_cum": "1,649.67",
+    "cover_le50_last": "",
+    "cover_le50_this": "25.00",
+    "cover_le50_cum": "25.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "1,674.67 (all 6 rows) = 1,649.67 over-$50 rows + 25.00 sub-$50 row",
+   "basis": "cover-line1 (THIS == CUMULATIVE, over-$50 rows only)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Rows 1-5 (all candidate self-funding) sum to 112.50+63.97+48.29+748.00+676.91 = 1,649.67 = cover LINE 1, which reads the same 1,649.67 in BOTH the THIS-REPORT and CUMULATIVE columns -- this is the FIRST report of the cycle (the LAST-REPORT column is written 'N/A' with a long arrow drawn down through all four lines), so the two scopes COINCIDE; recorded as cumulative per the addendum. Row 6 (Mike Elder, 25.00) is the SUB-$50 contribution and equals cover LINE 2 (25.00), which is never itemized and is excluded from the line-1 gate. 'N/A' is not a numeral, so the LAST anchors are not zeros. No schedule total is printed on the Carr form."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "1,674.67",
+    "cover_expense_cum": "1,674.67",
+    "cover_balance_end": "-0-",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "1,674.67",
+   "basis": "cover-line3 (THIS == CUMULATIVE)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "p3 rows 112.50+63.97+48.29+773,00+676.91 = 1,674.67 = cover line 3, identical in the THIS-REPORT and CUMULATIVE columns (first report of the cycle, scopes coincide). Line 4 reads '-0-' in both columns: a written nil mark denoting zero, which the repo-wide zero-glyph ruling reads as 0 (verbatim glyph kept here)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints no schedule total and no page subtotal -- honestly none; the cover lines are the only anchors. p2 over-$50 rows-sum 1,649.67 = cover line 1 (exact); p2 sub-$50 row 25.00 = cover line 2 (exact); p3 rows-sum 1,674.67 = cover line 3 (exact). line1+line2 = 1,674.67 = line3 and the balance is -0-: the whole cover closes.",
+  "row_count": "rowbands.py p2: 'gaps', 30 bands, amount column x 82.35-92.76; one rule near 12.9 was dropped, so the row-1/row-2 boundary was reconstructed from the 2.32 pitch and checked against the ink. Six inked rows counted against the ink, six emitted; the band below row 6 renders empty. p3: 'ok', 32 bands, amount column x 82.74-93.14, but the detected rule spacing is irregular (2.22 / 2.87 / 3.97 / 2.98) because ink crosses the rules, so the five row boxes were measured on the ink and each proved by crop rather than taken from the tool. Five inked rows, five emitted.",
+  "geometry_proof": "p2 amount-cell crops at 600 dpi: first row's box renders '112.50', last (6th) row's box renders '25.00', control box one row-pitch below renders EMPTY. p3 at 600 dpi: first row's box renders '112.50', last (5th) row's box renders '676.91', control one pitch below renders EMPTY.",
+  "balance_chain": "Cover: contributions 1,649.67 + 25.00 = 1,674.67 in, expenses 1,674.67 out, line-4 balance '-0-' -- CLOSES EXACTLY. CROSS-FILING CHAIN (same filer, same cycle, both filings in this chunk): this 10/27/18 interim is the FIRST report (LAST column 'N/A'); its CUMULATIVE column (1,649.67 / 25.00 / 1,674.67 / -0-) equals line for line the TOTALS FROM LAST REPORT column of the 11/29/2018 summary (key c0e4a821). Chains exactly; no swapped-cover pair. The 748.00-on-Form-A vs 773.00-on-Form-B asymmetry for 5/11/18 appears IDENTICALLY in both filings, confirming it is the filer's own record."
+ },
+ "escalations": 5,
+ "escalation_note": "p2 amount column at 800 dpi (row 4 shows a small '4' inserted above the line between the 7 and the 8 -- it reads 748.00, and 748.00 is what closes cover line 1); p2 date column at 800 dpi; p3 amount column at 800 dpi plus 1200 dpi single-cell crops of rows 1 and 4; p3 date column at 800 dpi (settled row 2 as 3/27/18, not 3/21/18); p1 cover totals block at 600 dpi.",
+ "notes": "index.csv gives candidate 'Paul R Borup', office 'County Council', date 2018-10-29 -- the cover reads 'PAUL R BORUP', 'Name of Office: CACHE COUNTY COUNCIL', 'Office District: LOGAN SEAT #3'. DOCUMENT vs CHUNK FILE: the chunk file dates this 2018-10-29 while the FORM's signature date is 10/27/18; a red clerk annotation at the top right reads \"Rec'd 10/29/18 10:33 SH\", which is presumably the index's source. The form governs. County office, in scope. DECIMAL SEPARATOR: this filer's periods render comma-like on the darker p3 scan; row 4 of p3 has an unmistakable descending tail and is transcribed verbatim as '773,00' (the whitelisted downstream repair converts it), the others as periods -- the value is identical either way and the arithmetic closes regardless. Form A rows 1-5 have EMPTY address cells (the filer wrote no address at all, not a redaction); row 6 carries a street address and ZIP in the clear, discarded at read time. FIELD-SHIFT SCREEN passed on both sides: 6/6/6 on p2 and 5/5/5 on p3.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-03-14",
+   "donor_raw": "PAUL BORUP",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "112.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.35,10.43,10.41,2.57@p2",
+   "note": "candidate self-funding. Filer left the Mailing Address cell EMPTY (not redacted, not a ditto) -- no city or state to emit. Carr form has no in-kind column."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2018-03-27",
+   "donor_raw": "PAUL BORUP",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "63.97",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.35,13.00,10.41,2.50@p2",
+   "note": "name written out in full (no ditto on this copy). Address cell empty."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2018-03-27",
+   "donor_raw": "PAUL BORUP",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "48.29",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.35,15.50,10.41,2.32@p2",
+   "note": "address cell empty. Under $50 but itemized by the filer and counted in the over-$50 cover line; retained as written."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2018-05-11",
+   "donor_raw": "PAUL BORUP",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "748.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.35,17.82,10.41,2.32@p2",
+   "note": "the filer inserted a small '4' above the line between the 7 and the 8, so the cell reads 748.00. NOT to be conformed to the 773,00 on Form B row 4 of the same date: 748.00 is the only value under which Form A sums to the printed cover line 1 (1,649.67). Address cell empty."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2018-08-13",
+   "donor_raw": "PAUL BORUP",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "676.91",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.35,20.14,10.41,2.27@p2",
+   "note": "address cell empty."
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "2018-09-08",
+   "donor_raw": "MIKE ELDER",
+   "donor_city": "LOGAN",
+   "donor_state": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.35,22.41,10.41,2.34@p2",
+   "note": "the only non-self contribution, and the SUB-$50 one: it equals cover line 2 (25.00) and is excluded from the line-1 gate. Address cell holds a street address, city LOGAN and a ZIP; street and ZIP discarded at read time. The filer wrote NO state, so donor_state is left blank rather than inferred."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-03-14",
+   "vendor_raw": "CACHE COUNTY",
+   "purpose": "FILING FEE",
+   "amount": "112.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.74,10.80,10.40,1.90@p3",
+   "note": "decimal separator renders comma-like on this darker scan; read as a period, matching the same filer's cleaner blue-ink Form A. Value unaffected."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2018-03-27",
+   "vendor_raw": "SIGN THIS INC",
+   "purpose": "TABLE BANNER",
+   "amount": "63.97",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.74,13.20,10.40,1.80@p3",
+   "note": "day glyph first read as 21; the 800 dpi date-column crop resolves it to 27, matching the same filer's 11/29 summary."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2018-03-27",
+   "vendor_raw": "SPRINT PRINT",
+   "purpose": "FLYER HANDOUTS",
+   "amount": "48.29",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.74,15.50,10.40,1.80@p3",
+   "note": ""
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2018-05-11",
+   "vendor_raw": "SIGN THIS INC",
+   "purpose": "100 YARD SIGNS",
+   "amount": "773,00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.74,17.80,10.40,1.85@p3",
+   "note": "written with a DECIMAL COMMA (clear descending tail at 1200 dpi), transcribed verbatim per the currency convention. NOT to be conformed to the 748.00 on Form A row 4 of the same date: 773,00 is the only value under which Form B sums to the printed cover line 3 (1,674.67)."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2018-08-13",
+   "vendor_raw": "WATKINS PRINTING",
+   "purpose": "FLYERS",
+   "amount": "676.91",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.74,20.00,10.40,1.85@p3",
+   "note": ""
+  }
+ ]
+}

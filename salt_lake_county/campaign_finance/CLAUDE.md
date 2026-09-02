@@ -6,7 +6,19 @@ Clerk, Assessor, Recorder, Treasurer, Auditor, Surveyor. Built 2026-08-01 (count
 wave). Utah county candidates file with the **County Clerk**, not `disclosures.utah.gov`.
 
 **This is the entity whose absence made the owner's "largest donor in a county race" query
-fail.** That query is now answerable from `contributions.csv` (2024 + 2026 cycles, structured).
+fail.** That query is now answerable from `contributions.csv` for **every document the county
+holds** — 2006–2015 (vision), the **2015–2021 PAPER slice** (vision, closed 2026-08-23), and
+the **whole EasyVote 2022–2026 era** (197 filings from the API + the 238-filing row-less
+residue transcribed by wave W2, closed 2026-09-01). It is unanswerable only for the 251
+GRAMA-only online reports of 2015–2021 — see "Honest gaps".
+
+**State of the layer, 2026-09-01 (read this before saying "Salt Lake County is done").**
+✅ closed: 2006–2015 itemization (496/496 filings with a Summary Page); the **2015–2021 paper
+slice (130/130 filings, 6,028 rows, wave W1, 2026-08-23)**; the API-itemized EasyVote filings;
+and the **EasyVote row-less residue (238/238 transcribed + 2 school-board out of scope,
+18,240 rows + 141 new covers, wave W2, 2026-09-01)**. ❌ **unacquired — the county's ONLY
+remaining gap:** the **251 online-filed 2015–2021 reports, GRAMA-only** (the county portal
+application is dead).
 
 ## What this is
 Three acquisition eras (full recon in `RECON.md`, source log in `AVAILABILITY.md`):
@@ -17,28 +29,57 @@ Three acquisition eras (full recon in `RECON.md`, source log in `AVAILABILITY.md
   itemization tranche" below; run `python3 vision_coverage.py` for the
   live count, never quote it from memory). `pdftotext` is useless for the figures here — see
   "Image-only text" under Honest gaps.
-- **(b) County disclosure portal, ~2016–2021** — **NOT ACQUIRED (WAF-blocked).** See "Honest
-  gaps" below. Recoverable only via browser automation or GRAMA.
+- **(b) The 2015–2021 era — its PAPER slice is CLOSED; its ONLINE slice is GRAMA-only.**
+  `raw/globalassets/` — **130 paper-filed county-office PDFs** from the clerk page's
+  `globalassets` URL family (plain GET, zero overlap with `raw/clerk_legacy/`), harvested
+  2026-08-20 and **FULLY TRANSCRIBED 2026-08-23 (wave W1): 717 pages, stated totals for all 125
+  filings that have a Summary Page, and 6,028 itemized rows — 3,422 contributions + 2,606
+  expenditures.** This is the ONLY slice that populates **`donor_occupation`** (its Schedule A
+  pre-prints an Occupation/Employer column no other era has). See "The 2015–2021 paper slice"
+  below. The other slice, **251 online-filed reports, is GRAMA-only**: the county disclosure
+  portal's application is DEAD (not WAF-blocked — a real browser gets the same connection reset),
+  and Wayback never crawled the report pages. Inventories in `_recon/2026-08-20-portal-probe/`.
 - **(c) EasyVote portal, 2022–2026** — `raw/easyvote/` (442 redacted PDFs) + `raw/easyvote_api/`
-  (the itemized JSON — the authoritative **structured** source). The **structured money layer**
-  (`contributions.csv` / `expenditures.csv` / `filing_totals.csv`) is built from this JSON.
+  (the itemized JSON — the authoritative **structured** source for the filings it covers).
+  **197 of the 442 documents are itemized by the API. The other 245 were NOT, and wave W2
+  (closed 2026-09-01) transcribed them from the documents**: 240 filings in the derived queue
+  (5 Fife-Jepperson filings sit outside it because the API does carry their school-board rows),
+  238 transcribed, 2 ledgered out of scope. See "The EasyVote residue — wave W2" below.
 
 ## Layout
 ```
 raw/clerk_legacy/    547 legacy PDFs + _fetch_log.jsonl (url, sha256, candidate, office, period)
+raw/globalassets/    130 paper-filed 2015-2021 county PDFs + _fetch_log.jsonl (harvested
+                     2026-08-20, transcribed 2026-08-23; characterisation in _audits/)
 raw/easyvote/        442 county redacted PDFs (image-only) + _fetch_log.jsonl
 raw/easyvote_api/    the 4 EasyVote API JSON responses (STRUCTURED SOURCE) + _fetch_log.jsonl
 text/                text sidecars (<channel>__<name>.txt); born-digital layer only
-vision/              VISION CACHES — **670 files, one per filing in the two non-structured eras
-                     (stated totals COMPLETE 2026-08-02)**, keyed sha1(index.csv path)[:8]. Since
-                     wave B2 the clerk-legacy caches ALSO carry their itemized Schedule A/B rows
-                     in the `contributions`/`expenditures` lists; see the two tranche sections
+vision/              VISION CACHES — **941 files, one per filing in the FOUR non-structured
+                     eras** (clerk_legacy 547 + easyvote_2022 123 + globalassets 130 +
+                     easyvote_2024_2026 141 — the W2 residue's 2024/2026 half; the residue's
+                     97 filings from 2022 already had caches from the 2026-08-02 tranche),
+                     keyed sha1(index.csv path)[:8]. Since wave B2 the clerk-legacy caches
+                     ALSO carry their itemized Schedule A/B rows; since wave W1 (2026-08-23)
+                     so do the 130 globalassets caches, which additionally carry
+                     `totals_verbatim` where a coordinator adjudication applies; since wave W2
+                     so do all 238 EasyVote-residue caches. See the tranche sections
 index.csv            one row per acquired filing (both channels)
-contributions.csv    DERIVED — itemized donations: EasyVote 2024/2026 (API) FIRST, then the
-                     vision-transcribed clerk-legacy rows APPENDED, per SCHEMA.md
-expenditures.csv     DERIVED — itemized expenditures, same two blocks in the same order
-filing_totals.csv    DERIVED — one row per filing: the 164 EasyVote-JSON itemized filings FIRST,
-                     then the 670 legacy + 2022 stated-totals rows (APPENDED, never interleaved)
+contributions.csv    DERIVED — 36,204 rows in FOUR appended blocks: EasyVote API (6,184),
+                     clerk-legacy vision (14,746), the 2015-2021 paper slice (3,422), then the
+                     wave-W2 EasyVote residue (11,852).
+                     Carries TWO optional trailing columns: `geometry`, then `donor_occupation`
+                     (SCHEMA §2c) — 12,517 rows carry one (W2 10,225 + paper slice 2,292)
+expenditures.csv     DERIVED — 20,876 rows (3,757 API + 8,125 clerk-legacy + 2,606 paper +
+                     6,388 wave-W2). ⚠ some filings print their expenditure amounts NEGATIVE
+                     (Morris's ledger exports, Liewer 585D94D0, the legacy McAdams/Winder
+                     rows); the sign is verbatim and reconciliation is on MAGNITUDE — take
+                     abs() before summing this column
+filing_totals.csv    DERIVED — 1,112 rows, one per filing: rows 1–171 are the structured
+                     EasyVote-JSON 2024/2026 filings, 172–841 the 670 legacy + 2022 stated-totals
+                     vision rows, 842–971 the 130 paper-slice rows, 972–1,112 the 141 wave-W2
+                     EasyVote 2024/2026 covers (APPENDED, never interleaved). 26 of the vision
+                     rows ALSO carry an API-supplied itemized half (2022 cycle) and 97 more
+                     gained a VISION itemized half from wave W2.
 donor_aliases.csv    CURATED (header-only seed)
 finance_overrides.csv CURATED (header-only)
 build_finance.py     builds the 3 structured CSVs from raw/easyvote_api/*.json, then APPENDS the
@@ -61,9 +102,10 @@ filer_type, has_text, has_itemized`.
 - `office` ∈ the 10 county offices (normalized from the raw labels — legacy parentheticals like
   "Council #5" / "Council At-Large C" and EasyVote "Salt Lake County …" strings); `seat` carries
   District N / At-Large X.
-- `source` ∈ `clerk_legacy` | `easyvote`. ⚠ `has_itemized` is an **acquisition-time** flag meaning
-  "the EasyVote API returned itemized rows for this filing" (2024/2026 only) — since wave B2 it
-  is NO LONGER the test for "does this filing have itemized rows". Use the filing's vision cache
+- `source` ∈ `clerk_legacy` | `easyvote` | `globalassets`. ⚠ `has_itemized` is an **acquisition-time** flag meaning
+  "the EasyVote API returned itemized rows for this filing" **as computed at acquisition, under
+  the buggy office gate** — it is NOT the test for "does this filing have itemized rows" (wave B2
+  itemized the legacy era, and the 2026-08-20 gate repair admitted 33 more EasyVote filings). Use the filing's vision cache
   (`_meta.itemized`) or `source_filing` in `contributions.csv`/`expenditures.csv` instead.
 - `election_year` is the **even-year proxy** (see caveats). `format` ∈ text | scanned, measured
   from the actual PDF font layer (never guessed by extension).
@@ -76,16 +118,38 @@ source, the same data class as `disclosures.utah.gov` — filters to county offi
 `scripts/campaign_finance/SCHEMA.md`. **The PDFs are NOT parsed for the money** (they are
 image-only redacted scans); the API JSON is authoritative.
 
-- **contributions.csv 4,956 · expenditures.csv 3,278 · filing_totals.csv 164 filings** —
-  **$1,905,741 raised / $1,633,769 spent** across the **2024 + 2026** county cycles.
-  ⚠ Those are the EasyVote-API rows ONLY, and they are **rows 1–4,956 / 1–3,278** of the two
-  CSVs. Since wave B2 the files also carry the vision-itemized clerk-legacy block appended
-  after them (11,741 / 7,054 rows in total as of 2026-08-02). Filter on
-  `extract_method` (`easyvote_api/json` vs `vision-itemized/…`) before quoting either era.
-- **donor_type** (contrib): individual 4,371 · unknown 300 (294 are **blank-donor** aggregate/
-  unnamed rows, `needs_review=1`) · candidate-self 117 · family-of-candidate 90 · loan 79.
-- **office** (contrib rows): County Council 3,138 · Assessor 403 · Mayor 347 · Treasurer 307 ·
-  Clerk 264 · District Attorney 183 · Surveyor 179 · Sheriff 100 · Auditor 34 · Recorder 2.
+⚠️ **CORRECTED 2026-08-20 — the EasyVote office gate was dropping rows.** This section used to
+read *"contributions.csv 4,956 · expenditures.csv 3,278 · filing_totals.csv 164 filings —
+$1,905,741 raised / $1,633,769 spent across the 2024 + 2026 county cycles"*. `build_finance.py`
+resolved office names ONLY through `raw/easyvote_api/offices.json`, which is a snapshot of
+**currently-active** offices; **12 historical `OfficeGuid` values are absent from it**, so every
+itemized row keyed to one failed the county-scope test and was dropped with no log line.
+Repaired 2026-08-20: office resolution is now **row-level GUID first**, the filing's own metadata
+only as a fallback, with the county-scope test applied to the RESOLVED name. GUID-first is
+load-bearing — a filer's registered `officename` is their CURRENT registration and lies about
+older documents (metadata-first would have pulled 73 school-board contributions into a county
+dataset). Full record, proof obligations and before/after diff:
+`_audits/2026-08-20-easyvote-office-gate/report.md`. **Zero rows lost; every `stated_*` value
+byte-identical; all added rows are Salt Lake County county offices** (Clerk 1,006 C / 133 E ·
+Sheriff 115/137 · Auditor 37/37 · Council D5 34/83 · D1 20/12 · At-Large B 4/39 · D3 4/30 ·
+Council seat-blank 5/6 · Recorder 2/2 · Surveyor 1/0). **Never treat
+`raw/easyvote_api/offices.json` as a complete historical office table.**
+
+- **EasyVote API block: 6,184 contributions ($2,176,360.58) · 3,757 expenditures
+  ($2,009,188.50) · 197 filings**, spanning **2022 (26 filings), 2024 (104) and 2026 (67)**.
+  ⚠ Those are the API rows ONLY, and they are **rows 1–6,184 / 1–3,757** of the two CSVs; the
+  vision-itemized clerk-legacy block is appended after them (whole-file totals: 20,930 / 11,882).
+  Filter on `extract_method` (`easyvote_api/json` vs `vision-itemized/…`) before quoting an era.
+- **donor_type** (API contrib rows): individual 5,491 · unknown 368 (359 are **blank-donor**
+  aggregate/unnamed rows, `needs_review=1`) · candidate-self 141 · family-of-candidate 96 ·
+  loan 88.
+- **office** (API contrib rows): County Council 3,205 · Clerk 1,270 · Assessor 403 · Mayor 346 ·
+  Treasurer 307 · Sheriff 215 · District Attorney 183 · Surveyor 180 · Auditor 71 · Recorder 4.
+- **The 26 newly-admitted 2022 filings are an independent cross-validation of the vision method.**
+  They already carried vision-transcribed cover totals and gained an itemized half from the API:
+  **all 52 sides reconcile EXACTLY** (`recon_delta = 0.00`), including Chapman's $102,508.83 over
+  556 rows. A page image read by vision and a born-digital feed agree to the cent. Nothing was
+  nudged.
 
 ### Caveats — honest limits of the structured layer
 1. **No stated (printed) totals ⇒ reconciliation UNKNOWN.** The API returns only itemized rows,
@@ -109,23 +173,32 @@ image-only redacted scans); the API JSON is authoritative.
    a follow-up). **Do NOT naively sum a candidate's `filing_totals` rows** for a cycle total — run
    `scripts/campaign_finance/cycle_totals.py` (dedup-aware) when a per-candidate-cycle rollup is
    needed. `cycle_totals.csv` is not built in this pass (see leads).
-6. **ITEMIZED coverage is 2024 + 2026 (API) PLUS a COMPLETE clerk-legacy layer (vision).**
-   The 2022 county EasyVote docs store only the redacted PDF — the API returns no itemized rows
-   for them — and 2016–2021 is the WAF gap, so **both remain totals-only**. The clerk-legacy era
-   (~2006–2015) now has real donor and vendor lines for **all 496 filings that have a Summary
-   Page** (queue closed 2026-08-03); `vision_coverage.py` prints the live state. **Never infer
+6. **ITEMIZED coverage is now EVERY ACQUIRED DOCUMENT.** ⚠️ CORRECTED TWICE. It first read
+   *"the 2022 EasyVote docs store only the redacted PDF … so both remain totals-only"*
+   (falsified 2026-08-20 by the office-gate repair: **26 of the 123 2022 documents ARE itemized
+   from the API**), then *"the 197 API-itemized EasyVote filings PLUS a COMPLETE clerk-legacy
+   layer — and NOTHING ELSE"* (falsified 2026-09-01 by waves W1 and W2). The state as of
+   2026-09-01: clerk-legacy **496/496** filings with a Summary Page (closed 2026-08-03), the
+   2015–2021 paper slice **130/130** (W1, closed 2026-08-23), the API-itemized **197**, and the
+   EasyVote residue **238/238** (W2, closed 2026-09-01). Nothing acquired is un-itemized; the
+   only gap left is the **251 GRAMA-only online reports** of 2015–2021, which the repo does not
+   hold. `vision_coverage.py` prints the live state. **Never infer
    "no donors" from an absent row set** — check the filing's cache: an empty schedule the
    transcriber actually looked at is `sides:"transcribed"` with zero rows (a real zero), a
    schedule that does not exist is `"none"` (40 such sides — 8 of them with a non-zero stated
    total, tabled above as the documented gaps), an unfinished one would be `"withheld"` (**there
    are none left**), and a filing with no `_meta.itemized` block at all was never attempted
    (**there are none left in the queue**).
-7. **`filing_totals.csv` mixes THREE provenances now.** Rows 1–164 are EasyVote-JSON itemized
-   filings (`extraction_confidence=high`, blank `stated_*`); rows 165–834 are the vision rows,
-   and those split again: a wave-B2 row carries BOTH sides — the form's printed `stated_*` AND
-   the vision-counted `itemized_*` with a real `reconciles_*` verdict — while a totals-only row
-   still has blank `itemized_*`/`reconciles_*` (the honest unknown). Filter on the `notes`
-   markers `VISION-TRANSCRIBED` and `wave B2`, or on which side is populated, before comparing.
+7. **`filing_totals.csv` mixes SEVERAL provenances now.** Rows 1–171 are EasyVote-JSON itemized
+   filings (`extraction_confidence=high`, blank `stated_*`); rows 172–841 are the legacy + 2022
+   vision rows, 842–971 the W1 paper slice, and 972–1,112 the W2 EasyVote 2024/2026 covers.
+   The vision rows split again: a row from an itemization wave (B2 / W1 / W2) carries BOTH
+   sides — the form's printed `stated_*` AND the vision-counted `itemized_*` with a real
+   `reconciles_*` verdict — while a totals-only row still has blank
+   `itemized_*`/`reconciles_*` (the honest unknown). **97 rows in the 172–841 block gained
+   their itemized half in wave W2 and their `stated_*` did not move** (proved field-by-field
+   2026-09-01). Filter on the `notes` wave markers (`wave B2`, `wave W1`, `wave W2`), or on
+   which side is populated, before comparing.
    **Never sum the vision rows**: interims, year-ends, finals and amendments overlap by design,
    duplicate and mutually-inconsistent filings are common, and at least two filers put
    cumulative figures in Column A. Use `scripts/campaign_finance/cycle_totals.py`.
@@ -138,10 +211,14 @@ image-only redacted scans); the API JSON is authoritative.
 ## The vision totals tranche (2026-08-01 → **COMPLETE 2026-08-02**) — stated totals for the two NON-STRUCTURED eras
 
 The legacy clerk PDFs (~2006–2015) and the 2022 EasyVote cycle have **no machine-readable
-money at all** — the legacy scans' "text" layer is scanner OCR over HANDWRITING (worthless for
+STATED TOTALS** — the legacy scans' "text" layer is scanner OCR over HANDWRITING (worthless for
 figures) and all 123 of the 2022 EasyVote PDFs are flattened images with zero text. Verified
 2026-08-01: `pdftotext` returns nothing usable for either era, and the EasyVote
-`documentsearch` JSON carries no total fields. **Vision is the only channel.**
+`documentsearch` JSON carries no total fields. **Vision is the only channel for the printed
+totals.** (⚠️ narrowed 2026-08-20 — this used to say the two eras have "no machine-readable
+money at all". For **26 of the 123 2022 filings** the *itemized* advanced-search JSON does carry
+machine-readable rows; it just carries no printed totals. Those 26 rows now attach to the
+vision row, which is why 26 vision rows have a populated itemized half.)
 
 So each filing's **cover page + Summary Page** is transcribed by Read-tool vision (Claude Code
 allotment, **$0 API**) into `vision/<sha1(index.csv path)[:8]>.json` — the repo-standard cache
@@ -335,8 +412,13 @@ transactions live only as handwriting on a 2006-era scan.
 **Scope: clerk-legacy filings that HAVE a Summary Page.** A document with no Summary Page has no
 Schedule A/B either (dissolution notices, Small Budget Campaign Certificates, letters, the six
 damaged/blank PDFs — 51 of them), so they are out of scope by non-existence, not skipped. The
-2022 EasyVote cycle is **not** in this tranche (its PDFs are flattened redacted images and its
-schedules are redacted). Coverage is measured, never recalled: `python3 vision_coverage.py`.
+2022 EasyVote cycle is **not** in this tranche. ⚠️ **CORRECTED 2026-08-20** — the reason given
+here used to be *"its PDFs are flattened redacted images and its schedules are redacted"*. The
+PDFs are flattened images, but **the schedules are NOT redacted**: the county's black bar covers
+only the donor ADDRESS column, never a name, date or amount, which is why the 2026-08-20 residue
+audit classified **zero** sides as withheld and found **89 of the 97 row-less 2022 filings carry
+readable itemized detail**. The 2022 cycle is simply UNTRANSCRIBED — see "The EasyVote row-less
+residue" below. Coverage is measured, never recalled: `python3 vision_coverage.py`.
 
 ### Coverage — the queue is CLOSED. MEASURED 2026-08-03 (`python3 vision_coverage.py`)
 | | |
@@ -475,8 +557,17 @@ transcriber-emitted `pct:` boxes.
 
 ### How to REBUILD or EXTEND the itemization tranche (the queue is enumerable at any moment)
 **The clerk-legacy queue is CLOSED — `wave_stats.py --residue` prints nothing.** This section is
-now a rebuild/extension recipe, not a resume recipe; the extension targets are the 2022 EasyVote
-cycle and the 2016–2021 WAF era, neither of which is in this tranche.
+now a rebuild/extension recipe, not a resume recipe. ⚠️ The extension targets, restated
+2026-08-20 (this line used to name "the 2022 EasyVote cycle and the 2016–2021 WAF era"):
+~~**(1) the 245 row-less EasyVote filings**~~ — **DONE 2026-09-01, wave W2** (238 transcribed
++ 2 school-board out of scope; 18,240 rows + 141 covers; working set
+`_backups/2026-08-24-slco-w2/`, close-out `_backups/2026-09-01-w2-closeout/`; the sizing plan it
+worked from is `_audits/2026-08-20-easyvote-residue/classification.csv`);
+~~**(2) the 130 paper-filed 2015–2021 PDFs**~~ — **DONE 2026-08-23, wave W1** (see
+AVAILABILITY.md; its working set at `_backups/2026-08-23-slco-w1p2/` was the model W2 followed,
+being the SLCo wave that transcribed stated totals and itemization in ONE pass);
+**(3) the 251 GRAMA-only online reports — THE ONLY TARGET LEFT**, once obtained. It has an
+inventory in `_recon/2026-08-20-portal-probe/`.
 
 Wave B2's working set is preserved at `_backups/2026-08-02-tranche3/slco-b2/`:
 `queue.csv` (the 472 filings the wave opened with), `chunks/chunk_NN.csv` (disjoint assignments),
@@ -542,34 +633,275 @@ each agent DISJOINT filings.
   wave was killed mid-flight and lost 6 agents' work; with incremental saves a kill costs at
   most 8 filings. Page renders are disposable, transcriptions are not.
 - **Materialize + rebuild after every chunk** and assert the 2024/2026 structured block is
-  byte-identical each time (`contributions.csv`, `expenditures.csv`, and rows 1–164 of
+  byte-identical each time (`contributions.csv`, `expenditures.csv`, and rows 1–171 of
   `filing_totals.csv`) — the tranche is APPEND-only and any drift there means a bug.
 - **Merge records with a dedupe pass before materializing.** Agents sometimes leave their own
   staging files beside the canonical `chunk_NN.json`; `make_vision_caches.py` hard-fails on a
   duplicate key, so collapse to one record per `index_path` first (canonical file wins).
 
+## The 2015–2021 PAPER slice — wave W1, QUEUE CLOSED 2026-08-23
+
+**130 of 130 filings · 717 pages · 6,028 rows (3,422 C + 2,606 E) · 0 withheld · 0 amounts blank
+for illegibility.** Measured coverage, reconciliation, money, geometry and the ten source
+properties this slice established are in `AVAILABILITY.md` §"The 2015–2021 PAPER slice" — read
+there, and regenerate counts with `python3 vision_coverage.py`, never from memory.
+
+The three things a reader of THIS file most needs:
+
+### 1. `donor_occupation` starts here (⚠ no longer ONLY here — corrected 2026-09-01)
+
+The county's 2015–2021 Schedule A pre-prints an **Occupation/Employer** column that the
+~2006–2015 clerk-legacy form does not have. Captured verbatim under the owner decision of
+2026-08-20 as a trailing-optional column (SCHEMA §2c) on `contributions.csv` and
+`gov.db.cf_contribution`. **2,292 of this slice's 3,422 rows carry one.** Within this slice a
+blank is one of **three** facts — no such column, filer left it empty, or redacted at source —
+and each row's note says which. Three filings split the cell into two attachment columns; both
+halves are composed with `" / "` (484 rows).
+
+⚠ **This section used to say the paper slice was the ONLY source of the column. Wave W2
+falsified that on 2026-09-01**: the EasyVote county grid prints Occupation/Employer too, and
+most filer attachments carry Organization + Title, so **10,225 W2 rows populate it** and the
+module total is **12,517**. NULL elsewhere in the repo still means *the form has no such
+field*, never "no occupation".
+
+### 2. The reconciliation SCOPE TEST must be run PER PAGE
+
+Six filings print a schedule total and a Summary figure that **measure different things** — in
+one direction (the schedule includes in-kind rows the Summary excludes) and in the other (the
+schedule's `TOTAL (Sum of subtotals from all pages)` cell holds the CYCLE-CUMULATIVE figure while
+`SUBTOTAL FOR THIS PAGE` holds the period one). On some filings **Summary Column A is ALSO
+cumulative**, with the true period figure only at lines 4/6. **The same filer flips convention
+between his original and his amendment**, so the test is per PAGE, not per filer or per filing.
+
+Those 5 filings ship with `reconciles_*` and `recon_delta_*` deliberately **BLANK** under the
+`SCHEDULE-SCOPE SPLIT` marker in `notes`, both printed figures published verbatim — comparing
+figures of different scope is a basis error, not a delta. This is the same answer utah's
+`cumulative-exact` sides get, and it required **no weakening of `validate_finance.py`**.
+`build_finance.py::apply_itemized` implements it with two tests (the record anchored on a
+different FIGURE; the record anchored on a different LINE) and deliberately lets a same-scope
+filer disagreement fall through to a real published delta. Gating naively would have fabricated
+**>$180,000** of deltas across six filings.
+
+### 3. Two corrections to the 2026-08-20 harvest report
+
+* **The "split filing" is a DUPLICATE SCAN.** `_audits/2026-08-20-globalassets-harvest/report.md`
+  §3 records `2020_…_burdick-fin-report-3.pdf` as a bare Schedule B whose other half is
+  `…amendment-burdick-fin-report-9-15-20_redacted.pdf`, "paired on the 9-15-20 report date".
+  Verified at the page: the sibling is a **complete 4-page report on its own**, and the bare sheet
+  is a **second scan of that same Schedule B** — identical rows, dates, amounts, printed grand
+  total 9,533.28 and the identical stray diagonal pencil line, differing only by one pixel row in
+  the embedded raster (which is why the harvest's sha256 check called all 130 distinct).
+  **Summing the pair double-counts $9,533.28.** Generalises: in a scanned corpus, `sha256`-distinct
+  is not document-distinct.
+* **One privacy flag names the wrong document.** `characterisation.csv` puts "UNREDACTED
+  contributor address cell" on `2015_…_jim_bradley2015ye.pdf`, whose cell holds only a workplace
+  descriptor; the genuine unredacted residential address is on
+  `2015_…_jim-bradley-amendment---redacted.pdf`, despite its `_redacted` filename.
+
+⚠ **And one finding the harvest could not have seen:** `2020_…_staggs-mayor_redacted.pdf` — the
+corpus's one born-digital document — has a **COSMETIC redaction**: black bars drawn over an intact
+text layer, 40,598 extractable characters and **156 ZIP-shaped tokens against exactly 156
+contribution rows**. Nothing was extracted and no address token from it exists anywhere in this
+repo. It is a defect in the COUNTY'S publication, raised for owner decision at
+`_backups/2026-08-23-slco-w1p2/OWNER_DECISION_PRIVACY.md`.
+
+## The EasyVote residue — wave W2, QUEUE CLOSED 2026-09-01
+
+**245 of the 442 EasyVote documents carried no itemized rows.** The repo could not previously say
+whether that meant "no itemizable activity" or "the detail is in the document, untranscribed".
+It was overwhelmingly the latter, and it is now transcribed. Audit that sized it:
+`_audits/2026-08-20-easyvote-residue/README.md` +
+`classification.csv` (one row per filing, classified per SIDE). **240 of the 245 were read — all
+1,719 pages, rendered and looked at.** (The 5 not in the cohort are Fife-Jepperson filings whose
+covers read *Salt Lake School Board* while `index.csv` labels them County Council — out of county
+scope, flagged in `index.csv`, not relabelled, per the riverton-Pierucci precedent.)
+
+### What W2 delivered (measured 2026-09-01; regenerate with `python3 vision_coverage.py`)
+
+The queue was **DERIVED, never hand-kept**: every EasyVote filing whose `document_id` has no
+rows in the advanced-search API (ungated, so a school-board filing whose rows exist but fail
+the county-office gate is excluded here too). That is **240 filings = 238 transcribed + 2
+ledgered OUT OF SCOPE** (`FIFE-JEPPERSON-CHARLOTTE__AE07FEF8` / `__D20522DA`, whose **Office
+Sought** line reads "Salt Lake School Board" — re-verified at the cover 2026-09-01). ⚠ The
+classification field is **Office Sought**, not the top-row **Office**: her 2026 filing
+`__B5AB014E` has Office = "Salt Lake City School Board District 2" (her sitting seat) but
+Office Sought = "**Salt Lake County Council District 2**", and it is correctly IN scope.
+
+| | |
+|---|---:|
+| filings in the derived queue | **240** |
+| transcribed | **238** |
+| out of scope (school board) | **2** |
+| remaining | **0** |
+| rows published | **18,240** (11,852 C + 6,388 E) |
+| geometry (`pct:`) | **100%** |
+| new covers read (`filing_totals` 971 → 1,112) | **141** |
+| filings whose 2022 cover already existed and gained an itemized half | **97** |
+
+**Per SIDE (240 × 2 = 480): 359 exact · 33 delta-with-cause (traced to a named page) ·
+82 `none` (no such schedule page) · 2 unknown (no anchor exists in the document) ·
+4 out-of-scope. ZERO withheld.** 234 of the 238 have a Summary Page; 4 do not (a Small Budget
+Campaign Certificate, a dissolution notice, and two cover-only documents).
+
+**78 contribution amounts are blank BY SOURCE, never by omission**: 77 on
+`Wilson-Jennifer__B5D1F91C.pdf`, whose county redaction bar spans the **Amount** column on
+pp.3 and 6 (verified at the page 2026-09-01 — the bar runs Address→Amount inclusive while
+Date, Name, Employer and Occupation survive), so that side is a documented **FLOOR**:
+$114,980.00 readable against a stated $161,699.85; and 1 on `Wilson-Jennifer__CE8EF5B5.pdf`
+where the filer printed no amount for Loralee Rees. **This is the only place in the SLCo
+corpus where the county's bar takes a MONEY column** — everywhere else it takes only address.
+
+**Provenance.** W2 is the **first non-Claude transcription federated into `gov.db`**. Rows carry
+`extract_method = 'vision-itemized/W2 EasyVote residue (2026-08-24; kimi-k3)'`; 658 of the
+18,240 say `; chunk resumed 2026-08-24 by claude-opus-5` (three chunks whose agents died on a
+provider 403). Cover rows carry the tranche stamp `ReadMediaFile vision (Kimi K3); 2026-08-24
+wave W2 (EasyVote residue)`. The wave was **verified before federation** by an independent
+Claude session (2026-09-01): all module gates re-run, byte-identical rebuild, the pre-wave
+frozen blocks proved unchanged field-by-field, and four filings across the ledger tiers re-read
+at the page. Working set + close-out: `_backups/2026-08-24-slco-w2/`,
+`_backups/2026-09-01-w2-closeout/`.
+
+⚠ **`donor_occupation` is NO LONGER paper-slice-only.** The EasyVote county grid prints an
+Occupation/Employer column and most filer attachments carry Organization+Title, so **10,225 of
+the W2 rows populate it** (module total 12,517). Composition order is
+`occupation / employer`, verbatim.
+
+⚠ **Some W2 expenditure amounts are NEGATIVE as printed** — Morris-Rachelle's five bank/ledger
+exports and Liewer `585D94D0` print every debit with a minus sign. The sign is kept **verbatim**
+per the never-correct-the-filer rule; reconciliation is on **MAGNITUDE**, and
+`filing_totals.itemized_expend_sum` is published POSITIVE. A consumer summing
+`expenditures.amount` for this module must take `abs()`. The convention is not new — the
+clerk-legacy McAdams/Winder rows already did this.
+
+### What the audit found before the wave (kept — it is the record of the corpus)
+
+| cycle | audited | `has-attachment-detail` | `empty-schedule` | `no-schedule-page` | `withheld` | `undetermined` |
+|---|---:|---:|---:|---:|---:|---:|
+| 2022 | 97 | **89** | 4 | 4 | 0 | 0 |
+| 2024 | 91 | **76** | 2 | 13 | 0 | 0 |
+| 2026 | 52 | **32** | 2 | 18 | 0 | 0 |
+| **all** | **240** | **197** | **8** | **35** | **0** | **0** |
+
+**The recoverable class: 197 filings, ~18,433 lines over 980 pages** (11,972 C + 6,461 E; 2022
+8,820 · 2024 8,142 · 2026 1,471). ⚠ **That row total is an ESTIMATE, and must always be quoted
+as one.** Its basis: **14,397 rows counted line by line** + **1,489 numbered by the filer's own
+spreadsheet** (~86% real counts) + **2,547 `approx`** — dense uniform grids measured on sampled
+pages and extrapolated at a fixed row pitch. `classification.csv`'s `c_count_basis` /
+`e_count_basis` name the basis per side. Concentration is extreme: the largest 10 filings hold
+roughly a third of the rows, and the 60 largest would recover well over half.
+
+**143 of the 240 have NO `filing_totals` row at all** — all 91 audited 2024 filings and all 52
+from 2026. No itemized rows, no stated totals, no vision cache: they exist only as a PDF plus an
+`index.csv` row. The 2022 cohort by contrast has complete stated totals from the 2026-08-02
+tranche. **A wave here owes stated totals for those 143 as well as itemization.**
+
+**What a wave must know before it starts** (each measured, not assumed):
+- **Detail sits in THREE structural places, not one.** 62% of has-detail sides are typed or
+  handwritten **directly onto the county's own Schedule A/B grid**; a second group is a filer
+  attachment behind a blank county stub ("See Schedule A attached"); and a third has **no county
+  schedule page at all** — the filer's own sheet simply IS the schedule. **A wave keyed on
+  finding a "See Attached" stub will silently miss the third class** (well over a thousand rows).
+- **Attachment layouts are filer-stable across cycles** — 63 distinct filer slugs collapse to 19
+  field-set families once column order and synonyms are normalized, and four families cover 110
+  of the 138 attachment sides. Per-filer calibration transfers.
+- **Geometry anchoring outlook is good:** 185 of 197 have printed gridlines; 178 print their own
+  SUBTOTAL/TOTAL line (a real page- or side-level gate on top of the Summary figure). **19
+  filings have no printed gate at all** (~4,290 rows; `subtotals=0` in the CSV) — for those a
+  row-count gate (rule-detection banding) is the second independent check. 28 of 197 are
+  handwritten; the rest are typed or printed.
+- **Reconcile against the SUMMARY figure, not the schedule's grand total.** A recurring class —
+  roughly a quarter of has-detail filings — has the schedule's printed grand total sitting below
+  Summary line 1/2, and the cause is uniform and benign: **the page subtotals exclude In-Kind
+  rows the schedule nonetheless lists.** Reconciling against the schedule total will manufacture
+  false deltas on dozens of filings. Name the class `schedule-total-vs-summary-gap`.
+- **Two mechanical traps:** rotated attachments stored 90° inside the PDF (Harrison E5C37303
+  pp.8–14, Morris) must be rotated before rendering; and one attachment (Liewer p9, a bank
+  export) **runs off the bottom of the page mid-row** — 26 visible debits sum to $8,142.97
+  against a stated $8,316.61, so $173.64 of lines never printed. That is a real ceiling, not a
+  zero.
+- **Donor geography will NOT survive.** The county's black bar covers the itemized rows' address
+  column on **157 of the 197**; on the county grid a single "Complete Mailing Address" cell holds
+  city, state and ZIP, so all of it goes, and on attachments with separate columns one wide bar
+  routinely spans all four. **Exactly 3 filings preserve any geography** (`Robinson-Zach__7022E201`
+  ZIP, `Robinson-Zach__C4162BAF` street-only redaction, `Pinkney-Natalie__07C097D5` state/ZIP/
+  country). A row's note must say **redacted at source**, never "left blank by the filer" —
+  different facts. The bar never covers a donor name, date or amount, which is why **nothing is
+  `withheld`**. Occupation/Employer almost always survives.
+- **`doc_kind`:** 237 standard reports, 3 one-page Small Budget Campaign Certificates. **There
+  are NO one-page dissolution notices in this cohort** — every document titled
+  "Dissolution"/"Final" is the full standard form with that box checked. That is the opposite of
+  the clerk-legacy era, where the standalone notice is the bulk of the no-Summary-Page class.
+
+**Three sides contradict their own stated total; all three were re-read at the page.** Two are
+genuine gaps: `Snelgrove-Richard__CE0A4B74` (2024 Recorder, Final/Dissolution — $3,261.09
+expenditures stated, the 2-page filing has **no Schedule B page**, and being the final report no
+sibling can cover it) and `Ahn-Danielle__23F2E34E` (2022 District Attorney — $11,868.21 stated,
+Schedule B present and wholly blank; the sibling `__43FA92A0` itemizes ~30 rows totalling
+$11,008.96, the clerk-legacy `Romero` partial-sibling pattern). The third,
+`Creno-Tracey__E28B702C`, is **NOT a gap but a basis inversion** — the filer put the
+cycle-cumulative figure in lines 1/2 and the period figure in lines 4/6, the same per-filer
+semantic already documented for DeBry 2022 and Gill 2007 (finding 12 above). Period activity is
+$0 in / $1,500 out and is fully itemized.
+
+**The audit also re-read the 2022 stated totals blind and compared them to the caches: 191
+comparable sides, ZERO disagreements.** The 2026-08-02 vision tranche's Column-A figures hold.
+
+**Other things the audit established about the corpus** (source properties, worth carrying):
+`index.csv` form-year is not the cycle **at scale** (~25 filings across 2022/2024/2026 print a
+"2020 Financial Disclosure Report" cover; one 2026 filing uses the 2019 form — already known for
+2022, it runs through 2024 and 2026 too); and **the 2026 form family is not one form** —
+"Financial Disclosure Report **For an Open Campaign Account**" and "…**For a Candidate**" are both
+live in that cycle, with different Type-of-Report option sets and different Column-B semantics.
+
 ## Honest gaps
-- **2016–2021 (channel b) — the county disclosure portal is WAF-blocked** (BigIP: every scripted
-  request 302-loops to `/Search/PublicSearch` or resets the connection, under any UA/TLS/cookie/
-  delay). Wayback archived the folder/registration metadata but **not** the itemized `/Report/{id}`
-  pages. This is a genuine ~3-cycle gap (2016/2018/2020). Recover via the `claude-in-chrome`
-  browser skill against the live portal (a real browser session may pass the WAF; the `/Report/
-  {id}` pattern + archived folder inventory make it turnkey) or a GRAMA request. See RECON.md.
+- **2015–2021 — NOT ACQUIRED, and it is TWO gaps with two different routes.** ⚠️ CORRECTED
+  2026-08-20; this bullet used to read *"the county disclosure portal is WAF-blocked (BigIP: every
+  scripted request 302-loops … under any UA/TLS/cookie/delay) … Recover via the `claude-in-chrome`
+  browser skill against the live portal (a real browser session may pass the WAF; the
+  `/Report/{id}` pattern + archived folder inventory make it turnkey)."* **Wrong twice.** The
+  application behind the load balancer is **DEAD, not defended** — the LB discriminates by PATH
+  (every app-pool path RSTs at a flat ~0.23 s; every other path gets a clean catch-all 302), real
+  Chrome over CDP gets `ERR_CONNECTION_RESET`, an unrelated source IP gets `read ECONNRESET`, and
+  Wayback's last HTTP-200 capture is **2026-01-15**. And the report route is
+  **`/Search/PublicSearch/Report/{id}` (ids 1069–2104)**, not `/Report/{id}` — the old 404 was on
+  a non-route and was never evidence about the reports. What is actually true:
+  - ✅ **The 130 paper-filed county-office PDFs are ACQUIRED AND TRANSCRIBED** — harvested
+    2026-08-20 from `saltlakecounty.gov/globalassets/…/financial_disclosure/…` and CLOSED
+    2026-08-23 by wave W1 (130/130 filings, 717 pages, 6,028 rows, 0 withheld). Full record:
+    "The 2015–2021 PAPER slice" in `AVAILABILITY.md`. All three phase-1 shape warnings proved
+    real and are now handled: the **Occupation/Employer** column has a home (`donor_occupation`,
+    SCHEMA §2c, owner decision 2026-08-20); **folder-year labels lie** (two 2018 documents sit in
+    `2016_disclosures/september/`, confirmed at the form); and **page 1 is not always a cover**
+    (three documents bundle another document in front, one of them behind a near-blank ghost
+    page). ⚠ The fourth warning — "a filing can be split across several PDFs" — **was WRONG**:
+    the one cited case is a DUPLICATE SCAN, not a split (see the corrections below).
+  - **251 online-filed reports exist only in the dead portal, were never archived, and are
+    GRAMA-only.** Inventory with the Wayback folder URL proving each filing exists:
+    `portal_online_reports_inventory.csv`. Ask for the export, not for 251 printouts.
+  - **The two slices are COMPLEMENTARY** — 34 of the 54 portal filers have no clerk-page PDF at
+    all, while the filers with rich PDF sets have zero online reports. Harvesting the 130 does
+    **not** make the GRAMA unnecessary. Evidence: `_recon/2026-08-20-portal-probe/NOTES.md`.
 - **Image-only text.** Every EasyVote redacted PDF and every legacy PDF is effectively
   image-only for VALUES: the 123 legacy PDFs that `index.csv` marks `format=text` carry a
   scanner-embedded OCR layer over **handwritten** 2006-era forms, so the pre-printed labels
   extract but the figures are garbage. Treat `format=text` in this dataset as "has a font
   layer", NOT as born-digital (the riverton precedent). Full text sidecars for the scans are
   still deferred; the tranche transcribed **stated totals only** (above).
-- **Stated-totals coverage is COMPLETE (670 of 670). ITEMIZATION of the clerk-legacy era is also
-  COMPLETE (496 of 496 filings that have a Summary Page), closed 2026-08-03.** Every filing in
-  both non-structured eras has a cache and a populated `filing_totals` row; every clerk-legacy
-  filing with a Summary Page now carries real Schedule A/B donor and vendor lines or an explicit,
-  reasoned `none`/zero. The residual honest gaps INSIDE that layer are the 8 `none` sides tabled
-  above ($121,789.32 contributions + $120,455.49 expenditures stated but no schedule page filed,
-  4 of the 8 reproduced by an itemized sibling). **The 2022 EasyVote cycle and the 2016–2021 WAF
-  gap have no itemized layer at all**, so "who gave to whom" is answerable for 2024/2026 (API)
-  and for 2006–2015 (vision) — and remains genuinely unanswerable for 2016–2022.
+- **ALL THREE ERAS ARE CLOSED (2026-09-01).** Stated-totals coverage is COMPLETE for every era
+  that has a Summary Page, and ITEMIZATION is COMPLETE for the clerk-legacy era (496/496 filings
+  with a Summary Page, 2026-08-03), the 2015–2021 paper slice (130/130, wave W1, 2026-08-23) and
+  the EasyVote era (197 from the API + 238/238 of the row-less residue, wave W2, 2026-09-01) —
+  every such filing carries real Schedule A/B lines or an explicit, reasoned `none`/zero.
+  The residual honest gaps INSIDE the layer are the 8 clerk-legacy `none` sides tabled above
+  ($121,789.32 contributions + $120,455.49 expenditures stated but no schedule page filed, 4 of
+  the 8 reproduced by an itemized sibling), the 82 EasyVote `none` sides, and the
+  **Wilson `B5D1F91C` redaction floor** (77 amounts blacked out at source).
+  ⚠️ CORRECTED THREE TIMES. It once read *"The 2022 EasyVote cycle and the 2016–2021 WAF gap
+  have no itemized layer at all"* (falsified 2026-08-20 by the office-gate repair), then
+  *"unanswerable for 2016–2021"* (falsified 2026-08-23 by wave W1), then *"only partly
+  answerable for 2022–2026 — 245 EasyVote filings are still row-less"* (falsified 2026-09-01 by
+  wave W2). So "who gave to whom" is now answerable for **every document the county holds**; it
+  is unanswerable ONLY for the **251 GRAMA-only online reports** of 2015–2021.
 - **52 filings have no Summary Page and therefore no totals** — dissolution notices, Small Budget
   Campaign Certificates, letters/emails, cover-only scans, and six damaged/blank PDFs. Honest
   non-existence, carried as `null`, never zero.
@@ -582,12 +914,23 @@ each agent DISJOINT filings.
 
 ## Rebuild
 ```
+python3 make_vision_caches.py  _backups/2026-08-24-slco-w2/records  # W2 covers (skips
+                             #   itemization-only records; their caches already exist)
 python3 make_itemized_caches.py _backups/…/records   # (only when new itemized records exist)
-python3 build_finance.py     # structured CSVs from raw/easyvote_api/*.json + BOTH vision tranches
+python3 build_finance.py     # structured CSVs from raw/easyvote_api/*.json + ALL vision tranches
 python3 backfill_text.py --ocr legacy   # text/ sidecars (born-digital + legacy OCR)
 python3 build_index.py       # index.csv from the fetch logs
+python3 vision_coverage.py   # MEASURED coverage of every tranche incl. the W2 section
 python3 ../../scripts/campaign_finance/validate_finance.py .   # conformance
 ```
+`build_finance.py` is **deterministic** — a rebuild off unchanged caches reproduces
+`contributions.csv` / `expenditures.csv` / `filing_totals.csv` **byte-for-byte** (verified
+2026-09-01). After any rebuild, re-run the county cycle reducer
+(`python3 ../../scripts/campaign_finance/cycle_totals_county.py salt_lake_county`) and then
+`python3 ../../scripts/build_cities_db.py` — **adding filings without re-running the reducer
+leaves the documented cycle counts stale** (standing rule, 2026-08-24).
+⚠ `cycle_totals_county.py` has NO `--help`: a bare or unrecognized-flag run REGENERATES ALL
+EIGHT COUNTIES. That is deterministic and safe, but do not expect usage text.
 Re-fetch: EasyVote via the `ecf-api.easyvoteapp.com/advancedsearch/{contributions,distributions}/
 D2EEAA9C-E9BF-4B77-AC5E-2A6F379D1775` recipe (browser UA required — 403 to Python-urllib);
 legacy via the URLs in `raw/clerk_legacy/_fetch_log.jsonl`.

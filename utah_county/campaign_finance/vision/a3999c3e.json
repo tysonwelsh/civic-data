@@ -3,7 +3,11 @@
  "key": "a3999c3e",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:26:00Z",
- "pages_read": [1, 2, 4],
+ "pages_read": [
+  1,
+  2,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 4.20",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +56,83 @@
    "notes": "Born-digital typed form (v. 4.20). Every summary figure is written as a whole dollar amount with no cents ('$0', '$200') - transcribed verbatim with the leading $ dropped, not padded to 200.00. DISAGREES WITH index.csv reporting_period: index.csv says 'Withdraw/Elimination', but the page face has the '30 Days after the General Election' radio filled and no other. Office is printed lower-case 'seat C' - transcribed as written. The candidate's signature is redacted upstream by the county (black bar spanning the signature block); the address, phone and email survive. This form prints no political-party field. Page 2 is Schedule A - Itemized Contributions Received (a single line, 4/2/20 self-contribution of $200), NOT a second cover page, so this is ONE report despite the locator flagging pages 1 and 2 as covers."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "4/2/20",
+   "donor_raw": "Jeanne Bowen",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "200",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:78.34,18.14,12.83,4.36@p2",
+   "geometry_frame": "p2 axis=y cell=78.34-91.17 rowband=18.14-22.50 (1 of 1 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "THE CANDIDATE'S OWN CONTRIBUTION - the whole campaign is this one 200 in and one 200 out. Entered on Schedule A by the filer with no 'loan' wording anywhere on the document, and the ladder books it at Box B (contributions), not at Box A (beginning balance, which is $0), so it is an itemized contribution row. THE AMOUNT IS PRINTED WITH A DOLLAR SIGN, '$200': the currency marker is dropped and the numeral kept verbatim - it is NOT padded to 200.00, because the form states no cents. The address is UNREDACTED on this filing (it is not a *_Redacted.pdf and only the signature block is blacked out); PRIVACY: the street line is deliberately not carried, city and state only. The state is not printed in the address cell at all - the cell gives a street line, then the city and the ZIP with NO state, which is the ADDENDUM E4 fifth blank-address cause; donor_state is carried from the cover, where the same address is printed with 'UT' as the candidate's own - the row and the cover are the same address on the same document, so this is not cross-document inference, and it is flagged here rather than left silent."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "4/2/2020",
+   "vendor_raw": "Lehi Free Press",
+   "purpose": "Advertising",
+   "amount": "200",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:78.42,18.21,12.85,4.36@p3",
+   "geometry_frame": "p3 axis=y cell=78.42-91.27 rowband=18.21-22.57 (1 of 1 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the v.4.20 Schedule B prints its own 'Purpose' column, so purpose is a real printed field here. Amount printed '$200'; the currency marker is dropped and the numeral kept verbatim, not padded to 200.00. The filer writes the year in full on this schedule ('4/2/2020') while Schedule A's identical date is written '4/2/20' - both kept verbatim."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r7_02)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "BOX B 'Contributions Received this Period' ($200) on the SUMMARY PAGE, which on this modern_boxAF filing is the LAST page (p4, located by its printed heading and confirmed by its own 'Page 4' box); the same $200 is Schedule A's printed 'Subtotal for this page' AND its 'Total Contributions Received (Sum of all Schedule A pages in this report)', and it is repeated in Box F because Box A is $0",
+     "detail": "1 Schedule A row of 200 equals the printed page subtotal 200, the printed cycle total 200 and Box B 200 - three printed statements of one figure, all agreeing. Box C 'Contributions Received Year to Date' also prints $200 because this single report covers the whole cycle; it is never summed as an increment. The ladder closes: Box A $0 + Box B $200 = Box F $200, minus Box D $200 = balance at close $0, exactly as printed."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "BOX D 'Expenditures Made this Period' ($200) on the p4 Summary Page, equal to Schedule B's printed 'Subtotal for this page' 200 and its 'Total Expenditures Made (Sum of all Schedule B pages in this report)' 200",
+     "detail": "1 Schedule B row of 200 equals the page subtotal, the cycle total and Box D. Box E (Year to Date) prints the same and is never summed."
+    }
+   },
+   "in_kind_convention": "not applicable - tested both ways per ADDENDUM G1 with an identical result: the v.4.20 form prints no in-kind column, neither row is marked in-kind, and the single contribution is not mirrored by an equal offsetting expenditure of the same date (the contribution is from the candidate herself on 4/2/20; the expenditure is to a newspaper the same day, which is a spend, not an offset). Both sides close on the monetary-only reading.",
+   "escalations": 0,
+   "escalation_note": "None needed: a born-digital fillable form (v. 4.20) with machine-set figures, one row per schedule, every figure stated three times on the document and all three agreeing.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 2,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Jeanne Bowen, Utah County Commission Seat C, 2020 cycle. index.csv names 'Jeanne Bowen' and the page face agrees; the page prints the office as 'Utah County Commissioner seat C', so the seat letter IS stated on the document and was not inferred. \u26a0 CHANNEL/PAGE-FACE DISAGREEMENT ON THE REPORT TYPE: index.csv carries reporting_period 'Withdraw/Elimination', but the cover's filled radio button is '30 Days after the General Election' and the report is dated 16 November 2020, twelve days after the 2020 general - the PAGE FACE governs and the channel label is the outlier. Amendment = No (radio filled). Single report, no bundle. FORM: modern_boxAF v. 4.20, born-digital fillable, four pages - p1 cover / p2 Schedule A / p3 Schedule B / p4 SUMMARY PAGE (LAST, located by its printed heading); boxes A / B / C / D / E / F plus an UNLETTERED 'Balance at Close of Reporting Period (Box F - Box D)'. No checklist decoy page. THIS FILING FOLIATES: the small footer box carries Page 1 / 2 / 3 / 4 on the four pages, cover-counted and with no 'of' - a THIRD foliation practice in the 2020 cycle alongside the two Allen filings in this chunk, which leave the Page field entirely blank. Every summary figure and both row amounts are written with a leading dollar sign and no cents ($0, $200) - transcribed verbatim as bare numerals, never padded. THE SIGNATURE IS BLACKED OUT even though this file is NOT named '_Redacted' - the county's redaction practice is inconsistent at the file-naming level too, which matters because a filename is not evidence of whether a document was redacted. Both sides reconcile EXACTLY, and each figure is stated three times on the document (row, page subtotal, cycle total) with the summary box agreeing."
+  }
+ }
 }

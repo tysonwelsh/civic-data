@@ -1,0 +1,102 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C07.json",
+ "key": "d97801dd",
+ "index_path": "raw/2014/2014_cc_Merrill_Oct_28_14_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Merrill_Oct_28_14_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "8312d25b222d4a32",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "Ø",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "Ø",
+    "cover_le50_this": "Ø",
+    "cover_le50_cum": "Ø",
+    "cover_expense_last": "Ø",
+    "cover_expense_this": "200",
+    "cover_expense_cum": "200",
+    "cover_balance_end": "(200)",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "EMPTY SCHEDULE and a real zero. Form A carries no transaction on any of its ~40 ruled lines; the only ink on the sheet is a hand-written nil mark '-0-' on the first ruled line, in the contributor-name area, which under the repo zero-glyph ruling DENOTES zero (the verbatim glyph is kept here) - it is not a row and carries no amount. The cover agrees: line 1 reads a plain numeral 0 in all three columns and line 2 a slashed-zero glyph in all three. Zero rows emitted, 0.00 == cover line 1."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "Ø",
+    "cover_expense_this": "200",
+    "cover_expense_cum": "200",
+    "cover_balance_end": "(200)",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "200.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "The single Form B row (200) equals cover line 3 in BOTH the THIS and CUMULATIVE cells; the LAST cell is a slashed-zero glyph = 0, so the two scopes coincide (first report of the cycle). Form B prints no schedule total."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints NO page subtotal or schedule total; gates run against the cover. p2: zero rows = cover line 1 (0). p3: one row 200.00 = cover line 3 THIS/CUM 200 (exact).",
+  "row_count": "Ink-profile scan of the amount column (x 80-98%) at 200 dpi. p2: one band at ypx 197-226 which is the printed 'Amount' column heading, and below it only faint sub-1%-tall show-through, no inked amount cell -> 0 rows, 0 emitted (the '-0-' nil mark sits in the NAME column, not the amount column). p3: the 'Amount' heading band at ypx 189-218 then exactly ONE inked amount band at ypx 239-277, and nothing below but show-through -> 1 row, 1 emitted.",
+  "geometry_proof": "p3 the side has a single row, so first == last: the crop pct 85.00,10.86,13.00,1.73 renders '200'; a full-width strip across the same band renders '8/28/14 | CACHE CO. REPUBLICAN PARTY - COUNTY FAIR | 200'; the control one row-pitch below renders EMPTY. p2 has no rows to point at.",
+  "balance_chain": "Cover line 4: the LAST cell is a plain 0, the THIS cell is a BARE DASH (left blank per the zero-glyph ruling - a dash is not a numeral), and the CUMULATIVE cell reads '(200)' in accounting parentheses = -200. Chain: 0 + 0 + 0 - 200 = -200 - CLOSES EXACTLY against the cumulative cell. This candidate raised nothing and made one expenditure from personal funds, which is why the ending balance is negative. No earlier filing by this filer in this chunk, so no cross-filing cumulative chain check was possible."
+ },
+ "escalations": 5,
+ "escalation_note": "600 dpi + -normalize full-width crop of the p2 first ruled line (which settled that the mark there is a '-0-' nil glyph and not a transaction); 600 dpi full-width crop of the single p3 row; 600 dpi control crop one pitch below (empty); a tight 600 dpi amount-cell crop to prove the geometry pointer; 600 dpi + -normalize on the cover anchor block, needed because line 4's THIS cell is a bare dash and its CUMULATIVE cell is parenthesised.",
+ "notes": "index.csv says candidate 'Merrill', office 'County Council'; the cover reads 'Full Name of Candidate: Glacus Gregory Merrill', 'Name of Office: CACHE COUNTY COUNCIL', 'Office District: #3' - AGREES, county office, in scope. Political Party Republican; the filer dated the form 10/15/14 and the clerk stamped it RCVD 16 OCT 2014 (the chunk file's date field 2014-10-28 is the county's posting date, not the form's). The filer uses TWO different zero forms on the same cover - a plain numeral 0 on line 1 and a slashed Ø on line 2 - and both read as 0; the verbatim glyphs are preserved in the anchor block. The single expenditure amount is written '200' with no cents group at all. Candidate home address and both phone numbers are printed in the clear on the cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-08-28",
+   "vendor_raw": "CACHE CO. REPUBLICAN PARTY",
+   "purpose": "COUNTY FAIR",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:85.00,10.86,13.00,1.73@p3",
+   "note": "the payee and purpose run together on one written line as 'CACHE CO. REPUBLICAN PARTY - COUNTY FAIR', with the dash falling at the ruled column boundary; split at that boundary. Amount cell reads '200' with NO cents group written."
+  }
+ ]
+}

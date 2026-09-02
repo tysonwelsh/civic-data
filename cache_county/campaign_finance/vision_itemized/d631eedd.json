@@ -1,0 +1,142 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C12.json",
+ "key": "d631eedd",
+ "index_path": "raw/2018/2018_st_Jensen_D_Chad.pdf",
+ "applies_to": [
+  "raw/2018/2018_st_Jensen_D_Chad.pdf"
+ ],
+ "sha256_prefix": "747734cf98d73648",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A carries no transactions: the filer wrote 'NO CONTRIBUTIONS' across the first ruled line and left every cell of every other line empty. Zero rows, an EXPLICIT empty schedule. Cover line 1 carries the filer's slashed-zero glyph in all three columns, so THIS and CUMULATIVE coincide at 0 and the empty schedule reconciles exactly. Line 2 (the <=$50 aggregate, never itemized) is likewise nil in all three columns. Per the zero-glyph ruling the slashed glyphs are 0."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "N/A",
+    "cover_expense_this": "933.19",
+    "cover_expense_cum": "933.19",
+    "cover_balance_end": "933.19",
+    "schedule_total": "$933.19",
+    "page_subtotal": null
+   },
+   "itemized": "933.19",
+   "basis": "schedule-total==cover-line3-cumulative==cover-line3-this",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Four rows sum 486.50 + 196.00 + 150.69 + 100.00 = 933.19. That equals the cover's line-3 THIS REPORT cell (933.19) AND its CUMULATIVE cell (933.19) - they coincide because this is the FIRST report of the cycle (the line-3 LAST REPORT cell reads 'N/A'), so the scope is recorded cumulative. IMPORTANT ON THE schedule_total ANCHOR: the Carr 5-5-PG form prints NO schedule total - this filer WROTE one by hand, '$933.19', in the amount column at the foot of Form B just above the printed '(If additional space is needed ...)' line. It is a filer-added figure, not a printed field, and it agrees with both the row sum and the cover."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "The form prints no schedule total or page subtotal on either schedule. p3 rows sum 933.19 = the filer's hand-written foot total $933.19 = cover line 3 THIS = cover line 3 CUMULATIVE. p2 has no transactions and no total; the filer's 'NO CONTRIBUTIONS' note is the only ink.",
+  "row_count": "rowbands.py p3: 33 bands, status 'gaps' - its rule list is offset from the ink on this sheet and it dropped rules inside the data block, so per the brief its output was treated as evidence, not an oracle. Bands were mapped by hand off a 1200 dpi amount-column strip: printed rules at approximately 12.50 / 14.90 / 17.20 / 19.40 pct, ink written ABOVE each rule = exactly 4 inked rows, matching the 4 rows emitted; every ruled line below is empty. p2: 1 line of ink ('NO CONTRIBUTIONS'), 0 data rows.",
+  "geometry_proof": "p3 first-row box (81.50,10.15,13.00,2.35) renders '$486.50'; last-row box (81.50,17.20,13.00,2.20) renders '$100.00'; control one row-pitch below (y=19.40) renders EMPTY (bare rule only). A first attempt using rowbands' own rule offsets straddled two rows and was discarded - the boxes above are the proved ones.",
+  "balance_chain": "Carr cover has no beginning-balance line. Contributions 0 - expenses 933.19 = -933.19, yet the printed line-4 balance is +933.19: the filer used line 4 as a running EXPENSE total, not as cash on hand (both line 3 and line 4 read 933.19 in the THIS and CUMULATIVE columns). That is the filer's own convention, retained verbatim, not a transcription defect. CROSS-FILING CHAIN TEST RUN (two filings by this filer in this cycle are in my chunk): this document is the 10/30/18 INTERIM report and key 351b4aec (raw/2018/2018_cc_D_Chad_Jensen_final.pdf) is the 12/5/18 SUMMARY. This report's CUMULATIVE column reads line1 nil, line2 nil, line3 933.19, line4 933.19; the summary's TOTALS FROM LAST REPORT column reads line1 nil, line2 nil, line3 933.19, line4 933.19. THE CHAIN CLOSES EXACTLY ON ALL FOUR LINES - the pair is not a swapped-cover pair, and the summary's own nil in its line-3 CUMULATIVE cell is confirmed as a filer slip (it should have carried 933.19 forward, as it did on line 4)."
+ },
+ "escalations": 6,
+ "escalation_note": "1200 dpi amount-column strip and foot-total crop on p3; 1200 dpi crop of the row-1 date cell; 600 dpi geometry-proof crops (two attempts).",
+ "notes": "index.csv says candidate 'D. Chad Jensen', office 'Sheriff', date '2018' (no month/day). The form reads 'DANIEL CHAD JENSEN' - the FULL given name, where the index and the companion filing use 'D. Chad Jensen' - and 'SHERIFF', which agrees. The form is dated 10/30/18 and the rotated right-margin clerk stamp reads 'CLERK - OCT 30 18 PM 1:40:11', so the chunk file's bare '2018' can be sharpened to 2018-10-30. This is the INTERIM report; chunk key 351b4aec is the same filer's SUMMARY report for the same cycle. Office District left blank; Political Party REPUBLICAN. Candidate's street address, city, ZIP and both phone numbers appear in the clear on the cover and were discarded at read time. Expenditure rows 3 and 4 are out of chronological order on the sheet (4/6/18 printed above 4/2/18); printed order is preserved in line_no. Cover line-3 LAST cell reads 'N/A' - recorded verbatim; it denotes not-applicable (first report of the cycle), NOT zero.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-03-09",
+   "vendor_raw": "FILING FEE - CACHE CO",
+   "purpose": "FILING FEE",
+   "amount": "486.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.50,10.15,13.00,2.35@p3",
+   "note": "written '$486.50'; date written '3/9/18'. Vendor cell as written reads 'FILING FEE -CACHE CO' - the filer put the purpose ahead of the payee in the payee column; transcribed verbatim, not rearranged"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2018-03-20",
+   "vendor_raw": "KOLE IMPORTS",
+   "purpose": "CONVENTION",
+   "amount": "196.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.50,12.50,13.00,2.40@p3",
+   "note": "written '$196.00' with the cents raised above the line; date written '3/20/18'"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2018-04-06",
+   "vendor_raw": "SQUARE ONE PRINTING",
+   "purpose": "CONVENTION",
+   "amount": "150.69",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:81.50,14.90,13.00,2.30@p3",
+   "note": "written '$150.69'; the third digit is an open-topped 0 that reads bistably as 0/7 - the schedule's own sum fixes it (933.19 - 486.50 - 196.00 - 100.00 = 150.69). Date written '4/6/18'; printed above the 4/2/18 row, i.e. out of chronological order on the sheet"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2018-04-02",
+   "vendor_raw": "CACHE CO. REPUBLICAN PARTY",
+   "purpose": "BOOTH RENTAL/CONVENTION",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.50,17.20,13.00,2.20@p3",
+   "note": "written '$100.00' with the cents raised above the line; date written '4/2/18'; purpose runs to the cell edge"
+  }
+ ]
+}

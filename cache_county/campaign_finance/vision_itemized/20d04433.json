@@ -1,0 +1,86 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C22.json",
+ "key": "20d04433",
+ "index_path": "raw/2025/2025_cc_2025_George_Daines_Financial_Docusign.pdf",
+ "applies_to": [
+  "raw/2025/2025_cc_2025_George_Daines_Financial_Docusign.pdf"
+ ],
+ "sha256_prefix": "7b2b69a4fc3f5120",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other",
+  "5": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "$0.00",
+    "cover_over50_cum": "$0.00",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "$0.00",
+    "page_subtotal": "$0.00",
+    "box_A_balance_begin": "$0.00",
+    "box_F_subtotal": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==page-subtotal==cover Box B==Box C",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A (p2) carries the single typed word 'NONE' in the Date column and no ledger rows; its printed 'Subtotal for this page' and 'Total Contributions Received' both read $0.00, as do Box B (this period) and Box C (year-to-date) — the two scopes coincide. Values cross-checked against the born-digital text layer (pdftotext -layout), which matches the rendered page character for character. le50 keys null: this form prints no separate $50-or-less line."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_this": "$0.00",
+    "cover_expense_cum": "$0.00",
+    "cover_balance_end": "0",
+    "schedule_total": "$0.00",
+    "page_subtotal": "$0.00",
+    "box_A_balance_begin": "$0.00",
+    "box_F_subtotal": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==page-subtotal==cover Box D==Box E",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule B (p3) carries the single typed word 'NONE' and no ledger rows; its printed subtotal and 'Total Expenditures Made' both read $0.00, as do Box D (this period) and Box E (year-to-date) — the two scopes coincide."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: zero rows = printed subtotal $0.00 = printed total $0.00 = Box B = Box C — gates. p3: zero rows = printed subtotal $0.00 = printed total $0.00 = Box D = Box E — gates. This is a genuine all-zero report, not a gap.",
+  "row_count": "Not applicable in the counting sense: this born-digital form draws NO ruled writing grid (rowbands has no rules to find), and each schedule's data area contains exactly one typed token, 'NONE'. 0 rows emitted on both sides.",
+  "geometry_proof": "No rows to place, so no row geometry is claimed. Both schedules' printed total cells were read on the 200 dpi render and independently confirmed in the PDF text layer.",
+  "balance_chain": "A $0.00 + B $0.00 = F 0 — closes. F 0 − D $0.00 = 0 = Balance at Close (0) — closes. Every figure in the filing is zero and the chain is internally consistent. Single filing by this filer in the cycle, so no cross-filing chain test is possible."
+ },
+ "escalations": 0,
+ "escalation_note": "None needed — the document is born-digital, every value is machine-set type, and the rendered page and the PDF text layer agree exactly.",
+ "notes": "THE CHUNK FILE LEAVES THIS DOCUMENT'S `key` COLUMN EMPTY; it is copied through as an empty string. The row's other identifiers are index_path raw/2025/2025_cc_2025_George_Daines_Financial_Docusign.pdf and sha256 7b2b69a4fc3f5120 — the orchestrator must match on those. Office line INSIDE the form reads 'County Executive' — agrees with the chunk file, in scope. Filed through Jotform SIGN (Document ID 252506726004046, status COMPLETED); despite the filename, there is no DocuSign anywhere in the document. Report type: 'Seven days preceding the General Election' is the marked radio, and the form also carries the typed line '3 Days prior to Party Convention' in the Type-of-Report box — both retained here, neither resolved. Amendment: No. DATE DISAGREEMENT WITH THE CHUNK FILE: the chunk file and index date this 2025-09-09; the form's own 'Date of Report', its signature date and the Jotform audit trail (p5) all read 09-08-2025 / Sep 08 2025 03:31 PM America/Denver. The form governs. Page 5 is the Jotform audit-trail sheet, not part of the report (it states DOCUMENT PAGES 4). Candidate street address, PO box, phone and email are printed in the clear on p1 and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

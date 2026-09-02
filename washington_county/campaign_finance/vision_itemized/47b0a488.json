@@ -1,0 +1,78 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W04.json",
+ "key": "47b0a488",
+ "index_path": "raw/live_wp/David-Whitehead.pdf",
+ "applies_to": [
+  "raw/live_wp/David-Whitehead.pdf"
+ ],
+ "sha256_prefix": "98a124443a0ac338",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0.00",
+    "cover_over50_this": "0.00",
+    "cover_over50_cum": "0.00",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "0.00",
+    "schedule_total": "-"
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this==cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is a printed 17-row boxed grid with no inked cell anywhere; the cover's line-1 cells are typed 0.00 in ALL THREE columns (LAST, THIS, CUMULATIVE), so the scopes coincide and the rows match every one of them. THE SCHEDULE FOOTER IS NOT A ZERO AND IS NOT SCORED AS ONE: the TOTAL CONTRIBUTIONS cell prints '$' followed by a BARE DASH (an Excel accounting-format placeholder), escalated to 600 dpi to confirm there is no numeral there. Per the repo-wide zero-glyph ruling a bare dash is not a numeral, so schedule_total is recorded as the verbatim '-' and the cover's typed 0.00 cells are the numeric anchors. This generation has no '$50.00 or less' line, so cover_le50_* are null - the field does not exist."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0.00",
+    "cover_expense_this": "0.00",
+    "cover_expense_cum": "0.00",
+    "cover_balance_end": "0.00",
+    "schedule_total": "-"
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this==cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form B (p3) is a fully blank 17-row grid; its TOTAL EXPENDITURES cell likewise prints '$' plus a bare accounting dash (confirmed at 600 dpi), so it is recorded verbatim as '-' and not as 0. Cover line 3 is typed 0.00 in all three columns; rows sum 0.00 and match all three."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 zero inked rows and p3 zero inked rows. NEITHER schedule footer carries a numeral - both print a bare accounting dash - so neither side has a numeric page-subtotal gate to fire; both sides were gated against the cover's typed 0.00 cells instead, and both close. This is the distinction the zero-glyph ruling exists for: a dash is a placeholder, a written '0.00' (as on this chunk's Chuck Goode filing) is a declared zero.",
+  "row_count": "Both schedules are boxed grids of 17 data rows plus header and footer TOTAL rows. Counted by eye on the 200 dpi renders: 0 of 17 inked on p2, 0 of 17 on p3. 0 rows emitted on each side - matches.",
+  "geometry_proof": "NOT APPLICABLE - no rows exist on either schedule, so no row geometry is emitted. In place of it the two footer TOTAL cells were re-rendered at 600 dpi (both show '$' + bare dash, no numeral) and the cover's nine typed anchor cells were read at full page.",
+  "balance_chain": "Trivially closes: 0.00 + 0.00 - 0.00 = 0.00, and every one of the nine cover cells is typed 0.00. A genuinely dormant account for the whole of calendar 2025."
+ },
+ "escalations": 2,
+ "escalation_note": "600 dpi crops of the p2 TOTAL CONTRIBUTIONS and p3 TOTAL EXPENDITURES cells, run specifically to distinguish an accounting dash from a struck or faint zero. Both are dashes.",
+ "notes": "Generation 2 county-branded form, the NEWEST variant in this chunk: full-colour county logo, 3 anchor lines (no '$50.00 or less' aggregate), Start/End Date fields, a GRAMA privacy notice with a QR code, and an Office Use Only block. Its Form A is also NARROWER than every other Form A here - the columns are Date | Name of Donor | Amount | In Kind? Y/N, with NO 'Mailing Address and Zip Code' column at all. Worth recording for the module: on this generation a donor's city and state are not collectable even in principle, because the county stopped asking for them. Chunk file says candidate 'David Whitehead', office 'Treasurer', reporting_year 2025, cycle_year blank. The cover reads 'David Whitehead' / 'Treasurer' - both AGREE. County office, in scope. THIS IS THE JANUARY ANNUAL OFFICEHOLDER REPORT, NOT AN ELECTION-CYCLE REPORT: the certified period is 1/1/2025 to 12/31/2025 (a full calendar year, no election in it), signed 1/6/2026, Date Received 1/7/2026, Clerk/Auditor verification 1/8/2026 - which is why the chunk file's cycle_year is empty, and it is correct to leave it empty. ALL NINE COVER CELLS ARE TYPED 0.00 and both schedules are empty: a true zero year, declared and clerk-verified. Empty here means no activity, not 'not transcribed'. The form is typed/born-digital in appearance (yellow form-field highlighting is visible) but is IMAGE-FACED in this PDF, which is why it is in the vision queue at all.",
+ "contributions": [],
+ "expenditures": []
+}

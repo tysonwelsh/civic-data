@@ -1,0 +1,214 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W14.json",
+ "key": "f3f2dc07",
+ "index_path": "raw/live_wp/2020-Tom-Durrant.pdf",
+ "applies_to": [
+  "raw/live_wp/2020-Tom-Durrant.pdf"
+ ],
+ "sha256_prefix": "60de85dc56a3d0d3",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "second-report-cover",
+  "5": "form-A",
+  "6": "form-B",
+  "7": "second-report-cover",
+  "8": "form-A",
+  "9": "form-B"
+ },
+ "n_reports_in_pdf": 3,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line1-this==cover-line1-cum",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "p2 Form A is a wholly blank grid; its printed TOTAL carries the filer's slashed-zero glyph (an oval struck by a long horizontal stroke) = 0. Cover line 1 is 0 in all three columns and cover line 2 (the $50-or-less aggregate) likewise, so nothing is hidden in a small-donor aggregate. Rows 0.00 = every printed anchor; the scopes coincide at zero."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "571.00",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "571.00",
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "p3 Form B is a wholly blank grid with the same slashed-zero glyph in its printed TOTAL = 0. That equals the cover's THIS REPORT expense cell (0) and NOT its CUMULATIVE cell (571.00), so this schedule is PER-PERIOD: the $571 filing fee was itemized on report 2 of this same bundle (pages 4-6) and is carried forward here only as a cumulative figure. A real per-period zero, not a gap."
+  }
+ },
+ "recon_by_report": [
+  {
+   "report_no": 1,
+   "pages": "1-3",
+   "report_date": "2020-12-17",
+   "period": "10-22-2020 to 12-31-2020",
+   "clerk_received": "DEC 17 2020",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "0",
+     "cover_over50_this": "0",
+     "cover_over50_cum": "0",
+     "cover_le50_last": "0",
+     "cover_le50_this": "0",
+     "cover_le50_cum": "0",
+     "schedule_total": "0"
+    },
+    "itemized": "0.00",
+    "basis": "schedule-total==cover-line1-this==cover-line1-cum",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "p2 Form A is a wholly blank grid; its printed TOTAL carries the filer's slashed-zero glyph (an oval struck by a long horizontal stroke) = 0. Cover line 1 is 0 in all three columns and cover line 2 (the $50-or-less aggregate) likewise, so nothing is hidden in a small-donor aggregate. Rows 0.00 = every printed anchor; the scopes coincide at zero."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "571.00",
+     "cover_expense_this": "0",
+     "cover_expense_cum": "571.00",
+     "schedule_total": "0"
+    },
+    "itemized": "0.00",
+    "basis": "schedule-total==cover-line3-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "p3 Form B is a wholly blank grid with the same slashed-zero glyph in its printed TOTAL = 0. That equals the cover's THIS REPORT expense cell (0) and NOT its CUMULATIVE cell (571.00), so this schedule is PER-PERIOD: the $571 filing fee was itemized on report 2 of this same bundle (pages 4-6) and is carried forward here only as a cumulative figure. A real per-period zero, not a gap."
+   }
+  },
+  {
+   "report_no": 2,
+   "pages": "4-6",
+   "report_date": "2020-06-16",
+   "period": "01/01/2020 to 6/16/2020",
+   "clerk_received": "JUN 15 2020",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "0",
+     "cover_over50_this": "0",
+     "cover_over50_cum": "0",
+     "cover_le50_last": "0",
+     "cover_le50_this": "0",
+     "cover_le50_cum": "0",
+     "schedule_total": ""
+    },
+    "itemized": "0.00",
+    "basis": "cover-line1-this==cover-line1-cum",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "p5 Form A is a wholly blank grid on which the filer has written a large 'N/A' across the Mailing Address column (rows 3-5), and its printed TOTAL cell is left ENTIRELY BLANK - no zero glyph, no dash - so schedule_total is '' (the field exists and was left empty), NOT a zero. The N/A is an annotation marking the schedule inapplicable, not a row and not a value. The cover is therefore the only anchor: line 1 is 0 in all three columns and line 2 likewise. This is the first report of the 2020 cycle (period begins 01/01/2020, LAST column all zeros), so the period and cumulative scopes coincide."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "0",
+     "cover_expense_this": "571.00",
+     "cover_expense_cum": "571.00",
+     "schedule_total": "571.00"
+    },
+    "itemized": "571.00",
+    "basis": "schedule-total==cover-line3-this==cover-line3-cum",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "One row, 571.00, equal to p6 Form B's printed TOTAL (written '571.' with the cents as a superscript '00' over the rule) and to both filled cover line-3 cells (THIS 571.00, CUMULATIVE 571.00; LAST is 0). First report of the cycle, so the two scopes coincide and are recorded as cumulative. This is the ONLY itemized transaction anywhere in the 9-page bundle."
+   }
+  },
+  {
+   "report_no": 3,
+   "pages": "7-9",
+   "report_date": "2020-10-21",
+   "period": "6-17-2020 to 10-21-2020",
+   "clerk_received": "OCT 22 2020",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "0",
+     "cover_over50_this": "0",
+     "cover_over50_cum": "0",
+     "cover_le50_last": "0",
+     "cover_le50_this": "0",
+     "cover_le50_cum": "0",
+     "schedule_total": "0"
+    },
+    "itemized": "0.00",
+    "basis": "schedule-total==cover-line1-this==cover-line1-cum",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "p8 Form A is a wholly blank grid with the slashed-zero glyph in its printed TOTAL = 0; cover lines 1 and 2 are 0 in all three columns. Rows 0.00 = every printed anchor; scopes coincide at zero. (This report is byte-for-byte the same filing as chunk-mate dc15a362 - see notes.)"
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "571.00",
+     "cover_expense_this": "0",
+     "cover_expense_cum": "571.00",
+     "schedule_total": "0"
+    },
+    "itemized": "0.00",
+    "basis": "schedule-total==cover-line3-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "p9 Form B is a wholly blank grid with the slashed-zero glyph in its printed TOTAL = 0, equal to the cover's THIS REPORT cell (0) and not to its CUMULATIVE cell (571.00) - per-period, with the $571 fee itemized back on report 2. (Same filing as chunk-mate dc15a362.)"
+   }
+  }
+ ],
+ "gates": {
+  "page_subtotal": "Report 1 - p2 rows 0.00 = printed TOTAL 0 (slashed-zero glyph); p3 rows 0.00 = printed TOTAL 0 (slashed-zero glyph). Report 2 - p5 zero rows against a BLANK printed TOTAL (nothing printed to gate against; the cover's 0 is the anchor); p6 one row 571.00 = printed TOTAL 571.00 (gate fires). Report 3 - p8 rows 0.00 = printed TOTAL 0; p9 rows 0.00 = printed TOTAL 0. Every gate that exists fires.",
+  "row_count": "Each of the six schedule sheets is the ~40-row ruled county grid. Ink counted on the full 200 dpi render of every one of the nine pages: p2, p3, p5, p8, p9 carry ZERO inked data rows (p5 carries only the 'N/A' annotation in the address column); p6 carries exactly ONE inked row, the topmost. 1 expenditure row and 0 contribution rows emitted in total. The 900 dpi amount-column crop of p6 shows the three bands below the inked row empty.",
+  "geometry_proof": "p6: the 900 dpi crop of the amount column at the emitted band renders '$ 571.00' and the three control bands one, two and three pitches below render empty cells carrying only the printed '$' (the blue strike-curve crosses them but no figure does). No other row geometry is claimed anywhere in the bundle, since no other row exists.",
+  "balance_chain": "CLOSES WITHIN EACH REPORT AND ACROSS ALL THREE - this is the check the addendum asks for on a bundle, and it is the strongest evidence in this document. Report 2 (Jan 1 - Jun 16): 0 contributed - 571.00 spent = -571.00, and the cover writes the balance as accounting parentheses '(571.00)' in both the THIS and CUMULATIVE cells (= -571.00 per the parentheses rule), LAST cell 0. Report 3 (Jun 17 - Oct 21): its TOTALS FROM LAST REPORT expense cell is 571.00, chaining exactly to report 2's cumulative 571.00, and its balance LAST cell is -571.00, chaining exactly to report 2's ending balance; 0 - 0 this period leaves cumulative -571.00. Report 1 (Oct 22 - Dec 31): LAST expense 571.00 and LAST balance -571.00 again chain exactly to report 3's cumulative figures, and again nothing moves this period, leaving -571.00. So the three covers form one unbroken chain even though they are STAPLED OUT OF CHRONOLOGICAL ORDER (latest period first, earliest second, middle last) - which is exactly the swapped-cover failure this check exists to catch, and it is not present here. Note the sign convention flips presentation mid-bundle: report 2 writes the negative balance in parentheses, reports 1 and 3 write it with a leading minus."
+ },
+ "escalations": 8,
+ "escalation_note": "90 dpi 3x3 contact sheet to classify all nine pages, then 200 dpi full-page reads of ALL NINE. Escalations: 900 dpi crops of the p6 date/vendor cells and of the p6 amount column with three control bands; 600 dpi crops of the p6 printed TOTAL, of the p4 cover lines 3-4 (to settle the accounting parentheses) and of the p4 RECEIVED stamp (to settle its date). The slashed-zero total glyph was additionally settled at 600 dpi on the identical sheet in chunk-mate dc15a362.",
+ "notes": "A THREE-REPORT BUNDLE, stapled OUT OF CHRONOLOGICAL ORDER: report 1 (pp.1-3) covers 10-22-2020 to 12-31-2020, report 2 (pp.4-6) covers 01/01/2020 to 6/16/2020, report 3 (pp.7-9) covers 6-17-2020 to 10-21-2020. The chunk file's n_reports=3 AGREES with what I see. All three are Generation-2 county-branded covers (Washington County Code 1-7-1) with the four-line anchor grid and an In Kind? column on Form A; every In Kind? cell in the bundle is blank. CROSS-CHANNEL RE-POST: report 3 (pp.7-9) IS THE SAME FILING as chunk-mate dc15a362 (raw/wayback_forms2020/Assessor_Tom Durrant_October 22 2020_10-23-2020.pdf) - same handwriting, same period 6-17-2020 to 10-21-2020, same 10-21-2020 signature date, same OCT 22 2020 clerk stamp, same figures, same slashed-zero schedule totals. Both were transcribed in full and neither was skipped, per the re-post rule; the module flags the pair downstream. OFFICE: the chunk file says Assessor. Report 2's cover Office line reads 'Washington County Assessor' and report 3's reads 'Assessor' - both agree - but REPORT 1'S OFFICE LINE IS COMPLETELY BLANK (as are its TO, Representative District and School District lines). That is a blank field, not a contradiction; the office is established by the other two covers in the same bundle for the same candidate and cycle. ONE THING A HUMAN MAY WANT TO SEE: report 2's clerk RECEIVED stamp reads JUN 15 2020 (verified at 600 dpi) while the candidate's own signature and certification date on the same page read June 16, 2020 - the stamp PREDATES the signature by one day. Both are retained verbatim. Candidate home street address, ZIP and business phone are printed in the clear on all three covers and were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 2,
+   "date": "",
+   "vendor_raw": "Washington County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "571.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:70.78,13.44,18.30,1.77@p6",
+   "note": "DATE LEFT BLANK ON PURPOSE: the cell reads verbatim '3/13' with NO YEAR PRINTED (confirmed at 900 dpi), so it is not cleanly parseable and the year was NOT filled in from the report date. Vendor is written across two lines ('Washington County' / 'Clerk'); joined verbatim. Amount 571.00, matching the printed TOTAL. A long blue S-curve is drawn down the amount column from the third band to the foot of the sheet - the filer striking out the UNUSED rows; it crosses no figure, is not a row and is not a zero."
+  }
+ ]
+}

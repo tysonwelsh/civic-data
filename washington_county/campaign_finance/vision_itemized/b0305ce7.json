@@ -1,0 +1,172 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W11.json",
+ "key": "b0305ce7",
+ "index_path": "raw/state_disclosures/washington_2010 Elections_kevin_brooks_4-13-10.pdf",
+ "applies_to": [
+  "raw/state_disclosures/washington_2010 Elections_kevin_brooks_4-13-10.pdf"
+ ],
+ "sha256_prefix": "987bfadec50e5732",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen1-carr-ruled-lines",
+  "expenditures": "gen1-carr-ruled-lines"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "744.05",
+    "cover_over50_cum": "744.05",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null
+   },
+   "itemized": "744.05",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Three rows sum 400.00 + 100.92 + 243.13 = 744.05, which equals cover line 1 in BOTH the THIS REPORT cell (744.05) and the CUMULATIVE cell (744 superscript-05). Cover line 1 LAST is a slashed zero, i.e. this is the FIRST report of the cycle, so the two scopes coincide -- recorded cumulative. Generation-1 Carr form prints no schedule total (schedule_total null), so the cover is the only anchor. Reconciled against line 1 ONLY; line 2 (<=$50 aggregate) is a slashed zero in all three columns and is never itemized."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "744.05",
+    "cover_expense_cum": "744.05",
+    "cover_balance_end": "0",
+    "schedule_total": null
+   },
+   "itemized": "744.05",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Three rows sum 400.00 + 243.13 + 100.92 = 744.05 = cover line 3 THIS (744.05) and CUMULATIVE (744.05); LAST is a slashed zero, so first report of the cycle and the scopes coincide. Note the two schedules mirror each other exactly (every contribution dollar was spent), which is what makes the stated ending balance of zero internally consistent."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Gen-1 form prints NO schedule total on either sheet -- no page-subtotal gate exists; gated against the cover. p2 rows 400.00+100.92+243.13 = 744.05 = cover line 1 (this and cum). p3 rows 400.00+243.13+100.92 = 744.05 = cover line 3 (this and cum). Both close exactly.",
+  "row_count": "Gen-1 ruled sheet (no boxed grid): counted against INK by eye. p2 -- 3 inked lines at the top of ~40 ruled lines, 3 rows emitted; number of dates (3) = number of names (3) = number of amounts (3). p3 -- same, 3 inked lines, 3 rows emitted, 3 dates / 3 payees / 3 purposes / 3 amounts.",
+  "geometry_proof": "p2: 600 dpi crop of the amount column over the first three row bands renders '400.^00 / 100 ^92 / 243 ^13' in order; the control crop one pitch below row 3 renders EMPTY. p3: same test renders '400^00 / 243 ^13 / 100.92' in order, control below renders EMPTY.",
+  "balance_chain": "Closes exactly: 0 (line 1 last, slashed zero) + 744.05 contributions - 744.05 expenses = 0 = cover line 4 balance, a slashed zero in all three columns."
+ },
+ "escalations": 5,
+ "escalation_note": "600 dpi column crops of p2 dates, p2 amounts, p3 dates, p3 amounts (verify bands of 3 consecutive rows), plus a 1200 dpi crop of the p2 row-3 date cell; 600 dpi controls one pitch below the last row on both pages.",
+ "notes": "Cover confirms the chunk file: 'Full Name of Candidate Kevin Edward Brooks', 'Name of Office Sheriff, Washington County', party 'Democrate' (filer's spelling), Date 4-8-10, RECEIVED APR 13 2010. County office, in scope. FILING DATE: the form is signed 4-8-10 while the index/filename says 4-13-10 (the clerk's RECEIVED stamp date) -- the document governs; filing_totals.csv already carries 2010-04-08. Generation 1 (Carr Printing 5-5-PG) -- no in-kind column, no printed schedule totals. filing_totals.csv notes the state channel holds a SECOND, fuller copy of this same 4-8-10 report; only this file is in my chunk and nothing was backfilled from any sibling copy. Contributor mailing addresses and the candidate's own street address/phones were DISCARDED at read time (city/state only retained).",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-03-18",
+   "donor_raw": "J. Ryan Lee",
+   "donor_city": "St. George",
+   "donor_state": "UT",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.80,11.40,9.50,1.50@p2",
+   "note": "amount written as 400 with a superscript cents group over a dash -> 400.00; date verbatim '3-18-10'; street address and ZIP present on the form were discarded at read time"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2010-04-01",
+   "donor_raw": "J. Ryan Lee",
+   "donor_city": "St. George",
+   "donor_state": "",
+   "amount": "100.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.80,13.10,9.50,1.50@p2",
+   "note": "amount written as 100 with superscript cents '92' over the rule -> 100.92; date verbatim '4.1.10'; no state written on this line (the line above carries 'UT')"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2010-04-01",
+   "donor_raw": "J. Ryan Lee",
+   "donor_city": "St. George",
+   "donor_state": "",
+   "amount": "243.13",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.80,15.00,9.50,1.50@p2",
+   "note": "DATE CELL IS MALFORMED: verbatim '4.  -1-10' -- a 4, a period, a gap, then '-1-10'. Read at 1200 dpi and still ambiguous; transcribed 2010-04-01 (month 4, day 1, year 10, consistent with the sibling rows and the 4-8-10 report date) but flagged needs_review. Amount written as 243 with superscript cents '13' over the rule -> 243.13."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Washington County",
+   "purpose": "Filing Fee",
+   "amount": "400.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.90,10.00,9.80,1.60@p3",
+   "note": "NO YEAR PRINTED in the date cell: verbatim '3-15-' (the filer stopped after the day). Left BLANK per contract rather than filling the year from the report date. Amount written as 400 with superscript cents '00' over the rule -> 400.00."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2010-04-01",
+   "vendor_raw": "Ross",
+   "purpose": "Clothes",
+   "amount": "243.13",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.90,12.25,9.80,1.60@p3",
+   "note": "amount written as 243 with superscript cents '13' over the rule -> 243.13; purpose verbatim 'Clo7Res' in a cramped hand, read as 'Clothes'"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2010-04-01",
+   "vendor_raw": "Sears",
+   "purpose": "Picture",
+   "amount": "100.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.90,14.50,9.80,1.60@p3",
+   "note": "amount printed with a plain decimal point '100.92' (unlike the superscript style of the two rows above); vendor verbatim 'Sears' in a compressed hand"
+  }
+ ]
+}

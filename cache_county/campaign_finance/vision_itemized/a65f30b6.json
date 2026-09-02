@@ -1,0 +1,209 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C18.json",
+ "key": "a65f30b6",
+ "index_path": "raw/2022/2022_cc_David_Nephi_Zook_22G.pdf",
+ "applies_to": [
+  "raw/2022/2022_cc_David_Nephi_Zook_22G.pdf",
+  "raw/2022/2022_wb_David_Nephi_Zook_22G.pdf"
+ ],
+ "sha256_prefix": "3841b577cdb1a444",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_this": "$2,250.00",
+    "cover_over50_cum": "$21,755.00",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "box_A_balance_begin": "$7,977.54",
+    "box_F_subtotal": "$10,227.54",
+    "cover_balance_end": "$1,833.57",
+    "page_subtotal": "2,250.00",
+    "schedule_total": "2,250.00"
+   },
+   "itemized": "2,250.00",
+   "basis": "page-subtotal==schedule-total==BoxB",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Two rows, 250.00 + 2,000.00 = 2,250.00, equal to the printed 'Subtotal for this page', the printed 'Total Contributions Received', and Summary Box B (this period). Box C (year-to-date) is $21,755.00, so THIS PERIOD AND YEAR-TO-DATE DIFFER and the rows are on the PERIOD scope - the module's cycle figure is a different scope and must not be compared to this side's 2,250.00. The chunk file's period_basis hypothesis 'period_and_ytd_differ' is CONFIRMED. The CFD form prints no '$50.00 or less' line; those anchors are null."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_this": "$8,393.97",
+    "cover_expense_cum": "$20,725.86",
+    "box_A_balance_begin": "$7,977.54",
+    "box_F_subtotal": "$10,227.54",
+    "cover_balance_end": "$1,833.57",
+    "page_subtotal": "8,393.97",
+    "schedule_total": "8,393.97"
+   },
+   "itemized": "8,393.94",
+   "basis": "page-subtotal==schedule-total==BoxD",
+   "result": "delta",
+   "scope": "period",
+   "detail": "THREE-CENT FILER DELTA. The six Schedule B rows read 125.00 + 55.00 + 24.61 + 3.00 + 261.08 + 7,925.25 = 8,393.94, while the printed 'Subtotal for this page' and 'Total Expenditures Made' BOTH read 8,393.97 and Summary Box D also reads $8,393.97. Every one of the six amounts was re-read in a 1200dpi crop and none is bistable, and no single-digit alternative on any row produces 8,393.97 (the nearest, reading 24.61 as 24.64, would need a 3-cent change on a cell that is unambiguous at 1200dpi). The 0.03 is the filer's own addition error, and it PROPAGATES CONSISTENTLY through his other figures: Box E 20,725.86 = 12,331.89 (his prior filing) + 8,393.97, and Balance at Close 1,833.57 = F 10,227.54 - 8,393.97. Rows published verbatim with needs_review 1 on the whole side; neither printed figure recomputed."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 2,250.00 = printed subtotal 2,250.00 = printed Total Contributions Received 2,250.00 EXACT. p3 rows 8,393.94 vs printed subtotal 8,393.97 and printed Total 8,393.97 - WOULD NOT GATE, short by 0.03; both figures named, no row adjusted.",
+  "row_count": "rowbands.py 'ok', 16 h-rules (15 writing bands) on both p2 and p3. Inked: p2 = 2 bands, p3 = 6 bands. Emitted 2 contributions and 6 expenditures - matches.",
+  "geometry_proof": "p2: row-1 amount band renders '$250.00', row-2 band renders '$2,000.00', control one row-pitch below renders EMPTY. p3: row-1 band renders '125.00', row-6 (last) band renders '$7,925.25', control one pitch below renders EMPTY.",
+  "balance_chain": "CLOSES on the filer's own figures. A $7,977.54 + B $2,250.00 = F $10,227.54; F - D $8,393.97 = $1,833.57 = the printed Balance at Close. CROSS-FILING CHAIN RUN against this filer's earlier 2022 filing 0b7880a9 (7 days preceding the General, 11/1/22): Box A here ($7,977.54) equals that filing's Balance at Close exactly; Box C here ($21,755.00) equals its 19,505 plus this report's 2,250.00; Box E here ($20,725.86) equals its 12,331.89 plus this report's 8,393.97. All three chain lines close, so neither cover is swapped - and this is also what shows the 0.03 delta lives in the SCHEDULE addition, not in the summary."
+ },
+ "escalations": 5,
+ "escalation_note": "p3 rows 1-4 amount column at 1200dpi and rows 5-6 at 1200dpi (to chase the 0.03 delta - all six are unambiguous); p2 and p3 subtotal/total cells at 1200dpi; p2 row 2 at 800dpi; amount-band and control proofs at 600dpi on both pages.",
+ "notes": "Office line INSIDE the form reads 'Cache County Executive/Surveyor' - IN SCOPE. Candidate 'David Nephi Zook' - agrees with the chunk file. Report type '30 Days after the General Election', amendment answered 'No'. Signature date and Date of Report 12/7/22, clerk stamp 'CLERK/AUDITOR RCVD 2022 DEC 7'. Footer prints 'Page 1 of 4' ... '4 of 4', confirming the document is complete. REDACTED AT SOURCE: the candidate's Address row and Email cell on the cover are covered by solid black bars - a different fact from a blank cell, and NOT backfilled from this filer's other filing in my chunk (0b7880a9 prints the same fields in the clear), per the no-cross-copy rule. Schedule A prints donor street addresses and ZIPs in the clear; only city/state emitted. This filing is typed but the PDF carries no text layer - read visually. This is the SECOND of this filer's two 2022 filings in my chunk.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2022-11-09",
+   "donor_raw": "Dustin Engineers",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "$250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.00,18.41,9.21,1.29@p2",
+   "note": "amount printed with a dollar sign, kept verbatim."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2022-11-18",
+   "donor_raw": "Cache Rich Association of Realtors",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "$2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.00,22.91,9.21,1.29@p2",
+   "note": "amount printed with a dollar sign, kept verbatim."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2022-11-02",
+   "vendor_raw": "Facebook",
+   "purpose": "Advertising",
+   "amount": "125.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.33,19.02,9.21,1.29@p3",
+   "note": "needs_review set because this SIDE carries a 0.03 filer delta against its own printed subtotal; the cell itself is unambiguous at 1200dpi. Printed without a dollar sign, unlike the rows below it."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2022-11-14",
+   "vendor_raw": "Facebook",
+   "purpose": "Advertising",
+   "amount": "$55.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.33,23.54,9.21,1.29@p3",
+   "note": "side-level 0.03 delta - see recon."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2022-11-23",
+   "vendor_raw": "MailChimp",
+   "purpose": "Software Fees",
+   "amount": "$24.61",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.33,28.06,9.21,1.29@p3",
+   "note": "the only cell whose cents could arithmetically absorb the 0.03; re-read at 1200dpi it is unambiguously 24.61, so the delta is not here. Side-level 0.03 delta - see recon."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2022-12-05",
+   "vendor_raw": "Chase Bank",
+   "purpose": "Bank Fee",
+   "amount": "$3.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.33,32.58,9.21,1.29@p3",
+   "note": "side-level 0.03 delta - see recon."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2022-12-07",
+   "vendor_raw": "SQ1 Printing",
+   "purpose": "Printing",
+   "amount": "$261.08",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.33,37.10,9.21,1.29@p3",
+   "note": "side-level 0.03 delta - see recon."
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "2022-12-07",
+   "vendor_raw": "Watkins Printing",
+   "purpose": "Printing and postage",
+   "amount": "$7,925.25",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.33,41.61,9.21,1.29@p3",
+   "note": "side-level 0.03 delta - see recon."
+  }
+ ]
+}

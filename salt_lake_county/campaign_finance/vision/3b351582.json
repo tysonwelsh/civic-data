@@ -1,0 +1,117 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2015-02-09",
+   "vendor_raw": "Salt Lake County Republican Party",
+   "purpose": "Lincoln Day Dinner",
+   "amount": "375.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.03,26.15,80.58,4.35@p4",
+   "note": "amount printed '$375.' with underlined superscript cents '00'; re-read at 900 dpi."
+  }
+ ],
+ "total_contributions": "0",
+ "total_expenditures": "$375.00",
+ "beginning_balance": "$21,547.20",
+ "ending_balance": "$21,172.20",
+ "aggregate": {
+  "total_contributions_to_date": "$39,353.50",
+  "total_expenditures_to_date": "$18,181.30",
+  "line5_subtotal": "$21,547.20"
+ },
+ "cover": {
+  "candidate": "Steven L. DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "YEAR-END REPORT: January 31 of each year (Required by all open campaign committees)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-27-16",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2015_disclosures__2015_year_end__steve_debry2015ye_fd.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L. DeBry",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2015_disclosures__2015_year_end__steve_debry2015ye_fd.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "PRIVACY ENFORCED: the candidate's PHONE NUMBER is printed IN THE CLEAR on the cover, immediately left of the black bar that covers the fax/email cells (the chunk-file flag is CONFIRMED). Per PRIVACY.md section 6 it was discarded at read time and is written NOWHERE in this record - not in a field, not in a note. The street-address block is properly black-barred. FORM FAMILY: this is the older 'SHERRIE SWENSEN' letterhead with NO year in the title, footer 'k://election/candidateinfo/financialdisclosures/04pccfindisc.doc' - form_year is '' (the field exists, no year printed) and the printed stock is not used to date the cycle. Its interim boxes are April 5 / seven days before a primary / September 15 / seven days before a general - a DIFFERENT untitled vintage from the sim_gill filing in this same chunk (April 7 / June 17 / September 15 / October 28). BASIS INVERSION on both schedules - see recon; this is the same per-filer semantic already documented for DeBry 2022 and Gill 2007, appearing here in the SCHEDULE total cells rather than in Summary Column A. Neither amendment box is ticked. Cents throughout are written as an underlined superscript over a raised dot; the Column-B figures could be read with a comma as the decimal separator, but both readings give the same value.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "$39,353.50",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "BASIS TRAP, resolved by scope. The Schedule A grid (p3) is entirely blank - zero rows, a real zero - and its printed SUBTOTAL FOR THIS PAGE reads '0', matching Summary line 1 Column A ('0'). But the schedule's 'TOTAL CONTRIBUTIONS RECEIVED (Sum of subtotals from all Schedule A pages)' cell carries $39,353.50, which is NOT a sum of this schedule's pages: it is the CYCLE-CUMULATIVE figure and equals Summary line 1 COLUMN B exactly. Reconciling the rows against that cell would manufacture a false $39,353.50 delta. Reconciled against the period figure whose scope matches - summary-line-1 Column A - the side is exact."
+    },
+    "expenditures": {
+     "stated": "$375.00",
+     "schedule_total": "$18,181.30",
+     "itemized": "375.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "same inversion on this side: the single Schedule B row 375.00 = printed SUBTOTAL FOR THIS PAGE $375.00 = Summary line 2 Column A = Summary line 6. The schedule's grand-total cell holds $18,181.30, which equals Summary line 2 COLUMN B - the cycle cumulative, a DIFFERENT SCOPE. Gating on the schedule grand total here would fabricate a $17,806.30 delta."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 0.00 = printed subtotal '0'; p4 rows 375.00 = printed subtotal $375.00. Both page subtotals are the PERIOD figures and both gate. The schedules' grand-total cells are cumulative and were deliberately NOT used as gates.",
+   "escalations": 5,
+   "escalation_note": "900 dpi cell crops on: p4 amount, p4 subtotal+total pair, p3 subtotal+total pair, p2 Column B (lines 1-2), p2 balance lines 3-7.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PRIVACY ENFORCED: the candidate's PHONE NUMBER is printed IN THE CLEAR on the cover, immediately left of the black bar that covers the fax/email cells (the chunk-file flag is CONFIRMED). Per PRIVACY.md section 6 it was discarded at read time and is written NOWHERE in this record - not in a field, not in a note. The street-address block is properly black-barred. FORM FAMILY: this is the older 'SHERRIE SWENSEN' letterhead with NO year in the title, footer 'k://election/candidateinfo/financialdisclosures/04pccfindisc.doc' - form_year is '' (the field exists, no year printed) and the printed stock is not used to date the cycle. Its interim boxes are April 5 / seven days before a primary / September 15 / seven days before a general - a DIFFERENT untitled vintage from the sim_gill filing in this same chunk (April 7 / June 17 / September 15 / October 28). BASIS INVERSION on both schedules - see recon; this is the same per-filer semantic already documented for DeBry 2022 and Gill 2007, appearing here in the SCHEDULE total cells rather than in Summary Column A. Neither amendment box is ticked. Cents throughout are written as an underlined superscript over a raised dot; the Column-B figures could be read with a comma as the decimal separator, but both readings give the same value."
+  }
+ }
+}

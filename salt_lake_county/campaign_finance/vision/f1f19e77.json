@@ -1,0 +1,197 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2017-03-10",
+   "donor_raw": "CW Management CORP.",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.70,24.48,85.85,3.93@p3",
+   "note": "address block redacted at source (county black bar); Occupation/Employer column present and left empty by the filer"
+  },
+  {
+   "line_no": 2,
+   "date": "2017-03-10",
+   "donor_raw": "CW Real Estate Services LLC",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.70,28.41,85.85,3.95@p3",
+   "note": "address block redacted at source (county black bar); Occupation/Employer column present and left empty by the filer"
+  },
+  {
+   "line_no": 3,
+   "date": "2017-03-10",
+   "donor_raw": "StoneFly Development LLC",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.70,32.37,85.85,3.93@p3",
+   "note": "address block redacted at source; Occupation/Employer column present and left empty by the filer; name written 'StoveFly'/'StoneFly' - the medial glyph is an n with a flattened arch"
+  },
+  {
+   "line_no": 4,
+   "date": "2017-03-10",
+   "donor_raw": "Committee to Elect Chris McCandless",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.70,36.30,85.85,3.91@p3",
+   "note": "address block redacted at source; Occupation/Employer column present and left empty by the filer; amount written 500 with superscript cents 00 over a rule"
+  },
+  {
+   "line_no": 5,
+   "date": "2017-05-15",
+   "donor_raw": "Arbor Commercial Real Estate LLC",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.70,40.21,85.85,4.02@p3",
+   "note": "address block redacted at source; Occupation/Employer column present and left empty by the filer; date written '5-15.2017' with a period as the second separator; first word re-read at 1200 dpi - the second glyph has no descender, so it is r not p, giving 'Arbor'"
+  },
+  {
+   "line_no": 6,
+   "date": "2017-05-24",
+   "donor_raw": "Carriage Crossing Group LLC",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.70,44.23,85.85,3.89@p3",
+   "note": "address block redacted at source; Occupation/Employer column present and left empty by the filer; second line re-read at 1200 dpi reads 'GRoup' with the p descender struck through by the writer's own cross-stroke, followed by 'LLC' and a trailing flourish"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2017-12-11",
+   "vendor_raw": "Sandy City Honorary Colonels",
+   "purpose": "Support Sandy City Police Officers",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.85,25.76,77.88,3.91@p4",
+   "note": "amount written 300 with superscript cents 00 over a rule"
+  }
+ ],
+ "total_contributions": "5,500.00",
+ "total_expenditures": "300.00",
+ "beginning_balance": "10,171.62",
+ "ending_balance": "15,371.62",
+ "aggregate": {
+  "total_contributions_to_date": "15,671.62",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "15,671.62"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "SLCo Council",
+  "district_number": "6",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-2018",
+  "form_year": "2017"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/max-burdick_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/max-burdick_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Cover agrees with the chunk file (Max Burdick / County Council District 6 / Year-End Jan 31 / 2018-01-31). Cover 'Office' cell reads 'Council Dist 6' and 'Office Sought' reads 'SLCo Council' with District Number '6' - both present, no substitution needed. Neither amendment box (Yes/No) is ticked, so is_amendment is honestly blank. Form title year 2017 is the form vintage, not the cycle. p5 is a 'Summary Page Other Campaign Accounts' sheet on which the filer wrote N/A across Column A - a DIFFERENT table (Column B is 'Year to Date'), not transcribed and never mixed with the standard Summary Page. Column B line 1 (15,671.62) equals line 5 subtotal rather than a running contributions aggregate - kept verbatim, not interpreted. Schedule A address column is covered by the county's black bar on all 6 rows (redacted at source); the Occupation/Employer column is present, uncovered and empty on every row (filer left it blank).",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5,500.00",
+     "schedule_total": "5,500.00",
+     "itemized": "5500.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "6 rows sum to 5,500.00 = printed SUBTOTAL FOR THIS PAGE (5,500.00) = printed TOTAL CONTRIBUTIONS RECEIVED (5,500.00) = Summary line 1 Column A. All three printed anchors carry the SAME scope here (period), so the schedule-total-vs-summary-gap class does not arise; there are no in-kind markers on the page."
+    },
+    "expenditures": {
+     "stated": "300.00",
+     "schedule_total": "300.00",
+     "itemized": "300.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "1 row sums to 300.00 = printed SUBTOTAL FOR THIS PAGE (300.00) = printed TOTAL EXPENDITUTRES MADE (300.00) = Summary line 2 Column A."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 5,500.00 = printed subtotal 5,500.00 (and grand total 5,500.00); p4 rows 300.00 = printed subtotal 300.00 (and grand total 300.00). Both gates fired and closed.",
+   "escalations": 3,
+   "escalation_note": "p3 name+date column band rows1-6 at 600 dpi (resolved every contributor name); p3 row-5 name cell at 1200 dpi; p3 row-6 name cell at 1200 dpi.",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Cover agrees with the chunk file (Max Burdick / County Council District 6 / Year-End Jan 31 / 2018-01-31). Cover 'Office' cell reads 'Council Dist 6' and 'Office Sought' reads 'SLCo Council' with District Number '6' - both present, no substitution needed. Neither amendment box (Yes/No) is ticked, so is_amendment is honestly blank. Form title year 2017 is the form vintage, not the cycle. p5 is a 'Summary Page Other Campaign Accounts' sheet on which the filer wrote N/A across Column A - a DIFFERENT table (Column B is 'Year to Date'), not transcribed and never mixed with the standard Summary Page. Column B line 1 (15,671.62) equals line 5 subtotal rather than a running contributions aggregate - kept verbatim, not interpreted. Schedule A address column is covered by the county's black bar on all 6 rows (redacted at source); the Occupation/Employer column is present, uncovered and empty on every row (filer left it blank)."
+  }
+ }
+}

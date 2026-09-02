@@ -1,0 +1,88 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C10.json",
+ "key": "6141b699",
+ "index_path": "raw/2014/2014_cc_Yeates_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Yeates_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "777c2c81f77a2493",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "cover_expense_last": "0",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0",
+   "basis": "schedule marked N/A by the filer; cover line 1 is a bare dash and gives no numeral",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "EMPTY SCHEDULE, not a gap: Form A (p2) carries a large hand-written 'N/A' across the top of the ruled grid and NO ledger ink anywhere - zero rows, 'transcribed'. But the side cannot be SCORED, because cover line 1 is a bare DASH in all three columns, not a numeral: per the zero-glyph ruling a bare dash stays BLANK and is never read as 0, so there is no printed anchor to reconcile against and result is 'unknown' rather than 'exact'. The substance is nonetheless unambiguous - the filer wrote N/A on the schedule and zeros on lines 3 and 4 - but no figure was synthesized for line 1."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "EMPTY SCHEDULE: Form B (p3) carries a large hand-written 'N/A' across the grid and no ledger ink - zero rows, 'transcribed'. Here the cover DOES print an anchor: line 3 is a cursive zero glyph in all three columns, so 0 this period and 0 cumulative (the scopes coincide), and zero rows sum to it exactly."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints no schedule or page subtotal; the cover is the only anchor. p3 rows (none) = cover line3 0 - gates. p2 CANNOT be gated: cover line 1 is a bare dash, so no printed figure exists to gate against; recorded rather than invented.",
+  "row_count": "Inspected the full 200 dpi renders of p2 and p3: the ruled grid holds ~40 writing lines on each sheet and none carries ledger ink - the only mark on each is a large 'N/A'. Zero rows emitted on both sides, which matches.",
+  "geometry_proof": "Not applicable - zero rows emitted on both sides.",
+  "balance_chain": "Cannot be computed from the cover as printed, and nothing was inferred. Lines 1 and 2 (contributions) are bare dashes = BLANK in all three columns; lines 3 (expenses) and 4 (balance) are zero glyphs = 0. So the stated balance is 0 and the stated expenses are 0, but the contribution inputs to the chain are not stated as numerals. Reported as-is."
+ },
+ "escalations": 1,
+ "escalation_note": "600 dpi crop of the cover totals block. This was the decisive read on this filing: at 200 dpi the twelve cover marks look alike, but at 600 dpi lines 1 and 2 are unmistakably straight DASHES (a single flat stroke) while lines 3 and 4 are closed cursive ZERO loops. Under the repo-wide ruling those are different facts - blank versus 0 - and they are recorded differently here.",
+ "notes": "index.csv calls the office County Council; the cover's 'Name of Office' line reads 'County Council' with 'Office District: Logan 1' - agrees. Candidate on the form is 'Cory Yeates' (index: Yeates) - agrees. Cover date '11/18/14'; clerk stamp 'RCVD 18 NOV 2014'; party Republican. Page 4 is the printed Cache County Code 2.21.040/2.21.050 statute text. Both schedules are marked 'N/A' by hand and carry no ledger ink, so both are EMPTY schedules (transcribed, zero rows) - a real zero, not a gap. The one thing a human may want to note: the cover states contributions as dashes rather than zeros, so this filing publishes no numeral for lines 1 and 2; that is the filer's own record and no figure was supplied for it here.",
+ "contributions": [],
+ "expenditures": []
+}

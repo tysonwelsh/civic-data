@@ -1,0 +1,95 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "0.00",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "0.00"
+ },
+ "cover": {
+  "candidate": "Olghen M. Ocean Saintelus",
+  "party": "",
+  "office_sought": "County Council - At Large - A",
+  "district_number": "",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2026-06-16",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Ocean-Saintelus-Olghen__FA7D5E92.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Ocean Saintelus, Olghen",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Ocean-Saintelus-Olghen__FA7D5E92.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Handwritten cover on the OLDER 'Financial Disclosure Report For a Candidate' form (no year printed in title), NOT the 2026 'Open Campaign Account' form, although received by the clerk JUN 16 2026 (stamp on cover). Final/Dissolution Report box checked; amendment Yes/No boxes both unchecked. Office line inside the form reads 'County Council - At Large - A' (handwritten across the Street Address/City row; the Office and Office Sought/District cells proper are blank) \u2014 in scope, matches index At-Large A. Candidate name handwritten 'Olghen M. Ocean Saintelus'. Signature date 06/16/26. A phone number handwritten on the cover was discarded at read time per privacy rule. Summary p2: every Column A box (lines 1-7) struck with a slashed-zero glyph; Column B blank; page-header boxes (Page/of, name, date) left blank.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page exists in the document; Summary line 1 Col A is struck with a slashed-zero glyph (recorded as 0 per zero-glyph ruling)"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page exists in the document; Summary line 2 Col A is struck with a slashed-zero glyph (recorded as 0 per zero-glyph ruling)"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages \u2014 nothing to gate",
+   "escalations": 0,
+   "escalation_note": "none needed \u2014 two pages, both legible at 200dpi",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten cover on the OLDER 'Financial Disclosure Report For a Candidate' form (no year printed in title), NOT the 2026 'Open Campaign Account' form, although received by the clerk JUN 16 2026 (stamp on cover). Final/Dissolution Report box checked; amendment Yes/No boxes both unchecked. Office line inside the form reads 'County Council - At Large - A' (handwritten across the Street Address/City row; the Office and Office Sought/District cells proper are blank) \u2014 in scope, matches index At-Large A. Candidate name handwritten 'Olghen M. Ocean Saintelus'. Signature date 06/16/26. A phone number handwritten on the cover was discarded at read time per privacy rule. Summary p2: every Column A box (lines 1-7) struck with a slashed-zero glyph; Column B blank; page-header boxes (Page/of, name, date) left blank."
+  }
+ }
+}

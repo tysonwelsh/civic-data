@@ -1,0 +1,282 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2024-04-09",
+   "donor_raw": "Salt Lake Home Builders Association",
+   "occupation": "PAC",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,10.84,85.88,3.30@p3",
+   "note": "address redacted at source; city/state do not survive"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-04-06",
+   "donor_raw": "Shane Graham",
+   "occupation": "Professor Utah State",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,14.14,85.88,2.75@p3",
+   "note": "address redacted at source; city/state do not survive; printed out of chronological order (follows the 4/9 row on the page)"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-04-20",
+   "donor_raw": "MicheleEvans",
+   "occupation": "Retired",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,16.89,85.88,2.72@p3",
+   "note": "address redacted at source; city/state do not survive; name printed without a space, verbatim"
+  },
+  {
+   "line_no": 4,
+   "date": "2024-04-22",
+   "donor_raw": "SteveVanMaren",
+   "occupation": "Retired",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,19.61,85.88,2.73@p3",
+   "note": "address redacted at source; city/state do not survive; name printed without a space, verbatim"
+  },
+  {
+   "line_no": 5,
+   "date": "2024-04-29",
+   "donor_raw": "SteveVanMaren",
+   "occupation": "Retired",
+   "amount": "55.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,22.34,85.88,2.75@p3",
+   "note": "address redacted at source; city/state do not survive; name printed without a space, verbatim"
+  },
+  {
+   "line_no": 6,
+   "date": "2024-05-21",
+   "donor_raw": "MicheleEvans",
+   "occupation": "Retired",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,25.09,85.88,2.75@p3",
+   "note": "address redacted at source; city/state do not survive; name printed without a space, verbatim"
+  },
+  {
+   "line_no": 7,
+   "date": "2024-05-29",
+   "donor_raw": "SteveVanMaren",
+   "occupation": "Retired",
+   "amount": "55.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,27.84,85.88,2.71@p3",
+   "note": "address redacted at source; city/state do not survive; name printed without a space, verbatim"
+  },
+  {
+   "line_no": 8,
+   "date": "2024-05-31",
+   "donor_raw": "Shane Graham",
+   "occupation": "Professor Utah State",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,30.55,85.88,2.72@p3",
+   "note": "address redacted at source; city/state do not survive"
+  },
+  {
+   "line_no": 9,
+   "date": "2024-06-07",
+   "donor_raw": "Utah AFL-CIO",
+   "occupation": "PAC",
+   "amount": "300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,33.27,85.88,2.73@p3",
+   "note": "address redacted at source; city/state do not survive"
+  },
+  {
+   "line_no": 10,
+   "date": "2024-06-07",
+   "donor_raw": "Laborers Political League",
+   "occupation": "PAC",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,36.00,85.88,2.70@p3",
+   "note": "address redacted at source; city/state do not survive"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-04-30",
+   "vendor_raw": "ActBlue",
+   "purpose": "Transaction Fees",
+   "amount": "4.07",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.27,13.50,86.56,1.61@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-05-31",
+   "vendor_raw": "ActBlue",
+   "purpose": "Transaction Fees",
+   "amount": "3.47",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.27,15.11,86.56,1.62@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-06-15",
+   "vendor_raw": "US Postal Service",
+   "purpose": "PO Box Fee",
+   "amount": "232.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.27,16.73,86.56,1.61@p4"
+  }
+ ],
+ "total_contributions": "1460.00",
+ "total_expenditures": "239.54",
+ "beginning_balance": "12482.21",
+ "ending_balance": "13702.67",
+ "aggregate": {
+  "total_contributions_to_date": "25266.00",
+  "total_expenditures_to_date": "11565.55",
+  "line5_subtotal": "13942.21"
+ },
+ "cover": {
+  "candidate": "Rashelle Hobbs",
+  "party": "DEM",
+  "office_sought": "Recorder",
+  "district_number": "At-large",
+  "report_type": "Interim report: Seven days before a primary election (box checked)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2024-06-18",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Hobbs-Rashelle__67253922.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Hobbs, Rashelle",
+  "office": "Recorder",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Hobbs-Rashelle__67253922.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "No county Schedule A/B grid pages exist; filer's own 'Schedule A/B \u2014 Committee to Elect Rashelle Hobbs June 18 2024 Filing Page 1 of 1' sheets ARE the schedules (attachment-is-the-schedule), confirming the audit prior. Form titled '2024 Financial Disclosure Report For a Candidate'. Summary Column B aggregates ($25,266.00 / $11,565.55) are TYPED on this filing (contrast the Sept filing where they are handwritten) and are cycle-to-date \u2014 not summed with Column A. Row 2 (4/6/2024 Shane Graham) prints out of chronological order after the 4/9 row. Donor names 'MicheleEvans'/'SteveVanMaren' print without a space on rows 3-7 \u2014 transcribed verbatim. Complete Address column fully bar-redacted \u2014 city/state do not survive; Occupation/Employer survives the bar. Cover street address and phone/email bar-redacted; signature bar-redacted.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1460.00",
+     "schedule_total": "1460.00",
+     "itemized": "1460.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "10 rows sum 1460.00 = attachment Subtotal/TOTAL = Summary line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "239.54",
+     "schedule_total": "239.54",
+     "itemized": "239.54",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "3 rows sum 239.54 = attachment SUBTOTAL/TOTAL = Summary line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 1460.00 = printed Subtotal for this Page 1460.00 = TOTAL 1460.00; p4 rows 239.54 = printed SUBTOTAL 239.54 = TOTAL 239.54",
+   "escalations": 6,
+   "escalation_note": "p3 600dpi half-width band crops x4 (rows 1-5, 6-10); p4 600dpi half-width crops x2 \u2014 all rows re-read identically, verified=1",
+   "n_contrib_rows": 10,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "No county Schedule A/B grid pages exist; filer's own 'Schedule A/B \u2014 Committee to Elect Rashelle Hobbs June 18 2024 Filing Page 1 of 1' sheets ARE the schedules (attachment-is-the-schedule), confirming the audit prior. Form titled '2024 Financial Disclosure Report For a Candidate'. Summary Column B aggregates ($25,266.00 / $11,565.55) are TYPED on this filing (contrast the Sept filing where they are handwritten) and are cycle-to-date \u2014 not summed with Column A. Row 2 (4/6/2024 Shane Graham) prints out of chronological order after the 4/9 row. Donor names 'MicheleEvans'/'SteveVanMaren' print without a space on rows 3-7 \u2014 transcribed verbatim. Complete Address column fully bar-redacted \u2014 city/state do not survive; Occupation/Employer survives the bar. Cover street address and phone/email bar-redacted; signature bar-redacted."
+  }
+ }
+}

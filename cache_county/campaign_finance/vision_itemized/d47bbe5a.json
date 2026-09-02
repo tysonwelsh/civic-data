@@ -1,0 +1,183 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C10.json",
+ "key": "d47bbe5a",
+ "index_path": "raw/2014/2014_cc_Swink_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Swink_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "74707c82d4c03d42",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "14,368.74",
+    "cover_over50_this": "2,070.67",
+    "cover_over50_cum": "16,439.41",
+    "cover_le50_last": "25 -",
+    "cover_le50_this": "35 -",
+    "cover_le50_cum": "60 -",
+    "cover_expense_last": "14,368.74",
+    "cover_expense_this": "2,130.67",
+    "cover_expense_cum": "16,499.41",
+    "cover_balance_end": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "2070.67",
+   "basis": "cover-line1-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A p2 has 2 inked rows: 268.22 + 1,802.45 = 2,070.67, exactly the cover line 1 TOTALS FOR THIS REPORT cell. The CUMULATIVE cell is 16,439.41, so this side is PERIOD scope - a different scope from the cumulative figure the module publishes, which is honest and expected. The cover's own identity holds: 14,368.74 + 2,070.67 = 16,439.41. Reconciled against line 1 ONLY: line 2, the $50-or-less aggregate, is 25/35/60 and is never itemized - scoring against line1+line2 would manufacture a 35.00 false miss. The Carr form prints no schedule total."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "14,368.74",
+    "cover_expense_this": "2,130.67",
+    "cover_expense_cum": "16,499.41",
+    "cover_over50_this": "2,070.67",
+    "cover_over50_cum": "16,439.41",
+    "cover_le50_this": "35 -",
+    "cover_balance_end": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "2130.67",
+   "basis": "cover-line3-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B p3 has 4 inked rows: 1,451.00 + 268.22 + 61.45 + 350.00 = 2,130.67, exactly the cover line 3 TOTALS FOR THIS REPORT cell; the CUMULATIVE cell is 16,499.41, so PERIOD scope. The cover identity holds: 14,368.74 + 2,130.67 = 16,499.41. Two of the four amounts are written with a trailing dash for no cents ('1,451 -' and '350 -'), read as 1451.00 and 350.00 per the currency convention - and that reading is what makes the side close."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints no schedule or page subtotal; the cover is the only anchor. p2 rows 2,070.67 = cover line1 THIS 2,070.67 (gates exactly). p3 rows 2,130.67 = cover line3 THIS 2,130.67 (gates exactly). Cover cross-check: LAST + THIS = CUMULATIVE closes on all three money lines (14,368.74+2,070.67=16,439.41; 25+35=60; 14,368.74+2,130.67=16,499.41).",
+  "row_count": "Counted ink against the ruled grid on the 200 dpi renders: p2 has ink on the first 2 writing lines only (row 2's address wraps to a third line carrying ONLY a ZIP, which is a wrapped address continuation and not a row - it was discarded at read time, not emitted); 2 rows emitted. p3 has ink on the first 4 writing lines only; 4 rows emitted. The single-cell geometry proof (first row, last row, one pitch past) independently confirms no dropped or duplicated line on either page.",
+  "geometry_proof": "p2: row1 box (x80%,y14.09%,w18%,h1.60%) renders '$268.22'; row2 box (y15.70%) renders '$1,802.45'; control one pitch below (y17.42%) renders EMPTY. p3: row1 box (y13.24%) renders '1,451 -'; row4 box (y19.79%) renders '350 -'; control one pitch below (y21.97%) renders EMPTY. NOTE: an earlier proof pass at x=84% clipped the leading '$1,' and '1,' off the wider figures - the band was widened to x=80%,w=18% and re-proved, which is exactly the shifted/short-box failure this check exists to catch.",
+  "balance_chain": "Cover line 4 is a bare dash in all three columns, so it is recorded BLANK ('') per the zero-glyph ruling, NOT as 0 - a bare dash is not a numeral. The chain nonetheless closes on the filer's own figures and explains the dash: cumulative contributions 16,439.41 + 60.00 = 16,499.41, cumulative expenses 16,499.41, difference exactly 0.00. Nothing was written into the blank cell. This chunk holds no earlier Swink filing, so the cross-filing chain test could not be run; the cover's LAST-REPORT column (14,368.74 / 25 / 14,368.74) is the hook for it."
+ },
+ "escalations": 10,
+ "escalation_note": "600 dpi crops of the cover totals block, Form A rows 1-2, Form B rows 1-3 and row 4, plus two rounds of six single-cell geometry-proof crops (the first round at x=84% clipped the leading digits and was redone at x=80%). No digit needed an arithmetic reversal: both schedules gate exactly on first reading and all three cover identities close. The only judgement calls were conventional, not glyph-level - the trailing-dash 'no cents' figures and the bare-dash balance line.",
+ "notes": "index.csv calls the office County Attorney; the cover's 'Name of Office' line reads 'COUNTY ATTORNEY' (Office District blank) - agrees. Candidate on the form is 'JAMES MATTHEW SWINK', signed 'Jamie M. Swink' (index: Swink) - agrees. Cover date '12/04/14'; clerk stamp 'RCVD 04 DEC 2014'; party Republican. Page 4 is the printed Cache County Code 2.21.040/2.21.050 statute text. PRIVACY: this filing prints PO boxes and ZIPs in the clear on both the cover and Form A ('[street address discarded at read time per PRIVACY.md], LOGAN, UT [street address discarded at read time per PRIVACY.md]' etc.) - all street/PO-box/ZIP/phone detail was discarded at read time and appears nowhere in this record, including the notes. Form A row 2's address wraps onto the next ruled line carrying only a ZIP; per the core brief that continuation is address, not a wrapped name, and was NOT emitted as a row. Contribution row 2 is from the candidate and his spouse jointly (self-funding), transcribed verbatim.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-11-06",
+   "donor_raw": "CACHE GOP",
+   "donor_city": "LOGAN",
+   "donor_state": "UT",
+   "amount": "268.22",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.00,14.09,18.00,1.60@p2",
+   "note": "date written '11/6/14'; amount '$268.22'; the PO box and ZIP printed in the address cell were discarded at read time"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2014-11-30",
+   "donor_raw": "JAMES & KERI SWINK",
+   "donor_city": "PROVIDENCE",
+   "donor_state": "UT",
+   "amount": "1802.45",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.00,15.70,18.00,1.60@p2",
+   "note": "date written '11/30/14'; amount '$1,802.45'; joint contribution from the candidate and spouse (self-funding); the PO box wraps onto the following ruled line as a bare ZIP - address continuation, not a row, and discarded at read time"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-10-30",
+   "vendor_raw": "CACHE VALLEY MEDIA",
+   "purpose": "RADIO ADS",
+   "amount": "1451.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.00,13.24,18.00,1.60@p3",
+   "note": "amount written '1,451 -' - trailing dash after whole dollars means no cents, read as 1451.00 per the currency convention; the reading is confirmed by the page sum closing on the printed 2,130.67"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2014-10-30",
+   "vendor_raw": "CACHE COUNTY CLERK",
+   "purpose": "VOTER LISTS",
+   "amount": "268.22",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.00,15.42,18.00,1.60@p3",
+   "note": "amount '268.22' - the same figure as contribution row 1 from CACHE GOP, which is the filer's own coincidence, transcribed as written"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2014-10-31",
+   "vendor_raw": "FACEBOOK",
+   "purpose": "ADVERTISING",
+   "amount": "61.45",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.00,17.61,18.00,1.60@p3",
+   "note": "amount '61.45'"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2014-10-31",
+   "vendor_raw": "ACE BANNER",
+   "purpose": "SIGNS",
+   "amount": "350.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.00,19.79,18.00,1.60@p3",
+   "note": "date cell written '10/31 4' with a gap before the year digit; read 10/31/14, consistent with the three rows above and the report period; amount written '350 -' - trailing dash means no cents, read as 350.00"
+  }
+ ]
+}

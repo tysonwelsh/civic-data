@@ -1,0 +1,285 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2024-10-07",
+   "donor_raw": "JOLYNN SNELGROVE",
+   "occupation": "TESTING COORDINATOR / JORDAN SCHOOL DISTRICT",
+   "amount": "5900.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;occupation=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.88,21.86,84.62,3.59@p3",
+   "note": "name right edge at the redaction bar; occupation two printed lines, left-clipped by the bar (visible leading glyphs 's.') and right edges at the cell rule - only legible glyphs transcribed; amount printed '5,900.' + cents tick; city/state redacted at source"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-10-07",
+   "donor_raw": "RICHARD SNELGROVE",
+   "occupation": "PRESIDENT / SNELGROVE TRAVEL INC.",
+   "amount": "6000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.88,25.45,84.62,3.68@p3",
+   "note": "occupation two printed lines, line 2 right edge at the amount column rule; amount leading currency glyph handwritten like '#'; city/state redacted at source"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-10-11",
+   "donor_raw": "SNELGROVE TRAVEL CENTER INC.",
+   "occupation": "CORPORATION",
+   "amount": "6000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.88,29.13,84.62,3.66@p3",
+   "note": "donor name wraps two printed lines 'SNELGROVE TRAVEL' / 'CENTER INC.'; amount leading currency glyph handwritten like '#'; city/state redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-09-20",
+   "vendor_raw": "DFCU",
+   "purpose": "BANK FEES",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,23.00,77.05,3.70@p4",
+   "note": "vendor printed 'D F C U' spaced; amount '5.' + cents tick"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-10-20",
+   "vendor_raw": "DFCU",
+   "purpose": "BANK FEES",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,26.70,77.05,3.68@p4",
+   "note": "date printed '10 20-24' without the middle dash; amount '5.' + cents tick"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-09-30",
+   "vendor_raw": "MAVERICK",
+   "purpose": "GAS",
+   "amount": "54.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,30.38,77.05,3.66@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2024-10-11",
+   "vendor_raw": "SAMS CLUB",
+   "purpose": "GAS",
+   "amount": "48.10",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,34.04,77.05,3.63@p4",
+   "note": "amount printed '48-10'"
+  },
+  {
+   "line_no": 5,
+   "date": "2024-10-25",
+   "vendor_raw": "SAMS CLUB",
+   "purpose": "GAS",
+   "amount": "45.14",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,37.67,77.05,3.67@p4",
+   "note": "amount printed '45-14'; 600dpi re-read identical - candidate cent-field for the 0.27 page delta but reads the same twice"
+  },
+  {
+   "line_no": 6,
+   "date": "2024-10-07",
+   "vendor_raw": "HOME DEPOT",
+   "purpose": "SIGN SUPPLIES",
+   "amount": "98.80",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,41.34,77.05,3.63@p4",
+   "note": "amount printed '98-' + superscript '80'"
+  },
+  {
+   "line_no": 7,
+   "date": "2024-10-09",
+   "vendor_raw": "MORGAN & MAY",
+   "purpose": "CAMPAIGN WORK & CONSULT",
+   "amount": "1500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,44.97,77.05,3.66@p4",
+   "note": "purpose runs to the amount column rule and is clipped - only the legible glyphs 'CAMPAIGN WORK & CONSULT' transcribed; amount '1,500.' + cents tick"
+  },
+  {
+   "line_no": 8,
+   "date": "2024-10-14",
+   "vendor_raw": "PACIFIC CAMPAIGN SOLUTIONS",
+   "purpose": "ADVERTISING",
+   "amount": "13300.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,48.63,77.05,3.66@p4",
+   "note": "vendor name wraps two printed lines; amount printed '13,3 00.' + cents tick"
+  },
+  {
+   "line_no": 9,
+   "date": "2024-09-22",
+   "vendor_raw": "GO DADDY",
+   "purpose": "WEB SITE SUPPORT",
+   "amount": "180.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,52.29,77.05,3.71@p4",
+   "note": "amount printed '180.' + cents tick"
+  },
+  {
+   "line_no": 10,
+   "date": "2024-09-26",
+   "vendor_raw": "PACIFIC CAMPAIGN SOLUTIONS",
+   "purpose": "ADVERTISING",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.25,56.00,77.05,3.66@p4",
+   "note": "vendor name wraps two printed lines; amount printed '2,000.' + cents tick"
+  }
+ ],
+ "total_contributions": "17900.00",
+ "total_expenditures": "17236.91",
+ "beginning_balance": "2598.00",
+ "ending_balance": "3261.09",
+ "aggregate": {
+  "total_contributions_to_date": "22526.00",
+  "total_expenditures_to_date": "19264.91",
+  "line5_subtotal": "20498.00"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "COUNTY RECORDER",
+  "district_number": "",
+  "report_type": "Seven days before a general election - 2024 form 'For a Candidate'",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2024-10-29",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Snelgrove-Richard__C87FD77A.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Snelgrove, Richard",
+  "office": "Recorder",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Snelgrove-Richard__C87FD77A.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Whole filing handwritten. Form titled '2024 Financial Disclosure Report For a Candidate'; 'Seven days before a general election' box X'd; amendment Yes/No neither checked. Signed/received 10-29-2024, matching index date. Cover Office RECORDER / Office Sought COUNTY RECORDER - not school board. Bar covers the Complete Mailing Address column on p3 (city/state redacted at source on all 3 rows). Occupation cells are two-line; row 1 occupation left-clipped by the bar. Amounts on p3 carry a handwritten currency glyph shaped like '#'. Column B line 1 cents verified '00' at 1200dpi - the sibling Year-End filing (401c6509) prints what reads as 22,526.50 in the same field: cross-filing aggregate inconsistency of $0.50, each page reported verbatim. Balance chain closes on both Column A and Column B arithmetic.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "17900.00",
+     "schedule_total": "17900.00",
+     "itemized": "17900.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "3 rows 5,900.00+6,000.00+6,000.00 = 17,900.00 = printed subtotal = TOTAL = Summary line 1 Col A"
+    },
+    "expenditures": {
+     "stated": "17236.91",
+     "schedule_total": "17236.91",
+     "itemized": "17236.64",
+     "basis": "summary-line-2",
+     "result": "delta",
+     "detail": "10 rows sum 17,236.64 against printed subtotal/TOTAL/Summary line 2 all 17,236.91 - delta 0.27. Every amount re-read at 600dpi and reads identically; the 2026-08-20 audit independently summed the same 17,236.64 and flagged the same likely cent-field. The 0.27 is the filer's addition, not a transcription read; both figures retained verbatim"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 17,900.00 = printed subtotal 17,900.00 exact; p4 rows 17,236.64 != printed subtotal 17,236.91 (delta 0.27 - filer arithmetic; both figures named)",
+   "escalations": 5,
+   "escalation_note": "p4 600dpi amount strip rows 1-9 (identical; row 10 2,000.00 read identically at 200dpi twice); p3 600dpi amount/name/occupation crops rows 1-3; p2 ColB line 1 cents 1200dpi (clean '00' ticks)",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 10,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Whole filing handwritten. Form titled '2024 Financial Disclosure Report For a Candidate'; 'Seven days before a general election' box X'd; amendment Yes/No neither checked. Signed/received 10-29-2024, matching index date. Cover Office RECORDER / Office Sought COUNTY RECORDER - not school board. Bar covers the Complete Mailing Address column on p3 (city/state redacted at source on all 3 rows). Occupation cells are two-line; row 1 occupation left-clipped by the bar. Amounts on p3 carry a handwritten currency glyph shaped like '#'. Column B line 1 cents verified '00' at 1200dpi - the sibling Year-End filing (401c6509) prints what reads as 22,526.50 in the same field: cross-filing aggregate inconsistency of $0.50, each page reported verbatim. Balance chain closes on both Column A and Column B arithmetic."
+  }
+ }
+}

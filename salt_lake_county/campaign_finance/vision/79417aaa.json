@@ -1,0 +1,221 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2019-02-25",
+   "vendor_raw": "USPS",
+   "purpose": "Post Office Box Rental",
+   "amount": "92.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.53,12.56,74.27,1.69@p5",
+   "note": "row read off the filer's own attachment (p5, headed 'Expenses for Period Ending December 31, 2019'); the attachment has no address column and no in-kind column"
+  },
+  {
+   "line_no": 2,
+   "date": "2019-03-31",
+   "vendor_raw": "Utah Pride Center",
+   "purpose": "Parade Deposit",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.53,14.25,74.27,1.68@p5",
+   "note": "row read off the filer's own attachment (p5, headed 'Expenses for Period Ending December 31, 2019'); the attachment has no address column and no in-kind column"
+  },
+  {
+   "line_no": 3,
+   "date": "2019-03-31",
+   "vendor_raw": "Utah Stonewall Democrats",
+   "purpose": "Donation",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.53,15.93,74.27,1.68@p5",
+   "note": "row read off the filer's own attachment (p5, headed 'Expenses for Period Ending December 31, 2019'); the attachment has no address column and no in-kind column"
+  },
+  {
+   "line_no": 4,
+   "date": "2019-05-01",
+   "vendor_raw": "Utah Pride Center",
+   "purpose": "Parade Fee",
+   "amount": "775.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.53,17.61,74.27,1.66@p5",
+   "note": "row read off the filer's own attachment (p5, headed 'Expenses for Period Ending December 31, 2019'); the attachment has no address column and no in-kind column"
+  },
+  {
+   "line_no": 5,
+   "date": "2019-05-19",
+   "vendor_raw": "Les Madeleines",
+   "purpose": "Campaign Lunch",
+   "amount": "47.97",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.53,19.27,74.27,1.70@p5",
+   "note": "row read off the filer's own attachment (p5, headed 'Expenses for Period Ending December 31, 2019'); the attachment has no address column and no in-kind column"
+  },
+  {
+   "line_no": 6,
+   "date": "2019-09-07",
+   "vendor_raw": "Circle The Wagons",
+   "purpose": "Donation",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.53,20.97,74.27,1.64@p5",
+   "note": "row read off the filer's own attachment (p5, headed 'Expenses for Period Ending December 31, 2019'); the attachment has no address column and no in-kind column"
+  },
+  {
+   "line_no": 7,
+   "date": "2019-10-04",
+   "vendor_raw": "Sapa Sushi Bar",
+   "purpose": "Campaign Lunch",
+   "amount": "75.04",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.53,22.61,74.27,1.66@p5",
+   "note": "row read off the filer's own attachment (p5, headed 'Expenses for Period Ending December 31, 2019'); the attachment has no address column and no in-kind column"
+  },
+  {
+   "line_no": 8,
+   "date": "2019-10-12",
+   "vendor_raw": "Alliance House",
+   "purpose": "Donation",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:14.53,24.27,74.27,1.66@p5",
+   "note": "row read off the filer's own attachment (p5, headed 'Expenses for Period Ending December 31, 2019'); the attachment has no address column and no in-kind column"
+  }
+ ],
+ "total_contributions": "$ 0.00",
+ "total_expenditures": "$ 1,265.01",
+ "beginning_balance": "$ 11,414.89",
+ "ending_balance": "$ 10,149.88",
+ "aggregate": {
+  "total_contributions_to_date": "$ 0.00",
+  "total_expenditures_to_date": "$ 1,265.01",
+  "line5_subtotal": "$ 11,414.89"
+ },
+ "cover": {
+  "candidate": "Sim Gill",
+  "party": "Democrat",
+  "office_sought": "District Attorney",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year (Required by all open campaign committees)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1/31/20",
+  "form_year": "2019"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/sim-gill-redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sim Gill",
+  "office": "District Attorney",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/sim-gill-redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "SHAPE: two different shapes again, but the opposite way round from this chunk's other filing. Contributions are county-grid (the county Schedule A page is present and carries the filer's 'NONE'); expenditures are attachment-behind-stub (county Schedule B page present, 'See Attached' in the first row, its own TOTAL cell nevertheless filled in at $1,265.01). Nothing on this filing is rotated - every page is upright as poppler renders it. FORM FAMILY: this is the 2019 vintage, which adds the trailing Other-Campaign-Accounts pages. Both ITEMIZED Other-Accounts pages are present (p6 contributions, p7 expenditures) and both read 'NONE' with a $0.00 TOTAL. They are a DIFFERENT table from the standard Summary Page and their figures were NOT merged into either side of this record. Their Occupation column is headed 'Occupation AND Employer', a different wording from the standard Schedule A's 'Occupation/Employer' - worth knowing for a parser. MISSING PAGE, RECORDED NOT RECONSTRUCTED: the county form's own page numbering on this filing runs 2, 3, 4, then 6, 7 'of 7'. The page numbered 'Page 5 of 7' - the 'Summary Page - Other Campaign Accounts' - is NOT in the county's scan; the filer's expense attachment sits in that physical slot and carries no county page box of its own. Nothing in this record depends on the absent page (both Other-Accounts itemized pages state $0.00 totals), and no figure was inferred for it. OCCUPATION: Schedule A's 'Occupation/Employer' column exists on the county grid and is empty because the schedule has no rows - not a missing column and not a redaction. DOCUMENT vs CHUNK FILE: the form AGREES with the chunk file on candidate (Sim Gill), office (the form's Office line and its Office Sought line both read 'District Attorney' - a Salt Lake County county office, in scope), report type (Year-End, January 31 box checked, amendment 'No' ticked) and date (signature 1/31/20, clerk RECEIVED stamp JAN 31 2020, every page box 'Date of Report 1/31/20' - all consistent, unlike this chunk's other filing). PRIOR-FILER SEMANTIC CHECKED AND NOT PRESENT: the 2026-08-02 totals tranche recorded Gill's 2007 filing as one of the two that put a CUMULATIVE figure in Column A (its finding 12). That is NOT what this 2019 filing does - Column A equals Column B on lines 1 and 2 and the balance chain closes on the Column-A figures, so these stated_* are per-period and comparable. PRIVACY: cover street address, phone, fax and email are all under the county's black bar; the expense attachment has no address column; there are no donor rows on this filing at all, so nothing of that kind was read or recorded. The county's own preprint misspells 'TOTAL EXPENDITUTRES MADE' on p4 and p7 - a form defect, not a transcription error.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "5",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$ 0.00",
+     "schedule_total": "$ 0.00",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "The county Schedule A page IS present (p3) and the filer typed 'NONE' across the first data row's Name of Contributor cell. SUBTOTAL FOR THIS PAGE is printed and left blank; TOTAL CONTRIBUTIONS RECEIVED reads $0.00, equal to Summary line 1 Column A and Column B. ZERO rows emitted - 'NONE' is the filer's declaration, not a transaction, so it is not transcribed as a row. This is a REAL ZERO (the page exists and was read), not a gap and not a 'none'."
+    },
+    "expenditures": {
+     "stated": "$ 1,265.01",
+     "schedule_total": "$1,265.01",
+     "itemized": "1265.01",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "8 rows on the filer attachment (p5) sum to 1,265.01, which equals THREE printed anchors that all agree: the attachment's own 'Total Expenses - Period Ending 12/31/19  $1,265.01'; the county Schedule B page's TOTAL EXPENDITUTRES MADE cell ($1,265.01, p4); and Summary line 2 Column A ($1,265.01) = Column B. No in-kind marker appears on any row and the attachment has no in-kind column, so there is no in-kind exclusion to test and no schedule-total-vs-summary-gap."
+    }
+   },
+   "page_subtotal_gates": "NOT AVAILABLE on this filing. Both county grid pages print 'SUBTOTAL FOR THIS PAGE' and leave the cell BLANK while carrying a figure in the TOTAL row (p3 subtotal blank / TOTAL $0.00; p4 subtotal blank / TOTAL $1,265.01) - exactly the pattern the brief documents in \u00a71(2). The filer attachment (p5) prints no per-page subtotal either, only a grand total. Gated on the grand totals instead, and both sides close exactly.",
+   "escalations": 3,
+   "escalation_note": "p5 attachment table re-rendered as two tight 600 dpi half-width crops (Date+Recipient, Purpose+Amount) - all 8 rows read identically. Summary Page Column A re-rendered as one tight 600 dpi column crop - all seven line values read identically. No page is rotated on this filing, so no rotation step was needed.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 8,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "SHAPE: two different shapes again, but the opposite way round from this chunk's other filing. Contributions are county-grid (the county Schedule A page is present and carries the filer's 'NONE'); expenditures are attachment-behind-stub (county Schedule B page present, 'See Attached' in the first row, its own TOTAL cell nevertheless filled in at $1,265.01). Nothing on this filing is rotated - every page is upright as poppler renders it. FORM FAMILY: this is the 2019 vintage, which adds the trailing Other-Campaign-Accounts pages. Both ITEMIZED Other-Accounts pages are present (p6 contributions, p7 expenditures) and both read 'NONE' with a $0.00 TOTAL. They are a DIFFERENT table from the standard Summary Page and their figures were NOT merged into either side of this record. Their Occupation column is headed 'Occupation AND Employer', a different wording from the standard Schedule A's 'Occupation/Employer' - worth knowing for a parser. MISSING PAGE, RECORDED NOT RECONSTRUCTED: the county form's own page numbering on this filing runs 2, 3, 4, then 6, 7 'of 7'. The page numbered 'Page 5 of 7' - the 'Summary Page - Other Campaign Accounts' - is NOT in the county's scan; the filer's expense attachment sits in that physical slot and carries no county page box of its own. Nothing in this record depends on the absent page (both Other-Accounts itemized pages state $0.00 totals), and no figure was inferred for it. OCCUPATION: Schedule A's 'Occupation/Employer' column exists on the county grid and is empty because the schedule has no rows - not a missing column and not a redaction. DOCUMENT vs CHUNK FILE: the form AGREES with the chunk file on candidate (Sim Gill), office (the form's Office line and its Office Sought line both read 'District Attorney' - a Salt Lake County county office, in scope), report type (Year-End, January 31 box checked, amendment 'No' ticked) and date (signature 1/31/20, clerk RECEIVED stamp JAN 31 2020, every page box 'Date of Report 1/31/20' - all consistent, unlike this chunk's other filing). PRIOR-FILER SEMANTIC CHECKED AND NOT PRESENT: the 2026-08-02 totals tranche recorded Gill's 2007 filing as one of the two that put a CUMULATIVE figure in Column A (its finding 12). That is NOT what this 2019 filing does - Column A equals Column B on lines 1 and 2 and the balance chain closes on the Column-A figures, so these stated_* are per-period and comparable. PRIVACY: cover street address, phone, fax and email are all under the county's black bar; the expense attachment has no address column; there are no donor rows on this filing at all, so nothing of that kind was read or recorded. The county's own preprint misspells 'TOTAL EXPENDITUTRES MADE' on p4 and p7 - a form defect, not a transcription error."
+  }
+ }
+}

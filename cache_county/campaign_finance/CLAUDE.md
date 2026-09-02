@@ -6,11 +6,14 @@ Modifies nothing else. Completes **elections → officeholders → votes** at th
 who funded the people whose roll-call votes live in `../legislative/` and `../land_use/`,
 and whose wins are in `../elections/`.
 
-**Read `AVAILABILITY.md` before quoting any number from here.** The headline caveats are
-now: **itemized donor/vendor rows exist for the 2022+ BORN-DIGITAL subset only** (21 of 239
-filings, 32 contribution + 111 expenditure rows, each side reconciled to the cent — the
-handwritten Carr era has stated totals only), and **5 filings still have no established
-office**.
+**Read `AVAILABILITY.md` before quoting any number from here.** The headline state, as of
+**2026-08-24**: **the itemized layer is COMPLETE for every document this dataset holds** —
+the 2026-08-02 born-digital slice plus the **176 of 176 remaining distinct documents**
+transcribed from page images in the Phase-B final vision wave. `contributions.csv` **756 rows**
+/ `expenditures.csv` **1,466** over **179 filings**, 100% `pct:`-geometry-anchored, **zero sides
+withheld**. Two things still bite: **an empty itemized side has THREE meanings and none is "no
+donors"** (empty schedule · no schedule page in the PDF at all · a filer who states a figure he
+never itemizes), and **5 filings still have no established office**.
 
 ## What this is
 
@@ -175,7 +178,8 @@ filers exist, they are not these.
 
 ## The money layer — what exists and what does not
 
-**Each filing's own STATED TOTALS are transcribed. NO ITEMIZED ROWS ARE.**
+**Each filing's own STATED TOTALS are transcribed, AND SO IS EVERY ITEMIZED SCHEDULE THE
+COUNTY HOLDS** (queue closed 2026-08-24 — see AVAILABILITY.md "THE ITEMIZED LAYER").
 
 - `filing_totals.csv` — 239 rows, the shared SCHEMA.md §4 column contract exactly.
   **210 rows carry a stated contributions figure, 212 a stated expenditures figure**,
@@ -198,9 +202,16 @@ filers exist, they are not these.
   cross-channel byte-duplicate is parsed once and applied to every index row sharing those
   bytes. Rows carry `donor_city` / `donor_state` only; the street portion of the free-typed
   address is discarded by `common.split_city_state` and never stored.
-  **The handwritten Carr era (pre-2022) itemizes nothing** — that is NOT TRANSCRIBED, never
-  "no donors", which is why those `reconciles_*` stay blank (unknown) and never `False`.
-  To ask "who gave to X" outside the born-digital subset, open the raw PDF.
+  **The handwritten Carr era is NOW ITEMIZED TOO** (2026-08-24): 176 of 176 remaining distinct
+  documents read from page images into `vision_itemized/<key>.json`, adding 724 contribution and
+  1,355 expenditure rows. Every side is scored against the printed figure that matches its own
+  scope — the Carr form prints NO schedule total, so the COVER LINE is the only anchor, and
+  Form "A" is scored against **line 1 (over $50)**, never against `stated_total_contributions`
+  (= line 1 + the never-itemized ≤$50 aggregate). 282 sides exact · 26 filer-arithmetic deltas
+  published verbatim · 44 `unknown` where the page prints no anchor of any scope · **0 withheld**.
+  `is_incremental` is decided PER FILING from which printed cell the rows equal.
+  ⚠ **A blank `reconciles_*` is not a failure**, and an empty side is an empty schedule, a
+  missing schedule page, or an un-itemized filer figure — never "no donors".
 
 ### `is_incremental` is a property OF EACH FILING here, not of the county
 Cache's 2022+ form prints **both** a "This Period" and a "Year-to-Date" column, so whether a
@@ -212,6 +223,11 @@ coincide) · `period_and_ytd_differ` 24 (genuinely incremental) · `period_only`
 
 ## Caveats / do-nots
 
+- **⚠ TWO DUPLICATE CLASSES, and `sha256` only sees the first.** Besides the byte-identical
+  copies below, **26 filings are the SAME REPORT RE-SCANNED with different bytes** — flagged
+  `CONTENT-DUPLICATE` in `filing_totals.notes` (identical multiset of dated, named, priced rows
+  for one candidate + cycle). One is a photocopy of an earlier filing re-dated, betrayed by the
+  earlier clerk stamp reproduced at its foot. **Count each report ONCE on both classes.**
 - **Never sum rows without grouping on `sha256`.** 42 index rows are byte-identical copies
   served by a second channel (82 rows sit in a duplicate group; **197 distinct documents in
   239 rows**). They are kept because three publications of one filing are three real facts.

@@ -1,0 +1,102 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C07.json",
+ "key": "3e2a2f16",
+ "index_path": "raw/2014/2014_cc_Howell_Oct_28_14_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Howell_Oct_28_14_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "78e009070c3b0a4b",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "cover_expense_last": "",
+    "cover_expense_this": "618.00",
+    "cover_expense_cum": "618.00",
+    "cover_balance_end": "- 618.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "EMPTY SCHEDULE, and it is a real zero, not a gap: Form A (page 2) carries no entry on any of its ~40 ruled lines - only faint scanner show-through in no column pattern - and the cover's line 1 reads a plain numeral 0 in ALL THREE columns (LAST, THIS, CUMULATIVE), as does line 2 (the $50-or-less aggregate). This candidate raised nothing and self-funded nothing; the whole campaign is the 618.00 filing fee on Form B. Zero rows emitted, 0.00 == cover line 1 == 0."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "618.00",
+    "cover_expense_cum": "618.00",
+    "cover_balance_end": "- 618.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "618.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "The single Form B row (618.00) equals cover line 3 in BOTH the THIS and CUMULATIVE cells; the LAST cell is left blank (line 1 and line 2 use an explicit 0 there, line 3 and 4 are left empty - the filer was inconsistent, transcribed verbatim). Form B prints no schedule total."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints NO page subtotal or schedule total; gates run against the cover. p2: zero rows = cover line 1 (0). p3: one row 618.00 = cover line 3 THIS/CUM 618.00 (exact).",
+  "row_count": "p2 ink-profile scan across the full ruled width finds no inked entry in any date/name/address/amount cell - the marks it returns are faint show-through at grey levels well below the pen ink, spread over the whole sheet rather than aligned to columns, and a full-page 200 dpi read confirms the schedule is unwritten -> 0 rows, 0 emitted. p3 ink scan of the amount column finds exactly ONE inked band (ypx 230-274) and nothing below -> 1 row, 1 emitted.",
+  "geometry_proof": "p3 the side has a single row, so first == last: the crop pct 82.00,10.45,15.00,2.00 renders '618.00'; a full-width strip across the same band renders '3-17-2014 | Cache County Clerk | filing fee | 618.00'; the control one row-pitch below (ypx 280-325) renders EMPTY. p2 has no rows to point at.",
+  "balance_chain": "Cover line 4 is written ONLY in the CUMULATIVE cell, as '- 618.00' (negative). Chain: 0 + 0 + 0 - 618.00 = -618.00 - CLOSES EXACTLY. This is a candidate whose only campaign transaction was the filing fee, paid from personal funds without recording it as a contribution, which is why the ending balance is negative."
+ },
+ "escalations": 4,
+ "escalation_note": "600 dpi full-width crop of the single p3 row; 600 dpi control crop one pitch below (empty); 600 dpi + -normalize crops of the cover anchor block and of the line-3/line-4 pair (needed because the line-4 figure sits only in the CUMULATIVE column and carries a leading minus sign that a 90 dpi contact sheet could have dropped).",
+ "notes": "index.csv says candidate 'Howell', office 'Assessor'; the cover reads 'Full Name of Candidate: Kathleen C. Howell' and 'Name of Office: Cache County Assessor' - AGREES, county office, in scope. Political Party Republican; Office District blank; report dated 10-10-2014 by the filer and clerk-stamped 'RCVD 10 OCT 2014' (the chunk file's date field 2014-10-28 is the county's posting date, not the form's). The cover's zeros are PLAIN NUMERAL ZEROS, not slashed nil marks, so no zero-glyph ruling was needed. Candidate home address and both phone numbers are printed in the clear on the cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-03-17",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "filing fee",
+   "amount": "618.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,10.45,15.00,2.00@p3",
+   "note": "date written '3-17-2014' with hyphens and a full four-digit year - cleanly parseable"
+  }
+ ]
+}

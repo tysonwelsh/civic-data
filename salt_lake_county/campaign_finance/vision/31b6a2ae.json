@@ -1,0 +1,104 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0",
+ "total_expenditures": "0",
+ "beginning_balance": "15,371.62",
+ "ending_balance": "15,371.62",
+ "aggregate": {
+  "total_contributions_to_date": "15,671.62",
+  "total_expenditures_to_date": "300.00",
+  "line5_subtotal": "15,371.62"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "SLCO Council",
+  "district_number": "6",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-2019",
+  "form_year": "2018"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__2018_year_end__max-burdick_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/2018_disclosures__2018_year_end__max-burdick_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Cover is p1 and agrees with the chunk file: Max Burdick, Office 'Council Dist. 6', Republican, Office Sought 'SLCO Council' District 6, YEAR-END 'January 31 of each year' box checked, signed 1-31-2019, RECEIVED IN OFFICE JAN 31 2019. The 'Is this report an amendment?' question has NEITHER Yes NOR No ticked - is_amendment is left blank, not 'No'. Street address / city / state / zip, the phone-fax-email band and the signature line are covered by the county's black bar (redacted at source). ZERO-GLYPH RULING APPLIED FIVE TIMES: Summary lines 1A, 2A, 4 and 6 and both schedule grand totals are a slashed zero (an ellipse with a horizontal stroke through it) - a glyph DENOTING zero, transcribed as 0 with the verbatim glyph described here, never left blank and never treated as a nil dash. Cents throughout are written as a SUPERSCRIPT over a rule ('15,371.' with a raised 62), transcribed with a decimal point. Line 2 Column B is printed '300.' with a raised DASH where the cents go - a trailing dash after whole dollars means no cents, so 300.00, noted. The Summary Page's own header box is filled in: Page 1 of 1, Last Name Burdick, Date of Report 1-31-2019 (the '1 of 1' is the filer numbering that sheet, not the 5-page PDF). PAGE 5 IS A DIFFERENT TABLE AND WAS NOT USED FOR ANY FIGURE: it is the 'Summary Page - Other Campaign Accounts' variant whose Column B header reads 'Year to Date', not 'Aggregate Total'; its lines 1, 2 and 4 are marked 'N/A', lines 3, 5, 6, 7 are blank, and the whole block is struck through with one diagonal line. The two Summary Pages are not interchangeable and nothing from p5 was carried into totals.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "A REAL ZERO, not a gap: the county Schedule A page (p3) is present, its 16 ruled data rows are entirely EMPTY and struck through with a single diagonal pen line, its SUBTOTAL cell is blank, and its 'TOTAL CONTRIBUTIONS RECEIVED' cell carries a slashed-zero glyph. That is 0 per the repo's zero-glyph ruling, and it equals Summary line 1 Column A, which is the same slashed-zero glyph. Zero rows emitted."
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "Same shape: the Schedule B page (p4) is present, all 14 ruled data rows EMPTY and struck through with one diagonal line, SUBTOTAL blank, and 'TOTAL EXPENDITUTRES MADE' carries a slashed-zero glyph = 0 = Summary line 2 Column A (also a slashed zero). A real zero. Zero rows emitted."
+    }
+   },
+   "page_subtotal_gates": "p3 and p4 both print 'SUBTOTAL FOR THIS PAGE' and both cells are LEFT BLANK; the schedule grand-total cells each carry a slashed-zero glyph. With zero transcribed rows on each side the gate is trivially satisfied (0 = 0).",
+   "escalations": 4,
+   "escalation_note": "p2 line-1 Columns A+B cell crop at 1200 dpi (confirmed the Column-A slashed zero and read 15,671 - the hundreds digit is 6, distinct from lines 3/5/7's 15,371); p2 lines 3-7 Column-A band at 600 dpi (confirmed 15,371.62 / slashed zero / 15,371.62 / slashed zero / 15,371.62); p2 line-2 Columns A+B at 1200 dpi, twice (the first crop landed off the row).",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Cover is p1 and agrees with the chunk file: Max Burdick, Office 'Council Dist. 6', Republican, Office Sought 'SLCO Council' District 6, YEAR-END 'January 31 of each year' box checked, signed 1-31-2019, RECEIVED IN OFFICE JAN 31 2019. The 'Is this report an amendment?' question has NEITHER Yes NOR No ticked - is_amendment is left blank, not 'No'. Street address / city / state / zip, the phone-fax-email band and the signature line are covered by the county's black bar (redacted at source). ZERO-GLYPH RULING APPLIED FIVE TIMES: Summary lines 1A, 2A, 4 and 6 and both schedule grand totals are a slashed zero (an ellipse with a horizontal stroke through it) - a glyph DENOTING zero, transcribed as 0 with the verbatim glyph described here, never left blank and never treated as a nil dash. Cents throughout are written as a SUPERSCRIPT over a rule ('15,371.' with a raised 62), transcribed with a decimal point. Line 2 Column B is printed '300.' with a raised DASH where the cents go - a trailing dash after whole dollars means no cents, so 300.00, noted. The Summary Page's own header box is filled in: Page 1 of 1, Last Name Burdick, Date of Report 1-31-2019 (the '1 of 1' is the filer numbering that sheet, not the 5-page PDF). PAGE 5 IS A DIFFERENT TABLE AND WAS NOT USED FOR ANY FIGURE: it is the 'Summary Page - Other Campaign Accounts' variant whose Column B header reads 'Year to Date', not 'Aggregate Total'; its lines 1, 2 and 4 are marked 'N/A', lines 3, 5, 6, 7 are blank, and the whole block is struck through with one diagonal line. The two Summary Pages are not interchangeable and nothing from p5 was carried into totals."
+  }
+ }
+}

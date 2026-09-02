@@ -144,9 +144,36 @@ def money(raw):
 
 
 def iso_date(raw):
-    """Normalize the form's own Date of Report to ISO. Ambiguous/illegible -> blank."""
+    """Normalize a printed date to ISO. Ambiguous/illegible -> blank.
+
+    SEPARATORS `/`, `-` and `.` are all accepted: on these handwritten schedules the same
+    filer writes `10-15-14` and `10.17.14` on adjacent lines (Graves 2014 p3), and a period
+    is the SAME M-D-YY grammar with a different pen stroke, not a malformed value. The
+    pattern stays anchored and range-checked, so nothing ambiguous is admitted. A date this
+    cannot read is BLANKED and the caller flags the row `needs_review=1` — a legible date is
+    never silently dropped, and a missing year is NEVER filled in from the report date.
+    """
     s = (raw or '').strip()
-    m = re.match(r'^(\d{1,2})[/-](\d{1,2})[/-](\d{2,4})$', s)
+    # `D-Mon-YY` / `D-Mon-YYYY` (`11-Nov-17`, `5-May-2018`) — the spreadsheet default format.
+    # Added 2026-08-19: a Phase B filer's own typed ledger dates ALL 119 of its rows this way,
+    # and they were blanking. The month is NAMED, so the value is unambiguous — there is no
+    # day/month order to guess — and this is the same normalization weber's build already
+    # applies, so it follows repo precedent rather than inventing one. Anchored and
+    # range-checked like the numeric branch; anything unrecognised still returns blank and the
+    # caller flags the row.
+    mm = re.match(r'^(\d{1,2})[-/ ]([A-Za-z]{3,9})[-/ ](\d{2,4})$', s)
+    if mm:
+        months = {'jan': 1, 'feb': 2, 'mar': 3, 'apr': 4, 'may': 5, 'jun': 6,
+                  'jul': 7, 'aug': 8, 'sep': 9, 'oct': 10, 'nov': 11, 'dec': 12}
+        mo = months.get(mm.group(2)[:3].lower())
+        if mo:
+            dy, yr = int(mm.group(1)), int(mm.group(3))
+            if yr < 100:
+                yr += 2000
+            if 1 <= dy <= 31 and 2005 <= yr <= 2030:
+                return '%04d-%02d-%02d' % (yr, mo, dy)
+        return ''
+    m = re.match(r'^(\d{1,2})[/.-](\d{1,2})[/.-](\d{2,4})$', s)
     if not m:
         return ''
     mo, dy, yr = int(m.group(1)), int(m.group(2)), int(m.group(3))
@@ -367,6 +394,188 @@ def itemize(r, mod_rows, aliases):
     return crows, erows, patch, notes
 
 
+# ------------------------------------------------------- the VISION-ITEMIZED layer (Phase B)
+# The 245 handwritten scans have no text layer worth parsing, so their donor/vendor lines are
+# READ FROM THE PAGE and land in `vision/<key>.json` under `_meta.itemized` (+ the two row
+# lists), written ONLY by `make_itemized_caches.py` from a per-filing transcription record.
+# This function is the reader. It computes NOTHING about what a row says: the transcriber had
+# the page and its printed anchors in hand and recorded the reconciliation verdict; the sum
+# below is a report of what was transcribed, never a substitute for a figure the form printed.
+#
+# ⚠ THE ANCHOR IS PER-PERIOD (wave brief §2a). `is_incremental` follows the verdict the
+# transcriber actually reached: `exact` / `period-exact` both mean the side closed on a
+# PER-PERIOD printed figure (Column A / Box B / Box D), which is what this module promotes.
+# A side that closed only on the CUMULATIVE column is `cumulative-exact` and is the documented
+# EXCEPTION, not the default — it carries is_incremental=False and says so in the note.
+ITEMIZED_OK = ('exact', 'period-exact', 'cumulative-exact', 'delta', 'unknown')
+
+
+def _side_meta(cache, ri):
+    """(itemized_meta, contrib_rows, expend_rows) for report `ri` (1-based) of a cache."""
+    reports = cache.get('reports') or []
+    if len(reports) > 1 and ri <= len(reports):
+        rep = reports[ri - 1]
+        if (rep.get('_meta') or {}).get('itemized'):
+            return rep['_meta']['itemized'], rep.get('contributions') or [], \
+                rep.get('expenditures') or []
+        return None, [], []
+    it = (cache.get('_meta') or {}).get('itemized')
+    if it and ri == 1:
+        return it, cache.get('contributions') or [], cache.get('expenditures') or []
+    return None, [], []
+
+
+def itemize_vision(r, mod_row, cache, ri, aliases):
+    """Emit the vision-transcribed itemized rows for ONE report. Returns (c, e, patch, notes)."""
+    it, craw, eraw = _side_meta(cache, ri)
+    if not it:
+        return [], [], {}, []
+    notes, patch = [], {}
+    recon = it.get('recon') or {}
+    sides = it.get('sides') or {}
+    withheld = it.get('withheld_reason') or {}
+    # ⚠ THE ITEMIZED ROW'S `candidate` IS THE INDEX'S CANONICAL IDENTITY, not the page face.
+    # `filing_totals.candidate` is the PAGE FACE by design (module CLAUDE.md), and page-face
+    # NAME FORMS vary — `STEVE WHITE` vs `Steve White`, `R Nathan Ivie` vs `Nathan Ivie`,
+    # `Thomas V.` vs `Tom`. Propagating those into the donor rows would (a) fragment one
+    # candidate into several identities downstream, and (b) break the shared validator's
+    # `(candidate, election_year) ∈ index.csv` join on every case variant. So the rows carry
+    # index.csv's label — which `promote_candidates.py` has already filled from the page face
+    # wherever the channel named no filer, and REATTRIBUTED wherever the channel named the
+    # WRONG filer (the Child/Dayton case). The verbatim page face is preserved where the module
+    # puts it: `filing_totals.candidate`, its `notes`, and the vision transcript.
+    idx_cand = (r.get('candidate') or '').strip()
+    base = dict(candidate=idx_cand or mod_row['candidate'], office=mod_row['office'], seat='',
+                election_year=mod_row['election_year'], filing_date=mod_row['filing_date'],
+                reporting_period=mod_row['reporting_period'], source_filing=r['path'],
+                document_id=mod_row['document_id'],
+                extract_method='vision/%s' % (it.get('wave') or 'itemized-vision'))
+
+    def mk(cls, raw, is_contrib):
+        out = []
+        for i, x in enumerate(raw, 1):
+            amt, note = money(x.get('amount'))
+            row = cls(**base)
+            raw_date = (x.get('date') or '').strip()
+            row.date = iso_date(raw_date) or ''
+            row.amount = amt or ''
+            row.in_kind = 'True' if str(x.get('in_kind')).lower() in ('true', '1') else 'False'
+            row.line_no = str(x.get('line_no') or i)
+            row.needs_review = '1' if str(x.get('needs_review')) in ('1', 'True') else '0'
+            # SCHEMA §6 caps a page image at the OCR tier: never `high` on a scan.
+            c = (x.get('confidence') or 'medium').lower()
+            row.extraction_confidence = c if c in ('medium', 'low') else 'medium'
+            row.geometry = x.get('geometry') or ''
+            if is_contrib:
+                row.donor_raw = x.get('donor_raw') or ''
+                row.donor_city = x.get('donor_city') or ''   # PRIVACY: city/state only,
+                row.donor_state = x.get('donor_state') or ''  # never a street address
+                normalize_donors.normalize_contrib(row, base['candidate'], aliases)
+            else:
+                row.vendor_raw = x.get('vendor_raw') or ''
+                row.purpose = x.get('purpose') or ''
+                normalize_donors.normalize_vendor(row)
+            if note and not row.amount:
+                row.needs_review = '1'
+            if raw_date and not row.date:
+                # The filer wrote SOMETHING and the normalizer could not read it (a missing
+                # year, a range, two dates in one cell, an impossible day). Blank is correct —
+                # a year is never filled in from the report date — but the loss must be
+                # VISIBLE, never silent. The verbatim string survives in vision/<key>.json.
+                row.needs_review = '1'
+            out.append(row)
+        return out
+
+    crows = mk(common.ContribRow, craw, True)
+    erows = mk(common.ExpendRow, eraw, False)
+
+    for side, rows_, key in (('contrib', crows, 'contributions'),
+                             ('expend', erows, 'expenditures')):
+        state = sides.get(key, '')
+        v = (recon.get(key) or {})
+        result = (v.get('result') or '').lower()
+        # is_incremental FOLLOWS THE ANCHOR THE TRANSCRIBER ACTUALLY USED (§2a).
+        inc = 'False' if result == 'cumulative-exact' else 'True'
+        for x in rows_:
+            x.is_incremental = inc
+        if rows_:
+            ssum = round(sum(float(x.amount) for x in rows_ if x.amount), 2)
+            patch['itemized_%s_sum' % side] = common.money_str(ssum)
+            patch['n_%s_rows' % side] = len(rows_)
+            if result in ('exact', 'period-exact'):
+                patch['reconciles_%s' % side] = 'True'
+                patch['recon_delta_%s' % side] = '0.00'
+            elif result == 'cumulative-exact':
+                # ⚠ THE MIRROR IMAGE of the period-basis exception, and it needs the OPPOSITE
+                # treatment. summit/weber publish a PERIOD ledger under a CUMULATIVE cover, and
+                # `validate_finance.py` check 6 has a declared escape hatch for exactly that
+                # (is_incremental=True + the PERIOD-SCOPED marker). Utah's case is reversed: the
+                # SCHEDULE restates the whole cycle while the promoted cover cell is PER-PERIOD
+                # (Henderson 2010 — his schedules sum 1,895.00 -> 23,469.07 -> 25,469.07, each
+                # the running cycle total, against Column A figures of 1,895 / 21,574 / 2,000).
+                #
+                # So `reconciles_*` stays **BLANK = UNKNOWN**, exactly as it does for the
+                # compound `+Inkind` cell: the rows reconcile EXACTLY to a figure the document
+                # prints (Column B), but that is a DIFFERENT SCOPE from the figure this module
+                # publishes, and comparing the two is a basis error, not a reconciliation.
+                # Setting True here would assert a match the published columns do not make, and
+                # would only pass by weakening a shared gate — which this wave does not do.
+                patch['recon_delta_%s' % side] = '0.00'
+                notes.append(
+                    'ITEMIZED %s CUMULATIVE-SCOPED: the schedule restates the WHOLE CYCLE and '
+                    'sums EXACTLY to the cover\'s CUMULATIVE cell (Column B / Box C / Box E), '
+                    'not to the per-period figure this module publishes in stated_total_%s. '
+                    'reconciles_%s is therefore left BLANK (unknown) rather than True — the two '
+                    'figures are different SCOPES and comparing them is a basis error. Both are '
+                    'named in this row: itemized sum %.2f vs stated (per-period) %s.'
+                    % (side, side, side, ssum,
+                       mod_row.get('stated_total_contributions' if side == 'contrib'
+                                   else 'stated_total_expenditures') or '(blank)'))
+            elif result == 'delta':
+                # FILER ARITHMETIC, traced on the page — a fact about the document, retained
+                # verbatim with the delta named. Never nudged to close.
+                patch['reconciles_%s' % side] = 'False'
+                # ⚠ recon_delta_* is filled ONLY from the transcriber's own recorded figure, and
+                # is otherwise left BLANK ON PURPOSE. Deriving it as (itemized sum − stated
+                # total) is WRONG here and was tried and reverted 2026-08-20: a delta side's
+                # anchor is not guaranteed to be the same SCOPE as the per-period figure this
+                # module promotes. Ewell 2024 is the proof — his Schedule B is cumulative-scoped
+                # (its own subtotal = Box E = 2,609.96) while the promoted per-period Box D
+                # prints a bare 0, so the derivation yields 2,729.23 where the delta the page
+                # actually shows is 119.27. The build cannot read the anchor's scope, so it
+                # asserts no number; the traced explanation lives in `notes` (anchor + detail,
+                # ≥744 characters on every one of these sides).
+                if v.get('delta') not in (None, ''):
+                    patch['recon_delta_%s' % side] = str(v['delta'])
+            notes.append('ITEMIZED %s (%s): %d row(s) sum to %.2f; anchor = %s; %s'
+                         % (side, result or 'unverified', len(rows_), ssum,
+                            v.get('anchor') or '(none named)', v.get('detail') or ''))
+            if inc == 'True':
+                # The declared period-basis exception validate_finance.py check 6 requires.
+                notes.append('ITEMIZED %s PERIOD-SCOPED (is_incremental=True)'
+                             % ('contributions' if side == 'contrib' else 'expenditures'))
+        elif state in ('empty-schedule', 'no-schedule-page', 'withheld'):
+            # THREE DIFFERENT FACTS, never conflated (wave brief §4).
+            notes.append('ITEMIZED %s %s: %s' % (side, state.upper(),
+                                                 withheld.get(key) or v.get('detail') or ''))
+
+    if crows:
+        patch['self_funded_amount'] = common.money_str(round(sum(
+            float(x.amount) for x in crows
+            if x.donor_type in ('candidate-self', 'loan') and x.amount), 2))
+    g = it.get('geometry') or {}
+    if crows or erows:
+        notes.append('geometry: %d measured / %d hand-measured / %d unanchored (%s)'
+                     % (g.get('measured', 0), g.get('explicit', 0),
+                        g.get('no_frame', 0) + g.get('row_out_of_frame', 0)
+                        + g.get('withdrawn', 0), g.get('provenance', '')))
+    if it.get('in_kind_convention'):
+        notes.append('in-kind convention that closed: %s' % it['in_kind_convention'])
+    if it.get('notes'):
+        notes.append(it['notes'])
+    return crows, erows, patch, notes
+
+
 def build(idx, vis):
     rows, missing, no_totals = [], [], []
     contrib_rows, expend_rows = [], []
@@ -487,11 +696,40 @@ def build(idx, vis):
                                     else '') + ' '.join(_n)
         mod_rows[0].update({k: v for k, v in patch.items() if v != ''})
 
+    # ---- VISION itemized layer (TRANCHE 3 Phase B, 2026-08-18): the handwritten scans.
+    # A filing carrying BOTH a machine-readable parse and a vision record would be doubly
+    # counted, so the parser path wins and the collision is refused loudly rather than merged.
+    n_vis = 0
+    for r in idx:
+        mod_rows = by_src.get(r['path'])
+        if not mod_rows:
+            continue
+        cache = vis.get(cache_key(r['path']))
+        if not cache:
+            continue
+        mod_rows.sort(key=lambda x: x['document_id'])
+        for ri, mod_row in enumerate(mod_rows, 1):
+            _c, _e, patch, _n = itemize_vision(r, mod_row, cache, ri, aliases)
+            if not (_c or _e or _n):
+                continue
+            if r.get('format') == 'text' and mod_row.get('n_contrib_rows'):
+                raise SystemExit('DOUBLE ITEMIZATION for %s report %d: the registered `%s` '
+                                 'family already published rows for this filing and a vision '
+                                 'record also exists. Resolve at the source — never merge.'
+                                 % (r['path'], ri, FAMILY_ID))
+            n_vis += 1
+            contrib_rows.extend(_c)
+            expend_rows.extend(_e)
+            if _n:
+                mod_row['notes'] = (mod_row['notes'] + '. ' if mod_row['notes']
+                                    else '') + ' '.join(_n)
+            mod_row.update({k: v for k, v in patch.items() if v != ''})
+
     rows.sort(key=lambda x: (x['election_year'], x['office'], x['candidate'],
                              x['source_filing'], x['document_id']))
     contrib_rows.sort(key=lambda x: (x.source_filing, int(x.line_no or 0)))
     expend_rows.sort(key=lambda x: (x.source_filing, int(x.line_no or 0)))
-    return rows, missing, no_totals, contrib_rows, expend_rows, n_mr
+    return rows, missing, no_totals, contrib_rows, expend_rows, n_mr, n_vis
 
 
 def write(path, header, rows):
@@ -515,7 +753,7 @@ def write_rows(path, header, geo_header, rows):
 def main():
     idx = load_index()
     vis = load_vision()
-    rows, missing, no_totals, crows, erows, n_mr = build(idx, vis)
+    rows, missing, no_totals, crows, erows, n_mr, n_vis = build(idx, vis)
     write(D('filing_totals.csv'), TOTALS_HEADER, rows)
     write_rows(D('contributions.csv'), CONTRIB_HEADER, common.CONTRIB_HEADER_GEO, crows)
     write_rows(D('expenditures.csv'), EXPEND_HEADER, common.EXPEND_HEADER_GEO, erows)
@@ -544,8 +782,10 @@ def main():
     nre = sum(1 for r in rows if r['reconciles_expend'] == 'True')
     print('machine-readable filings handed to `%s`: %3d of %d  (sides reconciling exactly: '
           '%d contrib / %d expend)' % (FAMILY_ID, n_mr, len(idx), nrc, nre))
-    print('contributions.csv  %3d rows   expenditures.csv %3d rows  — the 245 handwritten '
-          'scans itemize nothing (NOT transcribed, never "no donors")' % (len(crows), len(erows)))
+    print('vision-itemized reports (Phase B wave, handwritten scans): %3d' % n_vis)
+    print('contributions.csv  %3d rows   expenditures.csv %3d rows  — a filing with no '
+          'itemized rows and no vision record is NOT TRANSCRIBED, never "no donors"'
+          % (len(crows), len(erows)))
     if missing:
         print('  %d filings WITHOUT a vision transcript (no filing_totals row):' % len(missing))
         for p in missing:

@@ -1,0 +1,238 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Nicholas Glenn",
+   "occupation": "Executive Director/Salt Lake County Democratic Party",
+   "amount": "15.15",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.56,20.68,81.56,3.64@p3",
+   "note": "date printed WITHOUT year as '5/13' \u2014 blank per contract, year never filled from the report date; address redacted at source (bar over Complete Mailing Address); occupation printed in very small type, confirmed at 600dpi"
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "Nicholas Glenn",
+   "occupation": "Executive Director/Salt Lake County Democratic Party",
+   "amount": "207.84",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.56,24.55,81.56,3.64@p3",
+   "note": "date printed WITHOUT year as '5/15' \u2014 blank per contract, year never filled from the report date; address redacted at source (bar over Complete Mailing Address); occupation printed in very small type, confirmed at 600dpi"
+  },
+  {
+   "line_no": 3,
+   "donor_raw": "Karen Glenn",
+   "occupation": "Logo Design",
+   "amount": "400.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.56,28.41,81.56,3.64@p3",
+   "note": "date printed WITHOUT year as '5/28' \u2014 blank per contract, year never filled from the report date; address redacted at source (bar over Complete Mailing Address); filer wrote 'Logo Design' in the Occupation/Employer cell (verbatim); amount cell prints '400.00 In-Kind'"
+  },
+  {
+   "line_no": 4,
+   "donor_raw": "Nicholas Glenn",
+   "occupation": "Executive Director/Salt Lake County Democratic Party",
+   "amount": "221.88",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.56,32.27,81.56,3.64@p3",
+   "note": "date printed WITHOUT year as '6/6' \u2014 blank per contract, year never filled from the report date; address redacted at source (bar over Complete Mailing Address); occupation printed in very small type, confirmed at 600dpi"
+  },
+  {
+   "line_no": 5,
+   "donor_raw": "Carol Herrera Glenn",
+   "occupation": "not employed Campaign snacks",
+   "amount": "20.06",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:6.56,36.14,81.56,3.64@p3",
+   "note": "date printed WITHOUT year as '6/03' \u2014 blank per contract, year never filled from the report date; address redacted at source (bar over Complete Mailing Address); Occupation/Employer cell holds both 'not employed' and 'Campaign snacks' (verbatim); amount cell prints '20.06 In-Kind'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Squarespace",
+   "purpose": "Website Domain",
+   "amount": "15.15",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.94,21.36,72.81,3.64@p4",
+   "note": "date printed WITHOUT year as '5/13' \u2014 blank per contract"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Squarespace",
+   "purpose": "Campaign Website",
+   "amount": "207.84",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.94,25.27,72.81,3.64@p4",
+   "note": "date printed WITHOUT year as '5/15' \u2014 blank per contract"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "Karen Glenn",
+   "purpose": "Logo Design",
+   "amount": "400.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.94,29.18,72.81,3.64@p4",
+   "note": "date printed WITHOUT year as '5/28' \u2014 blank per contract; amount cell prints '400.00 In-Kind'"
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "Carol Herrera Glenn",
+   "purpose": "Campaign Snacks",
+   "amount": "20.06",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.94,33.09,72.81,3.64@p4",
+   "note": "date printed WITHOUT year as '6/3' \u2014 blank per contract; amount cell prints '20.06 In-Kind'"
+  },
+  {
+   "line_no": 5,
+   "vendor_raw": "Union Print Shop",
+   "purpose": "Campaign signs/Literature",
+   "amount": "221.88",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high(verbatim, no year);vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:10.94,37.00,72.81,3.64@p4",
+   "note": "date printed WITHOUT year as '6/6' \u2014 blank per contract"
+  }
+ ],
+ "total_contributions": "864.93",
+ "total_expenditures": "864.93",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "864.93"
+ },
+ "cover": {
+  "candidate": "Nicholas Glenn",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Cou",
+  "district_number": "1",
+  "report_type": "Midterm Vacancy (if applicable) \u2014 form family 'Financial Disclosure Report For a Candidate' (no year in title)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "06/10/2025",
+  "form_year": null
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Glenn-Nicholas__2027817B.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Glenn, Nicholas",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Glenn-Nicholas__2027817B.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Form 'Financial Disclosure Report For a Candidate' with no year printed in the title (newer form family; Type-of-Report set includes Period ending March 31 / September 10 / Midterm Vacancy) filed for the 2024 cycle; report dated 06/10/2025. Midterm Vacancy box CHECKED. AMENDMENT QUESTION LEFT UNANSWERED \u2014 neither the Yes nor the No box is checked (is_amendment=\"\"). Office Sought cell visibly prints 'Salt Lake County Cou' \u2014 text clipped at the cell border (District Number 1; the Office field reads 'Salt Lake County Council District'). ALL FIVE dates on each schedule are printed WITHOUT a year \u2014 left blank with needs_review per contract. Rows 3 and 5 of Schedule A carry In-Kind labels in the amount cell ('400.00 In-Kind', '20.06 In-Kind'); Schedule B rows 3 and 4 likewise. Donor addresses bar-redacted on Schedule A; occupation survives on all five rows (rows 1/2/4 in very small type: 'Executive Director/Salt Lake County Democratic Party'). 'Other Campaign Accounts' section p5-7 is present and entirely BLANK. Report Verification signature line shows no visible signature image, dated 06/10/2025.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "864.93",
+     "schedule_total": "864.93",
+     "itemized": "864.93",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "5 rows sum 864.93 = Summary line 1 Col A = Schedule A SUBTOTAL and TOTAL; the schedule subtotal INCLUDES the two in-kind rows (400.00 + 20.06) \u2014 no schedule-total-vs-summary-gap on this filing"
+    },
+    "expenditures": {
+     "stated": "864.93",
+     "schedule_total": "864.93",
+     "itemized": "864.93",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "5 rows sum 864.93 = Summary line 2 Col A = Schedule B SUBTOTAL and TOTAL; subtotal includes the two in-kind rows. Contributions and expenditures mirror each other exactly (same five amounts, in-kind logo design and campaign snacks on both sides)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 864.93 = printed SUBTOTAL 864.93 = printed TOTAL 864.93 GATES; p4 rows 864.93 = printed SUBTOTAL 864.93 = printed TOTAL 864.93 GATES",
+   "escalations": 3,
+   "escalation_note": "p3 600dpi crops x3: the tiny-type Occupation/Employer cells on rows 1/2/4 and the row-5 cell/amount; all confirmed",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 5,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Form 'Financial Disclosure Report For a Candidate' with no year printed in the title (newer form family; Type-of-Report set includes Period ending March 31 / September 10 / Midterm Vacancy) filed for the 2024 cycle; report dated 06/10/2025. Midterm Vacancy box CHECKED. AMENDMENT QUESTION LEFT UNANSWERED \u2014 neither the Yes nor the No box is checked (is_amendment=\"\"). Office Sought cell visibly prints 'Salt Lake County Cou' \u2014 text clipped at the cell border (District Number 1; the Office field reads 'Salt Lake County Council District'). ALL FIVE dates on each schedule are printed WITHOUT a year \u2014 left blank with needs_review per contract. Rows 3 and 5 of Schedule A carry In-Kind labels in the amount cell ('400.00 In-Kind', '20.06 In-Kind'); Schedule B rows 3 and 4 likewise. Donor addresses bar-redacted on Schedule A; occupation survives on all five rows (rows 1/2/4 in very small type: 'Executive Director/Salt Lake County Democratic Party'). 'Other Campaign Accounts' section p5-7 is present and entirely BLANK. Report Verification signature line shows no visible signature image, dated 06/10/2025."
+  }
+ }
+}

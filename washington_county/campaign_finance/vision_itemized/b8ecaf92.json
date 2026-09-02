@@ -1,0 +1,77 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W11.json",
+ "key": "b8ecaf92",
+ "index_path": "raw/wayback_forms2018/Jan 5 2019_Kim M Hafen_Final FCR_01-07-2019.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/Jan 5 2019_Kim M Hafen_Final FCR_01-07-2019.pdf"
+ ],
+ "sha256_prefix": "9224b1be513e0205",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": ""
+   },
+   "itemized": "0",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) carries NO rows and a large hand-drawn 'N/A' written in blue across the middle of the grid -- the filer marking the whole schedule as not applicable, i.e. an EMPTY SCHEDULE (an honest zero), not a row and not a zero-valued transaction. The printed footer TOTAL cell was left BLANK by the filer (verified at 600 dpi -- the cell holds only the printed '$' and the rule), so schedule_total is \"\" (field exists, blank), NOT null and NOT 0. Cover line 1 is a slashed-zero glyph in ALL THREE columns (Zero-glyph ruling: = 0), so the scopes coincide -- recorded cumulative. Line 2 (<=$50 aggregate) is likewise a slashed zero in all three columns and is never itemized."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "527.00",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "527.00",
+    "cover_balance_end": "(527.00)",
+    "schedule_total": ""
+   },
+   "itemized": "0",
+   "basis": "cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (p3) carries NO rows and the same large hand-drawn 'N/A' across the grid -- an EMPTY SCHEDULE. Its printed footer TOTAL cell is also blank. The empty schedule matches cover line 3's THIS REPORT cell (a slashed zero = 0) and NOT the cumulative cell (527.00, carried from the prior report), so this schedule is PER-PERIOD -- a different scope from the CUMULATIVE figure this module publishes, and reconciles_expend should be left blank rather than scored a failure. Cover arithmetic checks: 527.00 + 0 = 527.00."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Both schedules print a footer TOTAL and the filer left BOTH blank, so no page-subtotal gate could fire; gated against the cover instead. p2: 0 rows = cover line 1 (slashed zero in all three columns). p3: 0 rows = cover line 3 THIS (slashed zero). Nothing failed to gate.",
+  "row_count": "Boxed county grid, ~40 amount cells per sheet. p2: ZERO inked data rows (the only ink is the 'N/A' mark spanning roughly rows 11-16 of the address column) -- 0 rows emitted. p3: ZERO inked data rows, same 'N/A' mark across the purpose column -- 0 rows emitted. The mark crosses several ruled bands but is a single continuous stroke pair, not row content; it was NOT transcribed as a row.",
+  "geometry_proof": "Not applicable -- zero rows were emitted on either side, so there is no row geometry to prove. For the record, the 'N/A' mark sits at roughly pct:38,29,17,9@p2 and pct:38,30,14,9@p3 and is not a data row.",
+  "balance_chain": "Closes exactly, twice over. (a) Contributions cum 0 - expenses cum 527.00 = -527.00 = cover line 4 CUMULATIVE, written '(527.00)' -- accounting parentheses, i.e. negative. (b) The columns also chain: line 4 LAST '(527.00)' + THIS (slashed zero = 0) = CUM '(527.00)'. No earlier filing by this filer in this chunk, so no cross-filing chain test was possible."
+ },
+ "escalations": 3,
+ "escalation_note": "400 dpi crop of the 'N/A' mark on p2 to confirm it is the letters N and A over a slash and not row content; 600 dpi crops of the printed footer TOTAL cells on p2 and p3 to confirm both are blank rather than carrying a faint figure.",
+ "notes": "Cover confirms the chunk file: 'Full Name of Candidate KIM M HAFEN', 'Office WASHINGTON COUNTY CLERK-AUDITOR', period beginning 10/23/18 ending 1/5/19, Date 1/5/19. County office, in scope; 'Representative District' and 'In the ____ School District' both blank. Generation-2 county form (Washington County Code 1-7-1) with printed footer totals and an 'In Kind?' column on Form A -- no rows, so no in-kind determination arises. THE ENDING BALANCE IS NEGATIVE: written '(527.00)' in accounting parentheses in both the LAST and CUMULATIVE columns; filing_totals.csv already carries -527. The filer's own street address, ZIP, home and business phones are printed in the clear on the cover and were DISCARDED at read time.",
+ "contributions": [],
+ "expenditures": []
+}

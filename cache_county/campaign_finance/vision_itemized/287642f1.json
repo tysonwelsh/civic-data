@@ -1,0 +1,86 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C24.json",
+ "key": "287642f1",
+ "index_path": "raw/2026/2026_cc_2026_Financial_Disclosure_Apr_3_Peter_Thatcher.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_Apr_3_Peter_Thatcher.pdf"
+ ],
+ "sha256_prefix": "85534c15fa68c92c",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other",
+  "5": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "0",
+    "page_subtotal": "0",
+    "box_A_balance_begin": "0",
+    "box_F_subtotal": "0",
+    "cover_balance_end": "0"
+   },
+   "itemized": "0.00",
+   "basis": "page-subtotal==schedule-total==cover-box-B==cover-box-C",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A carries the single word 'None' under the column header and no transaction lines. Printed page subtotal 0, printed Total Contributions Received 0, Box B 0, Box C 0. Zero rows closes against every anchor. B == C so scope is cumulative."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "schedule_total": "0",
+    "page_subtotal": "0",
+    "cover_balance_end": "0"
+   },
+   "itemized": "0.00",
+   "basis": "page-subtotal==schedule-total==cover-box-D==cover-box-E",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule B carries the single word 'None' under the header and no transaction lines. Printed page subtotal 0, printed Total Expenditures Made 0, Box D 0, Box E 0. Zero rows closes. D == E so scope is cumulative."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 0.00 = printed 'Subtotal for this page $0' = printed 'Total Contributions Received $ 0'. p3 rows 0.00 = printed 'Subtotal for this page $ 0' = printed 'Total Expenditures Made $ 0'. Both gates fire exactly; these are numeric zeros the filer typed, not nil marks.",
+  "row_count": "No per-row grid on the CFD schedule; counted ink by eye at 200 dpi and cross-checked the PDF text layer: p2 = 0 transaction lines, p3 = 0 transaction lines, only the word 'None' in the Date column of each. rowbands not run - no grid to score.",
+  "geometry_proof": "not applicable - zero rows emitted on both sides.",
+  "balance_chain": "Box A 0 + Box B 0 = Box F 0 (closes); Box F 0 - Box D 0 = Balance at Close 0 (closes). Chain closes exactly."
+ },
+ "escalations": 0,
+ "escalation_note": "born-digital Jotform SIGN PDF (document ID 260918121436050); the embedded text layer corroborates the 200 dpi visual read on every anchor. No ambiguous glyph.",
+ "notes": "OFFICE-LINE DISAGREEMENT WITH THE CHUNK FILE, FLAGGED FOR A HUMAN: the chunk/index says office='County Council', but the form's 'Office' box reads verbatim 'Cache Valley Council'. That string names no existing governmental body - it is neither the county's own 'Cache County Council' nor a school-board or municipal office - so it is most likely the filer's loose wording for the County Council, but the FORM does not say so and I have not relabelled it. Not treated as out-of-scope (nothing on the page quotes a school-board, municipal or special-district office), and the point is moot for the money since both schedules are zero. DATE DISAGREEMENT: the chunk file says date=2026-04-03; the form's 'Date of Report' reads 04-02-2026 on all four report pages and the Jotform audit trail shows it signed Apr 02 2026 08:00 PM. Type of Report: 'Seven days preceding the General Election' is marked AND 'Yes, Date of Original Report 03-10-2026' is marked - i.e. the filer declares this an AMENDMENT of a 03-10-2026 report; a hand-typed line adds '7 days prior to party convention'. p5 is the Jotform SIGN audit trail, not a report page. Both schedules are honest empty schedules (the filer wrote 'None'), not gaps.",
+ "contributions": [],
+ "expenditures": []
+}

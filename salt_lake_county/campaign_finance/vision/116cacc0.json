@@ -1,0 +1,98 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "22.61",
+ "ending_balance": "22.61",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "22.61"
+ },
+ "cover": {
+  "candidate": "Arlyn Bradshaw",
+  "party": "Democrat",
+  "office_sought": "Salt Lake County Council District 1",
+  "district_number": "1",
+  "report_type": "Year-End Report (January 31) checked; 2026-cycle form 'Financial Disclosure Report For a Candidate' (no year printed in title)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01/30/26",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Bradshaw-Arlyn__927411EB.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Bradshaw, Arlyn",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Bradshaw-Arlyn__927411EB.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026 form family 'Financial Disclosure Report For a Candidate' (title prints no year; form_year left blank deliberately). Cover Office field is blank (filer left it empty; name spans the row); Office Sought 'Salt Lake County Council District 1' with District Number also printed '1'. Year-end January 31 box checked; amendment No; stamp-signed 01/30/26. Cover address block and phone/email bar-redacted at source. NO Schedule A or Schedule B page exists; all Summary activity $0.00, $22.61 carried unchanged. Chunk-prior no-schedule-page/no-schedule-page CONFIRMED at the page.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page in the 2-page document; Summary line 1 states $0.00 so the absent schedule is consistent"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page in the 2-page document; Summary line 2 states $0.00 so the absent schedule is consistent"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages; nothing to gate",
+   "escalations": 0,
+   "escalation_note": "none",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026 form family 'Financial Disclosure Report For a Candidate' (title prints no year; form_year left blank deliberately). Cover Office field is blank (filer left it empty; name spans the row); Office Sought 'Salt Lake County Council District 1' with District Number also printed '1'. Year-end January 31 box checked; amendment No; stamp-signed 01/30/26. Cover address block and phone/email bar-redacted at source. NO Schedule A or Schedule B page exists; all Summary activity $0.00, $22.61 carried unchanged. Chunk-prior no-schedule-page/no-schedule-page CONFIRMED at the page."
+  }
+ }
+}

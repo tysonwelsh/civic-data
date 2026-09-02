@@ -1,0 +1,1755 @@
+[
+ {
+  "index_path": "raw/2022/2022_Amelia_Powers_Gardner.pdf",
+  "key": "1ef163c9",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r9_02)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "itemized_pages_A": "2,3,4",
+  "itemized_pages_B": "5,6,7",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Box B 'Contributions Received this Period' ($45,392.35) on the p8 SUMMARY PAGE, which equals Schedule A's own printed 'Total Contributions Received - Sum of all Schedule A Pages in this report' ($45,392.35), printed identically on all three Schedule A sheets",
+    "detail": "THREE Schedule A sheets, each gated on its OWN printed 'Subtotal for this page' first. Sheet 1 (p2, 15 rows) sums to 16,828.30 = its printed subtotal $16,828.30 exactly. Sheet 2 (p3, 15 rows) sums to 21,190.29 = its HANDWRITTEN subtotal 21,190.29 exactly. Sheet 3 (p4, 13 rows) sums to 7,373.76 = its printed subtotal $7,373.76 exactly. 16,828.30 + 21,190.29 + 7,373.76 = 45,392.35 = the printed sum-of-all-pages total AND the promoted PER-PERIOD cell Box B. Box C 'Contributions Received Year to Date' prints $75,077.97 and is NOT summed as an increment. *** IN-KIND: BOTH CONVENTIONS WERE TESTED AND ONLY MONETARY-PLUS-IN-KIND CLOSES. *** One row carries a TICKED In-Kind checkbox (p3 row 15, Reagan Outdoor Advertising, $1069) and it IS inside the filer's own subtotal: monetary-only gives 44,323.35, which is 1,069.00 short of every printed figure. This is the addendum-G1 pattern live - the gift is entered twice, once here and once as an offsetting handwritten expenditure on p7 row 11 - and it is why the convention must be tested per FILING and never inherited."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Box D 'Expenditures Made this Period', HANDWRITTEN on the p8 Summary Page as $56,428.08, which equals Schedule B's own 'Total Expenditures Made - Sum of all Schedule B Pages in this report', also handwritten as $56,428.08 on all three Schedule B sheets",
+    "detail": "THREE Schedule B sheets, each gated on its own printed page subtotal. Sheet 1 (p5, 15 rows) sums to 50,232.58 = its printed subtotal $50,232.58 exactly. Sheet 2 (p6, 15 rows) sums to 3,684.24 = its printed subtotal $3,684.24 exactly. Sheet 3 (p7, 11 rows) sums to 2,511.26 = its HANDWRITTEN subtotal 2511.26 exactly. 50,232.58 + 3,684.24 + 2,511.26 = 56,428.08 = the handwritten sum-of-all-pages total AND Box D. Box E YTD (handwritten $73,596.68) is the cumulative and is never summed. The expenditure side likewise closes ONLY WITH the 1,069.00 in-kind offsetting row on sheet 3 included (monetary-only would fall 1,069.00 short), the mirror of the contribution side. Two typed cells on sheet 2 (rows 9 and 10) are broken by a vertical white streak in the scan; both were escalated to 1600 dpi and rendered $149.02 and $244.27, the same values the sheet's own subtotal requires. The filer's ladder is internally consistent: Box F $57,912.46 = Box A $12,520.11 + Box B $45,392.35, and the close box (LETTERED G on this revision) $1,484.38 = F - D."
+   }
+  },
+  "in_kind_convention": "MONETARY-PLUS-IN-KIND - tested both ways on both sides and only this one closes. The filing's single in-kind item (Reagan Outdoor Advertising, $1,069.00 of billboard) is entered TWICE: as a contribution with the In-Kind checkbox ticked (p3 row 15) and as an offsetting expenditure with the box NOT ticked (p7 row 11), and BOTH stated totals include it. Monetary-only misses by exactly 1,069.00 on each side.",
+  "escalations": 22,
+  "escalation_note": "900 dpi tight value crops, a first-row and last-row proof plus an index control for each of the six schedule sheets: p2 r1 '$750' / p2 r15 '$10,000' / below-grid strip 'Subtotal for this page $ $16,828.30'; p3 r1 '$500' / p3 r15 '$1069' / below-grid strip the handwritten '21,190.29'; p4 r1 '$1038.73' / p4 r13 '$48.95' / p4 r14 EMPTY; p5 r1 '$205' / p5 r15 '$185.00' / below-grid strip '50,232.58'; p6 r1 '$50.00' / p6 r15 '$398.65' / below-grid strip '3,684.24'; p7 r1 '$140.00' / p7 r11 the handwritten '1069.00' / p7 r12 EMPTY. Plus TWO 1600 dpi legibility escalations on p6 rows 9 and 10, whose typed figures are crossed by a vertical white streak in the scan: they rendered '$149.02' and '$244.27', matching what that sheet's own subtotal requires.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     73.45,
+     86.22
+    ],
+    "cells": [
+     [
+      9.83,
+      22.54
+     ],
+     [
+      22.54,
+      47.98
+     ],
+     [
+      47.98,
+      73.45
+     ],
+     [
+      73.45,
+      86.22
+     ],
+     [
+      86.22,
+      91.69
+     ]
+    ],
+    "rows": [
+     [
+      15.84,
+      19.82
+     ],
+     [
+      19.82,
+      23.82
+     ],
+     [
+      23.82,
+      27.82
+     ],
+     [
+      27.82,
+      31.8
+     ],
+     [
+      31.8,
+      35.8
+     ],
+     [
+      35.8,
+      39.78
+     ],
+     [
+      39.78,
+      43.78
+     ],
+     [
+      43.78,
+      47.75
+     ],
+     [
+      47.75,
+      51.75
+     ],
+     [
+      51.75,
+      55.73
+     ],
+     [
+      55.73,
+      59.71
+     ],
+     [
+      59.71,
+      63.71
+     ],
+     [
+      63.71,
+      67.66
+     ],
+     [
+      67.66,
+      71.66
+     ],
+     [
+      71.66,
+      75.66
+     ]
+    ],
+    "measure_note": "This is the NEWER 2022 blank (no printed version string in the footer) and its schedules carry FIVE columns, the last being an IN-KIND CHECKBOX. modern_boxAF FULLY BOXED 15-row grid - a row lies between its own two rules, nothing extrapolated; the pitch is ~3.99, tighter again than the v. 4.20 stock, so the row count was COUNTED on this page. rowbands.py returns the SIXTEEN full-width rules that bound the grid; the partial rule near 89 stops at x~48 and is the bottom-left 'Name of Candidate' / 'Date of Report' box, excluded, as is the short rule under the page heading where one is detected. Schedule A sheet 1 (skew +0.3), rules 15.84 .. 75.66. Column bands from the v_rules: Date 9.83-22.54, Name of Contributor 22.54-47.98, City and State 47.98-73.45, Amount 73.45-86.22, In-Kind checkbox 86.22-91.69. PROOF at 900 dpi: the row-1 amount box pct:73.45,15.84,12.77,3.98@p2 rendered '$750' (recorded 750) and the row-15 box pct:73.45,71.66,12.77,4.00@p2 rendered '$10,000' (recorded 10000). THE GRID IS FULL, so the one-past control was taken OUTSIDE it: a 500 dpi strip pct:9.4,75.66,82.0,4.5@p2 rendered the candidate box and 'Subtotal for this page $ $16,828.30' and NO sixteenth entry (the addendum-F1 screen)."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     73.01,
+     85.71
+    ],
+    "cells": [
+     [
+      9.38,
+      22.09
+     ],
+     [
+      22.09,
+      47.68
+     ],
+     [
+      47.68,
+      73.01
+     ],
+     [
+      73.01,
+      85.71
+     ],
+     [
+      85.71,
+      91.12
+     ]
+    ],
+    "rows": [
+     [
+      15.32,
+      19.29
+     ],
+     [
+      19.29,
+      23.29
+     ],
+     [
+      23.29,
+      27.29
+     ],
+     [
+      27.29,
+      31.25
+     ],
+     [
+      31.25,
+      35.25
+     ],
+     [
+      35.25,
+      39.23
+     ],
+     [
+      39.23,
+      43.2
+     ],
+     [
+      43.2,
+      47.2
+     ],
+     [
+      47.2,
+      51.18
+     ],
+     [
+      51.18,
+      55.16
+     ],
+     [
+      55.16,
+      59.16
+     ],
+     [
+      59.16,
+      63.14
+     ],
+     [
+      63.14,
+      67.11
+     ],
+     [
+      67.11,
+      71.11
+     ],
+     [
+      71.11,
+      75.11
+     ]
+    ],
+    "measure_note": "This is the NEWER 2022 blank (no printed version string in the footer) and its schedules carry FIVE columns, the last being an IN-KIND CHECKBOX. modern_boxAF FULLY BOXED 15-row grid - a row lies between its own two rules, nothing extrapolated; the pitch is ~3.99, tighter again than the v. 4.20 stock, so the row count was COUNTED on this page. rowbands.py returns the SIXTEEN full-width rules that bound the grid; the partial rule near 89 stops at x~48 and is the bottom-left 'Name of Candidate' / 'Date of Report' box, excluded, as is the short rule under the page heading where one is detected. Schedule A sheet 2 (skew -0.5, opposite in sign to p2 - the grids are not interchangeable), rules 15.32 .. 75.11. rowbands.py detected only four v_rules here (47.68 / 73.01 / 85.71 / 91.12), the two left-hand splits being bridged at this skew, so the Date|Name split and the left edge were taken from the clean p2 measurement shifted by the same -0.45 offset the detected rules show (22.54 -> 22.09, 9.83 -> 9.38) - the addendum-G6 recovery. The AMOUNT band, the one the geometry actually stamps, is this page's own detected 73.01-85.71. PROOF at 900 dpi: the row-1 amount box pct:73.01,15.32,12.7,3.97@p3 rendered '$500' (recorded 500) and the row-15 box pct:73.01,71.11,12.7,4.00@p3 rendered '$1069' (recorded 1069). THE GRID IS FULL, so the control was taken outside it: a 500 dpi strip pct:9.4,75.11,82.0,4.5@p3 rendered the candidate box and the HANDWRITTEN 'Subtotal for this page $ 21,190.29' and NO sixteenth entry."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     73.36,
+     86.12
+    ],
+    "cells": [
+     [
+      9.68,
+      22.48
+     ],
+     [
+      22.48,
+      47.92
+     ],
+     [
+      47.92,
+      73.36
+     ],
+     [
+      73.36,
+      86.12
+     ],
+     [
+      86.12,
+      91.62
+     ]
+    ],
+    "rows": [
+     [
+      15.78,
+      19.75
+     ],
+     [
+      19.75,
+      23.75
+     ],
+     [
+      23.75,
+      27.78
+     ],
+     [
+      27.78,
+      31.75
+     ],
+     [
+      31.75,
+      35.73
+     ],
+     [
+      35.73,
+      39.73
+     ],
+     [
+      39.73,
+      43.71
+     ],
+     [
+      43.71,
+      47.69
+     ],
+     [
+      47.69,
+      51.69
+     ],
+     [
+      51.69,
+      55.66
+     ],
+     [
+      55.66,
+      59.64
+     ],
+     [
+      59.64,
+      63.64
+     ],
+     [
+      63.64,
+      67.62
+     ],
+     [
+      67.62,
+      71.62
+     ],
+     [
+      71.62,
+      75.59
+     ]
+    ],
+    "measure_note": "This is the NEWER 2022 blank (no printed version string in the footer) and its schedules carry FIVE columns, the last being an IN-KIND CHECKBOX. modern_boxAF FULLY BOXED 15-row grid - a row lies between its own two rules, nothing extrapolated; the pitch is ~3.99, tighter again than the v. 4.20 stock, so the row count was COUNTED on this page. rowbands.py returns the SIXTEEN full-width rules that bound the grid; the partial rule near 89 stops at x~48 and is the bottom-left 'Name of Candidate' / 'Date of Report' box, excluded, as is the short rule under the page heading where one is detected. Schedule A sheet 3 (skew +0.4), rules 15.78 .. 75.59, all five v_rules detected. PROOF at 900 dpi: the row-1 amount box pct:73.36,15.78,12.76,3.97@p4 rendered '$1038.73' (recorded 1038.73), the LAST transcribed row's box pct:73.36,63.64,12.76,3.98@p4 rendered '$48.95' (recorded 48.95, row 13), and the ONE-PAST control pct:73.36,67.62,12.76,4.00@p4 rendered an EMPTY cell."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     72.88,
+     85.64
+    ],
+    "cells": [
+     [
+      9.21,
+      22.01
+     ],
+     [
+      22.01,
+      47.47
+     ],
+     [
+      47.47,
+      72.88
+     ],
+     [
+      72.88,
+      85.64
+     ],
+     [
+      85.64,
+      91.09
+     ]
+    ],
+    "rows": [
+     [
+      15.32,
+      19.29
+     ],
+     [
+      19.29,
+      23.29
+     ],
+     [
+      23.29,
+      27.27
+     ],
+     [
+      27.27,
+      31.25
+     ],
+     [
+      31.25,
+      35.25
+     ],
+     [
+      35.25,
+      39.23
+     ],
+     [
+      39.23,
+      43.2
+     ],
+     [
+      43.2,
+      47.2
+     ],
+     [
+      47.2,
+      51.18
+     ],
+     [
+      51.18,
+      55.16
+     ],
+     [
+      55.16,
+      59.16
+     ],
+     [
+      59.16,
+      63.16
+     ],
+     [
+      63.16,
+      67.14
+     ],
+     [
+      67.14,
+      71.14
+     ],
+     [
+      71.14,
+      75.11
+     ]
+    ],
+    "measure_note": "This is the NEWER 2022 blank (no printed version string in the footer) and its schedules carry FIVE columns, the last being an IN-KIND CHECKBOX. modern_boxAF FULLY BOXED 15-row grid - a row lies between its own two rules, nothing extrapolated; the pitch is ~3.99, tighter again than the v. 4.20 stock, so the row count was COUNTED on this page. rowbands.py returns the SIXTEEN full-width rules that bound the grid; the partial rule near 89 stops at x~48 and is the bottom-left 'Name of Candidate' / 'Date of Report' box, excluded, as is the short rule under the page heading where one is detected. Schedule B sheet 1 (skew -0.5), rules 15.32 .. 75.11. Only four v_rules detected (47.47 / 72.88 / 85.64 / 91.09); the Date|Vendor split and left edge taken from p4 shifted by the same -0.47 offset. PROOF at 900 dpi: the row-1 amount box pct:72.88,15.32,12.76,3.97@p5 rendered '$205' (recorded 205) and the row-15 box pct:72.88,71.14,12.76,3.97@p5 rendered '$185.00' (recorded 185.00). THE GRID IS FULL, so the control was taken outside it: a 500 dpi strip pct:9.4,75.11,82.0,4.5@p5 rendered the candidate box and 'Subtotal for this page $ 50,232.58' and NO sixteenth entry."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     73.35,
+     86.14
+    ],
+    "cells": [
+     [
+      9.7,
+      22.44
+     ],
+     [
+      22.44,
+      47.88
+     ],
+     [
+      47.88,
+      73.35
+     ],
+     [
+      73.35,
+      86.14
+     ],
+     [
+      86.14,
+      91.62
+     ]
+    ],
+    "rows": [
+     [
+      15.75,
+      19.73
+     ],
+     [
+      19.73,
+      23.73
+     ],
+     [
+      23.73,
+      27.73
+     ],
+     [
+      27.73,
+      31.71
+     ],
+     [
+      31.71,
+      35.71
+     ],
+     [
+      35.71,
+      39.68
+     ],
+     [
+      39.68,
+      43.66
+     ],
+     [
+      43.66,
+      47.66
+     ],
+     [
+      47.66,
+      51.66
+     ],
+     [
+      51.66,
+      55.64
+     ],
+     [
+      55.64,
+      59.62
+     ],
+     [
+      59.62,
+      63.62
+     ],
+     [
+      63.62,
+      67.57
+     ],
+     [
+      67.57,
+      71.57
+     ],
+     [
+      71.57,
+      75.57
+     ]
+    ],
+    "measure_note": "This is the NEWER 2022 blank (no printed version string in the footer) and its schedules carry FIVE columns, the last being an IN-KIND CHECKBOX. modern_boxAF FULLY BOXED 15-row grid - a row lies between its own two rules, nothing extrapolated; the pitch is ~3.99, tighter again than the v. 4.20 stock, so the row count was COUNTED on this page. rowbands.py returns the SIXTEEN full-width rules that bound the grid; the partial rule near 89 stops at x~48 and is the bottom-left 'Name of Candidate' / 'Date of Report' box, excluded, as is the short rule under the page heading where one is detected. Schedule B sheet 2 (skew +0.3), rules 15.75 .. 75.57, all five v_rules detected. PROOF at 900 dpi: the row-1 amount box pct:73.35,15.75,12.79,3.98@p6 rendered '$50.00' (recorded 50.00) and the row-15 box pct:73.35,71.57,12.79,4.00@p6 rendered '$398.65' (recorded 398.65). Rows 9 and 10, whose typed figures are broken by a vertical white streak in the scan, were additionally escalated to 1600 dpi and rendered '$149.02' and '$244.27'. THE GRID IS FULL, so the control was taken outside it: a 500 dpi strip pct:9.4,75.57,82.0,4.5@p6 rendered the candidate box and 'Subtotal for this page $ 3,684.24' and NO sixteenth entry."
+   },
+   "7": {
+    "axis": "y",
+    "cell": [
+     72.88,
+     85.56
+    ],
+    "cells": [
+     [
+      9.2,
+      21.94
+     ],
+     [
+      21.94,
+      47.38
+     ],
+     [
+      47.38,
+      72.88
+     ],
+     [
+      72.88,
+      85.56
+     ],
+     [
+      85.56,
+      91.0
+     ]
+    ],
+    "rows": [
+     [
+      15.43,
+      19.39
+     ],
+     [
+      19.39,
+      23.39
+     ],
+     [
+      23.39,
+      27.39
+     ],
+     [
+      27.39,
+      31.36
+     ],
+     [
+      31.36,
+      35.34
+     ],
+     [
+      35.34,
+      39.34
+     ],
+     [
+      39.34,
+      43.32
+     ],
+     [
+      43.32,
+      47.3
+     ],
+     [
+      47.3,
+      51.3
+     ],
+     [
+      51.3,
+      55.25
+     ],
+     [
+      55.25,
+      59.25
+     ],
+     [
+      59.25,
+      63.25
+     ],
+     [
+      63.25,
+      67.25
+     ],
+     [
+      67.25,
+      71.25
+     ],
+     [
+      71.25,
+      75.23
+     ]
+    ],
+    "measure_note": "This is the NEWER 2022 blank (no printed version string in the footer) and its schedules carry FIVE columns, the last being an IN-KIND CHECKBOX. modern_boxAF FULLY BOXED 15-row grid - a row lies between its own two rules, nothing extrapolated; the pitch is ~3.99, tighter again than the v. 4.20 stock, so the row count was COUNTED on this page. rowbands.py returns the SIXTEEN full-width rules that bound the grid; the partial rule near 89 stops at x~48 and is the bottom-left 'Name of Candidate' / 'Date of Report' box, excluded, as is the short rule under the page heading where one is detected. Schedule B sheet 3 (skew -0.3), rules 15.43 .. 75.23. Only three v_rules detected (72.88 / 85.56 / 91.00); the three left-hand splits were taken from the clean p6 measurement shifted by the same -0.5 offset. PROOF at 900 dpi: the row-1 amount box pct:72.88,15.43,12.68,3.96@p7 rendered '$140.00' (recorded 140.00), the LAST transcribed row's box pct:72.88,55.25,12.68,4.00@p7 rendered the HANDWRITTEN '1069.00' (recorded 1069.00, row 11), and the ONE-PAST control pct:72.88,59.25,12.68,4.00@p7 rendered an EMPTY cell - which also confirms the handwritten entry sits on the printed row 11 and shifts nothing."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 2,
+    "row": 1,
+    "date": "3/23",
+    "donor_raw": "Gold Cross Service Inc",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "750",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "2",
+    "page": 2,
+    "row": 2,
+    "date": "4/6",
+    "donor_raw": "Yancee Hardy",
+    "donor_city": "Sandy",
+    "donor_state": "UT",
+    "amount": "156.07",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "3",
+    "page": 2,
+    "row": 3,
+    "date": "4/7",
+    "donor_raw": "Holly Robb",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "4",
+    "page": 2,
+    "row": 4,
+    "date": "4/9",
+    "donor_raw": "Mike McKell",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "5",
+    "page": 2,
+    "row": 5,
+    "date": "4/20",
+    "donor_raw": "Renee Braddy",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "6",
+    "page": 2,
+    "row": 6,
+    "date": "4/21",
+    "donor_raw": "Curt Doman",
+    "donor_city": "Draper",
+    "donor_state": "UT",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "7",
+    "page": 2,
+    "row": 7,
+    "date": "4/27",
+    "donor_raw": "Kay J Christofferson",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "8",
+    "page": 2,
+    "row": 8,
+    "date": "5/2",
+    "donor_raw": "Phillip and Andrea Allen",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. a joint donor as the filer wrote it; kept as ONE row"
+   },
+   {
+    "line_no": "9",
+    "page": 2,
+    "row": 9,
+    "date": "5/4",
+    "donor_raw": "SEL INC",
+    "donor_city": "Pleasant Grove",
+    "donor_state": "UT",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. a business donor"
+   },
+   {
+    "line_no": "10",
+    "page": 2,
+    "row": 10,
+    "date": "5/6",
+    "donor_raw": "Burt Harvey",
+    "donor_city": "Elk Ridge",
+    "donor_state": "UT",
+    "amount": "52.23",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "11",
+    "page": 2,
+    "row": 11,
+    "date": "5/6",
+    "donor_raw": "J. Keith Cupples",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "12",
+    "page": 2,
+    "row": 12,
+    "date": "5/11",
+    "donor_raw": "Inside Insurance",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. a business donor"
+   },
+   {
+    "line_no": "13",
+    "page": 2,
+    "row": 13,
+    "date": "5/13",
+    "donor_raw": "Deidre Henderson for Utah State Senate",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. a candidate committee, transferring to another candidate"
+   },
+   {
+    "line_no": "14",
+    "page": 2,
+    "row": 14,
+    "date": "5/18",
+    "donor_raw": "Comcast",
+    "donor_city": "Philadelphia",
+    "donor_state": "PA",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. an out-of-state corporate donor"
+   },
+   {
+    "line_no": "15",
+    "page": 2,
+    "row": 15,
+    "date": "5/24",
+    "donor_raw": "Lake Restoration Solutions LLC",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "10000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. printed with a thousands comma as '$10,000'; the largest single contribution on the filing. Last row of Schedule A sheet 1, whose printed subtotal is $16,828.30."
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 1,
+    "date": "5/25",
+    "donor_raw": "Robert A Dillon",
+    "donor_city": "Silver Spring",
+    "donor_state": "MD",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. first row of Schedule A sheet 2"
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 2,
+    "date": "5/26",
+    "donor_raw": "Trent Pool",
+    "donor_city": "Pittsburgh",
+    "donor_state": "PA",
+    "amount": "519.52",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "18",
+    "page": 3,
+    "row": 3,
+    "date": "5/26",
+    "donor_raw": "AGPAC",
+    "donor_city": "Sandy",
+    "donor_state": "UT",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. a political action committee"
+   },
+   {
+    "line_no": "19",
+    "page": 3,
+    "row": 4,
+    "date": "5/27",
+    "donor_raw": "Stan Lockhart",
+    "donor_city": "Sandy",
+    "donor_state": "UT",
+    "amount": "1500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "20",
+    "page": 3,
+    "row": 5,
+    "date": "6/3",
+    "donor_raw": "Alex Mangum",
+    "donor_city": "Centerville",
+    "donor_state": "UT",
+    "amount": "200",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "21",
+    "page": 3,
+    "row": 6,
+    "date": "6/3",
+    "donor_raw": "Steve Shallenberger",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "519.52",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "22",
+    "page": 3,
+    "row": 7,
+    "date": "6/3",
+    "donor_raw": "Kaycee Conger",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "23",
+    "page": 3,
+    "row": 8,
+    "date": "6/3",
+    "donor_raw": "Ray Chipman",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "24",
+    "page": 3,
+    "row": 9,
+    "date": "6/6",
+    "donor_raw": "Brad Bonham",
+    "donor_city": "Draper",
+    "donor_state": "UT",
+    "amount": "2596.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "25",
+    "page": 3,
+    "row": 10,
+    "date": "6/6",
+    "donor_raw": "Michael Stewart",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "285.88",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "26",
+    "page": 3,
+    "row": 11,
+    "date": "6/7",
+    "donor_raw": "Chuck Warren",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "2000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "27",
+    "page": 3,
+    "row": 12,
+    "date": "6/7",
+    "donor_raw": "Utah Central Associaton of Realtors",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "2500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. the filer's own spelling 'Associaton' kept verbatim"
+   },
+   {
+    "line_no": "28",
+    "page": 3,
+    "row": 13,
+    "date": "6/7",
+    "donor_raw": "Kirkham Motor Sports (David Kirkham)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "2500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. the filer named the business and, in her own parentheses, the individual; kept verbatim as one donor string"
+   },
+   {
+    "line_no": "29",
+    "page": 3,
+    "row": 14,
+    "date": "6/7",
+    "donor_raw": "Unite America PAC",
+    "donor_city": "Denver",
+    "donor_state": "CO",
+    "amount": "5000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. an out-of-state PAC"
+   },
+   {
+    "line_no": "30",
+    "page": 3,
+    "row": 15,
+    "date": "6/10",
+    "donor_raw": "Reagan Outdoor Advertising",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "1069",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. THE ONE IN-KIND ROW ON THE FILING: the In-Kind checkbox at the right of this row is TICKED (every other box on all three sheets is empty). The same 1069.00 is entered again as an offsetting EXPENDITURE, handwritten, on Schedule B sheet 3 row 11 ('Reagan Outdoor Advertising / billboard') where the In-Kind box is NOT ticked - a filer inconsistency transcribed as printed and not adjudicated. Both stated totals INCLUDE it, which is what makes monetary-plus-in-kind the convention that closes. Last row of sheet 2, whose HANDWRITTEN subtotal is 21,190.29."
+   },
+   {
+    "line_no": "31",
+    "page": 4,
+    "row": 1,
+    "date": "6/16",
+    "donor_raw": "Clyde Companies",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "1038.73",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. first row of Schedule A sheet 3"
+   },
+   {
+    "line_no": "32",
+    "page": 4,
+    "row": 2,
+    "date": "6/16",
+    "donor_raw": "Erik Finman",
+    "donor_city": "Dallas",
+    "donor_state": "TX",
+    "amount": "1038.73",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "33",
+    "page": 4,
+    "row": 3,
+    "date": "6/14",
+    "donor_raw": "Curt Bramble",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "490.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "34",
+    "page": 4,
+    "row": 4,
+    "date": "6/9",
+    "donor_raw": "Sean Clark",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "1961.90",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "35",
+    "page": 4,
+    "row": 5,
+    "date": "6/7",
+    "donor_raw": "Mike Kennedy for State Senate",
+    "donor_city": "Alpine",
+    "donor_state": "UT",
+    "amount": "490.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. a candidate committee"
+   },
+   {
+    "line_no": "36",
+    "page": 4,
+    "row": 6,
+    "date": "6/6",
+    "donor_raw": "Franz Busse",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "490.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "37",
+    "page": 4,
+    "row": 7,
+    "date": "6/6",
+    "donor_raw": "Yemi Arunsi",
+    "donor_city": "South Salt Lake City",
+    "donor_state": "UT",
+    "amount": "98",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "38",
+    "page": 4,
+    "row": 8,
+    "date": "5/23",
+    "donor_raw": "Rob Richie",
+    "donor_city": "Takoma Park",
+    "donor_state": "MD",
+    "amount": "490.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "39",
+    "page": 4,
+    "row": 9,
+    "date": "5/22",
+    "donor_raw": "Debby Lauret",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "48.95",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "40",
+    "page": 4,
+    "row": 10,
+    "date": "4/23",
+    "donor_raw": "Shane Marshall",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "98",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "41",
+    "page": 4,
+    "row": 11,
+    "date": "4/14",
+    "donor_raw": "Republican Women Lead",
+    "donor_city": "Salt Lake City",
+    "donor_state": "UT",
+    "amount": "980.90",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "42",
+    "page": 4,
+    "row": 12,
+    "date": "4/9",
+    "donor_raw": "Richard Jaussi",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "98",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date."
+   },
+   {
+    "line_no": "43",
+    "page": 4,
+    "row": 13,
+    "date": "4/7",
+    "donor_raw": "Nathan Ivie",
+    "donor_city": "Benjamin",
+    "donor_state": "UT",
+    "amount": "48.95",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "DATE HAS NO YEAR - the whole Date column on this schedule prints bare M/D. Kept verbatim and flagged; a year is never filled in from the report date. last row of Schedule A sheet 3, whose printed subtotal is $7,373.76 and whose printed sum-of-all-pages total is $45,392.35. This sheet's rows run in DESCENDING date order."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 5,
+    "row": 1,
+    "date": "4/4/22",
+    "vendor_raw": "Canva",
+    "purpose": "Campaign Stickers for Convention",
+    "amount": "205",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "2",
+    "page": 5,
+    "row": 2,
+    "date": "4/5/22",
+    "vendor_raw": "Make Print Play Ltd",
+    "purpose": "Bingo Cards for Convention",
+    "amount": "30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 5,
+    "row": 3,
+    "date": "5/31/22",
+    "vendor_raw": "Orem Summerfest Parade",
+    "purpose": "Parade",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Provider/Vendor cell names the EVENT rather than a payee; assigned by content and flagged, not reinterpreted"
+   },
+   {
+    "line_no": "4",
+    "page": 5,
+    "row": 4,
+    "date": "6/1/22",
+    "vendor_raw": "That's Great News",
+    "purpose": "Plaque",
+    "amount": "202.96",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "5",
+    "page": 5,
+    "row": 5,
+    "date": "6/1/22",
+    "vendor_raw": "Tactical Campaigns",
+    "purpose": "Campaigning",
+    "amount": "45000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed with a thousands comma as '$45,000.00'; the largest single expenditure on the filing"
+   },
+   {
+    "line_no": "6",
+    "page": 5,
+    "row": 6,
+    "date": "6/1/22",
+    "vendor_raw": "Amber Moon",
+    "purpose": "Reimbursement for shirts for parades",
+    "amount": "105.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "7",
+    "page": 5,
+    "row": 7,
+    "date": "4/8/2022",
+    "vendor_raw": "Spectrum Academy",
+    "purpose": "Donation",
+    "amount": "138.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "from this row on the sheet the filer switches from M/D/YY to M/D/YYYY dates; both kept verbatim"
+   },
+   {
+    "line_no": "8",
+    "page": 5,
+    "row": 8,
+    "date": "5/24/2022",
+    "vendor_raw": "National Car Rental",
+    "purpose": "Car Rental",
+    "amount": "196.74",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "9",
+    "page": 5,
+    "row": 9,
+    "date": "6/9/2022",
+    "vendor_raw": "First Ink-Pressions LLC",
+    "purpose": "Shirts for parade with custom logo",
+    "amount": "616.69",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "10",
+    "page": 5,
+    "row": 10,
+    "date": "6/10/2022",
+    "vendor_raw": "Spanish Fork City",
+    "purpose": "Fiesta Days Parade Entry Fee",
+    "amount": "125.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "11",
+    "page": 5,
+    "row": 11,
+    "date": "6/15/2022",
+    "vendor_raw": "Lehi Free Press Ad",
+    "purpose": "Campaign Ad",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 5,
+    "row": 12,
+    "date": "6/17/2022",
+    "vendor_raw": "Amber Howard",
+    "purpose": "Campaign Manager",
+    "amount": "1200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed with a thousands comma as '$1,200.00'"
+   },
+   {
+    "line_no": "13",
+    "page": 5,
+    "row": 13,
+    "date": "6/20/2022",
+    "vendor_raw": "Highland City",
+    "purpose": "Highland City Parade",
+    "amount": "27.49",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "14",
+    "page": 5,
+    "row": 14,
+    "date": "6/20/2022",
+    "vendor_raw": "Outcry Digital",
+    "purpose": "Digital/Website",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed with a thousands comma as '$2,000.00'"
+   },
+   {
+    "line_no": "15",
+    "page": 5,
+    "row": 15,
+    "date": "6/20/2022",
+    "vendor_raw": "Hannah Shelly",
+    "purpose": "Signs",
+    "amount": "185.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "last row of Schedule B sheet 1, whose printed subtotal is $50,232.58"
+   },
+   {
+    "line_no": "16",
+    "page": 6,
+    "row": 1,
+    "date": "6/16/2022",
+    "vendor_raw": "Jefferson Moss",
+    "purpose": "Campaign Donation",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "first row of Schedule B sheet 2. A donation MADE by this committee to another campaign, booked as an expenditure."
+   },
+   {
+    "line_no": "17",
+    "page": 6,
+    "row": 2,
+    "date": "6/16/2022",
+    "vendor_raw": "Cory Maloy",
+    "purpose": "Campaign Donation",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "18",
+    "page": 6,
+    "row": 3,
+    "date": "6/16/2022",
+    "vendor_raw": "Jake Anderegg",
+    "purpose": "Campaign Donation",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 6,
+    "row": 4,
+    "date": "5/25/2022",
+    "vendor_raw": "Fundraiser",
+    "purpose": "Fundraiser expenses",
+    "amount": "1951.96",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the Provider/Vendor cell says only 'Fundraiser' - the filer named the occasion, not a payee; kept verbatim"
+   },
+   {
+    "line_no": "20",
+    "page": 6,
+    "row": 5,
+    "date": "5/16/2022",
+    "vendor_raw": "101 Domains",
+    "purpose": "Domain fee",
+    "amount": "6.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "21",
+    "page": 6,
+    "row": 6,
+    "date": "6/16/2022",
+    "vendor_raw": "101 Domains",
+    "purpose": "Domain fee",
+    "amount": "6.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "22",
+    "page": 6,
+    "row": 7,
+    "date": "6/15/2022",
+    "vendor_raw": "Highland City",
+    "purpose": "Parade entry fee",
+    "amount": "27.49",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the same 27.49 parade fee also appears on sheet 1 row 13 dated 6/20/2022; both are printed and both are inside the filer's own subtotals, so both are transcribed and neither is treated as a duplicate"
+   },
+   {
+    "line_no": "23",
+    "page": 6,
+    "row": 8,
+    "date": "5/24/2022",
+    "vendor_raw": "Home Depot",
+    "purpose": "Sign supplies",
+    "amount": "195.13",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "24",
+    "page": 6,
+    "row": 9,
+    "date": "5/24/2022",
+    "vendor_raw": "Costco",
+    "purpose": "Parade supplies",
+    "amount": "149.02",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the typed figure is broken by a vertical white streak in the scan; escalated to 1600 dpi, which rendered '$149.02', and that is also the only reading that makes the sheet equal its printed 3,684.24"
+   },
+   {
+    "line_no": "25",
+    "page": 6,
+    "row": 10,
+    "date": "6/1/2022",
+    "vendor_raw": "Ave. Bakery, Wallabys, Costa Vida",
+    "purpose": "Food for volunteers",
+    "amount": "244.27",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THREE vendors in one cell, as the filer wrote them - kept as ONE row exactly as the document reports it, never split. Figure broken by the same scan streak; escalated to 1600 dpi, which rendered '$244.27', consistent with the sheet's closure."
+   },
+   {
+    "line_no": "26",
+    "page": 6,
+    "row": 11,
+    "date": "6/5/2022",
+    "vendor_raw": "Chevron, 7-11, Exxon",
+    "purpose": "Fuel Costs",
+    "amount": "257.53",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "three vendors in one cell; kept as one row"
+   },
+   {
+    "line_no": "27",
+    "page": 6,
+    "row": 12,
+    "date": "5/24/2022",
+    "vendor_raw": "Country Car Wash",
+    "purpose": "Parade costs",
+    "amount": "12.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "28",
+    "page": 6,
+    "row": 13,
+    "date": "5/1/2022",
+    "vendor_raw": "Smash Burger, Cafe Rio, Blaze Pizza",
+    "purpose": "Food for volunteers/donors",
+    "amount": "67.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "three vendors in one cell; kept as one row"
+   },
+   {
+    "line_no": "29",
+    "page": 6,
+    "row": 14,
+    "date": "5/20/2022",
+    "vendor_raw": "Fat Daddy's, Jurrassic Taco, Maglebys",
+    "purpose": "Food for volunteers/donors",
+    "amount": "219.14",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "three vendors in one cell, the filer's spelling 'Jurrassic' kept verbatim; one row"
+   },
+   {
+    "line_no": "30",
+    "page": 6,
+    "row": 15,
+    "date": "4/9/2022",
+    "vendor_raw": "Costco",
+    "purpose": "Convention Expenses",
+    "amount": "398.65",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "last row of Schedule B sheet 2, whose printed subtotal is $3,684.24"
+   },
+   {
+    "line_no": "31",
+    "page": 7,
+    "row": 1,
+    "date": "5/2/2022",
+    "vendor_raw": "Utah County Republican Women",
+    "purpose": "Annual Banquet booth",
+    "amount": "140.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "first row of Schedule B sheet 3"
+   },
+   {
+    "line_no": "32",
+    "page": 7,
+    "row": 2,
+    "date": "5/2/2022",
+    "vendor_raw": "Utah County Republican Women",
+    "purpose": "Annual Banquet booth",
+    "amount": "140.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a second, separately entered 140.00 on the same date to the same payee - both printed, both inside the filer's subtotal, both transcribed"
+   },
+   {
+    "line_no": "33",
+    "page": 7,
+    "row": 3,
+    "date": "4/7/2022",
+    "vendor_raw": "UVU",
+    "purpose": "parking expense",
+    "amount": "5.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "34",
+    "page": 7,
+    "row": 4,
+    "date": "4/23/2022",
+    "vendor_raw": "Zoom",
+    "purpose": "Zoom account- annual",
+    "amount": "112.53",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "35",
+    "page": 7,
+    "row": 5,
+    "date": "4/16/2022",
+    "vendor_raw": "Utah County Republican Women",
+    "purpose": "Table for annual banquet",
+    "amount": "350.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "36",
+    "page": 7,
+    "row": 6,
+    "date": "4/15/2022",
+    "vendor_raw": "America First Credit Union",
+    "purpose": "Bank Fee",
+    "amount": "10.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "37",
+    "page": 7,
+    "row": 7,
+    "date": "4/15/2022",
+    "vendor_raw": "101 Domains",
+    "purpose": "Domain Fee",
+    "amount": "6.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "38",
+    "page": 7,
+    "row": 8,
+    "date": "4/16/2022",
+    "vendor_raw": "Cravings Bistro",
+    "purpose": "Food for volunteers",
+    "amount": "105.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "39",
+    "page": 7,
+    "row": 9,
+    "date": "4/8/2022",
+    "vendor_raw": "PG Printers",
+    "purpose": "Printing expense for convention",
+    "amount": "272.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "40",
+    "page": 7,
+    "row": 10,
+    "date": "4/9/2022",
+    "vendor_raw": "Jarkin Takos, Avenue Bakery",
+    "purpose": "Convention expenses",
+    "amount": "301.65",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "two vendors in one cell; kept as one row"
+   },
+   {
+    "line_no": "41",
+    "page": 7,
+    "row": 11,
+    "date": "6/10/2022",
+    "vendor_raw": "Reagan Outdoor Advertising",
+    "purpose": "billboard",
+    "amount": "1069.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE ONLY HANDWRITTEN LEDGER ROW ON THE FILING - date, vendor, purpose and amount are all in black pen over the printed grid, and the amount is written WITHOUT a dollar sign. It is the offsetting entry for the in-kind contribution on Schedule A sheet 2 row 15, but ITS In-Kind checkbox is NOT ticked while the contribution row's IS - a filer inconsistency transcribed as printed and not adjudicated. Last row of Schedule B sheet 3, whose HANDWRITTEN subtotal is 2511.26."
+   }
+  ],
+  "notes": "AMELIA POWERS GARDNER, 2022, Utah County Commission - the chunk's largest filing (43 contribution rows / 41 expenditure rows) and A DIFFERENT 2022 BLANK from the Pomeroy filing read earlier in this chunk. *** THE SECOND 2022 FORM, CHARACTERISED *** EIGHT pages, each classified from its own printed header: p1 cover; pp2, 3 and 4 all 'Schedule A - Itemized Contributions Received'; pp5, 6 and 7 all 'Schedule B - Itemized Expenditures Made'; p8 'Summary Page' LAST. (1) NO PRINTED VERSION STRING - the footer carries only the three contact bullets, where the v. 4.20 stock prints 'v. 4.20'. index.csv records the variant as modern_boxAF with version '?', and that is right. (2) THE SCHEDULES HAVE FIVE COLUMNS, NOT FOUR: Date / Name of Contributor (or Provider/Vendor) / CITY AND STATE / Amount / IN-KIND CHECKBOX. Two changes matter. The address column is now 'City and State' by design, so no street address is ever printed - privacy by form, and the first blank in this corpus for which the read-time reduction is a no-op. And the IN-KIND CHECKBOX is the first dedicated in-kind field seen in Utah County; on this filing exactly one box is ticked. (3) THE COVER GAINED A SIXTH REPORT TYPE, 'End-of-Year Report - Due on December 31 for current County and local school board officers', alongside the five on the v. 4.20 blank; the boxes are SQUARE CHECKBOXES rather than radio circles; the affirmation block is now correctly headed 'Affirmation' (the v. 4.20 blank mislabelled it a second 'Type of Report'); and a 'Date of Filing' box replaces the 'Date of Report / Page' box, WHICH MEANS THIS BLANK HAS NO PAGE-NUMBER FIELD AT ALL - the filing is unfoliated, and completeness rests on the pdfinfo count and on the schedule totals reconciling across all three sheets, both of which they do. (4) THE CLOSE BOX IS LETTERED 'G' on this revision. Addendum I3 records it as UNLETTERED on v. 4.20, which is correct for that stock; this is a different blank and it prints the G. (5) The Schedule B PURPOSE column is present and every one of the 41 rows fills it. MIXED TYPED / HANDWRITTEN FIGURES, AND THE HANDWRITING IS LOAD-BEARING: the Schedule A sheet-2 subtotal (21,190.29), the Schedule B sheet-3 subtotal (2511.26), the Schedule B sum-of-all-pages total on all three sheets ($56,428.08), the whole of Schedule B sheet 3 row 11, and Boxes D, E and G on the Summary Page are all HANDWRITTEN in black pen over the printed form; everything else is machine type. Each handwritten figure was crop-proved and each is confirmed by the arithmetic it gates. REPORT TYPE: 'Seven days preceding the Primary Election' is ticked and the amendment question is answered No. The signature is a script-font digital signature, Date 6/21/22, with a matching Date of Filing 6/21/22. Page-face office reads 'Utah County Commission' WITH NO SEAT, while index.csv carries 'County Commission Seat A'. NO SEAT WAS INFERRED from the page - the filing does not print one, and per the standing rule that is recorded rather than resolved. Page-face candidate agrees with the channel label. PRIVACY: the county published this filing unredacted, but the schedules print only city and state, so nothing had to be dropped there; the cover's street line, phone and email were read and deliberately not carried. DATES: EVERY contribution row's date is a bare M/D with NO YEAR (all three Schedule A sheets), kept verbatim with needs_review=1 on all 43 rows - a year is never filled in from the report date. The expenditure sheets do carry years, and sheet 1 switches format mid-page from M/D/YY to M/D/YYYY; both kept verbatim. Schedule A sheet 3 runs in DESCENDING date order. Columns were assigned by CONTENT as well as position (field-shift screen): every date cell holds a date, every name cell a person or organisation, every city/state cell a city and state, every purpose cell a purpose - no inversion. Two vendor cells name an occasion rather than a payee ('Orem Summerfest Parade', 'Fundraiser') and SIX name several vendors at once ('Chevron, 7-11, Exxon'); all are flagged and kept as the single rows the document reports, never split into imagined vendors. All six row-index traps screened on all six schedule sheets: the first written entry is band 1 everywhere (crop-proved), no continuation line, no voided row, no banner line, nothing below the last printed rule (crop-proved on the FOUR FULL sheets p2, p3, p5 and p6, where the risk is real), and no doubled band - every grid is uniform-pitch at ~3.99 and every sheet closes to the cent on its own subtotal. NO CHECKLIST IS BOUND INTO THIS FILING: all eight pages are report pages and only p8 carries the summary labels, each with a figure."
+ }
+]

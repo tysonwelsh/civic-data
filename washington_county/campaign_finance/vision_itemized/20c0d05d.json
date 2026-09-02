@@ -1,0 +1,75 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W03.json",
+ "key": "20c0d05d",
+ "index_path": "raw/wayback_forms2018/Jan 7 2019_Brock R Belnap_Final FCR_01-09-2019.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/Jan 7 2019_Brock R Belnap_Final FCR_01-09-2019.pdf"
+ ],
+ "sha256_prefix": "4c14a18bfd3f431a",
+ "pages_read": [
+  1,
+  2
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "none",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "997.00",
+    "cover_over50_this": "-0-",
+    "cover_over50_cum": "997.00",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null
+   },
+   "itemized": null,
+   "basis": "none - the Form A sheet is not in this PDF",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is 2 pages: the cover (form page 1) and the Form B sheet (printed 'Page 3'). The Form A sheet (printed 'Page 2') was never scanned/filed with this copy, so there is no contribution schedule to reconcile. sides.contributions='none', NOT a zero. The cover's own line 1 reports 997.00 from LAST report, -0- THIS report, 997.00 cumulative - those figures are already published in filing_totals.csv."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "997.00",
+    "cover_expense_this": "-0-",
+    "cover_expense_cum": "997.00",
+    "cover_balance_end": "-0-",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (printed 'Page 3') is a completely blank ruled grid - no ink in any of its ~40 data rows - and its printed TOTAL cell is left blank by the filer. Rows-sum 0 equals the cover's line 3 THIS REPORT cell, written '-0-' (a zero glyph, per the zero-glyph ruling = 0). It does NOT equal the CUMULATIVE cell 997.00, so the schedule on this filing is PER-PERIOD, not cycle-to-date: this is a final report closing out a cycle whose 997.00 of activity was itemized on an earlier filing. Scope 'period' therefore differs from the CUMULATIVE figure the module publishes - honest, not a failure. cover_balance_end reads '-0-' in all three columns."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 (Form B): 0 inked rows, rows-sum 0.00; the sheet's printed TOTAL cell is BLANK so no schedule total exists to gate against; gated instead against cover line 3 THIS REPORT '-0-' - closes.",
+  "row_count": "p2 rowbands.py -> geometry_status 'gaps', 34 h_rules for a ~40-row grid (the tool merges/drops the heavy every-5th group rules; known [DEBT]). Counted by eye at 200 dpi: ZERO inked data rows. 0 rows emitted - consistent.",
+  "geometry_proof": "not applicable - zero rows emitted on either side.",
+  "balance_chain": "Cover line 4 reads '-0-' in all three columns. THIS-period chain: contributions -0- minus expenditures -0- = balance -0- - closes. Cumulative chain does NOT close arithmetically as printed (997.00 in - 997.00 out = 0, and the filer wrote '-0-' cumulative, which is consistent). No earlier filing by this filer is in this chunk, so the cross-filing TOTALS-FROM-LAST-REPORT chain could not be run here."
+ },
+ "escalations": 0,
+ "escalation_note": "No disputed glyph: every cover figure read cleanly at 200 dpi and both schedule pages are empty.",
+ "notes": "Generation-2 county-branded cover ('WASHINGTON COUNTY CANDIDATE FINANCIAL CAMPAIGN REPORT ... Washington County Code 1-7-1') but the stapled Form B sheet is the ~40-row Carr-Printing-style grid with a printed TOTAL footer - a mixed-generation staple. FORM vs CHUNK FILE: the chunk file / index.csv call the office 'Attorney'; the cover's Office line reads 'County Attorney' - AGREES, county office, in scope. Candidate name on the form is 'Brock R Belnap' - agrees. Clerk RECEIVED stamp JAN 07 2019. FILER TYPO retained: the certification reads 'the period beginning October 24, 2018 and ending January 7, 2018' - the end year is written 2018 where the signature date is 'January 7, 2019'; kept verbatim, not repaired. Privacy: the cover prints the candidate's home street address, ZIP, home phone and business phone in the clear - all discarded at read time and written nowhere in this record.",
+ "contributions": [],
+ "expenditures": []
+}

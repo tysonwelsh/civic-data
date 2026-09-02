@@ -1,0 +1,82 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C09.json",
+ "key": "897b36cd",
+ "index_path": "raw/2014/2014_cc_Merrill_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Merrill_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "6f7de700dd398231",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A carries NO transaction. On the first writing line the filer drew a nil mark in the Name-of-Contributor column (a zero flanked by short strokes, i.e. '-0-') and a matching '0' in the Amount column, leaving Date and Mailing Address empty. That is a nil marker for the whole schedule, not a row: there is no donor, no date, and a $0 contribution from nobody is not a transaction. Treated as an EMPTY SCHEDULE (transcribed, zero rows) with the glyphs recorded here verbatim. It closes against cover line 1, which reads 0 in all three columns, so the THIS and CUMULATIVE scopes coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "200",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "200",
+    "cover_balance_end": "(200)",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B carries the same nil marker on its first writing line — a '0' in the 'To Whom Expenditure was made' column and a '0' in the Amount column, Date and Purpose empty — and no transaction anywhere on the page. Zero rows sum 0.00, which equals cover line 3 THIS REPORT (0). It does NOT equal the cumulative 200, so this side is on the PERIOD scope: the cycle's 200 of expenditures was reported earlier and is not itemised in this document."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "The Carr form prints no page subtotal and no schedule total on either schedule; cover lines 1 and 3 are the only anchors, and both close.",
+  "row_count": "Both p2 and p3 carry exactly ONE inked band each — the first writing line, holding only the nil markers described above — and zero transaction rows were emitted from either. Verified by reading both pages full-page at 200 dpi and then re-reading the top band of each at 600 dpi (x=0 y=480 W=5100 H=400), which shows the '-0-' / '0' pair in the name and amount columns with empty date and address cells.",
+  "geometry_proof": "Not applicable — zero rows emitted on both sides. (The nil markers are deliberately not given geometry, because emitting a pointer would imply a row exists.)",
+  "balance_chain": "CLOSES EXACTLY: 0 (line 1 cum) + 0 (line 2 cum) - 200 (line 3 cum) = -200, and cover line 4 CUMULATIVE reads '(200)' — accounting parentheses, i.e. negative 200. The LAST and THIS balance cells are blank."
+ },
+ "escalations": 1,
+ "escalation_note": "600 dpi top-band crops of p2 and p3 (x=0 y=480 W=5100 H=400) to establish that the marks on the first writing line of each schedule are nil markers in the name/amount columns with empty date and address cells, and not a faint transaction.",
+ "notes": "index.csv says candidate=Merrill, office='County Council', 2014. The cover confirms and adds a district: 'Full Name of Candidate: GLACUS GREGORY MERRILL' (first name read at 200 dpi as written; the initial word is cramped), 'Name of Office: CACHE COUNTY COUNCIL', 'Office District: #3', Political Party REPUBLICAN, dated 11/18/14, signed 'Gregory Merrill', clerk stamp RCVD 19 NOV 2014. IN SCOPE (county office). No contradiction with the chunk file. Candidate street address, ZIP and both phone numbers appear in the clear on the cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

@@ -1,0 +1,61 @@
+[{
+ "index_path": "raw/2010/2010_CountyClerkAuditor-ThompsonBryanE-102610.pdf",
+ "key": "9935eb94",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED ($640 with raised cents '00') on the p2 Summary Page, which is also Schedule A's own printed 'Total Contributions Received' (640.00) and its handwritten page subtotal (640.00, written beside a struck machine-printed '$0.00')",
+   "detail": "2 Schedule A rows sum to 140.00 + 500.00 = 640.00 exactly = the schedule's page subtotal = its Total Contributions Received = the cover's PROMOTED per-period cell Column A. ⚠ AGAIN THIS CLOSES ONLY WITH THE IN-KIND ROW COUNTED INLINE: the filer marks the 140.00 PoliticalWS.com row '(In-Kind)', and a monetary-only sum is 500.00, which matches nothing printed. Both conventions were tested; monetary-plus-in-kind closes to the cent, consistent with this same filer's earlier 2010 report. Column B 'Year-to-Date Total' prints 1,444.16 and is NOT summed as an increment."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (140.00) on the p2 Summary Page, equal to Schedule B's handwritten 'Subtotal for this page' (140.00, beside a struck machine-printed '$0.00') and its handwritten 'Total Expenditures Received' (140.00)",
+   "detail": "The single Schedule B row sums to 140.00 = the printed page subtotal = the printed total = the cover's Column A. It is the expenditure side of the same in-kind website-hosting transaction that appears as contribution line 1, booked on both sides as the form's arithmetic requires. Column B YTD expenditures print 944.16 and were not summed as an increment. The p2 ladder closes on the HANDWRITTEN values that govern over the struck machine-printed ones: line 3 (00.00) + line 4 (640.00) = line 5 (640.00, written over a struck '$0.00'); 640.00 - line 6 (140.00) = line 7 (500.00, written over a struck '$0.00')."
+  }
+ },
+ "in_kind_convention": "MONETARY-PLUS-IN-KIND — tested both ways. Monetary-only contributions sum to 500.00, which appears nowhere on the filing; counting the filer's own '(In-Kind)'-annotated 140.00 row gives 640.00, which is simultaneously Schedule A's subtotal, its Total Contributions Received and the cover's Column A. The same 140.00 is carried on Schedule B, so the in-kind transaction sits inside BOTH stated totals. This is the second consecutive filing by this filer to behave this way (see 4592dac0), so the convention is the FILER's, not a one-off.",
+ "escalations": 2,
+ "escalation_note": "(1) ROW-INDEX ESCALATION (the off-by-one trap): on Schedule A the second entry does NOT sit on printed row 2. Row 1's payee cell runs onto a continuation line ('(Website Hosting)') that occupies printed row 2, and 900 dpi band crops of the amount column proved it: the [18.05,21.85] band rendered '$140 00 (In-Kind', the [21.85,25.65] band rendered an EMPTY amount cell, and the [25.65,29.45] band rendered '$500 00'. The 500.00 row is therefore recorded as printed row 3. (2) COLUMN OVERRUN: on that same row the filer wrote the figure to the right of the printed amount underline, so the measured amount band (80.69-90.11) clips it; the row carries an explicit widened `geometry` box (pct:80.69,25.65,14.37,3.80@p3) that renders '$500 00' in full, and that box wins over the frame for this row.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [80.64, 90.11],
+   "cells": [[7.65, 18.72], [20.19, 52.56], [53.21, 79.16], [80.64, 90.11]],
+   "rows": [[18.05, 21.85], [21.85, 25.65], [25.65, 29.45]],
+   "measure_note": "legacy_colAB Schedule A underline form. rowbands.py (200 dpi, raw frame, skew +0.0) returns 17 per-column underline rules from 21.85 at a regular pitch of 3.80, whose 4 segments ARE the column bands (Date 7.65-18.72, Name 20.19-52.56, Address 53.21-79.16, Amount 80.64-90.11). THE TEXT SITS ABOVE ITS UNDERLINE: row N spans [rule N-1, rule N]; row 1 extrapolated one pitch up (21.85 - 3.80 = 18.05). TWO-CROP PROOF at 900 dpi, and here it CHANGED the transcription: the FIRST transcribed row's box pct:80.64,18.05,9.47,3.80@p3 rendered '$140' with raised '00' (recorded 140.00); the band directly below it (pct:81,21.85,15,3.80@p3) rendered an EMPTY amount cell — that printed row holds only the payee's continuation text '(Website Hosting)' — and the LAST transcribed row's band (pct:80.69,25.65,...@p3) rendered '$500 00'. So the second entry is on printed ROW 3, not row 2, and the record says so. A big diagonal pen stroke crosses the blank lower two-thirds of the page (the conventional void of unused lines); it touches neither entry."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [80.34, 90.23],
+   "cells": [[7.36, 18.78], [20.25, 52.15], [53.27, 79.28], [80.34, 90.23]],
+   "rows": [[18.35, 22.17]],
+   "measure_note": "Same underline grid as p3 (skew +0.0): 17 rules from 22.17 at pitch 3.82; column bands Date 7.36-18.78, Name 20.25-52.15, Address 53.27-79.28, Amount 80.34-90.23. Row 1 extrapolated one pitch up (22.17 - 3.82 = 18.35). This page carries exactly ONE transcribed row, so it is proved directly: the 900 dpi crop pct:80.34,18.35,9.89,3.82@p4 rendered '$140' with raised '00' (recorded 140.00). As on p3, the payee's continuation line '(Website Hosting)' occupies the printed row below it and carries no amount, and a diagonal void stroke crosses the unused lines."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "July-Oct 2010",
+   "donor_raw": "Political W.S. Com (Matt Thompson) (Website Hosting)", "donor_city": "Provo", "donor_state": "UT",
+   "amount": "140.00", "in_kind": true, "confidence": "medium", "verified": 1,
+   "note": "THE FILER'S OWN IN-KIND ROW: '(In-Kind)' is written to the right of the amount on this line. Counting it is what closes Schedule A on 640.00. The payee cell runs onto a CONTINUATION LINE below — '(Website Hosting)', the filer's own statement of what was given — which is carried here inside donor_raw because the form has no purpose column on Schedule A; that continuation line occupies printed row 2 and holds no amount of its own. The date is a RANGE ('July-Oct 2010'), kept verbatim. PRIVACY: street address printed on the form is deliberately not carried."},
+  {"line_no": "2", "page": 3, "row": 3, "date": "6/29/10",
+   "donor_raw": "Utah County Republican Party", "donor_city": "Provo", "donor_state": "UT",
+   "amount": "500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "geometry": "pct:80.69,25.65,14.37,3.80@p3",
+   "note": "printed ROW 3, not row 2 — row 2 holds only the previous entry's payee continuation line (proved by band crops; see escalation_note). The amount is written to the RIGHT of the printed amount underline and is clipped by the measured column band, so this row carries an explicit widened geometry box that renders '$500 00' in full. Cents are a raised, underlined '00'. PRIVACY: the address cell prints a mailing-box line before the city; only city/state are carried."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "July-Oct 2010",
+   "vendor_raw": "Political WS. com (Matt Thompson)",
+   "purpose": "(Website Hosting)",
+   "amount": "140.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Schedule B on this legacy form prints NO Purpose column (the filer struck the printed header 'Name of Contributor'), but the filer wrote '(Website Hosting)' on a continuation line under the payee — that is the filer's own purpose statement and is carried in `purpose` for exactly that reason, not inferred. Date is a RANGE, kept verbatim. THIS IS THE EXPENDITURE SIDE OF THE IN-KIND CONTRIBUTION on Schedule A line 1; Schedule B carries no in-kind marking of its own, so in_kind stays false here and the relationship is stated rather than asserted as a field the page does not print. PRIVACY: the unredacted address column is not reproduced."}
+ ],
+ "notes": "PAGE-FACE CANDIDATE: 'Bryan E. Thompson' — index.csv names NO candidate for this row; the page face governs. Office Seeking hand-written 'Utah County Clerk/Auditor'; party 'Republican'; residence city Spanish Fork, UT (the cover prints a street address, deliberately not recorded). legacy_colAB variant, 4 pages, each classified from its own printed header: p1 COVER ('Seven days preceding the General Election' checked, amendment 'No', signed 10/25/10, clerk stamp OCT 26 AM 8:43), p2 SUMMARY PAGE (its own printed header; filer's page box numbers it '1 of 3' with the cover uncounted), p3 SCHEDULE A ('2 of 3'), p4 SCHEDULE B ('3 of 3'). FORM PROPERTY: this sheet was PARTLY PRE-FILLED BY MACHINE and then corrected by hand — Summary lines 5 and 7 and both schedule subtotals carry a machine-printed '$0.00' that the filer STRUCK THROUGH and overwrote by hand (640.00 / 500.00 / 640.00 / 140.00). Under the standing rule that handwritten corrections over struck typed values govern, the handwritten figures are the ones transcribed, and every struck value is named here rather than silently dropped. Also note the cover is headed simply 'FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' with no year and cites 'Utah County Code 2-5-2' (the filer's earlier 2010 filing cites '2-5'), i.e. a different template vintage — the form header is never used to date a filing. THE SAME-FILER COVER CHAIN HOLDS EXACTLY: this report's line 3 beginning balance (00.00) matches the earlier report's slashed-zero close, and its Column B year-to-date figures reproduce the sum of the two periods to the cent (804.16 + 640.00 = 1,444.16 contributions; 804.16 + 140.00 = 944.16 expenditures). Reported as an OBSERVATION — no figure here was derived by differencing covers, and each filing was transcribed strictly on its own terms."
+}]

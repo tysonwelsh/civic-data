@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C09.json",
+ "key": "b353cff5",
+ "index_path": "raw/2014/2014_cc_Jensen_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Jensen_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "3a5931fd88d7f011",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "$2125",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "2125",
+    "cover_le50_last": "170 -",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "170",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page exists in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is ONE page: the Carr cover only. Form A (page 2 of the printed form) is not present in the document at all, so there is nothing to itemize and no rows can be claimed. sides='none', NOT a zero. Cover line 1 THIS cell is a slashed-zero glyph -> 0 per the zero-glyph ruling; line 2 LAST is written '170 -' (trailing dash = no cents, i.e. 170.00) and is kept verbatim as printed."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "5476''",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "5476",
+    "cover_balance_end": "-3181''",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page exists in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form B is not present in the document (1-page PDF, cover only). The expense figures are the filer's own cover cells: LAST '5476''' (two prime marks = no cents), THIS slashed-zero, CUMULATIVE '5476'. THE CUMULATIVE TERMINAL GLYPH IS BISTABLE 4/6 and reads superficially as '5474' even at 1200 dpi; the filing's own arithmetic settles it as 5476 (see balance_chain). RHODES RULE APPLIED: arithmetic outranks the glyph re-read at any resolution. Recorded as 5476 with the bistability disclosed rather than silently."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No schedule pages exist in this document, so no page subtotal or schedule total is available. The Carr form prints none in any case.",
+  "row_count": "Not applicable — no ruled schedule page in the document.",
+  "geometry_proof": "Not applicable — zero rows emitted.",
+  "balance_chain": "CLOSES EXACTLY on the cumulative scope: 2125 (line 1 cum) + 170 (line 2 cum) - 5476 (line 3 cum) = -3181, and cover line 4 CUMULATIVE reads -3181''. This is the arithmetic that proves line 3 cumulative is 5476 and not 5474 (5474 would give -3179). Note a separate filer inconsistency in the LAST-REPORT column: line 4 there reads '3181''' with NO minus sign while the cumulative cell carries one; both retained verbatim, neither corrected."
+ },
+ "escalations": 2,
+ "escalation_note": "1200 dpi crops of the CUMULATIVE column lines 3-4 (x=8200 y=9600 W=1900 H=1900) and of the LAST-REPORT column lines 3-4 (x=3600 y=9600 W=2400 H=1900). The LAST column renders an unambiguous \"5476''\" with a looped 6 matching this writer's 6 elsewhere; the CUMULATIVE column's terminal glyph is the same looped form but scanned thinner and reads 4-like. Escalation did NOT settle it; the balance-chain arithmetic did.",
+ "notes": "index.csv says candidate=Jensen, office=Sheriff, 2014. The cover confirms: 'Full Name of Candidate: D. Chad Jensen', 'Name of Office: SHERIFF', Political Party Republican, dated 12/4/14, clerk stamp RCVD 04 DEC 2014. IN SCOPE (county office). No contradiction with the chunk file. THE DOCUMENT IS A COVER SHEET ONLY (pdfinfo Pages: 1, and the chunk file's pages column agrees) — the county published only page 1 of this filer's form, so the itemisation for this filing does not exist in the corpus. That is a document-level gap, NOT an empty schedule and NOT 'no donors'. Candidate street address, ZIP and home phone appear in the clear and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

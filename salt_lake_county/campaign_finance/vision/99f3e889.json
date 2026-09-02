@@ -1,0 +1,101 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "26.00",
+ "ending_balance": "26.00",
+ "aggregate": {
+  "total_contributions_to_date": "26.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "26.00"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "COUNTY RECORDER",
+  "district_number": "",
+  "report_type": "Seven days before a primary election - 2024 form 'For a Candidate'",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2024-06-14",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Snelgrove-Richard__C9C63D4E.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Snelgrove, Richard",
+  "office": "Recorder",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Snelgrove-Richard__C9C63D4E.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Two-page filing: cover + Summary Page only (audit CALIBRATION note confirmed - no Schedule A or B page exists). Whole filing handwritten on the '2024 Financial Disclosure Report For a Candidate' form; 'Seven days before a primary election' box X'd (the index reporting_period 'June 18' is that deadline; page governs); amendment Yes/No neither box checked. Signed 6-14-24, stamped RECEIVED JUN 14 2024 - matches index date 2024-06-14. Cover Office RECORDER / Office Sought COUNTY RECORDER - not school board. Cover street/email bar-redacted; no itemized rows exist so nothing else to redact. Column B contributions aggregate 26.00 with zero period activity - honest non-existence, not a gap.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {
+    "contributions": "no Schedule A page exists in the document (cover + Summary only) - NOT a gap: stated 0.00 is a consistent zero period",
+    "expenditures": "no Schedule B page exists in the document - stated 0.00 is a consistent zero period"
+   },
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page in the document; Summary line 1 Col A 0.00 with Col B aggregate 26.00 - a zero period, internally consistent"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page in the document; Summary line 2 Col A 0.00 with Col B aggregate 0.00 - a zero period, internally consistent"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages - no printed subtotal gate exists",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Two-page filing: cover + Summary Page only (audit CALIBRATION note confirmed - no Schedule A or B page exists). Whole filing handwritten on the '2024 Financial Disclosure Report For a Candidate' form; 'Seven days before a primary election' box X'd (the index reporting_period 'June 18' is that deadline; page governs); amendment Yes/No neither box checked. Signed 6-14-24, stamped RECEIVED JUN 14 2024 - matches index date 2024-06-14. Cover Office RECORDER / Office Sought COUNTY RECORDER - not school board. Cover street/email bar-redacted; no itemized rows exist so nothing else to redact. Column B contributions aggregate 26.00 with zero period activity - honest non-existence, not a gap."
+  }
+ }
+}

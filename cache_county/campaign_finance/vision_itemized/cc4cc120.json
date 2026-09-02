@@ -1,0 +1,75 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C02.json",
+ "key": "cc4cc120",
+ "index_path": "raw/2008/2008_wb_jwhite.pdf",
+ "applies_to": [
+  "raw/2008/2008_wb_jwhite.pdf"
+ ],
+ "sha256_prefix": "b7393fb537302e81",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "922",
+    "cover_over50_this": "",
+    "cover_over50_cum": "922",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is ONE page: the Carr 5-5-PG cover only (footer prints 'Page 1'). Form 'A' (page 2 of the paper form) is not present in the document, so there is nothing to itemize and no rows are claimed. Cover line 1 reads LAST 922 / THIS a bare dash / CUMULATIVE 922, all verified in 600 dpi cell crops. The form prints no schedule total anywhere (schedule pages absent as well)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "922",
+    "cover_expense_this": "",
+    "cover_expense_cum": "922",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no schedule page in the document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form 'B' (page 3 of the paper form) is not present in the one-page PDF. Cover line 3 reads LAST 922 / THIS a bare dash / CUMULATIVE 922 (600 dpi crop)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "not applicable - no schedule page exists in this document; the Carr form prints no schedule total in any case (addendum A.1)",
+  "row_count": "not applicable - no ruled schedule page in this document",
+  "geometry_proof": "not applicable - zero rows emitted",
+  "balance_chain": "Cumulative column closes exactly: contributions over-$50 922 (the <=$50 line is blank on all three columns) minus expenses 922 = 0, and the filer wrote 0 in both the THIS and CUMULATIVE balance cells. LAST + THIS = CUMULATIVE also holds on lines 1 and 3 (922 + nothing = 922). No earlier filing by this filer in this chunk, so no cross-filing chain was run."
+ },
+ "escalations": 3,
+ "escalation_note": "600 dpi cell crops of cover lines 1, 3 and 4 (the amount band, all three columns) to confirm 922/922 and the 0 balance and to confirm line 2 is empty",
+ "notes": "ONE-PAGE DOCUMENT - cover only. index.csv says candidate 'Barnard Jon White', office 'County Council'; the form's 'Full Name of Candidate' reads 'B. Jon White' (signed 'Jon White') and 'Name of Office' reads 'Cache County Council', 'Office District' South, party Republican - in scope and in agreement with the chunk file. Clerk RECEIVED stamp 2008 NOV 24 PM 1:46; filer's own signature date 11-24-08, matching the chunk file's 2008-11-24. The 'TO ____ County Clerk' line was left blank by the filer. ZERO-GLYPH NOTE: the THIS-REPORT cells of lines 1 and 3 carry a BARE DASH, which under the repo zero-glyph ruling is BLANK, not 0; the balance cells carry a written '0' digit, which is a real 0. Candidate street address, ZIP and home phone are printed in the clear on the cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

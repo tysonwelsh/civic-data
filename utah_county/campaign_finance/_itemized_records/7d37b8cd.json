@@ -1,0 +1,50 @@
+[{
+ "index_path": "raw/2022/2022_SakievichThomas_Redacted.pdf",
+ "key": "7d37b8cd",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah chunk r12_02)",
+ "transcribed_date": "2026-08-20",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' = $2000.00 on the p4 Summary Page, equal to Schedule A's own printed 'Subtotal for this page 2000.00'",
+   "detail": "The single Schedule A row (Mark Weldon, 2,000.00) is the whole side and equals the sheet's printed page subtotal AND the promoted per-period cell Box B. ⚠ SCOPE DIVERGENCE INSIDE ONE PRINTED LINE: the sheet's second footer, 'Total Contributions Received — Sum of all Schedule A Pages in this report', is filled with 75,650.88, which is NOT the sum of this report's Schedule A pages (2,000.00) but the CUMULATIVE figure the summary page carries in Box C. The filer used the sum-of-pages slot for his cycle-to-date total. The reconciliation therefore gates on the figures matching the side's own scope — the page subtotal and Box B — and 75,650.88 is recorded as the cumulative it is and never summed as an increment."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' = $5870.00 on the p4 Summary Page, equal to Schedule B's own printed 'Subtotal for this page 5870.00'",
+   "detail": "2 Schedule B rows sum to 2500.00 + 3370.00 = 5,870.00 exactly = the printed page subtotal = Box D. The same scope divergence appears here: Schedule B's 'Total Expenditures Made — Sum of all Schedule B Pages in this report' is filled with $73,624.77, the cumulative figure that also stands in Box E, not the 5,870.00 this report's pages sum to. Box E is never summed as an increment. The summary ladder closes exactly: A 5,896.11 + B 2,000.00 = 7,896.11 = F, and F - D = 2,026.11 = G."
+  }
+ },
+ "in_kind_convention": "MONETARY-ONLY, and the conventions are indistinguishable — tested both (G1). The In-Kind checkbox column is printed on both schedules and every box is empty (proved by an Amount+In-Kind block crop on Schedule B showing both rows' boxes unticked, and by the full-page read of Schedule A's single row), so no row is in-kind and both conventions give the same sum on each side.",
+ "escalations": 0,
+ "escalation_note": "No cell needed escalation. This is a born-digital typed fillable PDF (pdfinfo reports an AcroForm) printed and re-scanned; the three amounts are machine type and reproduce crisply at 900 dpi, and both printed page subtotals and the whole summary ladder close to the cent. Nothing was nudged.",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [74.56, 88.00],
+   "cells": [[47.21, 74.56], [74.56, 88.00], [88.00, 93.74]],
+   "rows": [[14.57, 18.89], [18.89, 23.20], [23.20, 27.52], [27.52, 31.84], [31.84, 36.16], [36.16, 40.43], [40.43, 44.80], [44.80, 49.07], [49.07, 53.39], [53.39, 57.70], [57.70, 62.05], [62.05, 66.34], [66.34, 70.68], [70.68, 75.02], [75.02, 79.34]],
+   "measure_note": "pdfinfo: rot 0 on all four pages (checked before measuring). Skew -0.5; a clean full-width rowbands scan, no --col recovery needed: 18 h_rules of which 14.57..79.34 are the 16 grid rules (15 boxed rows, pitch ~4.32); 10.86 is the column-header band's top and 94.70 the 'Subtotal for this page' underline. Boxed modern grid — a row lies between its own two rules, nothing extrapolated. The v_rules give the Amount (74.56-88.00) and In-Kind (88.00-93.74) bands. PROOF at 900 dpi --value (the side has ONE row, so it and its control were both cropped): pct:74.56,14.57,13.44,4.32@p2 rendered '$2000.00' (recorded 2000.00, Mark Weldon) and the NEGATIVE CONTROL one band past it, pct:74.56,18.89,13.44,4.31@p2, rendered an EMPTY boxed cell — the filer used 1 of the 15 printed lines and the band list is not off by one."
+  },
+  "3": {
+   "axis": "y",
+   "cell": [73.88, 87.35],
+   "cells": [[73.88, 87.35], [87.35, 93.12]],
+   "rows": [[14.55, 18.82], [18.82, 23.11], [23.11, 27.45], [27.45, 31.80], [31.80, 36.14], [36.14, 40.45], [40.45, 44.73], [44.73, 49.02], [49.02, 53.32], [53.32, 57.66], [57.66, 62.02], [62.02, 66.34], [66.34, 70.68], [70.68, 74.95], [74.95, 79.27]],
+   "measure_note": "Skew 0.0; clean full-width scan, grid rules 14.55..79.27 (15 boxed rows, pitch ~4.31), 10.95 the header band and 94.52 the subtotal underline; v_rules give Amount 73.88-87.35 and In-Kind 87.35-93.12. TWO-CROP PROOF at 900 dpi --value: pct:73.88,14.55,13.47,4.27@p3 rendered '$2500.00' (recorded 2500.00) and pct:73.88,18.82,13.47,4.29@p3 rendered '$3370.00' (recorded 3370.00) — both rows of the side proved. NEGATIVE CONTROL: pct:73.88,23.11,13.47,4.34@p3 rendered an EMPTY boxed cell (2 of 15 lines used). A combined Amount+In-Kind block crop pct:73.5,14.0,20.0,9.5@p3 shows both amounts beside two UNTICKED In-Kind boxes, settling the J1 half-row-high checkbox hazard on this page."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 2, "row": 1, "date": "July 2022", "donor_raw": "Mark Weldon", "donor_city": "Pleasant Grove", "donor_state": "UT", "amount": "2000.00", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "THE DATE HAS NO DAY — the filer typed only the month and year, 'July 2022'. Kept VERBATIM and flagged; no day was invented and nothing was inferred from the report date. The address column on this blank is 'City and State' by design and the filer filled it with exactly a city and a state, so the privacy reduction is a no-op here"}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "Dec 15, 2020", "vendor_raw": "Thomas V. & Marji D. Sakievich", "purpose": "Repay Campaign Loan", "amount": "2500.00", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "⚠ DATED TWO YEARS BEFORE THIS REPORT'S PERIOD (an End-of-Year 2022 report). The date is well formed but outside the period; kept VERBATIM and flagged, never adjudicated or moved. The payee is the candidate and his spouse and the purpose is a loan repayment — transcribed exactly as the document classifies it, on the expenditure side where the filer put it"},
+  {"line_no": "2", "page": 3, "row": 2, "date": "April 23, 2021", "vendor_raw": "Thomas V. & Marji D. Sakievich", "purpose": "Repay Campaign Loan", "amount": "3370.00", "in_kind": false, "confidence": "medium", "verified": 1, "needs_review": 1, "note": "also dated before this report's period (2021); same treatment — verbatim, flagged, not adjudicated. Note the date formats differ between the two rows ('Dec 15, 2020' abbreviated, 'April 23, 2021' spelled out) and from Schedule A's 'July 2022'; all kept as printed"}
+ ],
+ "notes": "PAGE-FACE candidate 'Thomas V. Sakievich' — printed in the cover's Name of Candidate box, on the affirmation line, and in the Name of Candidate footer of all three following pages; index.csv's channel label is 'Thomas Sakievich' (no middle initial). The page face governs. PAGE-FACE OFFICE: 'Utah County Commissioner' — NO SEAT LETTER IS PRINTED ANYWHERE, and none was inferred; index.csv's office is the seat-less 'County Commission', which agrees. FORM: modern_boxAF on the NEWER UNVERSIONED 2022 blank (In-Kind checkbox column, Schedule B with a Purpose column, close box lettered G, six report types, 'Date of Filing' field), filled as a born-digital typed fillable PDF (pdfinfo reports Form: AcroForm) then printed, signed and re-scanned. FOUR PAGES, each classified from its own printed heading: p1 cover (End-of-Year Report selected by a filled radio dot; amendment answered 'No'; dated and filed December 21, 2022), p2 SCHEDULE A, p3 SCHEDULE B, p4 SUMMARY PAGE (A $5896.11 / B $2000.00 / C $75,650.88 / D $5870.00 / E $73,624.77 / F $7896.11 / G $2026.11). NO Elections-Division CHECKLIST is bound. ⚠ A FILER CORRECTION TO THE FORM'S OWN PRINTED LABELS: on the summary page the printed words 'Year to Date' are STRUCK THROUGH in BOTH the Box C header ('Contributions Received ~~Year to Date~~') and the Box E header ('Expenditures Made ~~Year to Date~~'), leaving the box captions reading simply 'Contributions Received' / 'Expenditures Made'. The figures in those boxes (75,650.88 / 73,624.77) are far larger than a single calendar year of this filing's own activity and match the cumulative totals the filer also typed into both schedules' 'Sum of all Schedule Pages' footers, so the strike-through appears to mean 'cycle to date, not year to date'. That is RECORDED AS OBSERVED and NOT ADJUDICATED — the module's promotion regime already treats C and E as the cumulative column and never sums them as increments. ⚠ THE SECOND SCHEDULE FOOTER CARRIES A DIFFERENT SCOPE FROM ITS PRINTED LABEL on BOTH schedules: 'Total Contributions Received — Sum of all Schedule A Pages in this report' holds 75,650.88 against a page subtotal of 2,000.00, and 'Total Expenditures Made — Sum of all Schedule B Pages in this report' holds 73,624.77 against a page subtotal of 5,870.00. Each side was therefore reconciled against the figures matching ITS OWN SCOPE (the page subtotal and Box B / Box D), both of which close exactly; no cumulative figure was used as a gate and no two figures were differenced. REDACTION: this IS a *_Redacted file and the bars are on the page — the county blacked out the whole Address/City/State/Zip block and the entire Signature box on the cover. Nothing else on the filing is obscured; the two donor/vendor address-bearing fields that exist (Schedule A's City and State) are in the clear. Both expenditures are loan repayments to the candidate and his spouse, and both are dated in 2020 and 2021, outside this End-of-Year 2022 report's period — flagged on the rows, not adjudicated. Only one donor is itemized in the period."
+}]

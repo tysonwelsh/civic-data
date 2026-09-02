@@ -1,0 +1,2780 @@
+[
+ {
+  "index_path": "raw/2018/2018_CA.Grunander.pdf",
+  "key": "1a802679",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r6_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "itemized_pages_A": "3,4,5,6,7",
+  "itemized_pages_B": "8,9,10,11",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (55,901.89) on the p2 SUMMARY PAGE, which is also the printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' repeated at the foot of all five Schedule A sheets, and is corroborated by summary line 4 ('From Line 1 Column A', 55,901.89)",
+    "detail": "77 Schedule A rows over five sheets sum to 55,901.89 EXACTLY, and each sheet's rows sum to that sheet's own printed 'Subtotal for this page' to the cent: p3 15,113.00 (17 rows) + p4 7,904.99 (17) + p5 19,134.15 (17) + p6 10,999.75 (17) + p7 2,750.00 (9) = 55,901.89. That equals the schedule's own printed grand total AND the cover's PROMOTED PER-PERIOD cell, Column A. Column B 'Year-to-Date Total' prints the SAME figure 55,901.89 because this is the cycle's first report (Seven days preceding the Primary); it is retained as cumulative and is never summed as an increment. The cover ladder closes independently: line 3 (Balance at Beginning) is a SLASHED ZERO = 0 under the zero-glyph ruling, line 4 = 55,901.89, line 5 = 55,901.89, line 6 = 37,523.22, line 7 = 18,378.67, and 55,901.89 - 37,523.22 = 18,378.67."
+   },
+   "expenditures": {
+    "result": "delta",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (37,523.22) on the p2 SUMMARY PAGE, which is also the printed 'Total Expenditures Received (Sum of subtotals from all Schedule B pages)' repeated at the foot of all four Schedule B sheets, and is echoed at summary line 6 ('From Line 2 Column A')",
+    "detail": "66 Schedule B rows over four sheets sum to 37,522.38 against the printed 37,523.22 - a delta of +0.84 IN THE FILER'S FAVOUR (his printed figures are the larger). The delta is TRACED by the page-subtotal gate to exactly two sheets and is NOT spread: p8 rows sum 2,491.17 = printed subtotal 2,491.17 EXACT (after row 15 was corrected 38.83 -> 38.87 by escalation, see escalation_note); p9 rows sum 9,721.33 against printed subtotal 9,722.13, SHORT BY 0.80; p10 rows sum 16,611.15 = printed subtotal 16,611.15 EXACT; p11 rows sum 8,698.73 against printed subtotal 8,698.77, SHORT BY 0.04. The filer's own four printed subtotals add to his printed grand total exactly (2,491.17 + 9,722.13 + 16,611.15 + 8,698.77 = 37,523.22), so the discrepancy sits between his rows and his own page addition, not in his carry-forward. NOTHING WAS NUDGED: every one of the 17 amount cells on p9 and all 15 on p11 was escalated to a tight 900-2500 dpi cell crop and each reproduced the recorded figure; on p9 the two cells that could each absorb the whole 0.80 (row 12 96.10 and row 14 533.16, both turning on whether a raised cent digit is a 1 or a 9) were compared against the filer's OWN arithmetically-confirmed '16' and '96' glyphs on the exactly-closing p10 and both matched the '1x' forms - so the closure is NOT UNIQUE and neither was changed (ADDENDUM C5). Both are flagged needs_review=1, as is p11 row 5. Trap F1.5 was ruled out on both pages by full-width footer crops: nothing is written between the last printed rule and the 'Subtotal for this page' label. The correlated-error screen is inconclusive by absence - this is the only Grunander filing in the chunk."
+   }
+  },
+  "in_kind_convention": "MONETARY-PLUS-IN-KIND on the contributions side - both conventions were tested on both sides, as ADDENDUM G1 requires. Schedule A carries 18 rows the filer marks '(in-kind)' (6 on p3, 5 on p4, 7 on p7) totalling 2,789.33; monetary-only would give 53,112.56 and FAILS Column A by exactly that amount, while monetary-plus-in-kind gives 55,901.89 and closes to the cent against Column A, the schedule's printed grand total and every page subtotal. So this filer's in-kind gifts ARE inside his stated cash-column figure. Schedule B marks no row in-kind and prints no in-kind line, so the two conventions are identical there and neither closes the +0.84 delta. NOTE the p7 in-kind gifts are NOT double-entered as offsetting expenditures (the Voeks pattern of G1 does not occur here).",
+  "escalations": 63,
+  "escalation_note": "Two figures were settled by escalation, each confirmed BOTH by unique arithmetic closure AND by the filer's own comparison glyph (the ADDENDUM F6 standard). (1) p8 row 15 read 38.83 on the full page; a 2000 dpi tight crop shows cents identical to row 5's confirmed '87' on the same sheet and quite unlike the '83' of 13.83 on the exactly-closing p4, and 38.87 makes p8 sum to its printed subtotal 2,491.17 exactly - CORRECTED to 38.87. (2) p9 row 14 read 533.14 on the full page; 2500 dpi shows '16', stroke-for-stroke the filer's arithmetically-confirmed '16' from 2,623.16 on p10 - corrected to 533.16, which does NOT close the page and was kept anyway, because the glyph evidence is his own and the alternative reading 533.96 is contradicted by his confirmed '96' from 4,249.96 on the same closed page. Beyond those, all 17 p9 cells, all 15 p11 cells, 17 p8 cells, four p10 comparison cells and five donor name/state cells were escalated; every other one reproduced the full-page reading. The state cell that renders like 'CA' on several Schedule A rows is this filer's cursive 'Ut' - settled at 900 dpi against his unambiguous 'Ut' elsewhere on the same page; no state was inferred from a zip.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     82.24,
+     92.06
+    ],
+    "cells": [
+     [
+      6.65,
+      18.06
+     ],
+     [
+      19.59,
+      52.24
+     ],
+     [
+      53.83,
+      80.71
+     ],
+     [
+      82.24,
+      92.06
+     ]
+    ],
+    "rows": [
+     [
+      17.56,
+      21.48
+     ],
+     [
+      21.48,
+      25.43
+     ],
+     [
+      25.43,
+      29.34
+     ],
+     [
+      29.34,
+      33.25
+     ],
+     [
+      33.25,
+      37.18
+     ],
+     [
+      37.18,
+      41.11
+     ],
+     [
+      41.11,
+      45.03
+     ],
+     [
+      45.03,
+      48.95
+     ],
+     [
+      48.95,
+      52.89
+     ],
+     [
+      52.89,
+      56.82
+     ],
+     [
+      56.82,
+      60.73
+     ],
+     [
+      60.73,
+      64.61
+     ],
+     [
+      64.61,
+      68.54
+     ],
+     [
+      68.54,
+      72.5
+     ],
+     [
+      72.5,
+      76.43
+     ],
+     [
+      76.43,
+      80.34
+     ],
+     [
+      80.34,
+      84.25
+     ]
+    ],
+    "measure_note": "legacy_colAB SCHEDULE A is an UNDERLINE form: rowbands.py returns 17 per-column rules 21.48->84.25 (4 segments each = the four column bands Date / Name of Contributor / Mailing Address & Zip Code / Amount) at a regular pitch of 3.923. TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch above rule 1 (17 printed rules therefore = 17 data rows on this 2018 stock, one more than the 16 the brief predicted). TWO-CROP PROOF at 900 dpi: the row-1 box pct:82.24,17.56,9.82,3.93@p3 rendered the printed 'Amount' header over '10.85' (recorded 10.85 - so the filer did NOT skip the first ruled line, the ADDENDUM A1 control), and the row-17 box pct:82.24,80.34,9.82,3.91@p3 rendered '$500.oo' (recorded 500.00). ONE-PAST-THE-END control pct:82.24,84.25,9.82,3.91@p3 rendered '15,113.' - that is the PRINTED page subtotal in the footer band, not an 18th ledger row (trap F1.5 ruled out; a full-width footer crop shows nothing between the last rule and the Subtotal label)."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     82.31,
+     92.13
+    ],
+    "cells": [
+     [
+      6.72,
+      18.13
+     ],
+     [
+      19.66,
+      52.31
+     ],
+     [
+      53.89,
+      80.78
+     ],
+     [
+      82.31,
+      92.13
+     ]
+    ],
+    "rows": [
+     [
+      17.56,
+      21.48
+     ],
+     [
+      21.48,
+      25.41
+     ],
+     [
+      25.41,
+      29.32
+     ],
+     [
+      29.32,
+      33.26
+     ],
+     [
+      33.26,
+      37.18
+     ],
+     [
+      37.18,
+      41.11
+     ],
+     [
+      41.11,
+      45.02
+     ],
+     [
+      45.02,
+      48.95
+     ],
+     [
+      48.95,
+      52.87
+     ],
+     [
+      52.87,
+      56.8
+     ],
+     [
+      56.8,
+      60.71
+     ],
+     [
+      60.71,
+      64.64
+     ],
+     [
+      64.64,
+      68.58
+     ],
+     [
+      68.58,
+      72.51
+     ],
+     [
+      72.51,
+      76.41
+     ],
+     [
+      76.41,
+      80.33
+     ],
+     [
+      80.33,
+      84.23
+     ]
+    ],
+    "measure_note": "Same underline grid; rowbands returned 15 of the 17 rules (it missed the two at ~64.6 and ~68.6), so those two were interpolated on the fitted pitch 3.922 and the whole list re-checked against the detected ones (max deviation 0.03). TWO-CROP PROOF at 900 dpi: row 1 pct:82.31,17.56,9.82,3.92@p4 rendered '$500.oo' (recorded 500.00, Steve Cox) and row 17 pct:82.31,80.30,9.82,3.93@p4 rendered '2,000.oo' (recorded 2000.00, Mari Tsosie). ONE-PAST control pct:82.31,84.23,9.82,3.92@p4 rendered the printed subtotal '7,904.' - no extra row."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     82.22,
+     92.0
+    ],
+    "cells": [
+     [
+      6.64,
+      18.06
+     ],
+     [
+      19.59,
+      52.24
+     ],
+     [
+      53.82,
+      80.7
+     ],
+     [
+      82.22,
+      92.0
+     ]
+    ],
+    "rows": [
+     [
+      17.56,
+      21.48
+     ],
+     [
+      21.48,
+      25.39
+     ],
+     [
+      25.39,
+      29.32
+     ],
+     [
+      29.32,
+      33.27
+     ],
+     [
+      33.27,
+      37.21
+     ],
+     [
+      37.21,
+      41.12
+     ],
+     [
+      41.12,
+      45.05
+     ],
+     [
+      45.05,
+      48.94
+     ],
+     [
+      48.94,
+      52.89
+     ],
+     [
+      52.89,
+      56.8
+     ],
+     [
+      56.8,
+      60.7
+     ],
+     [
+      60.7,
+      64.66
+     ],
+     [
+      64.66,
+      68.57
+     ],
+     [
+      68.57,
+      72.5
+     ],
+     [
+      72.5,
+      76.41
+     ],
+     [
+      76.41,
+      80.32
+     ],
+     [
+      80.32,
+      84.23
+     ]
+    ],
+    "measure_note": "Same grid, 17 detected rules, pitch 3.922. TWO-CROP PROOF at 900 dpi: row 1 pct:82.22,17.56,9.78,3.92@p5 rendered '$1,000.oo' (recorded 1000.00, Riley Stringham) and row 17 pct:82.22,80.32,9.78,3.91@p5 rendered '$96.80' (recorded 96.80, Brian Miller). ONE-PAST control pct:82.22,84.23,9.78,3.92@p5 rendered the printed subtotal '19,134.1' - no extra row."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     81.95,
+     91.71
+    ],
+    "cells": [
+     [
+      6.48,
+      17.89
+     ],
+     [
+      19.48,
+      52.01
+     ],
+     [
+      53.59,
+      80.42
+     ],
+     [
+      81.95,
+      91.71
+     ]
+    ],
+    "rows": [
+     [
+      17.51,
+      21.43
+     ],
+     [
+      21.43,
+      25.34
+     ],
+     [
+      25.34,
+      29.28
+     ],
+     [
+      29.28,
+      33.21
+     ],
+     [
+      33.21,
+      37.12
+     ],
+     [
+      37.12,
+      41.07
+     ],
+     [
+      41.07,
+      44.98
+     ],
+     [
+      44.98,
+      48.89
+     ],
+     [
+      48.89,
+      52.8
+     ],
+     [
+      52.8,
+      56.75
+     ],
+     [
+      56.75,
+      60.69
+     ],
+     [
+      60.69,
+      64.59
+     ],
+     [
+      64.59,
+      68.52
+     ],
+     [
+      68.52,
+      72.46
+     ],
+     [
+      72.46,
+      76.4
+     ],
+     [
+      76.4,
+      80.3
+     ],
+     [
+      80.3,
+      84.2
+     ]
+    ],
+    "measure_note": "Same grid; rowbands returned 14 of 17 rules (missed ~48.9, ~76.4, ~80.3), interpolated on the fitted pitch 3.923 and cross-checked against the detected list (max deviation 0.03). TWO-CROP PROOF at 900 dpi: row 1 pct:81.95,17.51,9.76,3.92@p6 rendered '$242.45' (recorded 242.45, Susan Oldroyd) and row 17 pct:81.95,80.27,9.76,3.93@p6 rendered '$1,000.oo' (recorded 1000.00, Utah Co. Deputies Assoc'n). ONE-PAST control pct:81.95,84.20,9.76,3.92@p6 rendered the printed subtotal '10,999.7' - no extra row."
+   },
+   "7": {
+    "axis": "y",
+    "cell": [
+     82.06,
+     91.89
+    ],
+    "cells": [
+     [
+      6.59,
+      18.01
+     ],
+     [
+      19.54,
+      52.12
+     ],
+     [
+      53.71,
+      80.59
+     ],
+     [
+      82.06,
+      91.89
+     ]
+    ],
+    "rows": [
+     [
+      17.56,
+      21.48
+     ],
+     [
+      21.48,
+      25.43
+     ],
+     [
+      25.43,
+      29.34
+     ],
+     [
+      29.34,
+      33.27
+     ],
+     [
+      33.27,
+      37.23
+     ],
+     [
+      37.23,
+      41.14
+     ],
+     [
+      41.14,
+      45.05
+     ],
+     [
+      45.05,
+      48.95
+     ],
+     [
+      48.95,
+      52.89
+     ],
+     [
+      52.89,
+      56.82
+     ],
+     [
+      56.82,
+      60.73
+     ],
+     [
+      60.73,
+      64.66
+     ],
+     [
+      64.66,
+      68.57
+     ],
+     [
+      68.57,
+      72.5
+     ],
+     [
+      72.5,
+      76.41
+     ],
+     [
+      76.41,
+      80.34
+     ],
+     [
+      80.34,
+      84.27
+     ]
+    ],
+    "measure_note": "Same grid, 17 detected rules, but only the first NINE carry entries; the filer then drew a single long wavy stroke across the leftover grid (ADDENDUM E3's 'stroke across the remainder', which consumes NO row and shifts no index) plus a large looping mark over the empty rows. TWO-CROP PROOF at 900 dpi: row 1 pct:82.06,17.56,9.83,3.92@p7 rendered '$150.oo' (recorded 150.00, Don Livingstone) and the last transcribed row 9 pct:82.06,48.95,9.83,3.94@p7 rendered '$520.oo' (recorded 520.00). ONE-PAST control pct:82.06,52.89,9.83,3.93@p7 rendered ONLY the wavy stroke, no figure - the ledger ends at row 9. Bands for rows 10-17 are carried for completeness and hold no entries."
+   },
+   "8": {
+    "axis": "y",
+    "cell": [
+     82.0,
+     91.82
+    ],
+    "cells": [
+     [
+      6.53,
+      17.94
+     ],
+     [
+      19.47,
+      52.06
+     ],
+     [
+      53.65,
+      80.53
+     ],
+     [
+      82.0,
+      91.82
+     ]
+    ],
+    "rows": [
+     [
+      19.63,
+      23.55
+     ],
+     [
+      23.55,
+      27.5
+     ],
+     [
+      27.5,
+      31.41
+     ],
+     [
+      31.41,
+      35.34
+     ],
+     [
+      35.34,
+      39.25
+     ],
+     [
+      39.25,
+      43.16
+     ],
+     [
+      43.16,
+      47.07
+     ],
+     [
+      47.07,
+      51.0
+     ],
+     [
+      51.0,
+      54.95
+     ],
+     [
+      54.95,
+      58.89
+     ],
+     [
+      58.89,
+      62.77
+     ],
+     [
+      62.77,
+      66.7
+     ],
+     [
+      66.7,
+      70.59
+     ],
+     [
+      70.59,
+      74.55
+     ],
+     [
+      74.55,
+      78.48
+     ],
+     [
+      78.48,
+      82.41
+     ],
+     [
+      82.41,
+      86.32
+     ]
+    ],
+    "measure_note": "legacy_colAB SCHEDULE B, same underline form, 17 detected rules 23.55->86.32, pitch 3.923; the four segments give Date / Provider-Vendor / Mailing Address & Zip Code / Amount. TWO-CROP PROOF at 900 dpi: row 1 pct:82.00,19.63,9.82,3.92@p8 rendered '$48.69' (recorded 48.69, FedEx) and row 17 pct:82.00,82.41,9.82,3.91@p8 rendered '$400.oo' (recorded 400.00, Beehive Consulting). ONE-PAST control pct:82.00,86.32,9.82,3.92@p8 rendered the printed subtotal '2,491.' plus the row-17 continuation text '(Outdoors Show booth - UVU)', which carries no figure - trap F1.5 ruled out."
+   },
+   "9": {
+    "axis": "y",
+    "cell": [
+     82.18,
+     92.0
+    ],
+    "cells": [
+     [
+      6.65,
+      18.06
+     ],
+     [
+      19.53,
+      52.18
+     ],
+     [
+      53.77,
+      80.65
+     ],
+     [
+      82.18,
+      92.0
+     ]
+    ],
+    "rows": [
+     [
+      19.65,
+      23.57
+     ],
+     [
+      23.57,
+      27.5
+     ],
+     [
+      27.5,
+      31.43
+     ],
+     [
+      31.43,
+      35.36
+     ],
+     [
+      35.36,
+      39.27
+     ],
+     [
+      39.27,
+      43.2
+     ],
+     [
+      43.2,
+      47.11
+     ],
+     [
+      47.11,
+      51.04
+     ],
+     [
+      51.04,
+      55.0
+     ],
+     [
+      55.0,
+      58.93
+     ],
+     [
+      58.93,
+      62.82
+     ],
+     [
+      62.82,
+      66.75
+     ],
+     [
+      66.75,
+      70.66
+     ],
+     [
+      70.66,
+      74.59
+     ],
+     [
+      74.59,
+      78.52
+     ],
+     [
+      78.52,
+      82.45
+     ],
+     [
+      82.45,
+      86.36
+     ]
+    ],
+    "measure_note": "Same Schedule B grid, 17 detected rules 23.57->86.36, pitch 3.924. TWO-CROP PROOF at 900 dpi: row 1 pct:82.18,19.65,9.82,3.92@p9 rendered '$3.oo' (recorded 3.00, Zion's Bank) and row 17 pct:82.18,82.45,9.82,3.91@p9 rendered '$60.70' (recorded 60.70, Print-Mark). ONE-PAST control pct:82.18,86.36,9.82,3.92@p9 rendered the printed subtotal '9,722.13' only; a full-width footer crop confirms nothing is written between the last rule and the Subtotal label (trap F1.5 ruled out, which matters because this page carries a delta). EVERY ONE of the 17 amount cells on this page was additionally escalated to a tight 900-2500 dpi cell crop."
+   },
+   "10": {
+    "axis": "y",
+    "cell": [
+     82.06,
+     91.88
+    ],
+    "cells": [
+     [
+      6.53,
+      17.94
+     ],
+     [
+      19.45,
+      52.08
+     ],
+     [
+      53.69,
+      80.57
+     ],
+     [
+      82.06,
+      91.88
+     ]
+    ],
+    "rows": [
+     [
+      19.59,
+      23.52
+     ],
+     [
+      23.52,
+      27.48
+     ],
+     [
+      27.48,
+      31.38
+     ],
+     [
+      31.38,
+      35.32
+     ],
+     [
+      35.32,
+      39.25
+     ],
+     [
+      39.25,
+      43.2
+     ],
+     [
+      43.2,
+      47.09
+     ],
+     [
+      47.09,
+      51.02
+     ],
+     [
+      51.02,
+      54.95
+     ],
+     [
+      54.95,
+      58.86
+     ],
+     [
+      58.86,
+      62.79
+     ],
+     [
+      62.79,
+      66.7
+     ],
+     [
+      66.7,
+      70.61
+     ],
+     [
+      70.61,
+      74.57
+     ],
+     [
+      74.57,
+      78.48
+     ],
+     [
+      78.48,
+      82.41
+     ],
+     [
+      82.41,
+      86.32
+     ]
+    ],
+    "measure_note": "Same Schedule B grid, 17 detected rules 23.52->86.32, pitch 3.925. TWO-CROP PROOF at 900 dpi: row 1 pct:82.06,19.60,9.82,3.92@p10 rendered '$45.00' (recorded 45.00, Amy Turner - Balloon Boyz) and row 17 pct:82.06,82.41,9.82,3.91@p10 rendered '$31.41' (recorded 31.41, Lowe's). ONE-PAST control pct:82.06,86.32,9.82,3.92@p10 rendered the printed subtotal '16,611.1' - no extra row. This page closes EXACTLY, which is why two of its cells were used as the filer's own comparison glyphs for the escalations on p9."
+   },
+   "11": {
+    "axis": "y",
+    "cell": [
+     82.12,
+     91.94
+    ],
+    "cells": [
+     [
+      6.65,
+      18.06
+     ],
+     [
+      19.53,
+      52.12
+     ],
+     [
+      53.71,
+      80.59
+     ],
+     [
+      82.12,
+      91.94
+     ]
+    ],
+    "rows": [
+     [
+      19.78,
+      23.7
+     ],
+     [
+      23.7,
+      27.61
+     ],
+     [
+      27.61,
+      31.52
+     ],
+     [
+      31.52,
+      35.48
+     ],
+     [
+      35.48,
+      39.43
+     ],
+     [
+      39.43,
+      43.34
+     ],
+     [
+      43.34,
+      47.25
+     ],
+     [
+      47.25,
+      51.2
+     ],
+     [
+      51.2,
+      55.11
+     ],
+     [
+      55.11,
+      59.02
+     ],
+     [
+      59.02,
+      62.93
+     ],
+     [
+      62.93,
+      66.89
+     ],
+     [
+      66.89,
+      70.79
+     ],
+     [
+      70.79,
+      74.75
+     ],
+     [
+      74.75,
+      78.66
+     ],
+     [
+      78.66,
+      82.59
+     ],
+     [
+      82.59,
+      86.48
+     ]
+    ],
+    "measure_note": "Same Schedule B grid, 17 detected rules 23.70->86.48, pitch 3.924; only the first FIFTEEN carry entries and the filer drew a wavy stroke across rows 16-17. TWO-CROP PROOF at 900 dpi: row 1 pct:82.12,19.78,9.82,3.92@p11 rendered '$1,000' (recorded 1000.00, Blip Billboards - the filer writes these three billboard rows with NO cents at all) and the last transcribed row 15 pct:82.12,74.75,9.82,3.91@p11 rendered '$76.59' (recorded 76.59). ONE-PAST control pct:82.12,78.66,9.82,3.93@p11 rendered ONLY the wavy stroke, no figure. A full-page-width 800 dpi strip of the whole amount column was also read to confirm 15 entries and no value overflowing the printed column (ADDENDUM G2 screen: none did)."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "1/18/2018",
+    "donor_raw": "Chris Clifford (photo copies)",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "10.85",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "marked '(in-kind)' to the right of the amount"
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "1/19/2018",
+    "donor_raw": "Chad Grunander",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the candidate's own contribution to his campaign; booked by the filer on Schedule A, not as a beginning balance (cover line 3 is a SLASHED ZERO)"
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "1/19/2018",
+    "donor_raw": "Ryan McBride (fliers)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "57.70",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "marked '(in-kind)'"
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "1/19/2018",
+    "donor_raw": "Sam Pead (badges)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "marked '(in-kind)'"
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "1/24/2018",
+    "donor_raw": "Tim Taylor",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "1/24/2018",
+    "donor_raw": "Dennis Pawelek",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "1/24/2018",
+    "donor_raw": "Chris Clifford (photo copies)",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "4.20",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "marked '(in-kind)'; the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "1/25/2018",
+    "donor_raw": "Tony & Alice Grunander",
+    "donor_city": "S.F.",
+    "donor_state": "UT",
+    "amount": "10000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor city written by the filer as the abbreviation 'S.F.'; transcribed as printed and NOT expanded"
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "1/26/2018",
+    "donor_raw": "Ryan McBride (mtg. materials)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "40.26",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "marked '(in-kind)'; the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "1/23/2018",
+    "donor_raw": "Ryan McBride (website expense)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "29.99",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "marked '(in-kind)'; the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried. NOTE the date is out of order (1/23 after 1/26) - kept verbatim"
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "date": "1/30/2018",
+    "donor_raw": "Terry & Lisa Mott",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "date": "1/30/2018",
+    "donor_raw": "Gary Winterton",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the state cell is this filer's cursive 'Ut', which renders like 'CA' at page scale; settled at 900 dpi against his unambiguous 'Ut' on rows 11 and 14 of the same page"
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "date": "1/31/2018",
+    "donor_raw": "Eric & Tara Nelson",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the surname 'Nelson' is written ABOVE a heavily struck-out word - the handwritten correction governs"
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "date": "2/1/2018",
+    "donor_raw": "Brian & Kim Snelson",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "surname read at 900 dpi as 'Snelson' (not 'Nelson'); the same filing carries a separate 'Eric & Tara Nelson'"
+   },
+   {
+    "line_no": "15",
+    "page": 3,
+    "row": 15,
+    "date": "2/5/2018",
+    "donor_raw": "Pam & John Staheli",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 16,
+    "date": "2/5/2018",
+    "donor_raw": "Brent & Robin Norton",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 17,
+    "date": "2/5/2018",
+    "donor_raw": "Jeff & Anne Rust",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "18",
+    "page": 4,
+    "row": 1,
+    "date": "2/6/2018",
+    "donor_raw": "Steve Cox",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 4,
+    "row": 2,
+    "date": "2/7/2018",
+    "donor_raw": "Ralph & Kathy Abbott",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "20",
+    "page": 4,
+    "row": 3,
+    "date": "2/9/2018",
+    "donor_raw": "Chris Yenelli",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell carries a struck-out line above the written address - the surviving handwritten address governs"
+   },
+   {
+    "line_no": "21",
+    "page": 4,
+    "row": 4,
+    "date": "2/9/2018",
+    "donor_raw": "Chris Clifford",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "14.50",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "marked '(in-kind)'; the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "22",
+    "page": 4,
+    "row": 5,
+    "date": "2/9/2018",
+    "donor_raw": "Dallas Haker - Lone Star Builders",
+    "donor_city": "Springville",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "23",
+    "page": 4,
+    "row": 6,
+    "date": "2/9/2018",
+    "donor_raw": "Joseph & Aubrey Earnest",
+    "donor_city": "Springville",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "24",
+    "page": 4,
+    "row": 7,
+    "date": "2/10/2018",
+    "donor_raw": "Ann Marie Howard (Shirley's bakery desserts)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "80.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "marked '(in-kind)'; the parenthetical is written above the donor name"
+   },
+   {
+    "line_no": "25",
+    "page": 4,
+    "row": 8,
+    "date": "2/22/2018",
+    "donor_raw": "Chris Clifford (photo-copies)",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "7.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "marked '(in-kind)'; the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "26",
+    "page": 4,
+    "row": 9,
+    "date": "2/23/2018",
+    "donor_raw": "Chase Hansen (office supplies + candy)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "13.83",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "marked '(in-kind)'"
+   },
+   {
+    "line_no": "27",
+    "page": 4,
+    "row": 10,
+    "date": "2/22/2018",
+    "donor_raw": "Kelsy Wright",
+    "donor_city": "Draper",
+    "donor_state": "UT",
+    "amount": "4.55",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$5.00 less PayPal fee'."
+   },
+   {
+    "line_no": "28",
+    "page": 4,
+    "row": 11,
+    "date": "2/22/2018",
+    "donor_raw": "Amy Grunander",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "9.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$10.00 less PayPal fee'."
+   },
+   {
+    "line_no": "29",
+    "page": 4,
+    "row": 12,
+    "date": "2/28/2018",
+    "donor_raw": "Stacie Childs",
+    "donor_city": "Santaquin",
+    "donor_state": "UT",
+    "amount": "485.20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$500.00 less PayPal fee'."
+   },
+   {
+    "line_no": "30",
+    "page": 4,
+    "row": 13,
+    "date": "2/28/2018",
+    "donor_raw": "Joseph Grenny",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "1941.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$2,000 less PayPal fee'."
+   },
+   {
+    "line_no": "31",
+    "page": 4,
+    "row": 14,
+    "date": "3/1/2018",
+    "donor_raw": "Chris Clifford (photo-copies)",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "11.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "marked '(in-kind)'; the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "32",
+    "page": 4,
+    "row": 15,
+    "date": "3/3/2018",
+    "donor_raw": "Lauren Hunt",
+    "donor_city": "SLC",
+    "donor_state": "UT",
+    "amount": "145.35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$150 less PayPal fee'. Donor city written by the filer as the abbreviation 'SLC'; transcribed as printed."
+   },
+   {
+    "line_no": "33",
+    "page": 4,
+    "row": 16,
+    "date": "3/4/2018",
+    "donor_raw": "Karl Kemp",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "242.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$250 less PayPal fee'."
+   },
+   {
+    "line_no": "34",
+    "page": 4,
+    "row": 17,
+    "date": "3/14/2018",
+    "donor_raw": "Mari Tsosie",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "35",
+    "page": 5,
+    "row": 1,
+    "date": "3/14/2018",
+    "donor_raw": "Riley Stringham",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "36",
+    "page": 5,
+    "row": 2,
+    "date": "3/17/2018",
+    "donor_raw": "Wayne Johnson",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "242.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$250 less PayPal fee'."
+   },
+   {
+    "line_no": "37",
+    "page": 5,
+    "row": 3,
+    "date": "3/23/2018",
+    "donor_raw": "Bill & Alyson Freedman",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "38",
+    "page": 5,
+    "row": 4,
+    "date": "4/17/2018",
+    "donor_raw": "Eric & Tara Nelson",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "39",
+    "page": 5,
+    "row": 5,
+    "date": "4/19/2018",
+    "donor_raw": "Mike Miller",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "10000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "40",
+    "page": 5,
+    "row": 6,
+    "date": "4/19/2018",
+    "donor_raw": "Nic Button",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "485.20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$500 less PayPal fee'."
+   },
+   {
+    "line_no": "41",
+    "page": 5,
+    "row": 7,
+    "date": "4/16/2018",
+    "donor_raw": "Alexis Somers",
+    "donor_city": "South Jordan",
+    "donor_state": "UT",
+    "amount": "970.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$1,000 less PayPal fee'."
+   },
+   {
+    "line_no": "42",
+    "page": 5,
+    "row": 8,
+    "date": "4/16/2018",
+    "donor_raw": "Sherry Ragan",
+    "donor_city": "P.G.",
+    "donor_state": "UT",
+    "amount": "96.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Donor city written by the filer as the abbreviation 'P.G.'; transcribed as printed and NOT expanded."
+   },
+   {
+    "line_no": "43",
+    "page": 5,
+    "row": 9,
+    "date": "4/15/2018",
+    "donor_raw": "Camille Buhman",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "485.20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded."
+   },
+   {
+    "line_no": "44",
+    "page": 5,
+    "row": 10,
+    "date": "5/1/2018",
+    "donor_raw": "Karl Kemp",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "242.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$250 less PayPal fee'."
+   },
+   {
+    "line_no": "45",
+    "page": 5,
+    "row": 11,
+    "date": "5/7/2018",
+    "donor_raw": "Vickie Murphy",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "46",
+    "page": 5,
+    "row": 12,
+    "date": "5/7/2018",
+    "donor_raw": "Steve Smith",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "47",
+    "page": 5,
+    "row": 13,
+    "date": "5/14/2018",
+    "donor_raw": "Sunroc",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a corporate donor (the filer names no individual)"
+   },
+   {
+    "line_no": "48",
+    "page": 5,
+    "row": 14,
+    "date": "5/14/2018",
+    "donor_raw": "Chris Yenelli",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "125.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "49",
+    "page": 5,
+    "row": 15,
+    "date": "5/19/2018",
+    "donor_raw": "Roger Merrill",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "339.55",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$350 less PayPal fee'."
+   },
+   {
+    "line_no": "50",
+    "page": 5,
+    "row": 16,
+    "date": "5/29/2018",
+    "donor_raw": "Scott Felstead",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "3500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "51",
+    "page": 5,
+    "row": 17,
+    "date": "5/25/2018",
+    "donor_raw": "Brian Miller",
+    "donor_city": "Cedar Hills",
+    "donor_state": "UT",
+    "amount": "96.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$100 less PayPal fee'."
+   },
+   {
+    "line_no": "52",
+    "page": 6,
+    "row": 1,
+    "date": "5/27/2018",
+    "donor_raw": "Susan Oldroyd",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "242.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$250 less PayPal fee'."
+   },
+   {
+    "line_no": "53",
+    "page": 6,
+    "row": 2,
+    "date": "5/30/2018",
+    "donor_raw": "Wayne Johnson",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "242.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the PayPal-fee annotation is a DITTO MARK (\") repeating the row above; the amount itself is written in full"
+   },
+   {
+    "line_no": "54",
+    "page": 6,
+    "row": 3,
+    "date": "5/30/2018",
+    "donor_raw": "Ryan McBride",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "242.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "annotation is a ditto mark; the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "55",
+    "page": 6,
+    "row": 4,
+    "date": "5/31/2018",
+    "donor_raw": "Timothy Shields",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "48.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$50.00 less PayPal fee'."
+   },
+   {
+    "line_no": "56",
+    "page": 6,
+    "row": 5,
+    "date": "5/31/2018",
+    "donor_raw": "Camille Williams",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "48.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the PayPal-fee annotation is a ditto mark repeating the row above"
+   },
+   {
+    "line_no": "57",
+    "page": 6,
+    "row": 6,
+    "date": "5/30/2018",
+    "donor_raw": "Tim Taylor",
+    "donor_city": "Camp Redley",
+    "donor_state": "AE",
+    "amount": "242.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an APO MILITARY address ('Camp Redley, APO AE'); donor_state is the APO code AE as printed, not a US state. the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded."
+   },
+   {
+    "line_no": "58",
+    "page": 6,
+    "row": 7,
+    "date": "5/30/2018",
+    "donor_raw": "Lauren Hunt",
+    "donor_city": "SLC",
+    "donor_state": "UT",
+    "amount": "145.35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$150 less PayPal fee'."
+   },
+   {
+    "line_no": "59",
+    "page": 6,
+    "row": 8,
+    "date": "5/31/2018",
+    "donor_raw": "Laura & Paul Jones",
+    "donor_city": "Mapleton",
+    "donor_state": "UT",
+    "amount": "96.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$100 less PayPal fee'."
+   },
+   {
+    "line_no": "60",
+    "page": 6,
+    "row": 9,
+    "date": "6/2/2018",
+    "donor_raw": "Celia Grenny",
+    "donor_city": "SLC",
+    "amount": "6796.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ADDENDUM E4's FIFTH cause of a blank donor state: the filer wrote a city and a zip but NO STATE, so donor_city is filled and donor_state is honestly blank; a state is never inferred from a zip. the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$7,000 less PayPal fee'."
+   },
+   {
+    "line_no": "61",
+    "page": 6,
+    "row": 10,
+    "date": "6/6/2018",
+    "donor_raw": "Chris Yenelli",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "62",
+    "page": 6,
+    "row": 11,
+    "date": "5/29/2018",
+    "donor_raw": "James Childs",
+    "donor_city": "Santaquin",
+    "donor_state": "UT",
+    "amount": "970.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$1,000 less PayPal fee'."
+   },
+   {
+    "line_no": "63",
+    "page": 6,
+    "row": 12,
+    "date": "6/11/2018",
+    "donor_raw": "Gene Shawcroft",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "96.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$100.00 less PayPal fee'."
+   },
+   {
+    "line_no": "64",
+    "page": 6,
+    "row": 13,
+    "date": "6/13/2018",
+    "donor_raw": "Lance Bastian",
+    "donor_city": "Sandy",
+    "donor_state": "UT",
+    "amount": "96.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the PayPal-fee annotation is a ditto mark repeating the row above"
+   },
+   {
+    "line_no": "65",
+    "page": 6,
+    "row": 14,
+    "date": "6/13/2018",
+    "donor_raw": "Christine Scott",
+    "donor_city": "Springville",
+    "donor_state": "UT",
+    "amount": "48.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$50.00 less PayPal fee'."
+   },
+   {
+    "line_no": "66",
+    "page": 6,
+    "row": 15,
+    "date": "6/13/2018",
+    "donor_raw": "Karl Kemp",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "485.20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Annotated '$500 less PayPal fee'."
+   },
+   {
+    "line_no": "67",
+    "page": 6,
+    "row": 16,
+    "date": "6/13/2018",
+    "donor_raw": "Pone Sitake",
+    "donor_city": "S.F.",
+    "donor_state": "UT",
+    "amount": "96.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer annotates the amount as the gross gift less the PayPal fee; the NET figure printed in the Amount column is what is recorded. Donor city written as the abbreviation 'S.F.'; transcribed as printed."
+   },
+   {
+    "line_no": "68",
+    "page": 6,
+    "row": 17,
+    "date": "6/15/2018",
+    "donor_raw": "Utah Co. Deputies Assoc'n",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an association donor"
+   },
+   {
+    "line_no": "69",
+    "page": 7,
+    "row": 1,
+    "date": "6/15/2018",
+    "donor_raw": "Don Livingstone",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "70",
+    "page": 7,
+    "row": 2,
+    "date": "6/15/2018",
+    "donor_raw": "Chris Yenelli",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "71",
+    "page": 7,
+    "row": 3,
+    "date": "6/2/2018",
+    "donor_raw": "Henry Hill (Eagle Mnt. parade vehicle)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "marked '(in-kind)'"
+   },
+   {
+    "line_no": "72",
+    "page": 7,
+    "row": 4,
+    "date": "6/9/2018",
+    "donor_raw": "Henry Hill (Springville parade vehicle)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the in-kind mark is a DITTO (\") repeating '(in-kind)' from the row above; the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "73",
+    "page": 7,
+    "row": 5,
+    "date": "6/9/2018",
+    "donor_raw": "Henry Hill (Orem parade vehicle)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "in-kind mark is a ditto; the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "74",
+    "page": 7,
+    "row": 6,
+    "date": "6/16/2018",
+    "donor_raw": "Ryan McBride (website development)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "in-kind mark is a ditto; the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "75",
+    "page": 7,
+    "row": 7,
+    "date": "6/4/2018",
+    "donor_raw": "Fraternal Order of Police (Daily Herald Sunday Add)",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "480.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "in-kind mark is a ditto; the parenthetical is written above the donor name"
+   },
+   {
+    "line_no": "76",
+    "page": 7,
+    "row": 8,
+    "date": "6/4/2018",
+    "donor_raw": "Fraternal Order of Police (Daily Herald online banner add)",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "in-kind mark is a ditto; the parenthetical is written above the donor name"
+   },
+   {
+    "line_no": "77",
+    "page": 7,
+    "row": 9,
+    "date": "6/16/2018",
+    "donor_raw": "Pam & John Staheli (car wash marquee)",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "520.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "in-kind mark is a ditto; the parenthetical is written below the donor name; the address cell is the filer's own written '(see above)' notation pointing at his earlier entry for this same contributor on Schedule A; the city/state are carried from that row, which is the ditto-mark rule. PRIVACY: the street line printed on the page is deliberately not carried."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 8,
+    "row": 1,
+    "date": "1/30/2018",
+    "vendor_raw": "FedEx",
+    "amount": "48.69",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "2",
+    "page": 8,
+    "row": 2,
+    "date": "2/5/2018",
+    "vendor_raw": "Daily Herald",
+    "purpose": "photos",
+    "amount": "180.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 8,
+    "row": 3,
+    "date": "2/6/2018",
+    "vendor_raw": "Next Day Flyers",
+    "amount": "94.79",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell reads 'Online - NextDayFlyers.com' rather than a mailing address"
+   },
+   {
+    "line_no": "4",
+    "page": 8,
+    "row": 4,
+    "date": "2/9/2018",
+    "vendor_raw": "Next Day Flyers",
+    "amount": "127.79",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "5",
+    "page": 8,
+    "row": 5,
+    "date": "2/12/2018",
+    "vendor_raw": "Next Day Flyers",
+    "amount": "38.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cents settled at 2000 dpi as '87'"
+   },
+   {
+    "line_no": "6",
+    "page": 8,
+    "row": 6,
+    "date": "2/15/2018",
+    "vendor_raw": "Lincoln Pead",
+    "purpose": "flyer design",
+    "amount": "150.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "7",
+    "page": 8,
+    "row": 7,
+    "date": "2/16/2018",
+    "vendor_raw": "Utah Co. GOP",
+    "purpose": "Lincoln Day Dinner",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "8",
+    "page": 8,
+    "row": 8,
+    "date": "2/22/2018",
+    "vendor_raw": "FedEx",
+    "amount": "37.39",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "9",
+    "page": 8,
+    "row": 9,
+    "date": "2/23/2018",
+    "vendor_raw": "Campaign Partner",
+    "purpose": "website",
+    "amount": "29.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell reads 'Online'"
+   },
+   {
+    "line_no": "10",
+    "page": 8,
+    "row": 10,
+    "date": "2/23/2018",
+    "vendor_raw": "Jordan Giles",
+    "purpose": "campaign consulting",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "11",
+    "page": 8,
+    "row": 11,
+    "date": "2/23/2018",
+    "vendor_raw": "FedEx",
+    "purpose": "office supplies",
+    "amount": "25.30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 8,
+    "row": 12,
+    "date": "2/23/2018",
+    "vendor_raw": "Costco",
+    "purpose": "signs",
+    "amount": "28.82",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "13",
+    "page": 8,
+    "row": 13,
+    "date": "2/23/2018",
+    "vendor_raw": "Hobby Lobby",
+    "purpose": "office supplies",
+    "amount": "13.86",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "14",
+    "page": 8,
+    "row": 14,
+    "date": "2/23/2018",
+    "vendor_raw": "Darin Durfey",
+    "purpose": "1/2 Home Show booth - UVU",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer wrote 'UVU' above the struck-through word 'Home'; the handwritten correction governs"
+   },
+   {
+    "line_no": "15",
+    "page": 8,
+    "row": 15,
+    "date": "2/23/2018",
+    "vendor_raw": "Next Day Flyers",
+    "amount": "38.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ESCALATED AND CORRECTED: read 38.83 on the full page, settled as 38.87 at 2000 dpi. The cents glyph is identical to row 5's confirmed '87' on this same page, and is plainly unlike the filer's '83' on the exactly-closing p4 row 9 (13.83) whose '3' has two bumps. The correction is confirmed twice over: by the filer's own comparison glyph AND by unique arithmetic closure - 38.87 makes this page sum to its printed subtotal 2,491.17 to the cent."
+   },
+   {
+    "line_no": "16",
+    "page": 8,
+    "row": 16,
+    "date": "2/24/2018",
+    "vendor_raw": "Next Day Flyers",
+    "amount": "127.79",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "17",
+    "page": 8,
+    "row": 17,
+    "date": "2/27/2018",
+    "vendor_raw": "Beehive Consulting",
+    "purpose": "Great Outdoors Show booth - UVU",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the purpose runs onto a continuation line below the last printed rule; it carries no figure"
+   },
+   {
+    "line_no": "18",
+    "page": 9,
+    "row": 1,
+    "date": "2/28/2018",
+    "vendor_raw": "Zion's Bank",
+    "purpose": "paper statement",
+    "amount": "3.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 9,
+    "row": 2,
+    "date": "3/6/2018",
+    "vendor_raw": "Costco",
+    "purpose": "banner",
+    "amount": "26.72",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "20",
+    "page": 9,
+    "row": 3,
+    "date": "3/7/2018",
+    "vendor_raw": "Rennaisance Signs",
+    "amount": "2541.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "vendor spelled 'Rennaisance' by the filer here and differently on p10; kept verbatim per row"
+   },
+   {
+    "line_no": "21",
+    "page": 9,
+    "row": 4,
+    "date": "3/8/2018",
+    "vendor_raw": "Next Day Flyers",
+    "amount": "191.13",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "22",
+    "page": 9,
+    "row": 5,
+    "date": "3/13/2018",
+    "vendor_raw": "Utah Co. Elections",
+    "amount": "766.57",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this is the 2018 County Attorney FILING FEE paid to the county. Recorded as an observation only - ADDENDUM E1/F5 forbid using a filing fee to corroborate any figure on another filing"
+   },
+   {
+    "line_no": "23",
+    "page": 9,
+    "row": 6,
+    "date": "3/26/2018",
+    "vendor_raw": "Campaign Partner",
+    "purpose": "website",
+    "amount": "29.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell reads 'Online'"
+   },
+   {
+    "line_no": "24",
+    "page": 9,
+    "row": 7,
+    "date": "3/27/2018",
+    "vendor_raw": "Rennaisance Signs",
+    "amount": "1308.81",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cents settled at 2000 dpi as '81' (a clear figure-eight), not '91'"
+   },
+   {
+    "line_no": "25",
+    "page": 9,
+    "row": 8,
+    "date": "3/30/2018",
+    "vendor_raw": "Zion's Bank",
+    "purpose": "paper statement",
+    "amount": "3.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "26",
+    "page": 9,
+    "row": 9,
+    "date": "4/4/2018",
+    "vendor_raw": "Beehive Consulting",
+    "purpose": "campaign consulting",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "27",
+    "page": 9,
+    "row": 10,
+    "date": "4/4/2018",
+    "vendor_raw": "Lowe's",
+    "purpose": "sign hanging materials",
+    "amount": "278.06",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "28",
+    "page": 9,
+    "row": 11,
+    "date": "4/6/2018",
+    "vendor_raw": "Costco",
+    "purpose": "poster boards",
+    "amount": "64.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "29",
+    "page": 9,
+    "row": 12,
+    "date": "4/12/2018",
+    "vendor_raw": "Costco",
+    "purpose": "poster boards",
+    "amount": "96.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "NEEDS REVIEW - one of the TWO cells on this page that could each absorb the page's +0.80 delta if its first raised cent digit were a 9 rather than a 1. Escalated to 2500 dpi: the glyph is a straight diagonal '1' followed by an oval, and the filer's confirmed raised '9' (4,249.96 on the exactly-closing p10) is a small closed loop of quite different form. Read as 96.10 and NOT nudged, because the closure is not unique (see recon.expenditures)."
+   },
+   {
+    "line_no": "30",
+    "page": 9,
+    "row": 13,
+    "date": "4/23/2018",
+    "vendor_raw": "Campaign Partner",
+    "purpose": "website",
+    "amount": "29.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell reads 'Online'"
+   },
+   {
+    "line_no": "31",
+    "page": 9,
+    "row": 14,
+    "date": "4/23/2018",
+    "vendor_raw": "Scenic Solutions",
+    "purpose": "booth set-up",
+    "amount": "533.16",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "NEEDS REVIEW - the second of the two cells that could absorb the page's +0.80 delta (533.96 would close it). Escalated to 2500 dpi and compared against the filer's OWN arithmetically confirmed glyphs on the exactly-closing p10: the cents here are stroke-for-stroke his '16' from 2,623.16 and nothing like his '96' from 4,249.96. Read as 533.16 and NOT nudged."
+   },
+   {
+    "line_no": "32",
+    "page": 9,
+    "row": 15,
+    "date": "4/23/2018",
+    "vendor_raw": "PS Print",
+    "purpose": "delegate mailers",
+    "amount": "2149.24",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer wrote 'delegate' above 'mailers'; both are the purpose"
+   },
+   {
+    "line_no": "33",
+    "page": 9,
+    "row": 16,
+    "date": "4/23/2018",
+    "vendor_raw": "COSTCO",
+    "purpose": "Chocolate for convention",
+    "amount": "641.36",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the vendor name is written above the purpose line"
+   },
+   {
+    "line_no": "34",
+    "page": 9,
+    "row": 17,
+    "date": "4/23/2018",
+    "vendor_raw": "Print-Mark",
+    "purpose": "stickers for convention",
+    "amount": "60.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "35",
+    "page": 10,
+    "row": 1,
+    "date": "4/23/2018",
+    "vendor_raw": "Amy Turner - Balloon Boyz",
+    "purpose": "balloons for convention",
+    "amount": "45.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "36",
+    "page": 10,
+    "row": 2,
+    "date": "4/23/2018",
+    "vendor_raw": "Diamond Rentals",
+    "purpose": "table cloths for convention",
+    "amount": "41.78",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "37",
+    "page": 10,
+    "row": 3,
+    "date": "4/27/2018",
+    "vendor_raw": "Renneisance Signs",
+    "amount": "4249.96",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "spelling kept verbatim; the cents '96' here are arithmetically confirmed by this page closing exactly, and were used as the comparison glyph for the p9 escalations"
+   },
+   {
+    "line_no": "38",
+    "page": 10,
+    "row": 4,
+    "date": "4/30/2018",
+    "vendor_raw": "Zion's Bank",
+    "purpose": "paper statement",
+    "amount": "3.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "39",
+    "page": 10,
+    "row": 5,
+    "date": "5/2/2018",
+    "vendor_raw": "Darin Durfey",
+    "purpose": "stakes for signs",
+    "amount": "773.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "40",
+    "page": 10,
+    "row": 6,
+    "date": "5/2/2018",
+    "vendor_raw": "Ezra Nair",
+    "purpose": "campaign fee",
+    "amount": "600.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "41",
+    "page": 10,
+    "row": 7,
+    "date": "5/24/2018",
+    "vendor_raw": "Campaign Partner",
+    "purpose": "website",
+    "amount": "29.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell reads 'Online'"
+   },
+   {
+    "line_no": "42",
+    "page": 10,
+    "row": 8,
+    "date": "5/29/2018",
+    "vendor_raw": "Renncisance Signs",
+    "amount": "2623.16",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "spelling kept verbatim; the cents '16' here are arithmetically confirmed and were the comparison glyph that settled p9 row 14"
+   },
+   {
+    "line_no": "43",
+    "page": 10,
+    "row": 9,
+    "date": "5/31/2018",
+    "vendor_raw": "Salt Lake Mailing & Printing",
+    "amount": "6734.56",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "44",
+    "page": 10,
+    "row": 10,
+    "date": "5/31/2018",
+    "vendor_raw": "Zion's Bank",
+    "purpose": "paper statement",
+    "amount": "3.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "45",
+    "page": 10,
+    "row": 11,
+    "date": "6/1/2018",
+    "vendor_raw": "Win Co",
+    "purpose": "parade candy",
+    "amount": "104.36",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "46",
+    "page": 10,
+    "row": 12,
+    "date": "6/4/2018",
+    "vendor_raw": "Beehive Consulting",
+    "purpose": "campaign fee",
+    "amount": "552.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "47",
+    "page": 10,
+    "row": 13,
+    "date": "6/6/2018",
+    "vendor_raw": "Costco",
+    "purpose": "posters",
+    "amount": "64.07",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "48",
+    "page": 10,
+    "row": 14,
+    "date": "5/22/2018",
+    "vendor_raw": "Yusef Laboratories",
+    "purpose": "campaign logo lip balm",
+    "amount": "600.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "vendor name written above the purpose line; date out of sequence (5/22 among 6/x rows), kept verbatim"
+   },
+   {
+    "line_no": "49",
+    "page": 10,
+    "row": 15,
+    "date": "6/11/2018",
+    "vendor_raw": "Lowe's",
+    "purpose": "stakes for signs",
+    "amount": "26.59",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "50",
+    "page": 10,
+    "row": 16,
+    "date": "6/9/2018",
+    "vendor_raw": "Win Co",
+    "purpose": "parade candy",
+    "amount": "128.96",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "51",
+    "page": 10,
+    "row": 17,
+    "date": "6/5/2018",
+    "vendor_raw": "Lowe's",
+    "purpose": "stakes for signs",
+    "amount": "31.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "52",
+    "page": 11,
+    "row": 1,
+    "date": "5/22/2018",
+    "vendor_raw": "Blip Billboards",
+    "purpose": "billboards",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer wrote '$1,000' with NO decimal point and no cents; read as 1000.00"
+   },
+   {
+    "line_no": "53",
+    "page": 11,
+    "row": 2,
+    "date": "5/31/2018",
+    "vendor_raw": "Blip Billboards",
+    "purpose": "billboards",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "written '$1,000' with no cents"
+   },
+   {
+    "line_no": "54",
+    "page": 11,
+    "row": 3,
+    "date": "6/5/2018",
+    "vendor_raw": "Blip Billboards",
+    "purpose": "billboards",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "written '$1,000' with no cents"
+   },
+   {
+    "line_no": "55",
+    "page": 11,
+    "row": 4,
+    "date": "5/18/2018",
+    "vendor_raw": "Lowe's",
+    "purpose": "stakes + zipties",
+    "amount": "255.20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "56",
+    "page": 11,
+    "row": 5,
+    "date": "5/18/2018",
+    "vendor_raw": "Lowe's",
+    "purpose": "stakes + zipties",
+    "amount": "28.34",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "NEEDS REVIEW - the only cell on this page with any residual doubt about the page's +0.04 delta (28.38 would close it). Escalated to 2500 dpi: the cents are a two-bump '3' followed by a '4' form, not the filer's figure-eight '8'. Read as 28.34 and NOT nudged."
+   },
+   {
+    "line_no": "57",
+    "page": 11,
+    "row": 6,
+    "date": "5/10/2018",
+    "vendor_raw": "Ut. Co. GOP",
+    "purpose": "Republican Women's Dinner",
+    "amount": "350.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "58",
+    "page": 11,
+    "row": 7,
+    "date": "5/11/2018",
+    "vendor_raw": "Orem City",
+    "purpose": "parade fee",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "59",
+    "page": 11,
+    "row": 8,
+    "date": "5/24/2018",
+    "vendor_raw": "Springville City",
+    "purpose": "parade fee",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "60",
+    "page": 11,
+    "row": 9,
+    "date": "6/16/2018",
+    "vendor_raw": "Facebook",
+    "purpose": "boosting fees",
+    "amount": "552.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell reads 'Online - PENDING'; the filer marks this expenditure as not yet cleared"
+   },
+   {
+    "line_no": "61",
+    "page": 11,
+    "row": 10,
+    "date": "6/16/2018",
+    "vendor_raw": "Richard Jaussi",
+    "purpose": "campaign consulting",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell carries the annotation 'PENDING'"
+   },
+   {
+    "line_no": "62",
+    "page": 11,
+    "row": 11,
+    "date": "6/12/2018",
+    "vendor_raw": "Blip Billboards",
+    "purpose": "billboards",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "63",
+    "page": 11,
+    "row": 12,
+    "date": "6/8/2018",
+    "vendor_raw": "Brandmakers",
+    "purpose": "campaign t-shirts",
+    "amount": "710.21",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell carries the annotation 'PENDING'"
+   },
+   {
+    "line_no": "64",
+    "page": 11,
+    "row": 13,
+    "date": "6/1/2018",
+    "vendor_raw": "Print-Mark",
+    "purpose": "campaign stickers",
+    "amount": "44.73",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "65",
+    "page": 11,
+    "row": 14,
+    "date": "6/11/2018",
+    "vendor_raw": "Lowe's",
+    "purpose": "sign posts",
+    "amount": "31.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "66",
+    "page": 11,
+    "row": 15,
+    "date": "5/28/2018",
+    "vendor_raw": "Lowe's",
+    "purpose": "sign posts + materials",
+    "amount": "76.59",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   }
+  ],
+  "notes": "Chad Grunander, Utah County Attorney (page-face office 'Utah County Attorney', party 'Republican'); index.csv names NO candidate for this row, so the PAGE FACE governs and the coordinator may promote 'Chad Grunander' through office_overrides.csv (the Ainge precedent). 11 pages, legacy_colAB: p1 cover ('Seven days preceding the Primary Election', not an amendment, signed 6/19/2018, clerk stamp JUN 19), p2 SUMMARY PAGE (located by its printed heading), pp3-7 SCHEDULE A foliated 'Page 1..5 of 5', pp8-11 SCHEDULE B foliated 'Page 1..4 of 4'. *** GENUINELY 2018-DATED STOCK EXISTS. *** ADDENDUM G5 left open whether any sheet printed for 2018 circulates; this filing settles it - every inner sheet (pp2-11) is strap-lined '2018 County & Local School Candidates'. The stock is also MIXED within the one filing: the cover is the COUNTY-ONLY blank titled 'FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' (Utah County Code 2-5 & Utah State Code 17-16-6.5) yet carries the school-board wording only in its vertical sidebar, while the inner sheets are the county-and-school-board 2018 stock - the ADDENDUM F6 finding that cover and schedule blanks were stocked independently, again. *** THE 2018 SHEET HAS SEVENTEEN DATA ROWS, NOT SIXTEEN. *** The brief's 17-rules-equals-16- rows rule does not hold on this stock: 17 printed per-column rules with text ABOVE each rule yield 17 usable lines, and this filer used all 17 on four separate sheets (crop-proved on every one). SCHEDULE B COLUMN VOCABULARY: this filing's Schedule B heads its payee column 'Provider/Vendor' - a FOURTH vocabulary alongside the three ADDENDUM G4 records ('Name of Contributor', 'Expenditure', 'Name/Nature of Expenditure'). There is still NO Purpose column: the filer writes each purpose in parentheses inside the Provider/Vendor cell, so `purpose` is populated from that parenthetical by CONTENT and `vendor_raw` carries the payee alone. PRIVACY: the county did NOT redact this filing (it is not a *_Redacted.pdf) and full street lines are visible on every Schedule A sheet; they are reduced to city/state at read time and no street line, box number or phone is carried into any field or note. Expenditure rows carry no address at all by contract. One donor row has a blank state for a real documentary reason (line 60, Celia Grenny: the filer wrote a city and zip but no state - ADDENDUM E4's fifth cause). One donor carries an APO military address (line 57). Five Schedule A cities are the filer's own abbreviations ('S.F.', 'P.G.', 'SLC') and are transcribed as printed, never expanded. INTRA-DOCUMENT DATE DISCREPANCY: the Date of Report box reads 6/19/2018 on pp2,3,4,5,6 and on all four Schedule B sheets, but '6/1/2018' on p7 - both recorded, neither adjudicated. Three p11 expenditures are annotated 'PENDING' in the address column (Facebook, Richard Jaussi, Brandmakers) - the filer reporting uncleared items; they are included in his own subtotal and are transcribed as ordinary rows. The 2018 County Attorney FILING FEE is 766.57 (p9 row 5, 'Utah Co. Elections'). Recorded as an observation for the wave's fee table only - ADDENDUM E1/F5 forbid using it to settle a figure on any other filing."
+ }
+]

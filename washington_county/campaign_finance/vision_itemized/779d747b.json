@@ -1,0 +1,81 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W07.json",
+ "key": "779d747b",
+ "index_path": "raw/live_wp/Ryan-Sullivan.pdf",
+ "applies_to": [
+  "raw/live_wp/Ryan-Sullivan.pdf"
+ ],
+ "sha256_prefix": "c54a0b027e76b2d3",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other",
+  "5": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "-",
+    "cover_over50_this": "-",
+    "cover_over50_cum": "-",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "-"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total (TOTAL CONTRIBUTIONS) and cover line 1, both dashes",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "EMPTY SCHEDULE, honestly. Form A (p2) is a printed 18-row grid with no ink in any cell and its printed TOTAL CONTRIBUTIONS cell holds an accounting dash. Cover line 1 holds a dash in all three columns. Per the zero-glyph ruling a bare dash is BLANK, not zero - so every anchor here is a dash and none of them is a reported 0.00; the itemized figure is 0.00 only because zero rows exist to sum. This is the ANNUAL officeholder report for calendar 2025 (start 1/1/2025, end 12/31/2025) filed 1/7/2026, and it reports no activity. cover_le50_* are null because THIS FORM VARIANT HAS NO SUB-$50 AGGREGATE LINE AT ALL - it prints only three money lines (contributions over $50, expenses, balance)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "-",
+    "cover_expense_this": "-",
+    "cover_expense_cum": "-",
+    "cover_balance_end": "-",
+    "schedule_total": "-"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total (TOTAL EXPENDITURES) and cover line 2, both dashes",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "EMPTY SCHEDULE. Form B (p3) is a printed 17-row grid with no ink in any cell and its printed TOTAL EXPENDITURES cell holds an accounting dash, matching cover line 2 in all three columns. Same dash-is-blank reading as the contributions side."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Nothing numeric to gate on either side: both printed totals are accounting dashes and both grids are empty. Reported as an honest empty schedule on each side rather than as a 0.00 that the form never states.",
+  "row_count": "Counted by eye off the 200-dpi renders (this is a born-digital printed grid, not a scan): p2 Form A has 18 empty data rows above the TOTAL CONTRIBUTIONS footer row, p3 Form B has 17 empty data rows above the TOTAL EXPENDITURES footer row. Zero inked rows on each, zero rows emitted.",
+  "geometry_proof": "Not applicable - no rows emitted, so no geometry pointers exist to prove.",
+  "balance_chain": "Cannot be computed and must not be forced: every cell on all three cover lines is a dash, so beginning, contributions, expenditures and ending balance are all BLANK rather than zero. Nothing to chain, and the module holds no other Sullivan filing dated inside this annual period (his other filings are the 2024 cycle)."
+ },
+ "escalations": 0,
+ "escalation_note": "None needed - pages 1-3 are born-digital printed text with no handwriting except the candidate's signature and two dates.",
+ "notes": "A THIRD, NEWER form generation, not the Gen-1 Carr sheet nor the older Gen-2 cover the addendum describes: the modern 'WASHINGTON COUNTY / AMERICA'S COUNTY' logo cover headed 'Campaign Financial Disclosure Per Title 1 Chapter 7 of Washington County Code of Ordinances', with only THREE money lines (the sub-$50 aggregate line has been dropped from the form entirely) and boxed Total-LAST / Total-THIS / Cumulative cells. Form A here has columns Date | Name of Donor | Amount | In Kind? Y/N (NO mailing-address column at all - so this generation never collects donor city/state) and Form B has Date | Person or Organization Paid | Purpose of Expenditure | Amount. Chunk file / index.csv say Ryan Sullivan, Clerk/Auditor, 2025; the cover, Form A and Form B all print 'Full Name of Candidate: Ryan Sullivan' and 'Candidate for Office Of: Clerk/Auditor' - AGREES on all three pages. County office, in scope. PAGES 4-5 ARE NOT A REPORT and were not transcribed: page 4 is the county's own internal inspection e-mail thread (Chief Deputy Clerk Genna Goodwin to County Attorney Jerry Jaeger, January 8 2026, 'Per county code 1-7-10, attached is the financial campaign statement for Clerk/Auditor, Ryan Sullivan') with the text of county code 1-7-10 pasted below it, and page 5 is that thread's second signature block. On page 4 the sentence's date '6/12/2024' is struck through and hand-corrected to '1/7/2026' with initials - a template date the clerk fixed. A hand-written line at the foot of the cover reads 'See email approval from attorney Jerry Jaeger 1/8/2026', which is what pages 4-5 are. PRIVACY: the PDF carries yellow masking bands over the Committee Secretary Signature line, the Clerk/Auditor inspection-signature line, the Date Received box and the margins beside the name and office fields - a county redaction pass. Those cells are recorded as blank with 'redacted at source' meaning, and nothing was backfilled from any sibling copy. County staff work e-mail addresses and office phone numbers printed on pages 4-5 were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

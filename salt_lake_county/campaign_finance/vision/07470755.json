@@ -1,0 +1,171 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2017-12-30",
+   "donor_raw": "Ron Mitchell",
+   "occupation": "Underwriter",
+   "amount": "291.71",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.62,23.32,86.62,4.00@p3",
+   "note": "address block redacted at source (county black bar); date printed '12/30/17' with a two-digit year, re-read at 900 dpi; the amount cell carries the figure 291.71 with the word 'loan' handwritten on the line below it INSIDE the same cell - the annotation is recorded here and not folded into any field, and there is no in-kind or loan column on this form so nothing was inferred from it"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Camera Shy",
+   "purpose": "Photos",
+   "amount": "126.08",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.25,24.77,78.73,4.02@p5",
+   "note": "date printed '8/29' with NO YEAR - left blank per the strict-date rule, verbatim kept here, never completed from the report date"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "Kwik Kopy",
+   "purpose": "Printing",
+   "amount": "37.40",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.25,28.79,78.73,3.98@p5",
+   "note": "date printed '9/24' with NO YEAR - left blank, verbatim kept here"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "Kwik Kopy",
+   "purpose": "Printing",
+   "amount": "37.40",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.25,32.77,78.73,3.98@p5",
+   "note": "date printed '9/28' with NO YEAR - left blank, verbatim kept here; same recipient and amount as line 2 but a distinct printed row, not a duplicate transcription"
+  },
+  {
+   "line_no": 4,
+   "vendor_raw": "Kwik Kopy",
+   "purpose": "Printing",
+   "amount": "90.83",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.25,36.75,78.73,4.05@p5",
+   "note": "date printed '12/27' with NO YEAR - left blank, verbatim kept here"
+  }
+ ],
+ "total_contributions": "291.71",
+ "total_expenditures": "291.71",
+ "beginning_balance": "0",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "291.71",
+  "total_expenditures_to_date": "291.71",
+  "line5_subtotal": ""
+ },
+ "cover": {
+  "candidate": "Rozan Mitchell",
+  "party": "Rep",
+  "office_sought": "County Clerk",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1/30/18",
+  "form_year": "2017"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/rozan-mitchell_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Rozan Mitchell",
+  "office": "Clerk",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/rozan-mitchell_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Cover agrees with the chunk file (Rozan Mitchell / Clerk / Year-End Jan 31). Office and Office Sought both read 'County Clerk', District Number blank, Political Party 'Rep'. Only the Year-End box is ticked; neither amendment box is ticked. INTERNAL DATE INCONSISTENCY, retained verbatim: the cover's signature Date reads 1/30/18 (and index.csv's date is 2018-01-30), while the Summary Page, Schedule A and Schedule B all print 'Date of Report 1/31/18'; the clerk stamp reads RECEIVED IN OFFICE JAN 31 2018. Nothing was reconciled. p4 is a 'Summary Page Other Campaign Accounts' sheet with N/A written into Column A on lines 1, 2, 3 and 7 - a DIFFERENT table (Column B is 'Year to Date') and never mixed with the standard Summary Page; not transcribed. ZERO-GLYPH RULING applied to Summary lines 3 and 7, both written as slashed zeros. THE SCHEDULE B DATES CARRY NO YEAR - '8/29', '9/24', '9/28', '12/27' - so all four are honestly BLANK with needs_review=1 and the verbatim in the row note; a year was NOT filled in from the report date even though the period is obviously 2017. The Schedule A date does print a year ('12/30/17') and is parsed. Schedule A's address column is covered by the county's black bar (redacted at source); the Occupation/Employer column survives and reads 'Underwriter'.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "5",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "291.71",
+     "schedule_total": "291.71",
+     "itemized": "291.71",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "the single Schedule A row is 291.71 = the printed TOTAL CONTRIBUTIONS RECEIVED 291.71 = Summary line 1 Column A 291.71 (Column B also 291.71). Scope test: Columns A and B carry the same figure, so no cumulative-vs-period ambiguity. The row is annotated 'loan' by the filer beneath the figure; there is no in-kind marker anywhere and no in-kind column on this form, so nothing is inferred."
+    },
+    "expenditures": {
+     "stated": "291.71",
+     "schedule_total": "291.71",
+     "itemized": "291.71",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "4 Schedule B rows sum to 291.71 (126.08 + 37.40 + 37.40 + 90.83) = the printed TOTAL EXPENDITUTRES MADE 291.71 = Summary line 2 Column A 291.71."
+    }
+   },
+   "page_subtotal_gates": "Both schedule pages print SUBTOTAL FOR THIS PAGE and BOTH cells are LEFT BLANK (the \u00a71(5) case), so both sides were gated on the schedule grand total instead: p3 row 291.71 = printed 291.71; p5 rows 291.71 = printed 291.71. Both closed exactly.",
+   "escalations": 2,
+   "escalation_note": "p3 Schedule A date cell at 900 dpi (confirmed 12/30/17, the day is 30); p3 Schedule A amount cell at 900 dpi (confirmed 291.71 with the word 'loan' written on the line below inside the same cell).",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Cover agrees with the chunk file (Rozan Mitchell / Clerk / Year-End Jan 31). Office and Office Sought both read 'County Clerk', District Number blank, Political Party 'Rep'. Only the Year-End box is ticked; neither amendment box is ticked. INTERNAL DATE INCONSISTENCY, retained verbatim: the cover's signature Date reads 1/30/18 (and index.csv's date is 2018-01-30), while the Summary Page, Schedule A and Schedule B all print 'Date of Report 1/31/18'; the clerk stamp reads RECEIVED IN OFFICE JAN 31 2018. Nothing was reconciled. p4 is a 'Summary Page Other Campaign Accounts' sheet with N/A written into Column A on lines 1, 2, 3 and 7 - a DIFFERENT table (Column B is 'Year to Date') and never mixed with the standard Summary Page; not transcribed. ZERO-GLYPH RULING applied to Summary lines 3 and 7, both written as slashed zeros. THE SCHEDULE B DATES CARRY NO YEAR - '8/29', '9/24', '9/28', '12/27' - so all four are honestly BLANK with needs_review=1 and the verbatim in the row note; a year was NOT filled in from the report date even though the period is obviously 2017. The Schedule A date does print a year ('12/30/17') and is parsed. Schedule A's address column is covered by the county's black bar (redacted at source); the Occupation/Employer column survives and reads 'Underwriter'."
+  }
+ }
+}

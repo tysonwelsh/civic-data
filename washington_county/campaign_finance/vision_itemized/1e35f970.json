@@ -1,0 +1,78 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W02.json",
+ "key": "1e35f970",
+ "index_path": "raw/live_wp/Gary-L-Christensen.pdf",
+ "applies_to": [
+  "raw/live_wp/Gary-L-Christensen.pdf"
+ ],
+ "sha256_prefix": "3e9aa68858deac8a",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "None/Zero",
+    "cover_over50_this": "None/Zero",
+    "cover_over50_cum": "None/Zero",
+    "cover_le50_last": null,
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "-"
+   },
+   "itemized": "",
+   "basis": "cover-line1-this",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "A NIL ANNUAL OFFICEHOLDER REPORT. Every one of the cover's nine money cells is typed with the words 'None/Zero'; under the zero-glyph ruling the written word zero denotes 0, so all three columns are 0 and the period and cumulative scopes coincide. Form A's single filled line is a DECLARATION, not a transaction: Date 'Jan 1, 2025 - Dec' (a period range, truncated by the cell), Name of Donor 'None', Amount 'None', In Kind 'No' - no date, no donor and no figure, so zero rows are emitted. Form A's printed TOTAL CONTRIBUTIONS cell holds only the Excel accounting dash, recorded verbatim as '-' (a bare dash stays blank; it is not a numeral), which is why the cover line rather than the schedule footer is the anchor. This cover generation has no $50-or-less line, so cover_le50_* are null (field absent), not zero."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "None/Zero",
+    "cover_expense_this": "None/Zero",
+    "cover_expense_cum": "None/Zero",
+    "cover_balance_end": "None/Zero",
+    "schedule_total": "-"
+   },
+   "itemized": "",
+   "basis": "cover-line2-this",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form B's single filled line is likewise a declaration - Date '7-Jan-26', Person or Organization Paid 'None', Purpose 'None', Amount 'Zero/None' - so zero rows. Printed TOTAL EXPENDITURES cell holds only the accounting dash, recorded verbatim."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Neither schedule prints a numeric total - both TOTAL cells carry only the Excel accounting dash - so the cover's 'None/Zero' lines are the only anchors, and zero rows agree with them. Gate stated rather than fired.",
+  "row_count": "p2: 16 ruled data rows plus a TOTAL footer; only row 1 carries ink and that ink is the word 'None' across three columns. p3: 16 ruled data rows plus a TOTAL footer; only row 1 carries the same 'None' declaration. Zero transaction rows on both sides.",
+  "geometry_proof": "Not applicable - no rows emitted on either side, so no row geometry pointers exist. The 'None' declaration lines were read on the full 200 dpi page.",
+  "balance_chain": "Cover line 3 (balance at the end of this reporting period) reads 'None/Zero' in all three columns, consistent with contributions None/Zero minus expenses None/Zero. Closes trivially. No other filing by this filer in this period is in my chunk; the 2020-cycle bundle I also hold (key 1c5fb5b9) is a DIFFERENT cycle, so no chain was run between them."
+ },
+ "escalations": 0,
+ "escalation_note": "None needed - the document is a born-digital typed form, wholly legible at 200 dpi, with no handwriting outside the clerk's received-date stamp.",
+ "notes": "THE DOCUMENT CONTRADICTS THE CHUNK FILE ON OFFICE: the chunk file (from index.csv) says 'Recorder'; the form's own 'Candidate for Office Of' line reads 'Recorder/Surveyor' on the cover and on Form B, and 'Recorder/Survey' (truncated) on Form A. Transcribed from the form; flagged here. This is the January ANNUAL OFFICEHOLDER report for calendar year 2025 - Start Date 1-Jan-25, End Date 31-Dec-25, candidate signature dated 7-Jan-26, clerk received 1/7/2026 - which is why the chunk file's cycle_year column is blank; it is not a county-election-cycle report. A FOURTH FORM LAYOUT, newer than any of the three in the county addendum: full-colour 'AMERICA'S COUNTY' logo, a GRAMA notice with a QR code on the cover, a three-line cover grid, and - the substantive difference - FORM A HAS NO 'MAILING ADDRESS AND ZIP CODE' COLUMN AT ALL (its columns are Date | Name of Donor | Amount | In Kind? Y/N). Worth adding to the form-generation catalogue. The PDF is a filled-form print with yellow field highlighting; that is form shading, not a redaction. Both schedules are honest zeros declared in words, not gaps.",
+ "contributions": [],
+ "expenditures": []
+}

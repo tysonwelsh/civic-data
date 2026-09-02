@@ -1,0 +1,147 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C17.json",
+ "key": "84204cb6",
+ "index_path": "raw/2020/2020_st_campaign_finance_gunnell.pdf",
+ "applies_to": [
+  "raw/2020/2020_st_campaign_finance_gunnell.pdf"
+ ],
+ "sha256_prefix": "4c485a7c7416ec86",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg Form A - STRUCK OUT by the filer (a full-page diagonal stroke plus an oversized hand-drawn 'N' and 'A' = N/A written across the sheet)",
+  "expenditures": "carr_5_5_pg Form B, ruled grid, 4 hand-written rows plus a filer-written total"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "cover_expense_last": "3,665.03",
+    "cover_expense_this": "3,665.03",
+    "cover_expense_cum": "3,665.03",
+    "cover_balance_end": "3,665.03",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1 (all three columns zero)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A is an EMPTY SCHEDULE by the filer's own hand: one long diagonal stroke runs corner to corner across the whole sheet and a large 'N' and 'A' are drawn over the grid (N/A). Under core §3(f) this is a struck-out schedule - zero rows, not a row and not a zero-valued transaction. Cover line 1 reads 0 in all three columns (hand-drawn O glyphs), which is consistent. The Carr form prints no schedule total. LAST = THIS = CUM = 0, so the scopes coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "3,665.03",
+    "cover_expense_this": "3,665.03",
+    "cover_expense_cum": "3,665.03",
+    "cover_balance_end": "3,665.03",
+    "schedule_total": "3665.03",
+    "page_subtotal": null
+   },
+   "itemized": "3,665.03",
+   "basis": "cover-line3-cumulative (== the filer's hand-written total at the foot of the four rows)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "4 hand-written rows sum to EXACTLY 3,665.03 (699.45 + 1,445.16 + 24.42 + 1,496.00), which equals the filer's own hand-written '3665.03' two bands below the last row (he drew a pointer line up to it) and equals cover line 3. NOTE the filer wrote the SAME figure 3,665.03 in ALL THREE cover columns of line 3, so the cover's LAST + THIS = CUMULATIVE identity does NOT hold here (3,665.03 + 3,665.03 != 3,665.03). Both/all three printed figures are retained verbatim; nothing was recomputed. The rows equal the CUMULATIVE cell, so scope is cumulative. The FORM prints no schedule total; the 3665.03 in schedule_total is the FILER's hand-written one."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "no printed schedule total on either Carr schedule. p2: zero rows (struck-out schedule) vs cover line1 = 0 in all three columns -> closes. p3: rows-sum 3,665.03 = filer's hand-written total 3665.03 = cover line 3 -> closes exactly.",
+  "row_count": "rowbands.py p3: geometry_status ok, 36 rules / 36 bands / 35 data bands, pitch 2.295%, rules at 9.02, 11.84, 14.14, 16.43, 18.73, 21.04 ... The four inked rows sit ABOVE their rules, in the first four bands (row1 in [9.02,11.84], row2 [11.84,14.14], row3 [14.14,16.43], row4 [16.43,18.73]); every later band is empty except the band at [21.04,23.34] which holds the filer's own total 3665.03 - two bands below the last transaction, with a hand-drawn pointer line, so it is a total and NOT a fifth row. 4 rows emitted. p2 has the same grid and no transaction ink at all (only the struck-out stroke and the N/A letters).",
+  "geometry_proof": "p3: first-row amount crop renders '699.45', last-row (4) crop renders '1496.00', control one row-pitch below row 4 renders EMPTY (only the filer's diagonal pointer stroke passes through it - no figure). A four-row column crop independently renders 699.45 / 1445.16 / 24.42 / 1496.00 in order.",
+  "balance_chain": "contributions cum 0 - expenses cum 3,665.03 = -3,665.03, but cover line 4 (Balance at the end of this reporting period) reads a POSITIVE 3,665.03 in all three columns. The chain does not close and the residual is exactly the expenditure figure - the filer copied line 3 down into line 4 without signing it negative (the same pattern as key ab1fa1ef in this chunk). FILER arithmetic; both figures retained verbatim. Also filer arithmetic: line 3's LAST column repeats 3,665.03 rather than being zero/blank. No second filing by this filer is in this chunk, so no cross-filing chain was available."
+ },
+ "escalations": 3,
+ "escalation_note": "p1 totals block re-rendered at 1200 dpi (confirms lines 1-2 are hand-drawn zero glyphs in all three columns and lines 3-4 read 3,665.03 in all three); p3 row-4 date re-rendered at 2400 dpi and again at 1200 dpi with -normalize alongside row 2's date, which settled the day digits by comparing the filer's own glyph shapes (see the row-4 note); p3 amount column re-rendered at 600 dpi.",
+ "notes": "index.csv says candidate 'gunnell', office 'County Council'. The cover reads 'Full Name of Candidate: Nolan Parker Gunnell', 'Name of Office: County Council', 'Office District: South', 'Political Party: Republican', dated 10-23-2020, clerk stamp CLERK-OCT23'20 1:29:39. Agrees; a county office, in scope. The candidate's street address, home phone and business phone are on the cover in the clear and were discarded at read time (core §5). No donor addresses exist to discard - there are no donors. This filer reports contributions of ZERO while spending 3,665.03, which is the filing's own internally-consistent story (his balance line is the mirror image of his expense line).",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-06-05",
+   "vendor_raw": "Sign Pro",
+   "purpose": "Signs",
+   "amount": "699.45",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.00,9.60,12.00,2.10@p3",
+   "note": "date written '6-5-20'"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-05-22",
+   "vendor_raw": "Sign Pro",
+   "purpose": "Signs",
+   "amount": "1445.16",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.00,11.90,12.00,2.10@p3",
+   "note": "date written '5-22-20'; amount written without a thousands comma"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2020-06-05",
+   "vendor_raw": "Home Depot",
+   "purpose": "Stakes",
+   "amount": "24.42",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.00,14.20,12.00,2.10@p3",
+   "note": "date written '6-5-20', the same date as row 1"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2020-05-23",
+   "vendor_raw": "Cache Valley Media group",
+   "purpose": "Radio ad",
+   "amount": "1496.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.00,16.50,12.00,2.10@p3",
+   "note": "date written '5-23-20'. The day group was escalated: at 2400 dpi a mis-framed crop suggested '13', but a 1200 dpi -normalize crop of the WHOLE cell read beside this same filer's row-2 date ('5-22-20') settles it - his '2' is a slanted stroke with a bottom-left loop and the second glyph here is a clear double-bowled '3', so the day is 23. Amount written '1496.00' (no thousands comma); it is also forced by arithmetic: 3,665.03 total - 2,169.03 for rows 1-3 = 1,496.00 exactly. Vendor written 'Cache Valley Media group' (lower-case g, sic)."
+  }
+ ]
+}

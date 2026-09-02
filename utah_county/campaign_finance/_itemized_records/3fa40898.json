@@ -1,0 +1,20 @@
+[{
+ "index_path": "raw/2014/2014_30DayGurnsey.pdf",
+ "key": "3fa40898",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r4_02)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2],
+ "sides": {"contributions": "no-schedule-page", "expenditures": "no-schedule-page"},
+ "withheld_reason": {
+  "contributions": "The retained document contains NO Schedule A page. `pdfinfo` reports Pages: 2, both read full-page and classified from their own printed headings: p1 the 2014 cover ('2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', Utah County Code 2-5), p2 'SUMMARY PAGE'. There is no third page. The filer's own foliation on the summary page reads 'Page 1 of 1', so he submitted the summary sheet alone and attached no schedules — the absence is the filer's completed filing, not a page the county lost and not a page left unread. It is corroborated by the summary itself: line 1 Column A carries a handwritten closed-loop ZERO (0 under the repo-wide zero-glyph ruling, verified at 900 dpi), i.e. the filer reports no contributions this period, so there was nothing to itemize.",
+  "expenditures": "Same document, same evidence: NO Schedule B page exists (2 pages total — cover and SUMMARY PAGE, foliated 'Page 1 of 1' by the filer). Line 2 Column A carries a handwritten closed-loop ZERO (0 under the zero-glyph ruling), so the filer reports no expenditures this period and attached no Schedule B."
+ },
+ "recon": {},
+ "in_kind_convention": "not applicable — no schedule of either kind exists on this document, so there are no rows and no sum to test under either convention. The summary page prints no in-kind line.",
+ "escalations": 1,
+ "escalation_note": "One 900 dpi tight crop of the summary page's line-1 Column A and Column B cells, to establish that the nil marks are NUMERALS rather than blanks. Both render as deliberate handwritten CLOSED LOOPS — this filer's zero — not bare dashes and not empty cells, so they read 0 under the GOTCHAS zero-glyph ruling. That distinction is what makes this a genuine ZERO-ACTIVITY filing rather than an unreadable one, and it is the same read the 2026-08-01 cover tranche recorded independently. All nine written summary cells (lines 1 and 2 in both columns, lines 3-7 in Column A) carry the same glyph.",
+ "frames": {},
+ "contributions": [],
+ "expenditures": [],
+ "notes": "PAGE-FACE candidate 'Richard A. Guernsey' — index.csv names NO filer for this row, so the page face fills an empty channel label. ⚠ NOTE THE SPELLING: the page face reads GUERNSEY while the county's own filename and reporting-period label read 'Gurnsey' (raw/2014/2014_30DayGurnsey.pdf, period '30 Day Commission B - Gurnsey'). The page face governs — this is another instance of the documented clerk-name drift in this module, alongside Farren/Farron and Bird/Baird. Page-face office 'Utah County Commissioner Seat B', which agrees with the channel's 'County Commission Seat B'. Report type ticked '30 Days after withdraw or elimination'; amendment ticked 'No'; party 'Republican'. A ZERO-ACTIVITY FILING: every written cell on the summary page is a handwritten zero (both Column A per-period cells and both Column B year-to-date cells, plus the whole balance ladder, so 0 + 0 - 0 = 0 closes trivially). Because Column B is also zero, this report claims nothing earlier in the cycle either. THE HONEST READING OF THE EMPTY ITEMIZED LAYER HERE IS 'NO ENTRIES', NOT 'NOT TRANSCRIBED' — that is the rarer of the two and it is stated because the schedules' non-existence is the filer's own completed filing, evidenced by his 'Page 1 of 1' foliation and his own zeros. SOURCE PROPERTY: this filer dates both sheets in WORDS AND FULL YEAR, '12 May 2014' (day-month-year) — a date form no other filing in this chunk uses, and one no numeric date pattern would parse. PRIVACY: the filing is unredacted and the candidate's own street address is legible on the cover; none of it was carried."
+}]

@@ -1,0 +1,147 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C17.json",
+ "key": "a949bdb0",
+ "index_path": "raw/2020/2020_st_campaign_finance_tidwell.pdf",
+ "applies_to": [
+  "raw/2020/2020_st_campaign_finance_tidwell.pdf"
+ ],
+ "sha256_prefix": "897cd500a227313e",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg Form A, ruled grid, one hand-written row",
+  "expenditures": "carr_5_5_pg Form B, ruled grid, three hand-written rows (the third wraps onto a second line) plus a filer-written total"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "500.00",
+    "cover_over50_cum": "500.00",
+    "cover_le50_last": "0",
+    "cover_le50_this": "75.00",
+    "cover_le50_cum": "75.00",
+    "cover_expense_last": "0",
+    "cover_expense_this": "659.32",
+    "cover_expense_cum": "659.32",
+    "cover_balance_end": "659.32",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "500.00",
+   "basis": "cover-line1-cumulative (== the THIS cell)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One row, 500.00, equals cover line 1 in BOTH the THIS and CUMULATIVE columns (LAST is a slashed-O zero, so this is the first report of the cycle and the two scopes coincide). Scored against LINE 1 ONLY per the cache addendum §B - the filer also reports a 75.00 '$50.00 or less' aggregate on line 2, which is never itemized; scoring against 575.00 would manufacture a false mismatch. The Carr form prints no schedule total."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "659.32",
+    "cover_expense_cum": "659.32",
+    "cover_balance_end": "659.32",
+    "schedule_total": "659.32",
+    "page_subtotal": null
+   },
+   "itemized": "659.32",
+   "basis": "cover-line3-cumulative (== the filer's hand-written total under the rows)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "3 rows sum to EXACTLY 659.32 (363.80 + 145.52 + 150.00), matching the filer's own hand-written 659.32 below the last row and cover line 3 in both the THIS and CUMULATIVE columns. The FORM prints no schedule total; the 659.32 in schedule_total is the FILER's."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "no printed schedule total on either Carr schedule. p2: single row 500.00 = cover line1 THIS = CUM 500.00 -> closes (line 2's 75.00 small-donor aggregate is deliberately NOT part of this comparison). p3: rows-sum 659.32 = filer's hand-written total = cover line3 -> closes exactly.",
+  "row_count": "rowbands.py p2: ok, 35 bands / 34 data bands, pitch 2.324%, rules from 9.73, 12.55, 14.85 ... the single inked row sits above the 12.55 rule, in the first band; all other bands empty -> 1 row emitted. rowbands.py p3 returns geometry_status 'gaps' (it loses the interior rules exactly where the filer's ink crosses them, the known tool DEBT), so p3 was counted by INK at 200 dpi and re-counted in 600 dpi band crops: three transaction rows (the third's payee name wraps onto a fourth ruled line, 'Chris Wilson', which is a CONTINUATION of row 3's name and carries no digits, no amount and no date - it is not a fourth transaction) plus the filer's total. 3 rows emitted.",
+  "geometry_proof": "p2: the row's amount-cell crop renders '500.00'; the control one row-pitch below renders empty (only the descender tail of the row above clips the top edge). p3: a single column crop spanning the amount cells renders, in order, 363.80 / 145.52 / 150.00 and then the filer's own 659.32 total two bands below - i.e. the three row boxes hold their own values and the band past the last row holds the total, not a transaction.",
+  "balance_chain": "contributions 500.00 + 75.00 = 575.00; minus expenses 659.32 = -84.32. Cover line 4 instead reads a POSITIVE 659.32 in both the THIS and CUMULATIVE columns - the same 'expense figure copied into the balance line' pattern seen on keys ab1fa1ef and 84204cb6 in this chunk. Does NOT close; FILER arithmetic, both figures retained verbatim, nothing recomputed. No second filing by this filer is in this chunk, so no cross-filing chain was available."
+ },
+ "escalations": 4,
+ "escalation_note": "p1 totals block at 1200 dpi (confirms the LAST column is a slashed-O zero on lines 1-4 and the THIS/CUM figures); p1 signature date at 1200 dpi ('10/20/20'); p3 row-3 date at 1200 dpi twice (first crop mis-framed, second reads '10/26/20' unambiguously); p2/p3 amount columns at 600 dpi.",
+ "notes": "index.csv says candidate 'tidwell', office 'County Council'. The cover reads 'Full Name of Candidate: Barbara Y. Tidwell', 'Name of Office: Cache County Council', 'Office District: Seat 2', 'Political Party: Republican', signed and dated 10/20/20, clerk stamp CLERK-OCT26'20 1:18:55. Agrees; in scope. ODDITY worth a human's eye: expenditure row 3 is dated 10/26/20, SIX DAYS AFTER the cover's own signature date of 10/20/20 and on the clerk's stamp date - the filer evidently added the 'return funds' line when he filed. Transcribed verbatim from the form, not adjusted. The candidate's street address and both phone numbers are on the cover in the clear and were discarded at read time; the single donor's mailing address (a street and ZIP, with NO city printed) was likewise discarded, so donor_city/donor_state are honestly blank rather than inferred from the ZIP.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-10-07",
+   "donor_raw": "Friends of Chris Wilson",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.16,10.20,13.67,2.30@p2",
+   "note": "date written '10/7/20'. The address cell holds a street name and a ZIP and NO city, so donor_city/donor_state are left blank rather than inferred (core §5). The form has no in-kind column, so in_kind is false by absence, not by a marked answer."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-09-21",
+   "vendor_raw": "Square One Printing",
+   "purpose": "Yard signs",
+   "amount": "363.80",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.16,10.30,13.67,2.20@p3",
+   "note": "date written '9/21/20'"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-10-07",
+   "vendor_raw": "Watkins Printing",
+   "purpose": "Postcards",
+   "amount": "145.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.16,12.60,13.67,2.20@p3",
+   "note": "date written '10/7/20'"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2020-10-26",
+   "vendor_raw": "Return funds To Friends of Chris Wilson",
+   "purpose": "",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=n/a;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.16,15.00,13.67,2.20@p3",
+   "note": "the payee text wraps onto the next ruled line ('Return funds To Friends of' / 'Chris Wilson') - a genuine name continuation (no digits, no separate amount or date), joined here. The Purpose cell is left EMPTY by the filer (the payee text already states the purpose); blank, not zero. Date '10/26/20' - six days after the cover's signature date; verified in a 1200 dpi crop."
+  }
+ ]
+}

@@ -49,6 +49,52 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "An all-zero report (no activity in the period) - a genuine printed $0.00 on every line, not a missing value. 2-page PDF. Form title reads 2020 (template reuse)."
+  "notes": "An all-zero report (no activity in the period) - a genuine printed $0.00 on every line, not a missing value. 2-page PDF. Form title reads 2020 (template reuse).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page exists in the document; Summary line 1 prints $0.00 in both columns (cached anchor $0.00 confirmed)"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page exists in the document; Summary line 2 prints $0.00 in both columns (cached anchor $0.00 confirmed)"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages; nothing to gate",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2022 filing on the '2020 Financial Disclosure Report' candidate form, as the chunk prior says. April 5 interim box checked; amendment = No; signed 04/01/22. Party UUP; Office Sought '_Council - District', District 3. Cover + Summary only; every Summary box (Column A and Column B) is $0.00. Document matches the no-schedule-page prior."
+  }
  }
 }

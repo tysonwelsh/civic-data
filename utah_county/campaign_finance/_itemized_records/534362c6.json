@@ -1,0 +1,2398 @@
+[
+ {
+  "index_path": "raw/2018/2018_SheriffDurfey.pdf",
+  "key": "534362c6",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r7_02)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "itemized_pages_A": "3,4,5",
+  "itemized_pages_B": "6,7,8,9,10,11",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED (24,294.75) on the p2 SUMMARY PAGE, which equals the 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' 24,294.75 printed at the foot of all three Schedule A sheets and is repeated at summary lines 4 and 5",
+    "detail": "42 Schedule A rows over three sheets, each sheet gated on its OWN printed page subtotal first: p3 17 rows = 8,915.00 = its printed 'Subtotal for this page'; p4 17 rows = 8,960.00 = its printed subtotal; p5 8 rows = 6,419.75 = its printed subtotal. 8,915.00 + 8,960.00 + 6,419.75 = 24,294.75 = the cycle-scope footer = the cover's promoted PER-PERIOD Column A cell. THE TWO PRINTED FOOTERS CARRY DIFFERENT SCOPES on every sheet (page subtotal vs sum of all pages) and each was reconciled to the right one. Column B Year-to-Date prints the SAME 24,294.75 because this is the filer's first and only report of the cycle (period = year to date), so no cumulative/period distinction arises. THE SUM CLOSES ONLY WITH IN-KIND INCLUDED (4 rows marked '(in kind)' by the filer, 4,890.71) and ONLY WITH THE TWO 'loan to self' LINES INCLUDED (2,919.04): monetary-only gives 19,404.04 and loan-excluded gives 21,375.71, both of which fail. The cover ladder corroborates: line 3 beginning is a SLASHED ZERO (0), line 4 = 24,294.75, line 5 = 24,294.75, line 6 = 24,294.75, line 7 balance at close is a SLASHED ZERO (0)."
+   },
+   "expenditures": {
+    "result": "delta",
+    "anchor": "Column A 'Total this Period' line 2 TOTAL EXPENDITURES MADE (24,294.75) on the p2 SUMMARY PAGE, equal to the 'Total Expenditures (Sum of subtotals from all Schedule B pages)' 24,294.75 printed at the foot of all six Schedule B sheets",
+    "detail": "89 Schedule B rows over six sheets. FOUR OF THE SIX SHEETS CLOSE TO THE CENT against their own printed page subtotals: p7 17 rows = 1,384.67; p8 17 rows = 8,095.30; p9 17 rows = 4,521.09; p11 4 rows = 1,356.50. TWO DO NOT: p6's 17 rows sum to 2,857.56 against a printed subtotal of 2,707.56 (+150.00), and p10's 17 rows sum to 6,235.47 against a printed 6,229.63 (+5.84). Total rows as read 24,450.59 vs the stated 24,294.75, delta +155.84. THE DELTA IS TRACED TO THOSE TWO PAGES BUT IS NOT UNIQUELY ATTRIBUTABLE TO ANY CELL, so nothing was nudged (ADDENDUM C5): the filer's own six page subtotals sum to exactly 24,294.75 and match the cover, so his page-level totals are internally consistent while two of them do not equal the rows he wrote above them. Screening done before retaining the delta: (a) the doubled-band check of ADDENDUM H3 - both pages carry a full 17-rule grid, every band was crop-read individually and none holds two entries; (b) the below-the-last-rule check of ADDENDUM F1.5 - the one-past control on each page rendered the printed 'Subtotal for this page' footer, not an extra entry; (c) the glyph class - this filer's zero and six are the same loop, but no combination of 0/6 re-readings can produce -150.00 or -5.84 (every such change is a multiple of 0.06, and 5.84 is not), so the ambiguity cannot explain either page; (d) the correlated-error screen - this is the filer's only filing in the corpus, so 'not-correlated-by-absence'. Candidate cells on both pages carry needs_review=1."
+   }
+  },
+  "in_kind_convention": "MONETARY-PLUS-IN-KIND on the contributions side - tested both ways per ADDENDUM G1. Four Schedule A rows are marked '(in kind)' inside the Name of Contributor cell (Nathan Ivie 200.00, Brook Roney 2,000.00, Kay Durfey 2,557.12 and 133.59 = 4,890.71); monetary-only gives 19,404.04 against a stated 24,294.75 and fails, while monetary-plus-in-kind closes exactly. On the expenditures side NO row is marked in-kind by the filer, so every expenditure row is recorded in_kind=false as printed - even the three rows on p10 whose amounts match the in-kind gifts to the cent (2,557.12 / 133.59 / 2,000.00) and are evidently the offsetting entries. The correspondence is noted on those rows and NOT asserted as a form property.",
+  "escalations": 14,
+  "escalation_note": "THE FILER'S ZERO AND HIS SIX ARE THE SAME GLYPH - a loop with a lead-in stroke - and the two can only be told apart by arithmetic. Fourteen amount cells were escalated to 1100-1800 dpi tight crops with the address column excluded. What the escalations established: (1) On p3 three cells carry the ambiguous glyph (rows 11, 14, 17). The other fourteen rows are unambiguous and sum to 8,565.00, so the three must total 350.00; of the eight possible assignments only 200.00 + 100.00 + 50.00 gives 350.00 (the others give 356, 410, 410, 416, 470, 476), so the closure is UNIQUE and the page closes exactly at its printed 8,915.00. My first reading of that page (260 / 100 / 56) summed 66.00 high and was WRONG. (2) The reference instance is the filer's OWN confirmed glyph: p4 row 17 is written identically and must be 200.00 for that page to close at its printed 8,960.00 - the ADDENDUM F6 standard of comparing a disputed digit to the same filer's arithmetically-confirmed instance elsewhere. (3) The same glyph is a genuine SIX at p4 row 6 (60.00) and p5 row 3 (60.00), both proved by their pages closing exactly - so the glyph cannot be resolved by shape in either direction, only by the page's arithmetic. (4) On p6 rows 4, 6, 7 and 9 and on p10 rows 2, 3, 7 and 13 the same ambiguity exists but those two pages do NOT close, so no arithmetic is available to settle them; they are retained as read with needs_review=1. p6 row 7 was cropped at 1800 dpi from the amount column's own left rule and rendered three digits, '224.37', with no bleed from the address column - it is not 24.37. ARITHMETIC CLOSURE OUTRANKS GLYPH READING (GOTCHAS / the Rhodes reversal) and that is exactly what decided every cell that could be decided.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     82.89,
+     92.48
+    ],
+    "cells": [
+     [
+      8.66,
+      19.84
+     ],
+     [
+      21.31,
+      53.37
+     ],
+     [
+      54.89,
+      81.31
+     ],
+     [
+      82.89,
+      92.48
+     ]
+    ],
+    "rows": [
+     [
+      18.17,
+      22.09
+     ],
+     [
+      22.09,
+      26.02
+     ],
+     [
+      26.02,
+      29.96
+     ],
+     [
+      29.96,
+      33.89
+     ],
+     [
+      33.89,
+      37.82
+     ],
+     [
+      37.82,
+      41.73
+     ],
+     [
+      41.73,
+      45.66
+     ],
+     [
+      45.66,
+      49.55
+     ],
+     [
+      49.55,
+      53.48
+     ],
+     [
+      53.48,
+      57.41
+     ],
+     [
+      57.41,
+      61.32
+     ],
+     [
+      61.32,
+      65.23
+     ],
+     [
+      65.23,
+      69.14
+     ],
+     [
+      69.14,
+      73.09
+     ],
+     [
+      73.09,
+      76.98
+     ],
+     [
+      76.98,
+      80.91
+     ],
+     [
+      80.91,
+      84.82
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form: rowbands.py returns 17 four-segment per-column rules on this page and the segments ARE the column bands (Date / Name of Contributor / Mailing Address & Zip Code / Amount). THE TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1's band is extrapolated one pitch up from the first rule; 17 rules = 17 usable lines (ADDENDUM H1). first rule 22.09, fitted pitch 3.9206, row 1 extrapolated to 18.17. PROOF at 1300 dpi: the row-1 box rendered '100.00' under the printed 'Amount' header (first-entry control PASSED, band 1 is the first written line); the row-17 box rendered '50.00'; the ONE-PAST-THE-END control (band 18, pct:80,84.82,17,4.5) rendered the printed 'Subtotal for this page $ 8915.00' line, i.e. the schedule's own footer below the last rule, NOT an eighteenth entry (ADDENDUM H4/F1.5 both checked). Amount-column strips at 1300 dpi were read cell by cell to settle this filer's 0/6 glyph (see escalation_note)."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     82.95,
+     92.54
+    ],
+    "cells": [
+     [
+      8.66,
+      19.89
+     ],
+     [
+      21.36,
+      53.48
+     ],
+     [
+      55.01,
+      81.42
+     ],
+     [
+      82.95,
+      92.54
+     ]
+    ],
+    "rows": [
+     [
+      18.17,
+      22.09
+     ],
+     [
+      22.09,
+      26.0
+     ],
+     [
+      26.0,
+      29.96
+     ],
+     [
+      29.96,
+      33.89
+     ],
+     [
+      33.89,
+      37.82
+     ],
+     [
+      37.82,
+      41.77
+     ],
+     [
+      41.77,
+      45.68
+     ],
+     [
+      45.68,
+      49.55
+     ],
+     [
+      49.55,
+      53.5
+     ],
+     [
+      53.5,
+      57.41
+     ],
+     [
+      57.41,
+      61.32
+     ],
+     [
+      61.32,
+      65.23
+     ],
+     [
+      65.23,
+      69.18
+     ],
+     [
+      69.18,
+      73.09
+     ],
+     [
+      73.09,
+      77.0
+     ],
+     [
+      77.0,
+      80.91
+     ],
+     [
+      80.91,
+      84.84
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form: rowbands.py returns 17 four-segment per-column rules on this page and the segments ARE the column bands (Date / Name of Contributor / Mailing Address & Zip Code / Amount). THE TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1's band is extrapolated one pitch up from the first rule; 17 rules = 17 usable lines (ADDENDUM H1). first rule 22.09, fitted pitch 3.9219, row 1 extrapolated to 18.17. PROOF at 1100 dpi: row-1 box rendered '300.00' under the 'Amount' header (first-entry control PASSED); row-17 box rendered '200.00'; the strip continuing past the last rule rendered the printed 'Subtotal for this page' figure 8960.00 (written over a struck earlier figure), not a row."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     83.25,
+     93.02
+    ],
+    "cells": [
+     [
+      8.31,
+      19.72
+     ],
+     [
+      21.19,
+      53.55
+     ],
+     [
+      55.08,
+      81.72
+     ],
+     [
+      83.25,
+      93.02
+     ]
+    ],
+    "rows": [
+     [
+      17.52,
+      21.43
+     ],
+     [
+      21.43,
+      25.34
+     ],
+     [
+      25.34,
+      29.25
+     ],
+     [
+      29.25,
+      33.18
+     ],
+     [
+      33.18,
+      37.12
+     ],
+     [
+      37.12,
+      41.02
+     ],
+     [
+      41.02,
+      44.93
+     ],
+     [
+      44.93,
+      48.82
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form: rowbands.py returns 17 four-segment per-column rules on this page and the segments ARE the column bands (Date / Name of Contributor / Mailing Address & Zip Code / Amount). THE TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1's band is extrapolated one pitch up from the first rule; 17 rules = 17 usable lines (ADDENDUM H1). first rule 21.43, fitted pitch 3.9094, row 1 extrapolated to 17.52. PROOF at 900 dpi: a single strip over bands 1-8 rendered, in order, 400.00 / 100.00 / 60.00 / 250.00 / 2557.12 / 133.59 / 1597.54 / 1321.50 \u2014 every transcribed row proved (the page uses 8 of its 17 lines), the first entry sits on band 1, and the band AFTER the last row rendered EMPTY WHITE between two printed rules (one-past control PASSED)."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     83.18,
+     93.06
+    ],
+    "cells": [
+     [
+      8.36,
+      19.77
+     ],
+     [
+      21.24,
+      53.53
+     ],
+     [
+      55.06,
+      81.71
+     ],
+     [
+      83.18,
+      93.06
+     ]
+    ],
+    "rows": [
+     [
+      19.55,
+      23.46
+     ],
+     [
+      23.46,
+      27.39
+     ],
+     [
+      27.39,
+      31.32
+     ],
+     [
+      31.32,
+      35.25
+     ],
+     [
+      35.25,
+      39.14
+     ],
+     [
+      39.14,
+      43.05
+     ],
+     [
+      43.05,
+      46.96
+     ],
+     [
+      46.96,
+      50.89
+     ],
+     [
+      50.89,
+      54.8
+     ],
+     [
+      54.8,
+      58.71
+     ],
+     [
+      58.71,
+      62.57
+     ],
+     [
+      62.57,
+      66.5
+     ],
+     [
+      66.5,
+      70.43
+     ],
+     [
+      70.43,
+      74.34
+     ],
+     [
+      74.34,
+      78.2
+     ],
+     [
+      78.2,
+      82.11
+     ],
+     [
+      82.11,
+      86.0
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form: rowbands.py returns 17 four-segment per-column rules on this page and the segments ARE the column bands (Date / Name of Contributor / Mailing Address & Zip Code / Amount). THE TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1's band is extrapolated one pitch up from the first rule; 17 rules = 17 usable lines (ADDENDUM H1). first rule 23.46, fitted pitch 3.9087, row 1 extrapolated to 19.55. PROOF at 1200-1800 dpi: row-1 box rendered '895.00' under the 'Amount' header (first-entry control PASSED); row-17 box rendered '62.48'; the one-past strip (pct:79,86.0,18,5.0) rendered the printed 'Subtotal for this page $ 2707.56' footer, not an eighteenth entry. Rows 4, 6, 7 and 9 were additionally escalated to 1800 dpi tight cell crops with the address column excluded (x from the amount column's own left rule) \u2014 row 7 rendered three digits '224.37' with no address bleed."
+   },
+   "7": {
+    "axis": "y",
+    "cell": [
+     82.94,
+     92.64
+    ],
+    "cells": [
+     [
+      8.76,
+      19.94
+     ],
+     [
+      21.47,
+      53.52
+     ],
+     [
+      55.05,
+      81.47
+     ],
+     [
+      82.94,
+      92.64
+     ]
+    ],
+    "rows": [
+     [
+      20.56,
+      24.48
+     ],
+     [
+      24.48,
+      28.43
+     ],
+     [
+      28.43,
+      32.37
+     ],
+     [
+      32.37,
+      36.3
+     ],
+     [
+      36.3,
+      40.21
+     ],
+     [
+      40.21,
+      44.14
+     ],
+     [
+      44.14,
+      48.05
+     ],
+     [
+      48.05,
+      51.98
+     ],
+     [
+      51.98,
+      55.89
+     ],
+     [
+      55.89,
+      59.8
+     ],
+     [
+      59.8,
+      63.71
+     ],
+     [
+      63.71,
+      67.64
+     ],
+     [
+      67.64,
+      71.57
+     ],
+     [
+      71.57,
+      75.5
+     ],
+     [
+      75.5,
+      79.41
+     ],
+     [
+      79.41,
+      83.32
+     ],
+     [
+      83.32,
+      87.21
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form: rowbands.py returns 17 four-segment per-column rules on this page and the segments ARE the column bands (Date / Name of Contributor / Mailing Address & Zip Code / Amount). THE TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1's band is extrapolated one pitch up from the first rule; 17 rules = 17 usable lines (ADDENDUM H1). first rule 24.48, fitted pitch 3.9206, row 1 extrapolated to 20.56. PROOF at 1100 dpi: row-1 box rendered '19.00' under the 'Amount' header (first-entry control PASSED); row-17 box rendered '5.00'; the one-past strip rendered the printed page subtotal 1384.67, not a row."
+   },
+   "8": {
+    "axis": "y",
+    "cell": [
+     83.05,
+     92.64
+    ],
+    "cells": [
+     [
+      8.76,
+      20.0
+     ],
+     [
+      21.47,
+      53.58
+     ],
+     [
+      55.17,
+      81.52
+     ],
+     [
+      83.05,
+      92.64
+     ]
+    ],
+    "rows": [
+     [
+      20.65,
+      24.57
+     ],
+     [
+      24.57,
+      28.53
+     ],
+     [
+      28.53,
+      32.46
+     ],
+     [
+      32.46,
+      36.39
+     ],
+     [
+      36.39,
+      40.3
+     ],
+     [
+      40.3,
+      44.21
+     ],
+     [
+      44.21,
+      48.12
+     ],
+     [
+      48.12,
+      52.05
+     ],
+     [
+      52.05,
+      55.98
+     ],
+     [
+      55.98,
+      59.89
+     ],
+     [
+      59.89,
+      63.8
+     ],
+     [
+      63.8,
+      67.73
+     ],
+     [
+      67.73,
+      71.66
+     ],
+     [
+      71.66,
+      75.59
+     ],
+     [
+      75.59,
+      79.5
+     ],
+     [
+      79.5,
+      83.41
+     ],
+     [
+      83.41,
+      87.3
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form: rowbands.py returns 17 four-segment per-column rules on this page and the segments ARE the column bands (Date / Name of Contributor / Mailing Address & Zip Code / Amount). THE TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1's band is extrapolated one pitch up from the first rule; 17 rules = 17 usable lines (ADDENDUM H1). first rule 24.57, fitted pitch 3.9206, row 1 extrapolated to 20.65. PROOF at 1100 dpi: row-1 box rendered '19.00' (first-entry control PASSED); row-17 box rendered '5.20'; the one-past strip rendered the printed page subtotal 8095.30, not a row."
+   },
+   "9": {
+    "axis": "y",
+    "cell": [
+     83.11,
+     92.82
+    ],
+    "cells": [
+     [
+      8.82,
+      20.11
+     ],
+     [
+      21.58,
+      53.7
+     ],
+     [
+      55.23,
+      81.64
+     ],
+     [
+      83.11,
+      92.82
+     ]
+    ],
+    "rows": [
+     [
+      20.7,
+      24.62
+     ],
+     [
+      24.62,
+      28.59
+     ],
+     [
+      28.59,
+      32.53
+     ],
+     [
+      32.53,
+      36.43
+     ],
+     [
+      36.43,
+      40.37
+     ],
+     [
+      40.37,
+      44.3
+     ],
+     [
+      44.3,
+      48.21
+     ],
+     [
+      48.21,
+      52.12
+     ],
+     [
+      52.12,
+      56.03
+     ],
+     [
+      56.03,
+      59.96
+     ],
+     [
+      59.96,
+      63.84
+     ],
+     [
+      63.84,
+      67.8
+     ],
+     [
+      67.8,
+      71.73
+     ],
+     [
+      71.73,
+      75.66
+     ],
+     [
+      75.66,
+      79.57
+     ],
+     [
+      79.57,
+      83.46
+     ],
+     [
+      83.46,
+      87.36
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form: rowbands.py returns 17 four-segment per-column rules on this page and the segments ARE the column bands (Date / Name of Contributor / Mailing Address & Zip Code / Amount). THE TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1's band is extrapolated one pitch up from the first rule; 17 rules = 17 usable lines (ADDENDUM H1). first rule 24.62, fitted pitch 3.9212, row 1 extrapolated to 20.70. PROOF at 1100 dpi: row-1 box rendered '26.19' (first-entry control PASSED); row-17 box rendered '618.19'; the one-past strip rendered the printed page subtotal 4521.09, not a row."
+   },
+   "10": {
+    "axis": "y",
+    "cell": [
+     83.05,
+     92.82
+    ],
+    "cells": [
+     [
+      8.82,
+      20.11
+     ],
+     [
+      21.58,
+      53.58
+     ],
+     [
+      55.17,
+      81.52
+     ],
+     [
+      83.05,
+      92.82
+     ]
+    ],
+    "rows": [
+     [
+      20.83,
+      24.75
+     ],
+     [
+      24.75,
+      28.71
+     ],
+     [
+      28.71,
+      32.64
+     ],
+     [
+      32.64,
+      36.57
+     ],
+     [
+      36.57,
+      40.48
+     ],
+     [
+      40.48,
+      44.39
+     ],
+     [
+      44.39,
+      48.3
+     ],
+     [
+      48.3,
+      52.23
+     ],
+     [
+      52.23,
+      56.14
+     ],
+     [
+      56.14,
+      60.05
+     ],
+     [
+      60.05,
+      63.98
+     ],
+     [
+      63.98,
+      67.89
+     ],
+     [
+      67.89,
+      71.82
+     ],
+     [
+      71.82,
+      75.75
+     ],
+     [
+      75.75,
+      79.68
+     ],
+     [
+      79.68,
+      83.59
+     ],
+     [
+      83.59,
+      87.48
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form: rowbands.py returns 17 four-segment per-column rules on this page and the segments ARE the column bands (Date / Name of Contributor / Mailing Address & Zip Code / Amount). THE TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1's band is extrapolated one pitch up from the first rule; 17 rules = 17 usable lines (ADDENDUM H1). first rule 24.75, fitted pitch 3.9206, row 1 extrapolated to 20.83. PROOF at 1100 dpi: row-1 box rendered '12.19' (first-entry control PASSED); the amount column was then read cell by cell in two 1100 dpi strips (rows 1-9, rows 10-17), the last rendering '2000.00' for row 17; the one-past strip (pct:79,87.48,18,5.0) rendered the printed 'Subtotal for this page $ 6229.63' footer, not an eighteenth entry."
+   },
+   "11": {
+    "axis": "y",
+    "cell": [
+     82.94,
+     92.64
+    ],
+    "cells": [
+     [
+      8.7,
+      19.88
+     ],
+     [
+      21.41,
+      53.52
+     ],
+     [
+      55.0,
+      81.47
+     ],
+     [
+      82.94,
+      92.64
+     ]
+    ],
+    "rows": [
+     [
+      20.74,
+      24.66
+     ],
+     [
+      24.66,
+      28.64
+     ],
+     [
+      28.64,
+      32.55
+     ],
+     [
+      32.55,
+      36.48
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form: rowbands.py returns 17 four-segment per-column rules on this page and the segments ARE the column bands (Date / Name of Contributor / Mailing Address & Zip Code / Amount). THE TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1's band is extrapolated one pitch up from the first rule; 17 rules = 17 usable lines (ADDENDUM H1). first rule 24.66, fitted pitch 3.9219, row 1 extrapolated to 20.74. PROOF at 1000 dpi: a single strip over bands 1-5 rendered 35.00 / 19.00 / 302.50 / 1000.00 and then an EMPTY band between two printed rules \u2014 every transcribed row proved and the one-past control PASSED. The page uses 4 of its 17 lines."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "8-1-17",
+    "donor_raw": "Fran Lagiglia",
+    "donor_city": "Salem",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "8-2-17",
+    "donor_raw": "Kim Durfey",
+    "donor_city": "Bicknell",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell gives a mailing-only address (no street line); city/state only are carried"
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "8-2-17",
+    "donor_raw": "Brian White",
+    "donor_city": "Tooele",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "8-11-17",
+    "donor_raw": "Kurt Ockershausen",
+    "donor_city": "Torrey",
+    "donor_state": "UT",
+    "amount": "1500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "mailing-only address (no street line); city/state only"
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "8-11-17",
+    "donor_raw": "Kevin Kay",
+    "donor_city": "Herriman",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "8-14-17",
+    "donor_raw": "James Childs",
+    "donor_city": "Santaquin",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "8-17-17",
+    "donor_raw": "Michele Gardner",
+    "donor_city": "Highland",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "9-30-17",
+    "donor_raw": "Nathan Ivie (in kind)",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer wrote '(in kind)' inside the Name of Contributor cell; kept verbatim in donor_raw and flagged in_kind"
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "10-10-17",
+    "donor_raw": "Alan Bennett",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "70.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "11-19-17",
+    "donor_raw": "Mark Van Voorhis",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "95.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "mailing-only address (no street line); city/state only"
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "date": "12-7-17",
+    "donor_raw": "Mike Brower",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "READ 200.00, NOT 260.00: this filer writes his ZERO with a lead-in loop that is shape-identical to his SIX; the value here is settled by the page's own arithmetic, not by the glyph (see escalation_note). Rows 11, 14 and 17 of this page each carry the ambiguous glyph, and only the assignment 200.00 / 100.00 / 50.00 makes the 17 rows sum to the printed page subtotal 8,915.00 (the alternatives give 356, 410 or 476 against the required 350). The same glyph is written on p4 row 17, a page that closes exactly at 200.00 - the filer's own confirmed instance"
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "date": "12-13-17",
+    "donor_raw": "James Childs",
+    "donor_city": "Santaquin",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "date": "12-14-17",
+    "donor_raw": "Drew Mumford",
+    "donor_city": "Lindon",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "date": "12-21-17",
+    "donor_raw": "Paul Overly",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "READ 100.00, NOT 160.00 - same unique arithmetic closure as row 11; this filer writes his ZERO with a lead-in loop that is shape-identical to his SIX; the value here is settled by the page's own arithmetic, not by the glyph (see escalation_note)"
+   },
+   {
+    "line_no": "15",
+    "page": 3,
+    "row": 15,
+    "date": "12-26-17",
+    "donor_raw": "Andrew Pedersen",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 16,
+    "date": "12-26-17",
+    "donor_raw": "Brook Roney (in kind)",
+    "donor_city": "Lindon",
+    "donor_state": "UT",
+    "amount": "2000.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'(in kind)' written by the filer inside the name cell"
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 17,
+    "date": "12-28-17",
+    "donor_raw": "Chad Lyman",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "READ 50.00, NOT 56.00 - same unique arithmetic closure as row 11; this filer writes his ZERO with a lead-in loop that is shape-identical to his SIX; the value here is settled by the page's own arithmetic, not by the glyph (see escalation_note)"
+   },
+   {
+    "line_no": "18",
+    "page": 4,
+    "row": 1,
+    "date": "12-30-17",
+    "donor_raw": "Matt Arnold",
+    "donor_city": "Springville",
+    "donor_state": "UT",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 4,
+    "row": 2,
+    "date": "1-2-18",
+    "donor_raw": "Jason Heidel",
+    "donor_city": "Eagle Mt",
+    "donor_state": "UT",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "city written by the filer as the abbreviation 'Eagle Mt'; kept verbatim"
+   },
+   {
+    "line_no": "20",
+    "page": 4,
+    "row": 3,
+    "date": "1-9-18",
+    "donor_raw": "Josh & Michelle Campbell",
+    "donor_city": "Payson",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "21",
+    "page": 4,
+    "row": 4,
+    "date": "1-9-18",
+    "donor_raw": "Alan Bennett",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "22",
+    "page": 4,
+    "row": 5,
+    "date": "1-13-18",
+    "donor_raw": "Eric Budge/Terry Jasper",
+    "donor_city": "Lindon",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "two names on one line, written by the filer as a single entry; kept as ONE row exactly as reported"
+   },
+   {
+    "line_no": "23",
+    "page": 4,
+    "row": 6,
+    "date": "1-17-18",
+    "donor_raw": "Matt Higley",
+    "donor_city": "Payson",
+    "donor_state": "UT",
+    "amount": "60.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a genuine SIX: the page closes at 8,960.00 only with 60.00, so here the loop glyph is a 6 and not a 0"
+   },
+   {
+    "line_no": "24",
+    "page": 4,
+    "row": 7,
+    "date": "1-17-18",
+    "donor_raw": "Kennon Tubbs",
+    "donor_city": "Draper",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "25",
+    "page": 4,
+    "row": 8,
+    "date": "1-17-18",
+    "donor_raw": "James Childs",
+    "donor_city": "Santaquin",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "26",
+    "page": 4,
+    "row": 9,
+    "date": "1-17-18",
+    "donor_raw": "Spark Holdings",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "27",
+    "page": 4,
+    "row": 10,
+    "date": "1-17-18",
+    "donor_raw": "Triple A Landscaping",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "28",
+    "page": 4,
+    "row": 11,
+    "date": "1-20-18",
+    "donor_raw": "Nancy Roney",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "29",
+    "page": 4,
+    "row": 12,
+    "date": "1-20-18",
+    "donor_raw": "Terry Shellenberger",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "30",
+    "page": 4,
+    "row": 13,
+    "date": "1-23-18",
+    "donor_raw": "Phil Hansen",
+    "donor_city": "Springville",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "31",
+    "page": 4,
+    "row": 14,
+    "date": "1-24-18",
+    "donor_raw": "Mike Cozart",
+    "donor_city": "Roy",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "32",
+    "page": 4,
+    "row": 15,
+    "date": "1-30-18",
+    "donor_raw": "Cory Crabb",
+    "donor_city": "Santaquin",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "33",
+    "page": 4,
+    "row": 16,
+    "date": "2-5-18",
+    "donor_raw": "Dale Rench",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "34",
+    "page": 4,
+    "row": 17,
+    "date": "2-22-18",
+    "donor_raw": "Jim Tracy",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the amount glyph is the filer's ambiguous loop form; 200.00 is proved by this page closing exactly at its printed subtotal 8,960.00, and it is the reference instance used to settle p3 rows 11/14/17"
+   },
+   {
+    "line_no": "35",
+    "page": 5,
+    "row": 1,
+    "date": "2-23-18",
+    "donor_raw": "Chad Grunander",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "36",
+    "page": 5,
+    "row": 2,
+    "date": "2-23-18",
+    "donor_raw": "Dee Bradford",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell gives a street line plus a mailing-only address; city/state only"
+   },
+   {
+    "line_no": "37",
+    "page": 5,
+    "row": 3,
+    "date": "2-23-18",
+    "donor_raw": "Carolyn Wright",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "60.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "another genuine SIX, proved by the page closing at 6,419.75"
+   },
+   {
+    "line_no": "38",
+    "page": 5,
+    "row": 4,
+    "date": "3-16-18",
+    "donor_raw": "JCR Consulting",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the initials are handwritten and could read JCR or JUR; transcribed as written, confidence low on the spelling, the amount is not in doubt"
+   },
+   {
+    "line_no": "39",
+    "page": 5,
+    "row": 5,
+    "date": "3-30-18",
+    "donor_raw": "Kay Durfey (in kind)",
+    "donor_city": "Bicknell",
+    "donor_state": "UT",
+    "amount": "2557.12",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'(in kind)' written inside the name cell; mailing-only address, city/state only. The same 2,557.12 appears on Schedule B p10 row 15 (M&M World) as the offsetting entry"
+   },
+   {
+    "line_no": "40",
+    "page": 5,
+    "row": 6,
+    "date": "3-31-18",
+    "donor_raw": "Kay Durfey (in kind)",
+    "donor_city": "Bicknell",
+    "donor_state": "UT",
+    "amount": "133.59",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'(in kind)'; the same 133.59 appears on Schedule B p10 row 16 (Steamroller Copies)"
+   },
+   {
+    "line_no": "41",
+    "page": 5,
+    "row": 7,
+    "date": "4-1-18",
+    "donor_raw": "loan to self",
+    "donor_city": "Santaquin",
+    "donor_state": "UT",
+    "amount": "1597.54",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CLASSIFIED BY THE LADDER, NOT BY THE WORD 'LOAN' (ADDENDUM B3): the filer wrote 'loan to self' on SCHEDULE A, the cover's line 3 Balance at Beginning is a slashed zero, and this page's printed subtotal 6,419.75 - which feeds the printed cycle total 24,294.75 and the cover's Column A - INCLUDES both loan lines. So they are itemized contribution rows on this filing. The address cell repeats the candidate's own address (city/state only carried)"
+   },
+   {
+    "line_no": "42",
+    "page": 5,
+    "row": 8,
+    "date": "4-30-18",
+    "donor_raw": "loan to self",
+    "donor_city": "Santaquin",
+    "donor_state": "UT",
+    "amount": "1321.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "second loan-to-self line; same ladder reasoning as row 7"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 6,
+    "row": 1,
+    "date": "5-8-17",
+    "vendor_raw": "Panuco Associates",
+    "amount": "895.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "mailing-only address (not carried). The vendor name is handwritten 'Panuco Associates'"
+   },
+   {
+    "line_no": "2",
+    "page": 6,
+    "row": 2,
+    "date": "5-22-17",
+    "vendor_raw": "Fidelity optics",
+    "amount": "19.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 6,
+    "row": 3,
+    "date": "6-9-17",
+    "vendor_raw": "Vistaprint",
+    "amount": "5.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell gives only 'Lexington, MA' - a city and state with no street"
+   },
+   {
+    "line_no": "4",
+    "page": 6,
+    "row": 4,
+    "date": "6-13-17",
+    "vendor_raw": "Vistaprint",
+    "amount": "220.46",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "5",
+    "page": 6,
+    "row": 5,
+    "date": "6-23-17",
+    "vendor_raw": "Fidelity optics",
+    "amount": "19.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 6,
+    "row": 6,
+    "date": "7-10-17",
+    "vendor_raw": "Panuco Associates",
+    "amount": "854.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "7",
+    "page": 6,
+    "row": 7,
+    "date": "7-21-17",
+    "vendor_raw": "Walmart",
+    "amount": "224.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "ON THE NON-CLOSING PAGE: escalated to an 1800 dpi tight cell crop bounded at the amount column's own left rule, which rendered THREE digits '224.37' with no bleed from the address column. Retained as read; see the expenditures recon - this page's 17 rows exceed its printed subtotal by 150.00 and the difference is NOT uniquely attributable"
+   },
+   {
+    "line_no": "8",
+    "page": 6,
+    "row": 8,
+    "date": "7-21-17",
+    "vendor_raw": "Pier 1",
+    "amount": "65.14",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "9",
+    "page": 6,
+    "row": 9,
+    "date": "7-23-17",
+    "vendor_raw": "Fidelity optics",
+    "amount": "19.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "the leading digits are written as a merged ligature that could read 19 or 69; read 19.00 because this vendor is billed 19.00 on nine other rows of this filing, several on pages that close to the cent. Flagged because it sits on the non-closing page"
+   },
+   {
+    "line_no": "10",
+    "page": 6,
+    "row": 10,
+    "date": "7-24-17",
+    "vendor_raw": "Fedex copies",
+    "amount": "1.49",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "11",
+    "page": 6,
+    "row": 11,
+    "date": "7-28-17",
+    "vendor_raw": "Fedex copies",
+    "amount": "3.14",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 6,
+    "row": 12,
+    "date": "7-30-17",
+    "vendor_raw": "Costco",
+    "amount": "17.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "13",
+    "page": 6,
+    "row": 13,
+    "date": "7-30-17",
+    "vendor_raw": "Winco",
+    "amount": "42.95",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "14",
+    "page": 6,
+    "row": 14,
+    "date": "7-30-17",
+    "vendor_raw": "Smiths",
+    "amount": "160.17",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "carries the filer's ambiguous loop glyph (160 or 100) on the non-closing page; retained as read"
+   },
+   {
+    "line_no": "15",
+    "page": 6,
+    "row": 15,
+    "date": "7-31-17",
+    "vendor_raw": "mx merchant",
+    "amount": "2.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "out-of-state vendor (Columbus, GA)"
+   },
+   {
+    "line_no": "16",
+    "page": 6,
+    "row": 16,
+    "date": "8-10-17",
+    "vendor_raw": "Diamond Rental",
+    "amount": "246.38",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "17",
+    "page": 6,
+    "row": 17,
+    "date": "8-11-17",
+    "vendor_raw": "Kneaders",
+    "amount": "62.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "carries the ambiguous loop glyph (62 or 02) on the non-closing page; retained as read"
+   },
+   {
+    "line_no": "18",
+    "page": 7,
+    "row": 1,
+    "date": "8-23-17",
+    "vendor_raw": "Fidelity optics",
+    "amount": "19.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 7,
+    "row": 2,
+    "date": "8-25-17",
+    "vendor_raw": "mx merchant",
+    "amount": "6.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "20",
+    "page": 7,
+    "row": 3,
+    "date": "8-28-17",
+    "vendor_raw": "walmart",
+    "amount": "7.23",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "21",
+    "page": 7,
+    "row": 4,
+    "date": "9-23-17",
+    "vendor_raw": "Fidelity optics",
+    "amount": "19.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "22",
+    "page": 7,
+    "row": 5,
+    "date": "9-26-17",
+    "vendor_raw": "Postmaster",
+    "amount": "159.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "23",
+    "page": 7,
+    "row": 6,
+    "date": "10-2-17",
+    "vendor_raw": "Maceys",
+    "amount": "3.90",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "24",
+    "page": 7,
+    "row": 7,
+    "date": "10-2-17",
+    "vendor_raw": "Walmart",
+    "amount": "41.74",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "25",
+    "page": 7,
+    "row": 8,
+    "date": "10-2-17",
+    "vendor_raw": "mx merchant",
+    "amount": "8.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "26",
+    "page": 7,
+    "row": 9,
+    "date": "10-10-17",
+    "vendor_raw": "Costco",
+    "amount": "18.88",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "27",
+    "page": 7,
+    "row": 10,
+    "date": "10-10-17",
+    "vendor_raw": "Walmart",
+    "amount": "19.60",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "28",
+    "page": 7,
+    "row": 11,
+    "date": "10-10-17",
+    "vendor_raw": "Maceys",
+    "amount": "13.47",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "29",
+    "page": 7,
+    "row": 12,
+    "date": "10-23-17",
+    "vendor_raw": "Fidelity optics",
+    "amount": "19.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "30",
+    "page": 7,
+    "row": 13,
+    "date": "11-7-17",
+    "vendor_raw": "Maceys",
+    "amount": "40.97",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "31",
+    "page": 7,
+    "row": 14,
+    "date": "11-7-17",
+    "vendor_raw": "Walmart",
+    "amount": "9.04",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "32",
+    "page": 7,
+    "row": 15,
+    "date": "11-7-17",
+    "vendor_raw": "Mainstreet Pizza",
+    "amount": "85.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "33",
+    "page": 7,
+    "row": 16,
+    "date": "11-11-17",
+    "vendor_raw": "AT&T",
+    "amount": "908.21",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "34",
+    "page": 7,
+    "row": 17,
+    "date": "11-21-17",
+    "vendor_raw": "Vistaprint",
+    "amount": "5.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "address cell gives only 'Lexington, MA'"
+   },
+   {
+    "line_no": "35",
+    "page": 8,
+    "row": 1,
+    "date": "11-23-17",
+    "vendor_raw": "Fidelity optics",
+    "amount": "19.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "36",
+    "page": 8,
+    "row": 2,
+    "date": "12-6-17",
+    "vendor_raw": "Walmart",
+    "amount": "56.78",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "37",
+    "page": 8,
+    "row": 3,
+    "date": "12-6-17",
+    "vendor_raw": "Maceys",
+    "amount": "21.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "38",
+    "page": 8,
+    "row": 4,
+    "date": "12-22-17",
+    "vendor_raw": "Fidelity optics",
+    "amount": "19.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "39",
+    "page": 8,
+    "row": 5,
+    "date": "1-2-18",
+    "vendor_raw": "mx merchant",
+    "amount": "6.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "40",
+    "page": 8,
+    "row": 6,
+    "date": "1-6-18",
+    "vendor_raw": "Walmart",
+    "amount": "121.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "41",
+    "page": 8,
+    "row": 7,
+    "date": "1-9-18",
+    "vendor_raw": "maceys",
+    "amount": "26.38",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "42",
+    "page": 8,
+    "row": 8,
+    "date": "1-9-18",
+    "vendor_raw": "Utah County Clerk",
+    "amount": "252.73",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "paid to the county clerk; the address cell carries a struck-through correction"
+   },
+   {
+    "line_no": "43",
+    "page": 8,
+    "row": 9,
+    "date": "1-10-18",
+    "vendor_raw": "Office Depot",
+    "amount": "21.36",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "44",
+    "page": 8,
+    "row": 10,
+    "date": "1-12-18",
+    "vendor_raw": "Postmaster",
+    "amount": "76.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "45",
+    "page": 8,
+    "row": 11,
+    "date": "1-13-18",
+    "vendor_raw": "Renaissance Signs",
+    "amount": "3466.21",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "46",
+    "page": 8,
+    "row": 12,
+    "date": "1-18-18",
+    "vendor_raw": "Walmart",
+    "amount": "17.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "47",
+    "page": 8,
+    "row": 13,
+    "date": "1-18-18",
+    "vendor_raw": "Jmart",
+    "amount": "133.44",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "48",
+    "page": 8,
+    "row": 14,
+    "date": "1-19-18",
+    "vendor_raw": "Renaissance Signs",
+    "amount": "3813.21",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "49",
+    "page": 8,
+    "row": 15,
+    "date": "1-23-18",
+    "vendor_raw": "Fidelity optics",
+    "amount": "19.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "50",
+    "page": 8,
+    "row": 16,
+    "date": "1-29-18",
+    "vendor_raw": "Postmaster",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "51",
+    "page": 8,
+    "row": 17,
+    "date": "1-30-18",
+    "vendor_raw": "Zurchers",
+    "amount": "5.20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "52",
+    "page": 9,
+    "row": 1,
+    "date": "2-2-18",
+    "vendor_raw": "mx merchant",
+    "amount": "26.19",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "53",
+    "page": 9,
+    "row": 2,
+    "date": "2-2-18",
+    "vendor_raw": "Jmart",
+    "amount": "15.59",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "54",
+    "page": 9,
+    "row": 3,
+    "date": "2-2-18",
+    "vendor_raw": "UCRP Lincoln Day Dinner",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "mailing-only address"
+   },
+   {
+    "line_no": "55",
+    "page": 9,
+    "row": 4,
+    "date": "2-5-18",
+    "vendor_raw": "RK Creative Studio",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "56",
+    "page": 9,
+    "row": 5,
+    "date": "2-9-18",
+    "vendor_raw": "Northwest Fence",
+    "amount": "549.76",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "57",
+    "page": 9,
+    "row": 6,
+    "date": "2-15-18",
+    "vendor_raw": "Maceys",
+    "amount": "23.15",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "58",
+    "page": 9,
+    "row": 7,
+    "date": "2-21-18",
+    "vendor_raw": "Jmart",
+    "amount": "2.09",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "59",
+    "page": 9,
+    "row": 8,
+    "date": "2-23-18",
+    "vendor_raw": "Fidelity optics",
+    "amount": "19.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "60",
+    "page": 9,
+    "row": 9,
+    "date": "2-23-18",
+    "vendor_raw": "Jmart",
+    "amount": "120.09",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "61",
+    "page": 9,
+    "row": 10,
+    "date": "2-23-18",
+    "vendor_raw": "Pinners Home Expo Booth",
+    "amount": "800.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "mailing-only address"
+   },
+   {
+    "line_no": "62",
+    "page": 9,
+    "row": 11,
+    "date": "2-26-18",
+    "vendor_raw": "Walmart",
+    "amount": "17.27",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "63",
+    "page": 9,
+    "row": 12,
+    "date": "2-26-18",
+    "vendor_raw": "Beehive State Consulting",
+    "amount": "650.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "64",
+    "page": 9,
+    "row": 13,
+    "date": "3-13-18",
+    "vendor_raw": "Maceys",
+    "amount": "15.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "65",
+    "page": 9,
+    "row": 14,
+    "date": "3-13-18",
+    "vendor_raw": "Walmart",
+    "amount": "3.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "66",
+    "page": 9,
+    "row": 15,
+    "date": "3-14-18",
+    "vendor_raw": "Ezra Nair",
+    "amount": "236.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "67",
+    "page": 9,
+    "row": 16,
+    "date": "3-15-18",
+    "vendor_raw": "Jmart",
+    "amount": "400.31",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "68",
+    "page": 9,
+    "row": 17,
+    "date": "3-15-18",
+    "vendor_raw": "Utah County Clerk Filing",
+    "amount": "618.19",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the candidate filing fee for County Sheriff in 2018. Recorded as an observation only - ADDENDUM E1 forbids using the fee to settle a figure on another filing"
+   },
+   {
+    "line_no": "69",
+    "page": 10,
+    "row": 1,
+    "date": "3-18-18",
+    "vendor_raw": "Walmart",
+    "amount": "12.19",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "70",
+    "page": 10,
+    "row": 2,
+    "date": "3-21-18",
+    "vendor_raw": "Jmart",
+    "amount": "266.88",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "carries the filer's ambiguous loop glyph on the non-closing page; retained as read"
+   },
+   {
+    "line_no": "71",
+    "page": 10,
+    "row": 3,
+    "date": "3-22-18",
+    "vendor_raw": "Fidelity optics",
+    "amount": "19.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "the same merged 19/69 ligature as p6 row 9, on the non-closing page; read 19.00 for the same reason"
+   },
+   {
+    "line_no": "72",
+    "page": 10,
+    "row": 4,
+    "date": "3-26-18",
+    "vendor_raw": "Beehive State consulting",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "73",
+    "page": 10,
+    "row": 5,
+    "date": "3-27-18",
+    "vendor_raw": "Zurchers",
+    "amount": "7.92",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "74",
+    "page": 10,
+    "row": 6,
+    "date": "3-28-18",
+    "vendor_raw": "Jmart",
+    "amount": "400.31",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "75",
+    "page": 10,
+    "row": 7,
+    "date": "3-29-18",
+    "vendor_raw": "Costco",
+    "amount": "65.09",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "ambiguous loop glyph (65 or 05) on the non-closing page; retained as read"
+   },
+   {
+    "line_no": "76",
+    "page": 10,
+    "row": 8,
+    "date": "4-2-18",
+    "vendor_raw": "Walmart",
+    "amount": "7.13",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "77",
+    "page": 10,
+    "row": 9,
+    "date": "4-6-18",
+    "vendor_raw": "Diamond rental",
+    "amount": "57.28",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "78",
+    "page": 10,
+    "row": 10,
+    "date": "4-7-18",
+    "vendor_raw": "Bed Bath & Beyond",
+    "amount": "27.76",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "79",
+    "page": 10,
+    "row": 11,
+    "date": "4-7-18",
+    "vendor_raw": "Zurchers",
+    "amount": "29.62",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "80",
+    "page": 10,
+    "row": 12,
+    "date": "4-9-18",
+    "vendor_raw": "Walmart",
+    "amount": "11.58",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "81",
+    "page": 10,
+    "row": 13,
+    "date": "4-11-18",
+    "vendor_raw": "Linda Housekeeper",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "ambiguous loop glyph (50 or 56) on the non-closing page; retained as read"
+   },
+   {
+    "line_no": "82",
+    "page": 10,
+    "row": 14,
+    "date": "4-19-18",
+    "vendor_raw": "Wayne Smiley Design",
+    "amount": "90.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "83",
+    "page": 10,
+    "row": 15,
+    "date": "3-30-18",
+    "vendor_raw": "M&M World",
+    "amount": "2557.12",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "out-of-state vendor (Las Vegas). The amount equals the in-kind contribution from Kay Durfey on Schedule A p5 row 5 to the cent and is dated the same day - the offsetting entry - but the filer did NOT mark this row in-kind, so in_kind is recorded as printed (false) and the correspondence is noted, not asserted"
+   },
+   {
+    "line_no": "84",
+    "page": 10,
+    "row": 16,
+    "date": "3-31-18",
+    "vendor_raw": "Steamroller Copies",
+    "amount": "133.59",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "matches the 3-31-18 in-kind contribution on Schedule A p5 row 6 to the cent; not marked in-kind by the filer"
+   },
+   {
+    "line_no": "85",
+    "page": 10,
+    "row": 17,
+    "date": "4-1-18",
+    "vendor_raw": "Geneva Graphics west",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer inserted 'west' above the vendor name; carried verbatim. The amount matches the 12-26-17 Brook Roney in-kind contribution, though the dates differ"
+   },
+   {
+    "line_no": "86",
+    "page": 11,
+    "row": 1,
+    "date": "4-1-18",
+    "vendor_raw": "RK creative Design",
+    "amount": "35.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "87",
+    "page": 11,
+    "row": 2,
+    "date": "4-23-18",
+    "vendor_raw": "Fidelity Optics",
+    "amount": "19.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "88",
+    "page": 11,
+    "row": 3,
+    "date": "4-24-18",
+    "vendor_raw": "Beehive State Consulting",
+    "amount": "302.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "89",
+    "page": 11,
+    "row": 4,
+    "date": "4-30-18",
+    "vendor_raw": "Carolina Herrin",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is EMPTY - LEFT BLANK BY THE FILER, not redacted (this filing carries no redaction bars anywhere)"
+   }
+  ],
+  "notes": "Darin Durfey, Utah County SHERIFF, 2018 cycle. PAGE-FACE CANDIDATE NAME IS 'Darin Durfey' while index.csv names NO candidate (the channel label is the reporting-period string 'Out at Convention - Durfey'); the page face governs. Office Seeking printed simply as 'Sheriff'; party Republican; residence city Santaquin. Report type: '30 Days after withdraw or elimination', signed 5-1-18, clerk stamp '18 MAY 1 AM 8:38. THE AMENDMENT QUESTION IS WHOLLY UNTICKED - neither Yes nor No - an honest BLANK, never read as 'No' (ADDENDUM A4). Single report, no bundle. ELEVEN pages: p1 cover / p2 SUMMARY PAGE / p3-p5 SCHEDULE A / p6-p11 SCHEDULE B, every page classified from its own printed heading; no checklist decoy. FOLIATION: the filer numbers his sheets 'Page 2 of 11' through 'Page 10 of 11' COUNTING THE COVER, and then repeats '10' on the eleventh page - a foliation slip, so the last sheet's own number does not identify it. The cover is the common 2018-era blank ('...FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13) while all nine inner sheets are strap-lined '2016 County Commission & Local School Board Candidate' - leftover 2016 stock on a genuinely 2018 filing (utah-template-vintage-year), and note the strapline wording differs from the 2016 sheets seen elsewhere ('County Commission &' rather than 'County &'). Schedule B REUSES Schedule A's heading 'Name of Contributor' over the payee column and there is NO Purpose column, so purpose is honestly blank on all 89 expenditure rows; the columns are assignable by CONTENT (merchants, vendors, real addresses) and the field-shift screen passes. THE DOCUMENT IS UNREDACTED - it is not a *_Redacted.pdf and carries no bars; donor and vendor street lines are visible on the page and are deliberately reduced to city/state at read time (dropped entirely for expenditures). Contributions reconcile EXACTLY; expenditures carry a traced but not uniquely attributable +155.84 filer-arithmetic delta over two of six sheets - see recon."
+ }
+]

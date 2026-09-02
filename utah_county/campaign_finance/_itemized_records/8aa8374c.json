@@ -1,0 +1,356 @@
+[
+ {
+  "index_path": "raw/2014/2014_30DayRevill.pdf",
+  "key": "8aa8374c",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r4_02)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "4",
+  "itemized_pages_B": "3",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "⚠ THE §A3 BLANK-COVER RECOVERY WAS NEEDED HERE: line 1 COLUMN A is EMPTY on the p2 Summary Page (this filer entered his line 1 and line 2 figures in COLUMN B instead). The anchor is summary LINE 4, printed 9468.68, whose own printed instruction is 'From Line 1 Column A' - so it states the per-period figure even though the cell above it is blank - corroborated by summary line 5 Subtotal (9468.68, = line 3 + line 4 with line 3 a slashed zero) and by Schedule A's own printed 'Subtotal for this page' $9468.68 and 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' $9468.68.",
+    "detail": "6 Schedule A rows sum to 1000 + 500 + 1000 + 200 + 1500 + 5268.68 = 9,468.68 exactly, matching FOUR printed figures of period scope: the schedule's page subtotal, the schedule's grand total, summary line 4 and summary line 5. §B2's limit does not bite - lines 4 and 6 here carry real FIGURES, not the bare dashes that blocked the recovery on the 2012 filing 860d1cab; the nil marks on this page are slashed zeros and they sit at lines 3 and 7 only. Nothing was differenced across covers and no figure was synthesized. TWO of the six rows (1,500 + 5,268.68) are the candidate's own money; the ladder makes them itemized contribution rows because line 3 is zero and the side closes only with them. Column B Year-to-Date prints the same 9,468.68, which is not a cumulative-exact case: this is the cycle's first report, so period IS year-to-date."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Same §A3 recovery: line 2 COLUMN A is EMPTY, so the anchor is summary LINE 6, printed 9468.68, whose printed instruction is 'From Line 2 Column A' - corroborated by Schedule B's own printed 'Subtotal for this page' $9468.68 and 'Total Expenditures Received (Sum of subtotals from all Schedule B pages)' $9468.68.",
+    "detail": "4 Schedule B rows sum to 366.31 + 266.45 + 235.92 + 8600.00 = 9,468.68 exactly, matching the schedule's page subtotal, its grand total and summary line 6. ONE CELL WAS ESCALATED to get there: line 1 reads plausibly as 386.31 at page resolution, which leaves the sheet +20.00 against its own printed subtotal; a 2000 dpi crop shows the second digit is a 6, and since no other amount on the sheet is ambiguous by 20 the closure is unique. The balance ladder also closes: slashed-zero 0 + 9,468.68 = 9,468.68, minus 9,468.68 = slashed-zero 0."
+   }
+  },
+  "in_kind_convention": "monetary-only closed exactly on BOTH sides (9,468.68 each). Both conventions tested and identical: neither schedule prints an in-kind column, no row is marked in kind, and the summary page prints no separate in-kind line.",
+  "escalations": 8,
+  "escalation_note": "Eight tight-cell crops. ONE settled a FIGURE: the p3 line-1 amount at 2000 dpi, resolving 386.31 vs 366.31 in favour of 366.31, which is also the only reading that closes the sheet to its own printed subtotal. The other seven were geometry controls (first row, last row and one-past-the-end on each schedule) and two 900 dpi name-column strips confirming the payee spellings and the ditto marks. What each control rendered is in the frames' measure_notes.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     82.15,
+     91.85
+    ],
+    "cells": [
+     [
+      8.03,
+      19.26
+     ],
+     [
+      20.67,
+      52.79
+     ],
+     [
+      54.2,
+      80.73
+     ],
+     [
+      82.15,
+      91.85
+     ]
+    ],
+    "rows": [
+     [
+      16.13,
+      19.75
+     ],
+     [
+      19.75,
+      23.36
+     ],
+     [
+      23.36,
+      27.0
+     ],
+     [
+      27.0,
+      30.59
+     ],
+     [
+      30.59,
+      34.21
+     ],
+     [
+      34.21,
+      37.85
+     ],
+     [
+      37.85,
+      41.48
+     ],
+     [
+      41.48,
+      45.07
+     ],
+     [
+      45.07,
+      48.66
+     ],
+     [
+      48.66,
+      52.32
+     ],
+     [
+      52.32,
+      55.89
+     ],
+     [
+      55.89,
+      59.5
+     ],
+     [
+      59.5,
+      63.12
+     ],
+     [
+      63.12,
+      66.75
+     ],
+     [
+      66.75,
+      70.34
+     ],
+     [
+      70.34,
+      74.02
+     ],
+     [
+      74.02,
+      77.61
+     ]
+    ],
+    "measure_note": "SCHEDULE B - note this is p3 of the PDF; see the frames note for p4. legacy_colAB UNDERLINE form. rowbands.py on the RAW frame (deskew +0.2 deg) returns 17 per-column underlines 19.75 .. 77.61 pct, four segments each, and the segments ARE the column bands: Date 8.03-19.26, Name 20.67-52.79, Address 54.20-80.73, Amount 82.15-91.85. Fitted pitch (77.61-19.75)/16 = 3.6163. TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up to [16.13, 19.75]. CONTROLS with --value: (a) §A1 first-entry crop pct:82.15,16.13,9.70,3.62@p3 at 2000 dpi rendered the printed 'Amount' header above '366.31' - the first ruled line WAS used (recorded 366.31); (b) the last transcribed row, pct:82.15,27.00,9.70,3.59@p3 at 900 dpi, rendered '8600' with a raised underlined '00' (recorded 8600.00); (c) the §B5 one-past-the-end control pct:82.15,30.59,9.70,3.62@p3 rendered EMPTY."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     81.82,
+     91.53
+    ],
+    "cells": [
+     [
+      7.76,
+      18.94
+     ],
+     [
+      20.35,
+      52.47
+     ],
+     [
+      53.88,
+      80.41
+     ],
+     [
+      81.82,
+      91.53
+     ]
+    ],
+    "rows": [
+     [
+      14.38,
+      18.0
+     ],
+     [
+      18.0,
+      21.61
+     ],
+     [
+      21.61,
+      25.25
+     ],
+     [
+      25.25,
+      28.84
+     ],
+     [
+      28.84,
+      32.45
+     ],
+     [
+      32.45,
+      36.08
+     ],
+     [
+      36.08,
+      39.74
+     ],
+     [
+      39.74,
+      43.33
+     ],
+     [
+      43.33,
+      46.92
+     ],
+     [
+      46.92,
+      50.56
+     ],
+     [
+      50.56,
+      54.17
+     ],
+     [
+      54.17,
+      57.76
+     ],
+     [
+      57.76,
+      61.37
+     ],
+     [
+      61.37,
+      65.01
+     ],
+     [
+      65.01,
+      68.6
+     ],
+     [
+      68.6,
+      72.25
+     ],
+     [
+      72.25,
+      75.89
+     ]
+    ],
+    "measure_note": "SCHEDULE A - the LAST page of the PDF. Measured on its own page (deskew 0.0 here against +0.2 on p3). rowbands.py returns 17 rules 18.00 .. 75.89 pct; pitch (75.89-18.00)/16 = 3.6181; column bands from the segments: Date 7.76-18.94, Name 20.35-52.47, Address 53.88-80.41, Amount 81.82-91.53. Row 1 extrapolated one pitch up to [14.38, 18.00]. CONTROLS at 900 dpi with --value: (a) §A1 first-entry crop pct:81.82,14.38,9.71,3.62@p4 rendered the printed 'Amount' header above '1000' with raised underlined cents (recorded 1000); (b) the last transcribed row, pct:81.82,32.45,9.71,3.63@p4, rendered '5,268.6[8]' (recorded 5268.68); (c) the §B5 one-past-the-end control pct:81.82,36.08,9.71,3.66@p4 rendered EMPTY."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "4-1-14",
+    "donor_raw": "Chuck + Renita Revill",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cents written as a raised underlined '00'. The house number is written over an earlier number - a filer correction, and only the address line is affected, which is not carried. the address cell gives a street line and a ZIP and NAMES NO CITY, so donor_city/donor_state are blank because THE FORM CARRIES NO CITY - not redacted (this 2014 filing is unredacted) and not left empty by the filer. The zip was NOT converted to a city. PRIVACY: the street line printed on this unredacted filing is deliberately not carried."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "4-2-14",
+    "donor_raw": "Reed + Laureen Mellor",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cents written as a raised underlined '00'. the address cell gives a street line and a ZIP and NAMES NO CITY, so donor_city/donor_state are blank because THE FORM CARRIES NO CITY - not redacted (this 2014 filing is unredacted) and not left empty by the filer. The zip was NOT converted to a city. PRIVACY: the street line printed on this unredacted filing is deliberately not carried."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "4-3-14",
+    "donor_raw": "Blake + Kathy Wride",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the only row on the schedule whose address cell NAMES A CITY ('American Fork'), with the zip written above the line; no state is printed, so donor_state is honestly blank PRIVACY: the street line printed on this unredacted filing is deliberately not carried.",
+    "donor_city": "American Fork"
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "4-3-14",
+    "donor_raw": "JIM TRACY",
+    "amount": "200",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "cents written as a raised underlined '00'. the address cell gives a street line and a ZIP and NAMES NO CITY, so donor_city/donor_state are blank because THE FORM CARRIES NO CITY - not redacted (this 2014 filing is unredacted) and not left empty by the filer. The zip was NOT converted to a city. PRIVACY: the street line printed on this unredacted filing is deliberately not carried."
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "3-20-14",
+    "donor_raw": "JOHNNY REVILL",
+    "amount": "1500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "SELF-FUNDING: the donor is the CANDIDATE HIMSELF, and the address cell repeats the address he gives on the cover. It is booked on Schedule A and the side closes only with it (line 3 Balance at Beginning is a slashed zero, so there is no beginning-balance slot), so the ladder makes it an itemized contribution row. Cents written as a raised underlined '00'. the address cell gives a street line and a ZIP and NAMES NO CITY, so donor_city/donor_state are blank because THE FORM CARRIES NO CITY - not redacted (this 2014 filing is unredacted) and not left empty by the filer. The zip was NOT converted to a city. PRIVACY: the street line printed on this unredacted filing is deliberately not carried."
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "4-16-14",
+    "donor_raw": "JOHNNY REVILL",
+    "amount": "5268.68",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "SELF-FUNDING, as line 5, and the largest single figure on the schedule. The address cell is a DITTO MARK repeating the row above, which itself names no city - so city/state stay blank for the same reason, and no zip was converted. Last written entry; the row-7 control crop rendered EMPTY. PRIVACY: the street line printed on this unredacted filing is deliberately not carried."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "3-26-14",
+    "vendor_raw": "Alphagraphics",
+    "amount": "366.31",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE ONE ESCALATED FIGURE ON THIS FILING. At page resolution the value reads plausibly as '38631' (386.31), which would put the schedule 20.00 OVER its own printed subtotal. A 2000 dpi tight crop resolves the second digit as a '6' - an open bottom loop with no upper closed bowl - and shows the decimal point, giving 366.31; no other cell on the sheet is ambiguous by 20, so the closure is unique. Glyph and arithmetic agree. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column, so purpose is honestly blank."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "4-2-14",
+    "vendor_raw": "Alphagraphics",
+    "amount": "266.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee cell is a DITTO MARK repeating row 1 (the filer writes a pair of ditto marks, one under each word); the address cell is a ditto too (not carried - expenditure rows hold no address field) Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column, so purpose is honestly blank."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "4-9-14",
+    "vendor_raw": "Alphagraphics",
+    "amount": "235.92",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee and address cells are DITTO MARKS repeating rows above Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column, so purpose is honestly blank."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "4-16-14",
+    "vendor_raw": "Brooks Adverstising",
+    "amount": "8600.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "spelled 'Adverstising' by the filer and kept verbatim. Written '8600' with a raised underlined '00' in the cents position. Last written entry; the row-5 control crop rendered EMPTY. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column, so purpose is honestly blank."
+   }
+  ],
+  "notes": "PAGE-FACE candidate 'JOHNNY REVILL' - index.csv names NO filer for this row, so the page face fills an empty channel label. Page-face office 'COUNTY COMMISSION SEAT A', agreeing with the channel. Party 'REPUBLICAN'; report type ticked '30 Days after withdraw or elimination'; date 5-12-14. ⚠ THE AMENDMENT QUESTION IS LEFT WHOLLY UNANSWERED - neither Yes nor No is ticked; an honest BLANK, not read as 'No' (§A4). FOUR pages, and ⚠ THE SCHEDULES ARE BOUND IN REVERSE ORDER: p1 the 2014 cover / p2 SUMMARY PAGE / p3 SCHEDULE B / p4 SCHEDULE A. Each page was classified from its own printed heading; a page-ordinal assumption would have transcribed the donor ledger as expenditures and vice versa. The filer's own foliation ('2 of 4', '3 of 4', '4 of 4' on the three inner sheets, excluding the cover) agrees with the bound order, so the reversal is the filer's, not the scanner's. ⚠ THE COVER'S PER-PERIOD CELLS ARE BLANK: this filer entered his line 1 and line 2 figures in COLUMN B (Year-to-Date) and left COLUMN A empty on both lines - one of the documented 2014 blank-cover filings. It was closed by §A3 on summary lines 4 and 6, which print 9468.68 each and are defined by the form itself as 'From Line 1/2 Column A', with each schedule's own subtotal and grand total as a second independent anchor. Nothing was differenced across covers and no cell was filled in. Lines 3 and 7 are SLASHED ZEROS (0 under the zero-glyph ruling). Both sides close to the cent at 9,468.68 - contributions and expenditures are equal because the filer zeroed his balance. PRIVACY: this filing is UNREDACTED and every donor's street line is legible; none was carried. FIVE of the six donor rows print a zip and no city, so their city/state are blank for the FORM-CARRIES-NO-CITY reason (§B5), stated per row."
+ }
+]

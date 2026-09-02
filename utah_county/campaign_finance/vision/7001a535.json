@@ -3,7 +3,10 @@
  "key": "7001a535",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:25:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -54,5 +57,66 @@
    "notes": "Handwritten. The entire street-address block and the phone number are redacted upstream by the county (solid black bars), so residence_city could not be read; the fax field reads 'NONE'. Lines 1 and 7 are slashed-zero glyphs (the filer's zero), transcribed as 0 at medium confidence. Lines 3, 4, 5 and 6 are each written in PARENTHESES as (65.00) - the filer's own notation, reproduced verbatim rather than interpreted; note the filer's figures are internally inconsistent with the form's instructions (line 4 is directed to carry line 1 Column A, which he wrote as zero). Cents are written as a raised superscript '00'. Neither amendment box is marked, so is_amendment is left empty. Page 2 carries the printed header '2014 County Candidate' and a clerk received stamp JUN 17 PM 5:35 appears on the cover."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "04-05-14",
+   "vendor_raw": "SELF",
+   "amount": "65.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.04,18.99,10.00,3.97@p4",
+   "geometry_frame": "p4 axis=y cell=83.04-93.04 rowband=18.99-22.96 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Schedule B on THIS blank reuses Schedule A's column headings \u2014 the payee column is printed 'Name of Contributor' and there is NO Purpose column (the unfixed 2012-era template, ADDENDUM D \u00a7D2 'county-only 2014 blank'), so purpose is honestly BLANK because the field does not exist. The filer prefixed the figure with a hand-drawn '#' and wrote the cents as a raised '00'; amount transcribed 65.00. The 'Mailing Address & Zip Code' cell on this row was LEFT EMPTY BY THE FILER (not redacted by the county \u2014 p3 and p4 carry no redaction bars at all; the county's four black bars are confined to the p1 cover's own street-address row and phone number, confirming \u00a7D2). Expenditure rows carry no address field in this schema in any case."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_02)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "the p2 Summary Page line 1 'TOTAL CONTRIBUTIONS RECEIVED' Column A 'Total this Period' \u2014 a SLASHED ZERO (0 under the zero-glyph ruling), the same glyph in Column B; corroborated by Schedule A's own printed banner 'NONE (NO CONTRIBUTIONS)' written across printed row 1",
+     "detail": "ZERO contribution rows sum to 0.00 = the promoted per-period cell (Column A line 1, slashed zero) = Column B YTD (slashed zero). \u26a0 DIVERGENCE, TRACED AND NOT RECONCILED: Schedule A's own printed 'Subtotal for this page' AND 'Total Contributions Received' both print (65.00) in accounting parentheses = -65.00 (crop-proved at 900 dpi). That figure is the filer's memo of the ONE dated line he wrote on printed row 2 \u2014 '04-05-14 / (LOAN TO SELF) / [address blank] / 65.00' \u2014 whose amount cell is crop-proved UNPARENTHESIZED and positive. Per ADDENDUM A \u00a7A4 / B \u00a7B3 the ladder decides a loan line, never the word 'loan': this filer books the loan in the BALANCE SUMMARY, not as a contribution \u2014 his line 3 'Balance at Beginning' and line 4 'Total Contributions Received (From Line 1 Column A)' BOTH print (65.00) = -65.00, contradicting his own line 1 Column A slashed zero, and his line 1 plus the schedule banner are two independent affirmative statements that contributions this period were ZERO. The Witney-2010 branch, not the Kirk/Grierson branch. The loan line is therefore NOT an itemized contribution row and is preserved verbatim in `notes`; nothing was nudged and no figure was synthesized."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "the p2 Summary Page line 2 'TOTAL EXPENDITURES MADE' Column A 'Total this Period' (65.00), which is also Schedule B's own printed 'Subtotal for this page' (65.00) and its printed 'Total Expenditures Received' (65.00)",
+     "detail": "1 Schedule B row sums to 65.00 exactly = the schedule's printed page subtotal = its printed total = the cover's promoted PER-PERIOD cell (Column A line 2). Column B 'Year-to-Date Total' also prints 65.00 (this is the cycle's FIRST report \u2014 'Seven days preceding the Primary Election' \u2014 so period IS year-to-date here and the agreement carries no independent information; it was NOT summed as an increment). The one-band-past control crop rendered an empty cell, so no row continues below the transcribed one and no ledger continues below the last printed rule (\u00a7F1 trap 5 screened negative)."
+    }
+   },
+   "in_kind_convention": "monetary-only closed. Neither the 2014 Schedule A nor Schedule B blank prints an in-kind column or line, and no row is annotated in-kind, so the monetary-only and monetary-plus-in-kind conventions give the identical sum (65.00) on Schedule B; the contribution side has zero rows under either convention. Both were tested; neither distinguishes.",
+   "escalations": 3,
+   "escalation_note": "Three tight cell crops at 900 dpi, all to settle LEGIBILITY of a SIGN, none to settle truth. (1) p3 printed-row-2 amount cell pct:82.51,20.68,9.82,3.91@p3 --value rendered '65.' with raised superscript '00' and NO parentheses \u2014 the row amount is positive as printed. (2) p3 'Subtotal for this page' cell pct:78,83.0,20,5.0@p3 rendered '$ (65.00)' with unmistakable hand-drawn open and close parentheses, and the 'Total Contributions Received' line below it repeats the parenthesised form \u2014 so the schedule's own footer is NEGATIVE 65.00 while its single row is POSITIVE 65.00. (3) p2 summary lines 3-7 Column A pct:12,58,62,24@p2 at 700 dpi rendered line 3 (65.00), line 4 (65.00), line 5 (65.00), line 6 (65.00), line 7 slashed zero \u2014 establishing that the filer parenthesises every balance-summary figure and that his line 4, which the form defines as 'From Line 1 Column A', contradicts his own line 1. The filer's own ladder does not close under ANY single consistent reading (3+4 = -130 against a printed line 5 of -65; 5-6 = 0 matches the printed line 7). That is retained verbatim as a fact about the document and was not adjudicated or repaired.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 1,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "PAGE-FACE candidate 'JAMES O. TRACY', party 'REPUBLICAN', Office Seeking 'SHERIFF' \u2014 index.csv names NO candidate for this row (the 2008-2018 listing grouped by office), so the page face fills an empty channel label. 4 pages: p1 cover, p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B \u2014 each classified from its own printed header, and the filer's own foliation ('Page 2 of 4', '3 of 4', '4 of 4', cover excluded from the count but included in the denominator) agrees. Report type: the 'Seven days preceding the Primary Election' box is checked with a hand-drawn X; every other box is empty. The amendment question is WHOLLY UNANSWERED \u2014 neither Yes nor No is ticked \u2014 an honest BLANK, never 'No' (\u00a7A4). Cover signature date 06-17-14; the Date-of-Report box on p2/p3/p4 also reads 06-17-14 (no intra-document date discrepancy here). Clerk's 'JUN 17 PM 5:35' received stamp is present.\n\nMIXED-TEMPLATE FILING, and it is a fresh confirmation of \u00a7F6 (the cover blank and the schedule blanks were stocked INDEPENDENTLY) and of \u00a7E2 (Tracy is a named mixed-template specimen): the p1 COVER is the common 2014 blank titled '2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)', while pp2-4 are the COUNTY-ONLY inner sheets headed '2014 County Candidate' whose address column reads 'Mailing Address & Zip Code' and whose SCHEDULE B reuses 'Name of Contributor' over the vendor column. Neither sheet predicts the other; both were read on the page.\n\nTHE CONTRIBUTION SIDE \u2014 what the page actually prints, in full. Printed row 1 of Schedule A carries the BANNER 'NONE (NO CONTRIBUTIONS)' written across the Name column with an empty date cell and a crop-proved empty amount cell. This is a live instance of the \u00a7E3 fourth row-index trap: the banner publishes NO row but CONSUMES printed row 1, so the filer's single written entry sits on printed row 2 and no arithmetic gate could have revealed the shift. Printed row 2 reads, verbatim: date '04-05-14', Name of Contributor '(LOAN TO SELF)', Mailing Address & Zip Code left empty by the filer, Amount '65.00' (raised cents, crop-proved unparenthesised). Schedule A's own 'Subtotal for this page' and 'Total Contributions Received' both print '(65.00)' in accounting parentheses = -65.00. The filer's cover states contributions of ZERO twice (line 1 Column A and Column B are both slashed zeros) and books the loan in the balance ladder instead, where lines 3, 4, 5 and 6 ALL print (65.00). Per \u00a7A4/\u00a7B3 the ladder classifies a loan line, never its wording, and this is the Witney-2010 branch: the loan is NOT an itemized contribution and is invisible in the itemized contribution layer BY DESIGN, preserved verbatim here. The side is therefore `empty-schedule` \u2014 the page exists, the filer's own banner declares no contributions, and zero rows are published.\n\nFILER ARITHMETIC RETAINED VERBATIM, NOT ADJUDICATED: the p2 ladder does not close under any single consistent reading. Line 5 is defined 'Add lines 3 and 4' but -65.00 + -65.00 = -130.00 against a printed -65.00; line 4 is defined 'From Line 1 Column A' but prints -65.00 where line 1 Column A is a slashed zero; line 6 is defined 'From Line 2 Column A' but prints -65.00 where line 2 Column A is +65.00. Only line 7 follows its own formula (5 - 6 = -65.00 - -65.00 = 0, printed as a slashed zero). Nothing was recomputed, nudged or repaired. Note also that a reading in which the loan WERE a contribution makes every magnitude on the document 65.00 and closes line 7 \u2014 that reading was tested and rejected because it requires overriding the filer's two affirmative zero statements at line 1 and his own schedule banner, which is inference, not reading.\n\nREDACTION: the county blacked out the cover's Street Address / City / State / Zip row and the Area Code & Phone Number box (4 solid bars on p1). residence_city is therefore not recoverable from this filing. The Fax box is hand-written 'NONE'. Schedule A and Schedule B carry ZERO redaction bars, so every blank address cell on pp3-4 is the FILER leaving it empty, not the county covering it (\u00a7D2, verified). No street address or phone number is carried into this record in any field or note."
+  }
+ }
 }

@@ -1,6 +1,63 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-02-27",
+   "donor_raw": "SALT LAKE BOARD OF REALTORS",
+   "occupation": "ASSOCIATION OF REALTORS",
+   "amount": "6,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.60,22.90,84.60,3.90@p3",
+   "note": "name wraps two lines; amount printed '$6,000.-' (trailing dash = whole dollars, noted); city/state redacted at source"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-01-11",
+   "donor_raw": "ANTHEM CENTER LLC",
+   "occupation": "LAND OWNER",
+   "amount": "1,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.60,26.79,84.60,3.65@p3",
+   "note": "trailing 'LLC' touches the redaction bar edge but is legible; amount printed '$1,500.-' (trailing dash, noted); city/state redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "KEY BANK",
+   "purpose": "FEES",
+   "amount": "23.40",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.50,26.52,80.00,3.66@p4",
+   "note": "date cell reads 'YTD' verbatim - not a parseable date, left blank; handwritten E in KEY ambiguous in shape"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-03-01",
+   "vendor_raw": "SALT LAKE COUNTY CLERK",
+   "purpose": "FILING FEE",
+   "amount": "398.95",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.50,30.18,80.00,3.66@p4",
+   "note": "date written '3-1-22' over a dark overwritten stroke - read 2022-03-01, low confidence on the day digit; vendor wraps two lines"
+  }
+ ],
  "total_contributions": "7,500.00",
  "total_expenditures": "23,40",
  "beginning_balance": "19,933.48",
@@ -48,6 +105,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "HANDWRITTEN, '2022 Financial Disclosure Report' title. MAJOR INTERNAL INCONSISTENCY AS PRINTED: Line 2 Column A (TOTAL EXPENDITURES MADE) is written '23,40' (a decimal COMMA - the build applies the shared whitelisted comma-as-decimal repair to read $23.40), but Line 6, which the form defines as 'From Line 2 Column A', is written '$422.35' with '23.40' STRUCK THROUGH beneath it. Line 2 is transcribed verbatim as the form's stated expenditure total; the Line 6 correction is recorded here and NOT substituted. Line 7 is struck through entirely and a handwritten '$27,011.13 (RHS)' is written below the table - that standing value is recorded as the closing balance (medium). Contribution cents use the superscript-over-line style ('7,500.oo', Column B '7,500.'). Neither amendment box is checked. Office Sought box blank; the cover 'Office' box reads 'Council B'. Signature/date area is redacted black; date taken from the Summary header '4.5.22' and the clerk RECEIVED stamp APR 05 2022."
+  "notes": "HANDWRITTEN, '2022 Financial Disclosure Report' title. MAJOR INTERNAL INCONSISTENCY AS PRINTED: Line 2 Column A (TOTAL EXPENDITURES MADE) is written '23,40' (a decimal COMMA - the build applies the shared whitelisted comma-as-decimal repair to read $23.40), but Line 6, which the form defines as 'From Line 2 Column A', is written '$422.35' with '23.40' STRUCK THROUGH beneath it. Line 2 is transcribed verbatim as the form's stated expenditure total; the Line 6 correction is recorded here and NOT substituted. Line 7 is struck through entirely and a handwritten '$27,011.13 (RHS)' is written below the table - that standing value is recorded as the closing balance (medium). Contribution cents use the superscript-over-line style ('7,500.oo', Column B '7,500.'). Neither amendment box is checked. Office Sought box blank; the cover 'Office' box reads 'Council B'. Signature/date area is redacted black; date taken from the Summary header '4.5.22' and the clerk RECEIVED stamp APR 05 2022.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "7,500.00",
+     "schedule_total": "7,500.00",
+     "itemized": "7,500.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "2 rows 6,000.00 + 1,500.00 = 7,500.00 = Summary line 1 (cached anchor) = printed TOTAL CONTRIBUTIONS RECEIVED; SUBTOTAL FOR THIS PAGE cell left blank - gated on the grand total"
+    },
+    "expenditures": {
+     "stated": "23,40",
+     "schedule_total": "422.35",
+     "itemized": "422.35",
+     "basis": "schedule-grand-total",
+     "result": "delta",
+     "detail": "rows 23.40 + 398.95 = 422.35. Cached stated line-2 figure is '23,40' (comma where the decimal belongs, per the 2026-08-02 cache) - the page governs: on Schedule B the printed SUBTOTAL and TOTAL '23.40' are both struck through and corrected to '$422.35' with initials, and the Summary's line 6 was likewise corrected to $422.35 over a struck 23.40 with line 7 restated to $27,011.13 (initials RHJ). Itemized side reconciles to the corrected schedule total; delta vs the un-corrected stated figure is the filer's own, retained verbatim"
+    }
+   },
+   "page_subtotal_gates": "p3 subtotal cell blank - rows 7,500.00 = printed TOTAL 7,500.00; p4 printed subtotal/total 23.40 struck through and corrected to 422.35 - rows 422.35 = corrected figure",
+   "escalations": 5,
+   "escalation_note": "600dpi crops: p3 rows 1-2 left (date+donor) and right (occupation+amount); p4 rows 1-2 left and right; p4 bottom correction area (subtotal/total strikethroughs and initialed 422.35)",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Wholly handwritten. Page-of boxes inconsistent (p2 '2 of 3', p3 '3 of 3', p4 '4 of 4') - matches audit prior. Schedule A rows printed out of chronological order (2.27-22 then 1.11.22); emitted in printed order. Address cells bar-redacted on both Schedule A rows. Schedule B row 1 date cell reads 'YTD' verbatim (not a date). Schedule B bottom carries a second-hand correction: subtotal/total 23.40 struck, 422.35 written twice with initials. Both amounts on Schedule A written with a trailing dash after whole dollars ('$6,000.-', '$1,500.-')."
+  }
  }
 }

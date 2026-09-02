@@ -1,0 +1,119 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2019-12-18",
+   "donor_raw": "Max Burdick",
+   "occupation": "Real Estate Broker",
+   "amount": "2,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:7.76,23.53,89.35,4.09@p3",
+   "note": "The amount cell is written '2,500.' with a raised trailing dash in place of the cents and the word 'Loan' written underneath it - the filer's own marker that this is a loan from the candidate to his campaign (the word is not a payee, a purpose or an in-kind flag, so in_kind stays false). Value settled by the document's own arithmetic, not by the glyph: the page SUBTOTAL, the schedule TOTAL and Summary line 1 Column A each print 2,500 with a superscript '00'. Address cell redacted at source (county black bar), so donor_city/donor_state are honestly blank. Date written '12-18-19'."
+  }
+ ],
+ "expenditures": [],
+ "total_contributions": "2,500.00",
+ "total_expenditures": "0",
+ "beginning_balance": "15,371.62",
+ "ending_balance": "17,871.62",
+ "aggregate": {
+  "total_contributions_to_date": "18,171.62",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "17,871.62"
+ },
+ "cover": {
+  "candidate": "Max Burdick",
+  "party": "Republican",
+  "office_sought": "SLCo Council",
+  "district_number": "6",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-2020",
+  "form_year": "2019"
+ },
+ "confidence": {
+  "total_contributions": "medium",
+  "total_expenditures": "medium",
+  "beginning_balance": "medium",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/max-burdick-redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Max Burdick",
+  "office": "County Council",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/max-burdick-redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "OFFICE CONFIRMED at the page and it agrees with the chunk file: the top-row 'Office' cell reads 'Council Dist 6', the 'Office Sought' cell reads 'SLCo Council' and the District Number cell reads '6'. (The launch prompt's 'County Council District 6' matches; nothing was backfilled.) TYPE OF REPORT - READ THIS BEFORE TRUSTING report_type: none of the six checkboxes is ticked INSIDE the box. One large diagonal pen stroke crosses the page in the Type-of-Report block, descending from just left of the 'YEAR-END REPORT:' heading, through the right edge of the January-31 checkbox, and down through the word '(open)'. It is the ONLY hand mark anywhere in that block, and it lands on the year-end box; on that basis report_type records the year-end label, at LOW confidence, and this note states exactly what is on the paper. No other box was inferred, and the amendment question (neither Yes nor No ticked) stays '' rather than being read off the same stroke. ZERO-GLYPH RULING applied five times: Summary line 2 Column A, line 2 Column B, line 6, and the Schedule B page's SUBTOTAL and TOTAL cells are each a zero with a stroke through it and each transcribes as 0 with the glyph named. TRAILING-DASH CENTS: the Schedule A row's amount cell is written '2,500.' with a raised dash where the cents would go and the word 'Loan' beneath; per the currency convention a trailing dash after whole dollars means no cents, and here it is not a judgement call - the page's own SUBTOTAL and TOTAL both print '2,500.' with a superscript '00', as does Summary line 1 Column A. PRIVACY: the Schedule A address cell is covered by the county's black bar (redacted at source, not left empty), and the cover's street-address row and phone/fax/email row are likewise barred; the cover's signature line is barred too. The single contribution is a LOAN FROM THE CANDIDATE TO HIS OWN CAMPAIGN - the filer wrote 'Loan' in the amount cell; in_kind stays false (a loan is not an in-kind marker) and the word is preserved in the row note. PAGE 5 is a 'Summary Page Other Campaign Accounts' (Column B header 'Year to Date' - a DIFFERENT table from the standard Summary Page on page 2, never interchangeable); the filer wrote N/A in three of its cells and it carries no figures. The county form misspells its own Schedule B footer ('TOTAL EXPENDITUTRES MADE').",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2,500.00",
+     "schedule_total": "2,500.00",
+     "itemized": "2500.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "the single row, 2,500.00, equals the printed SUBTOTAL FOR THIS PAGE (2,500.00), the printed TOTAL CONTRIBUTIONS RECEIVED (2,500.00), Summary line 1 Column A and Summary line 4. Both printed schedule anchors share the period scope here. Column B (18,171.62) is the aggregate and is recorded but not used as an anchor."
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "A REAL ZERO, not a gap: the Schedule B page is present, its 14 data rows are wholly blank (and struck through with a single diagonal void line), and its printed SUBTOTAL and TOTAL cells each hold a slashed-zero glyph = 0, matching Summary line 2 Column A and line 6, both also slashed zeros."
+    }
+   },
+   "page_subtotal_gates": "p3 the one row 2,500.00 = printed SUBTOTAL 2,500.00 = printed TOTAL 2,500.00 - gates exactly (all three re-read in a 1200dpi cell crop). p4 zero rows = printed SUBTOTAL slashed-zero 0 = printed TOTAL slashed-zero 0 - gates.",
+   "escalations": 3,
+   "escalation_note": "p1 Type-of-Report block 600dpi x1 (to establish which box the pen stroke marks); p3 row-1 amount cell 1200dpi x2 (first crop mis-aimed, re-cropped) and the p3 SUBTOTAL/TOTAL block 1200dpi x1",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "OFFICE CONFIRMED at the page and it agrees with the chunk file: the top-row 'Office' cell reads 'Council Dist 6', the 'Office Sought' cell reads 'SLCo Council' and the District Number cell reads '6'. (The launch prompt's 'County Council District 6' matches; nothing was backfilled.) TYPE OF REPORT - READ THIS BEFORE TRUSTING report_type: none of the six checkboxes is ticked INSIDE the box. One large diagonal pen stroke crosses the page in the Type-of-Report block, descending from just left of the 'YEAR-END REPORT:' heading, through the right edge of the January-31 checkbox, and down through the word '(open)'. It is the ONLY hand mark anywhere in that block, and it lands on the year-end box; on that basis report_type records the year-end label, at LOW confidence, and this note states exactly what is on the paper. No other box was inferred, and the amendment question (neither Yes nor No ticked) stays '' rather than being read off the same stroke. ZERO-GLYPH RULING applied five times: Summary line 2 Column A, line 2 Column B, line 6, and the Schedule B page's SUBTOTAL and TOTAL cells are each a zero with a stroke through it and each transcribes as 0 with the glyph named. TRAILING-DASH CENTS: the Schedule A row's amount cell is written '2,500.' with a raised dash where the cents would go and the word 'Loan' beneath; per the currency convention a trailing dash after whole dollars means no cents, and here it is not a judgement call - the page's own SUBTOTAL and TOTAL both print '2,500.' with a superscript '00', as does Summary line 1 Column A. PRIVACY: the Schedule A address cell is covered by the county's black bar (redacted at source, not left empty), and the cover's street-address row and phone/fax/email row are likewise barred; the cover's signature line is barred too. The single contribution is a LOAN FROM THE CANDIDATE TO HIS OWN CAMPAIGN - the filer wrote 'Loan' in the amount cell; in_kind stays false (a loan is not an in-kind marker) and the word is preserved in the row note. PAGE 5 is a 'Summary Page Other Campaign Accounts' (Column B header 'Year to Date' - a DIFFERENT table from the standard Summary Page on page 2, never interchangeable); the filer wrote N/A in three of its cells and it carries no figures. The county form misspells its own Schedule B footer ('TOTAL EXPENDITUTRES MADE')."
+  }
+ }
+}

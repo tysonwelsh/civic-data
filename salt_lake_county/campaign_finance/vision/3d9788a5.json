@@ -1,0 +1,146 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "DAVE ALVORD (SELF)",
+   "occupation": "Dentist",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.10,23.03,85.55,4.03@p2",
+   "note": "date cell prints MONTH/DAY only (\"3/12\") with no year anywhere in it; left BLANK per the strict-date rule. The page header does print \"Date of Report 3 APRIL 2020\", but a year is NEVER filled in from the report date; the filer wrote \"(SELF)\" under his own name - a candidate self-contribution, kept verbatim. Printed \"1000.\" with a superscript \"00\" over a rule; transcribed with a decimal point. Complete Mailing Address cell is covered by the county's black bar - redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Holly Jones",
+   "purpose": "Graphic Design",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.76,25.05,77.66,3.98@p3",
+   "note": "date cell prints MONTH/DAY only (\"3/18\") with no year anywhere in it; left BLANK per the strict-date rule. The page header does print \"Date of Report 3 APRIL 2020\", but a year is NEVER filled in from the report date; printed \"50.\" with a superscript \"00\" over a rule; transcribed with a decimal point"
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "SL County",
+   "purpose": "Candidate Filing",
+   "amount": "258.55",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.76,29.03,77.66,3.97@p3",
+   "note": "date cell prints MONTH/DAY only (\"3/18\") with no year anywhere in it; left BLANK per the strict-date rule. The page header does print \"Date of Report 3 APRIL 2020\", but a year is NEVER filled in from the report date; this is the candidate filing fee paid TO Salt Lake County"
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "ZIONS BANK",
+   "purpose": "Checks",
+   "amount": "28.65",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.76,33.00,77.66,4.03@p3",
+   "note": "date cell prints MONTH/DAY only (\"3/31\") with no year anywhere in it; left BLANK per the strict-date rule. The page header does print \"Date of Report 3 APRIL 2020\", but a year is NEVER filled in from the report date"
+  }
+ ],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "DAVE ALVORD",
+  "party": "Republican",
+  "office_sought": "Council",
+  "district_number": "2",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "3 April 2020",
+  "form_year": "2018"
+ },
+ "confidence": {},
+ "_meta": {
+  "index_path": "raw/globalassets/2020_disclosures__april__alvord-financial-disclosures_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "DAVE ALVORD",
+  "office": "County Council",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/2020_disclosures__april__alvord-financial-disclosures_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "*** THIS FILING IS INCOMPLETE AT SOURCE AND IS A DOCUMENTED, UNRECOVERABLE GAP. *** The filer hand-numbered his own report 'Pg 1 of 4' (cover), 'Page 2 of 4' (Schedule A) and 'Page 3 of 4' (Schedule B). The county's scan holds only those three pages: PAGE 4 OF 4 - THE SUMMARY PAGE - IS ABSENT, and Alvord has no sibling document in this corpus that could carry it. So summary_page_found is false, every field in `totals` is null BY NON-EXISTENCE (never 0, never blank-meaning-filer-left-it-empty), and both reconciliation verdicts are 'unknown'. The Summary Page was deliberately NOT reconstructed from the schedule totals, and the schedule totals are NOT recorded as stated totals. || FORM-YEAR CONFIRMED WRONG-LOOKING BUT VERBATIM: the cover is titled '2018 Financial Disclosure Report For a Candidate' on a filing signed 3 April 2020 for the April 5, 2020 interim - the clerk-reused-template property. form_year records the printed title verbatim and is NOT the cycle. || Cover: DAVE ALVORD, Office 'County Council', Political Party 'Republican', Office Sought 'Council', District Number '2', Type of Report = April 5 (checked). All agree with the chunk file. THE AMENDMENT QUESTION IS UNANSWERED - neither Yes nor No is checked, so is_amendment is '' rather than 'No'. There is NO clerk 'Date Received' stamp anywhere in the document; the only date is the candidate's own '3 April 2020'. || REDACTION IS UNUSUAL HERE: the county's black bar covers the candidate's street address, phone/fax/email AND HIS SIGNATURE on the cover, plus the donor address cell on Schedule A. The signature bar is noted because it is not the normal pattern, not because anything was read under it. || All four itemized rows print month/day with no year, so all four carry a blank date and needs_review=1 with the verbatim in the row note; the header's '3 APRIL 2020' was never used to complete them. || Both money entries that are whole dollars use the superscript-cents-over-a-rule convention (1000. with a raised 00; 50. with a raised 00) and are transcribed with a decimal point. || Row 1 of Schedule A is the candidate's own money - he wrote '(SELF)' under his name.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": "1000.00",
+     "itemized": "1000.00",
+     "basis": "",
+     "detail": "NO SUMMARY PAGE EXISTS in this document, so there is no stated total to reconcile against and the verdict is honestly UNKNOWN - not exact, not a delta. Reported for the reader only: Schedule A's own printed TOTAL CONTRIBUTIONS RECEIVED is 1000.00 and the single transcribed row is 1000.00, so the schedule is internally consistent. That schedule figure is NOT treated as a stated total and the missing Summary Page was NOT reconstructed from it.",
+     "result": "unknown"
+    },
+    "expenditures": {
+     "stated": "",
+     "schedule_total": "337.20",
+     "itemized": "337.20",
+     "basis": "",
+     "detail": "Same: no Summary Page, so no stated total and the verdict is UNKNOWN. For the reader only: the 3 transcribed rows (50.00 + 258.55 + 28.65) sum to 337.20 = Schedule B's own printed TOTAL EXPENDITUTRES MADE, to the cent. Not treated as a stated total; nothing reconstructed.",
+     "result": "unknown"
+    }
+   },
+   "page_subtotal_gates": "Both schedules print SUBTOTAL FOR THIS PAGE and the filer left BOTH cells BLANK, so no page-subtotal gate exists. The internal check used is each schedule's own printed grand TOTAL: Schedule A 1000.00 (1 row, matches) and Schedule B 337.20 (3 rows sum to 337.20 exactly). Neither is a STATED total - the Summary Page that would carry those is missing.",
+   "escalations": 2,
+   "escalation_note": "The scan is a 1275x1650 px image on a 17.7x22.9 in page (72 ppi as embedded, ~150 dpi letter-equivalent) - the lowest-resolution source in this chunk - so the base read was rendered at 72 dpi, i.e. NATIVE pixels with no downsampling. Two escalations, both tight cell crops at 576 dpi (an 8x upscale of the native pixels, which is what makes the strokes legible rather than adding information): p3 amount column rows 1-3, and p2 amount column row 1. Both confirmed the base reading.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "*** THIS FILING IS INCOMPLETE AT SOURCE AND IS A DOCUMENTED, UNRECOVERABLE GAP. *** The filer hand-numbered his own report 'Pg 1 of 4' (cover), 'Page 2 of 4' (Schedule A) and 'Page 3 of 4' (Schedule B). The county's scan holds only those three pages: PAGE 4 OF 4 - THE SUMMARY PAGE - IS ABSENT, and Alvord has no sibling document in this corpus that could carry it. So summary_page_found is false, every field in `totals` is null BY NON-EXISTENCE (never 0, never blank-meaning-filer-left-it-empty), and both reconciliation verdicts are 'unknown'. The Summary Page was deliberately NOT reconstructed from the schedule totals, and the schedule totals are NOT recorded as stated totals. || FORM-YEAR CONFIRMED WRONG-LOOKING BUT VERBATIM: the cover is titled '2018 Financial Disclosure Report For a Candidate' on a filing signed 3 April 2020 for the April 5, 2020 interim - the clerk-reused-template property. form_year records the printed title verbatim and is NOT the cycle. || Cover: DAVE ALVORD, Office 'County Council', Political Party 'Republican', Office Sought 'Council', District Number '2', Type of Report = April 5 (checked). All agree with the chunk file. THE AMENDMENT QUESTION IS UNANSWERED - neither Yes nor No is checked, so is_amendment is '' rather than 'No'. There is NO clerk 'Date Received' stamp anywhere in the document; the only date is the candidate's own '3 April 2020'. || REDACTION IS UNUSUAL HERE: the county's black bar covers the candidate's street address, phone/fax/email AND HIS SIGNATURE on the cover, plus the donor address cell on Schedule A. The signature bar is noted because it is not the normal pattern, not because anything was read under it. || All four itemized rows print month/day with no year, so all four carry a blank date and needs_review=1 with the verbatim in the row note; the header's '3 APRIL 2020' was never used to complete them. || Both money entries that are whole dollars use the superscript-cents-over-a-rule convention (1000. with a raised 00; 50. with a raised 00) and are transcribed with a decimal point. || Row 1 of Schedule A is the candidate's own money - he wrote '(SELF)' under his name."
+  }
+ }
+}

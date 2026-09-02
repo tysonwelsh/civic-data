@@ -1,0 +1,37 @@
+[
+ {
+  "index_path": "raw/2020/2020_CantoAnthony.pdf",
+  "key": "153e9234",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r7_02)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "sides": {
+   "contributions": "empty-schedule",
+   "expenditures": "empty-schedule"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "BOX B 'Contributions Received this Period' (a typed 0) on the SUMMARY PAGE, which on this modern_boxAF filing is the LAST page (p4, located by its printed heading); Schedule A's own printed 'Total Contributions Received (Sum of all Schedule A pages in this report)' likewise prints $ 0",
+    "detail": "ZERO ROWS against a stated ZERO - the side is an EMPTY SCHEDULE, not an unread one. Schedule A's 15-row grid exists and is entirely blank except for a single typed '0' sitting alone in the AMOUNT cell of printed row 1, with that row's Date, Name of Contributor and Address cells all empty (crop-proved at 700 dpi across the full row width). That lone 0 is the filer's nil statement, NOT an entry: it names no contributor and no date, so it publishes no row, exactly as a 'None' banner would not. Under the zero-glyph ruling the typed 0 does denote the digit zero, so the side's stated figure is a genuine 0 rather than a blank. Box C 'Contributions Received Year to Date' prints 5388.90 - the CYCLE figure - and is NEVER summed as an increment; this report adds nothing to it. \u26a0 ASYMMETRY WORTH NOTING: Schedule A's 'Subtotal for this page' line is left BLANK while its 'Total Contributions Received' line prints 0, so the page-scope anchor is absent on this sheet and the cycle-scope one is present - the two printed footers do not always both appear."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "BOX D 'Expenditures Made this Period' (a typed 0) on the p4 Summary Page; Schedule B prints $ 0 on BOTH of its footers - 'Subtotal for this page' and 'Total Expenditures Made (Sum of all Schedule B pages in this report)'",
+    "detail": "ZERO ROWS against a stated ZERO. Schedule B's 15-row grid is blank except for the same lone typed '0' in the Amount cell of printed row 1, with Date, Provider/Vendor and Purpose all empty (crop-proved). An empty schedule, not an unread one. Box E prints the cycle figure 5388.90 and is never summed. The ladder closes trivially and exactly as printed: Box A 0 + Box B 0 = Box F 0, minus Box D 0 = balance at close 0."
+   }
+  },
+  "in_kind_convention": "not applicable - there are no rows on either side, so both conventions give the same sum (zero) and both close against the stated zeros. The v.4.20 form prints no in-kind column in any case.",
+  "escalations": 0,
+  "escalation_note": "None needed: a born-digital fillable form (v. 4.20) with machine-set figures, and the only figures in the schedules are two typed zeros, each confirmed by crop.",
+  "contributions": [],
+  "expenditures": [],
+  "notes": "Anthony Canto, Utah County SURVEYOR, 2020 cycle - a ZERO-ACTIVITY FINAL REPORT. index.csv names 'Anthony Canto' and the page face agrees; the Office field prints simply 'Surveyor'. Report type: '30 Days after the General Election' (radio filled), report date 12/03/2020, clerk 'RECEIVED DEC 03' stamp in blue and red. THE AMENDMENT QUESTION IS WHOLLY UNTICKED - neither Yes nor No - an honest BLANK, never read as 'No' (ADDENDUM A4). Single report, no bundle. FORM: modern_boxAF v. 4.20, born-digital fillable, four pages - p1 cover / p2 Schedule A / p3 Schedule B / p4 SUMMARY PAGE (LAST, located by its printed heading); boxes A/B/C/D/E/F plus an UNLETTERED 'Balance at Close of Reporting Period (Box F - Box D)'; no checklist decoy; the 'Page' field is blank on all four pages, so no foliation. This copy is printed in the Elections Division's BLUE-AND-RED house style while the other three v.4.20 filings in this chunk are greyscale - a print/scan difference only, same revision. \u26a0 THE PUBLISHING-DUPLICATE QUESTION, CHECKED AND ANSWERED: this filing is the documented Utah County case where THE SAME BYTES WERE POSTED UNDER TWO REPORT-PERIOD LABELS. index.csv row 153 carries reporting_period '30 Days after General' with alt_reporting_periods 'General|Anthony Canto - 12/2/2020 -' and three source URLs (two Strapi API objects plus a WebLink path), all collapsed to ONE retained filing by sha256. So the 'twin' is the county's own re-posting of this document, not a second report, and there was nothing to merge or de-duplicate here. Separately, index.csv row 154 is a DIFFERENT Canto 2020 document (label 'Anthony Canto - 10/27/2020', a '_Redacted' file from the 2020 listing channel) - a distinct filing with its own key, NOT in this chunk and NOT the same report as this one. BOTH SIDES ARE HONEST EMPTY SCHEDULES: the pages exist, the grids are printed, and the filer entered no transactions, stating a typed 0 instead - which is a real absence of entries, not a failure to read and not a 'no donors' claim about the cycle (his Boxes C and E report 5,388.90 raised and spent across the cycle in reports this document does not itemize). The signature block is blacked out even though this file is NOT named '_Redacted'. ===== GEOMETRY / EMPTINESS PROOF (recorded here because the record publishes NO ROWS, so there is no frame to attach it to) ===== Schedule A p2: fully boxed 15-row grid, skew -0.2 deg; rowbands.py returns grid rules 18.61..79.93 and 5 verticals that ARE the column bands (Date 7.80-21.00, Name of Contributor 21.00-51.20, Address and Zip Code 51.20-79.60, Amount 79.60-92.70). The full-width row-1 strip pct:7.8,18.61,85.0,4.37@p2 at 700 dpi rendered four ruled cells of which ONLY the Amount cell carries anything - a single typed '0' - with Date, Name and Address blank; the one-past control pct:79.6,22.98,13.1,4.36@p2 (row 2) rendered an EMPTY ruled cell. Schedule B p3: same grid, skew 0.0 deg, rules 18.59..79.91, columns Date 7.60-20.90, Provider/Vendor 20.90-51.10, Purpose 51.10-79.40, Amount 79.40-92.60; the full-width row-1 strip pct:7.6,18.59,85.0,4.39@p3 rendered the same lone typed '0' with Date, Provider/Vendor and Purpose blank. Emptiness was PROVED by crop, never assumed."
+ }
+]

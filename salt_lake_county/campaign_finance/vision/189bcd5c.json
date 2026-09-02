@@ -1,0 +1,114 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2024-01-02",
+   "donor_raw": "RICHARD SNELGROVE",
+   "occupation": "BUSINESSMAN SNELGROVE TRAVEL",
+   "amount": "26.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.60,22.09,85.10,3.72@p3",
+   "note": "date printed '1.2.24'; occupation on two lines 'BUSINESSMAN / SNELGROVE TRAVEL'; city/state redacted at source"
+  }
+ ],
+ "expenditures": [],
+ "total_contributions": "26.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "0.00",
+ "ending_balance": "26.00",
+ "aggregate": {
+  "total_contributions_to_date": "26.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "26.00"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "G.O.P.",
+  "office_sought": "COUNTY RECORDER",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-3-24",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Snelgrove-Richard__6E6A2ED3.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Snelgrove, Richard",
+  "office": "Recorder",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Snelgrove-Richard__6E6A2ED3.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Wholly handwritten. 2024 form 'For a Candidate'; April 5 interim; signed 4-3-24; clerk RECEIVED stamp APR 03 2024; Entered/Copied 4-3-24. Neither amendment box is checked. Page header box on p2/p3 has 'RECORDER' written over 'SNELGROVE'. Single contribution is a self-contribution from the candidate. Address bar-redacted. Amount written '26.00' with superscript-style cents.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "none"
+   },
+   "withheld_reason": {
+    "expenditures": "no Schedule B page anywhere in the document (cover + Summary + Schedule A only); Summary line 2 reads 0.00 - a real zero, no contradiction"
+   },
+   "recon": {
+    "contributions": {
+     "stated": "26.00",
+     "schedule_total": "26.00",
+     "itemized": "26.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "single self-contribution 26.00 = Summary line 1 Col A = Schedule A SUBTOTAL and TOTAL"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page in the document; Summary line 2 Col A and Col B both 0.00"
+    }
+   },
+   "page_subtotal_gates": "p3 row 26.00 = printed subtotal 26.00 = printed TOTAL 26.00",
+   "escalations": 2,
+   "escalation_note": "600dpi crops of the single Schedule A row (left: date+donor; right: occupation+amount) - re-read identically",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Wholly handwritten. 2024 form 'For a Candidate'; April 5 interim; signed 4-3-24; clerk RECEIVED stamp APR 03 2024; Entered/Copied 4-3-24. Neither amendment box is checked. Page header box on p2/p3 has 'RECORDER' written over 'SNELGROVE'. Single contribution is a self-contribution from the candidate. Address bar-redacted. Amount written '26.00' with superscript-style cents."
+  }
+ }
+}

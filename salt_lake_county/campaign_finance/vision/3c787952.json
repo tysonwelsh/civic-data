@@ -1,0 +1,107 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "0.00",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "0.00"
+ },
+ "cover": {
+  "candidate": "Aaron Wiley",
+  "party": "Democrat",
+  "office_sought": "SL County District 1",
+  "district_number": "",
+  "report_type": "Year-End Report (Period ending December 31 of each year) AND Final / Dissolution Report \u2014 both boxes checked",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2026-02-16",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Wiley-Aaron__37E147C5.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Wiley, Aaron",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Wiley-Aaron__37E147C5.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "'Financial Disclosure Report For an Open Campaign Account' form. Entire filing handwritten in red ink. BOTH the Year-End (Period ending December 31) and the Final/Dissolution boxes are checked. NEITHER amendment box (Yes/No) is checked \u2014 is_amendment left blank, not assumed. Signature date handwritten 2/16/26; clerk Date Received stamp FEB 20 2026. Cover name/office/party handwritten: 'Aaron Wiley' / 'SL county District 1' (Office cell, verbatim) / 'Democrat'; this form has no separate Office Sought row. Cover address and signature blocks blacked at source. Every Summary Page (p2) cell carries a handwritten slashed-zero glyph (\u00d8) \u2014 transcribed as 0 per the zero-glyph ruling. Page order is unusual: cover / Summary / Summary Page Other Campaign Accounts / Itemized Contributions from Other Campaign Accounts (blank grid) / Schedule A (blank grid) / Schedule B (blank grid) / Itemized Expenditures from Other Campaign Accounts (blank grid) / wholly blank p8. The Other Campaign Accounts summary (p3) is handwritten: line 1 Column A '0' with Column B Year-to-Date '25.20'; line 2 Column A '0', Column B blank; lines 3/5/7 '25.20', lines 4/6 '0' \u2014 a $25.20 balance carried in a non-county account, with NO itemized lines filed for it (p4 and p7 grids blank); recorded here, not transcribed as county Schedule A/B activity.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "itemized_pages_A": "5",
+   "itemized_pages_B": "6",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A grid (p5) present and wholly blank, its SUBTOTAL and TOTAL cells left blank; zero rows = handwritten zero on Summary line 1"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "Schedule B grid (p6) present and wholly blank, its SUBTOTAL and TOTAL cells left blank; zero rows = handwritten zero on Summary line 2"
+    }
+   },
+   "page_subtotal_gates": "p5/p6 subtotal and total cells printed but left BLANK by the filer; gated on Summary zeros instead \u2014 zero rows = $0",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "'Financial Disclosure Report For an Open Campaign Account' form. Entire filing handwritten in red ink. BOTH the Year-End (Period ending December 31) and the Final/Dissolution boxes are checked. NEITHER amendment box (Yes/No) is checked \u2014 is_amendment left blank, not assumed. Signature date handwritten 2/16/26; clerk Date Received stamp FEB 20 2026. Cover name/office/party handwritten: 'Aaron Wiley' / 'SL county District 1' (Office cell, verbatim) / 'Democrat'; this form has no separate Office Sought row. Cover address and signature blocks blacked at source. Every Summary Page (p2) cell carries a handwritten slashed-zero glyph (\u00d8) \u2014 transcribed as 0 per the zero-glyph ruling. Page order is unusual: cover / Summary / Summary Page Other Campaign Accounts / Itemized Contributions from Other Campaign Accounts (blank grid) / Schedule A (blank grid) / Schedule B (blank grid) / Itemized Expenditures from Other Campaign Accounts (blank grid) / wholly blank p8. The Other Campaign Accounts summary (p3) is handwritten: line 1 Column A '0' with Column B Year-to-Date '25.20'; line 2 Column A '0', Column B blank; lines 3/5/7 '25.20', lines 4/6 '0' \u2014 a $25.20 balance carried in a non-county account, with NO itemized lines filed for it (p4 and p7 grids blank); recorded here, not transcribed as county Schedule A/B activity."
+  }
+ }
+}

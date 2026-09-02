@@ -1,0 +1,47 @@
+[{
+ "index_path": "raw/2014/2014_6-14Assessor-Poulson_1.pdf",
+ "key": "ba37a5d3",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "empty-schedule", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED on the p2 Summary Page, written as the filer's OVAL/SLASHED ZERO glyph (read 0 under the repo zero-glyph ruling), corroborated by Schedule A's own two printed footers 'Subtotal for this page $ [oval zero]' and 'Total Contributions Received $ [oval zero]'",
+   "detail": "Schedule A (p3) is a COMPLETELY BLANK printed grid — no dates, no names, no addresses, no amounts on any of its 17 ruled lines, and no banner sentence either. Zero rows sum to 0.00, which is exactly the cover's promoted PER-PERIOD cell (Column A line 1, an oval zero) and both of Schedule A's own printed footers (oval zeros). Column B 'Year-to-Date Total' on line 1 is the SAME oval zero and is in any case never summed as an increment. The p2 balance ladder closes on its own terms: line 3 (oval zero) + line 4 (oval zero) = line 5 (oval zero); line 5 0 - line 6 1,076.77 = line 7 -1,076.77, and the filer wrote the NEGATIVE sign (kept)."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (1,076.77) on the p2 Summary Page, which is also Schedule B's own printed 'Subtotal for this page $1076.77' AND its printed 'Total Expenditures Received ... $ 1076.77', and is re-stated at summary line 6 'Total Expenditures Made (From Line 2 Column A)' 1,076.77",
+   "detail": "2 Schedule B rows sum to 300.00 + 776.77 = 1,076.77 exactly = the schedule's printed page subtotal = the schedule's printed Total = the cover's promoted per-period Column A cell = summary line 6. Column B 'Year-to-Date Total' also prints 1,076.77 (this is the cycle's first report for this filer, so period == year-to-date) and is NOT summed as an increment. The closing ladder confirms it: 0 - 1,076.77 = -1,076.77 at line 7."
+  }
+ },
+ "in_kind_convention": "monetary-only closed exactly (300.00 + 776.77 = 1,076.77). Neither schedule on this blank prints an in-kind column and no row is annotated in-kind, so the monetary-only and monetary-plus-in-kind conventions give the identical sum; both were tested and both close.",
+ "escalations": 3,
+ "escalation_note": "Three 900 dpi --value cell crops on p4, all geometry proofs rather than legibility disputes: the extrapolated band 1 (the §A1 first-entry control), the band-2 amount, and the band-3 negative control (§B5, one band past the last row). No figure on this filing was doubtful at 200 dpi.",
+ "frames": {
+  "4": {
+   "axis": "y",
+   "cell": [81.35, 90.88],
+   "cells": [[7.29, 18.47], [19.94, 51.94], [53.47, 79.88], [81.35, 90.88]],
+   "rows": [[19.94, 23.78], [23.78, 27.64], [27.64, 31.46], [31.46, 35.32], [35.32, 39.14], [39.14, 43.00], [43.00, 46.82], [46.82, 50.66], [50.66, 54.48], [54.48, 58.34], [58.34, 62.16], [62.16, 66.00], [66.00, 69.84], [69.84, 73.69], [73.69, 77.50], [77.50, 81.34], [81.34, 85.16]],
+   "measure_note": "legacy_colAB Schedule B is the UNDERLINE form, not a boxed grid. rowbands.py (raw frame, deskew -0.3) returns 17 per-column underline rules at 23.78 .. 85.16, fill 0.95, 4 segments each, at an even pitch of 3.836 pct; the four segments ARE the column bands (Date 7.29-18.47, Name 19.94-51.94, Address 53.47-79.88, Amount 81.35-90.88). THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up from the first rule, to 19.94. TWO CONTROLS, both mandatory, both run at 900 dpi --value on the amount column: (1) §A1 FIRST-ENTRY CONTROL — the extrapolated band 1 box pct:81.35,19.94,9.53,3.84@p4 RENDERED the printed 'Amount' header above a handwritten '300.00' sitting on the rule, so the filer did NOT skip the first ruled line and the first entry really is band 1; (2) the band-2 box pct:81.35,23.78,9.53,3.86@p4 RENDERED '776.77'; (3) §B5 NEGATIVE CONTROL one band past the last row — pct:81.35,27.64,9.53,3.82@p4 RENDERED an EMPTY cell between two bare rules, no figure, confirming the bands are not off by one and that the grid below row 2 is unused."
+  }
+ },
+ "contributions": [],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "Feb. 2014",
+   "vendor_raw": "Utah County Republican Party", "amount": "300.00", "in_kind": false,
+   "confidence": "medium", "verified": 1, "needs_review": 1,
+   "note": "DATE HAS NO DAY — the filer wrote only a month and year, 'Feb. 2014'; kept VERBATIM and flagged, no day is inferred. This blank's Schedule B prints NO Purpose column (Date / Name of Contributor / Mailing Address & Zip Code / Amount), so purpose is honestly blank. The Mailing Address cell was LEFT EMPTY BY THE FILER (this filing is not a *_Redacted.pdf and nothing on the page is blacked out); expenditure rows carry no address field in any case."},
+  {"line_no": "2", "page": 4, "row": 2, "date": "Mar 14, 2014",
+   "vendor_raw": "Utah County Clerk", "amount": "776.77", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "the Utah County candidate FILING FEE for this office and cycle (Assessor 2014 = 776.77). Recorded as a page fact only — per ADDENDUM E §E1 the fee is office- AND cycle-specific and is NEVER used to corroborate a figure on another filing. Mailing Address cell left empty by the filer; no Purpose column on this blank."}
+ ],
+ "notes": "PAGE-FACE candidate 'Kris W Poulson', party 'Republican', Office Seeking 'Assessor', residence city Payson UT — index.csv names NO candidate for this row (the 2008-2018 listing grouped by office), so the page face supplies it. legacy_colAB variant, 4 pages: p1 cover ('Seven days preceding the Primary Election' ticked, amendment 'No' ticked, signed June 17, 2014), p2 SUMMARY PAGE (located by its printed 'SUMMARY PAGE' header, at the usual p2 for this variant), p3 SCHEDULE A ITEMIZED CONTRIBUTIONS RECEIVED, p4 SCHEDULE B ITEMIZED EXPENDITURES MADE. SCHEDULE A EXISTS AND IS ENTIRELY BLANK: all 17 ruled lines are empty, and the filer wrote his oval/slashed zero on both 'Subtotal for this page' and 'Total Contributions Received' — an empty-schedule (the page was filed and the filer entered nothing), NOT a no-schedule-page and NOT a failed read. MIXED-TEMPLATE SPECIMEN (ADDENDUM D §D2 / E §E2): the p1 cover is the COMMON 2014 blank ('2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', Utah County Code 2-5 & Utah State Code 17-16-6.5), but BOTH schedule sheets carry the 2012-era headings — address column headed 'Mailing Address & Zip Code' (not 'Address, City & Zip') and Schedule B REUSING 'Name of Contributor' over the vendor column, the full 2012 throwback. Every heading was read off its own page. The filer's zero is a single OVAL GLYPH WITH A HORIZONTAL STROKE, used consistently in six cells (line 1 Column A, line 1 Column B, line 3, line 4, line 5, and Schedule A's two footers); it denotes zero and is read 0 under the repo zero-glyph ruling, with the glyph described here verbatim. Foliation: every Page/of box on all four sheets is left WHOLLY BLANK (another distinct practice — page ordinals locate nothing). NEGATIVE CLOSING BALANCE IS REAL and is kept: line 7 = -1,076.77, written with the minus sign."
+}]

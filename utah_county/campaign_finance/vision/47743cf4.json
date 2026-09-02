@@ -3,7 +3,12 @@
  "key": "47743cf4",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T03:05:00Z",
- "pages_read": [1, 2, 3, 4],
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 12.23",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -56,5 +61,52 @@
    "notes": "Handwritten on the born-digital form; every box is a written zero. Each box is written with a leading '$' (dropped per spec) and slashed-zero glyphs; in boxes A, B and Balance at Close the decimal separator is written low and comma-like, so those four are medium confidence - the value is unambiguously zero dollars in every box. Schedule A (p2) and Schedule B (p3) are both filled 'N/A' with a written 0 amount and 0 page/report totals. The Office field is HANDWRITTEN 'Commissioner Seat A' (medium confidence on the cursive); index.csv says 'County Commission Seat A' - same seat, different wording, not a conflict. Address block, email and signature are redacted upstream by the county (black bars), so residence_city is unavailable. The clerk's 'Received MAY 20 2026 In Person Utah County Clerk' stamp appears on the cover."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5[1m]; 2026-08-20 wave B2 utah chunk r13_03)",
+   "transcribed_date": "2026-08-20",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' ($0,00) on the p4 Summary Page, corroborated by Schedule A's own printed 'Subtotal for this page $ \u00d8' and its 'Total Contributions Received (Sum of all Schedule A pages in this report) $ \u00d8'",
+     "detail": "ZERO ROWS AND A ZERO ANCHOR \u2014 an honest zero, not a gap. The Schedule A grid is a complete 15-row boxed grid with NOTHING entered in any cell except a handwritten 'N/A' in row 1's Name of Contributor column and a SLASHED ZERO in row 1's Amount column; both printed footers carry a slashed zero, and Box B and Box C both read $0,00. Zero rows sum to 0.00, which equals every printed figure on the filing. The 'N/A' is an ANNOTATION, not an entry (ADDENDUM B5 / E3 / M5: a banner or N/A written across the grid states the fact of no activity and publishes no row), so the side is empty-schedule with zero rows rather than a transcribed row of zero. The slashed zeros are read 0 under the repo-wide zero-glyph ruling (GOTCHAS 2026-08-02) \u2014 a glyph that DENOTES zero, distinct from a bare dash, which would stay blank."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' ($0.00) on the p4 Summary Page, corroborated by Schedule B's own printed 'Subtotal for this page $ \u00d8' and its 'Total Expenditures Made (Sum of all Schedule B pages in this report) $ \u00d8'",
+     "detail": "The same shape on the expenditure side: a complete 15-row boxed grid, wholly unmarked except a handwritten 'N/A' in row 1's Provider/Vendor column and a SLASHED ZERO in row 1's Amount column, with slashed zeros at both printed footers and $0.00 in Boxes D and E. Zero rows sum to 0.00 = every printed figure. Empty-schedule, not withheld and not no-schedule-page: the page exists, it is the county's own Schedule B, and the filer entered nothing."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 there is nothing to test. Schedule A prints FOUR columns (Date / Name of Contributor / City and Zip Code / Amount) with no in-kind checkbox column, no row exists on either schedule, and the Summary Page carries no in-kind line and no compound '+Inkind' cell. Monetary-only and monetary-plus-in-kind both give 0.00 on both sides.",
+   "escalations": 6,
+   "escalation_note": "Six control crops at 800 dpi, all named with this filing's key, taken specifically to prove the EMPTINESS rather than to settle a value \u2014 the ADDENDUM K4 discipline that ghost and show-through can imitate entries on a blank schedule, which matters here because this scan carries a pale coloured streak artifact (see notes). What they rendered: p2 row 1 amount = a SLASHED ZERO drawn as an oval with a long slash through it; p2 row 2 and p2 row 15 = WHOLLY EMPTY ruled cells; p3 row 1 amount = a SLASHED ZERO of the same form; p3 row 2 and p3 row 15 = WHOLLY EMPTY ruled cells, the row-15 crop also catching the top of the printed footer's slashed zero below the grid. No mark anywhere in either grid other than the row-1 'N/A' and the row-1 slashed zero. No value on this filing was in doubt.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "BOTH SIDES ARE HONEST ZEROS. This is a complete four-page filing on the county's own form and BOTH county schedules are present and blank \u2014 so both sides are 'empty-schedule', which is a different fact from 'no-schedule-page' (the page was never filed) and from 'withheld' (we could not read it). WHAT THE PAGES ACTUALLY PRINT, stated exactly as the side-state rule requires: on p2 the Schedule A grid is unmarked in all 15 rows except a handwritten 'N/A' in the Name of Contributor cell of row 1 and a SLASHED ZERO in that row's Amount cell; the printed 'Subtotal for this page' and 'Total Contributions Received' both carry a slashed zero. On p3 the Schedule B grid is unmarked except a handwritten 'N/A' in the Provider/Vendor cell of row 1 and a SLASHED ZERO in that row's Amount cell, with slashed zeros at both printed footers. On p4 every box is written '$0.00' or '$0,00' with slashed-zero glyphs: A, B, C, D, E, F and the close box. Nothing anywhere on the filing states a non-zero figure. The 'N/A' publishes NO ROW \u2014 it is the filer's annotation that there was no activity, the ADDENDUM E3/M5 banner shape, and it occupies the row without being one. FORM CHARACTERISATION (2026 stock, seventh specimen): variant modern_boxAF, footer 'v. 12.23', masthead 'Aaron Davidson, Clerk'; four pages, summary LAST, each classified from its own printed header; NO CHECKLIST DECOY. Schedule A's third column is headed 'City and Zip Code' (the Bowles/Herrin/Forbush/Evans blank rather than the Voeks 'Address and Zip Code' one). Schedule B keeps the real Purpose column; both schedules are boxed 15-row grids with their own two footers; the close box is UNLETTERED. Report type '30 Days after withdrawal or elimination' is ticked with an X, the amendment question is ticked 'No', the report is dated 05/20/2026 on the cover and on all three inner sheets, and foliation is continuous counting the cover (Pages 1-4). The form is born-digital and the candidate's name is typed; everything else the filer supplied is handwritten. CLERK RECEIPT STAMP \u2014 independent date evidence: the cover carries a two-colour 'Received / MAY 2 0 2026 / In Person / Utah County Clerk' stamp, agreeing to the day with the date the filer wrote. SCAN ARTIFACT WORTH NAMING: every page carries faint horizontal COLOURED streaks (blue, red, yellow, green) running the full width \u2014 a scanner calibration artifact, not printed rules and not filer ink. They are pale enough that rowbands.py ignored them, but a reader looking at a control crop will see them and should not mistake them for content; the crops in the measure_notes show them crossing otherwise empty cells. PAGE-FACE IDENTITY: cover, affirmation line and every sheet's candidate box read 'Renee Tribe', matching index.csv. The OFFICE BOX IS HANDWRITTEN ACROSS TWO LINES as 'Commissioner / Seat A' \u2014 it names a seat but NOT the county, so it corroborates the seat in index.csv's 'County Commission Seat A' from the page while the word 'County' is index.csv's own; no office is inferred beyond what the page prints. REDACTION: the county blacked out the cover's entire address row (label bar included), the EMAIL cell, and the signature block, while leaving the PHONE NUMBER in the clear \u2014 redaction on this document is per-cell and inconsistent, and it is the reverse of the Evans and Spencer filings in this chunk, where the address was published and only the signature was barred. Neither schedule carries any redaction, so the blank cells on pp2-3 are blank because THE FILER ENTERED NOTHING, not because anything was removed."
+  }
+ }
 }

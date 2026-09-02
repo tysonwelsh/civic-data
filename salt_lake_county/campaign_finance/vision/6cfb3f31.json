@@ -1,6 +1,36 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-09-20",
+   "donor_raw": "Michael Sanchez",
+   "occupation": "self",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.35,20.61,89.68,3.86@p3",
+   "note": "city/state redacted at source (Complete Mailing Address cell bar-covered); occupation 'self' verbatim"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-03-19",
+   "vendor_raw": "In Motion Hosting",
+   "purpose": "website/hosting/upgrades",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.40,22.22,82.61,3.89@p4",
+   "note": "handwritten; purpose final word runs to the cell edge, read as 'upgrades'"
+  }
+ ],
  "total_contributions": "50.00",
  "total_expenditures": "500.00",
  "beginning_balance": "3522.36",
@@ -49,6 +79,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "HANDWRITTEN, '2022 Financial Disclosure Report' title. Cents written in the superscript-over-line style ('50.oo', '500.oo'). NEITHER amendment box is checked. Cover 'Office' box reads 'County Council District 6'; 'Office Sought' reads 'Council 6'. Clerk stamp 'RECEIVED IN OFFICE JAN 31 2023'. The filer's own Summary Page header numbers it 'Page 1 of 3' although it is the second page of the PDF."
+  "notes": "HANDWRITTEN, '2022 Financial Disclosure Report' title. Cents written in the superscript-over-line style ('50.oo', '500.oo'). NEITHER amendment box is checked. Cover 'Office' box reads 'County Council District 6'; 'Office Sought' reads 'Council 6'. Clerk stamp 'RECEIVED IN OFFICE JAN 31 2023'. The filer's own Summary Page header numbers it 'Page 1 of 3' although it is the second page of the PDF.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "50.00",
+     "schedule_total": "50.00",
+     "itemized": "50.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "p3 single row 50.00 = handwritten subtotal 50.00 = handwritten total 50.00 = Summary line 1 Column A 50.00; cached stated_contrib 50.00 confirmed at the page"
+    },
+    "expenditures": {
+     "stated": "500.00",
+     "schedule_total": "500.00",
+     "itemized": "500.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "p4 single row 500.00 = handwritten subtotal 500.00 = handwritten total 500.00 = Summary line 2 Column A 500.00; cached stated_expend 500.00 confirmed"
+    }
+   },
+   "page_subtotal_gates": "p3 row 50.00 = handwritten subtotal 50.00 = total 50.00; p4 row 500.00 = handwritten subtotal 500.00 = total 500.00",
+   "escalations": 2,
+   "escalation_note": "p3 row 1 and p4 row 1 re-read in 600dpi row crops; read identically",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Fully HANDWRITTEN 2022-cycle year-end ('2022 Financial Disclosure Report For a Candidate'), signed 1/30/23; clerk stamp RECEIVED IN OFFICE JAN 31 2023. Filer hand-numbered the inner pages '1 of 3' to '3 of 3'; the PDF holds 4 pages (cover unnumbered) - chunk note confirmed. Summary Column B aggregates handwritten 13,263.99 / 12,763.99. Donor Complete Mailing Address cell on p3 row 1 is bar-redacted at source. Cover address/phone block bar-redacted."
+  }
  }
 }

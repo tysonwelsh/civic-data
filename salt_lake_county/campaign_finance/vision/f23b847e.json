@@ -1,0 +1,130 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2015-05-05",
+   "donor_raw": "MICAH BRUNER",
+   "occupation": "Candidate",
+   "amount": "5.45",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.06,24.85,84.92,3.15@p3",
+   "note": "'- Loan' is written after the name in the same cell - a self-loan from the candidate. The address cell is NOT redacted here: the filer wrote 'See page 1' in it, and page 1's address block is black-barred at source, so donor_city/donor_state stay blank. Occupation cell is a cramped scrawl; re-read at 900 dpi and still not certain - the glyph string is roughly 'Beah'd.date' and the best reading is 'Candidate'; cell_confidence occupation=low."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2015-05-05",
+   "vendor_raw": "Move-it Signs",
+   "purpose": "reimbursement for expenses",
+   "amount": "157.22",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.30,25.90,77.99,3.25@p4",
+   "note": "recipient re-read at 900 dpi: 'Move-it' is clear, the following word is a scrawl read as 'Signs' (glyphs 'Si-egns') - vendor=medium."
+  }
+ ],
+ "total_contributions": "5.45",
+ "total_expenditures": "157.22",
+ "beginning_balance": "151.77",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "157.22"
+ },
+ "cover": {
+  "candidate": "MICAH BRUNER",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "At Large A",
+  "report_type": "FINAL / DISSOLUTION REPORT",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2/1/16",
+  "form_year": "2015"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2015_disclosures__2015_year_end__micah_brune2015ye_dissolution.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "MICAH BRUNER",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2015_disclosures__2015_year_end__micah_brune2015ye_dissolution.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "ZERO-GLYPH RULING applied: Summary line 7 Column A is a slashed zero glyph, recorded as 0.00 with the glyph named here. Column B (Aggregate Total) is BLANK on lines 1 and 2 - the filer left it empty; recorded as '' not null. Neither amendment box is ticked, so is_amendment is honestly blank. The cover's 'Office' box is empty; 'Office Sought' reads 'County Council' and District Number 'At Large A' - consistent with the chunk file. Cover address block and phone/fax/email block are both black-barred at source.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5.45",
+     "schedule_total": "5.45",
+     "itemized": "5.45",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "the single Schedule A row 5.45 = printed page subtotal 5.45 = TOTAL CONTRIBUTIONS RECEIVED 5.45 = Summary line 1 Column A."
+    },
+    "expenditures": {
+     "stated": "157.22",
+     "schedule_total": "157.22",
+     "itemized": "157.22",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "the single Schedule B row 157.22 = printed page subtotal 157.22 = TOTAL EXPENDITURES MADE 157.22 = Summary line 2 Column A."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 5.45 = printed subtotal 5.45; p4 rows 157.22 = printed subtotal 157.22",
+   "escalations": 2,
+   "escalation_note": "p3 Occupation/Employer cell at 900 dpi (still not fully legible - see the row note); p4 recipient cell at 900 dpi.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "ZERO-GLYPH RULING applied: Summary line 7 Column A is a slashed zero glyph, recorded as 0.00 with the glyph named here. Column B (Aggregate Total) is BLANK on lines 1 and 2 - the filer left it empty; recorded as '' not null. Neither amendment box is ticked, so is_amendment is honestly blank. The cover's 'Office' box is empty; 'Office Sought' reads 'County Council' and District Number 'At Large A' - consistent with the chunk file. Cover address block and phone/fax/email block are both black-barred at source."
+  }
+ }
+}

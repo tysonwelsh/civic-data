@@ -1,0 +1,55 @@
+[{
+ "index_path": "raw/2020/2020_Forbush_4.23.20_Redacted_Redacted.pdf",
+ "key": "2b6e2b8a",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah r8_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' = 647.20 on the p4 Summary Page (located by its printed heading), which equals Schedule A's own printed 'Subtotal for this page' $ 647.20 AND its printed 'Total Contributions Received (Sum of all Schedule A pages in this report)' $ 647.20",
+   "detail": "The single Schedule A row is 647.20 (printed in the cell as '$647.20'), which IS the schedule's printed page subtotal, IS its printed Total Contributions Received, and IS the cover's PROMOTED per-period cell Box B — three printed anchors to the cent. Box C 'Contributions Received Year to Date' prints 647.20 as well and is NEVER summed as an increment; period equals year-to-date here because the withdrawal report covers the filer's only activity. Ladder check: Box A (a bare typed '0') + Box B 647.20 = Box F 647.20."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' = 647.20, which equals Schedule B's own printed 'Subtotal for this page' $ 647.20 AND its printed 'Total Expenditures Made (Sum of all Schedule B pages in this report)' $ 647.20",
+   "detail": "The single Schedule B row is 647.20 = the printed page subtotal = the printed schedule total = the cover's per-period Box D. Box E YTD prints 647.20 and is retained as cumulative, never summed. Box F 647.20 minus Box D 647.20 = the printed 'Balance at Close of Reporting Period' 0, so the ladder closes: one self-contribution in, one filing fee out, nothing left."
+  }
+ },
+ "in_kind_convention": "monetary-only, and identical under both conventions: no in-kind column, line or marker anywhere on this v. 4.20 blank and no in-kind annotation on either row, so monetary-only and monetary-plus-in-kind both sum to 647.20 on each side and both close. Tested per filing (G1).",
+ "escalations": 4,
+ "escalation_note": "Four 900 dpi --value geometry crops; no legibility dispute existed (the form is born-digital machine type, printed and re-scanned, and every figure renders cleanly). p2 row 1 rendered '$647.20'; p2 row 2 (one past the only entry) rendered an EMPTY boxed cell; p3 row 1 rendered '$647.20'; p3 row 2 (one past) rendered an EMPTY boxed cell. Nothing was changed.",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [78.56, 91.76],
+   "cells": [[7.12, 20.21], [20.21, 50.38], [50.38, 78.56], [78.56, 91.76]],
+   "rows": [[17.27, 21.61], [21.61, 25.97], [25.97, 30.38], [30.38, 34.79], [34.79, 39.13], [39.13, 43.54], [43.54, 47.91], [47.91, 52.27], [52.27, 56.68], [56.68, 60.97], [60.97, 65.25], [65.25, 69.66], [69.66, 74.04], [74.04, 78.41], [78.41, 82.75]],
+   "measure_note": "modern_boxAF Schedule A, a FULLY BOXED 15-row grid — a row lies BETWEEN its own two rules, nothing extrapolated (I3). rowbands.py (skew +0.3) returns 18 h_rules: the 16 grid rules 17.27..82.75 (15 bands, pitch ~4.37, uniform to 0.09 pct so no missed rule and no ~2x doubled band) plus 87.34 and 91.12, which belong to the bottom-left 'Name of Candidate' / 'Date of Report | Page' box and are NOT grid rules — the p2 prep line's '17 data_bands' count includes one of them, which is why the band list is proved by crop rather than taken from the tool. The 5 v_rules give the four columns, assigned by content then heading: Date 7.12-20.21, Name of Contributor 20.21-50.38, Address and Zip Code 50.38-78.56, Amount 78.56-91.76. PROOF at 900 dpi --value: pct:78.56,17.27,13.20,4.34@p2 rendered '$647.20' (recorded 647.20). FIRST-ENTRY CONTROL (A1): band 1 rendered the entry itself, so no skipped first line, no banner line, no voided row shifting the index. ONE-PAST-THE-END CONTROL (B5/F1): pct:78.56,21.61,13.20,4.36@p2 rendered an EMPTY boxed cell — nothing continues below the single row. Single-row side, so every row is crop-proved."
+  },
+  "3": {
+   "axis": "y",
+   "cell": [78.67, 91.84],
+   "cells": [[7.17, 20.31], [20.31, 50.46], [50.46, 78.67], [78.67, 91.84]],
+   "rows": [[17.41, 21.73], [21.73, 26.18], [26.18, 30.54], [30.54, 34.89], [34.89, 39.29], [39.29, 43.68], [43.68, 48.04], [48.04, 52.43], [52.43, 56.82], [56.82, 61.11], [61.11, 65.43], [65.43, 69.79], [69.79, 74.16], [74.16, 78.54], [78.54, 82.89]],
+   "measure_note": "Schedule B, same boxed 15-row grid, measured on its OWN page (skew +0.1, different from p2's +0.3). 16 grid rules 17.41..82.89 (15 bands, pitch ~4.37) plus one bottom-box rule at 92.04. Columns from this page's own v_rules: Date 7.17-20.31, Provider/Vendor 20.31-50.46, PURPOSE 50.46-78.67, Amount 78.67-91.84 — the 2020 revision's REAL Purpose column (I3), present and captured. PROOF at 900 dpi --value: pct:78.67,17.41,13.17,4.32@p3 rendered '$647.20' (recorded 647.20). FIRST-ENTRY CONTROL: band 1 holds the entry. ONE-PAST-THE-END CONTROL: pct:78.67,21.73,13.17,4.45@p3 rendered an EMPTY boxed cell. Single-row side, every row proved."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 2, "row": 1, "date": "3/19/2020",
+   "donor_raw": "Christopher Forbush", "donor_city": "Saratoga Springs", "donor_state": "Utah",
+   "amount": "647.20", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the CANDIDATE'S OWN self-contribution — the donor name matches the p1 cover exactly. Classified as an itemized contribution row by the LADDER, never by wording (B3): Box A prints a bare '0', this row alone equals Box B 647.20, and the close is 0, leaving no beginning-balance slot. The amount is printed in the cell with a leading '$' ('$647.20'), which the schema drops. REDACTION, judged from this cell: a black bar covers the STREET portion of the address while the filer's ', Saratoga Springs, Utah 84045' is published IN THE CLEAR to the right of it — so city and state come from this row's own cell. The state is printed as the word 'Utah' and is kept verbatim rather than normalized to UT."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "3/19/2020",
+   "vendor_raw": "Utah County Clerk/Auditor", "purpose": "Candidate Filing Fee",
+   "amount": "647.20", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the 2020 revision's REAL Purpose column is filled and captured verbatim. ⛔ This is the Utah County filing fee: it is this document's own printed figure and was NOT used to corroborate anything on another filing, and no other filing's fee was used to settle it (E1/F5). Printed with a leading '$'. Same date as the contribution row."}
+ ],
+ "notes": "Christopher Forbush, 2020 Utah County Commission Seat C. modern_boxAF, revision 'v. 4.20' (footer-printed on all four pages), born-digital fillable form printed and re-scanned — every figure is MACHINE TYPE and no glyph was in dispute. FOUR pages, each classified from its own printed heading: p1 cover ('Financial Campaign Report for County and Local School Board Candidates'), p2 'Schedule A - Itemized Contributions Received', p3 'Schedule B - Itemized Expenditures Made', p4 'Summary Page' (LAST, as the variant tends, but located by heading). No checklist decoy. PAGE FACE: candidate 'Christopher Forbush', Office 'Utah County Commission Seat C' (AGREEING with index.csv's office, seat and all — nothing inferred), residence city Saratoga Springs, report type radio filled = '30 Days after withdrawal or elimination' (index.csv's period label 'Withdraw/Elmination' [sic, the county's own typo] agrees), amendment answered 'No', signature Date and Date of Report both 4/23/2020. This blank prints NO political-party field. FOLIATION: the Page box is numbered 1/2/3/4 counting the cover. REDACTION judged per cell from the page (I4): the ONLY blacked-out region is the street portion of the donor address on p2 — and the same cell publishes the city, state and zip in the clear; the p1 Signature box is not blacked out but is BLANK/faint on the scan, which is a reproduction property, not a redaction and not a refusal to sign. THE WHOLE FILING IS ONE TRANSACTION: a 647.20 self-contribution on 3/19/2020 and a 647.20 candidate filing fee the same day, opening and closing at 0. STRUCTURAL TWIN, NOT A DUPLICATE: this chunk's Dayton filing (cb97d6ef) has the identical shape — one self-contribution of 647.20 on 3/19/20 and one 647.20 filing fee — because both men filed for a 2020 Utah County Commission seat and then withdrew. They are DIFFERENT DOCUMENTS by DIFFERENT FILERS (different names, addresses, seats, report dates, and one is handwritten while this one is typed), transcribed wholly independently; the shared 647.20 is the office's filing fee and was explicitly NOT used to corroborate either reading."
+}]

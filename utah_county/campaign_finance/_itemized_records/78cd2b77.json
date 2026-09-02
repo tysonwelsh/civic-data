@@ -1,0 +1,670 @@
+[
+ {
+  "index_path": "raw/2022/2022_Livingston_Rudolf_3.31.2022_Redacted2.pdf",
+  "key": "78cd2b77",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r11_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "itemized_pages_A": "4",
+  "itemized_pages_B": "6",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Box B 'Contributions Received this Period' = 2,440.00 on the p2 Summary Page (the PROMOTED per-period cell), corroborated by the attached ledger's own printed double-ruled total 2,440.00 on p4 and by the county Schedule A page's printed 'Subtotal for this page $2440.00' on p3",
+    "detail": "The 23 rows of the attached typed Schedule A ledger (p4) sum to 1000.00+50+100+35+50+100+25+50+100+25+200+40+50+50+25+30+25+100+40+100+25+100+120 = 2,440.00 exactly. That equals the ledger's own printed total (2,440.00, between double rules, crop-proved) AND the p3 county-form 'Subtotal for this page $2440.00' AND Box B 2,440.00. Box C 'Contributions Received Year to Date' also prints 2,440.00 \u2014 equal because this is the cycle's FIRST report, not because a cumulative figure was summed; it is retained and never added as an increment. NOTE the p3 'Total Contributions Received (Sum of all Schedule A pages)' line is PARTLY LOST IN REPRODUCTION (only a leading '2' and a trailing ',00' survive, the middle digits ghosted) \u2014 it is NOT quoted as a figure and was not used as an anchor."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Box D 'Expenditures Made this Period' = 2354.50 on the p2 Summary Page (the PROMOTED per-period cell), corroborated by the attached ledger's own printed double-ruled total 2,354.50 on p6 and by the county Schedule B page's printed 'Subtotal for this page $2354.50' and 'Total Expenditures Made $2354.50' on p5",
+    "detail": "The 9 rows of the attached typed Schedule B ledger (p6) sum to 658.32+490.00+148.81+20.00+95.00+100.00+3.38+1.21+837.78 = 2,354.50 exactly = the ledger's printed total = both p5 printed footers = Box D. Box E YTD prints 2,354.50, equal for the same first-report reason, and is never summed as an increment. The 658.32 paid to Utah County ('Candidate filing fee') is recorded as the page prints it and is NOT used to corroborate anything anywhere (ADDENDUM L3)."
+   }
+  },
+  "in_kind_convention": "monetary-only, and the two conventions are indistinguishable here: NEITHER schedule marks any row in-kind, and this form revision's Schedule A prints 'Address and Zip Code' with NO in-kind checkbox column (the v.4.20-style carry-over blank of ADDENDUM J1, close box unlettered, five report types, foliated 'Date of Report / Page'). Both conventions therefore give the same sums, 2,440.00 and 2,354.50, and both close on Box B / Box D. Tested on both sides; nothing was carried over from another filing.",
+  "escalations": 9,
+  "escalation_note": "Nine tight high-dpi crops, all naming this filing's key: p4 row1/row23 value boxes (rendered '1,000.00' and '120.00'), a p4 one-band-past control (rendered the printed grand total '2,440.00' between its double rules \u2014 no extra row), p6 row1/row7/row9 value boxes ('658.32','3.38','837.78'), the INTERPOLATED p6 row8 band ('1.21'), a p6 one-band-past control (rendered white space and the top rule of the total \u2014 no extra row), and two footer crops (p3 'Subtotal for this page $2440.00' legible / 'Total Contributions Received' partly lost in reproduction; p5 both footers legible at 2354.50). No figure was in dispute; every crop confirmed the full-page read.",
+  "frames": {
+   "4": {
+    "axis": "y",
+    "cell": [
+     82.5,
+     91.0
+    ],
+    "cells": [
+     [
+      10.9,
+      16.3
+     ],
+     [
+      16.7,
+      31.8
+     ],
+     [
+      38.0,
+      67.5
+     ],
+     [
+      82.5,
+      91.0
+     ]
+    ],
+    "rows": [
+     [
+      15.32,
+      16.7
+     ],
+     [
+      16.89,
+      18.22
+     ],
+     [
+      18.38,
+      19.71
+     ],
+     [
+      19.89,
+      21.18
+     ],
+     [
+      21.39,
+      22.68
+     ],
+     [
+      22.83,
+      24.16
+     ],
+     [
+      24.3,
+      25.59
+     ],
+     [
+      25.8,
+      27.13
+     ],
+     [
+      27.29,
+      28.62
+     ],
+     [
+      28.8,
+      30.09
+     ],
+     [
+      30.29,
+      31.58
+     ],
+     [
+      31.8,
+      33.04
+     ],
+     [
+      33.3,
+      34.59
+     ],
+     [
+      34.75,
+      36.04
+     ],
+     [
+      36.25,
+      37.54
+     ],
+     [
+      37.75,
+      39.04
+     ],
+     [
+      39.21,
+      40.54
+     ],
+     [
+      40.7,
+      42.03
+     ],
+     [
+      42.21,
+      43.5
+     ],
+     [
+      43.65,
+      44.98
+     ],
+     [
+      45.21,
+      46.45
+     ],
+     [
+      46.65,
+      47.94
+     ],
+     [
+      48.06,
+      49.39
+     ]
+    ],
+    "measure_note": "p4 is the filer's OWN TYPED LEDGER attached behind the county Schedule A form (the county form itself, p3, carries only the banner 'SEE ATTACHED'), so it has NO printed rules: rowbands.py returns 0 h_rules at full width. Recovery per ADDENDUM A2: `rowbands.py <pdf> 4 --text-lines --col 80,95` restricted to the amount column returned 24 text bands at a regular pitch of 1.49 pct \u2014 23 data rows (tops 15.60 -> 48.34) plus a 24th band at 51.24 separated by a DOUBLE pitch (2.90), which is the ledger's printed grand total, not a row. No band was missing here (every amount is >= 5 characters, so the ADDENDUM L5 single-digit dropout did not bite). Stored rows are each text band padded 0.28 pct top and bottom (band ~0.75 tall, pitch 1.49 \u2014 no overlap). Column bands are the typed ledger's own columns, measured off the 200 dpi render (Date / Name of Contributor / Address & Zip Code / Amount). TWO-CROP PROOF at 900 dpi: pct:82.5,15.35,8.5,1.32@p4 rendered '1,000.00' (recorded row 1 = 1000.00) and pct:82.5,48.09,8.5,1.32@p4 rendered '120.00' (recorded row 23 = 120.00). ONE-BAND-PAST CONTROL: pct:82.5,49.6,8.5,3.2@p4 rendered the printed total '2,440.00' between its double rules and NO further entry, ruling out ADDENDUM F1.5 (a row continuing below the last band). FIELD-PAIRING PROOF (this ledger's amounts print about HALF A LINE LOWER than the name they belong to, which is exactly the kind of offset that misassigns a column): full-width band crops pct:8,15.2,88,2.0@p4 and pct:8,47.9,88,2.0@p4 each rendered ONE name and ONE amount together in a single image \u2014 '2/24/2022 Rudolf Livingston | American Fork, UT 84003 | 1,000.00' and '3/14/2022 Jim Livingston | American Fork, UT 84003 | 120.00' \u2014 so the 23 names and 23 amounts pair 1:1 and the sides were not read shifted. rowbands reports deskew_deg +2.0 on this page from the column-restricted scan, but every crop built from the raw-frame bands rendered its own row, so no skew correction was applied."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     66.0,
+     73.5
+    ],
+    "cells": [
+     [
+      10.9,
+      18.4
+     ],
+     [
+      19.1,
+      35.2
+     ],
+     [
+      37.5,
+      54.0
+     ],
+     [
+      66.0,
+      73.5
+     ]
+    ],
+    "rows": [
+     [
+      15.92,
+      17.38
+     ],
+     [
+      17.65,
+      19.16
+     ],
+     [
+      19.37,
+      20.92
+     ],
+     [
+      21.1,
+      22.61
+     ],
+     [
+      22.83,
+      24.34
+     ],
+     [
+      24.55,
+      26.1
+     ],
+     [
+      26.33,
+      27.88
+     ],
+     [
+      28.1,
+      29.61
+     ],
+     [
+      29.87,
+      31.38
+     ]
+    ],
+    "measure_note": "p6 is the filer's own typed Schedule B ledger attached behind the county Schedule B form (p5, which carries only the banner 'SEE ATTACHED'); no printed rules. `rowbands.py <pdf> 6 --text-lines --col 62,75` returned only 9 bands for 9 rows PLUS the total, i.e. ONE BAND SHORT: tops 16.22 17.95 19.67 21.40 23.13 24.85 26.63 (pitch 1.73) then a DOUBLE-PITCH GAP to 30.17 and another to 33.67. That is exactly the ADDENDUM L5 defect \u2014 the missing band is row 8, the two-character-and-a-bit amount '1.21', too small a dark run to clear the coverage threshold. The gap is an exact multiple of the pitch, so band 8 was INTERPOLATED at top 28.40 and CROP-PROVED. The 33.67 band is the printed grand total, not a row. Stored rows are each band padded 0.30 top and bottom. TWO-CROP PROOF at 900 dpi: pct:61.0,16.0,14.0,1.5@p6 rendered '658.32' (recorded row 1) and pct:61.0,29.95,14.0,1.5@p6 rendered '837.78' (recorded row 9). The interpolated band was proved: pct:61.0,28.15,14.0,1.5@p6 rendered '1.21' (recorded row 8), and its neighbour pct:61.0,26.4,14.0,1.5@p6 rendered '3.38' (row 7). ONE-BAND-PAST CONTROL: pct:61.0,31.6,14.0,1.6@p6 rendered empty white space and the upper rule of the total block \u2014 no tenth entry."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "2/24/2022",
+    "donor_raw": "Rudolf Livingston",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried. the candidate's OWN contribution to his campaign; the ledger types the filer's name 'Rudolf Livingston', the same spelling as the cover's block capitals"
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "3/1/2022",
+    "donor_raw": "Lexie Sakr",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "3/1/2022",
+    "donor_raw": "Marilyn Talbot",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "3/1/2022",
+    "donor_raw": "Aimee Wilcox",
+    "donor_city": "Salem",
+    "donor_state": "UT",
+    "amount": "35.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried. the address cell prints 'Salem UT 84653' with no comma between city and state"
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "3/1/2022",
+    "donor_raw": "Angela Thomas",
+    "donor_city": "Woodland",
+    "donor_state": "Ut",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried. state printed lower-case as 'Ut' by the filer; kept verbatim"
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "3/1/2022",
+    "donor_raw": "Robert Gardner",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "3/1/2022",
+    "donor_raw": "Glenn Robins",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "3/2/2022",
+    "donor_raw": "Joshua Wheeler",
+    "donor_city": "Ammon",
+    "donor_state": "ID",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "9",
+    "page": 4,
+    "row": 9,
+    "date": "3/2/2022",
+    "donor_raw": "Jeremy Clawson",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "10",
+    "page": 4,
+    "row": 10,
+    "date": "3/2/2022",
+    "donor_raw": "Katie Bahr",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "11",
+    "page": 4,
+    "row": 11,
+    "date": "3/2/2022",
+    "donor_raw": "Malissa Meeks",
+    "donor_city": "Clarksville",
+    "donor_state": "FL",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "12",
+    "page": 4,
+    "row": 12,
+    "date": "3/2/2022",
+    "donor_raw": "Rojelio Flores",
+    "donor_city": "Ojai",
+    "donor_state": "CA",
+    "amount": "40.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "13",
+    "page": 4,
+    "row": 13,
+    "date": "3/2/2022",
+    "donor_raw": "Al Balderas",
+    "donor_city": "Hacienda Heights",
+    "donor_state": "CA",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "14",
+    "page": 4,
+    "row": 14,
+    "date": "3/3/2022",
+    "donor_raw": "Monica Livingston",
+    "donor_city": "Sandimas",
+    "donor_state": "CA",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried. city printed 'Sandimas' (one word) by the filer; kept verbatim"
+   },
+   {
+    "line_no": "15",
+    "page": 4,
+    "row": 15,
+    "date": "3/3/2022",
+    "donor_raw": "Pamela Koons",
+    "donor_city": "Covina",
+    "donor_state": "CA",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "16",
+    "page": 4,
+    "row": 16,
+    "date": "3/4/2022",
+    "donor_raw": "Richard Livingston",
+    "donor_city": "McKinney",
+    "donor_state": "TX",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "17",
+    "page": 4,
+    "row": 17,
+    "date": "3/5/2022",
+    "donor_raw": "Francine Schaeffer",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "18",
+    "page": 4,
+    "row": 18,
+    "date": "3/5/2022",
+    "donor_raw": "Francis Longstaff",
+    "donor_city": "Ojai",
+    "donor_state": "CA",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "19",
+    "page": 4,
+    "row": 19,
+    "date": "3/12/2022",
+    "donor_raw": "Craig Bushman",
+    "donor_city": "Cedar Hills",
+    "donor_state": "UT",
+    "amount": "40.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "20",
+    "page": 4,
+    "row": 20,
+    "date": "3/12/2022",
+    "donor_raw": "Wenona Utter",
+    "donor_city": "Ojai",
+    "donor_state": "CA",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "21",
+    "page": 4,
+    "row": 21,
+    "date": "3/12/2022",
+    "donor_raw": "Juan Alejo",
+    "donor_city": "Oxnard",
+    "donor_state": "CA",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried. the address cell prints 'Oxnard CA 93033' with no comma between city and state"
+   },
+   {
+    "line_no": "22",
+    "page": 4,
+    "row": 22,
+    "date": "3/14/2022",
+    "donor_raw": "Jeanne Coen",
+    "donor_city": "Citrus Heights",
+    "donor_state": "CA",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   },
+   {
+    "line_no": "23",
+    "page": 4,
+    "row": 23,
+    "date": "3/14/2022",
+    "donor_raw": "Jim Livingston",
+    "donor_city": "American Fork",
+    "donor_state": "UT",
+    "amount": "120.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the street portion of the address cell is BLACKED OUT BY THE COUNTY (a redaction bar, upstream of this repo); the city/state/zip printed to the right of the bar are in the clear and only city/state are carried"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 6,
+    "row": 1,
+    "date": "3/1/2022",
+    "vendor_raw": "Utah County",
+    "purpose": "Candidate filing fee",
+    "amount": "658.32",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "typed own-ledger row; the ledger reproduces the county form's own Schedule B columns (Date / Provider/Vendor / Purpose / Amount), so PURPOSE is a real captured field here"
+   },
+   {
+    "line_no": "2",
+    "page": 6,
+    "row": 2,
+    "date": "3/10/2022",
+    "vendor_raw": "Just Yard Signs",
+    "purpose": "Advertising",
+    "amount": "490.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "typed own-ledger row; the ledger reproduces the county form's own Schedule B columns (Date / Provider/Vendor / Purpose / Amount), so PURPOSE is a real captured field here"
+   },
+   {
+    "line_no": "3",
+    "page": 6,
+    "row": 3,
+    "date": "3/11/2022",
+    "vendor_raw": "Braden Livingston",
+    "purpose": "Reimburse for Copies",
+    "amount": "148.81",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "typed own-ledger row; the ledger reproduces the county form's own Schedule B columns (Date / Provider/Vendor / Purpose / Amount), so PURPOSE is a real captured field here"
+   },
+   {
+    "line_no": "4",
+    "page": 6,
+    "row": 4,
+    "date": "3/18/2022",
+    "vendor_raw": "Twilio",
+    "purpose": "Text service",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "typed own-ledger row; the ledger reproduces the county form's own Schedule B columns (Date / Provider/Vendor / Purpose / Amount), so PURPOSE is a real captured field here"
+   },
+   {
+    "line_no": "5",
+    "page": 6,
+    "row": 5,
+    "date": "3/21/2022",
+    "vendor_raw": "Campaign Verify",
+    "purpose": "Campaign requstration",
+    "amount": "95.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "typed own-ledger row; the ledger reproduces the county form's own Schedule B columns (Date / Provider/Vendor / Purpose / Amount), so PURPOSE is a real captured field here. Purpose printed 'Campaign requstration' (the filer's own spelling); kept verbatim"
+   },
+   {
+    "line_no": "6",
+    "page": 6,
+    "row": 6,
+    "date": "3/26/2022",
+    "vendor_raw": "Twilio",
+    "purpose": "Text service",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "typed own-ledger row; the ledger reproduces the county form's own Schedule B columns (Date / Provider/Vendor / Purpose / Amount), so PURPOSE is a real captured field here"
+   },
+   {
+    "line_no": "7",
+    "page": 6,
+    "row": 7,
+    "date": "3/14/2022",
+    "vendor_raw": "Paypal",
+    "purpose": "Service charge",
+    "amount": "3.38",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "typed own-ledger row; the ledger reproduces the county form's own Schedule B columns (Date / Provider/Vendor / Purpose / Amount), so PURPOSE is a real captured field here. Rows 7 and 8 are dated OUT OF ASCENDING ORDER relative to rows 4-6 (3/14 and 3/12 after 3/26); kept verbatim, not reordered"
+   },
+   {
+    "line_no": "8",
+    "page": 6,
+    "row": 8,
+    "date": "3/12/2022",
+    "vendor_raw": "Paypal",
+    "purpose": "Service charge",
+    "amount": "1.21",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "typed own-ledger row; the ledger reproduces the county form's own Schedule B columns (Date / Provider/Vendor / Purpose / Amount), so PURPOSE is a real captured field here. Rows 7 and 8 are dated OUT OF ASCENDING ORDER relative to rows 4-6 (3/14 and 3/12 after 3/26); kept verbatim, not reordered"
+   },
+   {
+    "line_no": "9",
+    "page": 6,
+    "row": 9,
+    "date": "3/31/2022",
+    "vendor_raw": "Salt Lake Print & Mail",
+    "purpose": "Print & Mail post cards",
+    "amount": "837.78",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "typed own-ledger row; the ledger reproduces the county form's own Schedule B columns (Date / Provider/Vendor / Purpose / Amount), so PURPOSE is a real captured field here"
+   }
+  ],
+  "notes": "2022 modern_boxAF filing, 8 PDF pages, every one read full-page at 200 dpi and classified from its OWN printed header: p1 COVER; p2 SUMMARY PAGE (found at p2, NOT the last page the modern variant usually puts it on \u2014 located by content); p3 county Schedule A form, grid EMPTY except the banner 'SEE ATTACHED' handwritten on printed row 1; p4 the filer's attached TYPED Schedule A ledger (23 rows, own printed total 2,440.00), hand-foliated 'PAGE 3a'; p5 county Schedule B form, grid EMPTY except the same 'SEE ATTACHED' banner on printed row 1; p6 the attached TYPED Schedule B ledger (9 rows, own printed total 2,354.50), hand-foliated 'PAGE 4a'; p7 the CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST DECOY \u2014 the Website/Network/HOLD revision, two staff-signed review copies on one sheet (#1 in red ink dated '4/4/22', #2 in magenta dated '4/4/2022' — the second date crop-checked at 900 dpi, both digits the same open-top '4' this reviewer writes), zero dollar figures, born-digital clean; NOT a summary page; the Website / Network / HOLD boxes at its head are all UNTICKED;p8 a genuinely BLANK verso. THE BANNER 'SEE ATTACHED' IS AN ANNOTATION, NOT AN ENTRY \u2014 it publishes no row. The sides are nevertheless 'transcribed', not 'empty-schedule': what is missing on p3/p5 is the county's FORM grid being used, not the filer's entries (ADDENDUM A2/E5) \u2014 the entries are on pp4/6 and the county pages carry the matching printed subtotals. FORM: Schedule A columns are Date / Name of Contributor / Address and Zip Code / Amount with NO in-kind checkbox, the Summary's close box is UNLETTERED ('Balance at Close of Reporting Period (Box F - Box D)'), the cover offers FIVE report types, and the sheets foliate 'Date of Report / Page' 1,2,3,4 \u2014 i.e. the v.4.20-style carry-over blank of ADDENDUM J1, NOT the newer unversioned 2022 blank. Schedule B does print a real PURPOSE column and the attached ledger reproduces it, so purpose is captured on all 9 expenditure rows. PAGE FACE vs CHANNEL: the cover's Name of Candidate box is hand-printed 'RUDOLF LIVINGSTON' in block capitals and the affirmation line repeats 'RUDOLF LIVINGSTON'; index.csv carries the channel label 'Rudy Livingston'. THE PAGE FACE GOVERNS and the divergence is left visible. The Office box prints 'AUDITOR' (index: 'County Auditor'). REPORT TYPE: none of the five printed radio buttons is marked; the filer hand-wrote a tick and 'PRECEDING CONVENTION' in the margin to the right of '30 Days after the General Election'. Recorded as printed, adjudicated not at all (index reporting_period='Convention'). Amendment: 'No' is marked. Cover signature date 3/31/22; 'Date of Report' 4/1/22 on every sheet \u2014 an intra-document date difference, recorded, not resolved. SUMMARY LADDER: Box A is a SLASHED ZERO (the zero-glyph ruling -> 0), B 2,440.00, C 2,440.00, D 2354.50, E 2,354.50, F 2440.00, close 85.50 \u2014 and the ladder closes exactly (0 + 2440.00 = 2440.00; 2440.00 - 2354.50 = 85.50). PRIVACY: every donor address cell on p4 carries a COUNTY REDACTION BAR over its street portion with the city/state/zip printed in the clear beside it; only city and state are carried here, and no street fragment appears in any field or note. The expenditure ledger prints no address column at all. The filer's own name appears as donor row 1 (a 1,000.00 self-contribution). Nothing in this filing is an in-kind, a loan, a negative or an aggregate line."
+ }
+]

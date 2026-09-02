@@ -1,0 +1,99 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C16.json",
+ "key": "0126d700",
+ "index_path": "raw/2020/2020_cc_Marilyn_Meacham.pdf",
+ "applies_to": [
+  "raw/2020/2020_cc_Marilyn_Meacham.pdf",
+  "raw/2020/2020_st_Mecham_summary.pdf"
+ ],
+ "sha256_prefix": "47f677dc56bf245f",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A is an EMPTY SCHEDULE - the sheet carries no handwriting at all (heavy photocopy speckle only). Zero rows, a real zero, matching the cover's line-1 CUMULATIVE 0; the LAST and THIS cells of lines 1 and 2 are blank. Carr Form A prints no schedule total."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "112.75",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "112.75",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One Form B row, 112.75, equals the cover's line-3 CUMULATIVE cell 112.75, the only line-3 cell filled - so the rows are on the cumulative scope. Carr Form B prints no schedule total."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Form prints no schedule total or page subtotal. p2: empty schedule, cover line-1 CUM 0. p3: rows sum 112.75 = cover line-3 CUMULATIVE 112.75 - closes exactly.",
+  "row_count": "rowbands.py returns geometry_status 'gaps' on BOTH pages of this document (p2 n=33 with a 10.43->15.53 hole; p3 n=14, rules only at 23.43/25.47 then nothing until 67.38) - this is the heaviest-speckled scan in the chunk and the tool cannot hold the grid, so its output was NOT used as the oracle. Ink rows counted by eye at 200 dpi and confirmed by 600 dpi crops: p2 has ZERO inked writing lines; p3 has exactly ONE = 1 row emitted.",
+  "geometry_proof": "p3 600 dpi crop (x4180,y580,W800,H290) renders the 'Amount' header, its double rule and '112.75'; the control crop one row-pitch below (y870,H220) renders EMPTY (one printed rule in speckle, no ink); a third 600 dpi full-width crop of the band renders 'Cache County Clerk | filing fee' with an EMPTY date cell. Geometry is a DECLARED frame measured off these crops, not a rowbands measurement, because rowbands reported no reliable grid on this page.",
+  "balance_chain": "Cover line 4 CUMULATIVE reads 0 (LAST and THIS blank): contributions 0 - expenditures 112.75 = -112.75, so the chain does not close as a cash balance. Filer's figure, retained verbatim. CROSS-FILING CHAIN (two filings by one filer in one cycle): the earlier 10/28/2020 report (key 9798f547) carries CUMULATIVE 0 / 0 / 112.75 / 0 and this one carries the identical set; this report's line-3 TOTALS FROM LAST REPORT cell is BLANK, so the LAST-column chain cannot be tested - the cumulative figures agree at 112.75 and the pair is consistent."
+ },
+ "escalations": 4,
+ "escalation_note": "600 dpi tight crops: p3 row-1 amount cell (twice - the first crop clipped the glyph bottoms, re-cropped 90 px lower), p3 one-pitch control, p3 band-1 full width; plus a 400 dpi crop of the cover's Date/Signed line to read the date.",
+ "notes": "index.csv calls the candidate 'Marilyn Meacham', office 'County Council'; the cover reads 'Marilyn Mecham' (NO 'a' - the DOCUMENT spells the surname MECHAM, not Meacham as the index file has it), 'Name of Office: Cache County Coencel' (the filer's spelling of Council), 'Office District: North District' - office agrees, county office, in scope. ⚠ THIS DOCUMENT IS A PHOTOCOPY OF THE FILER'S EARLIER 10/28/2020 REPORT (key 9798f547) WITH THE DATE LINE REWRITTEN: the cover date reads 'Dec. 2, 2020', a fresh clerk stamp 'CLERK-DEC2'20PM2:52:50' sits at the top right, AND the earlier filing's own clerk stamp 'CLERK-OCT2?'20PM2:24:49' is reproduced at the bottom right - a stamp a genuinely new sheet could not carry. Every figure, the signature and the Form B row are pixel-for-pixel the October filing's. Transcribed on its own terms as a separate filing (the county holds it as one) and flagged here; the two records must NOT be summed as two separate 112.75 expenditures. Candidate street address, ZIP and home phone discarded at read time. A good calibration-specimen candidate for 'photocopied prior filing re-dated as a new report'.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "filing fee",
+   "amount": "112.75",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=none;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.20,8.90,11.10,3.00@p3",
+   "note": "The 'Date of Expenditure' cell is EMPTY on the page - date left blank with needs_review=1, never filled from the report date. Amount re-read at 600 dpi: 112.75 identical. This is the same physical row as key 9798f547 line 1 (photocopy - see notes). Carr Form B has no in-kind column."
+  }
+ ]
+}

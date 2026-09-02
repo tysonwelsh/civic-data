@@ -1,0 +1,187 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2020-06-27",
+   "vendor_raw": "JDC Consult",
+   "purpose": "Management / Door Hangers",
+   "amount": "3750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 0,
+   "geometry": "pct:9.83,25.58,83.06,3.85@p1",
+   "note": "whole dollars written '3750,' with a raised dash for the cents - this filer's no-cents convention, re-read at 1200 dpi; date written with a two-digit year ('6-27-20')"
+  },
+  {
+   "line_no": 2,
+   "date": "2020-06-27",
+   "vendor_raw": "Imagine Us",
+   "purpose": "PRINTING",
+   "amount": "1599.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=low",
+   "verified": 1,
+   "geometry": "pct:9.83,29.43,83.06,3.83@p1",
+   "note": "AMOUNT SETTLED BY THE PAGE'S OWN ARITHMETIC, NOT BY THE GLYPH. The ink reads '15.99,' with the filer's raised no-cents dash after it - the two are mutually contradictory, so the cell is genuinely ambiguous between 15.99 and 1599.00. The printed page subtotal decides it: the other six rows' cents (.00 .20 .92 .00 .61 .55) can only reach the printed subtotal's .28 if THIS row ends .00, and at 1599.00 the seven rows sum to 9,533.28 exactly = the printed subtotal = the printed grand total = Summary line 2. Under the naive 15.99 reading the page is $1,589.01 short. Re-read at 1200 dpi; the filer's own '3750,'-plus-dash row was used as the convention exemplar. A human should confirm.; date written with a two-digit year ('6-27-20')"
+  },
+  {
+   "line_no": 3,
+   "date": "2020-06-27",
+   "vendor_raw": "Seagull Print",
+   "purpose": "PRINTING",
+   "amount": "2016.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 0,
+   "geometry": "pct:9.83,33.25,83.06,3.87@p1",
+   "note": "cents '20' written as a superscript over a rule; date written with a two-digit year ('6-27-20')"
+  },
+  {
+   "line_no": 4,
+   "date": "2020-06-30",
+   "vendor_raw": "JDC Consult",
+   "purpose": "Market & Adv Exp",
+   "amount": "470.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 0,
+   "geometry": "pct:9.83,37.12,83.06,3.87@p1",
+   "note": "cents '92' written as a superscript over a rule; re-read at 1200 dpi; date written with a two-digit year ('6-27-20')"
+  },
+  {
+   "line_no": 5,
+   "date": "2020-07-03",
+   "vendor_raw": "JDC Consult",
+   "purpose": "Manage & Web",
+   "amount": "1200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 0,
+   "geometry": "pct:9.83,40.99,83.06,3.85@p1",
+   "note": "whole dollars written '1200,' with a raised dash for the cents; date written with a two-digit year ('6-27-20')"
+  },
+  {
+   "line_no": 6,
+   "date": "2020-07-04",
+   "vendor_raw": "Office Max",
+   "purpose": "Replace Off Sup",
+   "amount": "238.61",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=low",
+   "verified": 1,
+   "geometry": "pct:9.83,44.84,83.06,3.85@p1",
+   "note": "the middle dollar digit is OVERWRITTEN by the filer and is ambiguous on the page (2 / 5 / 8); re-read at 1200 dpi and still ambiguous. The page's printed subtotal settles it at 238.61 (with row 2 at 1599.00 the seven rows sum to 9,533.28 exactly). Cents '.61' are clear.; date written with a two-digit year ('6-27-20')"
+  },
+  {
+   "line_no": 7,
+   "date": "2020-09-08",
+   "vendor_raw": "SLCo Clerks Off",
+   "purpose": "WRITE IN FILING FEE",
+   "amount": "258.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=medium",
+   "verified": 0,
+   "geometry": "pct:9.83,48.69,83.06,3.85@p1",
+   "note": "date written with a two-digit year ('6-27-20')"
+  }
+ ],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Burdick",
+  "party": "",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9-15-20",
+  "form_year": ""
+ },
+ "confidence": {},
+ "_meta": {
+  "index_path": "raw/globalassets/2020_disclosures__september__burdick-fin-report-3.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Burdick",
+  "office": "County Council",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/2020_disclosures__september__burdick-fin-report-3.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "PARTNER: `raw/globalassets/2020_disclosures__september__amendment-burdick-fin-report-9-15-20_redacted.pdf` (cache key 8cabeed7), same report date 9-15-20, same last name in the page header. \u26a0 THE PAIR IS NOT A SPLIT FILING. This bare sheet is a SECOND SCAN OF THE PARTNER'S OWN SCHEDULE B PAGE, not a missing second half: identical 7 rows, identical dates, vendors and amounts, identical printed subtotal 9,533.28 and grand total 9,533.28, identical stray diagonal pencil line across the empty grid. The two scans are not byte-identical (embedded images 1654x2170 vs 1654x2171, 582K vs 591K; detected rule geometry differs by ~0.15% of page height), so they are two passes over one physical sheet. OBSERVATION, NOT A RECONCILIATION: the partner's Summary Page line 2 Column A prints 9,533.28, which equals this page's row sum and this page's own printed grand total - reported here only as an observation, because comparing a figure from one document against rows in another is not this document's arithmetic. No figure, total or cover field has been copied from the partner: this record's cover is empty except the page header's last name and Date of Report, and its stated totals are null by non-existence. A downstream consumer MUST NOT sum this record with the partner - that would double-count $9,533.28 of expenditures. The page header's 'Page _ of _' boxes carry only slashes, no page numbers. There is no Schedule A page and no cover in this PDF, so the candidate's office/party/district are unknown from the document itself (index.csv's 'County Council District 6' comes from the clerk listing, not from this page).",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "1",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "THE DOCUMENT HAS NO SCHEDULE A PAGE AND NO SUMMARY PAGE - it is a single Schedule B sheet. Non-existence, not a zero, and no stated figure exists in this document to reconcile against."
+    },
+    "expenditures": {
+     "stated": "",
+     "schedule_total": "9533.28",
+     "itemized": "9533.28",
+     "basis": "schedule-grand-total",
+     "result": "exact",
+     "detail": "this page prints its own SUBTOTAL FOR THIS PAGE 9,533.28 and TOTAL EXPENDITUTRES MADE 9,533.28, and the seven transcribed rows sum to exactly that - so the page closes against its own printed anchor, with no figure borrowed from any other document. `stated` is deliberately BLANK: this PDF contains no Summary Page. (Rows 2 and 6 carry arithmetic-settled glyph readings - see their notes.)"
+    }
+   },
+   "page_subtotal_gates": "p1 rows 9533.28 = printed subtotal 9,533.28 = printed grand total (exact), under the settled readings of rows 2 (1599.00) and 6 (238.61); the naive glyph readings would leave the page $1,589.01 short.",
+   "escalations": 4,
+   "escalation_note": "amount column rows 1, 2, 4-5 and 6 at 1200 dpi on this file",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 7,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PARTNER: `raw/globalassets/2020_disclosures__september__amendment-burdick-fin-report-9-15-20_redacted.pdf` (cache key 8cabeed7), same report date 9-15-20, same last name in the page header. \u26a0 THE PAIR IS NOT A SPLIT FILING. This bare sheet is a SECOND SCAN OF THE PARTNER'S OWN SCHEDULE B PAGE, not a missing second half: identical 7 rows, identical dates, vendors and amounts, identical printed subtotal 9,533.28 and grand total 9,533.28, identical stray diagonal pencil line across the empty grid. The two scans are not byte-identical (embedded images 1654x2170 vs 1654x2171, 582K vs 591K; detected rule geometry differs by ~0.15% of page height), so they are two passes over one physical sheet. OBSERVATION, NOT A RECONCILIATION: the partner's Summary Page line 2 Column A prints 9,533.28, which equals this page's row sum and this page's own printed grand total - reported here only as an observation, because comparing a figure from one document against rows in another is not this document's arithmetic. No figure, total or cover field has been copied from the partner: this record's cover is empty except the page header's last name and Date of Report, and its stated totals are null by non-existence. A downstream consumer MUST NOT sum this record with the partner - that would double-count $9,533.28 of expenditures. The page header's 'Page _ of _' boxes carry only slashes, no page numbers. There is no Schedule A page and no cover in this PDF, so the candidate's office/party/district are unknown from the document itself (index.csv's 'County Council District 6' comes from the clerk listing, not from this page)."
+  }
+ }
+}

@@ -1,0 +1,249 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W09.json",
+ "key": "98a98725",
+ "index_path": "raw/live_wp/2018-Victor-Iverson.pdf",
+ "applies_to": [
+  "raw/live_wp/2018-Victor-Iverson.pdf"
+ ],
+ "sha256_prefix": "2fc2ec6f2c3c84fa",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "second-report-cover",
+  "5": "form-A",
+  "6": "form-B"
+ },
+ "n_reports_in_pdf": 2,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "bundle: p2 county-grid (report 1) + p5 gen1-carr-ruled (report 2, blank)",
+  "expenditures": "bundle: p3 county-grid (report 1) + p6 gen1-carr-ruled (report 2, blank)"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "1,195 84",
+    "cover_le50_this": "",
+    "cover_le50_cum": "0",
+    "schedule_total": "1,195 84"
+   },
+   "itemized": "1195.84",
+   "basis": "schedule-total==cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Report 1 (pp.1-3, the Gen-2 county-branded form). ONE inked row on Form A (p2), 1,195.84, equals the printed TOTAL at the foot of Form A (1,195 with superscript 84) AND the cover line-1 CUMULATIVE cell. The LAST and THIS cells on line 1 are both blank, so cumulative is the only numeric anchor; the certified period begins 1/1/2018, i.e. this is the first report of the cycle, so the period and cumulative scopes coincide. Cover line 1's cumulative cell carries a heavily scribbled-out false start immediately before the figure - a struck-through attempt, not a second value. Cover line 2 (sub-$50 aggregate) cumulative is a slashed-zero glyph = 0, so no small-donor aggregate competes and the sub-$50 trap does not bite here."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "1,195 84",
+    "cover_balance_end": "1,195 84",
+    "schedule_total": "1,195 84"
+   },
+   "itemized": "1195.84",
+   "basis": "schedule-total==cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Five inked rows on Form B (p3) sum to EXACTLY 1,195.84 = the printed TOTAL 1,195(84) = cover line-3 CUMULATIVE. ** THE ARITHMETIC SETTLED A GLYPH HERE. ** Row 3 and row 4 both end in a bistable superscript cents pair; read alone, row 3 could be 215.42 and row 4 90.92 or 90.42. Only 527.00 + 262.50 + 215.92 + 90.42 + 100.00 closes on the printed 1,195.84 (215.42 would leave a 0.50 hole). The 1200 dpi cell re-read agrees with what the arithmetic requires. First report of the cycle, so scopes coincide."
+  }
+ },
+ "recon_by_report": [
+  {
+   "report_no": 1,
+   "pages": "1-3",
+   "report_date": "2018-06-19",
+   "period": "1/1/2018 to 6/19/2018",
+   "form_generation": "Generation 2 (county-branded, Washington County Code 1-7-1)",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "",
+     "cover_over50_this": "",
+     "cover_over50_cum": "1,195 84",
+     "cover_le50_this": "",
+     "cover_le50_cum": "0",
+     "schedule_total": "1,195 84"
+    },
+    "itemized": "1195.84",
+    "basis": "schedule-total==cover-line1-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "Report 1 (pp.1-3, the Gen-2 county-branded form). ONE inked row on Form A (p2), 1,195.84, equals the printed TOTAL at the foot of Form A (1,195 with superscript 84) AND the cover line-1 CUMULATIVE cell. The LAST and THIS cells on line 1 are both blank, so cumulative is the only numeric anchor; the certified period begins 1/1/2018, i.e. this is the first report of the cycle, so the period and cumulative scopes coincide. Cover line 1's cumulative cell carries a heavily scribbled-out false start immediately before the figure - a struck-through attempt, not a second value. Cover line 2 (sub-$50 aggregate) cumulative is a slashed-zero glyph = 0, so no small-donor aggregate competes and the sub-$50 trap does not bite here."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "",
+     "cover_expense_this": "",
+     "cover_expense_cum": "1,195 84",
+     "cover_balance_end": "1,195 84",
+     "schedule_total": "1,195 84"
+    },
+    "itemized": "1195.84",
+    "basis": "schedule-total==cover-line3-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "Five inked rows on Form B (p3) sum to EXACTLY 1,195.84 = the printed TOTAL 1,195(84) = cover line-3 CUMULATIVE. ** THE ARITHMETIC SETTLED A GLYPH HERE. ** Row 3 and row 4 both end in a bistable superscript cents pair; read alone, row 3 could be 215.42 and row 4 90.92 or 90.42. Only 527.00 + 262.50 + 215.92 + 90.42 + 100.00 closes on the printed 1,195.84 (215.42 would leave a 0.50 hole). The 1200 dpi cell re-read agrees with what the arithmetic requires. First report of the cycle, so scopes coincide."
+   }
+  },
+  {
+   "report_no": 2,
+   "pages": "4-6",
+   "report_date": "2018-10-30",
+   "period": "not stated - the Gen-1 form has no period line at all (a form-generation property, not a lost crop)",
+   "form_generation": "Generation 1 (Carr Printing 5-5-PG, cites Utah Code 17-16-6.5)",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "1,195 84",
+     "cover_over50_this": "0",
+     "cover_over50_cum": "1,195",
+     "cover_le50_this": "",
+     "cover_le50_cum": "",
+     "schedule_total": null
+    },
+    "itemized": "0.00",
+    "basis": "cover-line1-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "Report 2 (pp.4-6, the Gen-1 Carr Printing 5-5-PG form). Form A (p5) is entirely BLANK - an ink projection across the whole grid returns only the 37 printed rules and no handwriting at all. Zero rows, an honest empty schedule. The cover's line-1 THIS REPORT cell holds a slashed-zero glyph = 0, which the zero rows match EXACTLY, so this side is scored on the per-period cell: scope 'period', a DIFFERENT scope from the cumulative figure the module publishes. The Gen-1 form prints no schedule total at all (the sheet ends with the 'use blank paper' note), hence schedule_total null - not zero. Note the filer wrote the CUMULATIVE cell as a bare '1,195' with NO cents, where the LAST cell has the full '1,195 84'; both kept verbatim."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "",
+     "cover_expense_this": "",
+     "cover_expense_cum": "",
+     "cover_balance_end": "",
+     "schedule_total": null
+    },
+    "itemized": "0.00",
+    "basis": "blank-schedule; every line-3 cell left blank",
+    "result": "unknown",
+    "scope": "unknown",
+    "detail": "Report 2's Form B (p6) is likewise entirely BLANK (ink projection returns only the 37 printed rules), so zero rows - an honest empty schedule. But report 2's cover leaves line 3 (total campaign expenses) BLANK in all three columns, and the Gen-1 form prints no schedule total, so there is no printed figure of any scope to score against. Result 'unknown' rather than a manufactured zero: an empty cell is BLANK, never 0."
+   }
+  }
+ ],
+ "gates": {
+  "page_subtotal": "Report 1: p2 rows 1,195.84 = printed Form A TOTAL 1,195(84) - exact. p3 rows 527.00+262.50+215.92+90.42+100.00 = 1,195.84 = printed Form B TOTAL 1,195(84) - exact, and this is the gate that decided two ambiguous superscript cents pairs. Report 2: the Gen-1 sheets print NO schedule total at all, so no page gate exists there; p5 and p6 are both provably blank, and p5 is gated instead against the cover's line-1 THIS cell (slashed zero = 0).",
+  "row_count": "rowbands.py not used as an oracle (these are Gen-1 ruled sheets and a skewed Gen-2 grid). Independent check by ink projection at 200 dpi: p5 returns 37 bands, ALL thin (h 0.45-0.68 pct) = printed rules only, zero handwriting; p6 returns 37 bands, all thin (h 0.23-0.68) = printed rules only. p2 and p3 counted by eye against the ruled grid and confirmed in the 600 dpi amount-column crops: p2 has 1 inked row of ~40, p3 has 5 inked rows of ~40, matching the 1 and 5 rows emitted.",
+  "geometry_proof": "p2: the row-1 amount box pct:73.00,14.50,14.00,1.90 renders '$ 1,195 84'; the control one pitch below renders a bare '$' (an empty grid row), no data. p3: the row-1 box renders '$ 527 00', the row-5 box renders '$ 100 00', and the control one pitch below row 5 renders a bare '$', no data. No geometry is claimed for p5/p6 - zero rows there.",
+  "balance_chain": "** TWO chains run, and one of them catches a filer error. ** (1) WITHIN report 1: 0 (no prior) + 1,195.84 contributions - 1,195.84 expenses = 0, but the filer wrote 1,195.84 in the line-4 balance CUMULATIVE cell. The balance line does NOT close: it appears the filer copied line 3's figure down. Retained verbatim as 'cover_balance_end':'1,195 84'; NOT recomputed. (2) ACROSS the two stapled reports (the check only a bundle can run): report 1's line-1 CUMULATIVE 1,195.84 chains to report 2's line-1 'TOTALS FROM LAST REPORT' 1,195.84 - CLOSES EXACTLY, which is positive evidence the two covers are correctly paired and in the right order."
+ },
+ "escalations": 11,
+ "escalation_note": "p3 amount column, date column, vendor column and purpose column each re-rendered at 600 dpi; p3 rows 3, 4 and 5 date cells re-rendered at 1200 dpi (a cursive 2 that reads as a 'b' on row 3, and the row-4/row-5 day digits); p3 TOTAL cell at 600 dpi; p2 row 1 and p2 TOTAL at 600 dpi; both covers' money blocks at 500 dpi; five 600 dpi geometry-proof crops.",
+ "notes": "** BUNDLE: this ONE PDF staples TWO reports, and they are on TWO DIFFERENT FORM GENERATIONS. ** Report 1 (pp.1-3) is the Generation-2 county-branded form for the period 1/1/2018-6/19/2018, signed 6/19/2018, RECEIVED stamp JUN 19 2018. Report 2 (pp.4-6) is the OLDER Generation-1 Carr Printing 5-5-PG form, signed 10/30/2018, RECEIVED stamp OCT 30 2018 - the filer used an obsolete blank for the later report, so page order is chronological even though the form generation runs backwards. n_reports_in_pdf 2 AGREES with the chunk file's n_reports=2. Report 2 has no period line and no political-party entry; the missing period line is a Gen-1 form property (that generation has no such field), not a lost crop. Both covers name the office identically - report 1's 'Office' line and report 2's 'Name of Office' line both read 'Washington County Commission Seat B', agreeing with the chunk file's 'Commission Seat B'; candidate 'Victor Moses Iverson' agrees. Report 2's Gen-1 PDF slice is 3 pages (pp.4-6) with no statute page. The candidate's street address, city, ZIP, home phone and business phone are printed in the clear on BOTH covers and were discarded at read time; the single Form A row is a self-contribution whose address cell holds a street line and ZIP only (no city, no state), also discarded. The only contribution in the whole bundle is the candidate funding his own campaign, and every dollar of it was spent - which is why contributions and expenses are the same figure. Not a duplicate of any other document in this chunk (doc 9184fe0c is a different candidate's 6/19/2018 filing).",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-01-01",
+   "donor_raw": "Victor Iverson",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1,195.84",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.00,14.50,14.00,1.90@p2",
+   "note": "Self-contribution by the filing candidate (cover name 'Victor Moses Iverson'; ledger name written 'Victor Iverson'). Amount written as '1,195' with the cents '84' as a superscript over a short rule; transcribed with a decimal point per the currency convention. The address cell holds a street line and a ZIP only - NO city and NO state are printed - so both are honestly blank, and the street/ZIP were discarded at read time. The Gen-2 form's 'In Kind?' column was left BLANK on this row; a blank is not an N, so in_kind is false only in the sense that the form does not mark it."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-03-09",
+   "vendor_raw": "Washington County",
+   "purpose": "Filing Fee",
+   "amount": "527.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.00,14.30,14.00,1.85@p3",
+   "note": "Cents written as a superscript '00' over a rule; transcribed with a decimal point. Vendor written with a capitalised 'WAshington'."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2018-02-26",
+   "vendor_raw": "911 Pens",
+   "purpose": "Campaign Materials",
+   "amount": "262.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.00,16.20,14.00,1.85@p3",
+   "note": "Vendor glyphs read '911 PENS' (the word in mixed caps); superscript cents '50'."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2018-02-26",
+   "vendor_raw": "Bayside Candy",
+   "purpose": "Candy for Convention",
+   "amount": "215.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.00,17.85,14.00,1.85@p3",
+   "note": "Date leading digit is the filer's cursive 2, which reads as a 'b' at low resolution; re-read at 1200 dpi and matched against the identically formed 2 on line 2 - 2/26/18. Superscript cents read '92', and the schedule total confirms it: 42 would leave the printed 1,195.84 half a dollar short."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2018-04-12",
+   "vendor_raw": "Steamrollers",
+   "purpose": "Campaign Flyers",
+   "amount": "90.42",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.00,19.65,14.00,1.85@p3",
+   "note": "Vendor is cursive and joined; the legible glyph string is 'SteAmRollers' - transcribed 'Steamrollers' at low cell confidence, NOT normalised to any real trading name. Superscript cents '42', confirmed by the schedule total."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2018-04-14",
+   "vendor_raw": "Washington GOP",
+   "purpose": "Table for Convention",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:73.00,21.45,14.00,1.85@p3",
+   "note": "Vendor written 'WAshington GoP'; superscript cents '00'. Form B on the Gen-2 sheet has no in-kind column and the purpose carries no in-kind label."
+  }
+ ]
+}

@@ -445,6 +445,16 @@ class ContribRow:
     # existing (non-positional) city file keeps its exact historical header. Never a value —
     # a provenance pointer, so a mis-columned read is auditable without re-reading the PDF.
     geometry: str = ""
+    # donor_occupation — TRAILING, OPTIONAL, ADDITIVE (2026-08-23, OWNER DECISION 2026-08-20).
+    # Salt Lake County's 2015-2021 Schedule A pre-prints an **Occupation/Employer** column that
+    # the row model had no home for; rather than discard a field the form publishes, it is
+    # captured here VERBATIM as the filer wrote it ("RETIRED", "PAC", "BUSINESS OWNER",
+    # "self-employed", "unknown"). Same trailing-optional contract as `geometry`: the header is
+    # emitted only where at least one row carries a value, so every other CF dataset's CSV keeps
+    # its exact historical header. It is NOT a normalized vocabulary and NOT an address — a
+    # street address is discarded at read time exactly as PRIVACY.md requires, and a cell the
+    # county's redaction bar covers is blank with the reason in the row note.
+    donor_occupation: str = ""
 
 
 @dataclass
@@ -505,15 +515,23 @@ class FilingTotals:
     filing_regime: str = ""
 
 
-# The CANONICAL headers exclude the optional trailing `geometry` column, so they are byte-for-byte
-# what every city has always written. `*_HEADER_GEO` is the same list + `geometry`; `driver._write`
+# The CANONICAL headers exclude the optional trailing columns, so they are byte-for-byte what
+# every city has always written. `*_HEADER_GEO` is the same list + `geometry`; `driver._write`
 # selects it only when a row actually carries geometry, and `validate_finance.py` accepts either.
 # (Same trailing-optional-column contract as `filing_totals.filing_regime`.)
+#
+# contributions.csv has TWO optional trailing columns since 2026-08-23, in this fixed order:
+# `geometry`, then `donor_occupation`. A dataset emits the PREFIX of that list its rows actually
+# populate, so the three live shapes are: base / base+geometry / base+geometry+donor_occupation.
 GEOMETRY_COL = "geometry"
-CONTRIB_HEADER = [f.name for f in fields(ContribRow) if f.name != GEOMETRY_COL]
+OCCUPATION_COL = "donor_occupation"
+CONTRIB_OPTIONAL_TRAILING = [GEOMETRY_COL, OCCUPATION_COL]
+CONTRIB_HEADER = [f.name for f in fields(ContribRow)
+                  if f.name not in CONTRIB_OPTIONAL_TRAILING]
 EXPEND_HEADER = [f.name for f in fields(ExpendRow) if f.name != GEOMETRY_COL]
 TOTALS_HEADER = [f.name for f in fields(FilingTotals)]
 CONTRIB_HEADER_GEO = CONTRIB_HEADER + [GEOMETRY_COL]
+CONTRIB_HEADER_GEO_OCC = CONTRIB_HEADER + CONTRIB_OPTIONAL_TRAILING
 EXPEND_HEADER_GEO = EXPEND_HEADER + [GEOMETRY_COL]
 
 
@@ -525,11 +543,115 @@ def money_str(v):
 
 
 def row_to_dict(row):
-    """Row -> dict for the CSV writers. The optional trailing `geometry` key is OMITTED when it
-    is blank, so a caller writing the canonical (geometry-less) header — provo's inline writer,
-    salt_lake_county's module-local writer, and the driver for every city — passes an exactly
-    historical dict to `csv.DictWriter` and needs no change."""
+    """Row -> dict for the CSV writers. An optional TRAILING key is OMITTED when it is blank, so
+    a caller writing the canonical header — provo's inline writer, salt_lake_county's
+    module-local writer, and the driver for every city — passes an exactly historical dict to
+    `csv.DictWriter` and needs no change.
+
+    The optional keys are `geometry` (2026-08-02) and `donor_occupation` (2026-08-23). Adding a
+    field to the dataclass WITHOUT dropping it here is a real break, not a theoretical one:
+    provo's writer passes the whole dict against `CONTRIB_HEADER` and `csv.DictWriter` raises
+    `dict contains fields not in fieldnames` — which is exactly what the first cut of the
+    occupation change did, and how this line came to cover both."""
     d = asdict(row)
-    if GEOMETRY_COL in d and not d[GEOMETRY_COL]:
-        del d[GEOMETRY_COL]
+    for col in (GEOMETRY_COL, OCCUPATION_COL):
+        if col in d and not d[col]:
+            del d[col]
     return d
+
+
+# ---------------------------------------------------------------------------------------
+# VISION-CELL AMOUNTS (Phase B final wave, 2026-08-23)
+#
+# A transcriber reading a HANDWRITTEN cell renders what the pen actually did, and the county
+# forms of the 2006-2020 era carry three conventions that no text-layer parser ever had to meet.
+# Each one below was found on a real page of this wave's queue, and each is settled by the
+# document's OWN ARITHMETIC, never by this function guessing:
+#
+#   * SUPERSCRIPT CENTS over a rule -- `360.⁰⁰`, `52.8²`, `916.²⁴`. The whole convention is that
+#     the cents ride above the line; the transcriber preserved the glyphs.
+#   * SPACE-SEPARATED CENTS with no decimal point -- `63 75`, `29 75`.
+#     ⚠ THIS IS THE DANGEROUS ONE. A naive reader that strips spaces (as several module-local
+#     `dec()`/`money()` helpers do, for the genuine thousands-space `2 844.02`) turns `63 75`
+#     into **6375** -- a 100x FABRICATION, the same class as the decimal-comma hazard the
+#     `slco-decimal-comma` calibration specimen screens for. The two are told apart by GROUP
+#     LENGTH and nothing else: a 3-digit group after the space is a THOUSANDS separator, a
+#     2-digit group is CENTS.
+#   * A DASH IN THE CENTS POSITION -- `200 —`, `1,000.-`, `326-`: whole dollars, no cents.
+#
+# Proof this is reading and not repair, on `washington_county/.../2006-David-Whitehead.pdf`:
+# 360.00 + 50.00 + 63.75 + 53.77 + 52.82 + 184.47 + 29.75 + 115.80 + 5.88 = **916.24**, which is
+# exactly the figure printed in that schedule's TOTAL cell and on the cover's line 3. Under the
+# naive space-stripping reading the same page sums to 9,228.49 and closes against nothing.
+#
+# Anything this function cannot make unambiguous returns None and STAYS BLANK -- it never
+# repairs a malformed decimal (`23,744,71`, `23.744.71`), and the caller marks the row.
+_SUPERSCRIPT = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹₀₁₂₃₄₅₆₇₈₉", "01234567890123456789")
+_DASHES = "-‐‑‒–—―−"
+_CENTS_SPACE = re.compile(r"^(-?\d[\d,]*)\s+(\d{2})$")
+_NIL_CENTS = re.compile(r"^(\d[\d,]*)\s*(?:\.\s*)?(?:[" + _DASHES + r"]|\.)$")
+_THOUSANDS_SPACE = re.compile(r"^\d{1,3}(?: \d{3})+(?:\.\d{1,2})?$")
+
+
+def parse_vision_amount(printed):
+    """A VERBATIM handwritten-cell amount -> (Decimal|None, note_or_reason).
+
+    The note names every convention applied, so a normalized value is always auditable
+    (SCHEMA §6: a repaired value is marked). Returns (None, reason) when the cell is not
+    unambiguously a number — it is then BLANK, and the caller marks the row needs_review.
+
+    ⚠ THE ACCEPTED FORMS ARE AN EXPLICIT WHITELIST, and `repair_money_line` is deliberately NOT
+    delegated to. That helper repairs any `$`-prefixed token, so prefixing a bare filer cell with
+    `$` to reuse it would silently "fix" `23,744,71` and `23.744.71` into 23744.71 — the exact
+    values the `utah-malformed-decimal` calibration specimen requires to stay BLANK. A malformed
+    decimal is never repaired here and never has a clean prefix lifted out of it.
+    """
+    from decimal import Decimal
+    if printed is None or str(printed).strip() == "":
+        return None, ""
+    raw = str(printed).strip()
+    t = raw.translate(_SUPERSCRIPT)
+    applied = ["superscript cents read as cents"] if t != raw else []
+
+    neg = False
+    if t.startswith("<") and t.endswith(">"):          # <666.24> — an angle-bracket negative
+        neg, t = True, t[1:-1].strip()
+        applied.append("angle-bracket negative")
+    t = t.replace("$", "").strip()
+    if t.startswith("(") and t.endswith(")"):          # accounting parentheses
+        neg, t = True, t[1:-1].strip()
+    if t.startswith("-"):
+        neg, t = True, t[1:].strip()
+
+    m = _NIL_CENTS.match(t)
+    if m:                                             # `200 —`, `1,000.-`, `326-`, `7,200.`
+        t = m.group(1)
+        applied.append("dash/point in the cents position = whole dollars, no cents")
+    else:
+        m = _CENTS_SPACE.match(t)
+        if m:
+            # A 2-digit group after a space is CENTS (`63 75`). A 3-DIGIT group is a THOUSANDS
+            # separator (`2 844.02`) and is handled below — telling them apart by GROUP LENGTH is
+            # the whole safeguard against a 100x fabrication.
+            t = "%s.%s" % (m.group(1), m.group(2))
+            applied.append("space-separated cents (2-digit group) read as cents, NOT thousands")
+        elif _THOUSANDS_SPACE.match(t):
+            t = t.replace(" ", "")
+            applied.append("space-separated thousands (3-digit groups) closed up")
+
+    # ---- the accepted numeric forms, in order. Anything else is UNPARSEABLE.
+    if re.fullmatch(r"\d{1,3}(,\d{3})*(\.\d{1,2})?", t):        # 1,694.09 / 2,500 / 43.20
+        body = t.replace(",", "")
+    elif re.fullmatch(r"\d+(\.\d{1,2})?", t):                   # 916.24 / 360
+        body = t
+    elif re.fullmatch(r"\d+,\d{2}", t):                         # 300,00 — the DECIMAL COMMA
+        body = t.replace(",", ".")
+        applied.append("whitelisted decimal-comma repair")
+    elif re.fullmatch(r"\d{1,3}(\.\d{3})+", t):                 # 7.425 — dot-as-thousands
+        body = t.replace(".", "")
+        applied.append("whitelisted dot-as-thousands repair")
+    else:
+        return None, "unparseable as printed (%r) — left BLANK, never repaired" % raw
+
+    v = Decimal(body)
+    return (-v if neg else v), "; ".join(applied)

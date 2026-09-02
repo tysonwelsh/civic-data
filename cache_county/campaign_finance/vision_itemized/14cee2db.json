@@ -1,0 +1,113 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C13.json",
+ "key": "14cee2db",
+ "index_path": "raw/2018/2018_cc_James_M_Swink.pdf",
+ "applies_to": [
+  "raw/2018/2018_cc_James_M_Swink.pdf",
+  "raw/2018/2018_st_Swink_James_Matthew.pdf"
+ ],
+ "sha256_prefix": "638b66029a7ed204",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) carries the filer's hand-written 'NO CONTRIBUTIONS' on the first writing line and no other ink -- EMPTY SCHEDULE, zero rows. All three line-1 cells carry a slashed-zero glyph, which the repo-wide zero-glyph ruling reads as 0 (verbatim glyph is a slashed O). THIS and CUMULATIVE are both 0, so the two scopes coincide; recorded as cumulative. Line 2 (<=$50 aggregate) is also 0 in all three cells and is never itemized. No schedule total is printed on the Carr form."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "614.81 / 223.75 (TWO figures stacked in the single LAST-REPORT cell)",
+    "cover_expense_this": "",
+    "cover_expense_cum": "838.56",
+    "cover_balance_end": "838.56 (the cell holds the filer's worked addition 223.75 + 614.81 = 838.56, double-underlined)",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "838.56",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "p3 rows 614,81 + 223.75 = 838.56 = the line-3 CUMULATIVE cell (838.56). Cover-cell disagreements retained verbatim rather than resolved: (a) the line-3 TOTALS FROM LAST REPORT cell holds BOTH 614.81 (written above the rule) and 223.75 (on the rule) -- the filer used the LAST column as a scratch list even though this is the FIRST report of the cycle and the TOTALS FOR THIS REPORT cell is blank; (b) the line-3 CUMULATIVE cell has '223.75' written and then struck out with two diagonal strokes, with '838.56' written above it -- 838.56 is the operative figure. Both figures are reported here; neither was picked silently."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints no schedule total and no page subtotal -- honestly none. p3 rows-sum 614,81+223.75 = 838.56 gates exactly against the cover line-3 CUMULATIVE cell (838.56) and against the balance-line addition the filer worked on the cover. Form A: empty schedule, cover line 1 = 0.",
+  "row_count": "rowbands.py p3: geometry_status 'gaps', 34 bands, amount column x 82.07-92.55. Band 1 (y=9.84) is row 1; band 2 (y=12.24, h=5.02) is a MERGED band -- the tool dropped the rule at ~14.7% -- whose upper half is row 2. Only those two are inked; everything below renders empty. 2 rows emitted = 2 inked rows counted by eye against the ink, as the brief requires (the tool's band count alone would have been misleading here).",
+  "geometry_proof": "p3 amount-cell crops at 1200 dpi: first row's box renders '614,81'; last (2nd) row's box renders '223.75'; the control box one row-pitch below the last row renders EMPTY. Form A has no rows to place.",
+  "balance_chain": "Cover line 4 (balance): LAST blank, THIS blank, CUMULATIVE cell holds the filer's worked sum 223.75 + 614.81 = 838.56 (double-underlined). Read as a balance it does not close -- beginning 0 + contributions 0 - expenditures 838.56 = -838.56, not +838.56; the filer used the balance cell as scratch arithmetic for the expense total. FILER arithmetic, retained verbatim. CROSS-FILING CHAIN (same filer, same cycle, both filings in this chunk): this 10/29/18 interim's line-3 CUMULATIVE 838.56 equals the 2018-12-06 summary's (key 40a864b2) line-3 TOTALS FROM LAST REPORT 838.56 -- chains exactly, and the two Form B row sets are identical, so the summary restates rather than adds. No swapped-cover pair."
+ },
+ "escalations": 3,
+ "escalation_note": "p3 amount column 1200 dpi crops x2 (row 1 and row 2 + control): row 1's decimal separator is unmistakably a COMMA with a downward tail ('614,81'); row 2's separator is a small round mark read as a period. p1 cover totals block at 600 dpi (settled which column each figure sits in and that the CUMULATIVE 223.75 is struck out under an overwritten 838.56).",
+ "notes": "DOCUMENT vs CHUNK FILE: index.csv dates this filing 2018-10-30; the cover's signature date reads '10/29/18'. The right margin carries the clerk's received stamp 'CLERK-OCT30'18AM9:53:51', which is presumably where the index date comes from -- the FORM says 10/29/18 and the form governs. Candidate/office agree: index 'James M Swink' / 'County Attorney'; the cover reads JAMES MATTHEW SWINK and 'Name of Office: ATTORNEY'S OFFICE (CACHE COUNTY)' -- county office, in scope. FIELD-SHIFT SCREEN: row 2's Purpose-of-Expenditure cell reads 'CACHE COUNTY' (for a payment to SPRINT PRINT), which looks odd but is NOT a column shift -- the vendor column holds vendor-shaped content on both rows, the purpose column holds text on both rows, and the number of names equals the number of amounts (2 = 2); transcribed verbatim. Candidate street address, ZIP, home phone and business phone are printed in the clear on the cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "CACHE COUNTY",
+   "purpose": "FILING FEE",
+   "amount": "614,81",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.07,9.84,10.48,2.40@p3",
+   "note": "date cell reads verbatim 'MAR 9' -- NO YEAR PRINTED, so date left blank per contract. Amount written with a DECIMAL COMMA ('614,81'), transcribed verbatim per the currency convention; the filing's own arithmetic (614,81 + 223.75 = the printed 838.56) confirms the comma is a decimal separator. Carr form has no in-kind column."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "SPRINT PRINT",
+   "purpose": "CACHE COUNTY",
+   "amount": "223.75",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.07,12.24,10.48,2.40@p3",
+   "note": "date cell reads verbatim 'MAR 14' -- NO YEAR PRINTED, so date left blank per contract. Purpose cell reads verbatim 'CACHE COUNTY' (not a filer-shifted column -- see the field-shift screen in notes). Decimal separator is a small round mark read as a period; it could be the same comma the filer used on row 1, which would not change the value. Carr form has no in-kind column."
+  }
+ ]
+}

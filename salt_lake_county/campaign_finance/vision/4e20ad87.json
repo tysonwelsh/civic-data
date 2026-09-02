@@ -1,0 +1,169 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "donor_raw": "Central UT oF FEDERATION LABOR",
+   "occupation": "LaBOR ORGANiZaTION",
+   "amount": "250",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;donor=low;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.39,22.50,89.33,4.05@p3",
+   "note": "date printed '6/2?' with the day digit overwritten (a 4 and a 7 struck across each other) and NO year printed - blank per the date rule, verbatim kept here. Donor written on two lines with 'oF' as a small insert: 'Central U.T. oF' / 'FEDERATION LABOR'; transcribed verbatim in printed order, not normalized to any organization name. Address cell covered by the county's black bar - redacted at source."
+  },
+  {
+   "line_no": 2,
+   "donor_raw": "KEM GARDNER",
+   "occupation": "CEO GARDNER CO.",
+   "amount": "5,000",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;occupation=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:7.39,26.55,89.33,4.06@p3",
+   "note": "date printed '6/23' with NO year - blank per the date rule, verbatim kept here. Occupation cell written as 'CEO' over 'GARDNER CO.' on two lines. Address cell covered by the county's black bar - redacted at source."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "McADAMS FOR MAYOR",
+   "purpose": "Campaign Contribution",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.09,23.86,81.03,4.14@p4",
+   "note": "date printed '7/14' with NO year - blank per the date rule, verbatim kept here."
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "SLCO DEMOCRATIC Party",
+   "purpose": "table PURCHASE AT FUNDRaiser",
+   "amount": "300",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.09,28.00,81.03,4.09@p4",
+   "note": "date printed '8/20' with NO year - blank per the date rule, verbatim kept here. Recipient written as 'SLCO DEMOCRATIC' with '. Party' inserted above the line."
+  },
+  {
+   "line_no": 3,
+   "vendor_raw": "Gene Davis FOR STATE Senate",
+   "purpose": "Campain Contribution",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.09,32.09,81.03,4.16@p4",
+   "note": "date printed '9/9' with NO year - blank per the date rule, verbatim kept here. Purpose spelled 'Campain Contribution' by the filer - kept verbatim."
+  }
+ ],
+ "total_contributions": "5,250",
+ "total_expenditures": "900",
+ "beginning_balance": "1988.29",
+ "ending_balance": "6,338.29",
+ "aggregate": {
+  "total_contributions_to_date": "7,288.29",
+  "total_expenditures_to_date": "950",
+  "line5_subtotal": "7,238.29"
+ },
+ "cover": {
+  "candidate": "SAM F. GRANATO",
+  "party": "D",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "September 15 (INTERIM REPORT)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9/15/16",
+  "form_year": "2016"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "low",
+  "total_contributions_to_date": "low",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2016_disclosures__september__sam-granato_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Sam F. Granato",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2016_disclosures__september__sam-granato_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Cover is p1 and agrees with the chunk file: SAM F. GRANATO, Salt Lake County Council, District #4, Democratic, INTERIM 'September 15' box checked with an X, signed 9/15/16, RECEIVED SEP 15 2016. The 'Is this report an amendment?' question has NEITHER Yes NOR No ticked - is_amendment is left blank, not 'No'. Street address / city / state / zip and the phone-fax-email band are covered by the county's black bar (redacted at source); nothing was read from them. Summary line 1 Column B is written over a heavy strike-out: the legible tail is '288.29' preceded by a crossed-stem glyph read as 7, so recorded '7,288.29' at LOW confidence - a 4 cannot be excluded and there is no arithmetic gate on Column B. Summary line 7 reads '6,338.2' with the final digit running into/past the cell's right rule (only the top arc prints); the form's own arithmetic (line5 7,238.29 - line6 900.00) gives 6,338.29, so recorded at LOW confidence with the arithmetic as the deciding evidence per the GOTCHAS ruling that arithmetic outranks a glyph re-read. Column B on line 2 is 950 against a Column A of 900.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5,250",
+     "schedule_total": "",
+     "itemized": "5250.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "2 rows sum 5250.00 = Summary line 1 Column A (5,250) = the page SUBTOTAL FOR THIS PAGE (5,250). The Schedule A grand-total cell 'TOTAL CONTRIBUTIONS RECEIVED' is printed and LEFT BLANK, so schedule_total is blank and the page subtotal is the gate (the property described in AGENT_BRIEF s1)."
+    },
+    "expenditures": {
+     "stated": "900",
+     "schedule_total": "",
+     "itemized": "900.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "3 rows sum 900.00 = Summary line 2 Column A (900) = page SUBTOTAL (900). The 'TOTAL EXPENDITUTRES MADE' grand-total cell is printed and left BLANK."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 5250.00 = printed subtotal 5,250 (exact); p4 rows 900.00 = printed subtotal 900 (exact). Both pages' grand-total cells are blank.",
+   "escalations": 5,
+   "escalation_note": "p2 line-1 Column B cell crop at 600 then 1200 dpi (struck/overwritten leading digit); p2 line-7 cell crop at 600 then 1200 dpi (final digit clipped at the cell rule); p3 row-1 date+name cell crop at 600 dpi (overwritten day digit).",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Cover is p1 and agrees with the chunk file: SAM F. GRANATO, Salt Lake County Council, District #4, Democratic, INTERIM 'September 15' box checked with an X, signed 9/15/16, RECEIVED SEP 15 2016. The 'Is this report an amendment?' question has NEITHER Yes NOR No ticked - is_amendment is left blank, not 'No'. Street address / city / state / zip and the phone-fax-email band are covered by the county's black bar (redacted at source); nothing was read from them. Summary line 1 Column B is written over a heavy strike-out: the legible tail is '288.29' preceded by a crossed-stem glyph read as 7, so recorded '7,288.29' at LOW confidence - a 4 cannot be excluded and there is no arithmetic gate on Column B. Summary line 7 reads '6,338.2' with the final digit running into/past the cell's right rule (only the top arc prints); the form's own arithmetic (line5 7,238.29 - line6 900.00) gives 6,338.29, so recorded at LOW confidence with the arithmetic as the deciding evidence per the GOTCHAS ruling that arithmetic outranks a glyph re-read. Column B on line 2 is 950 against a Column A of 900."
+  }
+ }
+}

@@ -3,7 +3,10 @@
  "key": "c7820527",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:07:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 12.23",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,126 @@
    "notes": "Handwritten on the printed v. 12.23 form. Street address, phone number and signature are redacted upstream by the county (black bars); the hand-printed City/State/Zip 'BENJAMIN UT 84660' survives. The Office field is hand-printed 'SURVEYOR' with no 'County' prefix (index.csv says 'County Surveyor'); the Name of Candidate is 'Anthony Canto' with no middle initial (index.csv says 'Anthony D Canto'). In Box D the decimal separator is a comma-shaped stroke ('1081,12') while B/C/E/F use a clear period - digits unambiguous, recorded as 1081.12 at medium confidence. Boxes A and Balance at Close are a hand-drawn open loop read as the filer's zero (medium confidence). The Email field was left blank by the filer."
   }
  ],
- "notes": "Redacted copy of the same report published unredacted as key 52270376 (identical candidate, office, report type, date and all seven boxes). One report."
+ "notes": "Redacted copy of the same report published unredacted as key 52270376 (identical candidate, office, report type, date and all seven boxes). One report.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "APRIL 2024",
+   "donor_raw": "BOARD OF REALTORS",
+   "donor_city": "OREM",
+   "donor_state": "UTAH",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "geometry": "pct:78.40,17.20,13.20,4.37@p2",
+   "geometry_frame": "p2 axis=y cell=78.40-91.60 rowband=17.20-21.57 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "DATE VERBATIM: month and year only, 'APRIL 2024', no day \u2014 kept as printed and flagged; nothing inferred. The address cell prints 'OREM UTAH', city and state only, with no street line, so the county's redaction pass touched nothing on this side and there was nothing to reduce. Amount settled by the page's arithmetic, not the glyph"
+  },
+  {
+   "line_no": "2",
+   "date": "OCT 2024",
+   "donor_raw": "Anthony Canto",
+   "donor_city": "BENJAMIN",
+   "donor_state": "UTAH",
+   "amount": "581.12",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "geometry": "pct:78.40,21.57,13.20,4.36@p2",
+   "geometry_frame": "p2 axis=y cell=78.40-91.60 rowband=21.57-25.93 (2 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "DATE VERBATIM: month and year only, no day \u2014 flagged. The donor is the CANDIDATE HIMSELF on the contributions ledger; Box A is a handwritten zero, so the ladder 0 + 1081.12 - 1081.12 = 0 closes only with this row counted as a contribution. Not annotated as a loan; the ladder decided it, never the wording. Address cell prints 'BENJAMIN UTAH'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "JANUARY",
+   "vendor_raw": "UTAH COUNTY",
+   "purpose": "FILING FEE",
+   "amount": "712.25",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "geometry": "pct:78.40,17.34,13.20,4.36@p3",
+   "geometry_frame": "p3 axis=y cell=78.40-91.60 rowband=17.34-21.70 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "DATE VERBATIM: the whole Schedule B date column carries a BARE MONTH NAME with NO YEAR. Kept verbatim and flagged on every row; no year was filled in from the report date. Recorded as printed and never used to corroborate anything elsewhere (brief L3)"
+  },
+  {
+   "line_no": "2",
+   "date": "JANUARY",
+   "vendor_raw": "UTAH COUNTY",
+   "purpose": "CARD SERVICE FEE",
+   "amount": "18.87",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "geometry": "pct:78.40,21.70,13.20,4.39@p3",
+   "geometry_frame": "p3 axis=y cell=78.40-91.60 rowband=21.70-26.09 (2 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "bare month, no year \u2014 verbatim, flagged"
+  },
+  {
+   "line_no": "3",
+   "date": "OCTOBER",
+   "vendor_raw": "BCR POLITICAL",
+   "purpose": "CAMPAIGN HELP",
+   "amount": "350.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "geometry": "pct:78.40,26.09,13.20,4.39@p3",
+   "geometry_frame": "p3 axis=y cell=78.40-91.60 rowband=26.09-30.48 (3 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "bare month, no year \u2014 verbatim, flagged. This row's zeros are the filer's unambiguous oval-zero form and are the comparison glyph corroborating 500.00 on Schedule A row 1"
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah, chunk r13_01)",
+   "transcribed_date": "2026-08-20",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' (1081.12) on the p4 Summary Page \u2014 also Schedule A's own printed 'Subtotal for this page' (1081.12) and its printed 'Total Contributions Received / Sum of all Schedule A pages in this report' (1081.12)",
+     "detail": "The 2 Schedule A rows sum to 500.00 + 581.12 = 1081.12 exactly \u2014 equal to the page subtotal, the schedule's grand total, and the cover's PROMOTED per-period cell Box B. Box C (Year to Date) prints 1081.12 and is NOT summed as an increment. THE ARITHMETIC SETTLED A GLYPH (GOTCHAS / I1): row 1's amount renders at 900 dpi as an oval-zero form readable as 500.00, 506.00 or 566.00 in this hand; only 500.00 makes the rows equal the printed 1081.12, and the same oval recurs unambiguously as a zero in the filer's 350.00 on Schedule B, which also closes. Settled at 500.00 by closure, not by the crop."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' (1081.12) on the p4 Summary Page \u2014 also Schedule B's own printed 'Subtotal for this page' (1081.12) and its printed 'Total Expenditures Made' (1081.12)",
+     "detail": "The 3 Schedule B rows sum to 712.25 + 18.87 + 350.00 = 1081.12 exactly \u2014 equal to the page subtotal, the schedule's grand total, and Box D. Box E prints the same and is not summed. 3 of the grid's 15 printed rows are used; row 4 was cropped as the one-past control and rendered an EMPTY boxed cell."
+    }
+   },
+   "in_kind_convention": "monetary-only \u2014 this filing's v. 12.23 Schedule A has four columns (Date / Name of Contributor / Address and Zip Code / Amount), no in-kind checkbox, and no in-kind annotation, line or column on either schedule. Both conventions were tested on both sides of THIS document and coincide; monetary-only closes both sides at 1081.12. Not inherited from the filer's other copies \u2014 in-kind is a per-FILING property (G1).",
+   "escalations": 1,
+   "escalation_note": "Schedule A row 1 escalated to 900 dpi with --value: rendered '5oo.oo' \u2014 visually ambiguous between 0 and 6 in this hand (the I1 hazard), and resolved by the page's own arithmetic to 500.00, with the filer's unambiguous zeros in '350.00' as the comparison glyph. Escalation resolved legibility; the arithmetic resolved truth. This escalation was run independently on THIS document rather than carried over from the unredacted copy.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 3,
+   "geometry": {
+    "measured": 5,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "modern_boxAF, form revision v. 12.23, masthead 'Aaron Davidson, Clerk'. 4 pages, each classified from its own printed header: p1 cover, p2 'Schedule A - Itemized Contributions Received', p3 'Schedule B - Itemized Expenditures Made', p4 'Summary Page' (LAST \u2014 located by content). NO CHECKLIST bound. pdfinfo: 4 pages, EVERY PAGE /Rotate 270. The blank is the printed v. 12.23 form completed BY HAND in ink except the two radio groups, which are digital filled dots. Report type marked 'Seven days preceding the General Election'; amendment ticked NO; Date of Report hand-written 10/24/24 on all four sheets, each hand-foliated 1/2/3/4. Page-face Office box reads 'SURVEYOR' in hand-printed capitals with no 'County' prefix (index.csv carries 'County Surveyor' from the channel listing); the page face is what is recorded and no office was inferred. Page-face candidate 'Anthony Canto'; index.csv's channel label is 'Anthony D Canto' \u2014 a middle initial the page does not print. THE 2024 CANTO CLUSTER \u2014 THIS IS KIND (3), THE SAME REPORT RE-PUBLISHED WITH A REDACTION PASS. The county published Canto's 2024 material under three filenames and this is the county_sheet copy of the SAME report as '2024_Anthony_Canto.pdf' (key 52270376, the state_municipal copy published in the clear). Evidence, all from the page faces: (a) same report type ticked, same hand-written Date of Report 10/24/24 on all four sheets, same hand-foliation; (b) row-by-row the two ledgers are IDENTICAL \u2014 same 2 contribution rows and same 3 expenditure rows, same month-only dates, same donors, same vendors, same purposes, same 5 amounts, same 6 printed totals, same handwriting and same ink; (c) the two documents' pp2-4 measure identically to the hundredth of a percent under rowbands (same skew, same 16/15 rule counts, same band tops, same five vertical rules), i.e. the same underlying scan; (d) THE ONLY DIFFERENCE IS ON THE COVER, where this copy carries black CLERK REDACTION BARS over the candidate's street address, his telephone number and his signature, which the other copy prints in the clear. The three files are byte-DIFFERENT (three distinct sha256) but this pair is one report published twice with different redaction treatment \u2014 'same filer, same cycle, opposite redaction practice' (K4), here on the same report. Nothing was merged, netted or differenced; each copy was transcribed on its own terms. INDEPENDENT AGREEMENT IS CORROBORATION: this reading was taken from this document's own pages and agrees with 52270376's on all 5 amounts and all 6 printed totals, strengthening both. PRIVACY: the redaction bar IS the document here \u2014 the county blacked out the street address, phone and signature on this copy; neither that data nor the unredacted copy's version of it is carried into any field or note of this record."
+  }
+ }
 }

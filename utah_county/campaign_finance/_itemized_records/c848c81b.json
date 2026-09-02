@@ -1,0 +1,96 @@
+[{
+ "index_path": "raw/2020/2020_Child_5.1.20_Redacted_Redacted.pdf",
+ "key": "c848c81b",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah r8_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' on line 1 TOTAL CONTRIBUTIONS RECEIVED = 250 (p2 SUMMARY PAGE, located by its printed heading), which equals Schedule A's own printed 'Subtotal for this page' $250.00 AND its printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' $250.00",
+   "detail": "2 Schedule A rows sum to 100.00 + 150.00 = 250.00 exactly = the schedule's printed page subtotal = the schedule's printed Total Contributions Received = the cover's PROMOTED per-period cell (Column A, line 1). Column B 'Year-to-Date Total' also prints 250 on line 1 and is NOT summed as an increment; on this filing period and year-to-date coincide because it is the filer's withdrawal report and his first of the cycle on this channel. The summary ladder corroborates from a second direction: line 3 'Balance at Beginning' is an oval ZERO (read 0 under the zero-glyph ruling), line 4 'Total Contributions Received (From Line 1 Column A)' prints 250.00 and line 5 'Subtotal (Add lines 3 and 4)' prints $250.00."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' on line 2 TOTAL EXPENDITURES MADE = 1367.98, which equals Schedule B's own printed 'Subtotal for this page' $1367.98 AND its printed 'Total Expenditures Received (Sum of subtotals from all Schedule B pages)' $1367.98",
+   "detail": "8 Schedule B rows sum to 605.16 + 77.22 + 29.95 + 135.40 + 32.00 + 245.00 + 105.00 + 138.25 = 1,367.98 exactly = the printed page subtotal = the printed schedule total = the cover's Column A line 2. Column B YTD prints 1367.98 as well and is retained as cumulative, never summed. The ladder closes independently: line 5 subtotal 250.00 minus line 6 'Total Expenditures Made (From Line 2 Column A)' 1367.98 = line 7 'Balance at Close of Reporting Period' printed as $-1117.98 — a NEGATIVE closing balance, printed with an explicit minus sign, and the sign is kept."
+  }
+ },
+ "in_kind_convention": "monetary-only, and both conventions are identical here: this legacy_colAB blank prints no in-kind column or line anywhere, and no row on either schedule carries an in-kind annotation, so the monetary-only and monetary-plus-in-kind sums are the same figures (250.00 / 1,367.98) and both close. Tested per filing per ADDENDUM G1; no in-kind entries exist.",
+ "escalations": 9,
+ "escalation_note": "Nine 900 dpi --value crops. p3 row 1 rendered '100.00' but WITH THE TRAILING ZERO CLIPPED at the printed column's right-hand rule; re-rendered widened (w 9.77 -> 14.65 pct) it rendered '100.00' complete. p3 row 2 likewise: clipped '150.0' at the printed band, complete '150.00' widened. p3 row 3 (one past the last entry) rendered an EMPTY ruled band. p4 row 1 rendered '605.16' (widened re-render confirms the final '6', which this filer writes as an open-topped loop). p4 row 8 rendered '138.25'. p4 row 9 (one past) rendered an EMPTY ruled band, and a further crop at row 10 was also empty. NOTE the index correction this caught: a first p4 crop taken at y=49.91 rendered empty and looked like a missing row — it was in fact the one-past band, because on this UNDERLINE form the text sits ABOVE its rule, so band N ends at rule N. Nothing was changed by any crop; the widening is ADDENDUM G2 handling, not a re-reading.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [82.35, 92.12],
+   "cells": [[7.29, 18.53], [20.00, 52.53], [54.00, 80.88], [82.35, 92.12]],
+   "rows": [[16.66, 20.55], [20.55, 24.43], [24.43, 28.36], [28.36, 32.23], [32.23, 36.16], [36.16, 40.05], [40.05, 43.93], [43.93, 47.82], [47.82, 51.68], [51.68, 55.61], [55.61, 59.45], [59.45, 63.34], [63.34, 67.23], [67.23, 71.14], [71.14, 75.00], [75.00, 78.86], [78.86, 82.80]],
+   "measure_note": "THIS 2020 FILING IS ON THE LEGACY UNDERLINE FORM, NOT the 2020 boxed grid — the launch brief's warning that some 2020 filings are still legacy_colAB is confirmed on the page ('FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES', Utah County Code 2-5 & Utah State Code 17-16-6.5, four-column per-row underlines). So ADDENDUM I3's boxed-grid rule does NOT apply here and CHUNK_BRIEF 6 / ADDENDUM A1 DOES: THE TEXT SITS ABOVE ITS UNDERLINE, row N spans [rule N-1, rule N], and row 1 has no rule above it — its band is extrapolated one pitch (3.8906) up from the first detected rule at 20.55, giving [16.66, 20.55]. rowbands.py (skew 0.0) returns 17 per-column rules 20.55..82.80 = 17 usable lines (the ADDENDUM H1 count, confirmed here). v_rules_pct is EMPTY on this page (no vertical rules are printed at all), so the four column bands come from the per-rule SEGMENTS as CHUNK_BRIEF 6 prescribes: Date 7.29-18.53, Name of Contributor 20.00-52.53, Mailing Address & Zip Code 54.00-80.88, Amount 82.35-92.12 — assigned by CONTENT and then by the printed headings. TWO-CROP PROOF at 900 dpi: pct:82.35,16.66,14.65,3.89@p3 rendered '100.00' (recorded 100.00, Jon Bartlett) and pct:82.35,20.55,14.65,3.88@p3 rendered '150.00' (recorded 150.00, Bruce Bartlett, the last transcribed row). FIRST-ENTRY CONTROL (A1): the extrapolated band 1 rendered the first written entry itself, so this filer did NOT skip the first ruled line, and no banner or voided line consumes an index. ONE-PAST-THE-END CONTROL (B5/F1): pct:82.35,24.43,9.77,3.93@p3 rendered an EMPTY band between two rules — no figure, so the ledger does not continue below the block and trap 5 does not apply. No band is ~2x pitch, so no rule was missed and no band holds two entries.",
+   "overflow_note": "G2 OVERFLOW IS A WHOLE-FILING PROPERTY HERE: this filer's figures run PAST the amount column's right-hand rule at 92.12 on both schedules, so a crop bounded by the printed band clips the last digit. The frame above is retained as the honest measurement of the printed grid, and EVERY row carries an explicit widened `geometry` string (right edge 97.00) that renders the whole figure."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [82.46, 92.23],
+   "cells": [[7.41, 18.64], [20.11, 52.64], [54.17, 80.99], [82.46, 92.23]],
+   "rows": [[18.72, 22.61], [22.61, 26.52], [26.52, 30.39], [30.39, 34.32], [34.32, 38.18], [38.18, 42.14], [42.14, 46.00], [46.00, 49.91], [49.91, 53.77], [53.77, 57.64], [57.64, 61.52], [61.52, 65.41], [65.41, 69.32], [69.32, 73.18], [73.18, 77.09], [77.09, 80.98], [80.98, 84.84]],
+   "measure_note": "Schedule B, same legacy underline form, measured on its OWN page (skew -0.2, different from p3's 0.0 — grids are never interchangeable across pages of one PDF). 17 per-column rules 22.61..84.84, pitch 3.8894, text ABOVE its rule, row 1 extrapolated to [18.72, 22.61]. v_rules empty again; columns from the rule segments: Date 7.41-18.64, Provider/Vendor 20.11-52.64, Mailing Address & Zip Code 54.17-80.99, Amount 82.46-92.23. THERE IS NO PURPOSE COLUMN ON THIS BLANK (unlike the 2020 boxed form's Date/Provider-Vendor/PURPOSE/Amount), so purpose is honestly blank on every expenditure row. TWO-CROP PROOF at 900 dpi: pct:82.46,18.72,14.65,3.89@p4 rendered '605.16' (recorded 605.16, Utah County Clerk) and pct:82.46,46.00,14.65,3.91@p4 rendered '138.25' (recorded 138.25, USPS, the last transcribed row). FIRST-ENTRY CONTROL: band 1 rendered the first written entry, no skipped line. ONE-PAST-THE-END CONTROL: pct:82.46,49.91,14.65,3.86@p4 rendered an EMPTY ruled band and a further crop one band lower was also empty — nothing continues below the block. Pitch is uniform to ~0.05 pct across all 17 bands, so no missed rule and no doubled band (H3)."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "4/2/20",
+   "donor_raw": "Jon Bartlett",
+   "amount": "100.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "geometry": "pct:82.35,16.66,14.65,3.89@p3",
+   "note": "donor_city/donor_state are blank because THE COUNTY REDACTED the address cell — a solid black bar covers the whole Mailing Address line. The filer's handwritten ZIP CODE (84043) survives above the bar; per ADDENDUM B5 a zip is NEVER converted into a city name, so the city stays honestly blank and the zip is recorded here only as the reason the cell is not simply empty. This is redacted-by-the-county, NOT left-empty-by-the-filer. Explicit widened geometry per G2 (the figure crosses the printed column rule)."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "4/8/20",
+   "donor_raw": "Bruce Bartlett", "donor_city": "Lindon",
+   "amount": "150.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "geometry": "pct:82.35,20.55,14.65,3.88@p3",
+   "note": "THE SAME PAGE REDACTS THIS CELL ONLY PARTLY — the black bar covers the street portion but the filer's ', Lindon' and the zip 84042 are published IN THE CLEAR to the right of it, so donor_city is read directly from the row's own cell (never from the neighbouring row, never from the zip). This is exactly the ADDENDUM I4 property: one _Redacted filing blacking out one donor address and publishing the next donor's city on the same page. No state is printed by the filer, so donor_state is honestly blank (E4's fifth cause). PRIVACY: the visible street fragment is deliberately not carried. Explicit widened geometry per G2."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "3/13/20",
+   "vendor_raw": "Utah County Clerk",
+   "amount": "605.16", "in_kind": false, "confidence": "medium", "verified": 1,
+   "geometry": "pct:82.46,18.72,14.65,3.89@p4",
+   "note": "This blank has NO Purpose column, so purpose is honestly blank. The final digit is this filer's open-topped '6'; the reading is settled by ARITHMETIC, not by the glyph — 1367.98 minus the other seven rows is exactly 605.16, a unique closure. ⛔ This is the Utah County filing fee and it was NOT used to corroborate any figure on this or any other filing (E1/F5). PRIVACY: the address column prints a street line for this row and it is deliberately not carried; expenditure rows hold no address field at all."},
+  {"line_no": "2", "page": 4, "row": 2, "date": "3/15/20",
+   "vendor_raw": "Weebly",
+   "amount": "77.22", "in_kind": false, "confidence": "medium", "verified": 1,
+   "geometry": "pct:82.46,22.61,14.65,3.91@p4",
+   "note": "the address column carries a WEBSITE ('Weebly.com') rather than a mailing address — a filer convention, not a purpose; columns assigned by content (G3) and purpose left honestly blank because the form prints no such column"},
+  {"line_no": "3", "page": 4, "row": 3, "date": "3/16/20",
+   "vendor_raw": "Weebly",
+   "amount": "29.95", "in_kind": false, "confidence": "medium", "verified": 1,
+   "geometry": "pct:82.46,26.52,14.65,3.87@p4",
+   "note": "the address cell is a DITTO-style tick repeating the row above; it is an address-column mark only and carries nothing into a published field (expenditure rows have no address)"},
+  {"line_no": "4", "page": 4, "row": 4, "date": "3/16/20",
+   "vendor_raw": "Vista Print",
+   "amount": "135.40", "in_kind": false, "confidence": "medium", "verified": 1,
+   "geometry": "pct:82.46,30.39,14.65,3.93@p4",
+   "note": "vendor written as two words 'Vista Print'; kept verbatim"},
+  {"line_no": "5", "page": 4, "row": 5, "date": "3/29/20",
+   "vendor_raw": "SendPulse",
+   "amount": "32.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "geometry": "pct:82.46,34.32,14.65,3.86@p4"},
+  {"line_no": "6", "page": 4, "row": 6, "date": "4/9/20",
+   "vendor_raw": "USPS",
+   "amount": "245.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "geometry": "pct:82.46,38.18,14.65,3.96@p4",
+   "note": "address cell left empty by the filer (no bar, no mark) — distinct from the county's redaction on p3"},
+  {"line_no": "7", "page": 4, "row": 7, "date": "4/10/20",
+   "vendor_raw": "USPS",
+   "amount": "105.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "geometry": "pct:82.46,42.14,14.65,3.86@p4"},
+  {"line_no": "8", "page": 4, "row": 8, "date": "4/10/20",
+   "vendor_raw": "USPS",
+   "amount": "138.25", "in_kind": false, "confidence": "medium", "verified": 1,
+   "geometry": "pct:82.46,46.00,14.65,3.91@p4",
+   "note": "third consecutive USPS row, two of them same-dated; transcribed as three separate printed entries exactly as the filer wrote them, never merged"}
+ ],
+ "notes": "⚠ THE DOCUMENTED FILER/CHANNEL MISMATCH, CONFIRMED ON THE PAGE. index.csv (county_api / Strapi) names the candidate 'Taylor Dayton'; the PAGE FACE reads 'Paul V. Child' in the 'Name of Candidate or Officeholder' box and 'Paul Child' again in the Report Verification line, with Office Seeking 'Recorder', Political Party 'Republican', residence city Provo. THE PAGE FACE GOVERNS: this is PAUL V. CHILD'S 2020 County Recorder filing, mis-filed by the county's own CMS under Taylor Dayton's name. The channel label is recorded here and not adjudicated further; the record does not touch office_overrides.csv. VARIANT: legacy_colAB, NOT the 2020 boxed modern_boxAF — the form is the county-only blank 'FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' (Utah County Code 2-5 & Utah State Code 17-16-6.5) with no printed revision number and no year in its title, so the template says nothing about the cycle (utah-template-vintage-year). Four pages, each classified from its own printed heading: p1 cover, p2 'SUMMARY PAGE' (at p2, the tendency for this variant, but located by content), p3 'SCHEDULE A ITEMIZED CONTRIBUTIONS RECEIVED', p4 'SCHEDULE B ITEMIZED EXPENDITURES MADE'. No checklist decoy. REPORT TYPE: the checked INTERIM box is '30 Days after withdraw or elimination', signed 4/14/2020, and the amendment question is answered 'No' (the No box is ticked; the Yes box carries a stray mark but its Date-of-Report line is blank) — so index.csv's 'Withdraw/Elimination' period label AGREES with the page face here. A sideways clerk received-stamp reads 20 MAY ... 8:35. Foliation: the Page/of box is left wholly BLANK on all three inner sheets — the no-foliation practice. REDACTION judged per cell from the page (I4): the only county redactions are the signature bar on p1 and the two donor street bars on p3, and one of those two leaves the donor's city legible. BOTH SIDES CLOSE EXACTLY on the promoted per-period Column A cells (250.00 contributions / 1,367.98 expenditures), each corroborated by the schedule's own two printed footers, and the balance ladder closes to a printed NEGATIVE -1117.98 whose sign is kept. Every figure on the schedules is HANDWRITTEN (blue ink), so the digit-shape hazard of ADDENDUM I1 was live: the only doubtful glyph was the final '6' of 605.16, and it was settled by the side's unique arithmetic closure rather than by re-reading."
+}]

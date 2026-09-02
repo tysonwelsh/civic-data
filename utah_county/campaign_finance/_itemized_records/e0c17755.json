@@ -1,0 +1,407 @@
+[
+ {
+  "index_path": "raw/2010/2010_CountyRecorder-CampbellRodney-061410.pdf",
+  "key": "e0c17755",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk r2_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED ($2003.75) on the p2 Summary Page, which is ALSO Schedule A's own handwritten 'Subtotal for this page' (2003.75) and its 'Total Contributions Received' (2003.75), and is restated at summary lines 4 and 5",
+    "detail": "3 Schedule A rows sum to 20.00 + 200.00 + 1,783.75 = 2,003.75 exactly = the schedule's printed page subtotal = its printed Total Contributions Received = the cover's promoted PER-PERIOD Column A cell. Column B 'Year-to-Date Total' prints the same 2,003.75 and is NOT summed as an increment \u2014 this is the filer's first report of the cycle (line 3 'Balance at Beginning' is a typed 0), so period and year-to-date coincide. The balance ladder closes: 0 (line 3) + 2,003.75 (line 4) = 2,003.75 (line 5); 2,003.75 - 2,003.75 (line 6) = 0 (line 7). The candidate's own 1,783.75 loan is INSIDE this total because the filer put it on Schedule A and his own subtotal counts it; nothing was reclassified."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE ($2003.75) on the p2 Summary Page, equal to Schedule B's own handwritten 'Subtotal for this page' (2003.75) and its 'Total Expenditures Received' (2003.75), and restated at summary line 6",
+    "detail": "11 Schedule B rows sum to 51.08 + 25.41 + 47.00 + 317.53 + 7.68 + 4.80 + 103.51 + 754.41 + 128.87 + 90.00 + 473.46 = 2,003.75 exactly = the printed page subtotal = the printed total = the cover's Column A = line 6. Column B YTD prints the same 2,003.75 (first report of the cycle) and is retained as cumulative, never summed as an increment. The two sides being equal to the cent is the filer's own design: he loaned the campaign exactly the shortfall (1,783.75) needed to spend out to a zero closing balance."
+   }
+  },
+  "in_kind_convention": "not applicable \u2014 neither Schedule A nor Schedule B on this legacy_colAB blank prints an in-kind column, no row on either schedule is annotated in-kind or 'non-monetary', and the p2 Summary Page carries no separate in-kind line. BOTH conventions were tested rather than inherited: monetary-only gives 2,003.75 on each side and monetary-plus-in-kind gives the identical 2,003.75, so both close on Column A. The one annotated row, 'Rod Campbell (personal loan)', is a candidate LOAN and not an in-kind gift, and it sits inside the filer's own printed subtotal.",
+  "escalations": 0,
+  "escalation_note": "No escalation was needed: this filing is a TYPED reproduction of the county form \u2014 every field including the schedule entries is machine text, only the four subtotal/total cells and the signature are handwritten \u2014 and both sides closed on three independent printed figures each. Six tight crops at 800 dpi were geometry proofs, described in the measure_notes.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     84.74,
+     95.04
+    ],
+    "cells": [
+     [
+      6.52,
+      18.35
+     ],
+     [
+      19.88,
+      53.72
+     ],
+     [
+      55.25,
+      83.21
+     ],
+     [
+      84.74,
+      95.04
+     ]
+    ],
+    "rows": [
+     [
+      16.37,
+      20.53
+     ],
+     [
+      20.53,
+      24.69
+     ],
+     [
+      24.69,
+      28.76
+     ],
+     [
+      28.76,
+      32.86
+     ],
+     [
+      32.86,
+      36.93
+     ],
+     [
+      36.93,
+      41.01
+     ],
+     [
+      41.01,
+      45.06
+     ],
+     [
+      45.06,
+      49.16
+     ],
+     [
+      49.16,
+      53.25
+     ],
+     [
+      53.25,
+      57.33
+     ],
+     [
+      57.33,
+      61.4
+     ],
+     [
+      61.4,
+      65.45
+     ],
+     [
+      65.45,
+      69.52
+     ],
+     [
+      69.52,
+      73.62
+     ],
+     [
+      73.62,
+      77.67
+     ],
+     [
+      77.67,
+      81.75
+     ],
+     [
+      81.75,
+      85.82
+     ]
+    ],
+    "measure_note": "legacy_colAB Schedule A, the UNDERLINE form: rowbands.py returns 21 rules, of which 4.80 and 13.11 belong to the top-right Page/Last Name/Date box and 89.67 and 93.71 are the printed 'Subtotal for this page' and 'Total Contributions Received' underlines. The 17 data rules run 20.53 to 85.82 at a regular 4.08 pitch, and the four segments of each rule ARE the column bands (Date 6.52-18.35, Name of Contributor 19.88-53.72, Mailing Address & Zip 55.25-83.21, Amount 84.74-95.04). THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up to [16.45,20.53]. \u00a7A1 FIRST-ENTRY CONTROL: that extrapolated band was cropped BEFORE use and rendered the printed 'Amount' header with '$20.00' sitting on the rule beneath it, so this filer did NOT skip the first ruled line and his first written entry IS band 1. TWO-CROP PROOF at 800 dpi: pct:84.0,16.45,11.5,4.08@p3 rendered '$20.00' (recorded 20.00, Paul & Cari Updike) and pct:84.0,24.69,11.5,4.07@p3 rendered '$1783.75' (recorded 1783.75, Rod Campbell). A control crop of band 4 rendered an EMPTY cell, confirming the schedule stops at three rows and the bands are not off by one."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     84.88,
+     95.07
+    ],
+    "cells": [
+     [
+      6.72,
+      18.37
+     ],
+     [
+      19.96,
+      53.81
+     ],
+     [
+      55.34,
+      83.29
+     ],
+     [
+      84.88,
+      95.07
+     ]
+    ],
+    "rows": [
+     [
+      16.3,
+      20.44
+     ],
+     [
+      20.44,
+      24.58
+     ],
+     [
+      24.58,
+      28.67
+     ],
+     [
+      28.67,
+      32.77
+     ],
+     [
+      32.77,
+      36.87
+     ],
+     [
+      36.87,
+      40.94
+     ],
+     [
+      40.94,
+      44.99
+     ],
+     [
+      44.99,
+      49.04
+     ],
+     [
+      49.04,
+      53.14
+     ],
+     [
+      53.14,
+      57.24
+     ],
+     [
+      57.24,
+      61.33
+     ],
+     [
+      61.33,
+      65.38
+     ],
+     [
+      65.38,
+      69.43
+     ],
+     [
+      69.43,
+      73.51
+     ],
+     [
+      73.51,
+      77.58
+     ],
+     [
+      77.58,
+      81.63
+     ],
+     [
+      81.63,
+      85.71
+     ]
+    ],
+    "measure_note": "Same underline grid as p3: 17 data rules 20.44 to 85.71 at a 4.09 pitch, row 1 extrapolated one pitch up to [16.34,20.44]; the subtotal and total underlines below 85.71 are not detected on this sheet and are not rows in any case. Column bands from the per-column segments of a mid-page rule. TWO-CROP PROOF at 800 dpi: pct:84.0,16.34,11.5,4.10@p4 rendered the printed 'Amount' header above '51.08' (recorded 51.08, Stevensons Genealogy Center) and pct:84.0,57.24,11.5,4.09@p4 rendered '473.46' (recorded 473.46, the filing fee, row 11). A control crop of band 12 rendered an EMPTY cell, so the schedule genuinely stops at eleven rows. \u26a0 NOTE FOR THE CONTINUATION-LINE TRAP: no row on this sheet spills onto a second line \u2014 the seven ditto rows each occupy exactly one band \u2014 so the eleven written amounts map one-to-one onto bands 1-11."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "donor_raw": "Paul & Cari Updike",
+    "donor_city": "Mesa",
+    "donor_state": "Az",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE DATE CELL IS EMPTY on this row \u2014 the filer typed no date at all, so the field is honestly omitted rather than filled in from the report date. The only out-of-state donor on the filing; the Mailing Address cell prints a street line and 'Mesa, Az.' with no zip, and only the city and state are carried, verbatim including the filer's 'Az.' spelling. First row of the page \u2014 the crop rendered the printed 'Amount' header above '$20.00'"
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "4/15/2010",
+    "donor_raw": "Streamvest",
+    "donor_city": "Provo",
+    "donor_state": "Ut",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a business donor; state carried verbatim as the filer typed it ('Ut.')"
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "6/14/2010",
+    "donor_raw": "Rod Campbell (personal loan)",
+    "donor_city": "Provo",
+    "donor_state": "Ut",
+    "amount": "1783.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE CANDIDATE'S OWN LOAN, and the filer's own parenthetical label '(personal loan)' is kept verbatim in the name. It is transcribed as a contribution row because that is where the filer put it AND his own printed page subtotal counts it: 20.00 + 200.00 + 1,783.75 = 2,003.75, the printed subtotal. Contrast the Witney 2010 May filing in this same chunk, where the cover's ladder proved a 3,000.00 loan belonged to line 3 and it was therefore NOT an itemized contribution row \u2014 the document's arithmetic decides each case separately. Dated the same day as the report itself, i.e. the loan that funds the closing balance to zero. Last written row \u2014 the crop rendered '$1783.75'"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "4/6/2010",
+    "vendor_raw": "Stevensons Genealogy Center",
+    "amount": "51.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Schedule B on this blank prints NO Purpose column \u2014 its columns are Date / 'Name of Contributor' (the form reuses Schedule A's header wording on the expenditure sheet) / Mailing Address & Zip Code / Amount \u2014 so purpose is honestly blank on every row. Expenditure rows carry no address field, so the printed vendor address is dropped entirely. First row of the page \u2014 the crop rendered the printed 'Amount' header above '51.08'"
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "4/7/2010",
+    "vendor_raw": "Stevensons Genealogy Center",
+    "amount": "25.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "BOTH the name and the address cells are DITTO MARKS repeating row 1 \u2014 the filer's own notation; the repeated value is carried and the ditto is recorded here"
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "4/19//2010",
+    "vendor_raw": "Stevensons Genealogy Center",
+    "amount": "47.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "name and address are ditto marks. THE DATE IS TYPED WITH A DOUBLE SLASH, '4/19//2010', and is kept exactly as printed rather than repaired"
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "4/20/2010",
+    "vendor_raw": "Stevensons Genealogy Center",
+    "amount": "317.53",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "name and address are ditto marks"
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "4/20/2010",
+    "vendor_raw": "Stevensons Genealogy Center",
+    "amount": "7.68",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "name and address are ditto marks"
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "4/21/2010",
+    "vendor_raw": "Stevensons Genealogy Center",
+    "amount": "4.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "name and address are ditto marks"
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "3/31/2010",
+    "vendor_raw": "Stevensons Genealogy Center",
+    "amount": "103.51",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "name and address are ditto marks; the ledger is NOT in date order here \u2014 3/31 follows 4/21 \u2014 and the printed order is preserved as the row order"
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "5/10/2010",
+    "vendor_raw": "Fluid Studio 106",
+    "amount": "754.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the largest expenditure on the filing; the address cell prints a Bountiful, Ut. street line, not carried"
+   },
+   {
+    "line_no": "9",
+    "page": 4,
+    "row": 9,
+    "date": "4/8/2010",
+    "vendor_raw": "Copies Plus Printing",
+    "amount": "128.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "10",
+    "page": 4,
+    "row": 10,
+    "date": "4-6/2010",
+    "vendor_raw": "Constant Contact",
+    "amount": "90.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE DATE MIXES SEPARATORS, '4-6/2010', and is kept verbatim. The address cell prints only 'Waltham, Ma. 02451' \u2014 a town and state with no street line, the one out-of-state vendor"
+   },
+   {
+    "line_no": "11",
+    "page": 4,
+    "row": 11,
+    "date": "3/12/2010",
+    "vendor_raw": "Filing Fee",
+    "amount": "473.46",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "\u26a0 THE FILER PUT THE PURPOSE IN THE NAME COLUMN AND THE PAYEE IN THE ADDRESS COLUMN on this row: the 'Name of Contributor' cell reads 'Filing Fee' and the 'Mailing Address & Zip Code' cell reads 'Utah County Clerk'. vendor_raw carries the NAME cell verbatim, as printed, and the swap is recorded here rather than silently corrected. Last written row \u2014 the crop rendered '473.46' and a control crop of the band below rendered an EMPTY cell"
+   }
+  ],
+  "notes": "PAGE-FACE candidate name 'Rodney D. Campbell' (Republican, residence city Provo); index.csv names NO candidate for this row (the 2008-2018 listing grouped by office). Page-face Office Seeking reads 'County Recorder', agreeing with index.csv. legacy_colAB, 4 pages, all four read full-page at 200 dpi: p1 cover, p2 SUMMARY PAGE (located by CONTENT; foliated 'Page 1 of 1' \u2014 see below), p3 Schedule A, p4 Schedule B. \u26a0 A SOURCE PROPERTY WORTH RECORDING: THIS FILING IS A TYPED RE-CREATION OF THE COUNTY FORM, NOT THE COUNTY'S OWN BLANK FILLED IN. Every field is machine text \u2014 the identity block, the report-type list, the schedule entries and even the Summary Page figures \u2014 and only the four schedule subtotal/total cells and the signature are handwritten. Two consequences show on the page: the report-type CHECKBOXES ARE ABSENT ENTIRELY (the five options are printed as bare lines with no boxes, and NONE is marked, so the report type is an honest BLANK \u2014 the 2026-08-01 cover tranche recorded it as unreadable and that stands), and the amendment question is answered by a typed 'No X' rather than a tick. The signature date is handwritten '6/14/2010' and the clerk stamped it JUN 14 PM 4:36. FOLIATION: every sheet is foliated 'Page 1 of 1' \u2014 the filer numbered each sheet as its own document rather than the filing as a whole, a third variant of the ADDENDUM A4 foliation finding (Poulson numbers '1 of 1' then '1/2/3 of 3'; Barratt foliates nothing in June and 1-5 of 5 in October). A page ordinal remains worthless for locating the summary page. The two sides are EQUAL TO THE CENT (2,003.75 each) and that is the filer's own arithmetic, not a transcription artefact: he loaned his campaign exactly the shortfall needed to spend out to a zero closing balance. Not a *_Redacted.pdf \u2014 the county published this era in the clear, so donor and vendor street lines are plainly visible on pp3-4 and were reduced to city/state at READ TIME for contributions and DROPPED ENTIRELY for expenditures; none reaches any field or note."
+ }
+]

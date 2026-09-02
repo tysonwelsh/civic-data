@@ -1,0 +1,141 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W14.json",
+ "key": "dca9c48a",
+ "index_path": "raw/wayback_forms2018/June 13_Brock R Belnap_FCR_06-14-2018.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/June 13_Brock R Belnap_FCR_06-14-2018.pdf"
+ ],
+ "sha256_prefix": "284744f05987550b",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "997.00",
+    "cover_over50_cum": "997.00",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": "997.00"
+   },
+   "itemized": "997.00",
+   "basis": "schedule-total==cover-line1-this==cover-line1-cum",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Two rows, 367.00 + 630.00 = 997.00, which equals Form A's printed TOTAL (997.00) AND both filled cover line-1 cells (THIS 997.00, CUMULATIVE 997.00). The LAST REPORT column is blank because this is the filer's FIRST report of the 2018 cycle (period begins Jan 1, 2018), so the period and cumulative scopes coincide - recorded as cumulative per the addendum. Cover line 2 (the $50-or-less aggregate) is left entirely BLANK in all three columns, so there is no small-donor aggregate and no sub-$50 trap here."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "997.00",
+    "cover_expense_cum": "997.00",
+    "schedule_total": "997.00"
+   },
+   "itemized": "997.00",
+   "basis": "schedule-total==cover-line3-this==cover-line3-cum",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Two rows, 250.00 + 747.00 = 997.00 = Form B's printed TOTAL 997.00 = cover line 3 THIS and CUMULATIVE (both 997.00, LAST blank - first report of the cycle, scopes coincide). Contributions in and expenditures out are equal at 997.00, which is why the filer's ending balance is a written nil."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: rows 367.00 + 630.00 = 997.00 = printed TOTAL 997.00 (gate fires). p3: rows 250.00 + 747.00 = 997.00 = printed TOTAL 997.00 (gate fires).",
+  "row_count": "rowbands.py p2 -> geometry_status 'gaps', 37 h-rules / 36 bands; p3 -> 39 h-rules / 38 bands (the sheets carry ~40 ruled data rows plus a header band, so the tool is a couple of rules short - treated as evidence, not an oracle). Ink count by eye on the full 200 dpi page: p2 has exactly 2 inked rows, p3 exactly 2, and the 900 dpi amount-column crops show band 3 empty on both pages. 2 rows emitted per side.",
+  "geometry_proof": "p2: 900 dpi crop of the amount column at the emitted bands renders row 1 '$ 36 7.00' and row 2 '$ 630.00', and the control band one pitch below renders an empty cell carrying only the printed '$'. p3: same crop renders row 1 '$ 250 00', row 2 '$747.00', control band below empty ('$' only). No row-index shift.",
+  "balance_chain": "Closes. Contributions 997.00 - expenditures 997.00 = 0, and cover line 4 (balance at end of period) is written '-0-' in the CUMULATIVE column (a nil glyph = 0 per the zero-glyph ruling); the LAST and THIS balance cells are blank. No earlier filing by this filer in this cycle is in my chunk, so the cross-filing chain could not be run - the cover itself declares this the first report (period begins Jan 1, 2018) and its LAST REPORT column is blank throughout, which is consistent."
+ },
+ "escalations": 5,
+ "escalation_note": "900 dpi crops of p2 name column, p2 amount column, p3 name+purpose columns, p3 amount column; plus a 1200 dpi crop of the tail of p2 row 1 to settle the year inside 'Balance forward from 20?? Campaign' - it renders an unambiguous 4 ('2014').",
+ "notes": "Generation-2 county-branded cover (Washington County Code 1-7-1) with the four-line anchor grid and an In Kind? column on Form A; the In Kind column is left BLANK on both inked rows (a blank is NOT an N - recorded in_kind false with the blank noted). Chunk file says candidate 'Brock R Belnap', office 'Attorney'; the cover's handwritten name line reads 'Brock R Belnap' and the Office line reads 'County Attorney' - AGREE. Certified period Jan 1, 2018 to June 13, 2018; signature date June 13, 2018; clerk RECEIVED stamp JUN 13 2018. Form A row 1 is not a third-party donor at all: it is the filer's own carry-forward, written 'Balance forward from 2014 Campaign' with the word 'Campaign' spilling across the rule into the Mailing Address column (that spill carries no digits, so it is a name continuation, not an address). Candidate home street address, ZIP, home phone and business phone printed in the clear on the cover were discarded at read time.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-01-01",
+   "donor_raw": "Balance forward from 2014 Campaign",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "367.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.53,12.17,11.53,1.87@p2",
+   "note": "verbatim '1/1/18'; two-digit year 18 resolves cleanly to 2018 (certified period begins Jan 1, 2018). Not a donor - the filer's own carry-forward from his prior campaign; the text runs across the column rule so that the word 'Campaign' sits in the Mailing Address cell. Amount written '36 7.00' with a gap between the 6 and the 7; confirmed 367.00 at 900 dpi and by the arithmetic (367.00 + 630.00 = printed TOTAL 997.00). Address/In-Kind cells left empty by the filer."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2018-03-06",
+   "donor_raw": "Brock Belnap",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "630.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.53,14.04,11.53,1.82@p2",
+   "note": "verbatim '3/6/18' -> 2018-03-06. Self-contribution by the candidate. Address and In Kind? cells left empty by the filer (blank is not an N)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-02-13",
+   "vendor_raw": "Wash Cty Repub Party",
+   "purpose": "Lincoln Day Tickets/Table",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.53,12.07,11.53,1.92@p3",
+   "note": "verbatim '2/13/18' -> 2018-02-13. Amount written '250 00' with a SPACE and no decimal point between dollars and cents; read 250.00 (confirmed at 900 dpi and by the arithmetic 250.00 + 747.00 = printed TOTAL 997.00). Vendor abbreviated by the filer; kept verbatim."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2018-03-09",
+   "vendor_raw": "Washington County",
+   "purpose": "Election Filing Fee",
+   "amount": "747.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.53,13.99,11.53,1.87@p3",
+   "note": "verbatim '3/9/18' -> 2018-03-09."
+  }
+ ]
+}

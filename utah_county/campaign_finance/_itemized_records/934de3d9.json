@@ -1,0 +1,879 @@
+[
+ {
+  "index_path": "raw/2014/2014_30DayMillett_2.pdf",
+  "key": "934de3d9",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r4_02)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4,5",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' contributions, line 1 TOTAL CONTRIBUTIONS RECEIVED = 11,035.47 on the p2 SUMMARY PAGE - repeated at summary lines 4 and 5, and equal to Schedule A's own printed 'Subtotal for this page' $11,035.47 and 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' $11,035.47",
+    "detail": "9 Schedule A rows sum to 3750 + 20 + 100 + 185 + 150 + 250 + 30 + 4500 + 2050.47 = 11,035.47 exactly, matching all four printed anchors. THREE of the nine rows are the candidate's own money (3,750 + 4,500 + 2,050.47 = 10,300.47 of the 11,035.47): they are itemized contribution rows here because line 3 Balance at Beginning is a slashed ZERO, leaving no beginning-balance slot, and the side closes only with them - the loan/self-funding ladder run per the standing rule, not decided by the word used. Column B Year-to-Date prints the SAME 11,035.47, which is not a cumulative-exact case: this is the cycle's first report so period IS year-to-date. Nothing was differenced across filings."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' expenditures, line 2 TOTAL EXPENDITURES MADE = 11,035.47 on the p2 SUMMARY PAGE - repeated at summary line 6, and equal to the 'Total Expenditures Received (Sum of subtotals from all Schedule B pages)' $11,035.47 printed identically at the foot of BOTH Schedule B sheets",
+    "detail": "TWO Schedule B pages, each gated by its own printed page subtotal. p4's 17 rows sum to 3,913.54 = its printed 'Subtotal for this page' $3,913.54. p5's 16 rows sum to 7,121.93 = its printed 'Subtotal for this page' $7121.93. 3,913.54 + 7,121.93 = 11,035.47 = the printed grand total on both sheets = the cover's promoted per-period cell (line 2 Column A) = summary line 6. 33 rows, and every one of the three page-level gates closes to the cent. The balance ladder also closes: line 3 slashed-zero 0 + line 4 11,035.47 = line 5 11,035.47, minus line 6 11,035.47 = line 7 slashed-zero 0."
+   }
+  },
+  "in_kind_convention": "monetary-only closed exactly on BOTH sides (11,035.47 each). Both conventions tested and identical here: no schedule prints an in-kind column, the summary page prints no in-kind line, and no row is marked in kind - although note that many expenditure rows are REIMBURSEMENTS to the candidate for goods he bought, which the filer books as cash expenditures, not as in-kind.",
+  "escalations": 10,
+  "escalation_note": "Ten 900 dpi tight-cell crops, all for GEOMETRY PROOF; none was needed to settle a figure - this filer writes in large crisp block capitals and every amount is legible at full-page resolution. TWO crops were discarded and re-taken: the first attempt at the p3 last-row control was measured two bands too low and rendered EMPTY, which is exactly the failure mode the control exists to catch; the corrected band rendered the recorded value. What each surviving crop rendered is recorded in the frames' measure_notes.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     80.87,
+     90.46
+    ],
+    "cells": [
+     [
+      7.46,
+      18.52
+     ],
+     [
+      19.99,
+      51.75
+     ],
+     [
+      53.22,
+      79.4
+     ],
+     [
+      80.87,
+      90.46
+     ]
+    ],
+    "rows": [
+     [
+      18.08,
+      21.91
+     ],
+     [
+      21.91,
+      25.75
+     ],
+     [
+      25.75,
+      29.62
+     ],
+     [
+      29.62,
+      33.44
+     ],
+     [
+      33.44,
+      37.3
+     ],
+     [
+      37.3,
+      41.12
+     ],
+     [
+      41.12,
+      44.96
+     ],
+     [
+      44.96,
+      48.75
+     ],
+     [
+      48.75,
+      52.57
+     ],
+     [
+      52.57,
+      56.39
+     ],
+     [
+      56.39,
+      60.21
+     ],
+     [
+      60.21,
+      64.05
+     ],
+     [
+      64.05,
+      67.89
+     ],
+     [
+      67.89,
+      71.71
+     ],
+     [
+      71.71,
+      75.53
+     ],
+     [
+      75.53,
+      79.34
+     ],
+     [
+      79.34,
+      83.21
+     ]
+    ],
+    "measure_note": "legacy_colAB UNDERLINE form. rowbands.py on the RAW frame (deskew -0.3 deg) returns 17 per-column underlines 21.91 .. 83.21 pct, four segments each, and the segments ARE the column bands: Date 7.46-18.52, Name 19.99-51.75, Address 53.22-79.40, Amount 80.87-90.46. Fitted pitch (83.21-21.91)/16 = 3.8313. TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up to [18.08, 21.91]. ⚠ EVERY ROW ON THIS SHEET IS A TWO-LINE ENTRY (the address wraps), yet each still occupies exactly ONE printed band - the filer writes both lines above the same rule - so no continuation line consumes a row here; that was verified by crop, not assumed. CONTROLS at 900 dpi with --value: (a) §A1 first-entry crop pct:80.87,18.08,9.59,3.83@p3 rendered the printed 'Amount' header above '$3,750' - the first ruled line WAS used (recorded 3750); (b) the last transcribed row, pct:80.87,48.75,9.59,3.82@p3, rendered '$2,050' (the '.47' runs past the printed column's right edge; the full-page read gives $2,050.47, recorded 2050.47); (c) the §B5 one-past-the-end control pct:80.87,52.57,9.59,3.82@p3 rendered EMPTY."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     81.35,
+     90.88
+    ],
+    "cells": [
+     [
+      7.82,
+      19.0
+     ],
+     [
+      20.47,
+      52.24
+     ],
+     [
+      53.71,
+      79.88
+     ],
+     [
+      81.35,
+      90.88
+     ]
+    ],
+    "rows": [
+     [
+      19.87,
+      23.7
+     ],
+     [
+      23.7,
+      27.55
+     ],
+     [
+      27.55,
+      31.34
+     ],
+     [
+      31.34,
+      35.2
+     ],
+     [
+      35.2,
+      39.02
+     ],
+     [
+      39.02,
+      42.86
+     ],
+     [
+      42.86,
+      46.7
+     ],
+     [
+      46.7,
+      50.61
+     ],
+     [
+      50.61,
+      54.39
+     ],
+     [
+      54.39,
+      58.2
+     ],
+     [
+      58.2,
+      62.0
+     ],
+     [
+      62.0,
+      65.84
+     ],
+     [
+      65.84,
+      69.61
+     ],
+     [
+      69.61,
+      73.45
+     ],
+     [
+      73.45,
+      77.27
+     ],
+     [
+      77.27,
+      81.2
+     ],
+     [
+      81.2,
+      85.02
+     ]
+    ],
+    "measure_note": "Same underline form, measured on its own page (deskew 0.0 here against -0.3 on p3 and p5 - a grid is never carried across sheets). rowbands.py returns 17 rules 23.70 .. 85.02 pct; pitch (85.02-23.70)/16 = 3.8325; column bands from the segments: Date 7.82-19.00, Name 20.47-52.24, Address 53.71-79.88, Amount 81.35-90.88. Row 1 extrapolated one pitch up to [19.87, 23.70]. This sheet is DENSE - most entries wrap onto a second written line and several carry struck-through corrections above the line - but there are exactly 17 printed rules and exactly 17 amounts, one per band, and the 17 amounts sum to the printed page subtotal, so no continuation line and no voided line consumes a row. CONTROLS at 900 dpi with --value: first-entry crop pct:81.35,19.87,9.53,3.83@p4 rendered the printed 'Amount' header above '$54.26' (recorded 54.26); last-row crop pct:81.35,81.20,9.53,3.82@p4 rendered '$1,353.75' (recorded 1353.75). There is no band 18 to use as a negative control - the printed grid ENDS at rule 85.02 and the 'Subtotal for this page' line follows; the side continues on p5, whose own one-past-the-end control rendered empty."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     80.94,
+     90.47
+    ],
+    "cells": [
+     [
+      7.41,
+      18.53
+     ],
+     [
+      20.0,
+      51.76
+     ],
+     [
+      53.23,
+      79.41
+     ],
+     [
+      80.94,
+      90.47
+     ]
+    ],
+    "rows": [
+     [
+      20.04,
+      23.87
+     ],
+     [
+      23.87,
+      27.71
+     ],
+     [
+      27.71,
+      31.53
+     ],
+     [
+      31.53,
+      35.34
+     ],
+     [
+      35.34,
+      39.16
+     ],
+     [
+      39.16,
+      42.98
+     ],
+     [
+      42.98,
+      46.8
+     ],
+     [
+      46.8,
+      50.75
+     ],
+     [
+      50.75,
+      54.57
+     ],
+     [
+      54.57,
+      58.32
+     ],
+     [
+      58.32,
+      62.12
+     ],
+     [
+      62.12,
+      65.96
+     ],
+     [
+      65.96,
+      69.78
+     ],
+     [
+      69.78,
+      73.62
+     ],
+     [
+      73.62,
+      77.41
+     ],
+     [
+      77.41,
+      81.28
+     ],
+     [
+      81.28,
+      85.12
+     ]
+    ],
+    "measure_note": "The second Schedule B sheet, measured separately (deskew -0.3). rowbands.py returns 17 rules 23.87 .. 85.12 pct; pitch (85.12-23.87)/16 = 3.8281; column bands: Date 7.41-18.53, Name 20.00-51.76, Address 53.23-79.41, Amount 80.94-90.47. Row 1 extrapolated one pitch up to [20.04, 23.87]. 16 entries fill rows 1-16 and row 17 is blank. CONTROLS at 900 dpi with --value: first-entry crop pct:80.94,20.04,9.53,3.83@p5 rendered the printed 'Amount' header above '$25' (recorded 25); last transcribed row pct:80.94,77.41,9.53,3.87@p5 rendered '$1,046.52' (recorded 1046.52); the §B5 one-past-the-end control pct:80.94,81.28,9.53,3.84@p5 rendered EMPTY."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "2/12/14",
+    "donor_raw": "RAPHAEL MILLET",
+    "donor_city": "Payson",
+    "donor_state": "UT",
+    "amount": "3750",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "SELF-FUNDING: the donor is the CANDIDATE HIMSELF. It is booked on Schedule A and the cover's line 1 Column A closes only WITH it (line 3 Balance at Beginning is a slashed zero, so there is no beginning-balance slot to absorb it), so the ladder makes it an itemized contribution row - decided by the arithmetic, never by wording. Printed '$3,750' without cents. PRIVACY: the street line printed on this unredacted filing is deliberately not carried; city/state only."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "3/14/14",
+    "donor_raw": "RANDY COVINGTON",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed '$20' without cents PRIVACY: the street line printed on this unredacted filing is deliberately not carried; city/state only."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "3/17/14",
+    "donor_raw": "LEONARD LEE",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed '$100' without cents PRIVACY: the street line printed on this unredacted filing is deliberately not carried; city/state only."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "3/19/14",
+    "donor_raw": "MITCH MAUGHAN",
+    "donor_city": "Springville",
+    "donor_state": "UT",
+    "amount": "185",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed '$185' without cents PRIVACY: the street line printed on this unredacted filing is deliberately not carried; city/state only."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "3/19/14",
+    "donor_raw": "JENS NIELSON",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "150",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed '$150' without cents PRIVACY: the street line printed on this unredacted filing is deliberately not carried; city/state only."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "3/24/14",
+    "donor_raw": "MIKE McKELL",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed '$250' without cents; the filer's own capitalisation 'McKELL' is kept PRIVACY: the street line printed on this unredacted filing is deliberately not carried; city/state only."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "4/10/14",
+    "donor_raw": "E. GREGG TOBLER",
+    "donor_city": "Mapleton",
+    "donor_state": "UT",
+    "amount": "30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed '$30' without cents PRIVACY: the street line printed on this unredacted filing is deliberately not carried; city/state only."
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "4/18/14",
+    "donor_raw": "RAPHAEL MILLET",
+    "donor_city": "Payson",
+    "donor_state": "Ut",
+    "amount": "4500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "SELF-FUNDING: the donor is the CANDIDATE HIMSELF. It is booked on Schedule A and the cover's line 1 Column A closes only WITH it (line 3 Balance at Beginning is a slashed zero, so there is no beginning-balance slot to absorb it), so the ladder makes it an itemized contribution row - decided by the arithmetic, never by wording. Printed '$4,500' without cents. The state is written 'Ut' on this row and 'UT' on the filer's two other self-contribution rows; each is kept as printed. PRIVACY: the street line printed on this unredacted filing is deliberately not carried; city/state only."
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "5/8/14",
+    "donor_raw": "RAPHAEL MILLET",
+    "donor_city": "Payson",
+    "donor_state": "UT",
+    "amount": "2050.47",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "SELF-FUNDING: the donor is the CANDIDATE HIMSELF. It is booked on Schedule A and the cover's line 1 Column A closes only WITH it (line 3 Balance at Beginning is a slashed zero, so there is no beginning-balance slot to absorb it), so the ladder makes it an itemized contribution row - decided by the arithmetic, never by wording. The only contribution on the schedule carrying cents, and the amount that makes the side close to the cent. Last written entry: the row-10 control crop rendered EMPTY. PRIVACY: the street line printed on this unredacted filing is deliberately not carried; city/state only."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "1/30/14",
+    "vendor_raw": "Communal Restaurant",
+    "amount": "54.26",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee cell reads in full 'Raphael Millet at Communal Restaurant' - this filer books REIMBURSEMENTS TO HIMSELF by naming himself and the vendor in one cell, and the address cell carries HIS address, not the vendor's. The vendor is recorded here and the compound is quoted. A heavy ink strike sits at the left of the address cell - the FILER's own correction, not a clerk redaction (this filing is otherwise unredacted). Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "2/14/14",
+    "vendor_raw": "Subway",
+    "amount": "32.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Raphael Millet -- Subway' (a reimbursement) Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "2/23/14",
+    "vendor_raw": "Cafe Rio",
+    "amount": "46.16",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Raphael Millet -- Cafe Rio' Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "3/13/14",
+    "vendor_raw": "Mimi's Cafe",
+    "amount": "10.31",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads \"Raphael Millet -- Mimi's Cafe\" Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field."
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "4/3/14",
+    "vendor_raw": "Malawi's Pizza",
+    "amount": "18.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads \"Raphael Millet -- Malawi's Pizza\" Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field."
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "4/4/14",
+    "vendor_raw": "Subway",
+    "amount": "6.47",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Raphael Millet -- Subway' Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field."
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "4/5/14",
+    "vendor_raw": "Paradise Bakery",
+    "amount": "13.35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Raphael Millet -- Paradise Bakery' Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field."
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "4/8/14",
+    "vendor_raw": "Hogi Yogi",
+    "amount": "5.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Raphael Millet -- Hogi Yogi' Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field."
+   },
+   {
+    "line_no": "9",
+    "page": 4,
+    "row": 9,
+    "date": "3/21/14",
+    "vendor_raw": "PRINTFORM, LLC",
+    "amount": "1358.91",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'PRINTFORM, LLC Signs' - the purpose is appended to the payee name, one of the documented workarounds on this no-Purpose-column form Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Signs"
+   },
+   {
+    "line_no": "10",
+    "page": 4,
+    "row": 10,
+    "date": "3/14/14",
+    "vendor_raw": "UTAH COUNTY GOVT.",
+    "amount": "760.19",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'UTAH COUNTY GOVT. FILING/CANDIDACY FEE' with 'CANDIDACY' written above the line as an insertion. NOTE for cross-checking, not as a source: two other 2014 filers in this chunk record the county filing fee as 569.48 - this Recorder candidate's fee is 760.19, so the fee is per-OFFICE and the 569.48 agreement between the other two is not a corpus-wide constant. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "FILING/CANDIDACY FEE"
+   },
+   {
+    "line_no": "11",
+    "page": 4,
+    "row": 11,
+    "date": "3/28/14",
+    "vendor_raw": "COSTCO",
+    "amount": "77.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee cell has 'Raphael Millet' STRUCK THROUGH above 'COSTCO'; handwritten corrections over struck values govern, so the payee is COSTCO. Full cell: 'COSTCO - Table + Almond Roca campaign for Raphael Millet'. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Table + Almond Roca for Raphael Millet campaign"
+   },
+   {
+    "line_no": "12",
+    "page": 4,
+    "row": 12,
+    "date": "3/25/14",
+    "vendor_raw": "Walmart",
+    "amount": "32.20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee cell has 'Raphael Millet tape and' STRUCK THROUGH above 'Walmart'; the correction governs. A short heavy strike also blacks out a few words mid-cell - the filer's own, not a clerk redaction. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Chocolates for Raphael's campaign"
+   },
+   {
+    "line_no": "13",
+    "page": 4,
+    "row": 13,
+    "date": "4/10/14",
+    "vendor_raw": "Walmart",
+    "amount": "35.33",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Raphael Millet - Walmart chocolates for campaign' (a reimbursement, address cell carries the filer's own address). A stray ink blob precedes the date. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "chocolates for campaign"
+   },
+   {
+    "line_no": "14",
+    "page": 4,
+    "row": 14,
+    "date": "2/27/14",
+    "vendor_raw": "BCR Political",
+    "amount": "30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "⚠ FIELD ORDER INVERTS ON THIS ROW AND THE THREE THAT FOLLOW: the filer writes the PURPOSE in the 'Name of Contributor' column and the PAYEE ('BCR Political') in the address column. The payee is read from the cell that names it and the purpose from the cell that states it - recorded as the page has it, with the inversion flagged rather than silently normalised. Printed '$30' without cents. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Website use of domain name registration"
+   },
+   {
+    "line_no": "15",
+    "page": 4,
+    "row": 15,
+    "date": "3/6/14",
+    "vendor_raw": "BCR Political",
+    "amount": "28",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "same inverted layout; 'Commerce' is written above the line as an insertion into 'Provo Chamber Forum'. Printed '$28' without cents. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Provo Chamber of Commerce Forum breakfast and passout flier"
+   },
+   {
+    "line_no": "16",
+    "page": 4,
+    "row": 16,
+    "date": "3/6/14",
+    "vendor_raw": "BCR Political",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "same inverted layout; 'BCR Political' is written and STRUCK at the head of the purpose cell and also appears in the address cell. Printed '$50' without cents. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Website hosting for Raphael Millet campaign"
+   },
+   {
+    "line_no": "17",
+    "page": 4,
+    "row": 17,
+    "date": "3/15/14",
+    "vendor_raw": "BCR Political",
+    "amount": "1353.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in BOTH columns on this row. A short heavy strike blacks out a word before 'design' - the filer's own. Last entry on p4; the printed grid ends at this band. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Contract/campaign hours and sign design"
+   },
+   {
+    "line_no": "18",
+    "page": 5,
+    "row": 1,
+    "date": "3/15/14",
+    "vendor_raw": "BCR Political",
+    "amount": "25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Printing for Raphael Millet campaign at BCR Political'; printed '$25' without cents Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Printing for Raphael Millet campaign"
+   },
+   {
+    "line_no": "19",
+    "page": 5,
+    "row": 2,
+    "date": "3/17/14",
+    "vendor_raw": "BCR Political",
+    "amount": "797.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Printing of Pass Out Card - BCR Political' Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Printing of Pass Out Card"
+   },
+   {
+    "line_no": "20",
+    "page": 5,
+    "row": 3,
+    "date": "3/17/14",
+    "vendor_raw": "BCR Political",
+    "amount": "20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Mail Chimp Email -- BCR Political'; printed '$20' without cents Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Mail Chimp Email"
+   },
+   {
+    "line_no": "21",
+    "page": 5,
+    "row": 4,
+    "date": "3/18/14",
+    "vendor_raw": "Staples",
+    "amount": "16.32",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'Raphael Millet -' is STRUCK THROUGH above 'Staples'; the correction governs. The address cell carries the filer's own address, so this is a reimbursement. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Caucus Passout, Envelopes + rubber bands"
+   },
+   {
+    "line_no": "22",
+    "page": 5,
+    "row": 5,
+    "date": "4/1/14",
+    "vendor_raw": "BCR Political",
+    "amount": "180",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'BCR Political' is written above 'Website creation' in the payee cell; printed '$180' without cents Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Website creation"
+   },
+   {
+    "line_no": "23",
+    "page": 5,
+    "row": 6,
+    "date": "4/4/14",
+    "vendor_raw": "BCR Political",
+    "amount": "187.21",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Purchase printing charges"
+   },
+   {
+    "line_no": "24",
+    "page": 5,
+    "row": 7,
+    "date": "4/5/14",
+    "vendor_raw": "BCR Political",
+    "amount": "2066.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "contract - consulting hours"
+   },
+   {
+    "line_no": "25",
+    "page": 5,
+    "row": 8,
+    "date": "4/7/14",
+    "vendor_raw": "USPS",
+    "amount": "1841",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Raphael Millet - USPS - stamps mailer' (a reimbursement; the address cell carries the filer's own address). Printed '$1,841' without cents. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "stamps mailer"
+   },
+   {
+    "line_no": "26",
+    "page": 5,
+    "row": 9,
+    "date": "4/7/14",
+    "vendor_raw": "Staples",
+    "amount": "132.02",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Staples - Envelopes' with 'BCR Political' written beneath; the address cell names BCR Political, so the two names on this row are not resolved further - both are quoted Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Envelopes"
+   },
+   {
+    "line_no": "27",
+    "page": 5,
+    "row": 10,
+    "date": "4/7/14",
+    "vendor_raw": "Utah County Republican Party",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'Raphael Millet -' is STRUCK THROUGH above the payee; the correction governs. Printed '$50' without cents. Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Convention Booth"
+   },
+   {
+    "line_no": "28",
+    "page": 5,
+    "row": 11,
+    "date": "4/8/14",
+    "vendor_raw": "Staples",
+    "amount": "354.78",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Staples, Printing mailer' with 'BCR Political' written beneath Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Printing mailer"
+   },
+   {
+    "line_no": "29",
+    "page": 5,
+    "row": 12,
+    "date": "4/7/14",
+    "vendor_raw": "BCR Political",
+    "amount": "10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Printing, BCR Political'; printed '$10' without cents Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Printing"
+   },
+   {
+    "line_no": "30",
+    "page": 5,
+    "row": 13,
+    "date": "4/11/14",
+    "vendor_raw": "Staples",
+    "amount": "12.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Staples -- Office Supplies' with 'BCR Political' written beneath Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Office Supplies"
+   },
+   {
+    "line_no": "31",
+    "page": 5,
+    "row": 14,
+    "date": "4/11/14",
+    "vendor_raw": "Westpro",
+    "amount": "324.24",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Westpro - Buttons - BCR Political' Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Buttons"
+   },
+   {
+    "line_no": "32",
+    "page": 5,
+    "row": 15,
+    "date": "4/11/14",
+    "vendor_raw": "Naumann",
+    "amount": "58.77",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee cell reads 'Naumann - Popup banner, signs - BCR Political' Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "Popup banner, signs"
+   },
+   {
+    "line_no": "33",
+    "page": 5,
+    "row": 16,
+    "date": "4/12/14",
+    "vendor_raw": "BCR Political",
+    "amount": "1046.52",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "last written entry on the side; the row-17 control crop rendered EMPTY Schedule B on this form reuses Schedule A's headings ('Name of Contributor' / 'Mailing Address & Zip Code') and prints NO Purpose column; this filer works around that by writing the purpose into the payee cell, so purpose here is quoted from that cell and not inferred. Expenditure rows carry no address field.",
+    "purpose": "contract hours"
+   }
+  ],
+  "notes": "PAGE-FACE candidate 'RAPHAEL MILLET' - index.csv names NO filer for this row, so the page face fills an empty channel label. ⚠ NAME SPELLING: the page face spells it MILLET (one t) on the cover, in the signature and in the last-name box of all four inner sheets, while the county's filename and reporting-period label spell it MILLETT (raw/2014/2014_30DayMillett_2.pdf, '30 Day Recorder - Millett'). The page face governs; this is the third clerk-name drift observed in this chunk (with Guernsey/Gurnsey) and the same class as the module's Farren/Farron and Bird/Baird cases. Page-face office 'RECORDER', agreeing with the channel's 'County Recorder'. Report type ticked '30 Days after withdraw or elimination'; party 'REPUBLICAN'; date 5/12/2014; clerk stamp 'MAY 12 AM 10:28'. ⚠ THE AMENDMENT QUESTION IS LEFT WHOLLY UNANSWERED - neither Yes nor No is ticked. That is an honest BLANK and was NOT read as 'No' (the §A4 precedent). FIVE pages: p1 the 2014 cover (Utah County Code 2-5) / p2 SUMMARY PAGE / p3 SCHEDULE A / p4 SCHEDULE B / p5 a SECOND SCHEDULE B, each classified from its own printed heading. FOLIATION: the filer numbers the four inner sheets '1 of 4' .. '4 of 4', EXCLUDING the cover - the §A4 convention, and the reason no page ordinal was used to locate the summary page. Summary lines 3 and 7 are SLASHED ZEROS (0 under the zero-glyph ruling) and every other summary cell carries a real figure. SOURCE PROPERTY worth carrying: this filer solves the missing Purpose column in TWO ways on one filing - appending the purpose to the payee in the 'Name of Contributor' cell (most rows), and, on four consecutive p4 rows, INVERTING THE FIELDS ENTIRELY: the purpose goes in the payee column and the payee ('BCR Political') in the address column. A parser keyed on column position would emit 'Website use of domain name registration' as a vendor on those rows. He also books most small purchases as REIMBURSEMENTS TO HIMSELF, writing his own name and address alongside the vendor's name, and repeatedly strikes his own name out and rewrites the true payee above the line - handwritten corrections over struck values govern and were followed. PRIVACY: this filing is UNREDACTED; every donor's full street line is legible on p3 and none was carried - city/state only. The two heavy ink strikes on p4 are the FILER's own corrections, not clerk redactions."
+ }
+]

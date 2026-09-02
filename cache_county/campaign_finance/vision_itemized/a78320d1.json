@@ -1,0 +1,95 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C03.json",
+ "key": "a78320d1",
+ "index_path": "raw/2010/2010_wb_jzollinger.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_jzollinger.pdf"
+ ],
+ "sha256_prefix": "e5f921e323ef9c6e",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "-0-",
+    "cover_over50_this": "-0-",
+    "cover_over50_cum": "-0-",
+    "cover_le50_this": "-0-",
+    "cover_le50_cum": "-0-",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is a completely blank ruled sheet — no ink in any of its 36 bands. Cover line 1 prints -0- in ALL THREE columns (LAST, THIS, CUMULATIVE), so the period and cumulative scopes coincide; zero rows closes both. The Carr 5-5-PG form prints NO schedule total on Form A (the sheet ends with the 'If additional space is needed…' note), so schedule_total is null and the cover line is the only anchor."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "326.15",
+    "cover_expense_cum": "326.15",
+    "cover_balance_end": "-326.15",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "326.15",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row on Form B (p3) = 326.15, which equals BOTH cover line 3 THIS (326.15) and CUMULATIVE (326.15) — first/only report of the cycle, so the two scopes coincide. The LAST-REPORT cell on line 3 is a blank ruled line (filer left it empty), not a zero. Form B prints no schedule total (Carr 5-5-PG), so the cover line is the only anchor."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints NO page subtotal or schedule total on either Form A or Form B — gate (a) is not available on this form family; scored against the cover lines instead. p2 rows 0.00 = cover line1 -0-; p3 rows 326.15 = cover line3 326.15.",
+  "row_count": "rowbands.py p3: geometry_status ok, 37 rules / 36 data bands, pitch 2.301%. Only band 1 (y 9.25, h 2.78) carries ink; bands 2-36 are empty at 200 dpi and on the full-page read → 1 row emitted. p2 read full-page at 100 and 200 dpi: 0 of its bands inked → 0 rows.",
+  "geometry_proof": "p3 amount-cell crop at 600 dpi (-x 4188 -y 630 -W 600 -H 200) renders exactly '326.15' over its rule; the control crop one row-pitch below (-y 780, same x/W/H) renders EMPTY (two bare rules, no ink). Row index confirmed unshifted.",
+  "balance_chain": "Cover line 4 CUMULATIVE prints -326.15. Beginning (line 4 LAST) is blank; 0 contributions - 326.15 expenditures = -326.15 — closes exactly against the printed ending balance. Also LAST + THIS = CUMULATIVE holds on line 3 (blank/0 + 326.15 = 326.15) and on lines 1 and 2 (-0- + -0- = -0-). No earlier filing by this filer in this chunk, so no cross-filing chain was available."
+ },
+ "escalations": 1,
+ "escalation_note": "p3 amount cell re-rendered as a 600 dpi tight crop to settle 326.15 (and its control). Cover figures were typewritten and read identically at 100 and 200 dpi.",
+ "notes": "Typewritten Carr 5-5-PG (not handwritten). Cover 'Name of Office' reads 'Cache County Clerk'; chunk file says office=Clerk/Auditor, candidate='Jill N. Zollinger' — cover 'Full Name of Candidate' reads 'Jill N. Zollinger'. AGREES on candidate; the office line inside the form says CLERK only (no 'Auditor'), a narrower reading than the chunk file's 'Clerk/Auditor'. County office, in scope. Cover date 10/13/2010, clerk RCVD stamp '13 OCT 2010 AM09:51' — matches the chunk file's 2010-10-13. PDF has 3 pages: the statute page (page 4 of the printed form) was not scanned. Privacy: the cover prints the candidate's home street address, home phone and business phone in the clear — all discarded at read time and written nowhere.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "326.15",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.90,9.57,11.88,3.04@p3",
+   "note": "Date cell reads verbatim 'Mar 2010' — month and year only, NO DAY, so not cleanly parseable to ISO; left blank with needs_review per the per-row contract. Amount typewritten, re-read identically in a 600 dpi tight crop. Form B has no in-kind column."
+  }
+ ]
+}

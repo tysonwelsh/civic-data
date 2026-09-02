@@ -1,6 +1,192 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-01-03",
+   "vendor_raw": "GSuite",
+   "purpose": "Website",
+   "amount": "38.61",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,22.18,81.28,3.93@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-01-30",
+   "vendor_raw": "Venmo",
+   "purpose": "Republican Women Luncheo",
+   "amount": "27.47",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,26.11,81.28,3.94@p4",
+   "note": "purpose text clipped at both cell edges at print time; 1200dpi crop shows leading glyph cut ('R' partial) and text running past right edge - visible glyphs transcribed verbatim"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-02-01",
+   "vendor_raw": "GSuite",
+   "purpose": "Website",
+   "amount": "38.61",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,30.05,81.28,3.86@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2022-02-04",
+   "vendor_raw": "Venmo",
+   "purpose": "Republican Woman Luncheo",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,33.91,81.28,3.93@p4",
+   "note": "purpose clipped at both cell edges as row 2; singular 'Woman' confirmed at 1200dpi (differs from row 2 'Women')"
+  },
+  {
+   "line_no": 5,
+   "date": "2022-03-02",
+   "vendor_raw": "GSuite",
+   "purpose": "Website",
+   "amount": "38.61",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,37.84,81.28,3.93@p4"
+  },
+  {
+   "line_no": 6,
+   "date": "2022-04-01",
+   "vendor_raw": "GSuite",
+   "purpose": "Website",
+   "amount": "38.61",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,41.77,81.28,3.89@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2022-05-01",
+   "vendor_raw": "GSuite",
+   "purpose": "Website",
+   "amount": "38.61",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,45.66,81.28,3.89@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2022-06-01",
+   "vendor_raw": "GSuite",
+   "purpose": "Website",
+   "amount": "38.61",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,49.55,81.28,3.93@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2022-07-01",
+   "vendor_raw": "GSuite",
+   "purpose": "Website",
+   "amount": "38.61",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,53.48,81.28,3.93@p4"
+  },
+  {
+   "line_no": 10,
+   "date": "2022-08-01",
+   "vendor_raw": "GSuite",
+   "purpose": "Website",
+   "amount": "38.60",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,57.41,81.28,3.86@p4",
+   "note": "38.60 (one cent below the other GSuite rows) confirmed at 400dpi"
+  },
+  {
+   "line_no": 11,
+   "date": "2022-09-01",
+   "vendor_raw": "GSuite",
+   "purpose": "Website",
+   "amount": "38.61",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,61.27,81.28,3.93@p4"
+  },
+  {
+   "line_no": 12,
+   "date": "2022-10-01",
+   "vendor_raw": "GSuite",
+   "purpose": "Website",
+   "amount": "37.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,65.20,81.28,3.94@p4"
+  },
+  {
+   "line_no": 13,
+   "date": "2022-11-01",
+   "vendor_raw": "GSuite",
+   "purpose": "Website",
+   "amount": "25.74",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,69.14,81.28,3.91@p4"
+  },
+  {
+   "line_no": 14,
+   "date": "2022-12-01",
+   "vendor_raw": "GSuite",
+   "purpose": "Website",
+   "amount": "25.74",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.06,73.05,81.28,3.88@p4"
+  }
+ ],
  "total_contributions": "0",
  "total_expenditures": "484.18",
  "beginning_balance": "2258.17",
@@ -47,6 +233,57 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "'2022 Financial Disclosure Report' title. NEITHER amendment box is checked. Column B (Aggregate Total) is left entirely BLANK by the filer on both lines - recorded as blank, not zero. Amounts typed without a '$'. The 'Office Sought' box is clipped by the form field width and renders as 'Salt Lake County Cou'; the cover 'Office' box reads 'Salt Lake County Council' in full. Summary header 'Date of Report' is clipped to 'Jan 31, 202'; the cover signature date reads 'Jan 31. 2023'. Page/of boxes blank."
+  "notes": "'2022 Financial Disclosure Report' title. NEITHER amendment box is checked. Column B (Aggregate Total) is left entirely BLANK by the filer on both lines - recorded as blank, not zero. Amounts typed without a '$'. The 'Office Sought' box is clipped by the form field width and renders as 'Salt Lake County Cou'; the cover 'Office' box reads 'Salt Lake County Council' in full. Summary header 'Date of Report' is clipped to 'Jan 31, 202'; the cover signature date reads 'Jan 31. 2023'. Page/of boxes blank.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A p3 present and wholly blank; printed subtotal 0 and total 0; Summary line 1 = 0 - a real zero at this filing"
+    },
+    "expenditures": {
+     "stated": "484.18",
+     "schedule_total": "484.18",
+     "itemized": "484.18",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "p4 rows 484.18 = printed subtotal 484.18 = schedule grand total 484.18 = Summary line 2 Column A 484.18"
+    }
+   },
+   "page_subtotal_gates": "p3 Schedule A blank, printed subtotal 0 / total 0; p4 rows 484.18 = printed subtotal 484.18 = printed total 484.18",
+   "escalations": 3,
+   "escalation_note": "p4 purpose cells rows 2 and 4 re-read at 1200dpi (text clipped at cell edge both sides; visible glyphs recorded verbatim); p4 amount column re-read at 400dpi across all 14 rows",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 14,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2022 form ('2022 Financial Disclosure Report For a Candidate'), year-end Jan 31 2023, amendment boxes unmarked. p5-p7 are the Other Campaign Accounts summary + itemized pages, blank except p5 line 7 = 0. No donor addresses printed anywhere; nothing redacted on itemized rows. Cover address/phone block bar-redacted. Chunk priors confirmed at the page."
+  }
  }
 }

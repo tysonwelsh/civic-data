@@ -3,7 +3,10 @@
  "key": "c848c81b",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:50:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -54,5 +57,163 @@
    "notes": "*** NAME DISAGREEMENT: index.csv carries candidate 'Taylor Dayton'; the PAGE FACE says 'Paul V. Child' in the Name of Candidate field and 'Paul Child' in the Report Verification block. The page is the authority - this is a Paul Child filing, filed under a county filename ('Child 5.1.20 Redacted') that index.csv attributes to Dayton. *** Line 7 is NEGATIVE: written '$- 1117.98' (the '$-' in black ink, the digits in blue) - the filer reports a deficit; transcribed as -1117.98 and magnified to confirm the minus sign. Line 3 is a hand-drawn open 'O' zero. The filer writes cents inconsistently: lines 1 and 2 as bare '250' / '1367.98', lines 4 and 5 as '250.00' with raised cents. AMENDMENT BOX: the 'No' checkbox carries a clear check; the 'Yes' checkbox also shows a small square artifact of the fillable-PDF rendering - read as 'No' at medium certainty. The cover's 'District:' and 'Office:' fill lines (right of the report-type list) were left blank. Signature redacted upstream by the county (black bar). Summary page's Page / Last Name / Date of Report boxes left blank; the sheet is the fillable version with a 'Submit' button. Office Seeking is written simply 'Recorder' (index.csv carries 'County Recorder')."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "4/2/20",
+   "donor_raw": "Jon Bartlett",
+   "amount": "100.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.35,16.66,14.65,3.89@p3",
+   "note": "donor_city/donor_state are blank because THE COUNTY REDACTED the address cell \u2014 a solid black bar covers the whole Mailing Address line. The filer's handwritten ZIP CODE (84043) survives above the bar; per ADDENDUM B5 a zip is NEVER converted into a city name, so the city stays honestly blank and the zip is recorded here only as the reason the cell is not simply empty. This is redacted-by-the-county, NOT left-empty-by-the-filer. Explicit widened geometry per G2 (the figure crosses the printed column rule)."
+  },
+  {
+   "line_no": "2",
+   "date": "4/8/20",
+   "donor_raw": "Bruce Bartlett",
+   "donor_city": "Lindon",
+   "amount": "150.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.35,20.55,14.65,3.88@p3",
+   "note": "THE SAME PAGE REDACTS THIS CELL ONLY PARTLY \u2014 the black bar covers the street portion but the filer's ', Lindon' and the zip 84042 are published IN THE CLEAR to the right of it, so donor_city is read directly from the row's own cell (never from the neighbouring row, never from the zip). This is exactly the ADDENDUM I4 property: one _Redacted filing blacking out one donor address and publishing the next donor's city on the same page. No state is printed by the filer, so donor_state is honestly blank (E4's fifth cause). PRIVACY: the visible street fragment is deliberately not carried. Explicit widened geometry per G2."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "3/13/20",
+   "vendor_raw": "Utah County Clerk",
+   "amount": "605.16",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.46,18.72,14.65,3.89@p4",
+   "note": "This blank has NO Purpose column, so purpose is honestly blank. The final digit is this filer's open-topped '6'; the reading is settled by ARITHMETIC, not by the glyph \u2014 1367.98 minus the other seven rows is exactly 605.16, a unique closure. \u26d4 This is the Utah County filing fee and it was NOT used to corroborate any figure on this or any other filing (E1/F5). PRIVACY: the address column prints a street line for this row and it is deliberately not carried; expenditure rows hold no address field at all."
+  },
+  {
+   "line_no": "2",
+   "date": "3/15/20",
+   "vendor_raw": "Weebly",
+   "amount": "77.22",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.46,22.61,14.65,3.91@p4",
+   "note": "the address column carries a WEBSITE ('Weebly.com') rather than a mailing address \u2014 a filer convention, not a purpose; columns assigned by content (G3) and purpose left honestly blank because the form prints no such column"
+  },
+  {
+   "line_no": "3",
+   "date": "3/16/20",
+   "vendor_raw": "Weebly",
+   "amount": "29.95",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.46,26.52,14.65,3.87@p4",
+   "note": "the address cell is a DITTO-style tick repeating the row above; it is an address-column mark only and carries nothing into a published field (expenditure rows have no address)"
+  },
+  {
+   "line_no": "4",
+   "date": "3/16/20",
+   "vendor_raw": "Vista Print",
+   "amount": "135.40",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.46,30.39,14.65,3.93@p4",
+   "note": "vendor written as two words 'Vista Print'; kept verbatim"
+  },
+  {
+   "line_no": "5",
+   "date": "3/29/20",
+   "vendor_raw": "SendPulse",
+   "amount": "32.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.46,34.32,14.65,3.86@p4"
+  },
+  {
+   "line_no": "6",
+   "date": "4/9/20",
+   "vendor_raw": "USPS",
+   "amount": "245.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.46,38.18,14.65,3.96@p4",
+   "note": "address cell left empty by the filer (no bar, no mark) \u2014 distinct from the county's redaction on p3"
+  },
+  {
+   "line_no": "7",
+   "date": "4/10/20",
+   "vendor_raw": "USPS",
+   "amount": "105.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.46,42.14,14.65,3.86@p4"
+  },
+  {
+   "line_no": "8",
+   "date": "4/10/20",
+   "vendor_raw": "USPS",
+   "amount": "138.25",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.46,46.00,14.65,3.91@p4",
+   "note": "third consecutive USPS row, two of them same-dated; transcribed as three separate printed entries exactly as the filer wrote them, never merged"
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah r8_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' on line 1 TOTAL CONTRIBUTIONS RECEIVED = 250 (p2 SUMMARY PAGE, located by its printed heading), which equals Schedule A's own printed 'Subtotal for this page' $250.00 AND its printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' $250.00",
+     "detail": "2 Schedule A rows sum to 100.00 + 150.00 = 250.00 exactly = the schedule's printed page subtotal = the schedule's printed Total Contributions Received = the cover's PROMOTED per-period cell (Column A, line 1). Column B 'Year-to-Date Total' also prints 250 on line 1 and is NOT summed as an increment; on this filing period and year-to-date coincide because it is the filer's withdrawal report and his first of the cycle on this channel. The summary ladder corroborates from a second direction: line 3 'Balance at Beginning' is an oval ZERO (read 0 under the zero-glyph ruling), line 4 'Total Contributions Received (From Line 1 Column A)' prints 250.00 and line 5 'Subtotal (Add lines 3 and 4)' prints $250.00."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' on line 2 TOTAL EXPENDITURES MADE = 1367.98, which equals Schedule B's own printed 'Subtotal for this page' $1367.98 AND its printed 'Total Expenditures Received (Sum of subtotals from all Schedule B pages)' $1367.98",
+     "detail": "8 Schedule B rows sum to 605.16 + 77.22 + 29.95 + 135.40 + 32.00 + 245.00 + 105.00 + 138.25 = 1,367.98 exactly = the printed page subtotal = the printed schedule total = the cover's Column A line 2. Column B YTD prints 1367.98 as well and is retained as cumulative, never summed. The ladder closes independently: line 5 subtotal 250.00 minus line 6 'Total Expenditures Made (From Line 2 Column A)' 1367.98 = line 7 'Balance at Close of Reporting Period' printed as $-1117.98 \u2014 a NEGATIVE closing balance, printed with an explicit minus sign, and the sign is kept."
+    }
+   },
+   "in_kind_convention": "monetary-only, and both conventions are identical here: this legacy_colAB blank prints no in-kind column or line anywhere, and no row on either schedule carries an in-kind annotation, so the monetary-only and monetary-plus-in-kind sums are the same figures (250.00 / 1,367.98) and both close. Tested per filing per ADDENDUM G1; no in-kind entries exist.",
+   "escalations": 9,
+   "escalation_note": "Nine 900 dpi --value crops. p3 row 1 rendered '100.00' but WITH THE TRAILING ZERO CLIPPED at the printed column's right-hand rule; re-rendered widened (w 9.77 -> 14.65 pct) it rendered '100.00' complete. p3 row 2 likewise: clipped '150.0' at the printed band, complete '150.00' widened. p3 row 3 (one past the last entry) rendered an EMPTY ruled band. p4 row 1 rendered '605.16' (widened re-render confirms the final '6', which this filer writes as an open-topped loop). p4 row 8 rendered '138.25'. p4 row 9 (one past) rendered an EMPTY ruled band, and a further crop at row 10 was also empty. NOTE the index correction this caught: a first p4 crop taken at y=49.91 rendered empty and looked like a missing row \u2014 it was in fact the one-past band, because on this UNDERLINE form the text sits ABOVE its rule, so band N ends at rule N. Nothing was changed by any crop; the widening is ADDENDUM G2 handling, not a re-reading.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 8,
+   "geometry": {
+    "measured": 0,
+    "explicit": 10,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "\u26a0 THE DOCUMENTED FILER/CHANNEL MISMATCH, CONFIRMED ON THE PAGE. index.csv (county_api / Strapi) names the candidate 'Taylor Dayton'; the PAGE FACE reads 'Paul V. Child' in the 'Name of Candidate or Officeholder' box and 'Paul Child' again in the Report Verification line, with Office Seeking 'Recorder', Political Party 'Republican', residence city Provo. THE PAGE FACE GOVERNS: this is PAUL V. CHILD'S 2020 County Recorder filing, mis-filed by the county's own CMS under Taylor Dayton's name. The channel label is recorded here and not adjudicated further; the record does not touch office_overrides.csv. VARIANT: legacy_colAB, NOT the 2020 boxed modern_boxAF \u2014 the form is the county-only blank 'FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' (Utah County Code 2-5 & Utah State Code 17-16-6.5) with no printed revision number and no year in its title, so the template says nothing about the cycle (utah-template-vintage-year). Four pages, each classified from its own printed heading: p1 cover, p2 'SUMMARY PAGE' (at p2, the tendency for this variant, but located by content), p3 'SCHEDULE A ITEMIZED CONTRIBUTIONS RECEIVED', p4 'SCHEDULE B ITEMIZED EXPENDITURES MADE'. No checklist decoy. REPORT TYPE: the checked INTERIM box is '30 Days after withdraw or elimination', signed 4/14/2020, and the amendment question is answered 'No' (the No box is ticked; the Yes box carries a stray mark but its Date-of-Report line is blank) \u2014 so index.csv's 'Withdraw/Elimination' period label AGREES with the page face here. A sideways clerk received-stamp reads 20 MAY ... 8:35. Foliation: the Page/of box is left wholly BLANK on all three inner sheets \u2014 the no-foliation practice. REDACTION judged per cell from the page (I4): the only county redactions are the signature bar on p1 and the two donor street bars on p3, and one of those two leaves the donor's city legible. BOTH SIDES CLOSE EXACTLY on the promoted per-period Column A cells (250.00 contributions / 1,367.98 expenditures), each corroborated by the schedule's own two printed footers, and the balance ladder closes to a printed NEGATIVE -1117.98 whose sign is kept. Every figure on the schedules is HANDWRITTEN (blue ink), so the digit-shape hazard of ADDENDUM I1 was live: the only doubtful glyph was the final '6' of 605.16, and it was settled by the side's unique arithmetic closure rather than by re-reading."
+  }
+ }
 }

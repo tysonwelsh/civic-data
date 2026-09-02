@@ -1,6 +1,145 @@
 {
- "contributions": [],
- "expenditures": [],
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2022-03-04",
+   "donor_raw": "David Muir (Loan)",
+   "occupation": "Financial Rptg/Cottonwo",
+   "amount": "930.15",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.0,20.84,90.0,3.89@p3",
+   "note": "address redacted at source; occupation left-clipped by redaction bar and right-truncated at cell edge"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-02-03",
+   "donor_raw": "David Muir (Loan)",
+   "occupation": "Financial Rptg/Cottonwo",
+   "amount": "27.19",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.0,24.73,90.0,3.93@p3",
+   "note": "address redacted at source; occupation left-clipped by redaction bar"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-02-01",
+   "donor_raw": "David Muir (Loan)",
+   "occupation": "Financial Rptg/Cottonwo",
+   "amount": "50.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.0,28.66,90.0,3.91@p3",
+   "note": "address redacted at source; occupation left-clipped by redaction bar"
+  },
+  {
+   "line_no": 4,
+   "date": "2022-03-07",
+   "donor_raw": "David Muir (Loan)",
+   "occupation": "Financial Rptg/Cottonwo",
+   "amount": "301.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.0,32.57,90.0,3.89@p3",
+   "note": "address redacted at source; occupation left-clipped by redaction bar; no In-Kind mark on this row"
+  },
+  {
+   "line_no": 5,
+   "date": "2022-03-07",
+   "donor_raw": "Roswell Rogers",
+   "occupation": "y Tax Auditor/Salt Lake",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.0,36.45,90.0,3.91@p3",
+   "note": "address redacted at source; occupation left-clipped by redaction bar \u2014 visible glyphs 'y Tax Auditor/Salt Lake'"
+  },
+  {
+   "line_no": 6,
+   "date": "2022-03-31",
+   "donor_raw": "David Muir (Loan)",
+   "occupation": "Financial Rptg/Cottonwo",
+   "amount": "177.45",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.0,40.36,90.0,3.89@p3",
+   "note": "address redacted at source; occupation left-clipped by redaction bar"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2022-03-04",
+   "vendor_raw": "Salt Lake County - Clerk",
+   "purpose": "Campaign Filing Fees",
+   "amount": "930.15",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.0,22.18,81.0,3.93@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2022-02-01",
+   "vendor_raw": "It Lake County - Republica",
+   "purpose": "entral Committee Appointment tc",
+   "amount": "50.00",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.0,26.11,81.0,3.93@p4",
+   "note": "name and purpose strings clipped at cell borders (text overflow); visible glyphs transcribed verbatim \u2014 presumably 'Salt Lake County - Republican [C]entral Committee Appointment t[o]...'"
+  },
+  {
+   "line_no": 3,
+   "date": "2022-02-03",
+   "vendor_raw": "Fed Ex Business Center",
+   "purpose": "Printing of Fliers",
+   "amount": "27.19",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.0,30.05,81.0,3.86@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2022-03-31",
+   "vendor_raw": "Elizabeth Busby",
+   "purpose": "Reimbursement for Website cost",
+   "amount": "177.45",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.0,33.91,81.0,3.93@p4"
+  }
+ ],
  "total_contributions": "$1,735.79",
  "total_expenditures": "$1,184.79",
  "beginning_balance": "$0.00",
@@ -49,6 +188,54 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
   "transcribed_date": "2026-08-01",
-  "notes": "Typed EasyVote-era form. FORM TITLE READS '2020 Financial Disclosure Report' although this is a 2022-cycle filing - the clerk reused the 2020 template; form_year recorded verbatim as 2020. Amendment date printed as '2222-03-31' (filer typo for 2022-03-31) - kept verbatim. Signature line blank; date taken from the e-signature stamp 04/02/22 - 11:04 AM and the Summary Page 'Date of Report' 04/02/22. Address/phone/email redacted black by the publisher."
+  "notes": "Typed EasyVote-era form. FORM TITLE READS '2020 Financial Disclosure Report' although this is a 2022-cycle filing - the clerk reused the 2020 template; form_year recorded verbatim as 2020. Amendment date printed as '2222-03-31' (filer typo for 2022-03-31) - kept verbatim. Signature line blank; date taken from the e-signature stamp 04/02/22 - 11:04 AM and the Summary Page 'Date of Report' 04/02/22. Address/phone/email redacted black by the publisher.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1735.79",
+     "schedule_total": "551.00",
+     "itemized": "1735.79",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "6 rows sum 1735.79 = Summary line 1 Col A; the printed Schedule A SUBTOTAL and TOTAL both carry 551.00, which is the Summary line-7 closing balance, not the sum of the page's rows (filer arithmetic error; agrees with audit note)"
+    },
+    "expenditures": {
+     "stated": "1184.79",
+     "schedule_total": "1184.79",
+     "itemized": "1184.79",
+     "basis": "schedule-grand-total",
+     "result": "exact",
+     "detail": "4 rows sum 1184.79 = printed SUBTOTAL = TOTAL = Summary line 2 Col A"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 1735.79 != printed subtotal 551.00 (printed figure is the closing balance; gated against Summary line 1 instead \u2014 exact); p4 rows 1184.79 = printed subtotal 1184.79",
+   "escalations": 5,
+   "escalation_note": "p3 occupation column 600dpi crops x2 (bar-clipped text); p4 row2 name/purpose 600dpi crop x1 (cell-clipped text); verification bands p3 left+amounts x2, p4 mid+amounts x2 \u2014 all read identically",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Cover header reads '2020 Financial Disclosure Report' filed in the 2022 cycle (report date 04/02/22, April 5 interim, amendment box YES with date typed '2222-03-31' \u2014 filer typo). Donor addresses bar-redacted (Complete Mailing Address column); the bar's right edge left-clips the Occupation/Employer text on p3. Sch B row 2 name and purpose strings are clipped at the cell borders (overflow text), transcribed as visible glyphs. Five of six Schedule A rows are candidate loans marked '(Loan)'; 4 of 6 contribution rows and all 4 expenditure rows are marked In-Kind on the form."
+  }
  }
 }

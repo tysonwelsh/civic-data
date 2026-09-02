@@ -1,0 +1,30 @@
+[{
+ "index_path": "raw/2010/2010_CountySheriff-TracyJamesO-102610.pdf",
+ "key": "3bc0a08d",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk next_05)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "empty-schedule", "expenditures": "empty-schedule"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED, written as the filer's SLASHED-ZERO glyph and read 0 under the repo zero-glyph ruling, matched by Schedule A's own printed 'Subtotal for this page $ Ø' — NOT by the schedule's 'Total Contributions Received' line, which the filer used for the cumulative figure (see detail)",
+   "detail": "Schedule A (p3) carries NO entries: the filer wrote a large 'N/A' across the middle of the grid and drew a single diagonal stroke from the bottom-left to the top-right corner voiding the whole table, and every one of the 16 ruled lines is otherwise empty. That is an annotation, not an entry, so the side is empty-schedule with ZERO rows, and zero rows sum to 0.00 = the cover's promoted PER-PERIOD cell (Column A, slashed zero) = the schedule's own printed 'Subtotal for this page' (slashed zero). SOURCE PROPERTY WORTH NAMING: the schedule's OTHER printed total line, 'Total Contributions Received (Sum of subtotals from all Schedule A pages)', is filled with 4,574.30 and the filer annotated it in his own hand 'FOR ENTIRE 2010 CAMPAIGN PERIOD YEAR TO DATE'. So on this form family that line can carry the CUMULATIVE figure while 'Subtotal for this page' carries the period figure — when the two schedule-level totals disagree, the SUBTOTAL is the per-period anchor. The 4,574.30 equals Column B Year-to-Date on this cover and equals this filer's own 6-15-10 report's period total; it is recorded as cumulative and NEVER summed as an increment, and nothing was differenced across the two covers."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' line 2 TOTAL EXPENDITURES MADE, a SLASHED ZERO read 0, matched by Schedule B's own printed 'Subtotal for this page $ Ø'",
+   "detail": "Schedule B (p4) carries NO entries: the same treatment as Schedule A — a large handwritten 'N/A' over the grid and one diagonal stroke voiding the table, all 16 ruled lines otherwise empty. Zero rows sum to 0.00 = the cover's Column A (slashed zero) = the schedule's printed page subtotal (slashed zero). Schedule B's 'Total Expenditures Received' line prints 4,574.30 with the same handwritten annotation 'FOR ENTIRE 2010 CAMPAIGN PERIOD YEAR TO DATE' and is cumulative; it equals Column B YTD and is never summed as an increment."
+  }
+ },
+ "in_kind_convention": "not applicable — both schedules are empty, this form prints no in-kind column, and the monetary-only and monetary-plus-in-kind conventions both give 0.00, which is exactly what the cover states. Both were checked rather than assumed.",
+ "escalations": 0,
+ "escalation_note": "No escalation was needed: nothing on either schedule is a figure to read. Every cell in Column A and every one of summary lines 3-7 is the filer's slashed-zero glyph, legible at 200 dpi full-page, and both schedules' page subtotals are the same glyph.",
+ "frames": {},
+ "contributions": [],
+ "expenditures": [],
+ "notes": "PAGE-FACE CANDIDATE: 'JAMES O. TRACY JR.', REPUBLICAN, residence city PROVO, Office Seeking 'SHERIFF' (this cover is written in all-caps; the same filer's 06-15-10 cover is in mixed case). index.csv names NO candidate for this row, so the page face is the only identity and is offered to the coordinator for office_overrides.csv promotion. legacy_colAB variant; 4 pages, each classified from its own printed header: p1 cover ('Seven days preceding the General Election', amendment box ticked No, signed and dated 10-26-2010, clerk stamp 'OCT 26 AM10:50'), p2 SUMMARY PAGE (located by its printed heading), p3 SCHEDULE A, p4 SCHEDULE B. A ZERO-ACTIVITY PERIOD, honestly reported: Column A lines 1 and 2 and summary lines 3, 4, 5, 6 and 7 are ALL the filer's slashed-zero glyph, read 0 under the zero-glyph ruling with the glyph named here; Column B Year-to-Date prints 4,574.30 on both lines. BOTH SCHEDULE PAGES EXIST AND ARE BLANK — each carries a large 'N/A' plus one corner-to-corner diagonal stroke voiding the grid, and nothing else. That is `empty-schedule` (the filer entered nothing), NOT `no-schedule-page` (the pages are there, and pdfinfo reports 4 pages) and NOT `withheld` (nothing failed to read). No frames block is written because no page of this filing carries a transcribed row. NEW SOURCE PROPERTY for the wave: this filing proves ON THE PAGE that the schedule's 'Total Contributions Received / Total Expenditures Received (Sum of subtotals from all Schedule A/B pages)' line is NOT reliably period-scoped — this filer filled both with the cycle figure and wrote 'FOR ENTIRE 2010 CAMPAIGN PERIOD YEAR TO DATE' beneath them, while leaving 'Subtotal for this page' at zero. A gate built on the schedule's TOTAL line rather than its SUBTOTAL line would have read a 4,574.30 anchor against an empty ledger here. Not a *_Redacted.pdf; the county published this in the clear and no address or phone number was carried into this record."
+}]

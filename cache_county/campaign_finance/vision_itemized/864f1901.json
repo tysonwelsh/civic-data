@@ -1,0 +1,182 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C15.json",
+ "key": "864f1901",
+ "index_path": "raw/2020/2020_st_Scan_3.pdf",
+ "applies_to": [
+  "raw/2020/2020_st_Scan_3.pdf"
+ ],
+ "sha256_prefix": "060a42a54f55b5fb",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "none",
+  "expenditures": "carr-5-5-pg-form-B"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": null,
+    "cover_over50_cum": null,
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": null,
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no Form A page in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "This PDF is a single page and that page is the Carr 5-5-PG 'ITEMIZED EXPENDITURE REPORT (Form B)', footer 'Page 3'. There is no Form A page and no cover in the document, so contributions are not in scope for this document and there is no anchor of any kind."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": null,
+    "cover_expense_cum": null,
+    "cover_balance_end": null,
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "8523.67",
+   "basis": "no printed anchor exists in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "ORPHAN Form B page: no cover in this PDF, and the Carr Form B prints no schedule total of its own (the sheet ends with '(If additional space is needed, use blank paper ...)'). Anchors are therefore all null and the result is honestly unknown - NO anchor was borrowed from any other document. For the record only: the seven transcribed rows sum to 8523.67, which happens to equal the line-3 figure on the separate cover document 5ee13452 (raw/2020/2020_st_Scan_2.pdf, Marc Kevin Ensign) in this same chunk. That coincidence is reported as pairing evidence in notes, NOT used as the reconciliation basis."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "the Carr Form B prints NO schedule total and NO page subtotal - there is no printed figure on this page to gate against. Rows sum to 8523.67 (600.00 + 909.50 + 1805.30 + 1088.00 + 544.00 + 140.00 + 3436.87).",
+  "row_count": "p1 rowbands.py --dpi 200 reports geometry_status 'gaps', 35 bands; band 1 (y 8.86, h 4.48) is the two-line printed column header, bands 2+ are the ~2.16-pct writing lines. 7 bands carry ink, 28 are empty. 7 rows emitted = 7 inked bands.",
+  "geometry_proof": "p1 first-row box (pct:81.72,9.82,15.85,1.89) crops to '$ 600. -'; last-row box (pct:81.72,22.86,15.85,2.00) crops to '$ 3436. 87'; control one row-pitch below the last row (y 26.43) renders EMPTY (two bare rules, no ink).",
+  "balance_chain": "not checkable - the document carries no cover and therefore no balance line."
+ },
+ "escalations": 4,
+ "escalation_note": "p1 amount column rows 1-6 as one 1200 dpi band crop; row 7 amount cell 1200 dpi; date+vendor+purpose columns rows 1-7 at 600 dpi; plus the empty control crop. The 90 dpi contact sheet read row 7 as 3456.87; the 200 dpi page and the 1200 dpi cell crop both read 3436.87, and the rows-sum then equals 8523.67 exactly - a textbook case of the 'the low-res sheet is never the transcription source' rule.",
+ "notes": "ORPHAN PAGE, as the county addendum predicted for this exact path. It is a lone Form B 'Page 3' with no cover, so the document names no candidate, no office and no period. index.csv carries an EMPTY candidate AND an EMPTY office for it; the page confirms neither, so scope cannot be decided from this document alone - see the pairing evidence below. || PAIRING EVIDENCE FOR THE ORCHESTRATOR (not used as an anchor): the 7 rows sum to EXACTLY 8523.67, which is the line-3 (total campaign expenses) figure printed in both the THIS and CUMULATIVE columns of the cover document 5ee13452 / raw/2020/2020_st_Scan_2.pdf (Marc Kevin Ensign, Cache County Council - South, signed 7/30/20) in this same chunk. Adjacent scan-batch names (Scan_2 / Scan_3), same one-page-per-file split, same hand. If a human confirms the merge, this side becomes result 'exact' on basis 'cover-line3', scope 'cumulative' (that cover's THIS and CUMULATIVE cells are equal, i.e. first/only report of the cycle). I did not make that call. || Row 7's date cell is a RANGE ('4/8-6/30/20') and is therefore left BLANK with needs_review 1, verbatim kept in the row note. || No addresses appear on the Carr Form B (it has no address column), so no privacy filtering was needed on this page.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-05-18",
+   "vendor_raw": "Cache Valley Media Group",
+   "purpose": "Digital Advertising",
+   "amount": "600.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.72,9.82,15.85,1.89",
+   "note": "amount written '$ 600.' with a trailing dash where the superscript cents go = whole dollars, no cents -> 600.00"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-05-20",
+   "vendor_raw": "Badger Screen Printing",
+   "purpose": "Signs",
+   "amount": "909.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.72,12.21,15.85,1.79",
+   "note": "cents written as a superscript '50' over a short rule -> 909.50"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2020-05-21",
+   "vendor_raw": "Post Card Mania",
+   "purpose": "Mailer",
+   "amount": "1805.30",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.72,14.29,15.85,1.79",
+   "note": "cents written as a superscript '30' over a short rule -> 1805.30"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2020-06-04",
+   "vendor_raw": "Cache Valley Media Group",
+   "purpose": "Radio Ads",
+   "amount": "1088.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:81.72,16.57,15.85,1.64",
+   "note": "the superscript cents group is a single ink blot, legible only as a doubled 'oo'/'00' shape; read as .00, and the schedule's own sum (8523.67) closes exactly only at 1088.00, so the arithmetic settles it"
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2020-06-18",
+   "vendor_raw": "Cache Valley Media Group",
+   "purpose": "Radio Ads",
+   "amount": "544.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.72,18.57,15.85,1.79",
+   "note": "amount written '$ 544.' with a trailing dash for the cents = whole dollars -> 544.00"
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "2020-06-29",
+   "vendor_raw": "Textedly",
+   "purpose": "Texting Service",
+   "amount": "140.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.72,20.57,15.85,1.79",
+   "note": "amount written '$ 140.' with a trailing dash for the cents = whole dollars -> 140.00"
+  },
+  {
+   "line_no": "7",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Facebook Ads",
+   "purpose": "Social Media Ads",
+   "amount": "3436.87",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.72,22.86,15.85,2.00",
+   "note": "date cell is a RANGE, written verbatim '4/8-6/30/20' - left BLANK per the date rule. Amount: the 90 dpi contact sheet read 3456.87; the 200 dpi page and a 1200 dpi cell crop both read 3436.87 (a clear closed-top 4 with a crossbar, then a 3 and a 6), and the schedule sums to 8523.67 exactly at 3436.87. Cents are a superscript '87' over a rule"
+  }
+ ]
+}

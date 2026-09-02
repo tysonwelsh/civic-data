@@ -1,0 +1,89 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C25.json",
+ "key": "0ccade70",
+ "index_path": "raw/2026/2026_cc_2026_Financial_Disclosure_June16_Bryson_Behm.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_June16_Bryson_Behm.pdf"
+ ],
+ "sha256_prefix": "ac16117ee98d7a6a",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_expense_last": null,
+    "cover_expense_this": null,
+    "cover_expense_cum": null,
+    "cover_balance_end": "-1655.65",
+    "schedule_total": "0",
+    "page_subtotal": "$0",
+    "box_A_balance_begin": "-1655.65",
+    "box_F_subtotal": "-1655.65"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-box-B==cover-box-C",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A (p2) carries the single typed word 'N/A' in the row area and no transactions. Printed 'Subtotal for this page $0' and 'Total Contributions Received $ 0'; Summary p4 Box B (This Period) = 0 and Box C (Year-to-Date) = 0. The two scopes coincide at zero, so scope recorded cumulative. The CFD form prints no separate <=$50 aggregate line, so the le50 keys are null."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "-1655.65",
+    "schedule_total": "0",
+    "page_subtotal": "$ 0",
+    "box_A_balance_begin": "-1655.65",
+    "box_F_subtotal": "-1655.65"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-box-D==cover-box-E",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule B (p3) carries the single typed word 'N/A' and no transactions. Printed 'Subtotal for this page $ 0' and 'Total Expenditures Made $ 0'; Summary p4 Box D = 0, Box E = 0. Scopes coincide at zero."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: 0 rows sum 0.00 = printed Subtotal $0 = printed Total $0. p3: 0 rows sum 0.00 = printed Subtotal $ 0 = printed Total $ 0. Both gate exactly.",
+  "row_count": "Born-digital CFD; the schedule area is UNRULED below the header (no writing lines), so rowbands.py has no grid to score. Counted by ink: p2 one non-transaction token 'N/A', p3 one non-transaction token 'N/A' - zero inked transaction rows on either side, zero rows emitted.",
+  "geometry_proof": "No rows emitted, so no row geometry to prove. Both schedule row areas were rendered full-page at 200 dpi and are empty apart from the 'N/A' tokens.",
+  "balance_chain": "Box A -1655.65 + Box B 0 = Box F -1655.65 (closes); Box F -1655.65 - Box D 0 = Balance at Close -1655.65 (closes). Chain closes exactly. The negative opening balance is the filer's own figure, carried verbatim."
+ },
+ "escalations": 0,
+ "escalation_note": "Born-digital vector PDF; every figure renders crisply at 200 dpi and is corroborated by the embedded text layer. No bistable glyphs, so no crop escalation was warranted.",
+ "notes": "index.csv calls the office 'Clerk/Auditor'; the form's own Office line reads 'County Clerk' - same office, but the form's wording governs. index.csv/chunk date is 2026-06-16 (the county's June-16 posting batch); the form's own 'Date of Report' and signature date are 06-09-2026 - the DOCUMENT date is 2026-06-09. PAGE ORDER differs from the addendum's description of this family: p1 is the candidate/affirmation cover, p2 Schedule A, p3 Schedule B, and the lettered A-F Summary Page is p4 (not p1). The candidate's home street address, phone and email are printed in the clear on p1 and were discarded at read time. 'N/A' is a nil mark, not a zero glyph, so it produces no row; the printed schedule totals '0' are real numerals and are recorded as anchors.",
+ "contributions": [],
+ "expenditures": []
+}

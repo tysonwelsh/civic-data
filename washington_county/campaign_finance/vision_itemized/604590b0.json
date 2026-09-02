@@ -1,0 +1,223 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W06.json",
+ "key": "604590b0",
+ "index_path": "raw/live_wp/2024-Gary-Christensen.pdf",
+ "applies_to": [
+  "raw/live_wp/2024-Gary-Christensen.pdf"
+ ],
+ "sha256_prefix": "394764d7aba456aa",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "second-report-cover",
+  "5": "form-A",
+  "6": "form-B",
+  "7": "second-report-cover",
+  "8": "form-A",
+  "9": "form-B"
+ },
+ "n_reports_in_pdf": 3,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen3-county-branded-spreadsheet-grid (two sub-generations, see notes)",
+  "expenditures": "gen3-county-branded-spreadsheet-grid (two sub-generations, see notes)"
+ },
+ "recon": {
+  "report_no": 1,
+  "pages": "1-3",
+  "report_date": "2024-06-12",
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "cover_balance_end": "640.2",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1 (0 in all three columns)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) carries the single word 'NONE' in the Name-of-Contributer cell of its first data row and nothing else - an EMPTY schedule, zero rows. Its printed TOTAL CONTRIBUTIONS cell is left BLANK (anchor \"\"). Cover line 1 reads 0 in all three columns, so the scopes coincide at zero; cover line 2 (the $50-or-less line, which this generation does print) is BLANK in all three columns."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "640.2",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "640.2",
+    "schedule_total": ""
+   },
+   "itemized": "640.20",
+   "basis": "none of the printed figures closes - see detail",
+   "result": "delta",
+   "scope": "unknown",
+   "detail": "Form B (p3) carries ONE row - 2-Jan-24, 'Self/Gary L Christensen', Filing Fee, $640.20 - whose date falls INSIDE this report's own stated period (2-Jan-24 to 11-Jun-24). The schedule's printed TOTAL EXPENDITURES cell is BLANK. On the cover, line 3 reads LAST 640.2, THIS 0, CUMULATIVE 0. The filer's own arithmetic does not close (640.2 + 0 is not 0), and a first report of a cycle should not carry a LAST-REPORT figure at all. The row sum 640.20 equals ONLY the LAST-REPORT cell, which is the previous report's total and is not a scope anchor for this filing's own ledger; it matches neither the THIS nor the CUMULATIVE cell. Published verbatim as a delta with needs_review 1 on the row. No figure was synthesised and no printed total was overwritten."
+  },
+  "balance_chain": "Does NOT close. Cover line 4 (balance) reads LAST 640.2, THIS 0, CUMULATIVE 640.2, while contributions are 0 and the ledger shows 640.20 spent - a balance of -640.20 would be the arithmetic result. The filer appears to have entered the filing fee as a positive balance and to have put this period's spending in the LAST-REPORT column. Reported, not repaired."
+ },
+ "recon_by_report": [
+  {
+   "report_no": 1,
+   "pages": "1-3",
+   "report_date": "2024-06-12",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "0",
+     "cover_over50_this": "0",
+     "cover_over50_cum": "0",
+     "cover_le50_last": "",
+     "cover_le50_this": "",
+     "cover_le50_cum": "",
+     "cover_balance_end": "640.2",
+     "schedule_total": ""
+    },
+    "itemized": "0.00",
+    "basis": "cover-line1 (0 in all three columns)",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "Form A (p2) carries the single word 'NONE' in the Name-of-Contributer cell of its first data row and nothing else - an EMPTY schedule, zero rows. Its printed TOTAL CONTRIBUTIONS cell is left BLANK (anchor \"\"). Cover line 1 reads 0 in all three columns, so the scopes coincide at zero; cover line 2 (the $50-or-less line, which this generation does print) is BLANK in all three columns."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "640.2",
+     "cover_expense_this": "0",
+     "cover_expense_cum": "0",
+     "cover_balance_end": "640.2",
+     "schedule_total": ""
+    },
+    "itemized": "640.20",
+    "basis": "none of the printed figures closes - see detail",
+    "result": "delta",
+    "scope": "unknown",
+    "detail": "Form B (p3) carries ONE row - 2-Jan-24, 'Self/Gary L Christensen', Filing Fee, $640.20 - whose date falls INSIDE this report's own stated period (2-Jan-24 to 11-Jun-24). The schedule's printed TOTAL EXPENDITURES cell is BLANK. On the cover, line 3 reads LAST 640.2, THIS 0, CUMULATIVE 0. The filer's own arithmetic does not close (640.2 + 0 is not 0), and a first report of a cycle should not carry a LAST-REPORT figure at all. The row sum 640.20 equals ONLY the LAST-REPORT cell, which is the previous report's total and is not a scope anchor for this filing's own ledger; it matches neither the THIS nor the CUMULATIVE cell. Published verbatim as a delta with needs_review 1 on the row. No figure was synthesised and no printed total was overwritten."
+   },
+   "balance_chain": "Does NOT close. Cover line 4 (balance) reads LAST 640.2, THIS 0, CUMULATIVE 640.2, while contributions are 0 and the ledger shows 640.20 spent - a balance of -640.20 would be the arithmetic result. The filer appears to have entered the filing fee as a positive balance and to have put this period's spending in the LAST-REPORT column. Reported, not repaired."
+  },
+  {
+   "report_no": 2,
+   "pages": "4-6",
+   "report_date": "2024-10-17",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "640.20",
+     "cover_over50_this": "0",
+     "cover_over50_cum": "640.20",
+     "cover_le50_last": null,
+     "cover_le50_this": null,
+     "cover_le50_cum": null,
+     "cover_balance_end": "0",
+     "schedule_total": "-"
+    },
+    "itemized": "0.00",
+    "basis": "cover-line1-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "Form A is entirely empty (its candidate-name and office fields print '0') and its printed TOTAL CONTRIBUTIONS is an accounting nil dash. Rows-sum 0.00 equals the THIS-REPORT cell, which is a slashed-zero glyph followed by a dash = 0, and NOT the cumulative 640.20 - so the ledger is per-period on this filing, a different scope from the cumulative figure the module publishes. ANCHOR-KEY NOTE: this form generation's cover has NO '$50.00 or less' line, so cover_le50_* are null (field does not exist)."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "640.20",
+     "cover_expense_this": "0",
+     "cover_expense_cum": "640.20",
+     "cover_balance_end": "0",
+     "schedule_total": "-"
+    },
+    "itemized": "0.00",
+    "basis": "cover-line3-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "Form B is entirely empty and its printed TOTAL EXPENDITURES is an accounting nil dash. Rows-sum 0.00 = the THIS-REPORT slashed-zero, not the cumulative 640.20."
+   },
+   "balance_chain": "640.20 in, 640.20 out, balance 0 - cover line 3 (balance) is a slashed-zero in all three columns. Closes."
+  },
+  {
+   "report_no": 3,
+   "pages": "7-9",
+   "report_date": "2025-01-06",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "640.20",
+     "cover_over50_this": "0",
+     "cover_over50_cum": "640.20",
+     "cover_le50_last": null,
+     "cover_le50_this": null,
+     "cover_le50_cum": null,
+     "cover_balance_end": "0",
+     "schedule_total": "-"
+    },
+    "itemized": "0.00",
+    "basis": "cover-line1-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "Form A is entirely empty (its candidate-name and office fields print '0') and its printed TOTAL CONTRIBUTIONS is an accounting nil dash. Rows-sum 0.00 equals the THIS-REPORT cell, which is a slashed-zero glyph followed by a dash = 0, and NOT the cumulative 640.20 - so the ledger is per-period on this filing, a different scope from the cumulative figure the module publishes. ANCHOR-KEY NOTE: this form generation's cover has NO '$50.00 or less' line, so cover_le50_* are null (field does not exist)."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "640.20",
+     "cover_expense_this": "0",
+     "cover_expense_cum": "640.20",
+     "cover_balance_end": "0",
+     "schedule_total": "-"
+    },
+    "itemized": "0.00",
+    "basis": "cover-line3-this",
+    "result": "exact",
+    "scope": "period",
+    "detail": "Form B is entirely empty and its printed TOTAL EXPENDITURES is an accounting nil dash. Rows-sum 0.00 = the THIS-REPORT slashed-zero, not the cumulative 640.20."
+   },
+   "balance_chain": "identical to report 2: 640.20 in, 640.20 out, balance a slashed-zero in all three columns. Closes."
+  }
+ ],
+ "gates": {
+  "page_subtotal": "p2: empty ('NONE'), printed TOTAL blank, rows 0.00 = cover line 1 (0). p3: 1 row 640.20 against a BLANK printed TOTAL and a cover line 3 of 640.2 / 0 / 0 - WILL NOT GATE, reported as a delta with both figures named. p5/p6 and p8/p9: empty schedules whose printed TOTALs are accounting nil dashes; rows 0.00 = the covers' THIS-REPORT slashed-zeros.",
+  "row_count": "ink profile of each amount column: p3 yields exactly ONE inked data cell and no footer ink (the blank TOTAL); p2 yields no inked amount at all (the only ink in its grid is the word 'NONE' in the name column); p5, p6, p8 and p9 yield no inked data cells at all, only the grid rules, the header row and the footer nil dash. 1 row emitted in total, from p3.",
+  "geometry_proof": "p3: the first-row box renders '$640.20'; the control box one row-pitch below renders EMPTY. (No other side emits a row, so no other pointer was written.)",
+  "balance_chain": "Report 1 does NOT close (see recon_by_report). Reports 2 and 3 close. CROSS-FILING CHAIN RUN (three filings by one filer): report 2's CUMULATIVE column (contributions 640.20 / expenses 640.20 / balance 0) equals report 3's TOTALS-FROM-LAST-REPORT column EXACTLY - that pair chains. Report 1's cumulative column (contributions 0 / expenses 0 / balance 640.2) does NOT equal report 2's LAST-REPORT column (640.20 / 640.20 / 0): from report 2 onward the filer carries his own 640.20 filing fee as BOTH a cumulative contribution and a cumulative expense, whereas report 1 records contributions as 0 and leaves its own expense cumulative at 0. The break is in report 1's cover, not between reports 2 and 3. Reported, not repaired - a human should look at this filer's 2024 covers."
+ },
+ "escalations": 11,
+ "escalation_note": "all three cover anchor grids, report 1's cover line 4, the Form A 'NONE' row and its blank footer TOTAL, the Form B row and its blank footer TOTAL, a check crop of p8's densest band (it proved to be the column-header row, not data), and 4 single-cell geometry-proof crops (the first pair was re-issued after an x-offset clipped the leading digit) - all 600 dpi.",
+ "notes": "BUNDLE of 3 reports IN chronological order: report 1 signed 6/12/2024 for 2-Jan-24 to 11-Jun-24; report 2 signed 10/17/2024 for 15-Jun-24 to 17-Oct-24 (Date Received 10/24/2024, clerk verified 10/25/2024); report 3 signed Jan 6, 2025 for 17-Oct-24 to 31-Dec-24 (RECEIVED stamp JAN 06 2025, clerk verified 1/6/2025). n_reports_in_pdf 3 agrees with the chunk file. TWO DIFFERENT FORM SUB-GENERATIONS ARE STAPLED INTO ONE PDF: report 1 uses the colour 'WASHINGTON COUNTY / UTAH' logo whose cover HAS a '$50.00 or less' aggregate line (left blank), while reports 2 and 3 use the monochrome 'AMERICA'S COUNTY' logo whose cover has only three lines and NO $50-or-less line at all - so cover_le50_* is \"\" on report 1 and null on reports 2 and 3, and that difference is real, not a reading error. index.csv says candidate 'Gary L Christensen', office 'Recorder'; all three covers agree ('Gary L Christensen' / 'Gary L. Christensen', 'Candidate for Office Of Recorder'). Reports 2 and 3 print '0' in their schedules' own candidate-name and office fields - a spreadsheet default, not a name. The one transaction in the whole bundle is the candidate paying his own filing fee ('Self/Gary L Christensen', $640.20). Report 1's cover prints the candidate's city/state/zip, email and phone in the clear - discarded at read time per core-brief 5. Page rot 270; poppler renders all nine pages upright portrait 1700x2200.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Self/Gary L Christensen",
+   "purpose": "Filing Fee",
+   "amount": "640.20",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.12,28.00,25.29,2.00@p3",
+   "note": "date cell prints '2-Jan-24'. needs_review 1 because this side is published as a DELTA: the row is legible and certain, but the cover's THIS-REPORT and CUMULATIVE expense cells both read 0 while its LAST-REPORT cell reads 640.2, so no printed figure of the right scope closes against it. The payee is the candidate himself reimbursing/paying his own filing fee."
+  }
+ ]
+}

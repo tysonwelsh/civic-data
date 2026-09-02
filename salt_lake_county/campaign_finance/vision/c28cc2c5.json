@@ -1,0 +1,120 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "KEY BANK",
+   "purpose": "FEES",
+   "amount": "91.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.90,24.35,78.00,3.75@p3",
+   "note": "the Date of Expenditure cell reads 'YTD' verbatim - not a date, so date is BLANK with needs_review=1; nothing completed from the report period. Amount printed with superscript cents ('$91.^00') -> 91.00. Re-read in a 600 dpi row crop, identical. Geometry is measured by eye off the 200 dpi render because rowbands.py returns unreliable geometry on this photographed page."
+  }
+ ],
+ "total_contributions": "0.00",
+ "total_expenditures": "$91.00",
+ "beginning_balance": "20,118.08",
+ "ending_balance": "20,027.08",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "$91.00",
+  "line5_subtotal": "20,118.03"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "COUNCIL B",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-28-21",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium",
+  "candidate": "high",
+  "party": "high",
+  "office_sought": "medium",
+  "report_type": "medium",
+  "report_date": "high",
+  "form_year": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/forms__snelgrove_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "RICHARD SNELGROVE",
+  "office": "County Council",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/forms__snelgrove_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "PHOTOGRAPHED, not scanned - confirmed (uneven illumination, page-edge shadow, curl). Legible throughout after -normalize; NOTHING on this filing was left blank for illegibility. NO SCHEDULE A PAGE IN THE DOCUMENT - the chunk file's flag is CONFIRMED, and the form's own 'Page N of 3' boxes prove the document is complete as filed. Cover departures from the printed form, all honest blanks: 'Office Sought' and 'District Number' are EMPTY; the top-row 'Office' cell reads handwritten 'COUNCIL B', which is what office_sought carries here (the 2008-era two-office-box precedent, finding 6 in the module CLAUDE.md) - the chunk file's 'County Council / At-Large B' is consistent with it but is NOT what the form prints. NEITHER amendment box (Yes or No) is checked, so is_amendment is '' and not 'No'. Candidate address, phone, email and signature are redacted at source. Handwritten at the foot of page 1, outside every form field: 'CKUHN@SLCO.ORG' and '385-468-7400' - the county CLERK's public contact, written by the clerk's office, not a candidate field; recorded here only as a note, not as data. Clerk stamp 'RECEIVED IN OFFICE JAN 28 2021'. Summary Page cents are written as superscripts over a rule ('0.^00', '$91.^00', '20,118.^08') and are transcribed with a decimal point per the brief.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "THE DOCUMENT CONTAINS NO SCHEDULE A PAGE - it is 3 pages and the form's own page-of-N boxes read 'Page 2 of 3' (Summary) and 'Page 3 of 3' (Schedule B), so no Schedule A page was ever filed rather than being lost from the scan. Summary line 1 states $0.00 in BOTH columns, so no itemized detail is missing; but the side is 'none' (non-existence), never a transcribed zero."
+    },
+    "expenditures": {
+     "stated": "91.00",
+     "schedule_total": "91.00",
+     "itemized": "91.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "the single row (91.00) = printed page subtotal $91.00 = printed grand total $91.00 = Summary line 2 Column A $91.00 (and Column B, and line 6)"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 91.00 = printed subtotal $91.00 (closed)",
+   "escalations": 6,
+   "escalation_note": "p1 Type-of-Report box 600 dpi x1 (confirms the Year-End Jan-31 box carries a handwritten check); p1 Office Sought / District Number cells 600 dpi x1 (both empty); p1 amendment Yes/No boxes 600 dpi x1 (BOTH empty); p2 balance column lines 3-7 600 dpi x1; p2 line-5 cents 1200 dpi x1 and p2 line-3 cents 1200 dpi x1 (the .03 vs .08 adjudication). All pages also -normalize'd with ImageMagick before reading, per the brief's photographed-page recipe.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "PHOTOGRAPHED, not scanned - confirmed (uneven illumination, page-edge shadow, curl). Legible throughout after -normalize; NOTHING on this filing was left blank for illegibility. NO SCHEDULE A PAGE IN THE DOCUMENT - the chunk file's flag is CONFIRMED, and the form's own 'Page N of 3' boxes prove the document is complete as filed. Cover departures from the printed form, all honest blanks: 'Office Sought' and 'District Number' are EMPTY; the top-row 'Office' cell reads handwritten 'COUNCIL B', which is what office_sought carries here (the 2008-era two-office-box precedent, finding 6 in the module CLAUDE.md) - the chunk file's 'County Council / At-Large B' is consistent with it but is NOT what the form prints. NEITHER amendment box (Yes or No) is checked, so is_amendment is '' and not 'No'. Candidate address, phone, email and signature are redacted at source. Handwritten at the foot of page 1, outside every form field: 'CKUHN@SLCO.ORG' and '385-468-7400' - the county CLERK's public contact, written by the clerk's office, not a candidate field; recorded here only as a note, not as data. Clerk stamp 'RECEIVED IN OFFICE JAN 28 2021'. Summary Page cents are written as superscripts over a rule ('0.^00', '$91.^00', '20,118.^08') and are transcribed with a decimal point per the brief."
+  }
+ }
+}

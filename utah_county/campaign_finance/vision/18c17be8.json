@@ -3,7 +3,10 @@
  "key": "18c17be8",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:28:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,66 @@
    "notes": "Handwritten. AMENDMENT QUESTION LEFT UNANSWERED: neither 'Yes' nor 'No' is checked, so is_amendment is '' (blank, not 'No'). Lines 2 Column A and 6 are the filer's slashed-zero glyph, transcribed '0'. Lines 3, 5 and 7 are written with leading minus signs - the filer carries a NEGATIVE balance forward (-2,049.71, matching line 7 of his 06/15/10 report) and closes at -1,549.71; retained verbatim. The summary page header reads 'Page 1 of 3'. Cover signature date is 'Oct 22, 2010'; report_date is taken from the summary page's Date of Report box ('10/22/10'). Office field reads 'Assessor' (index.csv 'County Assessor' - naming convention only)."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "8/17/2010",
+   "donor_raw": "Republican Party",
+   "amount": "500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.87,17.95,9.53,3.81@p3",
+   "geometry_frame": "p3 axis=y cell=81.87-91.40 rowband=17.95-21.76 (1 of 1 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the amount cell prints '$500' with NO cents written; recorded as the decimal 500.00 with the verbatim form noted. THE ADDRESS CELL IS LEFT ENTIRELY EMPTY BY THE FILER (this filing is not redacted, so the blank is the filer's own omission, not a county redaction bar) \u2014 donor_city and donor_state are honestly omitted rather than inferred. The donor is named only as 'Republican Party' with no county or state qualifier; not resolved further here (the same filer's June report names a different donor entirely)."
+  }
+ ],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (500) on the p2 Summary Page, which is also Schedule A's own printed 'Subtotal for this page' ($500) and its printed 'Total Contributions Received' ($500), and is repeated at summary line 4",
+     "detail": "1 Schedule A row: 500.00 = the schedule's printed page subtotal = the schedule's printed total = the cover's promoted PER-PERIOD Column A cell. Column B 'Year-to-Date Total' prints 1,000 \u2014 the cycle total including this filer's earlier 6-15-2010 report \u2014 and is NOT summed as an increment; the 500 difference between the two columns is exactly what the per-period regime exists to keep separate, and NOTHING was differenced across the two filings to derive anything here. The p2 balance ladder closes on its own terms: line 3 -2,049.71 (a NEGATIVE carried balance, printed with a leading minus) + line 4 500 = line 5 -1,549.71; less line 6 (a slashed zero = 0) = line 7 -1,549.71."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE, written as a SLASHED ZERO (read 0 under the repo zero-glyph ruling), matched by Schedule B's own printed 'Subtotal for this page $ \u00d8' and 'Total Expenditures Received $ \u00d8'",
+     "detail": "Schedule B (p4) carries NO entries \u2014 every ruled line is empty, no date, no payee, no address anywhere on the page. Zero rows sum to 0.00 = the cover's promoted per-period Column A cell = both of the schedule's own printed totals, all three written as slashed zeros. Column B 'Year-to-Date Total' prints 2,549.71, which is this filer's earlier report's spending carried forward as a cumulative figure and is never summed as an increment."
+    }
+   },
+   "in_kind_convention": "monetary-only closed the contribution side at 500.00 and the expenditure side at 0.00; the monetary-plus-in-kind convention was tested and is identical, because no row is marked in-kind and this form prints no in-kind column or line.",
+   "escalations": 2,
+   "escalation_note": "Two tight crops at 900 dpi, both geometry proofs (the arithmetic had already closed on the schedule's printed subtotal): the row-1 amount box rendered '$500' (a slashed dollar sign then 500, NO cents written), and a control crop of the row-2 band rendered an empty cell between two rules \u2014 so the single entry is in band 1 and the band list is not shifted.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 1,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "legacy_colAB variant on the 2010 blank; 4 pages: p1 cover ('Seven days preceding the General Election', signed 'Oct 22, 2010', stamped received OCT 22 twice \u2014 once over the 'For Office Use Only' box and once below it), p2 SUMMARY PAGE ('Page 1 of 3'), p3 Schedule A ('Page 2 of 3'), p4 Schedule B ('Page 3 of 3') \u2014 unlike this filer's own June filing, which numbered every sheet '1 of 1', this one foliates the three form sheets as a set and still EXCLUDES the cover, so a page ordinal remains untrustworthy for locating the summary page. THE AMENDMENT QUESTION IS AGAIN LEFT UNANSWERED: neither 'Yes' nor 'No' is checked. SCHEDULE B EXISTS AND IS BLANK \u2014 an `empty-schedule`, not a missing page and not a withheld side: the page prints its full ruled grid with nothing on it, a SLASHED ZERO written in the amount column of the first row area (a nil annotation, not an entry \u2014 no date and no payee accompany it), and slashed zeros in both the 'Subtotal for this page' and 'Total Expenditures Received' cells. All zero glyphs read 0 under the repo zero-glyph ruling with the glyph named here. The closing balance stays NEGATIVE (-1,549.71) and is kept negative. PAGE-FACE candidate name is 'Kris Poulson' (signing 'Kris W. Poulson'; Republican, residence city Payson) \u2014 index.csv names NO candidate for this row; page-face Office Seeking reads 'Assessor', agreeing with index.csv's 'County Assessor'. Not a *_Redacted.pdf."
+  }
+ }
 }

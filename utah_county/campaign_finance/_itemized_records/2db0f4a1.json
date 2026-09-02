@@ -1,0 +1,79 @@
+[{
+ "index_path": "raw/2012/2012_Ellertson102912.pdf",
+ "key": "2db0f4a1",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r2_03)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED (7,300.00) on the p2 Summary Page, which is ALSO Schedule A's own printed 'Subtotal for this page $ 7,300.00' and its printed 'Total Contributions Received $ 7,300.00', and is repeated at summary line 4",
+   "detail": "5 Schedule A rows sum to 1000.00 + 3500.00 + 1000.00 + 1500.00 + 300.00 = 7,300.00 exactly = the schedule's own printed page subtotal = the schedule's printed total = the cover's promoted PER-PERIOD cell (Column A). Column B 'Year-to-Date Total' prints 16,224.31 and is NOT summed as an increment - it is the cumulative figure, and it is a DIFFERENT SCOPE from what this schedule itemizes. This side is `exact`, not `cumulative-exact`: the schedule sums to Column A, not to Column B (ADDENDUM A6's diagnostic is the reverse). The summary ladder corroborates: line 3 beginning 7,429.98 + line 4 7,300.00 = line 5 subtotal 14,729.98 as printed, minus line 6 6,160.85 = line 7 close 8,569.13 as printed."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' line 2 TOTAL EXPENDITURES MADE (6,160.85) on the p2 Summary Page, which is ALSO Schedule B's own printed 'Subtotal for this page $ 6,160.85' and its printed 'Total Expenditures Received $ 6,160.85', and is repeated at summary line 6",
+   "detail": "3 Schedule B rows sum to 73.55 + 5706.64 + 380.66 = 6,160.85 exactly = the printed page subtotal = the printed total = Column A. No cell needed escalating for legibility; the two proof crops are geometry proofs. Column B Year-to-Date prints 15,920.36 and is never summed as an increment."
+  }
+ },
+ "in_kind_convention": "monetary-only closed exactly on BOTH sides (7,300.00 and 6,160.85). This form prints no in-kind column and no row on either schedule is marked in-kind, so the monetary-plus-in-kind convention gives the identical sums and also closes. Both conventions tested per the per-filer rule.",
+ "escalations": 5,
+ "escalation_note": "Five crops, all geometry or column-assignment proofs rather than legibility disputes - every amount on this filing was unambiguous at 200 dpi and both sides closed on the first read. Four 900 dpi first-row/last-row boxes, plus one 700 dpi full-width strip over bands 1-5 of p3 for the field-shift screen.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [83.72, 93.84],
+   "cells": [[6.14, 17.86], [19.39, 53.05], [54.52, 82.25], [83.72, 93.84]],
+   "rows": [[14.97, 19.01], [19.01, 23.02], [23.02, 27.07], [27.07, 31.16], [31.16, 35.17], [35.17, 39.22], [39.22, 43.27], [43.27, 47.34], [47.34, 51.33], [51.33, 55.38], [55.38, 59.43], [59.43, 63.48], [63.48, 67.49], [67.49, 71.54], [71.54, 75.59], [75.59, 79.68], [79.68, 83.69]],
+   "measure_note": "legacy_colAB Schedule A, UNDERLINE form. rowbands.py (raw frame, skew +0.2 deg, drift 0.27%) returns 17 per-column underline rules 19.01 -> 83.69 at pitch 4.0425; the segments give the column bands Date 6.14-17.86, Name of Contributor 19.39-53.05, Mailing Address & Zip 54.52-82.25, Amount 83.72-93.84 (a fifth 0.05-wide segment at 99.3 is the scanner's page-edge line and is excluded). TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N]; row 1 extrapolated one pitch up to 14.97. ADDENDUM A1 CONTROL CROP: the extrapolated band-1 amount box pct:83.72,14.97,10.12,4.04@p3 at 900 dpi RENDERED the printed 'Amount' header above the handwritten figure '1,000.00' - the recorded row-1 amount - so the filer did use the first ruled line and the bands are not shifted. LAST-ROW PROOF: the band-5 box pct:83.72,31.16,10.12,4.01@p3 at 900 dpi RENDERED '300.00', the recorded row-5 amount, with the tail of row 4's '1,500.00' visible above the intervening rule. FIELD-SHIFT SCREEN: a 700 dpi full-width strip over bands 1-5 (pct:6.1,14.9,88,20.3@p3) RENDERED date / name / address / amount correctly aligned on all five rows, with the five written entries in bands 1-5 consecutively - no continuation line consumed a printed row."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [83.23, 93.41],
+   "cells": [[5.53, 17.30], [18.83, 52.50], [53.97, 81.70], [83.23, 93.41]],
+   "rows": [[15.61, 19.66], [19.66, 23.71], [23.71, 27.77], [27.77, 31.86], [31.86, 35.89], [35.89, 39.92], [39.92, 43.95], [43.95, 48.04], [48.04, 52.00], [52.00, 56.03], [56.03, 60.10], [60.10, 64.16], [64.16, 68.16], [68.16, 72.23], [72.23, 76.29], [76.29, 80.36], [80.36, 84.39]],
+   "measure_note": "Same underline grid. rowbands.py (raw frame, skew 0.0, drift 0.0) returns 17 rules 19.66 -> 84.39 at pitch 4.0456; segments give Date 5.53-17.30, Name 18.83-52.50, Mailing Address 53.97-81.70, Amount 83.23-93.41. Row N spans [rule N-1, rule N]; row 1 extrapolated one pitch up to 15.61. FIRST-ROW PROOF: pct:83.23,15.61,10.18,4.05@p4 at 900 dpi RENDERED the printed 'Amount' header above '73.55', the recorded row-1 amount. LAST-ROW PROOF (only three rows are written, so this is also every row but the middle one): the band-3 box pct:83.23,23.71,10.18,4.06@p4 at 900 dpi RENDERED '380.66', the recorded row-3 amount, with the tail of the row-2 address ('20') intruding from the cell to its left above the rule - a reminder that this filer's address lines run long, but the amount column itself is clean."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "6-21-12",
+   "donor_raw": "Republic Services, Inc", "donor_city": "Phoenix", "donor_state": "AZ",
+   "amount": "1000.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Amount written with a thousands comma as '1,000.00'. The only OUT-OF-STATE donor on the filing (Arizona). PRIVACY: a full street line is printed on the form and is deliberately not carried, not even in this note; city/state only."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "6-21-12",
+   "donor_raw": "Bob BoNAR", "donor_city": "Salt Lake City", "donor_state": "UT",
+   "amount": "3500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Amount written '3,500.00'. The leading digit of the date is written with a tall ascender and a closed bowl so that it resembles a lower-case 'b'; it is the same 6 the filer writes in row 1's '6-21-12' and in '6-20-12' on Schedule B, and the row sits between two other June-dated entries, so it is transcribed 6. Surname capitalisation kept as written ('BoNAR'). PRIVACY: street line printed, not carried."},
+  {"line_no": "3", "page": 3, "row": 3, "date": "10-8-12",
+   "donor_raw": "John Valentine", "donor_city": "Orem", "donor_state": "UT",
+   "amount": "1000.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Amount written '1,000.00'. PRIVACY: street line printed, not carried."},
+  {"line_no": "4", "page": 3, "row": 4, "date": "10-8-12",
+   "donor_raw": "Utah County Republican Party", "donor_city": "Provo", "donor_state": "UT",
+   "amount": "1500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Amount written '1,500.00'. Note this is money FLOWING IN from the county party in October, while the filer's own June report (key e00a4fae) records payments OUT to the same organisation - both are transcribed as printed and neither is netted against the other. PRIVACY: the address block is a post-office box and is deliberately not carried; city/state only."},
+  {"line_no": "5", "page": 3, "row": 5, "date": "10-26-12",
+   "donor_raw": "utah HOSPAC", "donor_city": "Salt Lake City", "donor_state": "UT",
+   "amount": "300.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "A political action committee, written by the filer as 'utah HOSPAC'; kept verbatim and not expanded. PRIVACY: street line and suite printed, not carried."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "6-20-12",
+   "vendor_raw": "COSTCO", "amount": "73.55",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "The 2012 Schedule B prints NO Purpose column, so purpose is honestly blank on every row of this side. Dated 6-20-12, one day BEFORE this reporting period's first contribution and two days after the filer's previous report was signed - a real property of the document, not corrected."},
+  {"line_no": "2", "page": 4, "row": 2, "date": "8-13-12",
+   "vendor_raw": "BCR Political LLC", "amount": "5706.64",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "The same consultancy that took 7,989.89 on the filer's June report; written here without the comma after 'Political' and without a trailing period on 'LLC'. This single row is 92.6% of the period's expenditures. Amount written without a thousands comma, as '5706.64'."},
+  {"line_no": "3", "page": 4, "row": 3, "date": "8-15-12",
+   "vendor_raw": "utah Valley Convention Center", "amount": "380.66",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "Capitalisation kept as the filer wrote it."}
+ ],
+ "notes": "Page-face candidate 'Larry Alton Ellertson' (verification block the same), Republican, Office Seeking written 'Utah County Commission Seat C', residence city Lindon UT. index.csv names NO candidate for this row (channel label 'Ellertson - 10/29/12'), so the page face supplies the name and it agrees with index.csv's office. 4 pages on the 2012 legacy_colAB blank characterised on key 9630b1c7: p1 COVER, p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B - each classified from its own printed header, the summary page located by its heading and not by ordinal. Report type 'Seven days preceding the General Election' ticked; amendment 'No' ticked; signed 10-29-12; clerk stamp OCT 29 AM 7:09. Foliation 2/3/4 'of 4', INCLUDING the cover, consistent with this filer's June report and opposite to Ballard's practice in the same cycle. A WRITING-CONVENTION SHIFT WITHIN ONE FILER'S CYCLE: on his June report this filer wrote no thousands separators anywhere; here he writes '7,300.00', '16,224.31', '1,000.00' etc. with commas on the summary page and on most - not all - schedule rows. Recorded because it is exactly the kind of within-filer variation that makes a fixed-format parser fail on this corpus. BOTH SIDES CLOSE EXACTLY on the promoted per-period Column A figure and on each schedule's own printed subtotal and total. COVER-CHAIN OBSERVATION ONLY, never a source of figures: this filing's line 3 beginning balance (7,429.98) is character-for-character the line 7 close of his own June filing, and its Column B cumulatives are the two June per-period figures plus these two (8,924.31 + 7,300.00 = 16,224.31; 9,759.51 + 6,160.85 = 15,920.36). The chain is internally consistent - noted as a property of the record, not used to derive or adjust any figure here. PRIVACY: this era is unredacted (ADDENDUM A5); full donor street lines and one post-office box are visible on Schedule A and none is carried into this record, in any field or note."
+}]

@@ -1,0 +1,161 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-07-27",
+   "donor_raw": "LOAN TO SELF",
+   "occupation": "DISABLED",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.04,24.25,86.47,3.93@p4",
+   "note": "the Name of Contributor cell literally reads \"LOAN TO SELF\" - the filer named no person there; it is the candidate's own loan and is transcribed verbatim, never resolved to his name. Printed \"$50\" with superscript \"00\" - cents are written as a SUPERSCRIPT over a short rule (the filer's convention on every figure in this filing); transcribed with a decimal point; Complete Mailing Address column is covered by one county black bar spanning all three filled rows - redacted at source"
+  },
+  {
+   "line_no": 2,
+   "date": "2018-07-28",
+   "donor_raw": "EDWARD BODILY",
+   "amount": "4.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=n/a;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.04,28.18,86.47,3.98@p4",
+   "note": "Occupation/Employer cell exists and the filer left it empty. cents are written as a SUPERSCRIPT over a short rule (the filer's convention on every figure in this filing); transcribed with a decimal point; Complete Mailing Address column is covered by one county black bar spanning all three filled rows - redacted at source"
+  },
+  {
+   "line_no": 3,
+   "date": "2018-07-29",
+   "donor_raw": "KATHLEEN OSMOND",
+   "occupation": "RETIRED",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.04,32.16,86.47,3.97@p4",
+   "note": "cents are written as a SUPERSCRIPT over a short rule (the filer's convention on every figure in this filing); transcribed with a decimal point; Complete Mailing Address column is covered by one county black bar spanning all three filled rows - redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-07-29",
+   "vendor_raw": "DONORBOX",
+   "purpose": "PROCESSING FEE",
+   "amount": ".88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.70,25.50,78.53,4.00@p5",
+   "note": "amount is printed with a LEADING DECIMAL and no dollar digit (\".88\"); kept verbatim"
+  }
+ ],
+ "total_contributions": "$74.00",
+ "total_expenditures": ".88",
+ "beginning_balance": "0",
+ "ending_balance": "$73.12",
+ "aggregate": {
+  "total_contributions_to_date": "0",
+  "total_expenditures_to_date": "0",
+  "line5_subtotal": "$74.00"
+ },
+ "cover": {
+  "candidate": "ADAM GUYMON",
+  "party": "",
+  "office_sought": "COUNCIL AT-LARGE",
+  "district_number": "AT-LARGE",
+  "report_type": "September 15",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": "2018"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__september__guyman-adam-council-at-large-c1.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "ADAM GUYMON",
+  "office": "County Council",
+  "election_year": "",
+  "source_pdf": "raw/globalassets/2018_disclosures__september__guyman-adam-council-at-large-c1.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "STRUCTURAL: page 1 is a **Statement of Organization for a Candidate** - a different form entirely (letterhead 'SHERRIE SWENSEN, Salt Lake County Clerk', 'Revised 12.15'), signed 9-12-18 and stamped RECEIVED IN OFFICE SEP 12 2018. The Financial Disclosure Report's own cover is PAGE 2 and its Summary Page is PAGE 3. The cover was located by CONTENT, not by ordinal, exactly as the chunk file's flag warned. Every field in `cover` comes from p2, never from p1. || THE FDR COVER'S SIGNATURE DATE IS BLANK - the candidate signed but wrote no date, and there is NO 'Date Received' stamp on the FDR cover either (the only clerk stamp in the document is on the Statement of Organization). So report_date is honestly '', not 9-12-18: the Statement of Organization's date belongs to the Statement of Organization. || THE AMENDMENT QUESTION IS UNANSWERED: neither Yes nor No is checked, so is_amendment is '' - not 'No'. Political Party is likewise blank on the form. || THE DOCUMENT CONTRADICTS THE CHUNK FILE ON THE SEAT: the chunk file (from index.csv / the clerk listing) says 'At-Large C', but the form's Office Sought reads 'COUNCIL AT-LARGE' and its District Number cell reads 'AT-LARGE' with NO letter anywhere on either page. The form governs; the letter is not transcribed. The filename spells the surname 'guyman' while the form is signed and printed GUYMON three times - the form governs there too. || Summary Page and both schedules have their Page/of, Last Name and Date of Report header boxes entirely BLANK. || COLUMN B IS ZERO ON BOTH LINES while Column A is 74.00 / .88 - the filer wrote a SLASHED ZERO in each aggregate cell. Recorded as 0 under the zero-glyph ruling, not as blank, and not reconciled against Column A (the known Column-B-is-unreliable property). || The filer writes cents as a superscript over a rule throughout ($74 with a raised 00, $73 with a raised 12); those are transcribed with a decimal point and the convention is named on every affected row. || This is a very small filing - 3 contributions totalling $74 and one $0.88 payment processor fee - and both sides close exactly; the smallness is real, not a truncated read.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "5",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$74.00",
+     "schedule_total": "$74.00",
+     "itemized": "74.00",
+     "basis": "summary-line-1",
+     "detail": "3 rows sum to 74.00 = the printed TOTAL CONTRIBUTIONS RECEIVED on p4 = Summary Page line 1 Column A. Exact. No in-kind is marked anywhere on this filing.",
+     "result": "exact"
+    },
+    "expenditures": {
+     "stated": ".88",
+     "schedule_total": ".88",
+     "itemized": "0.88",
+     "basis": "summary-line-2",
+     "detail": "1 row (.88) = the printed TOTAL EXPENDITUTRES MADE on p5 = Summary Page line 2 Column A. Exact.",
+     "result": "exact"
+    }
+   },
+   "page_subtotal_gates": "BOTH schedules print SUBTOTAL FOR THIS PAGE and the filer left BOTH cells BLANK, so the page-subtotal gate is unavailable on this filing; the gate used is each schedule's own printed grand TOTAL (74.00 and .88), and both close exactly.",
+   "escalations": 2,
+   "escalation_note": "1200 dpi tight cell crops on p3: Column A + Column B of Summary lines 1 and 2 (to settle the superscript-cents convention and the Column-B glyphs), and Summary line 3 Column A. All three confirmed the 200 dpi reading.",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "STRUCTURAL: page 1 is a **Statement of Organization for a Candidate** - a different form entirely (letterhead 'SHERRIE SWENSEN, Salt Lake County Clerk', 'Revised 12.15'), signed 9-12-18 and stamped RECEIVED IN OFFICE SEP 12 2018. The Financial Disclosure Report's own cover is PAGE 2 and its Summary Page is PAGE 3. The cover was located by CONTENT, not by ordinal, exactly as the chunk file's flag warned. Every field in `cover` comes from p2, never from p1. || THE FDR COVER'S SIGNATURE DATE IS BLANK - the candidate signed but wrote no date, and there is NO 'Date Received' stamp on the FDR cover either (the only clerk stamp in the document is on the Statement of Organization). So report_date is honestly '', not 9-12-18: the Statement of Organization's date belongs to the Statement of Organization. || THE AMENDMENT QUESTION IS UNANSWERED: neither Yes nor No is checked, so is_amendment is '' - not 'No'. Political Party is likewise blank on the form. || THE DOCUMENT CONTRADICTS THE CHUNK FILE ON THE SEAT: the chunk file (from index.csv / the clerk listing) says 'At-Large C', but the form's Office Sought reads 'COUNCIL AT-LARGE' and its District Number cell reads 'AT-LARGE' with NO letter anywhere on either page. The form governs; the letter is not transcribed. The filename spells the surname 'guyman' while the form is signed and printed GUYMON three times - the form governs there too. || Summary Page and both schedules have their Page/of, Last Name and Date of Report header boxes entirely BLANK. || COLUMN B IS ZERO ON BOTH LINES while Column A is 74.00 / .88 - the filer wrote a SLASHED ZERO in each aggregate cell. Recorded as 0 under the zero-glyph ruling, not as blank, and not reconciled against Column A (the known Column-B-is-unreliable property). || The filer writes cents as a superscript over a rule throughout ($74 with a raised 00, $73 with a raised 12); those are transcribed with a decimal point and the convention is named on every affected row. || This is a very small filing - 3 contributions totalling $74 and one $0.88 payment processor fee - and both sides close exactly; the smallness is real, not a truncated read."
+  }
+ }
+}

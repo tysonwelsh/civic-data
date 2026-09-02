@@ -46,6 +46,57 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten form. Every filled figure on the Summary Page is a hand-drawn slashed zero (\u00d8) = 0: Lines 1, 2, 3, 4 and 7 Column A. Lines 5 and 6 Column A and both Column B cells were left BLANK by the filer (recorded as \"\", not 0). Neither the amendment Yes nor No box is checked. Office Sought is abbreviated \"CC\"; the top-row Office box reads \"SL County Council D2\". Handwritten note at the bottom of the Summary Page: \"No election activity 2022\"."
+  "notes": "Handwritten form. Every filled figure on the Summary Page is a hand-drawn slashed zero (\u00d8) = 0: Lines 1, 2, 3, 4 and 7 Column A. Lines 5 and 6 Column A and both Column B cells were left BLANK by the filer (recorded as \"\", not 0). Neither the amendment Yes nor No box is checked. Office Sought is abbreviated \"CC\"; the top-row Office box reads \"SL County Council D2\". Handwritten note at the bottom of the Summary Page: \"No election activity 2022\".",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "0.00",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A page (p3) present and wholly blank \u2014 zero ink rows; handwritten 'No election activity' across the top; a slashed-zero glyph in the TOTAL CONTRIBUTIONS RECEIVED cell. Genuine zero-activity filing; matches the cached stated 0"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "0.00",
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "Schedule B page (p4) present and wholly blank \u2014 zero ink rows; handwritten 'No election activity' across the top; a slashed-zero glyph in the TOTAL EXPENDITURES MADE cell. Matches the cached stated 0"
+    }
+   },
+   "page_subtotal_gates": "no rows to gate; p3 TOTAL cell and p4 TOTAL cell each carry a handwritten slashed-zero (\u00d8) glyph \u2014 zero, per zero-glyph ruling",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Handwritten throughout. Genuine zero-activity year-end filing on the '2022 Financial Disclosure Report For a Candidate' form: YEAR-END REPORT 'January 31 of each year' box checked, signature date 1/30/2023. Cover reads Office 'SL County Council D2', Office Sought 'CC', District Number '2', party 'Rep.' \u2014 index prior (County Council) confirmed at the page. 'No election activity' handwritten across the Summary Page, Schedule A and Schedule B; pp5-7 are the Other Campaign Accounts summary + its two itemized schedules, all blank with slashed-zero glyphs and 'No activity for 2022' / 'No activity 2022' annotations. All zero figures are slashed-zero \u00d8 glyphs (nil marks), not numerals."
+  }
  }
 }

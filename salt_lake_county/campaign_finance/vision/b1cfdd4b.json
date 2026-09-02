@@ -1,0 +1,174 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-11-04",
+   "donor_raw": "Morris Dale Baker",
+   "occupation": "Ron Thorne Development",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:9.84,23.25,84.80,3.75@p3",
+   "note": "Occupation/Employer cell holds an employer name only ('Ron Thorne Development'), captured verbatim. Complete Mailing Address cell redacted at source. Amount written with superscript cents over a rule ('100' with a raised 'oo') - transcribed 100.00; gated by the printed page subtotal $100.00."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-12-04",
+   "vendor_raw": "Go Daddy",
+   "purpose": "Domain Renewal",
+   "amount": "$100.74",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:14.11,24.50,76.40,3.90@p4",
+   "note": "cents group underlined by the filer, as on every amount on this page; gated by the printed subtotal $180.26."
+  },
+  {
+   "line_no": 2,
+   "date": "2018-12-07",
+   "vendor_raw": "Walmart",
+   "purpose": "(2) Boxes of \"Thank-you\" Cards",
+   "amount": "$10.67",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:14.11,28.40,76.40,4.35@p4",
+   "note": "purpose wraps to two lines inside the cell and carries the filer's own quotation marks; transcribed verbatim."
+  },
+  {
+   "line_no": 3,
+   "date": "2018-12-07",
+   "vendor_raw": "Sam's Club",
+   "purpose": "(2) Boxes of \"Christmas\" Cards",
+   "amount": "$28.85",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:14.11,32.75,76.40,3.90@p4",
+   "note": "purpose wraps to two lines inside the cell; the quotation marks are the filer's own."
+  },
+  {
+   "line_no": 4,
+   "date": "2018-12-07",
+   "vendor_raw": "Postmaster",
+   "purpose": "(4) Books of stamps",
+   "amount": "$40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:14.11,36.65,76.40,3.95@p4",
+   "note": "amount written with superscript cents over a rule ('40' with a raised 'oo') - transcribed 40.00; the four rows sum exactly to the printed subtotal."
+  }
+ ],
+ "total_contributions": "$100.00",
+ "total_expenditures": "$180.26",
+ "beginning_balance": "$39,564.92",
+ "ending_balance": "$39,484.66",
+ "aggregate": {
+  "total_contributions_to_date": "$64,893.50",
+  "total_expenditures_to_date": "$25,408.84",
+  "line5_subtotal": "$39,664.92"
+ },
+ "cover": {
+  "candidate": "Steven L DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2019-01-27",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__2018_year_end__steve-debry_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L DeBry",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/2018_disclosures__2018_year_end__steve-debry_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "DIFFERENT FORM VINTAGE from the other four filings in this chunk: the cover is the OLDER clerk template headed 'SHERRIE SWENSEN / Salt Lake County Clerk' with the title 'Financial Disclosure Report For a Candidate' and NO printed year, footed 'k://election/candidateinfo/financialdisclosures/04pccfindisc.doc'. form_year is therefore honestly BLANK (the chunk file's form_family 'untitled-year' is confirmed), never filled in from the folder name. Cover: Office 'County Council', Office Sought 'County Council', District Number '#5', party 'Republican' - the chunk file's 'County Council / District 5' is confirmed at the form; the '#' is kept verbatim. YEAR-END (January 31) box checked; neither amendment box ticked, so is_amendment is blank. report_date 2019-01-27 is the signature date written 'Jan. 27, 2019' and repeated in the header box of every following page; the clerk's received stamp is a partly-illegible red 'JAN 2 ? 2019' and was NOT used. Street-address block, phone/fax/email block and the signature line are redacted at source; the printed verification name 'Steven L DeBry' is legible. The Schedule A donor's mailing address is separately redacted at source with its own bar - donor_city/donor_state blank with that reason, not 'left empty by the filer'.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$100.00",
+     "schedule_total": "$64,893.50",
+     "itemized": "100.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "the single p3 row (100.00) = printed SUBTOTAL FOR THIS PAGE $100.00 = Summary line 1 Column A $100.00. The schedule's own 'TOTAL CONTRIBUTIONS RECEIVED' cell instead carries $64,893.50, which is the CUMULATIVE figure and equals Summary line 1 Column B - a different SCOPE, not a delta. Reconciled against the anchor whose scope matches (per-period), so the side is exact."
+    },
+    "expenditures": {
+     "stated": "$180.26",
+     "schedule_total": "$25,408.84",
+     "itemized": "180.26",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "4 p4 rows (100.74 + 10.67 + 28.85 + 40.00) sum to 180.26 = printed SUBTOTAL FOR THIS PAGE $180.26 = Summary line 2 Column A $180.26. The schedule's 'TOTAL EXPENDITUTRES MADE' cell carries $25,408.84, the cumulative figure equal to Summary line 2 Column B - the same scope mismatch as Schedule A, not a delta."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 100.00 = printed subtotal $100.00; p4 rows 180.26 = printed subtotal $180.26. Both pages' grand-total cells hold cumulative figures and were deliberately NOT used as the gate.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "DIFFERENT FORM VINTAGE from the other four filings in this chunk: the cover is the OLDER clerk template headed 'SHERRIE SWENSEN / Salt Lake County Clerk' with the title 'Financial Disclosure Report For a Candidate' and NO printed year, footed 'k://election/candidateinfo/financialdisclosures/04pccfindisc.doc'. form_year is therefore honestly BLANK (the chunk file's form_family 'untitled-year' is confirmed), never filled in from the folder name. Cover: Office 'County Council', Office Sought 'County Council', District Number '#5', party 'Republican' - the chunk file's 'County Council / District 5' is confirmed at the form; the '#' is kept verbatim. YEAR-END (January 31) box checked; neither amendment box ticked, so is_amendment is blank. report_date 2019-01-27 is the signature date written 'Jan. 27, 2019' and repeated in the header box of every following page; the clerk's received stamp is a partly-illegible red 'JAN 2 ? 2019' and was NOT used. Street-address block, phone/fax/email block and the signature line are redacted at source; the printed verification name 'Steven L DeBry' is legible. The Schedule A donor's mailing address is separately redacted at source with its own bar - donor_city/donor_state blank with that reason, not 'left empty by the filer'."
+  }
+ }
+}

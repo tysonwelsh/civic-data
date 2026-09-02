@@ -33,8 +33,9 @@ portal_stated_totals.csv    7 rows -- dollar totals the COUNTY printed on its ow
 text_extraction.csv         per-file format + extraction method manifest
 vision/<key>.json           206 -- THE STATED-TOTALS CACHE, one per logical FILING
 filing_totals.csv           206 rows -- the money layer (SCHEMA.md §4)
-contributions.csv           §2 header, NO ROWS -- itemisation is a separate tranche
-expenditures.csv            §3 header, NO ROWS -- ditto
+contributions.csv           1,518 rows -- the itemized layer of the MACHINE-READABLE era
+expenditures.csv            1,738 rows -- ditto (the 100 handwritten filings are a vision
+                            queue; see AVAILABILITY.md §9)
 portal_reconciliation.csv   7 rows -- the county's own 2008 printed totals SCORED against
                             what this dataset holds
 raw/<channel>/              the retained files + _fetch_log*.jsonl (url, status, bytes,
@@ -45,6 +46,8 @@ batch/                      manifest.json (the acquisition ledger), office_map.j
                             pages + captures.json), fetch_all.py, retry_404.py
 build_text.py / build_index.py / build_portal_totals.py     regenerate the derived files
 extract_born_digital.py / build_finance.py                  regenerate the money layer
+bbox_lib.py                 TRUE page geometry (`pdftotext -bbox-layout`) for the PDF
+                            ledgers -- read its docstring before touching the itemized layer
 ```
 
 **Everything except `raw/`, `batch/portal_captures/` and the VISION-transcribed half of
@@ -128,7 +131,8 @@ Summary**). So `index.csv` records what each source said and which one was belie
 | `document_office_raw` / `document_candidate` | verbatim from the file, OCR garble included |
 | `portal_office` / `portal_label` | verbatim from the county's page or listing |
 | `label_conflict` | set only when document and portal name **different specific** offices |
-| `reporting_year` / `reporting_year_source` | the year the SOURCE attaches to the file |
+| `election_year` | ⚠ **the Election Year the DOCUMENT ITSELF PRINTED**, and nothing else (`build_index.read_document` → `doc_year`; only the born-digital `County Candidate Summary` cover prints one). **Blank on 310 of 409 rows BY DESIGN** — it is a document-stated field, never derived, so a handwritten cover form or a 2008 ledger pair leaves it empty. It is NOT a gap and NOT a substitute for `cycle_year`. (Confirmed at the source 2026-08-23.) Note the different sense in `filing_totals.election_year`, which is `cycle_year` falling back to the cover's stated year. |
+| `reporting_year` / `reporting_year_source` | the year the SOURCE attaches to the file — first available of `document` → `portal_year_label` → `filename` → `url_folder`, with the source named. Filled **407/409**, and **100/100** of the handwritten filings |
 | `cycle_year` / `cycle_year_source` | the **even-year election cycle**: `document` (the form printed an "Election Year"), `derived:january-close` (a January filing closes the PRIOR year's cycle), `even_reporting_year`, or **blank when not determinable — never guessed** |
 | `cycle_parity_flag` | fires on an odd cycle year (see below). **Currently zero rows.** |
 | `doc_kind` | `statement` / `summary` / `contributions` / `expenditures` — read from the document, **not** the filename |
@@ -169,19 +173,22 @@ contract directly:
 | file | rows | what it is |
 |---|---|---|
 | `filing_totals.csv` | **206** | one row per logical FILING, SCHEMA.md §4 header exactly |
-| `contributions.csv` | **181** | the BORN-DIGITAL itemized layer (43 filings) — see below |
-| `expenditures.csv` | **308** | ditto |
+| `contributions.csv` | **2,048** | the itemized layer across BOTH eras (1,518 parser + 530 vision) |
+| `expenditures.csv` | **2,516** | ditto (1,738 parser + 778 vision) |
 | `portal_reconciliation.csv` | 7 | the county's own 2008 printed totals SCORED against this dataset |
 
-**What the vision tranche transcribed: the cover page's office line + the filing's STATED
-TOTALS.** Donor itemisation for the HANDWRITTEN generation is still untranscribed; the
-**born-digital 2010–2015 generations ARE itemized** as of 2026-08-02 (below).
+**BOTH ERAS ARE NOW ITEMIZED AND CLOSED.** The machine-readable 2010–2015 generations closed
+2026-08-23 (the parser tranche, below); the **100 HANDWRITTEN cover forms closed 2026-08-24**
+(the Phase-B final vision wave — 530 contribution + 778 expenditure rows read from page images,
+100% `pct:` geometry, **ZERO sides withheld**, 0 amounts blank for illegibility; full
+verification in `AVAILABILITY.md` §10). washington_county is the first Phase-B county whose
+every held document is itemized.
 **`validate_finance.py` returns PASS (0 fails, 203 warns).** Every one of those warns is
 `index filing … has no filing_totals row` and every one is structural: one filing is published
 as up to three files, `source_filing` names the primary, and 409 − 206 = **203** companion
 ledger files therefore carry no row of their own. They are not missing data.
 
-### The BORN-DIGITAL itemized layer (built 2026-08-02, TRANCHE 3 Phase A)
+### The MACHINE-READABLE itemized layer — CLOSED 2026-08-23 (parser tranche)
 
 Wired to the registered `washco_split` family — the family that exists because **one logical
 filing here is up to three published files, and the reconciliation anchor (the `County
@@ -192,41 +199,77 @@ against.** The file-set is grouped on this module's own
 `group_fn` / `group_primary_fn` — and handed to `family.parse_group(parts, meta)` with the
 filing's own ISO `deadline`.
 
+**Full verification, including the queue derivation and the four reading-path defects it
+fixed, is `AVAILABILITY.md` §8. The essentials:**
+
 | | count |
 |---|---:|
-| born-digital `summary_sheet` file-sets handed to the family | **102 of 206 filings** |
-| contribution sides reconciling exactly → shipped | **15** |
-| expenditure sides reconciling exactly → shipped | **39** |
-| distinct filings carrying at least one itemized row | **43** |
-| rows emitted | **181 contributions · 308 expenditures** |
-| rows carrying `geometry` | **489 of 489 (100%)** — real `Sheet1!F5` cell references on the `.xls` generations, `p:l:c` spans on the PDF ledgers |
+| born-digital `summary_sheet` file-sets handed to the family | **102 of 206 filings** — all parsed |
+| filings carrying at least one itemized row | **101** (the 102nd has an empty ledger on both sides) |
+| rows emitted | **1,518 contributions · 1,738 expenditures** |
+| rows carrying `geometry` | **3,256 of 3,256 (100%)** — 2,659 real `Sheet1!F5` cell refs, **597 `pct:` boxes** measured from `pdftotext -bbox-layout` word coordinates |
+| sides `stated-exact` / `cumulative-exact` / `delta` / `empty-schedule` / **withheld** | 57 / 63 / 42 / 41 / **1** |
 
 - **Scope is the 2010–2015 born-digital generations ONLY.** The **4 ledger-only 2008
   `Detailed … Report` postings emit NO rows by design**: they print no totals at all, so there
   is nothing to reconcile a ledger against; their counted sums live — labelled *counted*, never
   *stated* — in `portal_reconciliation.csv`. The 100 handwritten cover forms and their vision
   caches were not touched, and **0 of 206 `stated_*` values changed.**
-- **Why 15/39 and not 102/102, and why that is the county's property rather than a defect.**
-  The Filing-style finding below is the whole story: **the Summary rows are PER-PERIOD
-  increments while the Contributions/Expenditures ledgers restate the WHOLE CYCLE TO DATE.** On
-  a candidate's first filing of a cycle the two coincide and the ledger reconciles to the cent;
-  on every later filing they are *different quantities*, and making them agree would require
-  arithmetic of ours (summing prior periods), not the county's. Those sides are **withheld with
-  that reason written into `filing_totals.notes`** — not published as a mismatch, not adjusted.
-- **`is_incremental` on the itemized rows is `False`, deliberately**, even though the FILING's
-  regime is incremental: the rows come from the LEDGER, which restates the cycle to date. The
-  `filing_regime` column describes the STATED figures; the row flag describes the rows. Marking
-  ledger rows incremental would make a naive cycle sum double-count. (This is why the same
-  donor row legitimately appears under two consecutive filings of one cycle — e.g. Steven G
-  Caplin $1,000.00 dated 2014-03-28 under both the 4/4/2014 and 6/17/2014 file-sets.)
+- **PUBLICATION IS GATED ON COMPLETENESS, NOT ON AGREEMENT.** The family reports, per side, how
+  many money-bearing logical rows it FOUND in the ledger body against how many it EMITTED; they
+  must agree. A short parse is a WRONG value dressed as a small one, so such a side emits
+  nothing with the shortfall named. **One side is withheld on that rule** — Cory Pulsipher
+  2010-04-06 contributions, where the county's export prints **`$5,00.00`** (its own summary's
+  arithmetic implies `$5,000.00`); a malformed money token is never repaired.
+- **RECONCILIATION RECORDS A VERDICT; it does not decide publication.** Under the owner-ratified
+  RECONCILIATION-BASIS RULE each side is scored against the printed figure that matches ITS OWN
+  SCOPE:
+  - **`stated-exact`** — sums exactly to the figure in `stated_total_*` → `reconciles_*=True`.
+  - **`cumulative-exact`** — sums exactly to the summary sheet's **own column read down to this
+    deadline** (the cycle-to-date quantity the sheet states row by row). `reconciles_*` is left
+    **BLANK = unknown**, because that is a *different scope* from the single printed row this
+    module publishes; asserting `True` would claim a match the published columns do not make.
+    Identical treatment to `utah_county`'s `cumulative-exact`. **⚠ A blank `reconciles_*` on
+    this dataset is NOT a failure.**
+  - **`delta`** — a provably complete parse that matches neither printed figure. The rows are
+    published VERBATIM with `reconciles_*=False`, `needs_review=1` on every row of the side, and
+    both competing printed figures named in `filing_totals.notes`. `recon_delta_*` is left blank
+    on purpose: differencing a cycle-scoped sum against a period-scoped total is a basis error,
+    not a delta. *Specimen: Brock Belnap 2010 — the ledger prints `Brock Belnap 3/12/2010
+    $500.00` while the summary states `$0.00` contributions against a `-$500.00` balance. The
+    filer omitted his own contribution; the row is published and the summary is not corrected.*
+  - **`empty-schedule`** — the ledger exists and prints no lines. Never "no donors".
+- **⚠ THE LEDGERS RESTATE THE CYCLE TO DATE — NEVER SUM ROWS ACROSS A CYCLE.** The same
+  donation is republished under every later deadline of the cycle: the 1,518 contribution rows
+  carry **676 distinct donations** and the 1,738 expenditure rows **758 distinct payments**
+  (e.g. Steven G Caplin $1,000.00 dated 2014-03-28 appears under both the 4/4/2014 and
+  6/17/2014 file-sets). Every row therefore carries **`is_incremental=False`**, and a cycle
+  total is the **latest filing's ledger**. The `filing_regime` column describes the STATED
+  figures; the row flag describes the rows.
+- **THE COUNTY'S TEMPLATE IS PER-PERIOD, BUT A MINORITY OF FILERS FILL IT CUMULATIVELY.** The
+  sheet's own Balance column settles it per filing: on **Kevin Brooks 2010** and **Chris White
+  2012** the arithmetic only closes if each row is read as cycle-to-date (Brooks:
+  `2,634.05 − 2,318.49 = 315.56` against a printed Balance of `316.56`, versus
+  `6,883.08 − 6,337.52 = 545.56` on the per-period reading). So `stated_*` is documented as
+  *the figure this deadline's row printed* and no scope is asserted on the filer's behalf.
 - **Roles come from DOCUMENT CONTENT, never filenames** — the group's primary is the file whose
   `doc_kind` is `summary`, and the county's own misspelling `All Expeditures for` is matched as
   printed, never "fixed".
-- **PRIVACY:** the ledgers print a donor's street address on the line below the name (`.xls`)
-  or in the description column; only `donor_city` / `donor_state` are emitted
-  (`common.split_city_state`) and the street portion is discarded and never stored. The two
-  digit-bearing `donor_raw` values are the county's own AGGREGATE lines
-  (`5 Donations of under $50.00`), flagged `needs_review=1`.
+- **`source_filing` names the PART FILE each row was read from**, not the group's Summary
+  (fixed at emission 2026-08-23 — the `SCHEMA.md` §2a caveat-1 bug). `(source_filing, line_no)`
+  and `geometry` therefore resolve inside the same document.
+- **In-kind and loan columns are real ledger lines.** A row whose `Amount` cell is empty but
+  whose `In Kind` cell carries one clean figure ships with `in_kind=True`; a `Loan`-column
+  figure ships as `donor_type='loan'`. (Kevin Brooks 2010 is the specimen — J Ryan Lee's
+  `$400.00 / $100.92 / $243.13` sit under `In Kind`, and the summary's own `$744.05` row proves
+  the county counts them as contributions.)
+- **PRIVACY:** the ledgers print a donor's street address on the line below the name, or — in
+  the **2012** generation, which stacks the NAME ABOVE — on the figures' own row. Only
+  `donor_city` / `donor_state` are emitted (`common.split_city_state`); the street portion is
+  discarded and never stored. **A held-over line carrying digits is always an address**
+  (`460 N 2460 W, Hurricane UT 84737` matches no street-word hint), which is what keeps it out
+  of `donor_raw`. The county's own sub-$50 AGGREGATE lines (`5 Donations of under $50.00`) are
+  typed **`aggregate-unitemized`** with `needs_review=1` — 12 rows.
 
 ### Where each stated figure comes from — the one decision that matters
 
@@ -236,7 +279,7 @@ this wrong silently double-counts or under-counts a whole cycle:
 | cache `sheet_type` | source shape | the filing's figure is | `is_incremental` |
 |---|---|---|---|
 | `cover_form` (100) | handwritten/typed 17-16-6.5 cover, 2006 + 2016–2025 | the **CUMULATIVE** column (`LAST + THIS = CUMULATIVE`) | **false** — a cycle total is the **LATEST** report, never a sum |
-| `summary_sheet` (102) | born-digital `County Candidate Summary`, 2010–2015 | the **per-period row** for that deadline | **true** — but the companion ledgers restate the whole cycle, so a cycle total is the **LEDGER**, not the sum of summary rows |
+| `summary_sheet` (102) | born-digital `County Candidate Summary`, 2010–2015 | **the row printed for that deadline** — the template is per-period, but a minority of filers fill it cumulatively and the sheet's own Balance column is what decides which (see the itemized-layer section) | the STATED figure is per-period on the template; the **ITEMIZED ROWS carry `is_incremental=False`** because the companion ledgers restate the whole cycle, so a cycle total is the **LATEST LEDGER**, never a sum of summary rows and never a sum of itemized rows |
 | `ledger_only` (4) | 2008 `Detailed … Report` pairs + one 2011 pair | **nothing — the filing prints no totals** | n/a |
 
 ### Caveats carried in `filing_totals.notes` (all greppable)
@@ -290,9 +333,17 @@ annotation layer — see "Defects found and fixed" below.
 restate the whole cycle to date** (Iverson: the 6/17 summary row is `$0` because the ledger's
 two donations both predate 4/4). A cycle total is therefore the **ledger**, not the sum of
 summary rows — the opposite of the naive reading. Encode as `is_incremental` per *sheet type*,
-not per city. **`build_finance.py` now does exactly that** — and the build reproduces both
+not per city. **`build_finance.py` does exactly that** — and the build reproduces both
 hand-verified anchors: Iverson's 4/4/2014 row states `630`, Whitehead's 4/7/2010 row states
 `400` in expenditures.
+
+**Confirmed again 2026-08-23, from a different specimen, and refined.** `live_wp/2010-David-
+Whitehead.pdf` staples all four of the 2010 reports into one PDF, and its Expenditures sheet is
+byte-for-byte the same two lines under every one of the four deadlines while the summary rows
+read `400 / 0 / 0 / 0` — so the ledger is unambiguously cycle-to-date. The REFINEMENT is that
+this is a property of the county's TEMPLATE, not of every filer: on Kevin Brooks 2010 and Chris
+White 2012 the summary's own Balance column only closes if each row is read cumulatively. Read
+the sheet's arithmetic per filing; do not assume the template.
 
 ## Resolving a held-out file — `office_determinations.csv`
 
@@ -361,6 +412,14 @@ the June / August / October deadlines.
 - **Never sum `filing_totals` rows to get a candidate-cycle total.** Two different reasons in
   the same table: `cover_form` rows are CUMULATIVE (take the latest), and `CROSS-CHANNEL
   RE-POST` rows are the same report published twice (count once). Read the row's `notes`.
+- **NEVER SUM `contributions.csv` / `expenditures.csv` ROWS ACROSS A CYCLE.** The ledgers
+  restate the cycle to date, so the same donation is republished under every later deadline —
+  1,518 contribution rows carry 676 distinct donations, 1,738 expenditure rows carry 758
+  distinct payments. Every row says so with `is_incremental=False`; a cycle total is the
+  LATEST filing's ledger.
+- **Never read a blank `reconciles_contrib` / `reconciles_expend` as a failure.** On 63 sides it
+  means `cumulative-exact`: the rows sum EXACTLY to a figure the document states, but at a
+  different SCOPE from `stated_total_*`. The row's `notes` name both figures.
 - **Never sum the `summary_sheet` rows of a 2010–2015 cycle either** — those are per-period
   increments whose companion ledgers already restate the cycle to date.
 - **Never treat a blank `stated_*` as `0`.** Blank means the filer left the cell empty, wrote

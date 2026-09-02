@@ -1,0 +1,824 @@
+[
+ {
+  "index_path": "raw/2014/2014_6-14Clerk-BThompson.pdf",
+  "key": "7044441e",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4,5",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (16,060.00) on the p2 Summary Page, which is also Schedule A's own printed 'Subtotal for this page $16,060' AND its printed 'Total Contributions Received $16,060', and is re-stated at summary line 4",
+    "detail": "9 Schedule A rows on p3 sum to 3000.00 + 200.00 + 1200.00 + 10300.00 + 200.00 + 550.00 + 500.00 + 50.00 + 60.00 = 16,060.00 exactly = the schedule's printed page subtotal = its printed Total = the cover's promoted PER-PERIOD Column A cell. Column B 'Year-to-Date Total' also prints 16,060.00 and is NOT summed as an increment. THE CLOSURE DECIDES TWO CLASSIFICATIONS: the filer's FIVE self-loans (3,000 + 1,200 + 10,300 + 200 + 500 = 15,200) are itemized contribution rows here \u2014 summary line 3 'Balance at Beginning' carries a separate 500.00, so nothing can be booked there instead, and without the loans the rows reach only 860 against a printed 16,060; and the in-kind row is counted INLINE (monetary-only stops at 16,000, which appears nowhere on the filing). The p2 ladder closes: line 3 500.00 + line 4 16,060.00 = line 5 16,560.00; 16,560.00 - line 6 15,994.71 = line 7 565.29."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (15,994.71) on the p2 Summary Page, which is also the figure printed on p5's 'Total Expenditures [Received struck, 'Made' written above] (Sum of subtotals from all Schedule B pages) $15,994.71', and is re-stated at summary line 6",
+    "detail": "Two Schedule B sheets. p4 ('Page 4 of 5'): seventeen rows sum to 3,544.89 = its printed 'Subtotal for this page $3,544.89' exactly. p5 ('Page 5 of 5'): fourteen rows sum to 12,449.82. 3,544.89 + 12,449.82 = 15,994.71 EXACTLY = the schedule's printed Total = the cover's promoted per-period Column A cell = summary line 6. \u26a0 p5's OWN SUBTOTAL CELL IS OVER-WRITTEN AND ITS MIDDLE DIGITS ARE ILLEGIBLE: escalated to 1200 dpi it renders '$12,4[three heavily over-written digits].82', so the glyphs alone cannot settle it. THE ARITHMETIC DOES, twice over and uniquely: the fourteen rows sum to 12,449.82, and 15,994.71 - 3,544.89 = 12,449.82. Under the GOTCHAS rule that ARITHMETIC CLOSURE OUTRANKS GLYPH READING, the cell is read 12,449.82 and no figure was nudged to get there. Column B YTD also prints 15,994.71 and is never summed as an increment."
+   }
+  },
+  "in_kind_convention": "MONETARY-PLUS-IN-KIND, INLINE \u2014 tested both ways. One Schedule A row is in-kind and the filer labels it himself, writing '(In-Kind Donation)' in the Amount column beside I.T Solutions, LLC's 60.00; the figure sits in the same Amount column as his cash rows. Monetary-only gives 16,000.00, which appears NOWHERE on the filing; monetary-plus-in-kind gives 16,060.00, which is simultaneously the schedule's printed page subtotal, its printed Total Contributions Received and the cover's Column A. In-kind counted is what closes it. The same donation is also entered as the last Schedule B row (the filer books in-kind on both sides), and it is inside that side's closing sum too.",
+  "escalations": 11,
+  "escalation_note": "Ten 900 dpi --value amount-cell crops (first row, last row and one band past the last row on each of the three schedule sheets, plus a re-run after a first attempt indexed p5's last row one band low \u2014 that mis-indexed crop rendered an EMPTY cell, which is exactly what the \u00a7B5 control exists to catch, and the corrected band rendered '$60 \u2070\u2070'). ONE GENUINE LEGIBILITY ESCALATION: p5's printed page-subtotal cell was cropped at 1200 dpi and its middle digits are still unreadable under over-writing; it was NOT reconstructed by glyph but settled by the document's own arithmetic (see recon.expenditures).",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     82.53,
+     92.41
+    ],
+    "cells": [
+     [
+      7.18,
+      18.47
+     ],
+     [
+      20.06,
+      52.53
+     ],
+     [
+      53.94,
+      80.94
+     ],
+     [
+      82.53,
+      92.41
+     ]
+    ],
+    "rows": [
+     [
+      16.43,
+      20.34
+     ],
+     [
+      20.34,
+      24.24
+     ],
+     [
+      24.24,
+      28.15
+     ],
+     [
+      28.15,
+      32.06
+     ],
+     [
+      32.06,
+      35.97
+     ],
+     [
+      35.97,
+      39.87
+     ],
+     [
+      39.87,
+      43.78
+     ],
+     [
+      43.78,
+      47.69
+     ],
+     [
+      47.69,
+      51.6
+     ],
+     [
+      51.6,
+      55.5
+     ],
+     [
+      55.5,
+      59.41
+     ],
+     [
+      59.41,
+      63.32
+     ],
+     [
+      63.32,
+      67.23
+     ],
+     [
+      67.23,
+      71.13
+     ],
+     [
+      71.13,
+      75.04
+     ],
+     [
+      75.04,
+      78.95
+     ],
+     [
+      78.95,
+      82.86
+     ]
+    ],
+    "measure_note": "legacy_colAB Schedule A, UNDERLINE form, deskew 0.0. rowbands.py lists only SIXTEEN rules (20.34 .. 82.86) and reports a full-width entry in `bars_pct` at y=51.59 \u2014 that 'bar' is the missing NINTH rule, thickened where the filer's long diagonal stroke crosses it (20.34 + 8*3.9075 = 51.60, matching). Reinstating it gives the family's standard 17-rule grid at pitch 3.9075. Column bands straight from the rule segments (Date 7.18-18.47, Name 20.06-52.53, Address 53.94-80.94, Amount 82.53-92.41). Text sits ABOVE its rule; row 1 extrapolated one pitch up to 16.43. CONTROLS at 900 dpi --value: (1) \u00a7A1 FIRST-ENTRY CONTROL \u2014 band 1 pct:82.53,16.43,9.88,3.91@p3 RENDERED the printed 'Amount' header above '$3,00[0]', so the filer did not skip the first ruled line; (2) the LAST transcribed row, band 9, pct:82.53,47.70,9.88,3.89@p3 RENDERED '$60' with raised cents; (3) \u00a7B5 NEGATIVE CONTROL one band past it \u2014 pct:82.53,51.59,9.88,3.93@p3 RENDERED an EMPTY amount cell (only the tail of row 9's '(In-Kind Donation)' annotation descends into it). \u26a0 THE LONG DIAGONAL STROKE ACROSS THE UNUSED REMAINDER OF THIS GRID CONSUMES NOTHING and shifts no index \u2014 the ADDENDUM E \u00a7E3 contrast case, crop-proved here: the entries occupy bands 1-9 and band 10 is empty beneath the stroke."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     82.95,
+     92.89
+    ],
+    "cells": [
+     [
+      7.48,
+      18.83
+     ],
+     [
+      20.42,
+      53.01
+     ],
+     [
+      54.48,
+      82.01
+     ],
+     [
+      82.95,
+      92.89
+     ]
+    ],
+    "rows": [
+     [
+      18.56,
+      22.47
+     ],
+     [
+      22.47,
+      26.39
+     ],
+     [
+      26.39,
+      30.3
+     ],
+     [
+      30.3,
+      34.21
+     ],
+     [
+      34.21,
+      38.12
+     ],
+     [
+      38.12,
+      42.04
+     ],
+     [
+      42.04,
+      45.95
+     ],
+     [
+      45.95,
+      49.86
+     ],
+     [
+      49.86,
+      53.77
+     ],
+     [
+      53.77,
+      57.69
+     ],
+     [
+      57.69,
+      61.6
+     ],
+     [
+      61.6,
+      65.51
+     ],
+     [
+      65.51,
+      69.42
+     ],
+     [
+      69.42,
+      73.33
+     ],
+     [
+      73.33,
+      77.25
+     ],
+     [
+      77.25,
+      81.16
+     ],
+     [
+      81.16,
+      85.07
+     ]
+    ],
+    "measure_note": "Same underline grid, deskew -0.1: a clean 17-rule scan at 22.47 .. 85.07, pitch 3.9125, no missing rules and no bars. Row 1 extrapolated to 18.56. CONTROLS at 900 dpi --value: (1) \u00a7A1 FIRST-ENTRY CONTROL \u2014 band 1 pct:82.95,18.56,9.94,3.91@p4 RENDERED the 'Amount' header above '$600' with raised cents; (2) the LAST row, band 17, pct:82.95,81.16,9.94,3.91@p4 RENDERED '$55' with raised cents; (3) ONE BAND PAST IT, pct:82.95,85.07,9.94,3.91@p4, RENDERED the printed page subtotal '3,544.8[9]' rather than an 18th entry \u2014 the grid is full at 17 rows."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     83.87,
+     93.81
+    ],
+    "cells": [
+     [
+      7.75,
+      19.16
+     ],
+     [
+      20.75,
+      53.57
+     ],
+     [
+      55.1,
+      82.28
+     ],
+     [
+      83.87,
+      93.81
+     ]
+    ],
+    "rows": [
+     [
+      19.07,
+      22.99
+     ],
+     [
+      22.99,
+      26.92
+     ],
+     [
+      26.92,
+      30.84
+     ],
+     [
+      30.84,
+      34.76
+     ],
+     [
+      34.76,
+      38.69
+     ],
+     [
+      38.69,
+      42.61
+     ],
+     [
+      42.61,
+      46.53
+     ],
+     [
+      46.53,
+      50.45
+     ],
+     [
+      50.45,
+      54.38
+     ],
+     [
+      54.38,
+      58.3
+     ],
+     [
+      58.3,
+      62.22
+     ],
+     [
+      62.22,
+      66.15
+     ],
+     [
+      66.15,
+      70.07
+     ],
+     [
+      70.07,
+      73.99
+     ],
+     [
+      73.99,
+      77.92
+     ],
+     [
+      77.92,
+      81.84
+     ],
+     [
+      81.84,
+      85.76
+     ]
+    ],
+    "measure_note": "Same underline grid, deskew +0.2: a clean 17-rule scan at 22.99 .. 85.76, pitch 3.923. Row 1 extrapolated to 19.07. Only the first FOURTEEN bands carry entries. CONTROLS at 900 dpi --value: (1) \u00a7A1 FIRST-ENTRY CONTROL \u2014 band 1 pct:83.87,19.07,9.94,3.92@p5 RENDERED the 'Amount' header above '$60.34'; (2) the LAST transcribed row, band 14, pct:83.87,70.08,9.94,3.93@p5 RENDERED '$60' with raised cents; (3) \u00a7B5 NEGATIVE CONTROL one band past it \u2014 pct:83.87,74.01,9.94,3.91@p5 RENDERED an EMPTY cell (crossed only by the filer's diagonal stroke over the unused remainder, which again consumes no row). The page's own subtotal cell, cropped separately at 1200 dpi, is over-written and illegible in its middle digits \u2014 see recon.expenditures."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "1/24/14",
+    "donor_raw": "Bryan Thompson (Loan to Self)",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE CANDIDATE'S OWN LOAN, written on the contributions ledger, and the ladder makes it an itemized CONTRIBUTION row here (ADDENDUM B \u00a7B3 \u2014 the arithmetic decides, never the word 'loan'): summary line 3 'Balance at Beginning' already carries a separate 500.00, so there is no beginning-balance slot for it, and the schedule reaches its own printed 16,060 only with all five of his loan rows counted. The parenthetical '(Loan to Self)' is the filer's own and is kept inside donor_raw. city recorded VERBATIM as the filer abbreviated it, 'SpFk'; it is NOT expanded to a full city name. PRIVACY: the street line, visible in the clear on this unredacted filing, is not carried. The filer wrote a city and a ZIP but NO STATE on this row (\u00a7E4 cause 5), so donor_state is honestly blank and no state is inferred from the zip.",
+    "donor_city": "SpFk"
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "2/3/14",
+    "donor_raw": "Robert Kirk (Portion of Lincoln Day Dinner Table)",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the parenthetical is the filer's own note on what the contribution was for, written across two lines of the Name cell; kept verbatim inside donor_raw. PRIVACY: the street line, visible in the clear on this unredacted filing, is not carried. The filer wrote a city and a ZIP but NO STATE on this row (\u00a7E4 cause 5), so donor_state is honestly blank and no state is inferred from the zip.",
+    "donor_city": "Lehi"
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "2/6/14",
+    "donor_raw": "Bryan Thompson (Loan to Self)",
+    "amount": "1200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "second of the filer's five self-loans, all itemized contribution rows on this filing (see line 1). city recorded VERBATIM as the filer abbreviated it, 'SpFk'; it is NOT expanded to a full city name. PRIVACY: the street line, visible in the clear on this unredacted filing, is not carried. The filer wrote a city and a ZIP but NO STATE on this row (\u00a7E4 cause 5), so donor_state is honestly blank and no state is inferred from the zip.",
+    "donor_city": "SpFk"
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "5/29/14",
+    "donor_raw": "Bryan Thompson (Loan to Self)",
+    "amount": "10300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is a pair of DITTO MARKS (\") repeating the row above; the city is carried from that row per the filer's own notation (CHUNK_BRIEF \u00a77). city recorded VERBATIM as the filer abbreviated it, 'SpFk'; it is NOT expanded to a full city name. PRIVACY: the street line, visible in the clear on this unredacted filing, is not carried. The filer wrote a city and a ZIP but NO STATE on this row (\u00a7E4 cause 5), so donor_state is honestly blank and no state is inferred from the zip.",
+    "donor_city": "SpFk"
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "5/31/14",
+    "donor_raw": "Bryan Thompson (Loan to Self)",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is again a pair of DITTO MARKS (\"); the city is carried from the row above per the filer's own notation. city recorded VERBATIM as the filer abbreviated it, 'SpFk'; it is NOT expanded to a full city name. PRIVACY: the street line, visible in the clear on this unredacted filing, is not carried. The filer wrote a city and a ZIP but NO STATE on this row (\u00a7E4 cause 5), so donor_state is honestly blank and no state is inferred from the zip.",
+    "donor_city": "SpFk"
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "6/1/14",
+    "donor_raw": "Lin Thompson - wife",
+    "amount": "550.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'- wife' is the filer's own annotation on the name line and is kept verbatim; a short struck-out mark follows it in the Name cell and carries nothing legible. city recorded VERBATIM as the filer abbreviated it, 'SpFk'; it is NOT expanded to a full city name. PRIVACY: the street line, visible in the clear on this unredacted filing, is not carried. The filer wrote a city and a ZIP but NO STATE on this row (\u00a7E4 cause 5), so donor_state is honestly blank and no state is inferred from the zip.",
+    "donor_city": "SpFk"
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "6/6/14",
+    "donor_raw": "Bryan Thompson (Loan to Self)",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "fifth and last of the filer's self-loans on this schedule. city recorded VERBATIM as the filer abbreviated it, 'SpFk'; it is NOT expanded to a full city name. PRIVACY: the street line, visible in the clear on this unredacted filing, is not carried. The filer wrote a city and a ZIP but NO STATE on this row (\u00a7E4 cause 5), so donor_state is honestly blank and no state is inferred from the zip.",
+    "donor_city": "SpFk"
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "6/6/14",
+    "donor_raw": "Dee Pullman",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "city recorded VERBATIM as the filer abbreviated it, 'SpFk'; it is NOT expanded to a full city name. PRIVACY: the street line, visible in the clear on this unredacted filing, is not carried. The filer wrote a city and a ZIP but NO STATE on this row (\u00a7E4 cause 5), so donor_state is honestly blank and no state is inferred from the zip.",
+    "donor_city": "SpFk"
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "1/1/14 - 6/30/14",
+    "donor_raw": "I.T Solutions, LLC",
+    "amount": "60.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND, and the filer labels it himself: he wrote '(In-Kind Donation)' in the Amount column beside the figure. COUNTED IN THE SUM \u2014 this filer's convention is MONETARY-PLUS-IN-KIND, INLINE (see in_kind_convention). THE DATE IS A RANGE, '1/1/14 - 6/30/14', kept VERBATIM; it is not reduced to a single day. This is the ONLY contribution row on the filing that prints a STATE. The same vendor and the same 60.00 also appear as the last row of Schedule B \u2014 the filer booked the in-kind on both sides, which is a normal in-kind treatment; the two rows are recorded separately and never netted. LAST row of the contributions side; the nine rows reach the printed subtotal 16,060 exactly. PRIVACY: street not carried.",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "needs_review": 1
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "2/4/14",
+    "vendor_raw": "Utah County Republican Party",
+    "amount": "600.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "First row of Schedule B sheet 'Page 4 of 5'. this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "3/4/14",
+    "vendor_raw": "Staples",
+    "amount": "256.19",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "3/15/14",
+    "vendor_raw": "U.S. Postal Service",
+    "amount": "245.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "3/15/14",
+    "vendor_raw": "Staples",
+    "amount": "40.51",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "3/14/14",
+    "vendor_raw": "Utah County Clerk",
+    "amount": "523.46",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried. the Utah County CLERK/AUDITOR 2014 candidate filing fee (523.46). Recorded as a page fact only \u2014 per ADDENDUM E \u00a7E1 the fee is office- AND cycle-specific and is NEVER used to corroborate a figure on another filing, not even the identical 523.46 that the other Clerk/Auditor filing in this chunk records for the same office and cycle"
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "3/20/14",
+    "vendor_raw": "Utah County Republican Women",
+    "amount": "240.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "3/21/14",
+    "vendor_raw": "Reimburse Self for Supplies (Bryan Thompson)",
+    "amount": "105.53",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried. the payee cell names the PURPOSE first and the person in parentheses beneath \u2014 'Reimburse Self for Supplies (Bryan Thompson)' \u2014 kept verbatim as one string rather than split, because this blank prints no Purpose column and the filer's own layout is the only guide"
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "3/26/14",
+    "vendor_raw": "Staples",
+    "amount": "220.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "9",
+    "page": 4,
+    "row": 9,
+    "date": "4/1/14",
+    "vendor_raw": "Staples",
+    "amount": "268.92",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried. the address cell is a pair of DITTO MARKS (\") repeating the row above; expenditure rows carry no address field, so the ditto is recorded here and nothing is carried"
+   },
+   {
+    "line_no": "10",
+    "page": 4,
+    "row": 10,
+    "date": "4/7/14",
+    "vendor_raw": "U.S. Postal Service",
+    "amount": "637.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "11",
+    "page": 4,
+    "row": 11,
+    "date": "4/3/14",
+    "vendor_raw": "Staples",
+    "amount": "27.73",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "12",
+    "page": 4,
+    "row": 12,
+    "date": "4/6/14",
+    "vendor_raw": "Premium Beat.com",
+    "amount": "39.95",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried. an out-of-country vendor (Montreal, Quebec, Canada) \u2014 the only one on the filing; expenditure rows carry no address field"
+   },
+   {
+    "line_no": "13",
+    "page": 4,
+    "row": 13,
+    "date": "4/7/14",
+    "vendor_raw": "Utah County Republican Party",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "14",
+    "page": 4,
+    "row": 14,
+    "date": "4/7/14",
+    "vendor_raw": "U.S. Postal Service",
+    "amount": "19.60",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried. a struck-out false start precedes the payee name; the handwritten correction governs"
+   },
+   {
+    "line_no": "15",
+    "page": 4,
+    "row": 15,
+    "date": "4/7/14",
+    "vendor_raw": "Staples",
+    "amount": "9.20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "16",
+    "page": 4,
+    "row": 16,
+    "date": "4/11/14",
+    "vendor_raw": "BYU take out",
+    "amount": "206.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "17",
+    "page": 4,
+    "row": 17,
+    "date": "5/1/14",
+    "vendor_raw": "Springville City",
+    "amount": "55.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried. LAST row of Schedule B sheet 'Page 4 of 5'; the seventeen rows reach its printed subtotal 3,544.89 exactly"
+   },
+   {
+    "line_no": "18",
+    "page": 5,
+    "row": 1,
+    "date": "5/24/14",
+    "vendor_raw": "Home Depot",
+    "amount": "60.34",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried. First row of Schedule B sheet 'Page 5 of 5'."
+   },
+   {
+    "line_no": "19",
+    "page": 5,
+    "row": 2,
+    "date": "5/27/14",
+    "vendor_raw": "Pride Signs",
+    "amount": "587.13",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "20",
+    "page": 5,
+    "row": 3,
+    "date": "5/29/14",
+    "vendor_raw": "Printing for Less",
+    "amount": "10298.92",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried. the filing's largest single expenditure; an out-of-state vendor (Livingston, MT). Expenditure rows carry no address field"
+   },
+   {
+    "line_no": "21",
+    "page": 5,
+    "row": 4,
+    "date": "5/30/14",
+    "vendor_raw": "Orem City Summerfest",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "22",
+    "page": 5,
+    "row": 5,
+    "date": "5/30/14",
+    "vendor_raw": "Home Depot",
+    "amount": "47.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "23",
+    "page": 5,
+    "row": 6,
+    "date": "5/31/14",
+    "vendor_raw": "Austin Smith",
+    "amount": "537.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "24",
+    "page": 5,
+    "row": 7,
+    "date": "6/1/14",
+    "vendor_raw": "Westpro.",
+    "amount": "300.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried. the trailing full stop is the filer's own; kept verbatim"
+   },
+   {
+    "line_no": "25",
+    "page": 5,
+    "row": 8,
+    "date": "6/2/14",
+    "vendor_raw": "Macey's",
+    "amount": "82.19",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "26",
+    "page": 5,
+    "row": 9,
+    "date": "6/5/14",
+    "vendor_raw": "Pride Signs",
+    "amount": "170.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "27",
+    "page": 5,
+    "row": 10,
+    "date": "6/7/14",
+    "vendor_raw": "Macey's",
+    "amount": "50.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "28",
+    "page": 5,
+    "row": 11,
+    "date": "6/7/14",
+    "vendor_raw": "Cal-Ranch",
+    "amount": "9.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "29",
+    "page": 5,
+    "row": 12,
+    "date": "6/10/14",
+    "vendor_raw": "K Star Radio 1400 AM",
+    "amount": "125.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried."
+   },
+   {
+    "line_no": "30",
+    "page": 5,
+    "row": 13,
+    "date": "6/14/14",
+    "vendor_raw": "Wal-Mart.",
+    "amount": "21.35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried. the trailing full stop is the filer's own; kept verbatim"
+   },
+   {
+    "line_no": "31",
+    "page": 5,
+    "row": 14,
+    "date": "1/1/14 - 6/30/14",
+    "vendor_raw": "IT Solutions, LLC",
+    "amount": "60.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this blank's Schedule B prints no Purpose column, so purpose is honestly blank \u2014 though THE FILER CORRECTED THE COUNTY'S OWN HEADINGS on both Schedule B sheets, striking 'Name of Contributor' and writing 'Vendor' above it, and striking 'Received' in 'Total Expenditures Received' and writing 'Made' (handwritten corrections over struck printed values govern). PRIVACY: the payee street addresses, printed in the clear on this unredacted filing, are not carried. THE DATE IS A RANGE, kept VERBATIM. The same vendor, range and figure appear as the in-kind row on Schedule A \u2014 the filer booked the in-kind donation on both sides. LAST row of the expenditures side; the fourteen rows reach this sheet's printed subtotal 12,449.82 exactly",
+    "needs_review": 1
+   }
+  ],
+  "notes": "PAGE-FACE candidate 'Bryan E. Thompson', party Republican, Office Seeking 'Utah County Clerk/Auditor', residence Spanish Fork UT \u2014 index.csv names NO candidate for this row, so the page face supplies it, and it agrees with the channel's office label. legacy_colAB variant, 5 pages: p1 cover ('Seven days preceding the Primary Election' ticked with an X, signed 6/17/14, clerk stamp JUN 17 PM 12:49), p2 SUMMARY PAGE (located by its printed header), p3 SCHEDULE A, pp4-5 SCHEDULE B. THE DOCUMENT IS COMPLETE AS FILED AND SAYS SO TWICE: the filer hand-wrote '1 of 5' at the top right of the unnumbered cover and foliated the rest 2, 3, 4, 5 'of 5', matching `pdfinfo` Pages: 5 \u2014 the opposite outcome to the Lee filing in this same chunk, whose identical practice runs out one sheet short (\u00a7E5). THE AMENDMENT QUESTION IS WHOLLY UNANSWERED \u2014 neither Yes nor No is marked, an honest BLANK that is never read as 'No' (\u00a7A4). THE FILER CORRECTED THE COUNTY'S OWN PRINTED HEADINGS on both Schedule B sheets: 'Name of Contributor' is struck with 'Vendor' written above, and 'Total Expenditures Received' is struck at 'Received' with 'Made' written above \u2014 the 2010/2012-blank mislabel that filers routinely fix (\u00a7C6), here recurring on a 2014 sheet. A LONG DIAGONAL STROKE crosses the unused remainder of BOTH the Schedule A grid and the last Schedule B grid; per ADDENDUM E \u00a7E3 that consumes no line and shifts no index, and both crop proofs confirm it. FIVE SELF-LOANS AND ONE IN-KIND ROW are all inside the closing sum \u2014 see recon.contributions and in_kind_convention. TWO DATE RANGES appear ('1/1/14 - 6/30/14', once on each side, for the same in-kind donation) and are kept verbatim with needs_review=1; the build cannot normalize a range and should not. NOT REDACTED BY THE COUNTY: this is not a *_Redacted.pdf and carries no bars \u2014 the candidate's street address and cell number are visible on the cover, and donor and vendor street addresses are visible on the schedules. None is carried here. On Schedule A the filer writes city and zip but no state on eight of nine rows (\u00a7E4 cause 5), and abbreviates Spanish Fork as 'SpFk', which is transcribed verbatim and never expanded; two address cells are DITTO MARKS and are carried as the filer's own notation. Cents are written as a RAISED pair throughout ('$3,000' with a superscript '00')."
+ }
+]

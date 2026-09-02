@@ -1,0 +1,184 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W13.json",
+ "key": "d2a6f2de",
+ "index_path": "raw/wayback_forms2018/June 26_Cory Pulsipher_FCR_06-13-2018.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/June 26_Cory Pulsipher_FCR_06-13-2018.pdf"
+ ],
+ "sha256_prefix": "774779a3443035e5",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "870.91",
+    "cover_over50_this": "100.00",
+    "cover_over50_cum": "970.91",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": "100.00"
+   },
+   "itemized": "100.00",
+   "basis": "cover-line1-this == schedule-total",
+   "result": "exact",
+   "scope": "period",
+   "detail": "One inked Form A row, 100.00, equal to Form A's printed footer TOTAL (100.00) and to the cover line-1 THIS REPORT cell (100.00). The cumulative cell is 970.91, so the schedule is PER-PERIOD (1/1/2018-6/19/2018) - a different scope from the cumulative figure this module publishes; reconciles_* should be blank, not failed. Cover line 2 (the $50-or-less aggregate) is written as a zero in all three columns, so the sub-$50 trap does not bite here, but line 1 is still the anchor I scored on. Cover arithmetic closes: 870.91 + 100.00 = 970.91."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "906.00",
+    "cover_expense_cum": "906.00",
+    "schedule_total": "906.00"
+   },
+   "itemized": "906.00",
+   "basis": "cover-line3-this == schedule-total (== cumulative)",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Six handwritten Form B rows sum to exactly 906.00 = the printed footer TOTAL = the cover line-3 THIS REPORT cell. Line 3's LAST cell is 0, so THIS and CUMULATIVE are numerically EQUAL (906.00) and the two scopes coincide on this side only because the filer had no prior-period expenditures. I record scope 'period' rather than 'cumulative' because this is NOT the filer's first report of the cycle - the contributions side proves the filing's convention is per-period (Form A restates only 100.00 against a 970.91 cumulative). Flagging for the orchestrator: if a coincidence like this must be recorded as 'cumulative' per the addendum's first-report clause, this is the one side in my chunk that would flip. The cover's THIS cell is written '906' with a superscript '00' over the rule; the CUMULATIVE cell is written plainly as 906.00, which settles it."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 one row 100.00 = printed TOTAL 100.00 (exact). p3 rows sum 250.00+535.00+7.00+7.00+100.00+7.00 = 906.00 = printed TOTAL 906.00 (exact).",
+  "row_count": "Grid is doubled-ruled (each writing line is a pair of rules), so rowbands bands are not 1:1 with writing lines; counted against INK at 200dpi. p2: exactly 1 inked line (the address wraps onto a second physical line but carries the same single amount - one row, not two). p3: exactly 6 inked lines, each with one date, one payee, one purpose and one amount. Field-shift screen: on both pages the count of names equals the count of amounts, every date cell holds a date and no name cell holds date-shaped content.",
+  "geometry_proof": "p2 first(=last)-row amount crop (x1225 y295 W260 H48 @200dpi) renders '$ 100 | 00'; control one pitch below (y343) renders EMPTY (printed '$' only). p3 first-row crop (x1227 y297 W340 H70) renders '$ 250.00'; last-row crop (y697) renders '$ 7.00' (row 6, Zions Bank 5/14); control (y777) renders EMPTY.",
+  "balance_chain": "Cover line 4: LAST '870.91', THIS '-806.00', CUM '64.91'. 870.91 + 100.00 - 906.00 = 64.91 = the printed cumulative balance, and 100.00 - 906.00 = -806.00 = the printed THIS cell. Closes exactly on both cells. Equivalently cumulative contributions 970.91 - cumulative expenses 906.00 = 64.91. No second Pulsipher filing in this cycle is in my chunk, so no cover-to-cover chain check was possible; the internal chain closes."
+ },
+ "escalations": 5,
+ "escalation_note": "p2 amount cell and its control crop; p3 first/last/control amount crops - all at 200dpi tight crops, each read identically to the full-page render, so all rows carry verified:1. The cover was read at 200dpi full page (handwriting large and clean); the arithmetic of all four cover lines closes against the two schedule totals independently, which is the stronger check.",
+ "notes": "PRIVACY: the cover prints the candidate's home street address, city, ZIP, home phone and business phone in the clear, and the single Form A row repeats his street address - all street/ZIP/phone data discarded at read time; only the city 'St. George' and state 'UT', which the filer wrote explicitly, are kept for the donor. LABEL vs FORM: chunk file gives candidate 'Cory Clarke Pulsipher', office 'Sheriff' - the form's Full Name line reads 'Cory Clarke Pulsipher' and the Office line reads 'Sheriff'; AGREES. The 'In the ____ School District' line was filled in 'Washington County' and 'Representative District' filled 'County' - the office line inside the form governs and this is a COUNTY SHERIFF filing, in scope. DATE DISCREPANCIES worth a human eye: the chunk/portal filename says 06-13-2018 and the portal label 'June 26', but the form is signed '6-12-2018' and clerk-stamped RECEIVED JUN 12 2018; and the certified period is written 'beginning January 1st 2018 and ending June 19th 2018' - i.e. the stated period END (6/19) is a WEEK AFTER the signature and receipt date. Transcribed from the form; no date was altered. The sole contributor is the candidate himself. PDF stores Page rot 270; pct: geometry is in the portrait frame poppler renders.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-04-14",
+   "donor_raw": "Cory Pulsipher",
+   "donor_city": "St. George",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:72.06,13.41,15.29,2.18@p2",
+   "note": "Amount written '100' in the Amount cell with its cents '00' spilling ACROSS the column rule into the In Kind? column - the value is 100.00, proved by the printed footer TOTAL 100.00 and the cover line-1 THIS cell 100.00. The '00' is NOT an in-kind answer; the In Kind? column is otherwise unanswered on this row, so in_kind is false and the column is honestly unanswered rather than 'N'. Address cell wrapped onto a second physical line ('St. George, UT [street address discarded at read time per PRIVACY.md]'): street and ZIP discarded, city/state kept."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-02-17",
+   "vendor_raw": "Wash Co. Republican Party",
+   "purpose": "Lincoln Day Breakfast Table",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.18,13.50,20.00,3.18@p3",
+   "note": "Form B has no in-kind column on this generation."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2018-03-09",
+   "vendor_raw": "Wash Co Clerk",
+   "purpose": "Filing Fee",
+   "amount": "535.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.18,17.14,20.00,3.18@p3",
+   "note": ""
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2018-03-13",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Maintenance Fee",
+   "amount": "7.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.18,20.77,20.00,3.18@p3",
+   "note": ""
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2018-04-12",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Maintenance Fee",
+   "amount": "7.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.18,24.41,20.00,3.18@p3",
+   "note": "Purpose written out in full (not a ditto mark)."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2018-04-14",
+   "vendor_raw": "Wash Co. Republican Party",
+   "purpose": "County Convention Table",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.18,28.05,20.00,3.18@p3",
+   "note": "Same date as the sole Form A contribution (4/14/18)."
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "2018-05-14",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Maintenance Fee",
+   "amount": "7.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:72.18,31.68,20.00,3.18@p3",
+   "note": "Purpose written out in full (not a ditto mark)."
+  }
+ ]
+}

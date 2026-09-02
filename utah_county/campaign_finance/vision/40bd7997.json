@@ -3,7 +3,10 @@
  "key": "40bd7997",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T01:00:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,138 @@
    "notes": "Handwritten print, clear. The form is the combined '2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES' sheet (side rail 'COUNTY & LOCAL SCHOOL BOARD CANDIDATES') - that is the FORM title only; the Office Seeking field states 'County Commissioner Seat A', a county office, so NO school-board scope flag applies. Amounts carry no dollar signs and no thousands commas; transcribed as written. The digit readings on line 1 were confirmed by enlarging the cells (2725.75 / 4656.61) - this filer's 7 has no crossbar and can look like a 1 at page scale. Lines 3 and 7 are the filer's struck-through zero glyph, transcribed '0' at medium confidence. Office Seeking 'County Commissioner Seat A' AGREES with office_index 'County Commission Seat A'. candidate_index was blank; cover and verification block both name Gregory J. Graves. Clerk Date received stamp 'OCT 27 PM 4:23'. Page box reads 'Page 1 of 3'."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "9-30-14",
+   "donor_raw": "Republican Party (UCRP)",
+   "donor_city": "Orem",
+   "donor_state": "UT",
+   "amount": "745.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.10,16.02,10.20,4.05@p3",
+   "geometry_frame": "p3 axis=y cell=83.10-93.30 rowband=16.02-20.07 (1 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "cents written as a raised '00' over the decimal"
+  },
+  {
+   "line_no": "2",
+   "date": "10-15-14",
+   "donor_raw": "Republican Party (UCRP)",
+   "donor_city": "Orem",
+   "donor_state": "UT",
+   "amount": "300.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.10,20.07,10.20,4.05@p3",
+   "geometry_frame": "p3 axis=y cell=83.10-93.30 rowband=20.07-24.12 (2 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer wrote DITTO MARKS (\") in the address cell repeating the row above; city/state carried from that row per the filer's own notation. PRIVACY: street address printed on the form is deliberately not carried."
+  },
+  {
+   "line_no": "3",
+   "date": "10-15-14",
+   "donor_raw": "Bill Graff",
+   "amount": "1500.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.10,24.12,10.20,4.09@p3",
+   "geometry_frame": "p3 axis=y cell=83.10-93.30 rowband=24.12-28.21 (3 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "address cell LEFT EMPTY BY THE FILER (not redacted by the county) \u2014 city/state honestly blank"
+  },
+  {
+   "line_no": "4",
+   "date": "10.17.14",
+   "donor_raw": "Greg Graves",
+   "donor_city": "Springville",
+   "donor_state": "UT",
+   "amount": "180.75",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.10,28.21,10.20,4.04@p3",
+   "geometry_frame": "p3 axis=y cell=83.10-93.30 rowband=28.21-32.25 (4 of 4 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "date written with PERIODS as '10.17.14' (kept verbatim); the same filer writes hyphens elsewhere on the filing"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "9-17-14",
+   "vendor_raw": "Speakbydesign",
+   "amount": "2140.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.20,17.94,10.20,4.06@p4",
+   "geometry_frame": "p4 axis=y cell=83.20-93.40 rowband=17.94-22.00 (1 of 2 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Schedule B on this form prints no Purpose column (Date / Purchased From-Source / Address / Amount), so purpose is honestly blank"
+  },
+  {
+   "line_no": "2",
+   "date": "10-17-14",
+   "vendor_raw": "Speak by design",
+   "amount": "585.75",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:83.20,22.00,10.20,4.07@p4",
+   "geometry_frame": "p4 axis=y cell=83.20-93.40 rowband=22.00-26.07 (2 of 2 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "same vendor as row 1, spelled with spaces by the filer; kept verbatim. Address cell is a ditto mark. Cents '75' written raised."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-fable-5; 2026-08-18 wave B2 utah)",
+   "transcribed_date": "2026-08-18",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' contributions (2,725.75) on the p2 Summary Page, which is also Schedule A's own printed 'Total Contributions Received' and its 'Subtotal for this page'",
+     "detail": "4 Schedule A rows sum to 745.00 + 300.00 + 1500.00 + 180.75 = 2,725.75 exactly = the schedule's printed page subtotal AND its printed Total Contributions Received AND the cover's promoted PER-PERIOD cell (Column A). Column B 'Year-to-Date Total' prints 4,656.61 and is NOT summed as an increment (utah is a per-period regime); the schedule is period-scoped, so 4,656.61 carries prior periods this schedule never itemizes."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' expenditures (2,725.75), equal to Schedule B's printed 'Subtotal for this page' and 'Total Expenditures Received'",
+     "detail": "2 Schedule B rows sum to 2140.00 + 585.75 = 2,725.75 exactly = the printed page subtotal = the printed total = the cover's Column A. Column B YTD 4,656.61 is retained as cumulative and never summed."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 neither schedule prints an in-kind column and no row is marked in-kind, so the monetary-only and monetary-plus-in-kind conventions give the same sum and both close at 2,725.75",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 2,
+   "geometry": {
+    "measured": 6,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "REFERENCE RECORD for the utah_county Phase B wave \u2014 the first filing transcribed and the worked example the chunk brief points at. legacy_colAB variant; 4 pages: p1 cover (Seven days preceding the General Election, 10-27-14, not an amendment), p2 SUMMARY PAGE (page position as expected for this variant, but located by content), p3 Schedule A, p4 Schedule B. Both sides close EXACTLY on the promoted per-period Column A figure. The cover's lines 3 and 7 (beginning and closing balance) are SLASHED ZEROS and were read 0 by the cover tranche under the zero-glyph ruling. Page-face name 'Gregory J. Graves' vs a BLANK channel candidate label in index.csv \u2014 the page face governs. NOTE the documented filer inconsistency for this filer across the cycle (types Seat A on 3/31/22, writes 'B' on 4/11/22 in the 2022 cycle): not adjudicated, and not relevant to this 2014 filing, which prints 'County Commissioner Seat A'."
+  }
+ }
 }

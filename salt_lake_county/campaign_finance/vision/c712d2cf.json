@@ -1,0 +1,116 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "Chad Bennion",
+   "purpose": "Loan Repayment",
+   "amount": "216.50",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.62,24.50,79.54,3.50@p4",
+   "note": "date cell prints only '**2010' - a year alone with no month/day, blank per contract, verbatim here; the '**' cross-references the filer's p2 note that specifics are unavailable (account closed over a decade); geometry measured by eye - rowbands returned no-reliable-geometry on this page"
+  }
+ ],
+ "total_contributions": "0",
+ "total_expenditures": "216.50",
+ "beginning_balance": "216.50",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "216,5"
+ },
+ "cover": {
+  "candidate": "Chad Bennion",
+  "party": "REP.",
+  "office_sought": "SLCo TREASURER",
+  "district_number": null,
+  "report_type": "FINAL / DISSOLUTION REPORT (2026 'Financial Disclosure Report For an Open Campaign Account' form)",
+  "is_amendment": "Yes",
+  "amendment_of": "Dec 31 2011",
+  "report_date": "2026-02-20",
+  "form_year": null
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "medium"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Bennion-Chad__7770B110.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Bennion, Chad",
+  "office": "Treasurer",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Bennion-Chad__7770B110.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026 'Financial Disclosure Report For an Open Campaign Account' form (no year printed in the title - form_year null); entirely handwritten. FINAL/DISSOLUTION box checked - the EasyVote name 'Dissolution' matches the checked box but the document is the standard report form - flagged, not relabeled. Marked an AMENDMENT ('Yes' checked) of 'Dec 31 2011' with a handwritten 'OR REPLACEMENT' beside the No box. Two asterisked filer notes on p2: '* OLD ADDRESS ASSOCIATED WITH ACCOUNT, FILER HAS NOT BEEN AT THIS ADDRESS FOR OVER A DECADE' and '** SPECIFICS ARE UNAVAILABLE AS ACCOUNT FOR CAMPAIGN HAS BEEN CLOSED FOR OVER A DECADE' - the '**' ties to line 2/line 3 and to the Schedule B row's '**2010' date. Column B cells carry only the form's printed instruction text - filer left them BLANK (totals-to-date = ''). Summary line 5 prints '216,5' verbatim (decimal-comma-style glyph). Cover street-address cell partially bar-redacted - visible street fragment discarded per \u00a76, city 'Murray' and state 'UT' survive on the cover (cover field, not an itemized row). Header page-number box on p4 is scribbled/overwritten.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A page EXISTS and is blank with a diagonal strike through the entire grid; its SUBTOTAL and TOTAL cells are left BLANK (not zero glyphs) so there is no schedule anchor; Summary line 1 Column A prints 0 - a real zero against a stated 0"
+    },
+    "expenditures": {
+     "stated": "216.50",
+     "schedule_total": "216.50",
+     "itemized": "216.50",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "1 row 216.50 = printed page subtotal 216.50 = printed TOTAL 216.50 = Summary line 2 Column A ('**216.50'); cached-free read, anchor taken off the page"
+    }
+   },
+   "page_subtotal_gates": "p4 rows 216.50 = printed subtotal 216.50 = printed TOTAL 216.50 (fires, closes); p3 subtotal/total cells printed but left BLANK - gated on Summary line 1 = 0 with zero rows instead",
+   "escalations": 3,
+   "escalation_note": "p4 row 1 date/vendor/purpose re-read at 600 dpi x1; p4 row 1 amount cell re-read at 600 dpi x1; p2 line 5 cell re-read at 600 dpi x1 (glyph is '216,5' - a low comma-style mark, = 216.50, chain closes)",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026 'Financial Disclosure Report For an Open Campaign Account' form (no year printed in the title - form_year null); entirely handwritten. FINAL/DISSOLUTION box checked - the EasyVote name 'Dissolution' matches the checked box but the document is the standard report form - flagged, not relabeled. Marked an AMENDMENT ('Yes' checked) of 'Dec 31 2011' with a handwritten 'OR REPLACEMENT' beside the No box. Two asterisked filer notes on p2: '* OLD ADDRESS ASSOCIATED WITH ACCOUNT, FILER HAS NOT BEEN AT THIS ADDRESS FOR OVER A DECADE' and '** SPECIFICS ARE UNAVAILABLE AS ACCOUNT FOR CAMPAIGN HAS BEEN CLOSED FOR OVER A DECADE' - the '**' ties to line 2/line 3 and to the Schedule B row's '**2010' date. Column B cells carry only the form's printed instruction text - filer left them BLANK (totals-to-date = ''). Summary line 5 prints '216,5' verbatim (decimal-comma-style glyph). Cover street-address cell partially bar-redacted - visible street fragment discarded per \u00a76, city 'Murray' and state 'UT' survive on the cover (cover field, not an itemized row). Header page-number box on p4 is scribbled/overwritten."
+  }
+ }
+}

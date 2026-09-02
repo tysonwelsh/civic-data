@@ -3,7 +3,10 @@
  "key": "53585908",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T01:10:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 12.23",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,82 @@
    "notes": "Handwritten on the printed v. 12.23 form; handwriting is clear. Office field reads 'County Commission Seat A' across two lines (index.csv 'County Commission Seat A' - exact agreement). The page name is 'Larry W Evans' (no period after the W; index.csv has 'Larry W. Evans'). Address is printed and legible (Salem, Utah 84653); only the signature is redacted upstream by the county. Every amount is written in whole dollars with a comma; several carry the filer's trailing period ('$3,600.'), dropped here. The Balance at Close is a SLASHED-ZERO glyph preceded by a dollar sign, read as 0 at medium confidence. FILER INCONSISTENCY, transcribed verbatim and NOT corrected: the form's formula makes Box F = Box A + Box B = 7,200, but the filer wrote F = 3,600 - the same 3,600 appears to be entered as both the opening balance and the period's contributions. No arithmetic was applied. The summary page's own footer numbers it 'Page 2' although it is page 4 of the PDF. Blue/red clerk stamp on the cover: 'Received APR 29 2026 In Person Utah County Clerk' (clerk markup). Cover prints the filing address as 'disclosures@utahcounty.gov'."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "04.29.2026",
+   "donor_raw": "Larry W Evans",
+   "donor_city": "Salem",
+   "amount": "3600.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:79.20,16.32,13.10,4.38@p2",
+   "geometry_frame": "p2 axis=y cell=79.20-92.30 rowband=16.32-20.70 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "A SELF-CONTRIBUTION by the candidate \u2014 the filing's only donor is the filer himself, named on the row exactly as on the cover. It is an itemized contribution row because Schedule A's own two printed footers carry the full 3,600.00 and Box B does too; no 'loan' wording appears anywhere. The City and Zip Code cell prints 'Salem, 84653' and NOTHING ELSE \u2014 the filer typed no street, so there is nothing for the privacy reduction to remove and there is no redaction bar on this page. donor_state is honestly BLANK because THE 2026 'City and Zip Code' BLANK HAS NO STATE FIELD and the filer typed none. Cents written as a raised '00' after the decimal point. Date written with PERIODS as '04.29.2026', kept verbatim \u2014 the same separator style the filer uses in every date box on the filing."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "04.29.2026",
+   "vendor_raw": "Staples",
+   "purpose": "Flyers, Lawn Signs Banners",
+   "amount": "3600.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:78.70,16.73,13.10,4.38@p3",
+   "geometry_frame": "p3 axis=y cell=78.70-91.80 rowband=16.73-21.11 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The 2026 v. 12.23 Schedule B carries a REAL Purpose column and the filer used it, wrapping his purpose onto a second written line INSIDE the same ruled row ('Flyers, Lawn Signs' then 'Banners') \u2014 a continuation within one cell, not a second row; the one-past control confirms the indexing. Expenditure rows carry no address field on this form and none is written. Same date and same amount as the sole contribution."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5[1m]; 2026-08-20 wave B2 utah chunk r13_03)",
+   "transcribed_date": "2026-08-20",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' ($3,600) on the p4 Summary Page, corroborated by Schedule A's own printed 'Subtotal for this page $ 3,600.00' AND its printed 'Total Contributions Received (Sum of all Schedule A pages in this report) $ 3,600.00'",
+     "detail": "The single written Schedule A row sums to 3,600.00 exactly = the page subtotal = the sum-of-all-pages total = the promoted per-period Box B. Box C (Year to Date) prints the identical $3,600 and is NOT summed as an increment; this is the cycle's only retained report. THE SELF-CONTRIBUTION WAS TESTED AGAINST THE LADDER, not assumed: the sole donor is the candidate himself, and both of Schedule A's own printed footers carry the full 3,600.00, so it is an itemized contribution row. RECORDED AND NOT ADJUDICATED: Box A 'Balance at Beginning of Reporting Period' ALSO prints $3,600 and Box F ('Box A + Box B') prints $3,600 rather than 7,200 \u2014 the same double-booking shape seen on Brent Bowles's 2026 filing (key d4741fec). The filer's close box is a SLASHED ZERO, read 0 under the repo-wide zero-glyph ruling, which is consistent with his own F - D = 3,600 - 3,600 = 0. All of that lives in balance cells and touches no itemized row; the side is gated on Box B, which the schedule's two footers corroborate twice over."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' ($3,600.) on the p4 Summary Page, corroborated by Schedule B's own printed 'Subtotal for this page $ 3,600.00' AND its printed 'Total Expenditures Made (Sum of all Schedule B pages in this report) $ 3,600.00'",
+     "detail": "The single written Schedule B row sums to 3,600.00 exactly = the page subtotal = the sum-of-all-pages total = the promoted per-period Box D. Box E (YTD) prints the identical $3,600. and is never summed as an increment. The whole filing is one transaction in and one out for the identical amount on the identical date: the candidate funded his own campaign with 3,600.00 on 04.29.2026 and spent 3,600.00 with Staples on flyers, lawn signs and banners the same day, closing at a slashed zero."
+    }
+   },
+   "in_kind_convention": "monetary-only \u2014 and the two conventions are identical here. Schedule A prints FOUR columns (Date / Name of Contributor / City and Zip Code / Amount) with NO in-kind checkbox column; neither row is annotated in-kind; the Summary Page has no in-kind line and no compound '+Inkind' cell. Both conventions give 3,600.00 on each side and both close exactly.",
+   "escalations": 0,
+   "escalation_note": "No value was in doubt: the handwriting is large, well separated and unambiguous, and the same figure (3,600.00) is written eight times across the filing in the same hand. The only crops taken were the six geometry proofs recorded in the two measure_notes. Note for the record that the p4 close box holds a SLASHED ZERO, which the cover tranche read as 0 under the repo-wide zero-glyph ruling (GOTCHAS 2026-08-02) \u2014 a glyph that DENOTES zero, not a bare dash.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 1,
+   "geometry": {
+    "measured": 2,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "FORM CHARACTERISATION (2026 stock, sixth specimen) \u2014 variant modern_boxAF, footer 'v. 12.23' on every page, masthead 'Aaron Davidson, Clerk'. Four pages, summary LAST, each classified from its own printed header: p1 cover, p2 'Schedule A - Itemized Contributions Received', p3 'Schedule B - Itemized Expenditures Made', p4 'Summary Page'. NO CHECKLIST DECOY is bound in this document. Schedule A's third column is headed 'City and Zip Code' (the Bowles/Herrin/Forbush blank, not the Voeks 'Address and Zip Code' one \u2014 four filings now on each side of that split, all under the same v. 12.23 footer). Schedule B keeps the real Purpose column; both schedules are boxed 15-row grids printing their own two footers; the Summary Page prints A, B/C, D/E, F and an UNLETTERED close box. Report type '30 Days after withdrawal or elimination' is ticked, the amendment question is ticked 'No', and the report is dated 04.29.2026 throughout. WHOLLY HANDWRITTEN on the printed form in a large clear hand, in contrast with the typed 2026 filings in this chunk. CLERK RECEIPT STAMP \u2014 independent date evidence, worth citing: the cover carries a two-colour 'Received / APR 29 2026 / In Person / Utah County Clerk' stamp, so the county's own receipt date agrees to the day with every date the filer wrote. FOLIATION IS ERRATIC AND LOCATES NOTHING: the Page box reads '2' on the Schedule A sheet, '1' on the Schedule B sheet and '2' again on the Summary Page, with no 'of N' component anywhere \u2014 the filer appears to have restarted numbering partway through. This is one more instance of the wave's standing finding that a page ordinal never locates a page; every page here was classified from its own printed header. FILER ARITHMETIC RETAINED VERBATIM, NOT ADJUDICATED: Box A prints $3,600 \u2014 the same figure as Box B \u2014 and Box F ('Box A + Box B') prints $3,600 rather than 7,200, so the candidate's one 3,600.00 payment is booked both as an opening balance and as a period contribution. The close box holds a SLASHED ZERO, transcribed as 0 under the repo-wide zero-glyph ruling. None of this touches an itemized row, and both sides gate on Box B / Box D, each corroborated twice by the schedules' own footers. PAGE-FACE IDENTITY: the cover, the affirmation line and every sheet's candidate box read 'Larry W Evans' with NO PERIOD after the middle initial, while index.csv's channel label is 'Larry W. Evans'; the page face governs and the divergence is recorded. The OFFICE BOX IS FILLED AND LEGIBLE, written across two lines as 'County Commission / Seat A', corroborating index.csv's 'County Commission Seat A' from the page itself \u2014 one of the few filings in this chunk where the seat is actually printed. REDACTION \u2014 A SOURCE PROPERTY WORTH FLAGGING, and the second instance in this chunk: this file is named '_Redacted' and the county blacked out ONLY the signature block. The candidate's full home street address, his phone number and his email are published IN THE CLEAR in the cover's Address row, and neither schedule carries any redaction. Nothing from that row is carried into this record. No DONOR address exists to redact anywhere on this filing, because the 2026 'City and Zip Code' column asks only for a city and a zip and the filer wrote only 'Salem, 84653'."
+  }
+ }
 }

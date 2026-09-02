@@ -1,0 +1,92 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W10.json",
+ "key": "abf407be",
+ "index_path": "raw/wayback_forms2020/Assessor_Tom Durrant_June 23 2020 FCR_06-15-2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Assessor_Tom Durrant_June 23 2020 FCR_06-15-2020.pdf"
+ ],
+ "sha256_prefix": "191b04b1aae5d266",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative==cover-line1-this",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A carries NO transaction: the whole ruled grid is empty at 200 dpi and the filer wrote a single hand-written 'N/A' across the Mailing Address column near the top - a nil MARK, not a numeral and not a row, so zero rows are emitted and nothing is recorded as a zero-valued transaction. The printed TOTAL cell was left blank. Cover line 1 carries a written zero glyph in ALL THREE columns (0 under the repo-wide zero-glyph ruling), so the zero row set equals both the THIS and the CUMULATIVE cell; LAST is also 0, first report of the cycle, scopes coincide - recorded cumulative. Cover line 2 (the $50-or-less aggregate) is likewise 0 in all three columns, so there is no unitemized small-donor residue: this candidate raised nothing at all."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "571.00",
+    "cover_expense_cum": "571.00",
+    "schedule_total": "571.00"
+   },
+   "itemized": "571.00",
+   "basis": "schedule-total==cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row, 571.00, equal to Form B's printed TOTAL (571.00) and to cover line 3 THIS (571.00) and CUMULATIVE (571.00). Line 3 LAST is a written zero, so this is the first report of the cycle and the two scopes coincide - recorded cumulative. Both cover cells write the cents as a superscript 'oo' over the rule ('571.' + superscript) and are transcribed with the decimal point per the currency rule."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p3 rows sum 571.00 = printed TOTAL EXPENDITURES 571.00 (exact; the footer re-read in a 600 dpi crop and the row amount in a 1200 dpi cell crop, both reading 571.00). p2 has no gate to fire: the filer inked no rows and left the printed TOTAL cell blank, consistent with the cover's zeros.",
+  "row_count": "rowbands.py p3: 33 bands, status 'gaps' (some rules dropped), so treated as evidence not oracle; ink counted by eye on the 200 dpi page = exactly 1 written row, on the first data line. p2 at 200 dpi: every data band empty, no ink other than the 'N/A' mark in the Mailing Address column. ⚠ A long hand-drawn S-CURVE runs down the whole Amount column of p3 beneath the single row - a filer's strike-through voiding the unused lines. It carries no digits and is NOT a value or a row; it is recorded here and not transcribed. 1 row emitted on the expenditure side, 0 on the contribution side.",
+  "geometry_proof": "p3: crop pct:70.66,13.60,16.00,2.00 renders '$ 571.00' (the row-1 amount, complete); a control one row-pitch below (y 15.60%) renders an empty ruled cell carrying only the printed '$'. Passes. No contribution geometry is claimed - zero rows.",
+  "balance_chain": "Cover line 4 reads 0 LAST, (571.00) THIS, (571.00) CUMULATIVE - written in accounting PARENTHESES, i.e. negative. Chain closes exactly: contributions 0 minus expenditures 571.00 = -571.00, the bracketed figure. The candidate paid the filing fee out of pocket and carried the deficit rather than reporting a self-contribution."
+ },
+ "escalations": 8,
+ "escalation_note": "400 dpi crops of the cover money grid (lines 1-3 and lines 3-4, to separate written zeros from blanks and read the parenthesised negatives and superscript cents); 600 dpi crop of the p3 row-1 band and of the printed TOTAL footer; a 1200 dpi crop of the row-1 amount cell (to settle the cramped decimal point); and two geometry-proof/control pairs, the box widened once after the first pass clipped the final cents digit.",
+ "notes": "index.csv/chunk call this Tom Durrant, Assessor, 2020. The cover's 'Full Name of Candidate' reads 'Tom Durrant' and the 'Office' line reads 'Washington County Assessor' - a county office, IN SCOPE; agrees with the chunk file. Certification period 01/01/2020 to 6/16/2020, dated June 16 2020, RECEIVED JUN 15 2020 stamp (the stamp date precedes the signature date by one day - kept verbatim, unresolved). ⚠ SAME FILER, DIFFERENT FILING from the county addendum's illustration document ('raw/live_outpost/06-14-2024-Tom Durrant_Assessor_06-15-2024.pdf', 2024 cycle, 640.20) - this is the 2020 cycle and is not a re-post of it. ⚠ THE ONLY EXPENDITURE ROW'S DATE HAS NO YEAR: the cell reads '3/13' and nothing more, so `date` is left BLANK with needs_review:1 and the verbatim kept in the row note; the year was NOT filled in from the report date, per the contract. Privacy: the cover prints the candidate's street address, ZIP and business phone in the clear - all discarded at read time. Form A's 'In Kind?' column is untouched (no rows to answer it on).",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Washington County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "571.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:70.66,13.60,16.00,2.00@p3",
+   "note": "⚠ Date cell reads '3/13' with NO YEAR PRINTED - left blank per the contract rather than inferred from the report period (01/01/2020-6/16/2020); verbatim '3/13'. Payee written on two lines within the cell ('Washington County' / 'Clerk') and joined here. Amount cramped as '571.00' with a tight decimal point; read at 1200 dpi and confirmed against the printed TOTAL 571.00 and cover line 3. Form B on this generation has NO in-kind column, so in_kind is false by absence of the field."
+  }
+ ]
+}

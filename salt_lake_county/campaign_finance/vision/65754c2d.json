@@ -1,0 +1,98 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "0.00",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "0.00"
+ },
+ "cover": {
+  "candidate": "Phil Snyder",
+  "party": "unaffilated",
+  "office_sought": "",
+  "district_number": null,
+  "report_type": "Final / Dissolution Report - The campaign is no longer active or receiving contributions and the campaign account balance is zero.",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2026-03-23",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Snyder-Phil__B9D88E40.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Snyder, Phil",
+  "office": "Sheriff",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Snyder-Phil__B9D88E40.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026 form 'Financial Disclosure Report For an Open Campaign Account' (no year printed in the title). Office field left blank on the form though index.csv says Sheriff - the page governs. Party printed 'unaffilated' verbatim (filer's spelling). FINAL / DISSOLUTION REPORT box checked; amendment = No; e-stamp 03/23/26 - 12:52 PM; Summary Date of Report 03/23/26. Every Summary figure is $0.00 in both columns. Street/city/state/zip/phone/email bar-redacted on cover. Document is cover + Summary only, matching the chunk's no-schedule-page prior.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page exists in the document; Summary line 1 prints $0.00 in both columns"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page exists in the document; Summary line 2 prints $0.00 in both columns"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages; nothing to gate",
+   "escalations": 2,
+   "escalation_note": "p1 Office-cell 600dpi crops x2 to confirm the Office value cell is blank (it is)",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026 form 'Financial Disclosure Report For an Open Campaign Account' (no year printed in the title). Office field left blank on the form though index.csv says Sheriff - the page governs. Party printed 'unaffilated' verbatim (filer's spelling). FINAL / DISSOLUTION REPORT box checked; amendment = No; e-stamp 03/23/26 - 12:52 PM; Summary Date of Report 03/23/26. Every Summary figure is $0.00 in both columns. Street/city/state/zip/phone/email bar-redacted on cover. Document is cover + Summary only, matching the chunk's no-schedule-page prior."
+  }
+ }
+}

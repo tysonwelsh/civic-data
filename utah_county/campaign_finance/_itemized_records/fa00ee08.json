@@ -1,0 +1,67 @@
+[{
+ "index_path": "raw/2014/2014_10-14WriteIn-Hemingway.pdf",
+ "key": "fa00ee08",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r3_02)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' contributions (63.26) on the p2 SUMMARY PAGE, which is also Schedule A's own printed 'Subtotal for this page' (63.26) and its printed 'Total Contributions Received' (63.26); Column B 'Year-to-Date Total' prints the same 63.26 because this is the cycle's only report on this cover (line 3 Balance at Beginning is a slashed zero)",
+   "detail": "3 Schedule A rows sum to 63.26 + 0.00 + 0.00 = 63.26 exactly = the printed page subtotal = the printed Total Contributions Received = the cover's PROMOTED per-period cell (Column A). Row 1 is the filer's own AGGREGATE line — date 'VARIOUS', contributor '< $50.00', address 'VARIOUS', amount 63.26 — kept as ONE row and never split into imagined donors. Rows 2 and 3 are the filer's category lines 'GOODS OR SERVICES' and 'IN KIND', each carrying a SLASHED ZERO in the amount cell, read 0 under the repo zero-glyph ruling; they contribute nothing to the sum but they are printed rows of the schedule and they are what makes the in-kind test decidable here. Column B is NOT summed as an increment (utah is a per-period regime); it happens to equal Column A because this is the cycle's first and only report."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' expenditures (48.11) on the p2 SUMMARY PAGE, which is also Schedule B's own printed 'Subtotal for this page' (48.11) and its printed 'Total Expenditures Received' (48.11)",
+   "detail": "2 Schedule B rows sum to 3.79 + 44.32 = 48.11 exactly = the printed page subtotal = the printed total = the cover's Column A. The cover's whole balance ladder closes on these figures too: line 3 (slashed zero = 0) + line 4 63.26 = line 5 63.26, minus line 6 48.11 = line 7 15.15, as printed. Column B YTD 48.11 is retained as cumulative and never summed."
+  }
+ },
+ "in_kind_convention": "MONETARY-ONLY AND MONETARY-PLUS-IN-KIND ARE IDENTICAL HERE, AND THE FILER SAYS SO HIMSELF — tested both ways as the brief requires. Schedule A carries an explicit printed 'IN KIND' line whose amount is a SLASHED ZERO (0), and an explicit 'GOODS OR SERVICES' line likewise zero, so the in-kind component of this filing is stated to be nil and both conventions close at 63.26. This is the rare filing where the per-filer in-kind question is answered on the page instead of inferred from arithmetic.",
+ "escalations": 0,
+ "escalation_note": "No cell needed settling: the hand is large block capital printing and every figure was legible at 200 dpi full page. The six 900 dpi crops taken are the mandatory geometry controls recorded in the frames.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [81.80, 91.50],
+   "cells": [[6.64, 17.94], [19.47, 51.88], [53.47, 80.29], [81.80, 91.50]],
+   "rows": [[16.80, 20.72], [20.72, 24.66], [24.66, 28.59], [28.59, 32.52], [32.52, 36.45], [36.45, 40.36], [40.36, 44.29], [44.29, 48.20], [48.20, 52.11], [52.11, 56.04], [56.04, 59.95], [59.95, 63.88], [63.88, 67.79], [67.79, 71.72], [71.72, 75.63], [75.63, 79.56], [79.56, 83.50]],
+   "measure_note": "legacy underline form. rowbands.py on the RAW frame (skew +0.2 deg) returns 17 four-segment per-column underlines from 20.72 to 83.50 at a regular pitch of 3.924. The column bands come straight from the rule segments, taken from RULE 2 rather than rule 1 because the filer's handwritten '63.26' crosses rule 1 and fragments its amount segment: Date 6.64-17.94, Name 19.47-51.88, Address 53.47-80.29, Amount 81.80-91.50. TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up to [16.80, 20.72]. THREE CONTROL CROPS AT 900 dpi AND WHAT THEY ACTUALLY RENDERED: the A1 FIRST-ENTRY control, pct:81.80,16.80,9.70,3.92@p3, rendered the printed 'Amount' header above a handwritten '63.26' (recorded 63.26 for row 1 — so this filer did NOT skip the first ruled line); pct:81.80,24.66,9.70,3.93@p3 rendered a single SLASHED ZERO glyph (recorded 0.00 for row 3, the 'IN KIND' line); and THE B5 NEGATIVE CONTROL one band past the last written row, pct:81.80,28.59,9.70,3.93@p3, rendered EMPTY — two printed rules with nothing between them, which is the proof the bands are not off by one."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [81.77, 91.53],
+   "cells": [[6.65, 17.83], [19.41, 51.89], [53.47, 80.24], [81.77, 91.53]],
+   "rows": [[18.72, 22.64], [22.64, 26.54], [26.54, 30.50], [30.50, 34.41], [34.41, 38.32], [38.32, 42.27], [42.27, 46.13], [46.13, 50.09], [50.09, 54.02], [54.02, 57.95], [57.95, 61.84], [61.84, 65.77], [65.77, 69.68], [69.68, 73.63], [73.63, 77.54], [77.54, 81.45], [81.45, 85.41]],
+   "measure_note": "Same underline form as p3 but measured on its own (skew +0.1 deg here vs +0.2 on p3, and the grid sits ~1.9 pct lower): 17 four-segment rules from 22.64 to 85.41, pitch 3.923, columns Date 6.65-17.83, Name 19.41-51.89, Address 53.47-80.24, Amount 81.77-91.53. Row 1 extrapolated one pitch up to [18.72, 22.64]. THREE CONTROL CROPS AT 900 dpi AND WHAT THEY ACTUALLY RENDERED: pct:81.77,18.72,9.76,3.92@p4 rendered the printed 'Amount' header above '3.79' (recorded 3.79 for row 1, FedEx Office); pct:81.77,22.64,9.76,3.90@p4 rendered '44.32' (recorded 44.32 for row 2, Daily Herald); and THE B5 NEGATIVE CONTROL, pct:81.77,26.54,9.76,3.96@p4, rendered EMPTY."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "VARIOUS",
+   "donor_raw": "< $50.00", "amount": "63.26", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "THE FILER'S OWN AGGREGATE LINE, kept as ONE row and never split into imagined donors: the Date cell prints the word 'VARIOUS' (kept verbatim, the build will flag it as unparseable), the Name of Contributor cell prints a less-than sign and '$50.00' (i.e. the statutory sub-threshold aggregate), and the Address cell prints 'VARIOUS' — so donor_city/donor_state are honestly BLANK because THE FORM NAMES NO PLACE, a cause distinct from redacted-by-the-county and from left-empty-by-the-filer."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "",
+   "donor_raw": "GOODS OR SERVICES", "amount": "0.00", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "A category line the filer added to the schedule, not a donor. The amount cell carries a SLASHED ZERO ('Ø'), transcribed as 0 under the repo zero-glyph ruling with the glyph named here. The Date and Address cells each carry a BARE DASH, which is a nil mark and NOT a numeral or a date, so both stay BLANK and no date is inferred."},
+  {"line_no": "3", "page": 3, "row": 3, "date": "",
+   "donor_raw": "IN KIND", "amount": "0.00", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "The filer's own IN-KIND line, stated as a SLASHED ZERO ('Ø') = 0 (proved by the 900 dpi control crop, which rendered the glyph alone). Date and Address are BARE DASHES and stay BLANK. in_kind is recorded FALSE on this row because the row itself states that in-kind receipts were nil — it is the filer's declaration that there were none, not an in-kind receipt of zero value."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "9/20/2014",
+   "vendor_raw": "FEDEX OFFICE", "amount": "3.79", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "Schedule B on this 2014 blank prints 'Purchased From/Source' and 'Address, City & Zip' but NO Purpose column, so purpose is honestly blank. The date carries a full four-digit year, unlike most of this chunk. PRIVACY: the vendor address printed on the form is deliberately not carried (expenditure rows hold no address field)."},
+  {"line_no": "2", "page": 4, "row": 2, "date": "10/23/2014",
+   "vendor_raw": "DAILY HERALD", "amount": "44.32", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "No Purpose column on this form, so purpose is honestly blank."}
+ ],
+ "notes": "Stephen C. Hemingway, who prints his own nickname inside the Name field — the cell reads 'STEPHEN C. HEMINGWAY - (HEMI)' — and then signs the Report Verification 'HEMI' in the Print Name of Candidate slot. index.csv names NO candidate for this row (the 2008-2018 listing grouped by office) and spells the file 'Hemmingway'; the PAGE FACE governs and spells it HEMINGWAY with one m in the middle, which is also how he writes it in the p2/p3/p4 Last Name boxes. Office printed 'UTAH COUNTY COMMISSION SEAT B.' (the seat IS printed, so nothing is inferred). Political Party printed 'UNAFFILIATED'. Residence city Provo. Report type 'Seven days preceding the General Election', signed 10/26/2014, clerk-stamped OCT 27.\n\nTHE AMENDMENT QUESTION IS LEFT WHOLLY UNANSWERED — neither Yes nor No is ticked (the A4 honest blank; never read as 'No').\n\nPAGE MAP, classified by each page's own printed header (4 pages): p1 cover ('2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', Utah County Code 2-5), p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B. This is the SAME 2014 blank as the reference record 40bd7997 (Schedule B prints 'Purchased From/Source'), and NOT the county-only blank used by c969ce67 (Tracy) in this same chunk — two 2014 templates circulated.\n\nFOLIATION: this filer numbers the COVER as sheet 1 — he writes '1/4' in his own hand at the foot of p1, and the printed Page/of boxes then read 2 of 4, 3 of 4, 4 of 4. That is the 'counting the cover' practice; a page ordinal still locates nothing on its own and every page here was classified from its printed header.\n\nBOTH SIDES CLOSE EXACTLY on the promoted per-period Column A cells, and the cover's whole ladder closes too. The only nil marks on the filing are SLASHED ZEROS (line 3 of the summary, and the two zero category lines on Schedule A) plus BARE DASHES in the Date and Address cells of those two lines; read per line per the B2 caution — the slashed zeros are 0, the bare dashes are BLANK.\n\nA SOURCE PROPERTY WORTH RECORDING: this filer itemizes NOTHING by donor. His entire Schedule A is one sub-threshold AGGREGATE line ('< $50.00' / 'VARIOUS' / 'VARIOUS' / 63.26) plus two explicit zero category lines. So a reconciling, fully transcribed contribution side can still name no donor at all — the empty donor identity here is the DOCUMENT's, not the transcription's.\n\nPRIVACY: this file is not a *_Redacted.pdf and the county published it in the clear. No donor address exists to reduce (the cell says 'VARIOUS'); the two vendor street lines on Schedule B are deliberately not carried, in any field or note."
+}]

@@ -1,0 +1,170 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W07.json",
+ "key": "7194bf78",
+ "index_path": "raw/wayback_forms2020/Recorder_Gary L_12-16-2020. Christensen_December 15 2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Recorder_Gary L_12-16-2020. Christensen_December 15 2020.pdf"
+ ],
+ "sha256_prefix": "a78f4d790944b4be",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "300.00",
+    "cover_over50_this": "Ø",
+    "cover_over50_cum": "$300,00",
+    "cover_le50_this": "Ø",
+    "cover_le50_cum": "Ø",
+    "schedule_total": "300.00"
+   },
+   "itemized": "300.00",
+   "basis": "cover-line1-cumulative==schedule-total",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One row, 300,00, = the Form A printed TOTAL 300.00 = cover line 1 CUMULATIVE. This cover is fully filled: LAST 300.00 + THIS slashed-zero (=0) = CUMULATIVE 300.00, and that arithmetic is itself the proof that the schedule is the CYCLE-TO-DATE ledger rather than this period's activity - the row is dated 2020-04-08, months before this report's certified period 10/27/2020-12/15/2020, and the THIS-report column says the period saw nothing. Line 2 (the sub-$50 aggregate) is a slashed zero in all three columns and is never itemized."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "1,195.61",
+    "cover_expense_this": "Ø",
+    "cover_expense_cum": "1,195.61",
+    "cover_balance_end": "-895.61",
+    "schedule_total": "1,195.61"
+   },
+   "itemized": "1195.91",
+   "basis": "cover-line3-cumulative==schedule-total",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "DELTA of +0.30, identical to the June filing (key 703ce1ad) because pages 2-3 here are a photocopy of that filing's schedules. Rows sum 1195.91; the printed TOTAL, cover line 3 LAST and cover line 3 CUMULATIVE all read 1,195.61, and the cover chain closes on it exactly (300.00 - 1195.61 = -895.61). The two candidate cells are again row 3 '.87' and row 4 '.88'; this is a SEPARATE SCAN of the same ink and was re-read at 600 dpi with a 4x upscale - it reads identically, which is correlated evidence and settles nothing. Rows published verbatim, unadjusted, needs_review=1 on every row of the side."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: 1 row 300,00 = printed TOTAL 300.00 - gate fires, and cover LAST + THIS = CUM (300.00 + 0 = 300.00) fires as a second, independent gate. p3: rows sum 1195.91 vs printed TOTAL 1,195.61 - WOULD NOT GATE, delta +0.30, both figures named, no row adjusted.",
+  "row_count": "rowbands.py p2 returned geometry_status=no-reliable-geometry (this scan carries a heavy blue scanner-edge artefact down the left margin) - bands counted by eye off the 600-dpi render: 1 inked row against ~40 empty ones, 1 emitted. p3: gaps, 29 bands, pitch 1.59%, but the detected rules start at 26.79% (below the data block) and the v-rules are fragmented by the same artefact; mapped by hand against ink - rows 1-5 = [17.00,18.59], [18.59,20.18], [20.18,21.77], [21.77,23.36], [23.36,24.95]. 5 inked, 5 emitted.",
+  "geometry_proof": "p2: 600-dpi crop pct x 62-90, y 16.0-22.2 upscaled 3x renders row 1's '$300,00' in its emitted band and the bands below render EMPTY. p3: 600-dpi crop pct x 63-85, y 15.5-23.5 upscaled 4x renders rows 1-4's amounts in their emitted bands in order.",
+  "balance_chain": "Closes exactly, and the cross-filing chain RUNS (two filings by one filer in one cycle inside this chunk): this cover's 'Totals from LAST Report' column (300.00 / Ø / 1,195.61 / -895.61) reproduces the June filing 703ce1ad's figures verbatim; its THIS column is a slashed zero on all four lines; its CUMULATIVE column is 300.00 / Ø / 1,195.61 / -895.61. LAST + THIS = CUMULATIVE holds on every line. No swapped-cover signature."
+ },
+ "escalations": 2,
+ "escalation_note": "p3 amount column at 600 dpi with a 4x LANCZOS upscale (deliberately re-run on this independent scan to test the June filing's ambiguous cents groups); p2 amount cell over the same route.",
+ "notes": "Generation 2 form. Chunk file / index.csv say Gary L. Christensen, Recorder, 2020; the cover's name and Office ('Recorder') AGREE. Certified period 10/27/2020-12/15/2020, signed and dated 12/15/2020 (the filename and the module's filing_date say 12-16-2020 - the signature is the 15th; noted, not corrected). PHOTOCOPIED SCHEDULES: pages 2 and 3 are the same physical Form A and Form B sheets as key 703ce1ad in this chunk, re-copied under a new cover - identical ink, identical placement, identical five expenditure rows and one contribution row, all dated March-April 2020, i.e. months before this report's period. Per the addendum that is the evidence that the LEDGER is cycle-to-date while the COVERS are per-period, and this cover's own LAST + THIS = CUMULATIVE arithmetic confirms it. Both filings were transcribed in full; neither was skipped as a duplicate. A stray '$' is written in front of the cumulative contribution figure ('$300,00'), recorded verbatim in the anchor. Candidate's home street address, city, ZIP, home phone and business phone are printed in the clear on the cover and were discarded at read time.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-04-08",
+   "donor_raw": "Southern Utah Title",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "300,00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:70.20,17.00,9.40,1.59@p2",
+   "note": "photocopy of the same sheet filed with key 703ce1ad. Amount separator is a COMMA ('300,00'), kept verbatim per the decimal-comma rule; value $300.00. Address cell holds a street address only, discarded at read time; no city or state written. In Kind? cell blank."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-17",
+   "vendor_raw": "Namecheap",
+   "purpose": "Website Domain Reg",
+   "amount": "7.16",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "high",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:70.20,17.00,13.30,1.59@p3",
+   "note": "needs_review=1 because this SIDE does not gate: the five rows sum to 1195.91 against the filer's printed TOTAL 1195.61.  Photocopy of the sheet also filed with key 703ce1ad."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-03-20",
+   "vendor_raw": "Katelyn Bulmer",
+   "purpose": "Website Design",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:70.20,18.59,13.30,1.59@p3",
+   "note": "needs_review=1 because this SIDE does not gate: the five rows sum to 1195.91 against the filer's printed TOTAL 1195.61. vendor surname glyphs are cramped ('Bu?ner'); read as Bulmer at medium confidence Photocopy of the sheet also filed with key 703ce1ad."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Wash Co Clerk",
+   "purpose": "Candidacy filing/Misc",
+   "amount": "812.87",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:70.20,20.18,13.30,1.59@p3",
+   "note": "needs_review=1 because this SIDE does not gate: the five rows sum to 1195.91 against the filer's printed TOTAL 1195.61. cents group '.87' is one of the two cells that could carry the schedule's 0.30 delta - escalated to 2400 dpi and to a 600-dpi 4x upscale and it still reads as the writer's angular 8 followed by a crossed 7; retained verbatim, NOT adjusted to close the total Photocopy of the sheet also filed with key 703ce1ad."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2020-04-07",
+   "vendor_raw": "Costco",
+   "purpose": "Post Cards",
+   "amount": "100.88",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:70.20,21.77,13.30,1.59@p3",
+   "note": "needs_review=1 because this SIDE does not gate: the five rows sum to 1195.91 against the filer's printed TOTAL 1195.61. cents group '.88' is the other candidate for the schedule's 0.30 delta - same escalation, same result; retained verbatim Photocopy of the sheet also filed with key 703ce1ad."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2020-04-01",
+   "vendor_raw": "USPS",
+   "purpose": "Stamps",
+   "amount": "175.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "high",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:70.20,23.36,13.30,1.59@p3",
+   "note": "needs_review=1 because this SIDE does not gate: the five rows sum to 1195.91 against the filer's printed TOTAL 1195.61.  Photocopy of the sheet also filed with key 703ce1ad."
+  }
+ ]
+}

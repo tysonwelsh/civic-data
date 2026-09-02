@@ -1,0 +1,60 @@
+[{
+ "index_path": "raw/2014/2014_10-14Buhman_Redacted.pdf",
+ "key": "a0cd2ae1",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r3_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED = 500 on the p2 SUMMARY PAGE (restated at line 4 as '500.00'), which is also Schedule A's own printed 'Subtotal for this page $ 500.00' and its printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $ 500.00'",
+   "detail": "1 Schedule A row sums to 500.00 exactly. All THREE printed anchors agree to the cent: the schedule's page subtotal (500.00), the schedule's own total (500.00), and the cover's promoted PER-PERIOD cell (Column A line 1, written '500' without cents, and line 4 'From Line 1 Column A' written '500.00'). Column B 'Year-to-Date Total' prints 15,709.58 and is NOT summed as an increment — it carries the filer's whole 2014 cycle, which this seven-days-preceding-the-General report does not itemize. The p2 balance ladder closes exactly: line 3 5,062.61 + line 4 500.00 = line 5 5,562.61; 5,562.61 - line 6 5,460.53 = line 7 102.08."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE = 5,460.53 on the p2 SUMMARY PAGE (restated at line 6), which is also Schedule B's own printed 'Subtotal for this page $ 5,460.53' and its printed 'Total Expenditures Received (Sum of subtotals from all Schedule B pages) $ 5,460.53'",
+   "detail": "2 Schedule B rows sum to 813.93 + 4646.60 = 5,460.53 exactly = the schedule's page subtotal = the schedule's printed total = the cover's promoted per-period Column A cell = line 6. Column B 'Year-to-Date Total' prints 15,607.50 and is retained as cumulative, never summed as an increment."
+  }
+ },
+ "in_kind_convention": "monetary-only, and it closed on both sides at the first test — the 2014 form prints no in-kind column, no row is marked in-kind, and no separate in-kind line appears on the summary page, so the monetary-only and monetary-plus-in-kind conventions give identical sums (500.00 / 5,460.53), both equal to Column A",
+ "escalations": 1,
+ "escalation_note": "One LEGIBILITY escalation, not an arithmetic one: the sole donor's second given name was cropped tight and re-rendered at 1600 dpi (pct:20.3,18.3,25.0,3.4@p3) to settle 'Tony' vs 'Tory'. It renders as 'Peter and Tony Schofield' — the letter after the 'o' carries the same single-arch-plus-shoulder form the filer uses for 'n' in 'and' two words earlier. Recorded as read, at medium confidence.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [81.20, 90.80],
+   "cells": [[7.65, 18.80], [20.30, 52.10], [53.50, 79.80], [81.20, 90.80]],
+   "rows": [[17.69, 21.52], [21.52, 25.37], [25.37, 29.18], [29.18, 33.02], [33.02, 36.84], [36.84, 40.68], [40.68, 44.50], [44.50, 48.32], [48.32, 52.16], [52.16, 55.98], [55.98, 59.82], [59.82, 63.62], [63.62, 67.46], [67.46, 71.30], [71.30, 75.09], [75.09, 78.93], [78.93, 82.75]],
+   "measure_note": "2014 legacy_colAB Schedule A, UNDERLINE form: rowbands.py (raw frame, skew -0.2) returns 17 per-column underline rules 21.52 .. 82.75 at a regular pitch of 3.83, and each rule's 4 segments ARE the column bands (Date 7.65-18.80, Name 20.30-52.10, Address 53.50-79.80, Amount 81.20-90.80). NOTE these bands are NOT the reference record's (Graves 2014 measured Date 4.9-16.7 / Amount 83.1-93.3 at pitch 4.05) — the two 2014 scans are placed and scaled differently on the platen, which is exactly why the frame is measured per filing. TEXT SITS ABOVE ITS RULE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up (21.52 - 3.83 = 17.69). PROOF CROPS at 900 dpi: the row-1 box pct:81.2,17.69,9.6,3.83@p3 rendered handwritten '500.00' with the printed 'Amount' column header sitting above it (recorded 500.00) — the header-above-the-figure is also the §A1 first-entry control and proves this filer DID start on printed line 1, not line 2; the §B5 ONE-PAST-THE-END negative control pct:81.2,21.52,9.6,3.85@p3 rendered EMPTY (two rules, nothing between them). A third crop (pct:20.3,17.69,60.0,4.6@p3) rendered the name and address cells of row 1 together, showing the donor's address written on TWO physical lines inside one printed row — the city/state line hangs BELOW the row's rule without consuming the next printed row, which the empty row-2 control confirms.",
+   "rows_note": "All 17 printed rows are declared for provenance; only row 1 carries an entry."
+  },
+  "4": {
+   "axis": "y",
+   "cell": [81.20, 90.80],
+   "cells": [[7.65, 18.82], [20.30, 52.10], [53.50, 79.80], [81.20, 90.80]],
+   "rows": [[19.70, 23.52], [23.52, 27.34], [27.34, 31.14], [31.14, 34.98], [34.98, 38.80], [38.80, 42.66], [42.66, 46.46], [46.46, 50.30], [50.30, 54.11], [54.11, 57.96], [57.96, 61.77], [61.77, 65.61], [65.61, 69.43], [69.43, 73.25], [73.25, 77.07], [77.07, 80.89], [80.89, 84.71]],
+   "measure_note": "Same underline grid as p3 but a DIFFERENT page skew (-0.1 vs -0.2) and a different origin: 17 rules 23.52 .. 84.71, pitch 3.82, first row extrapolated one pitch up to 19.70. Column bands measured on this page's own rule segments. PROOF CROPS at 900 dpi: the row-1 box pct:81.2,19.70,9.6,3.82@p4 rendered '813.93' under the printed 'Amount' header (recorded 813.93 for September Inc.) — again the §A1 control showing the filer began on printed line 1; the row-2 box pct:81.2,23.52,9.6,3.82@p4 rendered '4646.60' (recorded 4646.60 for UT Republican Party). The §B5 ONE-PAST-THE-END negative control was taken FULL WIDTH (pct:7.0,27.34,84.0,3.80@p4) because rowbands reported the rule at 31.14 fragmented into 8 segments rather than 4: it rendered NO entry — only the descender tails of row 2's own writing hanging below its rule, and a faint grey waviness in the printed rule itself plus a single stray dot in the amount column. That is a scan/press artifact on the printed line, not a written row; the arithmetic agrees, since two rows already close the schedule to the cent."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "6-22-14",
+   "donor_raw": "Peter and Tony Schofield", "donor_city": "Lehi", "donor_state": "UT",
+   "amount": "500.00", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the only entry on Schedule A. The 'Address, City & Zip' cell prints a full street line plus a second written line giving the city, state and zip; PRIVACY — only city/state are carried, the street line is deliberately not reproduced. The county did NOT redact this donor block (see the filing note on what '_Redacted' actually covers). Second given name settled at 1600 dpi as 'Tony'."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 4, "row": 1, "date": "6-28-14",
+   "vendor_raw": "September Inc.", "amount": "813.93", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "2014 Schedule B prints its own payee heading 'Purchased From/Source' (unlike the 2012 blank, which reused Schedule A's 'Name of Contributor'), but there is still NO Purpose column on the form, so purpose is honestly blank. The vendor's address cell names Las Vegas NV; expenditure rows carry no address field by contract and it is not reproduced."},
+  {"line_no": "2", "page": 4, "row": 2, "date": "6-21-14",
+   "vendor_raw": "UT Republican Party", "amount": "4646.60", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "written by the filer as 'UT Republican Party'; kept verbatim. Address cell names Salt Lake City UT and is not reproduced. This single line is 85% of the period's expenditures."}
+ ],
+ "notes": "FORM-CHARACTERISATION READ — the first 2014 filing of this chunk, and the map for the other 45 filings of the cycle. THE 2014 FORM: printed title '2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES' (Utah County Code 2-5 & Utah State Code 17-16-6.5), with a vertical sidebar reading 'COUNTY & LOCAL SCHOOL BOARD CANDIDATES' — note this is a BROADER title than the 2012 blank's 'FOR COUNTY CANDIDATES', and it is the reason the module's removed body-keyword fallback false-positived on 'school board'. Variant legacy_colAB, 4 pages, shape cover / SUMMARY PAGE / SCHEDULE A / SCHEDULE B. THE SUMMARY PAGE WAS LOCATED BY ITS PRINTED HEADING 'SUMMARY PAGE (NOTE: Complete this page after filling out Schedule A and Schedule B)' and sits at p2 here; it prints Column A 'Total this Period' and Column B 'Year-to-Date Total' against lines 1-7 exactly as the legacy family does. SCHEDULES: 'SCHEDULE A — ITEMIZED CONTRIBUTIONS RECEIVED' and 'SCHEDULE B — ITEMIZED EXPENDITURES MADE', both '(Attach additional pages if needed)'. COLUMNS: Schedule A is Date / Name of Contributor / 'Address, City & Zip' / Amount; Schedule B is Date / 'Purchased From/Source' / 'Address, City & Zip' / Amount. CONFIRMED FOR THE WAVE: Schedule B DOES print its own payee heading in 2014 ('Purchased From/Source'), which fixes the 2012 defect where Schedule B reused 'Name of Contributor' — but there is STILL NO PURPOSE COLUMN anywhere on the 2014 Schedule B, so `purpose` remains honestly blank for 2014 expenditure rows. GRID: 17 printed per-column underline rules on each schedule, text ABOVE its rule, so 17 usable data rows with row 1 extrapolated one pitch up. EACH SCHEDULE PRINTS ITS OWN TWO FOOTER ANCHORS: 'Subtotal for this page $ ___' and 'Total Contributions/Expenditures Received (Sum of subtotals from all Schedule A/B pages) $ ___' — so with the cover's Column A there are THREE printed anchors per side, and on this filing all three agree to the cent on both sides. FOLIATION: the 2014 form prints a 'Page __ of __ / Candidate or Officeholder's Last Name / Date of Report' box on every sheet AFTER the cover, and this filer completed all three boxes — 1 of 3 (summary), 2 of 3 (Schedule A), 3 of 3 (Schedule B), each stamped 'Buhman' and '10-27-14'. FOLIATION THEREFORE EXCLUDES THE COVER on this filing, matching Addendum A §A4's Poulson observation; it still must never be used to locate a page. PAGE-FACE candidate 'Jeffrey R. Buhman' (Republican), office written 'Utah County Attorney', agreeing with the channel's 'County Attorney'; index.csv names no candidate, so the page face supplies it. Report type ticked 'Seven days preceding the General Election'; amendment 'No' ticked; signed and dated 10-27-14; clerk's date stamp 'OCT 27 AM 9:00'. NOT A MULTI-REPORT BUNDLE — this is a single 4-page report; the Buhman 2014 original+amendment bundle cited in the brief is a DIFFERENT file, and nothing on these four pages carries a second report. WHAT '_Redacted' ACTUALLY COVERS HERE (a source property worth carrying forward): the county's redaction bar blacks out the COVER's own 'Street Address / City / State / Zip Code' row — the CANDIDATE's home address — and NOTHING ELSE. The donor's address block on Schedule A and both vendors' address blocks on Schedule B are published fully in the clear. So on this filing an empty address cell would be the FILER leaving it empty, never the county redacting it; the county's redaction touched only p1. HANDWRITING: whole filing in blue ballpoint, legible; the one escalation was a name, not a figure."
+}]

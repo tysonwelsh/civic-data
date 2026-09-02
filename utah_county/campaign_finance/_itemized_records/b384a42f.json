@@ -1,0 +1,30 @@
+[{
+ "index_path": "raw/2010/2010_CountyAssessor-PoulsonKris-121510.pdf",
+ "key": "b384a42f",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "3",
+ "itemized_pages_B": "4",
+ "sides": {"contributions": "empty-schedule", "expenditures": "empty-schedule"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED, written as a SLASHED ZERO (read 0 under the repo zero-glyph ruling), matched by Schedule A's own printed 'Subtotal for this page $0.00' and its 'Total Contributions Received $ Ø'",
+   "detail": "Schedule A (p3) carries NO entries — the full ruled grid is empty, with no date, name, address or amount anywhere on it. Zero rows sum to 0.00 = the cover's promoted per-period Column A cell = the schedule's own two printed totals (one written '$0.00', the other a slashed zero). Column B 'Year-to-Date Total' is ALSO a slashed zero on this filing, which is a filer inconsistency worth naming and not adjudicating: his own two earlier 2010 reports state 1,000 raised year-to-date, yet this final report's YTD cell is zero. Nothing was recomputed and no figure was differenced across filings; the cell is transcribed as the zero glyph it is. The balance ladder closes on its own terms: line 3 -1,549.71 + line 4 (slashed zero) = line 5 $-1,549.71; less line 6 (slashed zero) = line 7 $-1,549.71."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE, written as a SLASHED ZERO (read 0), matched by Schedule B's own printed 'Subtotal for this page $0.00' and its 'Total Expenditures Received $ Ø'",
+   "detail": "Schedule B (p4) carries NO entries — every ruled line is empty. Zero rows sum to 0.00 = the cover's promoted per-period Column A cell = both of the schedule's own printed totals. Column B YTD is likewise a slashed zero here, against 2,549.71 stated in the filer's two earlier 2010 reports — the same filer inconsistency as on the contribution side, recorded verbatim and not resolved."
+  }
+ },
+ "in_kind_convention": "not applicable — both schedules are empty, no in-kind column or line is printed anywhere on this form, and the monetary-only and monetary-plus-in-kind conventions both give 0.00, which is what the cover states on both sides",
+ "escalations": 0,
+ "escalation_note": "",
+ "frames": {},
+ "contributions": [],
+ "expenditures": [],
+ "notes": "legacy_colAB variant (this one on the UNDATED blank headed simply 'FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES', citing Utah County Code 2-5-2, whereas the same filer's two earlier 2010 filings use the '2010 ...' blank citing Code 2-5 — the form's printed heading is a template vintage, not a cycle marker); 4 pages: p1 cover ('30 Days after the General Election', signed 12/10/2010, amendment box marked No, stamped received DEC 15), p2 SUMMARY PAGE ('Page 1 of 3'), p3 Schedule A ('Page 2 of 3'), p4 Schedule B ('Page 3 of 3') — the foliation again excludes the cover. BOTH SCHEDULE PAGES EXIST AND ARE COMPLETELY BLANK: no entries, no banner sentence, nothing but the printed grid and the two total cells at the foot of each page. That is `empty-schedule` on both sides — not `no-schedule-page`, not `withheld`. Each schedule prints its 'Subtotal for this page' as a typed-looking '$0.00' and its schedule total as a handwritten SLASHED ZERO; the cover repeats slashed zeros in six cells (line 1 both columns, line 2 both columns, line 4 and line 6). Every one reads 0 under the repo-wide zero-glyph ruling (GOTCHAS 2026-08-02), with the glyphs named here. The closing balance stays NEGATIVE at -1,549.71, printed with a leading minus and a dollar sign, and is kept negative. FILER INCONSISTENCY, FLAGGED NOT ADJUDICATED: the Column B year-to-date cells are zeros on this report even though the filer's own June and October 2010 reports state 1,000 raised / 2,549.71 spent year-to-date. PAGE-FACE candidate name is 'Kris Poulson' (signing 'Kris W. Poulson'; Republican, residence city Payson) — index.csv names NO candidate for this row; page-face Office Seeking reads 'ASSESSOR', agreeing with index.csv's 'County Assessor'. No frames block is written because no page of this filing carries a transcribed row. Not a *_Redacted.pdf."
+}]

@@ -17,6 +17,14 @@ source *had*, and what is missing.
 > money layer exists** (`filing_totals.csv`, 265 rows) where §4 previously said "deliberately
 > NOT built"; and a new **§4a** ledgers every filing whose figures are absent, with the reason.
 
+> **ITEMIZED LAYER COMPLETE — QUEUE CLOSED 2026-08-20.** All **245 of 245** scanned
+> (handwritten) county-office filings are now vision-itemized, joining the 2 born-digital
+> filings of 2026-08-02: **2,884 contribution + 3,629 expenditure rows, 100%
+> `pct:`-geometry-anchored, ZERO sides withheld.** Read **"The SCAN itemization wave — QUEUE
+> CLOSED 2026-08-20"** at the end of this file before comparing anything across filings — in
+> particular the PER-PERIOD promotion regime, the `cumulative-exact` verdict, and the three
+> distinct meanings of an empty itemized side.
+
 ---
 
 ## 1. Where these filings actually live
@@ -205,6 +213,178 @@ the 2025 municipal tab** (Spring Lake town + Aspen Peaks School District).
 Everything here is a **government-published public record**, and — importantly — **the county
 redacted it before publishing**: the overwhelming majority of files are named `*_Redacted.pdf`,
 with donor addresses blacked out by the clerk. `raw/` and `text/` are **verbatim reproductions**
-and are not edited further, per repo-root `PRIVACY.md`. No structured donor rows exist in this
-package; if one is ever built, that layer stores donor **city/state only**, never street
-addresses.
+and are not edited further, per repo-root `PRIVACY.md`.
+
+**The structured donor layer now exists (2026-08-20) and it stores donor `city`/`state` ONLY —
+never a street address.** That rule was applied at **READ TIME**, not as a post-filter: a street
+line was never transcribed into any field or note, even on the filings the county published
+**unredacted**, and even where a `_Redacted` filing barred only the signature and left the
+candidate's own home address in the clear. A sweep of every published row for
+house-number-plus-street-type patterns, unit designators, PO boxes and ZIP codes returns **zero
+hits in any column**. Where the county's own redaction removed a donor's **city** as well
+(inconsistently, row by row, on one document whose unredacted twin publishes it), the cell is
+honestly **blank** and was **not** backfilled from the sibling.
+
+---
+
+## The SCAN itemization wave — QUEUE CLOSED 2026-08-20 (Tranche 3 Phase B, utah wave B2)
+
+The wave authorized on 2026-08-18 finished on 2026-08-20. **All 245 scanned county-office
+filings now carry an itemized layer**, so with the 2 born-digital filings of Phase A,
+**247 of 263 Utah County county-office filings are itemized** — the remainder are documents
+with no schedule pages at all. The CLAUDE.md sentence *"the handwritten 245 remain
+unitemized"* is retired by this leg, and so is *"the donor/vendor layer covers 2 filings
+only"*.
+
+**Configuration:** `claude-opus-5`, Read-tool vision at 200 dpi full page with tight-crop
+escalation to 600–2000 dpi, `$0` API. Because no utah pre-flight existed and the tooling
+changed on 2026-08-18, the calibration suite **was** run before any bulk transcription:
+`_audits/cf-calibration-suite/runs.md` §2026-08-18-utah, **13/13 PASS** with all five
+negative controls holding. Two targeted re-verifications were recorded after `rowbands.py`
+changed mid-wave. Fan-out: **at most 3 concurrent chunk agents**, plus the coordinator's own
+prep, build, audit and invariant passes.
+
+### The drafting aids were fixed and promoted FIRST (brief §3a)
+
+`rowbands.py` and `fitgrid.py` were frozen inside two wave-kit backups with filed [DEBT]
+defects. They are now repaired and promoted to `scripts/campaign_finance/`, each fix proved
+on a real page:
+
+* **`deskewed_to_raw()` inverted the rotation the wrong way.** PIL's `rotate(ang)` maps raw
+  to deskewed as `x_d = cx + cos·dx + sin·dy`, `y_d = cy − sin·dx + cos·dy`; the helper
+  applied that same forward map again instead of its inverse, so every band measured on a
+  deskewed page landed wrong on the raw one.
+* **Rule-vs-text classification used the MAXIMUM column height**, which a single descender
+  or a stray speck raises above the threshold — so printed rules were rejected as text. It
+  now uses the **median** column height plus a fill fraction and a segment count. Calibrated
+  on real pages: printed rules fill ≥0.88 of their span in ≤6 segments; text baselines fill
+  0.25–0.70 in 8–40.
+* **A "continuity" metric silently broke the underline form** (22 rules → 4) before that.
+* **`fitgrid.py` returned SUB-MULTIPLE pitches** — 1.35 where the true pitch is 4.05, and
+  it "explained" 17 of 17 rows because every third line is still a line. The search range is
+  now derived from the page's own median adjacent gap (0.7–1.4×), giving 4.0500 at
+  residual 0.0097.
+* **An adaptive vertical-rule ladder regressed weber's audited geometry**, replacing correct
+  column bands with text stems 0.6 pct apart. Reverted to strict-first, relax-only-on-failure;
+  weber's audited `4.72/12.87/43.17/85.24/95.90` is preserved exactly.
+
+The two frozen wave-kit copies were deliberately left **byte-unchanged**: summit's
+`make_itemized_caches.py` pins its import to the backup path, and weber's materializer reads
+frames from records and never imports `rowbands` at all. Repairing a shared tool must not
+retroactively alter a closed wave's provenance.
+
+### The bound-in-report claim was VERIFIED FALSE (brief §3c)
+
+The brief required verifying that `2020_SakievichTom6.23.20_Redacted.pdf` p6 carries a bound-in
+**2018** Schedule B, then sweeping for siblings. **It does not.** That page is the filing's own
+2020 Summary Page: it is foliated "Page 6 of 6", carries the filing's own last-name box and Date
+of Report, and its Column A figures are exactly the totals printed at the foot of its own
+ledgers. Three separate agents confirmed it independently at the source. The claim's origin was
+almost certainly the **template-vintage** property — a filer can bind a blank from an earlier
+cycle, and the form's printed vintage says nothing about the report's period. **No sibling
+exists, and the derived queue is therefore the full 245.**
+
+### What the corpus turned out to be
+
+Utah's regime is **PER-PERIOD and inverted** relative to summit/weber: the promoted anchor is
+Column A / Box B / Box D, and the cumulative Column B / Box C / Box E is **never** summed as an
+increment. Two structural consequences the wave had to handle without weakening any shared gate:
+
+* **`cumulative-exact` — the mirror of the period-basis exception.** Some filers restate the
+  WHOLE CYCLE on the schedule while the promoted cover cell is per-period. Those rows sum
+  exactly to a figure the document prints — just not the one this module publishes. So
+  `reconciles_*` is left **BLANK (unknown)**, never True: asserting a match the published
+  columns do not make would only pass by weakening `validate_finance.py`, which this wave
+  does not do.
+* **`recon_delta_*` is filled only from the transcriber's own figure.** Deriving it as
+  (itemized sum − stated total) was tried and **reverted**: a delta side's anchor is not
+  guaranteed to share the promoted cell's scope. Ewell 2024 is the proof — his Schedule B is
+  cumulative-scoped while Box D prints a bare `0`, so the derivation yields 2,729.23 where
+  the delta the page actually shows is 119.27. The build cannot read an anchor's scope, so it
+  asserts no number; the traced explanation lives in `notes` (**≥744 characters on every one
+  of the 32 delta sides**, median 1,584).
+
+### Six invisible row-index traps
+
+None of these is visible to arithmetic — a side can close to the cent with rows on the wrong
+lines. Each was found on a real page and is now in the wave brief:
+
+1. the filer **skips the first ruled line** and starts on line 2;
+2. a **continuation line** of a long entry consumes a printed row;
+3. a **voided/struck row** still consumes a row;
+4. a **banner line** (`"none since last report"`) occupies row 1 without being an entry;
+5. the ledger **continues BELOW the last printed rule**;
+6. **two entries share one printed row.**
+
+### The ghost-page screen earned its keep
+
+On one 2024 filing a Schedule A grid looks populated at 200 dpi. At 900 dpi the marks prove to
+be **pale grey show-through of the following sheet's expenditure ledger**, while the footers are
+blue-ink oval zeros. Publishing them would have invented **14 contributions that do not exist**.
+The side is `empty-schedule`. Crop before concluding a page has entries.
+
+### Arithmetic corrected the TRANSCRIBER, not just the filer
+
+The GOTCHAS rule normally settles a doubtful *filer* digit. On one 2024 filing it ran the other
+way: a full-page read of a printed subtotal gave `1,828.42`, the eleven rows summed to
+`7,828.42`, and a 900 dpi crop confirmed **7,828.42**. That is the argument for gating every
+multi-sheet subtotal rather than trusting a full-page read of one.
+
+### Ten causes of a blank donor city/state
+
+Empty is not one fact. Observed and catalogued: redacted by the county · filer left it empty ·
+the form prints a ZIP but no city · lost in reproduction · city+zip but no state · **no address
+field on the blank at all** · a payment channel (`online`, `Paypal`) · the word `Anonymous`
+(the donor IS named; only the address is withheld) · the word `Unknown` · **the cell prints a
+COUNTY** ("Utah County"), naming neither city nor state. None was inferred or backfilled.
+
+### A redaction pass can disclose LESS than its own twin
+
+Where the county published both an unredacted and a redacted copy of one report, the redacted
+copy bars the **city** as well as the street on some rows — **inconsistently, row by row**.
+Those cells are honestly blank and were **not** backfilled from the unredacted sibling. Each
+document is read on its own face.
+
+### A substantive civic finding
+
+A 2020 Sakievich **amendment names two previously-anonymous donors** — $250 (Kristen Chevier)
+and $50 (Jerry Grover) — with otherwise identical totals and identical printed sums. It is
+visible **only** by row-by-row comparison of the original against the amendment; totals alone
+show nothing. A revision that ADDS disclosure is a fact about the document, recorded in `notes`
+and never backfilled into the earlier filing.
+
+### A defect in the COVER tranche, flagged and NOT fixed here
+
+`2014_..._Smith` publishes `stated_beginning_balance` as **3446**, but the page's own ladder
+proves **34.46** (line 5 − line 4 = 1,500.00 − 1,465.54). It is recorded in
+`COVER_TRANCHE_DEFECTS.md` and left for a cover-tranche correction: this wave's charter
+forbids moving the cover tranche, and the blast radius here is nil.
+
+### Privacy
+
+Donor **city and state only, never a street address** — applied at READ TIME, not as a
+post-filter, and observed even where the county published unredacted copies. A wave-level sweep
+of every published row for house-number+street-type patterns, unit designators, PO boxes and
+ZIPs returns **zero** hits in any column.
+
+### Measured — the closed state
+
+| | |
+|---|---:|
+| county-office filings (index.csv) | **263** |
+| scanned filings in the wave queue | **245** |
+| scanned filings itemized | **245 of 245** |
+| reports transcribed (2 PDFs are genuine bundles) | **247** |
+| rows published | **2,884 contributions · 3,629 expenditures = 6,513** |
+| rows carrying `pct:` geometry | **6,513 of 6,513 (100%)** |
+| money in the vision rows | **$2,313,294.88 monetary + $101,820.79 in-kind contributions · $2,231,657.43 spent + $39,222.36 in-kind** |
+| sides, all states | **494** across 247 reports |
+| sides `transcribed` | **389** |
+| sides `empty-schedule` (page exists, filer entered nothing) | **90** |
+| sides `no-schedule-page` (document has no such page) | **15** |
+| sides **WITHHELD** | **0** |
+| verdict `exact` (closes on the promoted PER-PERIOD cell) | **342** |
+| verdict `cumulative-exact` (schedule restates the cycle) | **11** |
+| verdict `delta` (filer arithmetic, retained verbatim) | **34** |
+| verdict `unknown` (two printed figures of different kind) | **2** |
+| tight high-dpi escalation crops | **1,423** |

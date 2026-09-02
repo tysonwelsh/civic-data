@@ -1,0 +1,272 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-01-26",
+   "vendor_raw": "Cyprus Baseball",
+   "purpose": "Donation/Equipment",
+   "amount": "169.46",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,23.48,80.76,4.13@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-01-28",
+   "vendor_raw": "Cyprus Baseball",
+   "purpose": "Donation/ Team Supplies",
+   "amount": "491.74",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,27.61,80.76,4.13@p4",
+   "note": "cell text clipped at column rules at source; visible 'nation/ Team Suppl' completed to 'Donation/ Team Supplies'"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-02-18",
+   "vendor_raw": "Cyprus Baseball",
+   "purpose": "Contribution/Sponsorship",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,31.73,80.76,4.13@p4",
+   "note": "clipped at source; visible 'ntribution/Sponsors' completed to 'Contribution/Sponsorship'"
+  },
+  {
+   "line_no": 4,
+   "date": "2024-03-20",
+   "vendor_raw": "Cyprus Football",
+   "purpose": "Donation",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,35.86,80.76,4.13@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2024-04-01",
+   "vendor_raw": "gan Vehicle Stora",
+   "purpose": "Campaign Vehicle Storage",
+   "amount": "1,200.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,40.00,80.76,4.13@p4",
+   "note": "recipient HARD-CLIPPED at both column rules at source - only 'gan Vehicle Stora' is printed (consistent with e.g. 'Logan'/'Morgan Vehicle Storage' but NOT asserted; 1200dpi crops cannot recover clipped glyphs); purpose clipped 'aign Vehicle Storage'"
+  },
+  {
+   "line_no": 6,
+   "date": "2024-04-25",
+   "vendor_raw": "Cyprus Baseball/Football",
+   "purpose": "Contribution/Donation/Sponsorship",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,44.14,80.76,4.13@p4",
+   "note": "clipped at source; visible 'rus Baseball/Foo' + 'ution/Donation/Spor'"
+  },
+  {
+   "line_no": 7,
+   "date": "2024-09-03",
+   "vendor_raw": "Hagerty Insurance",
+   "purpose": "Campaign Vehicle Insurance",
+   "amount": "312.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,48.25,80.76,4.13@p4",
+   "note": "clipped at source; visible 'Hagerty Insurance' + 'paign Vehicle Insur'"
+  },
+  {
+   "line_no": 8,
+   "date": "2024-10-16",
+   "vendor_raw": "Cyprus Football",
+   "purpose": "Contribution/Donation/Sponsorship",
+   "amount": "1,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,52.39,80.76,4.13@p4",
+   "note": "clipped at source; visible 'ution/Donation/Spor'"
+  },
+  {
+   "line_no": 9,
+   "date": "2024-10-31",
+   "vendor_raw": "Cyprus Baseball",
+   "purpose": "Contribution/Donation",
+   "amount": "1,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,56.52,80.76,4.13@p4",
+   "note": "clipped at source; visible 'ontribution/Donatio'"
+  },
+  {
+   "line_no": 10,
+   "date": "2024-11-10",
+   "vendor_raw": "Cyprus Football",
+   "purpose": "Contribution/Donation",
+   "amount": "600.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,60.66,80.76,4.13@p4",
+   "note": "clipped at source; visible 'ontribution/Donatio'"
+  },
+  {
+   "line_no": 11,
+   "date": "2024-11-27",
+   "vendor_raw": "United Fleet Services",
+   "purpose": "ampaign Vehicle Pa",
+   "amount": "427.28",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=medium;purpose=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,64.80,80.76,4.13@p4",
+   "note": "recipient clipped 'nited Fleet Servic' (completed 'United Fleet Services'); PURPOSE HARD-CLIPPED at both rules at source - only 'ampaign Vehicle Pa' printed ('Campaign Vehicle Parts'/'Payment'/'Parking' all consistent, NOT asserted; 1200dpi crops cannot recover clipped glyphs)"
+  },
+  {
+   "line_no": 12,
+   "date": "2024-12-05",
+   "vendor_raw": "United Fleet Services",
+   "purpose": "Campaign Vehicle Maintenance",
+   "amount": "1,100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,68.93,80.76,4.13@p4",
+   "note": "clipped at source; visible 'nited Fleet Servic' + 'aign Vehicle Mainte'"
+  }
+ ],
+ "total_contributions": "0.00",
+ "total_expenditures": "9,550.48",
+ "beginning_balance": "12,571.22",
+ "ending_balance": "3,020.74",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "12,571.22"
+ },
+ "cover": {
+  "candidate": "Michael H. Jensen",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "No.2",
+  "report_type": "Year-End Report: January 31 of each year (2024 form 'Financial Disclosure Report For a Candidate')",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "01-30-25",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Jensen-Michael__B88C253F.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Jensen, Michael",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Jensen-Michael__B88C253F.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Typed 2024 'For a Candidate' form. The Schedule B header 'Date of Report' box reads 01-30-24 while the cover, Summary and Schedule A all read 01-30-25 (filer typo; page governs, kept verbatim). Long typed strings on Schedule B are CLIPPED at the column rules in the PDF itself - completions in 'note' fields, two cells (row 5 recipient, row 11 purpose) left as legible-glyph strings at low confidence. Cover Office cell typed and itself clipped ('Salt Lake County Co' visible). Pages 5-7 are the Summary Page Other Campaign Accounts plus its two itemized pages, all completely blank. Cover address/phone/email and signature barred; no redaction on the schedules.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "0",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A carries a single typed placeholder row N/A N/A N/A N/A $0.00 - a real zero; the page's SUBTOTAL and TOTAL cells are printed but left BLANK, so Summary line 1 $0.00 is the only anchor"
+    },
+    "expenditures": {
+     "stated": "9,550.48",
+     "schedule_total": "9,550.48",
+     "itemized": "9550.48",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "12 rows sum 9550.48 = Schedule B printed SUBTOTAL/TOTAL $9,550.48 = Summary line 2 Col A 9,550.48"
+    }
+   },
+   "page_subtotal_gates": "p4 rows 9550.48 = printed SUBTOTAL $9,550.48 and TOTAL $9,550.48; p3 SUBTOTAL/TOTAL cells printed but left blank - real-zero side gated on Summary line 1 per the printed-blank-subtotal rule",
+   "escalations": 4,
+   "escalation_note": "p4 1200dpi cell crops x4 (row 5 recipient x2, row 11 purpose x2) - the long typed strings are hard-clipped at the column rules in the PDF content stream, not recoverable at any resolution; all rows also re-verified in 400dpi bands x2",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 12,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Typed 2024 'For a Candidate' form. The Schedule B header 'Date of Report' box reads 01-30-24 while the cover, Summary and Schedule A all read 01-30-25 (filer typo; page governs, kept verbatim). Long typed strings on Schedule B are CLIPPED at the column rules in the PDF itself - completions in 'note' fields, two cells (row 5 recipient, row 11 purpose) left as legible-glyph strings at low confidence. Cover Office cell typed and itself clipped ('Salt Lake County Co' visible). Pages 5-7 are the Summary Page Other Campaign Accounts plus its two itemized pages, all completely blank. Cover address/phone/email and signature barred; no redaction on the schedules."
+  }
+ }
+}

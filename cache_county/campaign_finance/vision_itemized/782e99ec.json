@@ -1,0 +1,86 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C24.json",
+ "key": "782e99ec",
+ "index_path": "raw/2026/2026_cc_2026_Financial_Disclosure_Apr_3_N_George_Daines.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_Apr_3_N_George_Daines.pdf"
+ ],
+ "sha256_prefix": "f0a073812f8c7d00",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other",
+  "5": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "NONE",
+    "cover_over50_cum": "NONE",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "NONE",
+    "page_subtotal": "NONE",
+    "box_A_balance_begin": "$0.00",
+    "box_F_subtotal": "0",
+    "cover_balance_end": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-box-B==cover-box-C",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A carries the single word NONE under the column header and no transaction lines. Schedule A's printed 'Subtotal for this page $NONE' and 'Total Contributions Received $ NONE' both read NONE, as do Box B (this period) and Box C (year-to-date). Zero rows is the correct reading and it closes against every printed anchor. B and C coincide, so scope is cumulative."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "NOND",
+    "cover_expense_cum": "NONE",
+    "schedule_total": "NOND",
+    "page_subtotal": "NOND",
+    "cover_balance_end": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-box-D==cover-box-E",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule B carries the single word NONE under the header and no transaction lines. Its printed subtotal and total both read 'NOND' (a filer keystroke slip for NONE), Box D reads 'NOND' and Box E reads 'NONE'. All four denote nil; zero rows closes. D and E coincide, so scope is cumulative. Anchors retained verbatim including the NOND spelling."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows sum 0.00 vs printed subtotal 'NONE' (word, not numeral) - gates as an empty schedule; p3 rows sum 0.00 vs printed subtotal 'NOND' - same. No numeric page subtotal exists on either schedule to gate against.",
+  "row_count": "p2 and p3 carry no ruled row grid (the CFD schedule is an open writing area between a header rule and a footer rule); counted ink by eye at 200 dpi: zero transaction lines on each, only the word NONE in the Date column. rowbands not run - no grid to score.",
+  "geometry_proof": "not applicable - zero rows emitted on both sides, so no row geometry to prove.",
+  "balance_chain": "Box A $0.00 + Box B NONE(=0) = Box F 0 (closes); Box F 0 - Box D NOND(=0) = Balance at Close 0 (closes). Chain closes exactly."
+ },
+ "escalations": 0,
+ "escalation_note": "born-digital Jotform SIGN PDF; the page text layer corroborates the 200 dpi visual read on every field. No bistable glyph anywhere.",
+ "notes": "OFFICE-LINE DISAGREEMENT WITH THE CHUNK FILE: the chunk/index says office='County Executive', but the form's 'Office' box does NOT carry an office title - the filer typed his own name and a business mailing address into it (street content discarded at read time per privacy). The form therefore neither confirms nor contradicts 'County Executive'; it simply states no office. Treat the office as UNCONFIRMED AT THE PAGE. p5 is the Jotform SIGN audit trail (signed 2026-03-28 17:29, document ID 260867978610067), not a report page. p1 cover: 'Date of Report 03-28-2026'; chunk file says date=2026-03-30 - the FORM says 03-28-2026 on all four report pages. No 'Type of Report' box is marked. 'Is this report an amendment?' = No. Both schedules are honest empty schedules (the filer wrote NONE), not gaps.",
+ "contributions": [],
+ "expenditures": []
+}

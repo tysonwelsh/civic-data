@@ -1,6 +1,21 @@
 {
  "contributions": [],
- "expenditures": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2023-01-30",
+   "vendor_raw": "BRENT GOODFELLOW",
+   "purpose": "REPAY LOAN",
+   "amount": "1736.34",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.61,23.18,77.62,3.73@p3",
+   "note": "handwritten; date printed '1\u00b730\u00b723' (middle-dot separators, 2-digit year)"
+  }
+ ],
  "total_contributions": "",
  "total_expenditures": "1736.34",
  "beginning_balance": "1736.34",
@@ -47,6 +62,53 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "Handwritten on the 2022 typed template. Line 1 (total contributions) is BLANK in both Column A and Column B - recorded as empty string, not zero. Lines 4 and 7 Column A are a handwritten '0'/oval zero. Office is written as 'COUNTY COMMISSION 2' (top row) and 'COUNTY COMMISSION 2' (Office Sought); the separate District Number cell is blank. Neither amendment box is checked. Manifest office label is 'County Council'; the form says County Commission 2."
+  "notes": "Handwritten on the 2022 typed template. Line 1 (total contributions) is BLANK in both Column A and Column B - recorded as empty string, not zero. Lines 4 and 7 Column A are a handwritten '0'/oval zero. Office is written as 'COUNTY COMMISSION 2' (top row) and 'COUNTY COMMISSION 2' (Office Sought); the separate District Number cell is blank. Neither amendment box is checked. Manifest office label is 'County Council'; the form says County Commission 2.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "NO Schedule A page exists in the document (cover + Summary + Schedule B only \u2014 chunk prior c_state=no-schedule-page CONFIRMED at the page). Summary line 1 is blank in both columns and line 4 prints 0, so no non-zero contribution total is stated to contradict."
+    },
+    "expenditures": {
+     "stated": "1736.34",
+     "schedule_total": "1736.34",
+     "itemized": "1736.34",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "1 row 1736.34 = Summary line 2 Column A 1736.34 = Schedule B printed subtotal and grand total 1736.34."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 1736.34 = printed SUBTOTAL FOR THIS PAGE 1736.34; TOTAL EXPENDITURES MADE also 1736.34",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Form titled '2022 Financial Disclosure Report For a Candidate'. Final/Dissolution box checked; document is the full 3-page report form, not a one-page dissolution notice. Entirely handwritten. Black bars on the cover address/phone block only; the Schedule B row is not redacted (Schedule B has no address column). Row date printed '1\u00b730\u00b723' with middle-dot separators. Summary line 1 blank both columns; line 4 prints 0."
+  }
  }
 }

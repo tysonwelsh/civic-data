@@ -1,0 +1,96 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W03.json",
+ "key": "26463ee5",
+ "index_path": "raw/wayback_forms2020/Commission C_Douglas Wulfefnstein_June 23 2020_FCR_05-06-2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Commission C_Douglas Wulfefnstein_June 23 2020_FCR_05-06-2020.pdf"
+ ],
+ "sha256_prefix": "cad38ac4765d6a40",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "cover_balance_end": "571.00",
+    "schedule_total": ""
+   },
+   "itemized": "571",
+   "basis": "no printed contributions anchor exists on this filing",
+   "result": "unknown",
+   "scope": "cumulative",
+   "detail": "THE FILING PRINTS NO CONTRIBUTIONS TOTAL ANYWHERE. Cover lines 1, 2 and 3 are left completely EMPTY in all three columns, and Form A's printed TOTAL cell is also left empty - so there is no schedule total and no cover line to score the single itemized row against. Reported 'unknown' rather than inventing an anchor. The one corroboration the document does offer is the balance chain (gate d): the ONLY figure printed anywhere on the cover is line 4's CUMULATIVE cell, 571.00, and 0 beginning + 571 contributions - 0 expenditures = 571.00 exactly. Scope recorded 'cumulative' because the two scopes provably coincide here: every LAST-REPORT cell is empty, the certified period is 3/19/2020 to 4/19/2020, and the single row's date 3/19/20 falls inside it, so this is the filer's first report of the cycle and period == cumulative."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "",
+    "cover_balance_end": "571.00",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "no printed expenditure anchor exists on this filing",
+   "result": "unknown",
+   "scope": "cumulative",
+   "detail": "Form B (printed 'Page 3') is a completely blank ruled grid with a blank printed TOTAL cell, and the cover's line 3 is empty in all three columns - a real zero schedule with nothing printed to score it against. The balance chain corroborates zero expenditures: line 4's cumulative 571.00 equals the single contribution unspent. Same first-report scope coincidence as the contributions side."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 (Form A): 1 row, 571; the sheet's printed TOTAL cell is BLANK and cover line 1 is blank in all three columns, so NO schedule or cover figure exists to gate against - stated rather than invented. The only arithmetic available is the balance chain, which closes exactly (see balance_chain). p3 (Form B): 0 rows, printed TOTAL blank, cover line 3 blank - same, no gate available.",
+  "row_count": "rowbands.py column-restricted to the Amount band on p2 returned a clean 1.71-pct ladder (36 rules; heavy every-5th group rules merged). Exactly ONE band carries ink - the top data band - and every band below it is empty down to the footer. 1 row emitted. p3 scored by eye at 200 dpi: zero inked bands, 0 rows emitted.",
+  "geometry_proof": "p2 first row == last row (single-row side): the box pct:71.41,13.71,11.00,1.71@p2 renders '$571'; the control one pitch below (y=15.42) renders EMPTY (printed '$' only). Row index confirmed unshifted.",
+  "balance_chain": "CLOSES EXACTLY. Line 4's CUMULATIVE cell is the only figure printed on the cover: 571.00 (written '571' with superscript cents over a rule). Beginning balance (line 4 LAST cell, empty) 0 + contributions 571 - expenditures 0 = 571.00 = the printed ending balance. Line 4's LAST and THIS cells are both left empty. No earlier filing by this filer sits in this chunk and every LAST-REPORT cell is empty, so the cross-filing TOTALS-FROM-LAST-REPORT chain has nothing to run against."
+ },
+ "escalations": 2,
+ "escalation_note": "(1) p2 row 1 amount cell re-rendered at 600 and 1200 dpi - the leading glyph is written with an unusual angular top that could be mistaken for a 4 or an arrow; it resolves as a 5 at 1200 dpi, and the value 571 is corroborated by the cover's line 4 cumulative '571' in the same hand. No cents are written in the schedule cell. (2) p2 row 1 full-width band re-rendered at 600 dpi to confirm column assignment (date / name / address / amount / in-kind) - no field shift.",
+ "notes": "FORM vs CHUNK FILE: the chunk file says candidate 'Douglas LaGrande Wulfenstein', office 'Commission (seat not stated)'. The cover's Full Name line reads 'Douglas LaGrande Wulfenstein' and the Office line reads 'County Commission' with NO seat letter - AGREES with the chunk file, and note that the county's FILE NAME asserts 'Commission C' (and misspells the surname 'Wulfefnstein') where the form itself states no seat. County office, in scope. Representative District and School District lines are both left blank - no school-board indication anywhere. Generation-2 county-branded form; Form A carries the 'In Kind?' column, Form B does not; both print a TOTAL footer, both left blank. Clerk RECEIVED stamp MAY 06 2020; certified period 3/19/2020 to 4/19/2020; signed 5/6/2020; addressed to 'Kim Hafen, County Clerk'. IN-KIND CELL ANSWERED WITH PROSE, NOT Y/N: the single row's 'In Kind?' column holds the words 'Filing Fee' (overflowing past the column rule into the right margin) instead of a Y or an N. That is not an in-kind mark, so in_kind is FALSE and the verbatim cell content is kept in the row note with needs_review - a human should decide whether the filer meant to answer the column or to label the transaction. FIELD-SHIFT SCREEN: passed - the row's date cell holds a date, the name cell a name, the address cell a street line, the amount cell a figure; one name, one amount. Privacy: the cover prints the candidate's home street address, ZIP and home phone, and the Form A address cell holds a street line - all discarded at read time; the row's address cell contains NO city or state, so donor_city/donor_state are honestly blank rather than backfilled from the cover.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-19",
+   "donor_raw": "Douglas Wulfenstein",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "571",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:71.41,13.71,11.00,1.71@p2",
+   "note": "date written '3/19/20'. Amount written '571' with NO cents figure in the cell - transcribed verbatim, not padded; the cover's line 4 writes the same figure as '571' with superscript cents over a rule (= 571.00). Donor name is written cramped and compressed against the column rule ('DouglasWulfenst..'); read as the candidate's own name, i.e. self-funding, which the cover's Full Name line independently gives as 'Douglas LaGrande Wulfenstein'. The address cell holds a street line ONLY (no city, no state) - discarded at read time, so donor_city/donor_state are honestly blank rather than backfilled from the cover. IN-KIND column holds the prose 'Filing Fee' instead of a Y or an N: not an in-kind mark, so in_kind=false; needs_review flags the non-conforming answer for a human, not a reading doubt about the amount."
+  }
+ ],
+ "expenditures": []
+}

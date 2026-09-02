@@ -1,0 +1,94 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W08.json",
+ "key": "8ef7e426",
+ "index_path": "raw/wayback_forms2020/Commission Seat C_Dean J_10-21-2020. Cox_October 20 2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Commission Seat C_Dean J_10-21-2020. Cox_October 20 2020.pdf"
+ ],
+ "sha256_prefix": "8387943c360fec9f",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen2-county-branded-grid",
+  "expenditures": "gen2-county-branded-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "1.10",
+    "cover_over50_this": "104.31",
+    "cover_over50_cum": "105.41",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": "104.31"
+   },
+   "itemized": "104.31",
+   "basis": "schedule-total (== cover-line1-this)",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A carries ONE inked row, 104.31, and the sheet's printed TOTAL reads 104.31 -- the two agree exactly, and both equal the cover's line-1 TOTALS FROM THIS REPORT cell. They do NOT equal the CUMULATIVE cell (105.41 = 1.10 carried from the prior report + 104.31), so THE SCOPE IS PERIOD, a different scope from the cumulative figure this module publishes; per the addendum reconciles_* is expected to stay blank for that and it is not a failure. Line 2 (the $50.00-or-less aggregate) is BLANK in all three columns, so the sub-$50 trap does not arise and scoring against line 1 is unambiguous. The cover's own horizontal chain closes exactly: 1.10 + 104.31 = 105.41."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "",
+    "schedule_total": ""
+   },
+   "itemized": "0",
+   "basis": "no printed anchor exists",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form B (page 3) is a WHOLLY EMPTY grid -- every data cell blank, nothing struck out -- and its printed TOTAL cell is left EMPTY (not a dash, not a zero glyph). Cover line 3 is likewise blank in all three columns. There is therefore no printed figure to score the empty side against, so the result is 'unknown' rather than 'exact'. The side itself is an honest zero: sides.expenditures = 'transcribed' with zero rows, not a gap and not a withholding."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "This form generation prints schedule totals on both sheets. p2: the single row 104.31 = the printed TOTAL 104.31 -- gates exactly, and that figure in turn equals cover line1-THIS. p3: the grid is empty and the printed TOTAL cell is blank, so no gate exists to fire there; reported rather than invented. Nothing failed to gate on this filing.",
+  "row_count": "rowbands.py p2: geometry_status 'gaps' (the tool drops rules here, per the standing DEBT), 34 h-rules / 33 bands recovered over a ~42-row grid; detected pitch 1.72% of page height with the first data rule at 15.57%, so row 1 occupies [13.85%, 15.57%]. Scored against INK: exactly ONE data row carries ink, 1 row emitted, and the control render of row 2 is empty. p3: same grid, geometry_status 'gaps', 34 rules / 33 bands, ZERO inked rows across the whole sheet (confirmed by reading the full page at 200 dpi), 0 rows emitted. Vertical rules on p2 place the Amount column between 70.94% and 81.94% of page width, with the In Kind? column to its right.",
+  "geometry_proof": "p2: the 600-dpi crop of row 1's amount box renders '$ 104.31'; the control crop one row-pitch below renders an EMPTY '$' cell.",
+  "balance_chain": "Line 1 closes exactly: 1.10 (LAST) + 104.31 (THIS) = 105.41 (CUMULATIVE). The full beginning + contributions - expenditures = ending chain CANNOT be evaluated, because line 3 (expenses) is blank in all three columns and line 4 (balance) is filled ONLY in the CUMULATIVE cell, where it reads 105.41 -- consistent with 105.41 contributed and nothing spent, but resting on a blank rather than a printed zero, so it is reported and not asserted. No earlier filing by this filer is in my chunk, so the cover-to-cover CUMULATIVE -> TOTALS FROM LAST REPORT test could not be run; a human wanting to verify the 1.10 LAST cell must pull Dean J. Cox's preceding 2020 filing."
+ },
+ "escalations": 5,
+ "escalation_note": "cover line-1 anchor row re-cropped at 900 dpi (superscript cents on the THIS and CUMULATIVE cells); p2 row 1 re-cropped full-width at 900 dpi; p2 printed TOTAL cell re-cropped at 900 dpi; plus two single-cell 600-dpi geometry-control crops.",
+ "notes": "Generation-2 county-branded form ('WASHINGTON COUNTY CANDIDATE FINANCIAL CAMPAIGN REPORT', law cited as Washington County Code 1-7-1), filled out in blue ink. CHUNK FILE AGREES WITH THE DOCUMENT: candidate 'Dean J. Cox' matches the cover's Full Name of Candidate, and office 'Commission Seat C' matches the cover's Office line, which reads verbatim 'Wash Co. Commission Seat C'. County office, in scope. Addressed to County Clerk 'Kim Hafen'; certified period 'beginning 6-16-2020 and ending 10-20-2020'; signature dated 10-20-2020; clerk RECEIVED stamp OCT 20 2020. The index path's embedded '10-21-2020' matches neither; the DOCUMENT governs and the discrepancy is recorded here rather than resolved. THE ONLY CONTRIBUTION ON THE FILING IS FROM THE CANDIDATE HIMSELF -- Form A's single row names 'Dean Cox' at the same street address the cover gives as the candidate's home. Unlike the Iverson bundle in this chunk, this self-funding line IS counted in the cover's line 1 (104.31 = line1-THIS exactly), so no exclusion adjustment was needed; it is flagged here because a reader comparing donors across filings should know this candidate's reported money is his own. THE DONOR ADDRESS CELL PRINTS A STREET AND A ZIP BUT NO CITY AND NO STATE, so donor_city and donor_state are left BLANK -- they were deliberately NOT backfilled from the cover, even though the cover gives St. George, Utah for that same address. Form A's 'In Kind?' column exists on this generation and was left BLANK on the one row: a blank is not an 'N', so in_kind is false only because the form marks nothing. The amount is legible; no row is blank for illegibility and neither side is a floor. Candidate street address, ZIP and home phone printed in the clear on the cover, and the donor street address and ZIP on Form A, were all discarded at read time per PRIVACY.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-07-21",
+   "donor_raw": "Dean Cox",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "104.31",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;city=blank-not-printed;amount=high",
+   "verified": 1,
+   "geometry": "pct:70.94,13.85,11.00,1.72@p2",
+   "note": "date written '7-21-20'; the decimal separator in the amount is written as a low comma-like stroke ('104,31' / '104.31') and reads 104.31, confirmed by the sheet's printed TOTAL 104.31 and by the cover chain 1.10 + 104.31 = 105.41; this is the CANDIDATE'S OWN contribution (same name and street address as the cover) and it IS included in the cover's line 1; the address cell prints street + ZIP only, so city and state are honestly blank rather than carried from the cover; street address and ZIP discarded at read time; the 'In Kind? Y/N' cell was left blank (a blank is not an 'N')"
+  }
+ ],
+ "expenditures": []
+}

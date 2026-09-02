@@ -372,13 +372,287 @@ def itemize(r, text, stated_c, stated_e, aliases, parsed_by_sha, period_basis,
     return crows, erows, patch, notes
 
 
+# ------------------------------------------------ the HANDWRITTEN era: vision itemization
+# PHASE B FINAL WAVE, 2026-08-23. The pre-2022 Carr form and the image-faced 2022+ CFD scans are
+# handwriting/scans no text pipeline can read; their donor/vendor lines were transcribed from
+# page images into `vision_itemized/<key>.json` (schema cf_vision_itemized_v1, ONE per DISTINCT
+# DOCUMENT, `applies_to` naming every index row that shares those bytes). It is a NEW sibling
+# directory on purpose: the 171 stated-totals caches in `vision/` are hand transcriptions that
+# are never regenerated and stay byte-identical through this wave.
+#
+# THE ANCHOR LADDER, and why it is ordered rather than a single test:
+#   * Form "A" / Schedule A itemizes ONLY contributions OVER $50 on the Carr form; the cover's
+#     line 2 aggregate of $50-and-under is NEVER itemized, and `stated_total_contributions`
+#     publishes line 1 + line 2. Scoring the ledger against that sum manufactures a false
+#     mismatch on every filing with a small-donor aggregate.
+#   * `is_incremental` VARIES PER FILING here (CLAUDE.md), so the scope is decided by WHICH
+#     printed cell the rows equal -- never by form family. A side that equals the figure this
+#     module PUBLISHES is `reconciles_*=True`; a side that equals a different printed cell is
+#     published with `reconciles_*` left BLANK and the basis named (a different SCOPE is not a
+#     delta); a side matching nothing printed is a `delta`, published verbatim.
+SIDE_STATES = ('transcribed', 'none', 'withheld', 'out-of-scope')
+
+
+def row_money(printed):
+    """A VERBATIM printed amount from a vision row -> (Decimal|None, applied_note).
+
+    ⚠ `money()` CANNOT BE USED ON A HANDWRITTEN CELL. It strips commas and spaces, so `300,00`
+    parses as 30000 and `63 75` as 6375 — both 100x FABRICATIONS found on real pages of this
+    programme. `common.parse_vision_amount` is the shared reader for handwritten cells.
+    """
+    return common.parse_vision_amount(printed)
+
+
+def load_vision_itemized():
+    """index path -> the itemization cache that covers it (one per distinct document)."""
+    out = {}
+    for fn in sorted(glob.glob(D('vision_itemized', '*.json'))):
+        with open(fn, encoding='utf-8') as fh:
+            j = json.load(fh)
+        for p in (j.get('applies_to') or [j.get('index_path')]):
+            if p:
+                out[p] = j
+    return out
+
+
+# A whole-dollar figure written with the cents position struck rather than filled: `7,200.`,
+# `1,000.-`, `326-`. The transcription contract already rules this for ROW amounts ("a trailing
+# dash after whole dollars means no cents"), and these filers use the same hand on the COVER.
+# ⚠ USED FOR RECONCILIATION ANCHORS ONLY — never to publish a stated total. `money()` returns
+# None on `7,200.`, so this module's published `stated_total_contributions` for that filing stays
+# exactly what it has always been; without the tolerant read here the anchor ladder would see NO
+# parseable figure and score a side that closes EXACTLY to the printed cover line as a `delta`.
+# Fabricating a delta out of an unparsed anchor is a worse error than the one it replaces.
+_NIL_CENTS = re.compile(r'^-?\d+(?:\.|-|\.-|\.–)$')
+
+
+def anchor_money(s):
+    """(Decimal|None, tolerant_flag). The module's own strict `money()` first; the shared
+    handwritten-cell reader only as a FALLBACK, and the flag says when that happened."""
+    v = money(s)
+    if v is not None:
+        return v, False
+    v2, _note = common.parse_vision_amount(s)
+    return (v2, v2 is not None)
+
+
+def _anchors(detail, stated_basis, side):
+    """[(label, Decimal|None, tolerant_flag)] in the order a match should be reported.
+
+    `tolerant_flag` marks a figure the strict reader could not parse and the nil-cents
+    fallback could (`7,200.`), so the note can say the anchor came from a form this module's
+    published `stated_*` had to leave blank."""
+    def A(lab, cell):
+        v, tol = anchor_money(cell)
+        return (lab, v, tol)
+
+    if stated_basis == 'carr_three_column':
+        if side == 'contrib':
+            return [A("the cover's line 1 (contributions over $50), CUMULATIVE column",
+                      detail['contrib_over_50_cum']),
+                    A("the cover's line 1 (contributions over $50), THIS-REPORT column",
+                      detail['contrib_over_50_this'])]
+        return [A("the cover's line 3 (total campaign expenses), CUMULATIVE column",
+                  detail['total_expenses_cum']),
+                A("the cover's line 3 (total campaign expenses), THIS-REPORT column",
+                  detail['total_expenses_this'])]
+    if side == 'contrib':
+        return [A("Summary Page Box B (contributions received THIS PERIOD)",
+                  detail['box_B_contrib_this_period']),
+                A("Summary Page Box C (contributions received YEAR-TO-DATE)",
+                  detail['box_C_contrib_ytd']),
+                A("the printed Schedule A total (sum of all Schedule A pages)",
+                  detail['schedA_total_contributions'])]
+    return [A("Summary Page Box D (expenditures made THIS PERIOD)",
+              detail['box_D_expend_this_period']),
+            A("Summary Page Box E (expenditures made YEAR-TO-DATE)",
+              detail['box_E_expend_ytd']),
+            A("the printed Schedule B total (sum of all Schedule B pages)",
+              detail['schedB_total_expenditures'])]
+
+
+def itemize_vision(r, vi, detail, stated_basis, stated_c, stated_e, aliases, doc_id):
+    """Emit the vision-transcribed itemized rows of ONE handwritten / scanned filing.
+
+    Returns (crows, erows, patch, notes)."""
+    notes, patch, out = [], {}, {'contrib': [], 'expend': []}
+    sides = vi.get('sides') or {}
+    withheld = vi.get('withheld_reason') or {}
+    recon = vi.get('recon') or {}
+    shapes = vi.get('shape') or {}
+    verdicts = {}
+
+    for side, key, label in (('contrib', 'contributions', 'A'),
+                             ('expend', 'expenditures', 'B')):
+        state = sides.get(key, '')
+        raw = vi.get(key) or []
+        if state not in SIDE_STATES:
+            notes.append('ITEMIZED %s: unknown side state %r in the transcription; nothing '
+                         'emitted' % (key, state))
+            verdicts[side] = 'unknown-state'
+            continue
+        if state == 'out-of-scope':
+            verdicts[side] = 'out-of-scope'
+            notes.append('ITEMIZED %s OUT OF SCOPE: %s' % (key, withheld.get(key, '')))
+            continue
+        if state == 'withheld':
+            verdicts[side] = 'withheld'
+            notes.append('ITEMIZED %s WITHHELD by the transcription (NOTHING emitted, no sum '
+                         'claimed): %s' % (key, withheld.get(key, 'no reason recorded')))
+            continue
+        if state == 'none':
+            verdicts[side] = 'no-schedule-page'
+            notes.append('ITEMIZED %s: the document carries NO Form "%s" / Schedule %s page at '
+                         'all -- an honest absence, NOT a zero (%s)'
+                         % (key, label, label, (recon.get(key) or {}).get('detail', '')))
+            continue
+        if not raw:
+            verdicts[side] = 'empty-schedule'
+            notes.append('ITEMIZED %s: the Form "%s" / Schedule %s page exists and prints NO '
+                         'lines (read from the page image) -- an empty schedule, never "no '
+                         'donors"' % (key, label, label))
+            continue
+
+        rows_, total, n_blank, n_repaired = [], decimal.Decimal(0), 0, 0
+        for i, x in enumerate(sorted(raw, key=lambda y: int(y.get('line_no', 0) or 0)), 1):
+            amt, amt_note = row_money(x.get('amount'))
+            n_repaired += 1 if amt_note else 0
+            if amt is None:
+                n_blank += 1
+            else:
+                total += amt
+            kw = dict(candidate=r['candidate'], office=r['office'],
+                      seat=r.get('council_seat', ''), election_year=r['election_year'],
+                      filing_date=r['date'], reporting_period=r['reporting_period'],
+                      date=x.get('date', ''), amount='' if amt is None else str(amt),
+                      in_kind='True' if x.get('in_kind') else 'False',
+                      source_filing=r['path'], document_id=doc_id, line_no=str(i),
+                      # A VISION read is capped at the OCR tier; a transcriber's
+                      # own `high` is downgraded, never up.
+                      extraction_confidence=('medium' if x.get('confidence') in ('', None, 'high')
+                                             else x.get('confidence')),
+                      extract_method='vision/' + (vi.get('shape', {}).get(key) or 'page-image'),
+                      needs_review='1' if str(x.get('needs_review')) == '1' else '0',
+                      geometry=x.get('geometry', ''))
+            rows_.append(common.ContribRow(donor_raw=x.get('donor_raw', ''),
+                                           donor_city=x.get('donor_city', ''),
+                                           donor_state=x.get('donor_state', ''), **kw)
+                         if side == 'contrib' else
+                         common.ExpendRow(vendor_raw=x.get('vendor_raw', ''),
+                                          purpose=x.get('purpose', ''), **kw))
+        if n_repaired:
+            notes.append('ITEMIZED %s: the SHARED WHITELISTED currency repair (decimal-comma / '
+                         'dot-as-thousands, common.repair_money_line) was applied to %d printed '
+                         'amount(s) — read naively a decimal comma is a 100x error (SCHEMA §6: '
+                         'every repaired value is marked)' % (key, n_repaired))
+        if n_blank:
+            notes.append('ITEMIZED %s: %d row(s) carry NO amount (illegible on the page and never '
+                         'guessed), so the side\'s sum is a FLOOR, not a total' % (key, n_blank))
+
+        published = stated_c if side == 'contrib' else stated_e
+        anchors = _anchors(detail, stated_basis, side)
+        hit = next(((lab, val, tol) for lab, val, tol in anchors
+                    if val is not None and abs(total - val) <= decimal.Decimal('0.01')), None)
+        patch['itemized_%s_sum' % side] = str(total)
+        if hit is None:
+            verdicts[side] = 'delta'
+            patch['reconciles_%s' % side] = 'False'
+            # A delta side matched NO printed anchor, so the scope is undetermined. The Carr form
+            # publishes the CUMULATIVE column, and these ledgers restate the cycle, so the safe
+            # flag is False (cumulative) — marking such rows incremental would invite a naive
+            # cycle SUM, which is the one arithmetic this corpus must never support.
+            for y in rows_:
+                y.needs_review = '1'
+                y.is_incremental = 'False'
+            notes.append(
+                'ITEMIZED %s DELTA (published verbatim, NOT adjusted): %d row(s) read from the '
+                'page image sum to %s, matching NONE of the figures the document prints (%s). '
+                'The residual is the FILER\'s own arithmetic, retained as a fact about the '
+                'document; every row on the side carries needs_review=1. recon_delta_%s is left '
+                'BLANK because the competing figures may be different SCOPES.'
+                % (key, len(rows_), total,
+                   '; '.join('%s = %s' % (lab, 'blank' if val is None else val)
+                             for lab, val, _tol in anchors), side))
+        else:
+            lab, val, tolerant = hit
+            if tolerant:
+                notes.append(
+                    'ITEMIZED %s ANCHOR READ WITH THE NIL-CENTS TOLERANCE: the printed figure is '
+                    'written with its cents position struck rather than filled, which this '
+                    'module\'s strict money reader leaves unparsed — so the published '
+                    'stated_total_* for this filing does NOT carry it, and it is used here as a '
+                    'RECONCILIATION ANCHOR ONLY. No published stated figure was changed.' % key)
+            same_scope = (published is not None
+                          and abs(val - published) <= decimal.Decimal('0.01'))
+            verdicts[side] = 'stated-exact' if same_scope else 'other-scope-exact'
+            if same_scope:
+                patch['reconciles_%s' % side] = 'True'
+                patch['recon_delta_%s' % side] = '0.00'
+                notes.append('ITEMIZED %s EXACT: %d row(s) sum to %s = %s = the figure this '
+                             'module publishes in stated_total_%s'
+                             % (key, len(rows_), total, lab,
+                                'contributions' if side == 'contrib' else 'expenditures'))
+            else:
+                patch['recon_delta_%s' % side] = '0.00'
+                notes.append(
+                    'ITEMIZED %s DIFFERENT-SCOPE EXACT: %d row(s) sum EXACTLY to %s = %s, and NOT '
+                    'to the %s this module publishes in stated_total_%s. reconciles_%s is left '
+                    'BLANK (unknown) rather than True: the two figures are different SCOPES and '
+                    'comparing them is a basis error. Both are named here; neither is adjusted.'
+                    % (key, len(rows_), total, lab,
+                       'blank figure' if published is None else str(published),
+                       'contributions' if side == 'contrib' else 'expenditures', side))
+            # SCOPE -> the row flag. A ledger matching the THIS-PERIOD / Box-B cell is a genuinely
+            # per-period schedule; one matching the CUMULATIVE / YTD cell restates the cycle.
+            per_period = ('THIS-REPORT' in lab or 'THIS PERIOD' in lab)
+            cum_val = next((v for l2, v, _t in anchors
+                            if ('CUMULATIVE' in l2 or 'YEAR-TO-DATE' in l2) and v is not None),
+                           None)
+            incr = 'True' if (per_period and cum_val is not None
+                              and abs(cum_val - val) > decimal.Decimal('0.01')) else 'False'
+            for y in rows_:
+                y.is_incremental = incr
+        if shapes.get(key):
+            notes.append('ITEMIZED %s shape: %s' % (key, shapes[key]))
+        det = (recon.get(key) or {}).get('detail', '')
+        if det:
+            notes.append('ITEMIZED %s basis as read: %s' % (key, det))
+        out[side] = rows_
+
+    crows, erows = out['contrib'], out['expend']
+    for x in crows:
+        normalize_donors.normalize_contrib(x, r['candidate'], aliases)
+    for x in erows:
+        normalize_donors.normalize_vendor(x)
+    if crows or erows:
+        patch['n_contrib_rows'] = len(crows)
+        patch['n_expend_rows'] = len(erows)
+        patch['self_funded_amount'] = common.money_str(round(sum(
+            float(x.amount) for x in crows
+            if x.donor_type in ('candidate-self', 'loan') and x.amount), 2))
+        g = vi.get('gates') or {}
+        notes.append(
+            'ITEMIZED LAYER (VISION, Phase B final wave 2026-08-23): %d contribution / %d '
+            'expenditure row(s) read from the page images; verdicts contributions=%s, '
+            'expenditures=%s. Gates: %s | %s | %s | %s'
+            % (len(crows), len(erows), verdicts.get('contrib', 'none'),
+               verdicts.get('expend', 'none'), g.get('page_subtotal', '') or 'no page subtotal',
+               g.get('row_count', '') or 'no row-count gate',
+               g.get('geometry_proof', '') or 'no geometry proof',
+               g.get('balance_chain', '') or 'no balance chain'))
+    if vi.get('notes'):
+        notes.append('transcription: ' + vi['notes'])
+    return crows, erows, patch, notes
+
+
 def build(rows):
     vision, n_vision_files = load_vision()
+    vis_item = load_vision_itemized()
     tot, det = [], []
     n_from_vision = n_from_text = n_no_totals = 0
     contrib_rows, expend_rows = [], []
     aliases = normalize_donors.load_aliases(D('donor_aliases.csv'))
-    parsed_by_sha, n_bd = {}, 0
+    parsed_by_sha, n_bd, n_vis = {}, 0, 0
 
     for r in rows:
         path = r['path']
@@ -504,6 +778,7 @@ def build(rows):
             _t = open(tp, errors='replace').read()
             if parse_summary_text(_t) is not None:
                 bd_text = _t
+        _c = _e = []
         if bd_text is not None:
             n_bd += 1
             _c, _e, patch, _n = itemize(r, bd_text, stated_c, stated_e, aliases,
@@ -511,6 +786,23 @@ def build(rows):
             contrib_rows.extend(_c)
             expend_rows.extend(_e)
             notes.extend(_n)
+
+        # ---- the VISION itemization (Phase B final wave, 2026-08-23). Runs ONLY where the
+        # born-digital family emitted nothing for this filing, so the 2026-08-02 born-digital
+        # block is frozen: a filing that already carries parser rows is never re-itemized.
+        vi = vis_item.get(path)
+        if vi is not None and not (_c or _e):
+            n_vis += 1
+            _c, _e, vpatch, _n = itemize_vision(
+                r, vi, detail, stated_basis, stated_c, stated_e, aliases,
+                'cache_county|%s|%s' % (r['sha256'][:12], path))
+            contrib_rows.extend(_c)
+            expend_rows.extend(_e)
+            notes.extend(_n)
+            patch.update(vpatch)
+            if len(vi.get('applies_to') or []) > 1:
+                notes.append('one ITEMIZATION applied to %d index rows (identical bytes) -- group '
+                             'on sha256 before summing' % len(vi['applies_to']))
 
         if 'byte-identical duplicate of' in (r.get('notes') or ''):
             notes.append('cross-channel byte-identical duplicate — group on sha256 before summing')
@@ -533,7 +825,7 @@ def build(rows):
             'source_filing': path, 'document_id': doc_id,
             'extraction_confidence': conf, 'notes': '; '.join(notes)})
         tot[-1].update(patch)
-        for _row in (_c if bd_text is not None else []) + (_e if bd_text is not None else []):
+        for _row in list(_c) + list(_e):
             _row.document_id = doc_id
 
         det.append(dict(
@@ -560,7 +852,8 @@ def build(rows):
     expend_rows.sort(key=lambda x: (x.source_filing, int(x.line_no or 0)))
     return tot, det, contrib_rows, expend_rows, dict(
         vision_files=n_vision_files, from_vision=n_from_vision, from_text=n_from_text,
-        no_totals=n_no_totals, born_digital=n_bd)
+        no_totals=n_no_totals, born_digital=n_bd, vision_itemized=n_vis,
+        vision_itemized_files=len(vis_item))
 
 
 def _cfd_totals(detail, notes):
@@ -601,6 +894,59 @@ def _cfd_totals(detail, notes):
     return sc, se, a, cl, period_basis, is_incr
 
 
+def mark_content_duplicates(tot, crows, erows, sha_of):
+    """Flag two filings that are the SAME REPORT published twice with DIFFERENT BYTES.
+
+    ⚠ `sha256`-DISTINCT IS NOT DOCUMENT-DISTINCT (GOTCHAS.md, proved on salt_lake_county and
+    again here). This module's whole duplicate story is byte-identity — `applies_to` groups the
+    42 cross-channel copies — and that machinery is BLIND to a re-scan: the 2026-08-23 wave found
+    Buttars 7/16/2012 published through two channels with identical covers, identical schedules
+    and different md5s. Both are real publications and both are kept, but summing them
+    double-counts the filer, and nothing in the data says so.
+
+    The detector is deliberately CONSERVATIVE and evidence-only: same candidate, same cycle, and
+    an IDENTICAL non-empty multiset of (date, name, amount) rows on BOTH sides. Sequential
+    reports of one cycle never satisfy that; a re-scan always does. Nothing is dropped — a note
+    is added to each filing naming its twin.
+    """
+    def sig(rows_, name_attr):
+        return tuple(sorted((x.date, (getattr(x, name_attr) or '').strip().lower(), x.amount)
+                            for x in rows_))
+    by_src = {}
+    for x in crows:
+        by_src.setdefault(x.source_filing, [[], []])[0].append(x)
+    for x in erows:
+        by_src.setdefault(x.source_filing, [[], []])[1].append(x)
+    groups = {}
+    for r in tot:
+        rows_ = by_src.get(r['source_filing'])
+        if not rows_ or not (rows_[0] or rows_[1]):
+            continue
+        key = (re.sub(r'[^a-z]', '', (r['candidate'] or '').lower()), r['election_year'],
+               sig(rows_[0], 'donor_raw'), sig(rows_[1], 'vendor_raw'))
+        groups.setdefault(key, []).append(r)
+    n = 0
+    for key, grp in groups.items():
+        if len(grp) < 2:
+            continue
+        # ⚠ EXCLUDE THE KNOWN BYTE-DUPLICATES. 42 index rows are the same bytes served by a
+        # second channel; `applies_to` already groups them and each row already says so. This
+        # detector exists ONLY for the case that machinery is blind to — the same report
+        # RE-SCANNED, so a group whose members share one sha256 is not news.
+        if len({sha_of.get(r['source_filing'], r['source_filing']) for r in grp}) < 2:
+            continue
+        for r in grp:
+            others = '; '.join(o['source_filing'] for o in grp if o is not r)
+            r['notes'] += (' | CONTENT-DUPLICATE (NOT a byte duplicate): this filing itemizes an '
+                           'IDENTICAL set of contributions and expenditures to %s — the same '
+                           'report published through a second channel as a different scan, so the '
+                           'sha256 grouping this module uses elsewhere CANNOT see it. Both '
+                           'publications are real and both are kept; COUNT THE FILING ONCE and '
+                           'never sum the copies.' % others)
+            n += 1
+    return n
+
+
 def write(path, rows, header):
     with open(path, 'w', newline='') as fh:
         w = csv.DictWriter(fh, fieldnames=header, extrasaction='ignore')
@@ -622,6 +968,8 @@ def write_rows(path, header, geo_header, rows):
 def main():
     idx = list(csv.DictReader(open(D('index.csv'))))
     tot, det, crows, erows, stats = build(idx)
+    n_dup = mark_content_duplicates(tot, crows, erows,
+                                    {r['path']: r['sha256'] for r in idx})
     write(D('filing_totals.csv'), tot, TOTALS_HEADER)
     write_rows(D('contributions.csv'), CONTRIB_HEADER, common.CONTRIB_HEADER_GEO, crows)
     write_rows(D('expenditures.csv'), EXPEND_HEADER, common.EXPEND_HEADER_GEO, erows)
@@ -640,8 +988,19 @@ def main():
     nre = sum(1 for r in tot if r['reconciles_expend'] == 'True')
     print('born-digital filings handed to `%s`: %3d of %d  (sides reconciling exactly: '
           '%d contrib / %d expend)' % (FAMILY_ID, stats['born_digital'], len(tot), nrc, nre))
-    print('contributions.csv        %3d rows   expenditures.csv %3d rows  — the handwritten '
-          'Carr era itemizes nothing (NOT transcribed, never "no donors")'
+    if n_dup:
+        print('CONTENT-DUPLICATE filings flagged: %d (same report, DIFFERENT bytes — sha256 '
+              'grouping cannot see these; count each report ONCE)' % n_dup)
+    print('vision itemization       %3d filings itemized from page images (%d distinct-document '
+          'caches in vision_itemized/)'
+          % (stats['vision_itemized'], stats['vision_itemized_files']))
+    nb = sum(1 for r in tot if 'ITEMIZED LAYER (VISION' in r['notes'])
+    nw = sum(1 for r in tot if 'WITHHELD by the transcription' in r['notes'])
+    ne_ = sum(1 for r in tot if 'an empty schedule, never' in r['notes'])
+    print('  of those: %d carry rows, %d have a withheld side, %d an empty schedule'
+          % (nb, nw, ne_))
+    print('contributions.csv        %3d rows   expenditures.csv %3d rows  — an empty itemized '
+          'side is NOT TRANSCRIBED or an EMPTY SCHEDULE, never "no donors"'
           % (len(crows), len(erows)))
 
 

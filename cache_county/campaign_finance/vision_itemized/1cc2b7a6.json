@@ -1,0 +1,95 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C03.json",
+ "key": "1cc2b7a6",
+ "index_path": "raw/2010/2010_wb_khowell.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_khowell.pdf"
+ ],
+ "sha256_prefix": "a0b4a2a456185bc8",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is a blank ruled sheet, no ink in any band. Cover line 1 is a handwritten '0' in all three columns (a plain numeral zero, not a slashed nil mark), so THIS and CUMULATIVE coincide and zero rows closes both. Carr 5-5-PG prints no schedule total — cover line is the only anchor."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "326.15",
+    "cover_expense_cum": "326.15",
+    "cover_balance_end": "- 326.15",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "326.15",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row on Form B = 326.15, equal to BOTH cover line 3 THIS and CUMULATIVE (first/only report of the cycle — the two scopes coincide). Line 3 LAST is an empty ruled line. Cover figures re-read in a 600 dpi crop: '326.15' in both the THIS and CUMULATIVE cells."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints NO page subtotal or schedule total on either schedule — gate (a) unavailable on this form family; scored against the cover lines. p2 rows 0.00 = cover line1 '0'; p3 rows 326.15 = cover line3 326.15.",
+  "row_count": "Same Carr grid as the other 2010 filings (36 data bands, pitch ~2.30%). p3: band 1 alone carries ink; every other band empty at 200 dpi → 1 row emitted. p2: no band inked → 0 rows. Counted by eye against ink as well as by band, per the addendum's warning that filers write ON/ABOVE the rule.",
+  "geometry_proof": "p3 first-row crop at 600 dpi (-x 200 -y 620 -W 4600 -H 220) renders the whole row '3-12-10 | Cache County Clerk | filing fee | 326.15'; the control crop one row-pitch below over the amount column (-x 4150 -y 760 -W 700 -H 200) renders EMPTY. Row index unshifted.",
+  "balance_chain": "Cover line 4 CUMULATIVE prints '- 326.15'. 0 contributions - 326.15 expenditures = -326.15 — closes exactly. LAST + THIS = CUMULATIVE holds on lines 1, 2 and 3."
+ },
+ "escalations": 2,
+ "escalation_note": "p3 row-1 band re-rendered at 600 dpi (handwriting: confirmed the date's middle group as '12' and the amount as 326.15, not 32b/326.16); cover line-3/4 cells re-rendered at 600 dpi to confirm 326.15 / 326.15 and the negative balance.",
+ "notes": "Handwritten Carr 5-5-PG. Cover 'Name of Office' reads 'Cache County Assessor' — AGREES with the chunk file's office=Assessor; 'Full Name of Candidate' reads 'Kathleen C. Howell' vs the chunk file's 'Kathleen Howell' (the form carries the middle initial). County office, in scope. Cover date '10-13-10', clerk RCVD stamp '13 OCT 2010 AM08:42' — matches the chunk file's 2010-10-13. 3-page PDF; the printed form's page-4 statute sheet was not scanned. The 'TO' line names the county clerk (Jill N Zollinger), not a party to this filing. Privacy: home street address, home phone and business phone printed in the clear on the cover — discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-03-12",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "filing fee",
+   "amount": "326.15",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.20,9.42,13.85,3.34@p3",
+   "note": "Date written '3-12-10' (two-digit year, parses to 2010-03-12); re-read at 600 dpi to separate '12' from a possible '13'. Handwriting, so date cell capped at medium. Form B has no in-kind column."
+  }
+ ]
+}

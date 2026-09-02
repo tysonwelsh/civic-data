@@ -1,0 +1,96 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W06.json",
+ "key": "5b8c7eab",
+ "index_path": "raw/live_wp/Nate-Brooksby-2.pdf",
+ "applies_to": [
+  "raw/live_wp/Nate-Brooksby-2.pdf"
+ ],
+ "sha256_prefix": "54ff8c44ea3c3172",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen3-county-branded-spreadsheet-grid",
+  "expenditures": "gen3-county-branded-spreadsheet-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "-",
+    "cover_over50_this": "1,189.85",
+    "cover_over50_cum": "1,189.85",
+    "cover_le50_last": null,
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "1,189.85",
+    "schedule_total": "1,189.85"
+   },
+   "itemized": "1,189.85",
+   "basis": "schedule-total==cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row (1,189.85) equals the schedule's printed TOTAL CONTRIBUTIONS 1,189.85, which equals cover line 1 in BOTH the THIS and CUMULATIVE columns. The LAST-REPORT cell is an accounting nil dash, so this is the first report of its cycle and the two scopes coincide. ANCHOR-KEY NOTE: this form generation's cover has only THREE lines - contributions over $50, campaign expenses, balance - and NO '$50.00 or less' aggregate line at all, so cover_le50_* are null (field does not exist), not blank."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "-",
+    "cover_expense_this": "-",
+    "cover_expense_cum": "-",
+    "cover_balance_end": "1,189.85",
+    "schedule_total": "-"
+   },
+   "itemized": "0.00",
+   "basis": "no printed expenditure numeral exists on this filing",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form B (p3) holds NO transaction: the whole grid is empty except that its first data row prints '########' in the Date cell - the spreadsheet's column-too-narrow overflow for a date - with the payee, purpose and amount cells empty apart from the printed '$'. The printed TOTAL EXPENDITURES is an accounting nil dash. Under the repo's zero-glyph ruling a bare dash stays BLANK and is not the numeral 0, so there is NO printed expenditure figure anywhere on this filing to reconcile against: result unknown, scope unknown. (Contextually the balance line does close if the dashes are read as the spreadsheet's zero format: 1,189.85 in, nothing out, 1,189.85 balance - but that reading is not transcribed as a value.) Zero rows emitted; the '########' line is an artifact, not a transaction."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: 1 row 1,189.85 = printed TOTAL CONTRIBUTIONS 1,189.85 = cover line 1 THIS and CUMULATIVE. p3: nothing to gate - the only printed expenditure figures are accounting nil dashes.",
+  "row_count": "rowbands not used (the grid is a clean vector spreadsheet); scored instead by an ink profile of the amount column: p2 yields exactly ONE inked data cell plus the footer TOTAL cell (1 row emitted); p3 yields no inked amount at all, only the printed '$' and the footer nil dash. Field-shift screen: p2 has 1 date, 1 name, 1 amount, 1 in-kind answer - aligned.",
+  "geometry_proof": "p2 amount column, 600 dpi: the first-row box renders '$  1,189.85'; the control box one row-pitch below renders EMPTY. (p3 emits no rows, so no pointer was written.)",
+  "balance_chain": "Cover line 3 (balance): LAST is a nil dash, THIS 1,189.85, CUMULATIVE 1,189.85 - consistent with 1,189.85 contributed and nothing spent, but only if the expenditure dashes are read as zero, which this record deliberately does not do. No earlier filing by this filer in this chunk to chain against."
+ },
+ "escalations": 6,
+ "escalation_note": "cover anchor grid, Form A row 1, Form A footer TOTAL, Form B row 1 (the '########' line), Form B footer TOTAL, and the Office-Use-Only date block - all 600 dpi crops; plus 2 single-cell geometry-proof crops.",
+ "notes": "The NEWEST form generation ('WASHINGTON COUNTY / AMERICA'S COUNTY' logo, 'Campaign Financial Disclosure Per Title 1 Chapter 7 of Washington County Code of Ordinances') - a filled spreadsheet, not handwriting, with a three-line cover that OMITS the '$50.00 or less' aggregate line. index.csv says candidate 'Nate Brooksby', office 'Sheriff', reporting_year 2025 with cycle_year blank; the form agrees - 'Full Name of Candidate Nate Brooksby', 'Candidate for Office Of Sheriff', period Start 1/1/2025 End 12/31/2025 (the January annual officeholder report for calendar 2025), candidate-signed 1/8/26, Date Received 1/8/2026 and Clerk/Auditor verifying inspection 1/9/2026 (the final glyph of the received year is a hand-drawn 6 that could be misread as 0; the clerk's 1/9/2026 immediately below is unambiguous and fixes the year). CALIBRATION-SPECIMEN CANDIDATE: Form B's '########' date-overflow artifact - a printed, date-shaped token that is NOT a value and that no arithmetic gate can see. The single Form A line is also unusual: its donor name is 'Carryover from prior period', i.e. a carried balance rather than a donation, flagged needs_review for a human to decide whether it belongs in the itemized donor layer. No street address, ZIP, phone or email appears on this filing's cover (the fields are not printed by this generation).",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2025-12-31",
+   "donor_raw": "Carryover from prior period",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1,189.85",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:56.60,37.00,26.30,3.09@p2",
+   "note": "NOT A DONOR: the Name-of-Donor cell reads the literal words 'Carryover from prior period' - a balance carried in, entered by the filer on Form A. Transcribed verbatim and flagged needs_review so a human can decide whether it belongs in the donor layer. The In Kind? Y/N column is answered 'N'. The mailing-address cell is empty."
+  }
+ ],
+ "expenditures": []
+}

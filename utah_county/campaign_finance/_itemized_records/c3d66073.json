@@ -1,0 +1,1962 @@
+[
+ {
+  "index_path": "raw/2022/2022_Jeff_Gray.pdf",
+  "key": "c3d66073",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r10_03)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "itemized_pages_A": "3,4,5,6",
+  "itemized_pages_B": "2",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Box B 'Contributions Received this Period' (36370.74) on the p7 Summary Page — the PROMOTED per-period cell — which is also the filer's own DONATIONS ledger's printed 'Total 36370.74' at the foot of p5 (the ledger's only printed total, covering its three sheets p3+p4+p5).",
+    "detail": "The 100 MONETARY rows of the filer's own DONATIONS ledger sum to 9,501.00 (p3, 35 rows) + 8,237.77 (p4, 39 rows) + 18,631.97 (p5, 26 rows) = 36,370.74 exactly, which is the ledger's printed Total and the cover's promoted per-period Box B to the cent. Box C 'Contributions Received Year to Date' prints 51,669.05 and is retained as the CUMULATIVE figure, never summed as an increment. THE PUBLISHED ROW SET ALSO CARRIES ONE IN-KIND ROW (United Alliance 7,500.00, from the separate p6 sheet headed 'INKIND'), so the gross sum of all 101 published rows is 43,870.74 — that is the figure checkrec.py reports — while the CASH-ONLY figure of 36,370.74 is what the document's three printed statements state. The Ellingson-2018 precedent in this module is followed exactly: the in-kind row is published with in_kind=true and excluded from the anchor. The 5,000.00 'Jeff Gray LOAN' row IS an itemized contribution row here, decided by the ladder (§B3): it lies inside the printed 36,370.74 and the cover has no beginning-balance slot to absorb it."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Box D 'Expenditures Made this Period' (37900.38) on the p7 Summary Page — the PROMOTED per-period cell — which is also the filer's own EXPENDITURES ledger's printed 'Total 37900.38' at the foot of p2.",
+    "detail": "The 20 rows of the filer's own EXPENDITURES ledger sum to 273.30 + 305.20 + 550.45 + 50.00 + 100.00 + 25.00 + 68.56 + 2879.73 + 577.37 + 63.17 + 23.04 + 160.00 + 3853.27 + 14.40 + 2639.45 + 2932.86 + 744.96 + 850.94 + 12788.68 + 9000.00 = 37,900.38 exactly = the ledger's printed Total = Box D. Box E 'Expenditures Made Year to Date' prints 49,212.73 and is retained as cumulative, never summed. The printed 'Total' line is NOT a 21st row — it is separated from row 20 by three empty line positions, it is labelled 'Total' in the Who column, and it equals the sum of the rows above it (§H4). The one-band-past control below row 20 rendered an empty strip."
+   }
+  },
+  "in_kind_convention": "MONETARY-ONLY (CASH-ONLY), and it was tested on BOTH sides of THIS filing per §G1 rather than inherited — which matters here because the SAME FILER's other document in this chunk (key 2904e2a5, his 30-days-after-General report) is a cover-only PDF on which no convention can be tested at all, so nothing was carried between them. Contributions: the 100 cash rows sum to 36,370.74 = the ledger's printed Total = Box B; adding the p6 INKIND sheet's 7,500.00 gives 43,870.74, which matches NO printed figure anywhere in the document. So this filer keeps in-kind on a physically separate sheet AND outside his stated contributions total — the summit 'McKenna separate' pattern. Expenditures: no row is marked in-kind and there is no in-kind column, so the two conventions coincide at 37,900.38 and both close.",
+  "escalations": 6,
+  "escalation_note": "Six escalations at 500-900 dpi, none of which changed a value. (1)-(5) The five per-page row-band proofs listed in each frame's measure_note (first row, last row, and the mandatory one-band-past control on every ledger page). ONE OF THESE CAUGHT A REAL OFF-BY-ONE BEFORE IT SHIPPED: the first p4 band list was seeded from rowbands.py's first detected text band (11.11) and its row-1 crop rendered '100' — Shauna Chambers, the SECOND entry — proving the detector had missed the narrow '50' of the first entry; the origin was moved one pitch up to 8.67 and the re-crop rendered '50'. (6) All six Summary-Page boxes were cropped individually at 500 dpi (c3d66073_p7_A/BC/DE/F/close.png) to settle the cover ladder described in `notes`; every box reproduced exactly as first read (A 3517.55, B 36370.74, C 51669.05, D 37900.38, E 49212.73, F 39888.28, close 2456.32) and nothing was adjusted.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     46.0,
+     60.0
+    ],
+    "cells": [
+     [
+      12.0,
+      45.0
+     ],
+     [
+      46.0,
+      60.0
+     ]
+    ],
+    "rows": [
+     [
+      15.75,
+      17.79
+     ],
+     [
+      17.79,
+      19.83
+     ],
+     [
+      19.83,
+      21.87
+     ],
+     [
+      21.87,
+      23.9
+     ],
+     [
+      23.9,
+      25.94
+     ],
+     [
+      25.94,
+      27.98
+     ],
+     [
+      27.98,
+      30.02
+     ],
+     [
+      30.02,
+      32.06
+     ],
+     [
+      32.06,
+      34.1
+     ],
+     [
+      34.1,
+      36.13
+     ],
+     [
+      36.13,
+      38.17
+     ],
+     [
+      38.17,
+      40.21
+     ],
+     [
+      40.21,
+      42.25
+     ],
+     [
+      42.25,
+      44.29
+     ],
+     [
+      44.29,
+      46.33
+     ],
+     [
+      46.33,
+      48.36
+     ],
+     [
+      48.36,
+      50.4
+     ],
+     [
+      50.4,
+      52.44
+     ],
+     [
+      52.44,
+      54.48
+     ],
+     [
+      54.48,
+      56.52
+     ]
+    ],
+    "measure_note": "THIS PAGE IS THE FILER'S OWN TYPED LEDGER, NOT A COUNTY FORM: it prints NO rules of any kind and rowbands.py returns rules=0 / bands=0 at full width. The §A2 recovery was used — `rowbands.py <pdf> 2 --text-lines --col 45,60` returns 21 text bands, of which the ledger rows run from y=16.15 to y=54.88 at a constant pitch, with two narrow amounts ('50' at row 4 and '25' at row 6) not detected. Fitting first-to-last gives pitch = (54.88 - 16.15)/19 = 2.0384 and the band tops are set 0.40 above each text top, so row i spans [15.75 + (i-1)*2.0384, +2.04]. The two column bands are HAND-MEASURED off the 200 dpi page (Who about 12-45 pct, Amount about 46-60 pct) because no rule exists to detect; the Amount band is deliberately wider than the ink so the widest figure (12788.68) cannot clip (§G2). PROOF at 900 dpi --value: the row-1 box pct:46.0,15.75,14.0,2.04@p2 rendered '273.3' (recorded 273.3); the row-20 box pct:46.0,54.48,14.0,2.04@p2 rendered '9000' (recorded 9000); and the CONTROL one band past the last row, pct:46.0,56.52,14.0,2.04@p2, rendered a completely EMPTY strip — no figure below the last row, so §F1 trap 5 is ruled out and the printed 'Total' further down is not an entry."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     46.0,
+     60.0
+    ],
+    "cells": [
+     [
+      12.0,
+      45.0
+     ],
+     [
+      46.0,
+      60.0
+     ]
+    ],
+    "rows": [
+     [
+      15.26,
+      17.3
+     ],
+     [
+      17.3,
+      19.34
+     ],
+     [
+      19.34,
+      21.38
+     ],
+     [
+      21.38,
+      23.42
+     ],
+     [
+      23.42,
+      25.45
+     ],
+     [
+      25.45,
+      27.49
+     ],
+     [
+      27.49,
+      29.53
+     ],
+     [
+      29.53,
+      31.57
+     ],
+     [
+      31.57,
+      33.61
+     ],
+     [
+      33.61,
+      35.65
+     ],
+     [
+      35.65,
+      37.69
+     ],
+     [
+      37.69,
+      39.73
+     ],
+     [
+      39.73,
+      41.76
+     ],
+     [
+      41.76,
+      43.8
+     ],
+     [
+      43.8,
+      45.84
+     ],
+     [
+      45.84,
+      47.88
+     ],
+     [
+      47.88,
+      49.92
+     ],
+     [
+      49.92,
+      51.96
+     ],
+     [
+      51.96,
+      54.0
+     ],
+     [
+      54.0,
+      56.04
+     ],
+     [
+      56.04,
+      58.07
+     ],
+     [
+      58.07,
+      60.11
+     ],
+     [
+      60.11,
+      62.15
+     ],
+     [
+      62.15,
+      64.19
+     ],
+     [
+      64.19,
+      66.23
+     ],
+     [
+      66.23,
+      68.27
+     ],
+     [
+      68.27,
+      70.31
+     ],
+     [
+      70.31,
+      72.35
+     ],
+     [
+      72.35,
+      74.39
+     ],
+     [
+      74.39,
+      76.42
+     ],
+     [
+      76.42,
+      78.46
+     ],
+     [
+      78.46,
+      80.5
+     ],
+     [
+      80.5,
+      82.54
+     ],
+     [
+      82.54,
+      84.58
+     ],
+     [
+      84.58,
+      86.62
+     ]
+    ],
+    "measure_note": "Filer's own typed DONATIONS ledger, sheet 1 of 3; rowbands.py returns rules=0 at full width. §A2 recovery: `--text-lines --col 45,60` returns 33 bands, the ledger rows running y=15.66 (row 1) to y=84.98 (row 35) with four narrow amounts (rows 28, 30, 32, 33 — all '50' or '25') undetected. Pitch fitted first-to-last = (84.98 - 15.66)/34 = 2.0388, and it reproduces every detected band to within 0.2 pct (e.g. row 29 predicted 72.75, detected 72.75). Band tops set 0.40 above the text top. Columns hand-measured as on p2. PROOF at 900 dpi --value: the row-1 box pct:46.0,15.26,14.0,2.04@p3 rendered '250' (recorded 250); the row-35 box pct:46.0,84.58,14.0,2.04@p3 rendered '100' (recorded 100); the CONTROL one band past, pct:46.0,86.62,14.0,2.04@p3, rendered EMPTY. This sheet prints no subtotal of its own — the ledger's single printed Total is on p5."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     46.0,
+     60.0
+    ],
+    "cells": [
+     [
+      12.0,
+      45.0
+     ],
+     [
+      46.0,
+      60.0
+     ]
+    ],
+    "rows": [
+     [
+      8.67,
+      10.71
+     ],
+     [
+      10.71,
+      12.75
+     ],
+     [
+      12.75,
+      14.79
+     ],
+     [
+      14.79,
+      16.82
+     ],
+     [
+      16.82,
+      18.86
+     ],
+     [
+      18.86,
+      20.9
+     ],
+     [
+      20.9,
+      22.94
+     ],
+     [
+      22.94,
+      24.98
+     ],
+     [
+      24.98,
+      27.02
+     ],
+     [
+      27.02,
+      29.05
+     ],
+     [
+      29.05,
+      31.09
+     ],
+     [
+      31.09,
+      33.13
+     ],
+     [
+      33.13,
+      35.17
+     ],
+     [
+      35.17,
+      37.21
+     ],
+     [
+      37.21,
+      39.25
+     ],
+     [
+      39.25,
+      41.28
+     ],
+     [
+      41.28,
+      43.32
+     ],
+     [
+      43.32,
+      45.36
+     ],
+     [
+      45.36,
+      47.4
+     ],
+     [
+      47.4,
+      49.44
+     ],
+     [
+      49.44,
+      51.48
+     ],
+     [
+      51.48,
+      53.51
+     ],
+     [
+      53.51,
+      55.55
+     ],
+     [
+      55.55,
+      57.59
+     ],
+     [
+      57.59,
+      59.63
+     ],
+     [
+      59.63,
+      61.67
+     ],
+     [
+      61.67,
+      63.71
+     ],
+     [
+      63.71,
+      65.75
+     ],
+     [
+      65.75,
+      67.78
+     ],
+     [
+      67.78,
+      69.82
+     ],
+     [
+      69.82,
+      71.86
+     ],
+     [
+      71.86,
+      73.9
+     ],
+     [
+      73.9,
+      75.94
+     ],
+     [
+      75.94,
+      77.98
+     ],
+     [
+      77.98,
+      80.01
+     ],
+     [
+      80.01,
+      82.05
+     ],
+     [
+      82.05,
+      84.09
+     ],
+     [
+      84.09,
+      86.13
+     ],
+     [
+      86.13,
+      88.17
+     ]
+    ],
+    "measure_note": "Filer's own typed DONATIONS ledger, sheet 2 of 3; no printed rules, no repeated column headings (the sheet begins straight in on its first name). §A2 recovery: `--text-lines --col 45,60` returns 30 bands from y=11.11 to y=86.53. ⚠ THE DETECTOR'S FIRST BAND IS NOT ROW 1: the first entry's amount is a narrow '50' that the scan misses, and the row-1 proof crop taken from y=10.71 rendered '100' — Shauna Chambers, the second entry — which is what caught the off-by-one. The origin was moved one pitch up. Pitch = (86.53 - 11.11)/37 = 2.0384 with 11.11 = row 2, so row i spans [8.67 + (i-1)*2.0384, +2.04]. RE-PROOF at 900 dpi --value: the corrected row-1 box pct:46.0,8.67,14.0,2.04@p4 rendered '50' (recorded 50 for Jill hernandez); the row-39 box pct:46.0,86.12,14.0,2.04@p4 rendered '26.25' (recorded 26.25 for Candid Ward); and the CONTROL one band past, pct:46.0,88.16,14.0,2.04@p4, rendered EMPTY. Columns hand-measured as on p2. This sheet prints no subtotal of its own."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     46.0,
+     60.0
+    ],
+    "cells": [
+     [
+      12.0,
+      45.0
+     ],
+     [
+      46.0,
+      60.0
+     ]
+    ],
+    "rows": [
+     [
+      8.27,
+      10.31
+     ],
+     [
+      10.31,
+      12.35
+     ],
+     [
+      12.35,
+      14.38
+     ],
+     [
+      14.38,
+      16.42
+     ],
+     [
+      16.42,
+      18.46
+     ],
+     [
+      18.46,
+      20.5
+     ],
+     [
+      20.5,
+      22.53
+     ],
+     [
+      22.53,
+      24.57
+     ],
+     [
+      24.57,
+      26.61
+     ],
+     [
+      26.61,
+      28.65
+     ],
+     [
+      28.65,
+      30.68
+     ],
+     [
+      30.68,
+      32.72
+     ],
+     [
+      32.72,
+      34.76
+     ],
+     [
+      34.76,
+      36.8
+     ],
+     [
+      36.8,
+      38.83
+     ],
+     [
+      38.83,
+      40.87
+     ],
+     [
+      40.87,
+      42.91
+     ],
+     [
+      42.91,
+      44.95
+     ],
+     [
+      44.95,
+      46.98
+     ],
+     [
+      46.98,
+      49.02
+     ],
+     [
+      49.02,
+      51.06
+     ],
+     [
+      51.06,
+      53.1
+     ],
+     [
+      53.1,
+      55.13
+     ],
+     [
+      55.13,
+      57.17
+     ],
+     [
+      57.17,
+      59.21
+     ],
+     [
+      59.21,
+      61.25
+     ]
+    ],
+    "measure_note": "Filer's own typed DONATIONS ledger, sheet 3 of 3, carrying the ledger's only printed Total. No rules. §A2 recovery: `--text-lines --col 45,60` returns 22 bands from y=8.67 (row 1) to y=59.61 (row 26), plus the Total line far below at y=67.71. Pitch = (59.61 - 8.67)/25 = 2.0376; band tops 0.40 above the text top. PROOF at 900 dpi --value: the row-1 box pct:46.0,8.27,14.0,2.04@p5 rendered '103.48' (recorded 103.48 for Jeff Johnson); the row-26 box pct:46.0,59.21,14.0,2.04@p5 rendered '1000' (recorded 1000 for Josh Holyoak); the CONTROL one band past, pct:46.0,61.25,14.0,2.04@p5, rendered EMPTY. A wider 400 dpi tail strip (pct:10.0,58.0,60.0,12.0@p5) additionally shows rows 25 and 26 followed by blank space and then the labelled 'Total 36370.74', confirming the Total is not a 27th entry and that nothing is hidden between the last row and it."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     46.0,
+     60.0
+    ],
+    "cells": [
+     [
+      12.0,
+      45.0
+     ],
+     [
+      46.0,
+      60.0
+     ]
+    ],
+    "rows": [
+     [
+      15.78,
+      17.82
+     ]
+    ],
+    "measure_note": "The filer's own separate one-line sheet headed 'INKIND' with its own 'Name / Amount' headings; no rules, and `--text-lines --col 45,60` returns only three bands (the Amount heading, its underline, and the single data line at y=16.18). With one row on the page, EVERY row is proved: the row-1 box pct:46.0,15.78,14.0,2.04@p6 rendered '7500' at 900 dpi --value (recorded 7500), and the CONTROL one band past, pct:46.0,17.82,14.0,2.04@p6, rendered EMPTY — the sheet carries exactly one entry and no total of its own. Columns hand-measured as on the other ledger sheets."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "donor_raw": "Patricia Hansen",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "donor_raw": "Hal/Dianna Black",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "donor_raw": "Penny Jensen",
+    "amount": "150",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "donor_raw": "Michele Lundell",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "donor_raw": "Ric Cantrell",
+    "amount": "150",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "donor_raw": "James Childs",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer lists 'James Childs' twice in succession at 1000 each; both are real separate rows and both are required for the ledger to reach its printed total this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "donor_raw": "James Childs",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "second of the two consecutive 'James Childs' 1000 rows; kept as printed this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "donor_raw": "Rebecca Merrill",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "donor_raw": "Carol Jean Bethers",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "donor_raw": "Heather Miller",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "donor_raw": "Chris Ballard",
+    "amount": "300",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "donor_raw": "Robert Ohara",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "donor_raw": "TJ McVey",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "donor_raw": "Alan Nicol",
+    "amount": "200",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "15",
+    "page": 3,
+    "row": 15,
+    "donor_raw": "Jennifer Scott",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 16,
+    "donor_raw": "Craig Johnson",
+    "amount": "501",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 17,
+    "donor_raw": "Aaron Lee",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "18",
+    "page": 3,
+    "row": 18,
+    "donor_raw": "Brian Porter",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "19",
+    "page": 3,
+    "row": 19,
+    "donor_raw": "Lorraine Hawkins",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "20",
+    "page": 3,
+    "row": 20,
+    "donor_raw": "Rebecca Jensen",
+    "amount": "150",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "21",
+    "page": 3,
+    "row": 21,
+    "donor_raw": "Jene Peart",
+    "amount": "125",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "22",
+    "page": 3,
+    "row": 22,
+    "donor_raw": "Lisa Caccavella",
+    "amount": "150",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "23",
+    "page": 3,
+    "row": 23,
+    "donor_raw": "Steven Mallery",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "24",
+    "page": 3,
+    "row": 24,
+    "donor_raw": "Shelli Simmons",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "25",
+    "page": 3,
+    "row": 25,
+    "donor_raw": "Denny Henson",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "26",
+    "page": 3,
+    "row": 26,
+    "donor_raw": "Sandy Teryy",
+    "amount": "200",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "27",
+    "page": 3,
+    "row": 27,
+    "donor_raw": "Leslie Hawley",
+    "amount": "200",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "28",
+    "page": 3,
+    "row": 28,
+    "donor_raw": "James Petersen",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "29",
+    "page": 3,
+    "row": 29,
+    "donor_raw": "Ann Decker",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "30",
+    "page": 3,
+    "row": 30,
+    "donor_raw": "Kimberly Funk",
+    "amount": "25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "31",
+    "page": 3,
+    "row": 31,
+    "donor_raw": "Karen Klucznik",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "32",
+    "page": 3,
+    "row": 32,
+    "donor_raw": "Andrew Peterson",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "33",
+    "page": 3,
+    "row": 33,
+    "donor_raw": "Jeff Gray",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "shares the candidate's name as printed; recorded verbatim and not adjudicated this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "34",
+    "page": 3,
+    "row": 34,
+    "donor_raw": "Teri Huchendorf",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "35",
+    "page": 3,
+    "row": 35,
+    "donor_raw": "Raquel Jenson",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "36",
+    "page": 4,
+    "row": 1,
+    "donor_raw": "Jill hernandez",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "37",
+    "page": 4,
+    "row": 2,
+    "donor_raw": "Shauna Chambers",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "38",
+    "page": 4,
+    "row": 3,
+    "donor_raw": "janet Eyring",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "39",
+    "page": 4,
+    "row": 4,
+    "donor_raw": "SuAnn Taylor",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "40",
+    "page": 4,
+    "row": 5,
+    "donor_raw": "Nathan Ricks",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "41",
+    "page": 4,
+    "row": 6,
+    "donor_raw": "Steve Gray",
+    "amount": "150",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "42",
+    "page": 4,
+    "row": 7,
+    "donor_raw": "Brendon Cassity",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "43",
+    "page": 4,
+    "row": 8,
+    "donor_raw": "McKenzie Boyce",
+    "amount": "20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "44",
+    "page": 4,
+    "row": 9,
+    "donor_raw": "Keith Clarke",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "45",
+    "page": 4,
+    "row": 10,
+    "donor_raw": "Christy Reutzel",
+    "amount": "150",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "46",
+    "page": 4,
+    "row": 11,
+    "donor_raw": "Gwen Connors",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "47",
+    "page": 4,
+    "row": 12,
+    "donor_raw": "Kristin Richey",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "48",
+    "page": 4,
+    "row": 13,
+    "donor_raw": "Jerry Johnson",
+    "amount": "75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "49",
+    "page": 4,
+    "row": 14,
+    "donor_raw": "Carly Roberts Lisonbee",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "50",
+    "page": 4,
+    "row": 15,
+    "donor_raw": "Jonee/Mel Lund",
+    "amount": "200",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "51",
+    "page": 4,
+    "row": 16,
+    "donor_raw": "Peggy Hanton",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "52",
+    "page": 4,
+    "row": 17,
+    "donor_raw": "Cory Maloy",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "53",
+    "page": 4,
+    "row": 18,
+    "donor_raw": "Jon Hawkins",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "54",
+    "page": 4,
+    "row": 19,
+    "donor_raw": "Brent King",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "55",
+    "page": 4,
+    "row": 20,
+    "donor_raw": "Kevin Vincet",
+    "amount": "51.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "56",
+    "page": 4,
+    "row": 21,
+    "donor_raw": "Brad Ash",
+    "amount": "103.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "57",
+    "page": 4,
+    "row": 22,
+    "donor_raw": "Douglas Andersen",
+    "amount": "25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "58",
+    "page": 4,
+    "row": 23,
+    "donor_raw": "Janet Dolen",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "59",
+    "page": 4,
+    "row": 24,
+    "donor_raw": "Andrew Caruso",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "60",
+    "page": 4,
+    "row": 25,
+    "donor_raw": "Karla Rojo",
+    "amount": "309.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "61",
+    "page": 4,
+    "row": 26,
+    "donor_raw": "Dorraince Crump",
+    "amount": "103.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "62",
+    "page": 4,
+    "row": 27,
+    "donor_raw": "Cory Bell",
+    "amount": "25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "63",
+    "page": 4,
+    "row": 28,
+    "donor_raw": "Laura Palmer",
+    "amount": "26.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "64",
+    "page": 4,
+    "row": 29,
+    "donor_raw": "Andrew Caruso",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "65",
+    "page": 4,
+    "row": 30,
+    "donor_raw": "Jeffrey Gray",
+    "amount": "25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "spelled 'Jeffrey Gray' here where p3 line 33 prints 'Jeff Gray'; both kept verbatim this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "66",
+    "page": 4,
+    "row": 31,
+    "donor_raw": "Louis Pope",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "67",
+    "page": 4,
+    "row": 32,
+    "donor_raw": "Laurie Dallon",
+    "amount": "25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "68",
+    "page": 4,
+    "row": 33,
+    "donor_raw": "S David Colton",
+    "amount": "1030.26",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "69",
+    "page": 4,
+    "row": 34,
+    "donor_raw": "Oliver Meservy",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "70",
+    "page": 4,
+    "row": 35,
+    "donor_raw": "Connie Stephenson",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "71",
+    "page": 4,
+    "row": 36,
+    "donor_raw": "Bethany Crisp",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "72",
+    "page": 4,
+    "row": 37,
+    "donor_raw": "Barry Johnson",
+    "amount": "515.38",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "73",
+    "page": 4,
+    "row": 38,
+    "donor_raw": "Stephanie Halliday",
+    "amount": "26.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "74",
+    "page": 4,
+    "row": 39,
+    "donor_raw": "Candid Ward",
+    "amount": "26.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "75",
+    "page": 5,
+    "row": 1,
+    "donor_raw": "Jeff Johnson",
+    "amount": "103.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "76",
+    "page": 5,
+    "row": 2,
+    "donor_raw": "Nancy Jones",
+    "amount": "26.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "77",
+    "page": 5,
+    "row": 3,
+    "donor_raw": "Gary Walton",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "78",
+    "page": 5,
+    "row": 4,
+    "donor_raw": "Paul Primhall",
+    "amount": "26.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "79",
+    "page": 5,
+    "row": 5,
+    "donor_raw": "Nate Adamson",
+    "amount": "26.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "80",
+    "page": 5,
+    "row": 6,
+    "donor_raw": "Donald Olsen",
+    "amount": "515.38",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "81",
+    "page": 5,
+    "row": 7,
+    "donor_raw": "AnnMarie Howard",
+    "amount": "51.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "82",
+    "page": 5,
+    "row": 8,
+    "donor_raw": "Andrew Caruso",
+    "amount": "25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "83",
+    "page": 5,
+    "row": 9,
+    "donor_raw": "Corey Bodily",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "84",
+    "page": 5,
+    "row": 10,
+    "donor_raw": "Andrew Caruso",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "85",
+    "page": 5,
+    "row": 11,
+    "donor_raw": "Michele Ann Baird",
+    "amount": "20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "86",
+    "page": 5,
+    "row": 12,
+    "donor_raw": "Guy Fugal",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "87",
+    "page": 5,
+    "row": 13,
+    "donor_raw": "Douglas Edwards",
+    "amount": "51.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "88",
+    "page": 5,
+    "row": 14,
+    "donor_raw": "Kathryn Paxman",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "89",
+    "page": 5,
+    "row": 15,
+    "donor_raw": "William Fowlke",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "90",
+    "page": 5,
+    "row": 16,
+    "donor_raw": "Thomas Brunker",
+    "amount": "515.38",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "91",
+    "page": 5,
+    "row": 17,
+    "donor_raw": "Jeff Gray LOAN",
+    "amount": "5000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own label is 'Jeff Gray LOAN' with the word 'loan' additionally typed in a fourth column to the right of the amount, and it is transcribed verbatim. IT IS AN ITEMIZED CONTRIBUTION ROW ON THIS FILING, decided by the ladder per ADDENDUM B3 and not by the word: this 5,000.00 sits INSIDE the ledger's own printed Total (36,370.74), which is exactly Box B; dropping it would leave 31,370.74 against a printed 36,370.74 and nothing on the cover would absorb it (Box A prints a real 3,517.55 balance of its own). Self-contribution by the candidate. this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "92",
+    "page": 5,
+    "row": 18,
+    "donor_raw": "Michael Carter",
+    "amount": "5000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "93",
+    "page": 5,
+    "row": 19,
+    "donor_raw": "Michael Lundell",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "94",
+    "page": 5,
+    "row": 20,
+    "donor_raw": "Dianna Black",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "95",
+    "page": 5,
+    "row": 21,
+    "donor_raw": "Penny Roberts",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "96",
+    "page": 5,
+    "row": 22,
+    "donor_raw": "Patricia Hansen",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "97",
+    "page": 5,
+    "row": 23,
+    "donor_raw": "Gail Hansen",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "98",
+    "page": 5,
+    "row": 24,
+    "donor_raw": "Lauri Updike",
+    "amount": "20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "99",
+    "page": 5,
+    "row": 25,
+    "donor_raw": "SAFE PAC",
+    "amount": "2000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "100",
+    "page": 5,
+    "row": 26,
+    "donor_raw": "Josh Holyoak",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   },
+   {
+    "line_no": "101",
+    "page": 6,
+    "row": 1,
+    "donor_raw": "United Alliance",
+    "amount": "7500",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the sole entry on the filer's own separate sheet headed 'INKIND' (columns Name / Amount). It is PUBLISHED as a contribution row with in_kind=true but is EXCLUDED FROM THE ANCHOR: the DONATIONS ledger's own printed Total (36,370.74) and Box B state the CASH figure and do not contain it. The INKIND sheet prints no total of its own. this ledger is the FILER'S OWN typed substitute for the county Schedule A and its only columns are Name and Amount — there is no address field of any kind on the sheet, so donor_city and donor_state are blank BECAUSE THE FIELD DOES NOT EXIST (ADDENDUM F4's sixth cause), not because the county redacted it and not because the filer left it empty"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 2,
+    "row": 1,
+    "vendor_raw": "RumblUp",
+    "amount": "273.3",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "2",
+    "page": 2,
+    "row": 2,
+    "vendor_raw": "Rep Women",
+    "amount": "305.2",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "3",
+    "page": 2,
+    "row": 3,
+    "vendor_raw": "TrailBlzr",
+    "amount": "550.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "4",
+    "page": 2,
+    "row": 4,
+    "vendor_raw": "Springville",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "5",
+    "page": 2,
+    "row": 5,
+    "vendor_raw": "Orem",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "6",
+    "page": 2,
+    "row": 6,
+    "vendor_raw": "Eagle Mountain",
+    "amount": "25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "7",
+    "page": 2,
+    "row": 7,
+    "vendor_raw": "Costco",
+    "amount": "68.56",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "8",
+    "page": 2,
+    "row": 8,
+    "vendor_raw": "Ring",
+    "amount": "2879.73",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "9",
+    "page": 2,
+    "row": 9,
+    "vendor_raw": "Costco",
+    "amount": "577.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "10",
+    "page": 2,
+    "row": 10,
+    "vendor_raw": "Walmart",
+    "amount": "63.17",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "11",
+    "page": 2,
+    "row": 11,
+    "vendor_raw": "Sams Club",
+    "amount": "23.04",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "12",
+    "page": 2,
+    "row": 12,
+    "vendor_raw": "Capitol Preservation Board",
+    "amount": "160",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "13",
+    "page": 2,
+    "row": 13,
+    "vendor_raw": "BIVIO",
+    "amount": "3853.27",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "14",
+    "page": 2,
+    "row": 14,
+    "vendor_raw": "BCR",
+    "amount": "14.4",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "15",
+    "page": 2,
+    "row": 15,
+    "vendor_raw": "BIVIO",
+    "amount": "2639.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "16",
+    "page": 2,
+    "row": 16,
+    "vendor_raw": "BLIP",
+    "amount": "2932.86",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "17",
+    "page": 2,
+    "row": 17,
+    "vendor_raw": "Westpro",
+    "amount": "744.96",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "18",
+    "page": 2,
+    "row": 18,
+    "vendor_raw": "USPS",
+    "amount": "850.94",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "19",
+    "page": 2,
+    "row": 19,
+    "vendor_raw": "BIVIO",
+    "amount": "12788.68",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   },
+   {
+    "line_no": "20",
+    "page": 2,
+    "row": 20,
+    "vendor_raw": "BCR",
+    "amount": "9000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed EXPENDITURES ledger has only two columns, 'Who' and 'Amount' — it prints no date column and no purpose column, so date and purpose are honestly blank for every row on this side because THE FIELDS DO NOT EXIST"
+   }
+  ],
+  "notes": "2022 cycle, `modern_boxAF`, revision **v. 4.20** (footer-printed on p1 and p7) — the §J1 CARRY-OVER blank, not the newer 2022 one: FIVE report types on the cover (no End-of-Year), 'Date of Report' + 'Page' foliation boxes, and an UNLETTERED close box ('Balance at Close of Reporting Period (Box F - Box D)' carries no letter G). All 8 pages rot 0 (pdfinfo -f 1 -l 8); no rotation handling needed. Creator 'Canon iR-ADV C7770 PDF', Form: none — a scan; the county form pages are crisp born-digital-looking type and the ledger sheets are the filer's own typed output. PAGE STRUCTURE, every page classified from its own printed header and NEVER from its ordinal: p1 COVER; p2 the filer's own sheet headed 'EXPENDITURES' (columns Who / Amount); p3, p4 and p5 the filer's own sheets headed 'DONATIONS' (columns Name / Amount — the heading and the 'Total' appear only on p3 and p5 respectively, so p4 is an unheaded continuation identified by its position between them and by the ledger's single total covering all three); p6 the filer's own sheet headed 'INKIND'; p7 the county 'Summary Page'; p8 BLANK. **THE COUNTY'S SCHEDULE A AND SCHEDULE B FORMS ARE ABSENT AND THAT IS NOT A GAP** — this is the §A2 / §E5 case: what is missing is the county's FORM, not the filer's entries, so both sides are `transcribed` and neither is `no-schedule-page`. **NO CHECKLIST DECOY is bound in this filing.** THE SUMMARY PAGE IS AT p7, NOT LAST — p8 is a blank sheet behind it — so an ordinal rule would have missed it; it was located by its printed heading and lettered boxes. PAGE-FACE IDENTITY: candidate 'Jeff Gray'; Office box prints 'Utah County Attorney'; the report-type radio FILLED is 'Seven days preceding the Primary Election'; signature present in the clear; Date and Date of Report both 'June 21, 2022'; the Page foliation box is left WHOLLY BLANK on both p1 and p7, so the document carries no foliation evidence at all. **THE AMENDMENT QUESTION IS WHOLLY UNANSWERED** (both radios are empty circles) — an honest blank, never read as 'No'. index.csv's channel label agrees on candidate, office and period ('Primary'). NO REDACTION ANYWHERE, judged per cell: the filename carries no `_Redacted` suffix and the candidate's own address, phone, email and signature are all published in the clear (the address is not carried into this record regardless). ⚠ **THE FILER'S COVER LADDER DOES NOT CLOSE, AND IT IS RETAINED VERBATIM AND NOT ADJUDICATED.** Box A + Box B = 3,517.55 + 36,370.74 = 39,888.29, but Box F prints **39,888.28** (one cent low); and Box F - Box D = 39,888.28 - 37,900.38 = 1,987.90, but the close box prints **2,456.32** (468.42 high). Every one of those six figures was re-cropped individually at 500 dpi and each reproduced exactly as printed, so this is the FILER'S OWN arithmetic, not a misread. IT TOUCHES NEITHER SIDE'S ANCHOR: Box B and Box D are each independently corroborated by the filer's own ledger totals, which the transcribed rows reproduce to the cent, so both sides remain `exact`. No figure was differenced across covers and nothing was nudged to make the ladder work. SAME FILER, TWO DOCUMENTS IN THIS CHUNK: key 2904e2a5 is `raw/2022/2022_Gray_Jeff_Redacted.pdf`, a cover-only one-page PDF of his 30-days-after-General report; the two were transcribed independently, neither was used to fill the other, and note the opposite redaction practice between them (that one has its address and signature blacked out, this one publishes both in the clear — redaction is a per-document fact, §K4). Amounts on the filer's ledgers are printed WITHOUT trailing zeros where the cents are nil ('273.3', '305.2', '14.4', '50', '9000') and are kept exactly as printed."
+ }
+]

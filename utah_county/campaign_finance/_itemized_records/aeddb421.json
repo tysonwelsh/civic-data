@@ -1,0 +1,44 @@
+[{
+ "index_path": "raw/2022/2022_Diamond_Steven_4.11.2022_Redacted.pdf",
+ "key": "aeddb421",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r10_02)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4, 5, 6],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "empty-schedule", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' = 0 on the p4 Summary Page, corroborated by Schedule A's own printed 'Subtotal for this page $ 0' and 'Total Contributions Received $ 0' (p2)",
+   "detail": "Schedule A (p2) is a fully printed 15-row boxed grid with NOT ONE cell filled — no banner, no stroke, no nil mark inside the grid — and the filer typed a plain '0' in both printed footers. Zero rows are published; 0 rows sum to 0.00 = the printed page subtotal 0 = the printed Total Contributions Received 0 = the promoted per-period cell Box B (0). Box C 'Contributions Received Year to Date' prints 3000.00 and is the CUMULATIVE cell: it is never summed as an increment, and it means this filer's contributions were received in earlier periods that THIS report does not itemize."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' (557.82) on the p4 Summary Page, which is also Schedule B's own printed 'Subtotal for this page $ 557.82' and its 'Total Expenditures Made $ 557.82'",
+   "detail": "The single Schedule B row sums to 557.82 exactly = the printed page subtotal = the printed Total Expenditures Made = the cover's promoted PER-PERIOD cell Box D. Box E 'Expenditures Made Year to Date' prints 3000.00 and is retained as cumulative, never summed. (Box A 557.82 and Box F 557.82 also equal the figure, and Balance at Close prints 0 = F - D, so the summary ladder closes on its own terms.)"
+  }
+ },
+ "in_kind_convention": "monetary-only closed. This is the v. 4.20 blank, whose Schedule A columns are Date / Name of Contributor / Address and Zip Code / Amount and whose Schedule B columns are Date / Provider/Vendor / Purpose / Amount — NEITHER schedule prints an in-kind column or checkbox (that is the NEWER unversioned 2022 blank, not this one), and no row or box on this filing carries an in-kind marking. Both conventions were tested on both sides and give the same figures: contributions 0 = Box B 0; expenditures 557.82 = Box D 557.82.",
+ "escalations": 1,
+ "escalation_note": "One 900 dpi tight value crop of the p3 row-1 amount cell (aeddb421_p3r1.png) to confirm the machine-typed figure and rule out a clipped right-hand digit (this is a born-digital fillable form printed and rescanned, so the amount is machine type): it rendered '557.82' cleanly inside its box with the box's right rule visible beyond the '2' — no §G2 column overflow on this filing.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [78.60, 91.60],
+   "cells": [[8.52, 21.58], [21.58, 51.04], [51.04, 78.60], [78.60, 91.60]],
+   "rows": [[15.98, 20.25], [20.25, 24.55], [24.55, 28.86], [28.86, 33.18], [33.18, 37.45], [37.45, 41.68], [41.68, 45.86], [45.86, 50.09], [50.09, 54.39], [54.39, 58.64], [58.64, 62.91], [62.91, 67.14], [67.14, 71.36], [71.36, 75.68], [75.68, 80.00]],
+   "measure_note": "modern_boxAF v. 4.20 Schedule B is a FULLY BOXED 15-row grid, so a row lies BETWEEN its own two printed rules and NOTHING is extrapolated (the legacy §A1 above-the-rule rule does not apply here). rowbands.py at 200 dpi (raw frame, skew -0.8) returns 16 grid rules at 15.98 / 20.25 / 24.55 / 28.86 / 33.18 / 37.45 / 41.68 / 45.86 / 50.09 / 54.39 / 58.64 / 62.91 / 67.14 / 71.36 / 75.68 / 80.00 (a 17th at 89.16 is the Subtotal/Total underline BELOW the grid, excluded), yielding exactly 15 data bands at a pitch of ~4.28, which matches the 15 printed rows counted on the full-page read. The four v_rules 8.52 / 21.58 / 51.04 / 78.60 / 91.60 are the column bands (Date / Provider-Vendor / Purpose / Amount). TWO-CROP PROOF at 900 dpi: the row-1 amount box pct:78.6,15.98,13.0,4.27@p3 rendered '557.82' (the figure recorded for row 1), and the ONE-PAST-THE-END control at pct:78.6,20.25,13.0,4.30@p3 (band 2) rendered an EMPTY cell bounded by its two rules — no figure below the last transcribed row, so trap §F1.5 (ledger continuing under the last rule) and trap §H3 (two entries in one band) are both ruled out here, and the band list is not off by one."
+  }
+ },
+ "contributions": [],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "04-11-2022",
+   "vendor_raw": "Steven Diamond",
+   "purpose": "reimbursement of donations to my campaign",
+   "amount": "557.82", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "The vendor is the CANDIDATE HIMSELF and the purpose cell is his own typed wording, carried verbatim. This is the modern v. 4.20 Schedule B, which prints a REAL Purpose column (Date / Provider/Vendor / Purpose / Amount) — captured. Machine-typed fillable-form text, not handwriting; the amount is right-aligned well inside its box (crop-proved)."}
+ ],
+ "notes": "6-PDF-page document = a 4-page filing + a clerk work product + a blank. Classified from each page's own printed header, never by ordinal: p1 COVER (Office box prints 'Utah County Commissioner Seat A' — LEGIBLE and unredacted on THIS filing; type of report = '30 Days after withdrawal or elimination', the filled radio; the amendment question is answered NEITHER Yes nor No — an honest blank, not 'No'; Date of Report 04-11-2022, signature dated 04-11-2022), p2 SCHEDULE A - Itemized Contributions Received (blank grid, printed 0s in both footers), p3 SCHEDULE B - Itemized Expenditures Made (ONE row), p4 SUMMARY PAGE (located by content; boxes A / B / C / D / E / F and an UNLETTERED 'Balance at Close of Reporting Period (Box F - Box D)' — the v. 4.20 signature, NOT the lettered G of the newer 2022 blank), p5 the ELECTIONS DIVISION 'Campaign Financial Disclosure Checklist' — THE DOCUMENTED CHECKLIST DECOY, TWO staff-signed review copies on one sheet (red ticks + 'Justin' signature dated 4/18/22 above the dotted rule; a second black-ink X'd copy signed 'Karlee Jo Jarvis' dated 4/20/2022 below it), carrying ZERO dollar figures and born-digital clean while the report pages are photocopy-grade — it is NOT a summary page and publishes nothing; p6 BLANK. So this filing binds a checklist at p5 with the genuine summary at p4, matching the observed 5-after-4 pattern exactly. FORM: modern_boxAF, revision 'v. 4.20' printed in the footer of pp1-4 (the older of the two 2022 blanks: 4-column Schedule A headed 'Address and Zip Code', five report types, foliated 'Date of Report / Page' 1-4). TWO MASTHEAD VINTAGES INSIDE ONE FILING (the §J5 modern-era instance of independently stocked sheets): pp1 and 3 are headed 'Josh Daniels Clerk/Auditor' while pp2 and 4 are headed 'Amelia Powers Gardner Clerk/Auditor' — the two Clerk/Auditors bracket this cycle, and note Powers Gardner is herself a 2022 Commission Seat A filer in this same corpus. REDACTION IS PER CELL, judged from the page: the cover's Address/City/State/Zip block and the Signature block are BLACKED OUT BY THE COUNTY, while the Phone Number and Email print in the clear (neither is carried into this record, per privacy); no schedule cell on this filing is redacted, and Schedule A is blank because the FILER ENTERED NOTHING, not because anything was obscured. Page-face candidate name 'Steven Diamond' on all five report pages; index.csv's channel label is 'Steven Diamond' too, so no divergence. The module's known note that the page-face name elsewhere reads 'Steven C ...' is not contradicted here — every name field on this document prints plainly 'Steven Diamond'. DO NOT let this filing's legible Seat A inform its 3/30/22 sibling, whose Office box the county redacted; that filing's office remains a low-confidence corroboration in the module, and nothing here promotes it."
+}]

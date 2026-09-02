@@ -1,0 +1,144 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C14.json",
+ "key": "e4c64004",
+ "index_path": "raw/2018/2018_cc_Michael_E_Johnson.pdf",
+ "applies_to": [
+  "raw/2018/2018_cc_Michael_E_Johnson.pdf"
+ ],
+ "sha256_prefix": "fdd4026fa702e54c",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "cover_le50_last": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "none -- no printed figure exists to score against",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "HONEST ZERO, NOT A GAP. Form A (p2) is present and completely EMPTY: the printed grid is there, all ~40 ruled lines are unwritten, no strike-out, no marks of any kind, and the whole page was rendered and looked at. Cover lines 1 and 2 are likewise blank in ALL THREE columns (LAST, THIS, CUMULATIVE) -- the filer filled in only the expenses line. So the side is 'transcribed' with zero rows, but result is 'unknown' rather than 'exact' because there is no printed figure anywhere on the document to gate against: the Carr form prints no schedule total, and per the contract a blank cover cell is '' (the field exists, the filer left it blank) and NEVER becomes 0. A consumer should read this as 'the filer reported no itemized contributions', not as a transcription shortfall."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "365.09",
+    "cover_balance_end": "",
+    "schedule_total": null,
+    "page_subtotal": null,
+    "filer_written_page_foot_total": "365.09"
+   },
+   "itemized": "365.09",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "4 itemized rows sum to exactly 365.09 (115.31 + 87.95 + 61.83 + 100.00), which equals the cover's line 3 CUMULATIVE REPORT cell, the ONLY money figure the filer wrote on the cover -- LAST and THIS are both blank there, so the cumulative column is the only scope on offer and the rows sit on it. It is independently corroborated by an unlabelled '365.09' the filer wrote in the bottom-right margin of Form B itself, below the last ruled line and outside the grid; that is not a printed field (the Carr Form B has no total box) so it is recorded as filer_written_page_foot_total rather than as schedule_total, and it is not emitted as a row. The gate also settles a glyph: row 2 could be read 87.95 or 37.95, and only 87.95 closes -- arithmetic decides, per the Rhodes rule."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "The Carr 5-5-PG prints no schedule total and no page subtotal on either schedule, so the cover is the only printed anchor and the sole non-blank cell on it is line 3 CUMULATIVE. Form B gate: p3 rows 365.09 = cover line 3 CUMULATIVE 365.09, EXACT (and equal to the filer's unlabelled page-foot figure). Form A gate: nothing to gate -- schedule empty, cover line blank.",
+  "row_count": "rowbands.py p3 returns geometry_status 'gaps' with only four h-rules (8.86 = header underline, then 48.77/51.08/72.02 from the empty lower page) -- it recovers no usable grid on this sheet, so it is not usable as the row count and is reported as such rather than applied. Counted by ink instead: exactly 4 inked lines at the top of the grid, all four fully populated across all four columns (date, payee, purpose, amount), and every ruled line below is empty all the way to the footer -- confirmed on the full 200 dpi page and by the empty control crop. 4 rows emitted. On p2 the same count by ink is ZERO inked lines.",
+  "geometry_proof": "p3: first-row crop pct:82.50,10.20,13.00,2.20 renders '115.31'; last-row crop pct:82.50,17.46,13.00,2.20 renders '100.00'; control one pitch past the last row (19.88) renders EMPTY (bare rule only). Measured pitch 2.42 pct of page height, taken from the ink because the tool found no rules.",
+  "balance_chain": "NOT TESTABLE and honestly so: cover line 4 (balance at end of period) is blank in all three columns, and lines 1-2 are blank too, so the form supplies no receipts figure and no beginning or ending balance -- there is nothing to chain. No earlier filing by this filer is in this chunk, so no cross-filing chain either. The one internal identity that CAN be checked does hold: the expenses the filer itemized equal the expenses he carried to the cover."
+ },
+ "escalations": 3,
+ "escalation_note": "p3 amount column re-read as a 600 dpi band over all four rows; p3 date column re-read as a separate 600 dpi band (row 4's year glyph); three 600 dpi single-cell geometry-proof crops. Cover totals block and the clerk date stamp read at 300-400 dpi.",
+ "notes": "index.csv calls this Michael E Johnson / County Council / 2018 and the cover's own lines agree: 'Full Name of Candidate Michael E Johnson', 'Name of Office County Council', 'Office District Southeast', 'Political Party Republican', addressed 'TO Jill Zollinger, County Clerk'. IN SCOPE (county office). THE DOCUMENT CONTRADICTS THE CHUNK FILE ON DATE: the chunk row says 2018-05-16, but the filer's own signature line reads '4/20/18' and the clerk's date stamp on the same page reads 'CLERK APR 20 18 PM 12:56:31'. Two independent marks on the page say 20 April 2018; transcribed from the form and flagged here. This is an INTERIM report (its four expenditures run 12 March to 16 April 2018, all pre-primary). PRIVACY: the cover prints the candidate's home street address, a PO box, the ZIP and a home phone in the clear -- all discarded at read time. No donor privacy question arises because Form A is empty. p4 is the statute page (Cache County Code 2.21.040 / 2.21.050 printed in full), carrying no filer data.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-03-12",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "115.31",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,10.20,13.00,2.20@p3",
+   "note": ""
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2018-03-28",
+   "vendor_raw": "Square One",
+   "purpose": "Signs",
+   "amount": "87.95",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,12.62,13.00,2.20@p3",
+   "note": "leading digit is an open-topped 8 that could be read 3 (87.95 vs 37.95); the schedule gate settles it -- only 87.95 sums to the cover's 365.09. Arithmetic over glyph, per the Rhodes rule"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2018-04-16",
+   "vendor_raw": "Square One",
+   "purpose": "Signs",
+   "amount": "61.83",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,15.04,13.00,2.20@p3",
+   "note": "this row and the next use hyphen-separated dates (4-16-18) where rows 1-2 use slashes -- transcribed to ISO either way"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2018-04-10",
+   "vendor_raw": "Cache GOP",
+   "purpose": "Table @ Conv.",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,17.46,13.00,2.20@p3",
+   "note": "out of chronological order -- 4-10-18 follows 4-16-18 on the sheet; kept in printed order per the line_no rule. The year glyph is a looped 8 that at 600 dpi could be taken for a 9; read 18, consistent with the same glyph in row 1 and with a report signed 4/20/18, hence date=medium. Purpose written 'Table @ Conv.' -- the connector is an @ or a small a-with-tail; transcribed '@'. '100.' with superscript '00' = 100.00"
+  }
+ ]
+}

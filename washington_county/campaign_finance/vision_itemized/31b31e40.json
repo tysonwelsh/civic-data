@@ -1,0 +1,94 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W04.json",
+ "key": "31b31e40",
+ "index_path": "raw/state_disclosures/washington_2010 Elections_Denny Drake 4-5-10.pdf",
+ "applies_to": [
+  "raw/state_disclosures/washington_2010 Elections_Denny Drake 4-5-10.pdf"
+ ],
+ "sha256_prefix": "6bd33e316e3933ce",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen1-carr-ruled-lines",
+  "expenditures": "gen1-carr-ruled-lines"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "",
+    "cover_le50_cum": "0",
+    "cover_balance_end": "0",
+    "schedule_total": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is a completely blank Carr 5-5-PG ruled sheet: no dates, no names, no amounts on any of its ~40 writing lines. Cover line 1 carries a handwritten '0' in the CUMULATIVE cell and blank LAST/THIS cells; the Gen-1 form prints NO schedule total (schedule_total null), so the cover line is the only anchor. First report of the 2010 cycle (signed April 5 2010), so THIS and CUMULATIVE coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "225.00",
+    "cover_expense_this": "225.00",
+    "cover_expense_cum": "225.00",
+    "cover_balance_end": "0",
+    "schedule_total": null
+   },
+   "itemized": "225.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Single Form B row 225.00 equals cover line 3 THIS (225.00) and CUMULATIVE (225.00). Gen-1 form prints no schedule total. ANOMALY: the filer also wrote 225.00 in the TOTALS FROM LAST REPORT cell of line 3 on what is his first 2010 report; had that cell meant a real prior total the cumulative would be 450.00. Retained verbatim as printed; scored on the THIS==CUMULATIVE pair."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Gen-1 Carr form prints NO schedule totals on either Form A or Form B (the sheet ends with '(If additional space is needed, use blank paper ...)'), so no page-subtotal gate exists; the cover lines are the only anchors and both close.",
+  "row_count": "rowbands.py finds no reliable grid on these ruled-line (not boxed) sheets; counted ink by eye: p2 zero inked writing lines out of ~40; p3 one inked line out of ~40, immediately under the header rule.",
+  "geometry_proof": "p3 first-row crop (=last row, only row) at 1200 dpi renders '3-12-2010 / Washington County / Filing fee / 225 superscript-00'; control crop one row-pitch below (200 dpi y=227) renders an empty ruled line, no ink.",
+  "balance_chain": "DOES NOT CLOSE as printed: beginning (not a field on this form) + contributions 0 - expenditures 225.00 = -225.00, but cover line 4 CUMULATIVE balance is a handwritten '0'. The filer paid the 225.00 filing fee without recording any offsetting contribution and still declared a zero end balance. Both figures retained verbatim. No earlier 2010 filing by this filer is in this chunk, so no cross-filing cumulative chain could be run."
+ },
+ "escalations": 3,
+ "escalation_note": "p3 amount cell at 1200 dpi (confirms 225 with superscript 00 over the rule); p3 control band one pitch below at 1200 dpi (empty); p1 cover anchor grid at 600 dpi (confirms the three 225.00 cells, the two written '0's on lines 1-2 CUMULATIVE and the '0' on line 4 CUMULATIVE).",
+ "notes": "Generation 1 (Carr Printing 5-5-PG, cover cites Utah Code 17-16-6.5, the cover cites 'The law is also printed on page four of this report' but THIS PDF HOLDS ONLY 3 PAGES - the statute page was not scanned/retained; no data is lost by that). Chunk file says candidate 'Dennis Bruce Drake', office 'Commission Seat B': the cover's 'Full Name of Candidate' reads 'Dennis Bruce Drake' and 'Name of Office' reads 'Washington County Commission Seat B' - both AGREE. County office, in scope. Cover date 'April 5, 2010'; RECEIVED stamp APR 5 2010, Washington County Clerk-Auditor. Candidate home address, ZIP, home phone and business phone printed in the clear on the cover were discarded at read time per privacy rule.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-03-12",
+   "vendor_raw": "Washington County",
+   "purpose": "Filing fee",
+   "amount": "225.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.96,8.19,11.46,2.20@p3",
+   "note": "amount written as '225' with a superscript '00' over the rule -> 225.00 per the superscript-cents convention; date written '3-12-2010'"
+  }
+ ]
+}

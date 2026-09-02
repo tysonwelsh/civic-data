@@ -1,6 +1,7 @@
 # AVAILABILITY — Washington County county-office campaign finance
 
-**As-of 2026-08-01.** Sources checked, what each held, and what is honestly missing.
+**As-of 2026-08-01; itemisation of the machine-readable era CLOSED 2026-08-23 (§8).**
+Sources checked, what each held, and what is honestly missing.
 Method and channel anatomy: **`RECON.md`** (read it first). Per-file provenance:
 `index.csv` + `raw/<channel>/_fetch_log*.jsonl`.
 
@@ -111,22 +112,19 @@ in an odd year. Office is therefore decided on the form's **office line**, with 
    one by one from the office line inside the form (`office_determinations.csv`): **7 promoted
    into the index as county-office, 38 school board, 1 a STATE House seat filed on the county
    form.** `unrecovered.csv` is now **12 rows** total.
-7. **The money layer: STATED TOTALS for all 206 filings + a BORN-DIGITAL ITEMIZED LAYER for
-   43 of them (2026-08-02).** `filing_totals.csv` carries what each filing's cover/summary
-   PRINTED as its totals. `contributions.csv` (**181 rows**) / `expenditures.csv` (**308
-   rows**) carry the itemised ledgers of the born-digital 2010–2015 file-sets, parsed by the
-   registered `washco_split` family and **reconciliation-gated**: 15 contribution sides and 39
-   expenditure sides summed EXACTLY to the filing's own stated total and shipped; every other
-   side emitted **nothing** with a stated reason. 100% of emitted rows carry `geometry` (real
-   `Sheet1!F5` cell references on the `.xls` generations). **0 of 206 `stated_*` values
-   changed.**
-   The remaining gap is real and now measured: the **100 HANDWRITTEN cover forms** are still
-   unitemized (Phase B / vision work), the **4 ledger-only 2008 postings emit no rows by
-   design** (they print no totals to reconcile against), and most born-digital sides are
-   withheld because the Summary states a PER-PERIOD increment while the ledger restates the
-   WHOLE CYCLE TO DATE — different quantities, and reconciling them would be our arithmetic,
-   not the county's (`CLAUDE.md` "The BORN-DIGITAL itemized layer"). An empty itemized side
-   still means *not transcribed / not reconcilable*, never *no donors*.
+7. **The money layer: STATED TOTALS for all 206 filings + a MACHINE-READABLE ITEMIZED LAYER
+   that is now CLOSED (re-parsed 2026-08-23 — full verification in §8).**
+   `filing_totals.csv` carries what each filing's cover/summary PRINTED as its totals.
+   `contributions.csv` (**1,518 rows**) / `expenditures.csv` (**1,738 rows**) carry the
+   itemised ledgers of **all 102** born-digital 2010–2015 file-sets — 101 filings with rows,
+   one honest empty — parsed by the registered `washco_split` family, **completeness-gated**
+   (one side withheld) and scope-aware **reconciliation-verdicted**. 100% of rows carry
+   `geometry`. **0 of 206 `stated_*` values changed**, then or now.
+   The remaining gap is real and measured: the **100 HANDWRITTEN cover forms** are still
+   unitemized (a vision wave — §9 ledgers it by year and office) and the **4 ledger-only 2008
+   postings emit no rows by design** (they print no totals to reconcile against). An empty
+   itemized side still means *not transcribed / empty schedule*, never *no donors*.
+   ⚠ The ledgers restate the cycle to date: **never sum rows across a cycle** (§8.2).
 
 ## 5. Portal defects found (labels that lie — all verified against file content)
 
@@ -222,3 +220,293 @@ in `portal_stated_totals.csv` are **the only surviving record**, and they are re
    "last money token on the line" reader **will** mis-column in-kind and loan rows; this is
    exactly why the 2011 Pulsipher ledgers were left uncounted in this tranche.
 3. **2006 + 2016–2025 handwritten Form A/B** — vision territory, the largest effort.
+
+*(Steps 1 and 2 were executed 2026-08-23 — see §8. Step 3 is the remaining queue, §9.)*
+
+---
+
+## 8. THE PARSER TRANCHE — VERIFICATION (2026-08-23)
+
+**Scope: the MACHINE-READABLE era, and it is now CLOSED there.** No page image was read; no
+handwritten filing was touched; **0 of 206 `stated_*` / candidate / office / filing-date values
+moved** (proved by a column-level diff against the pre-tranche `filing_totals.csv`).
+
+### 8.1 The queue, derived from `index.csv` — not from a prior sizing
+
+A prior scoping note sized this work as "189 spreadsheet + 125 text machine-readable, 95
+scanned". That counts **FILES**, and this county's unit of work is a **FILING**. Derived here
+from `index.csv` joined to the 206 filing caches:
+
+| filing class | filings | files | index `format` of those files | whose queue |
+|---|---:|---:|---|---|
+| born-digital `summary_sheet` (Summary + Contributions + Expenditures, 2010–2015) | **102** | **301** | 189 spreadsheet + 112 text | **this tranche** |
+| `ledger_only` (2008 HB-29 `Detailed … Report` pairs + one 2011 pair) | **4** | **8** | text | machine-readable, but emits nothing — §8.5 |
+| `cover_form` (handwritten 17-16-6.5, 2006 + 2016–2025) | **100** | **100** | **95 scanned + 5 `text`** | the vision queue, §9 |
+| | **206** | **409** | | |
+
+⚠ **The scanned count is 100 filings, not 95.** Five files carry a text layer holding nothing
+but a stamped transmittal note while the report faces are images (Dean Cox 2016, Gil Almquist
+2016 ×2, Ryan Sullivan 2024 ×2), so `index.csv` `format` calls them `text`. The authority on who
+owns a filing is its cache's `transcribed_by`, never the index's `format` — the same trap
+`extract_born_digital.py`'s hard guard already exists for.
+
+### 8.2 What was published
+
+| | |
+|---|---:|
+| file-sets parsed | **102 of 102** |
+| filings carrying at least one itemized row | **101** (the 102nd, Whitehead 6/15/2010, has an empty ledger on both sides — honest) |
+| **contribution rows** | **1,518** (was 181) |
+| **expenditure rows** | **1,738** (was 308) |
+| rows carrying `geometry` | **3,256 of 3,256 (100%)** — 2,659 real `Sheet1!F5` cell refs, **597 `pct:` boxes** |
+| cycles / filers / offices | 2010, 2012, 2014 · 34 filers · all 9 county offices |
+| gross itemized | $560,319.17 contributions · $528,128.44 expenditures **— see the restatement warning below** |
+
+**⚠ NEVER SUM THESE ROWS ACROSS A CYCLE.** The ledgers restate the whole cycle to date, so the
+same donation is republished under every later deadline: the 1,518 contribution rows carry only
+**676 distinct donations** and the 1,738 expenditure rows **758 distinct payments**. Every row
+therefore ships `is_incremental=False`, and a cycle total is the **latest filing's ledger**.
+
+### 8.3 The 204 sides, and the basis each was scored on
+
+| verdict | sides | what it means |
+|---|---:|---|
+| `stated-exact` | **57** | sums EXACTLY to the figure in `stated_total_*` → `reconciles_*=True`, delta `0.00` |
+| `cumulative-exact` | **63** | sums EXACTLY to the summary sheet's **own column read down to this deadline** → `reconciles_*` left **BLANK** |
+| `delta` | **42** | a PROVABLY COMPLETE parse matching neither printed figure → published verbatim, `reconciles_*=False`, `needs_review=1` |
+| `empty-schedule` | **41** | the ledger exists and prints no lines |
+| **`withheld`** | **1** | the parse is provably short — nothing published |
+
+**Why `cumulative-exact` leaves `reconciles_*` BLANK rather than True.** Under the
+owner-ratified RECONCILIATION-BASIS RULE a side is scored against the printed figure that
+matches ITS OWN SCOPE. These rows reconcile to the cent against a quantity the sheet states,
+but that is a *different scope* from the single printed row this module publishes in
+`stated_total_*`. Asserting `True` would claim a match the published columns do not make. This
+is the mirror of `utah_county`'s `cumulative-exact` verdict and is treated identically there.
+**A blank `reconciles_*` here is NOT a failure.**
+
+**Why `delta` sides are published rather than withheld.** Publication is gated on
+**completeness**, not agreement: the family reports how many money-bearing rows it FOUND in each
+ledger body against how many it EMITTED, and they must agree. On a complete parse the residual
+can only be the FILER's arithmetic — a fact about the document — so the rows ship verbatim with
+every competing printed figure named in `filing_totals.notes`. `recon_delta_*` is left blank on
+purpose: differencing a cycle-scoped sum against a period-scoped total is a basis error, not a
+delta (utah_county reached the same conclusion 2026-08-20 and reverted the derivation).
+
+Worked example, verifiable in the source: **Brock Belnap, Attorney, 2010** — the contributions
+ledger prints one line, `Brock Belnap 3/12/2010 $500.00`, while the summary states `$0.00`
+contributions, `$500.00` expenditures and a `-$500.00` balance. The filer omitted his own
+contribution from the summary. The row is published; the summary is not corrected.
+
+**The one withheld side: Cory Pulsipher, Sheriff, 2010-04-06 contributions.** The county's own
+export prints **`$5,00.00`** for the Accu Form Plastics line (the summary's arithmetic implies
+$5,000.00). A malformed money token is never repaired, so that row cannot be emitted, so the
+side's sum is provably short and the whole side emits nothing with the reason recorded.
+
+### 8.4 Four defects found in the reading path, each fixed at emission
+
+1. **Multi-page column drift (the largest loss).** The ledgers were read through
+   `pdftotext -layout`, whose character-cell reconstruction is **not stable between pages of one
+   document**: on `Expenditures - Rob Tersigni.pdf` the Amount column lands at character columns
+   40-47 on page 1 and 19-26 on page 2, while the header is printed once, on page 1. Every row
+   on pages 2+ failed the column test and was dropped — that 2-page file emitted **23 of its 36
+   rows**, and its 4-page sibling `6-15-2010 Expenditures - Rob Tersigni.pdf` **23 of 77**. In
+   the PDF's own coordinates there is no drift at all (both files' amounts right-align to
+   `x=305.0` on every page). The module now reads word boxes from `pdftotext -bbox-layout`
+   (`bbox_lib.py`), builds ONE column model from the printed header, and applies it to every
+   page. That also yields the `pct:` geometry these rows now carry — measured, not inferred.
+2. **In-kind and loan figures dropped silently.** Rows whose money sits in the `In Kind` or
+   `Loan` column with `Amount` empty were skipped without a word. Kevin Brooks 2010 is the
+   specimen: J Ryan Lee's `$400.00 / $100.92 / $243.13` right-align to `x=454` under `In Kind`
+   while cash amounts right-align to `x=395` under `Amount`, and the summary's own `$744.05`
+   row proves the county counts them as contributions. They now ship with `in_kind=True`; a
+   Loan-column figure ships as `donor_type='loan'`.
+3. **A second stacking layout, and a PRIVACY leak waiting in it.** The 2014–15 workbooks print
+   NAME INLINE with the figures and the street address on the row below; the **2012** generation
+   prints the NAME ABOVE and the ADDRESS on the figures' row. Read as if it were the first, the
+   *address* becomes `donor_raw`. The two are told apart by whether the figure row's own name
+   cell reads as an address, and a held-over line **carrying digits is always an address**
+   (`460 N 2460 W, Hurricane UT 84737` matches no street-word hint) — kept as city/state only.
+4. **The multi-file emission bug** (`SCHEMA.md` §2a caveat 1, queued since 2026-08-02). Rows
+   were stamped with the *group's* Summary file as `source_filing` while their `line_no` and
+   `geometry` were measured inside the ledger file, so `(source_filing, line_no)` — the schema's
+   itemized-row key — pointed at the wrong document. **Fixed at emission**: each row now names
+   the part file it was read from. `make_snippet.py` no longer needs its span-content repair for
+   this family.
+
+Also corrected in the same pass: the workbooks' expenditure sheets head their date column
+**`Date`**, not `Received`, so the column was never located and 1,174 rows shipped with a blank
+date beside a perfectly good Excel serial.
+
+### 8.5 What this tranche deliberately did NOT publish
+
+* **The 4 `ledger_only` 2008 postings.** The `Detailed … Report` prints its column header once
+  and re-lays the table out on every following page, and the filing prints no total at all —
+  there is nothing to prove completeness against. Their counted sums remain in
+  `portal_reconciliation.csv`, labelled *counted*, never *stated*.
+* **The 100 handwritten cover forms** — §9.
+
+### 8.6 Geometry, proved rather than asserted
+
+Two-crop + control render on the page the old reader dropped entirely —
+`Expenditures - Rob Tersigni.pdf` **page 2**, 13 emitted rows:
+
+| crop | region | renders |
+|---|---|---|
+| first row | `2/pct:44.00,11.12,5.86,1.24` | `Office Max │ │ $153.98 │ │ Mailing` |
+| last row | `2/pct:44.00,50.76,5.86,1.24` | `WalMart - Costco │ │ $547.87 │ │ Dinner & Gala` |
+| **control**, one row pitch (3.30 pct) past the last | `2/pct:44.00,54.06,5.86,1.24` | **empty ruled cells** |
+
+— so no row was missed and no row index is shifted (the failure mode that still SUMS and which
+the arithmetic gate therefore cannot see). Resolve any row with
+`python3 scripts/campaign_finance/make_snippet.py --csv washington_county/campaign_finance/contributions.csv --row N --module washington_county/campaign_finance`.
+Spreadsheet rows carry a real cell reference and **no page image exists for them** — that is the
+honest n/a, not a missing value.
+
+### 8.7 Reproducibility
+
+`python3 extract_born_digital.py && python3 build_finance.py` re-runs **byte-identical** on all
+three CSVs. `extract_born_digital.py` rewrote only the 106 born-digital caches and only their
+`generated_utc` line; **no `vision-transcribed` cache was touched** (its hard guard held).
+`validate_finance.py` → **PASS (0 fails, 203 warns)**, all 203 warns the structural
+`409 − 206 = 203` companion-file warning this dataset has always carried.
+
+## 9. THE REMAINING QUEUE — 100 handwritten filings (a future vision wave)
+
+Ledgered here so it is a measured queue, not an unknown. These are the image-faced
+17-16-6.5 cover forms with Form A (contributions) and Form B (expenditures) behind them; their
+**stated totals are already transcribed and published** — what is missing is the donor/vendor
+itemisation.
+
+Counted at the FILING grain from the 100 `cover_form` caches (each is one file):
+
+| reporting year | filings | | office | filings |
+|---|---:|---|---|---:|
+| 2006 | 1 | | Commission Seat C | 18 |
+| 2010 | 14 | | Treasurer | 12 |
+| 2014 | 3 | | Recorder | 12 |
+| 2016 | 7 | | Commission Seat A | 12 |
+| 2018 | 15 | | Assessor | 10 |
+| 2019 | 4 | | Sheriff | 9 |
+| 2020 | 23 | | Clerk/Auditor | 9 |
+| 2022 | 3 | | Commission Seat B | 8 |
+| 2024 | 17 | | Attorney | 6 |
+| 2025 | 13 | | Commission (seat not stated) | 4 |
+| **total** | **100** | | **total** | **100** |
+
+(= 95 files the index calls `scanned` **plus** the 5 it mislabels `text`; `reporting_year` is
+filled on all 100.)
+
+Sized like juab/wasatch rather than like utah. **The calibration pre-flight has NOT been run
+for washington** — the suite carries exactly one washington specimen (`washco-wrapped-ledger`,
+the Lin Alder 2008 completeness-gate negative control) and `_audits/cf-calibration-suite/runs.md`
+records no washington run. Do that first. (§8 needed none: it read no page images, and its gate
+is the document's own arithmetic plus a machine-checkable completeness count.)
+
+---
+
+## 10. THE HANDWRITTEN QUEUE — CLOSED 2026-08-24 (the Phase-B final vision wave)
+
+**§9's 100-filing queue is closed at 100 of 100.** With §8's parser tranche, **every document
+this dataset holds is now itemized**, and washington_county is the first Phase-B county whose
+BOTH eras are closed.
+
+### 10.1 The queue, re-derived rather than inherited
+
+`prep.py` re-derived it from the primary files instead of trusting §9's count: a filing is in
+the queue when its `vision/<key>.json` has `sheet_type='cover_form'` **and** no row of
+`contributions.csv` / `expenditures.csv` names any of its files. That returns **100 documents /
+401 pages** — independently reproducing §9's 95-`scanned`-plus-5-mislabelled-`text` finding
+**without using `index.csv.format` at all**, which is the column §8.1 warns is unsafe here.
+
+### 10.2 What was published
+
+| | |
+|---|---:|
+| documents transcribed | **100 of 100** · 401 pages · 0 unfinished |
+| rows | **530 contributions + 778 expenditures = 1,308** |
+| rows carrying `pct:` geometry | **1,308 of 1,308 (100%)** |
+| sides `transcribed` / `none` / **withheld** | 199 / 1 / **0** |
+| side verdicts | 173 `exact` · 12 filer-arithmetic `delta` · 15 `unknown` (no printed anchor) |
+| scope split | **127 sides cumulative · 64 period · 9 undetermined** |
+| amounts blank for illegibility | **0** |
+| escalations (tight cell crops, 500–2400 dpi) | 524 |
+
+`contributions.csv` is now **2,048 rows** and `expenditures.csv` **2,516** across both eras.
+**Rebuild is byte-identical**; `validate_finance.py` → **PASS (0 fails, 203 warns)** — the same
+structural `409 − 206 = 203` companion-file warns this dataset has always carried.
+
+### 10.3 The reconciliation basis, and the trap it avoids
+
+**Form "A" itemizes only contributions OVER $50.** The cover's line 2 (`Aggregate total of
+contributions of $50.00 or less`) is never itemized, while `stated_total_contributions`
+publishes **line 1 + line 2**. Every contribution side is therefore scored against **line 1**;
+scoring against the published sum would have manufactured a false mismatch on every filing with
+a small-donor aggregate. Several filers do the opposite — they itemize their sub-$50 gifts on
+Form A anyway — and those sides gate on the schedule total with the decomposition recorded.
+
+**Scope is tested per filing, not assumed.** This module publishes the CUMULATIVE column, so a
+side summing to CUMULATIVE is same-scope (`reconciles_*=True`) while a side summing to the
+THIS-REPORT cell is a genuinely per-period schedule at a **different scope** — published with
+`reconciles_*` left BLANK, `is_incremental=True`, and both figures named. **A blank
+`reconciles_*` is not a failure**, exactly as §8.3 already establishes for the parser era.
+
+### 10.4 A THIRD form generation, found at the page
+
+§8 and the wave brief described two generations. There is a **third**, and it breaks the rule
+that would have been inferred from form age: `WASHINGTON COUNTY CANDIDATE FINANCIAL CAMPAIGN
+REPORT`, citing **Washington County Code 1-7-1**, which has Generation 1's dense ~35-line ruled
+grid **but does print a footer TOTAL on both schedules and does carry an `In Kind?` column**.
+Newer covers also drop the `$50-or-less` line entirely (recorded `null` — the field is ABSENT,
+not blank). **Decide the anchor by what the sheet actually prints, never by the form's vintage.**
+
+### 10.5 Two currency conventions that are 100× hazards, and how they are read
+
+The handwritten era writes cents in ways no text-layer parser ever had to meet:
+
+* **space-separated cents** — `63 75`, `29 75`. A reader that strips spaces (as this module's
+  own `dec()` does, correctly, for the genuine thousands-space `2 844.02`) yields **6375** and
+  **2975**. The two are told apart by GROUP LENGTH — a 3-digit group is thousands, a 2-digit
+  group is cents — and by nothing else.
+* **superscript cents over a rule** — `360.⁰⁰`, `52.8²`, `916.²⁴` — plus a dash or point in the
+  cents position (`200 —`) meaning whole dollars.
+
+These are read by the shared `common.parse_vision_amount`, an explicit whitelist that leaves
+anything ambiguous BLANK and **still refuses the malformed decimals** the
+`utah-malformed-decimal` calibration specimen requires to stay blank (`23,744,71`, `23.744.71`,
+and this county's own `$5,00.00`). Proof it is reading and not repair, on
+`raw/live_wp/2006-David-Whitehead.pdf`: the nine rows sum to **916.24**, exactly the figure
+printed in that schedule's TOTAL cell and on the cover's line 3; the naive space-stripping read
+gives 9,228.49 and closes against nothing.
+
+**Independent check across the whole wave:** for every side where a transcriber recorded its own
+row-sum, the build's independently computed sum was compared against it — **158 of 158 sides
+agree, 0 mismatches.**
+
+### 10.6 Bundles
+
+19 PDFs staple several reports (up to four). Every report's Form A/B is transcribed, each row
+carries the report it belongs to, and `line_no` is renumbered 1..N across the whole document so
+`(source_filing, line_no)` stays the schema's unique itemized-row key. Because the filing
+publishes ONE cover row in `stated_*` while the PDF carries several, a bundle leaves
+`reconciles_*` **BLANK** and records a **per-report verdict** in `filing_totals.notes`.
+
+### 10.7 A defect corrected in another layer, with evidence
+
+The wave read all 100 covers and found **36 `index.csv` `candidate` values that are tesseract
+noise** — `D A v 1 9) wh, TERE AD`, `— .— Wier: Alber en ee`, `en 13 uUce Den é & ee`, and in
+three cases a single stray letter. They are corrected through a **new curated override,
+`candidate_determinations.csv`**, on the identical contract as `office_determinations.csv`: the
+page's own `Full name of Candidate` line, quoted as evidence, wins over the OCR cascade; a file
+with no determination row is untouched; and the OCR reading is still retained verbatim in
+`document_candidate`. A column-level diff bounds the change at exactly **36 rows × 3 derived
+columns** (`candidate`, `title`, `candidate_source`) with **0 other values moved**.
+
+### 10.8 What is still NOT here
+
+Nothing in the itemisation queue — it is empty. The dataset's honest gaps are unchanged and
+remain the ACQUISITION ones of §4: `outpost` is unlistable and unarchived, the 2016–2024 listing
+page was never archived with content, 6 Wayback URLs are genuine 404s, and 2 retrieved files
+have no determinable office. The **4 ledger-only 2008 postings still emit no rows by design**
+(§8.5). An empty itemized side means *empty schedule* or *no schedule page in the document* —
+**never "no donors"**.

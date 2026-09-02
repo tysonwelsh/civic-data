@@ -1,0 +1,202 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-09-27",
+   "donor_raw": "Salt Lake Board of Realtors (BORPAC)",
+   "occupation": "realtors",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,22.50,85.41,4.36@p3",
+   "note": "Donor cell written on two lines, 'Salt Lake Board of' over 'Realtors (BORPAC)'; joined verbatim. Address cell covered by the county's black bar: redacted at source. Occupation reads 'realtors'."
+  },
+  {
+   "line_no": 2,
+   "date": "2018-10-04",
+   "donor_raw": "Ken Melby",
+   "occupation": "KOM Enterprises",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,26.86,85.41,3.55@p3",
+   "note": "Address redacted at source. Occupation reads 'KOM Enterprises'."
+  },
+  {
+   "line_no": 3,
+   "date": "2018-10-08",
+   "donor_raw": "Reagan Signs",
+   "occupation": "Sign co.",
+   "amount": "3,690.00",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,30.41,85.41,4.59@p3",
+   "note": "IN-KIND: the filer wrote '(in kind)' on a second line inside the Amount cell, under '$3,690.00'. Address redacted at source. ** THE COUNTY'S BAR UNDER-COVERS HERE ** - a fragment reading 'Rd.' (a street suffix, i.e. the tail of the redacted mailing address) protrudes past the bar into the left edge of the Occupation cell. It was deliberately NOT transcribed under the PRIVACY rule; the occupation value recorded is only the text that is unambiguously in the Occupation column."
+  },
+  {
+   "line_no": 4,
+   "date": "2018-10-10",
+   "donor_raw": "George Nielsen",
+   "occupation": "retired",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,35.00,85.41,3.77@p3",
+   "note": "Address redacted at source. A small ink fragment protrudes past the bar at the Occupation cell's left edge (address under-cover) and was not transcribed."
+  },
+  {
+   "line_no": 5,
+   "date": "2018-10-12",
+   "donor_raw": "Merit Medical Systems Inc.",
+   "occupation": "Medical Supplies",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,38.77,85.41,4.23@p3",
+   "note": "Donor written on two lines, 'Merit Medical' over 'Systems Inc.'. Occupation written on two lines, 'Medical' over 'Supplies'. Address redacted at source; ink fragments protrude past the bar at the Occupation cell's left edge (address under-cover) and were not transcribed."
+  },
+  {
+   "line_no": 6,
+   "date": "2018-10-16",
+   "donor_raw": "David Nilsson",
+   "occupation": "Energy Solutions",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.41,43.00,85.41,4.00@p3",
+   "note": "Occupation written on two lines, 'Energy' over 'Solutions'. Address redacted at source; an ink fragment protrudes past the bar at the cell's left edge (address under-cover) and was not transcribed."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-10-01",
+   "vendor_raw": "Utah Republican Party",
+   "purpose": "printing, postage, for mailers",
+   "amount": "$5,252.66",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.29,24.50,78.29,4.77@p4",
+   "note": "Date written wrapped across two lines inside the cell, '10-1' over '18'; read at 1200 dpi as 10-1-18. Purpose written on two lines, 'printing, postage,' over 'for mailers'; joined verbatim."
+  }
+ ],
+ "total_contributions": "$7,090.00",
+ "total_expenditures": "$5,252.66",
+ "beginning_balance": "$37,727.58",
+ "ending_balance": "$39,564.92",
+ "aggregate": {
+  "total_contributions_to_date": "$64,793.50",
+  "total_expenditures_to_date": "$25,228.58",
+  "line5_subtotal": "$44,817.58"
+ },
+ "cover": {
+  "candidate": "Steven L DeBry",
+  "party": "Republican",
+  "office_sought": "County Council",
+  "district_number": "#5",
+  "report_type": "Seven days before a general election",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "Oct. 29, 2018",
+  "form_year": null
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__october__steve-debry-10-30_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steven L DeBry",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/2018_disclosures__october__steve-debry-10-30_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "*** THE FILER-LEVEL BASIS INVERSION FLAGGED IN THE BRIEF IS PRESENT ON THIS FILING TOO - a third independent confirmation (chunk 03 on a 2015 DeBry filing, an earlier chunk on another, and now this 2018-10-29 one). On DeBry filings the schedule's `TOTAL ... (Sum of subtotals from all pages)` cell holds the CYCLE-CUMULATIVE figure (= Summary Column B) while `SUBTOTAL FOR THIS PAGE` on the same sheet holds the PERIOD figure (= Summary Column A). Test the scope, never the label. *** THE FORM IS AN OLDER TEMPLATE than the other four filings in this chunk: the header names SHERRIE SWENSEN, Salt Lake County Clerk, at the older clerk address and fax block, the title is a bare 'Financial Disclosure Report / For a Candidate' with NO year, and the footer path reads 'k://election/candidateinfo/financialdisclosures/04pccfindisc.doc'. form_year is therefore null (the printed title carries no year at all - the field does not exist on this document), matching the chunk file's form_family 'untitled-year'. Chunk-file agreement otherwise: candidate Steven L DeBry, County Council District 5 (the form's Office Sought reads 'County Council', District Number '#5'), date 2018-10-29 (the signature reads 'Oct. 29, 2018'; the clerk stamp reads RECEIVED IN OFFICE OCT 30 2018), 'Seven days before a general election' checked. The chunk flag \"listing label 'October'\" is BENIGN - the form's own checked box and its Oct. 29 2018 signature date are consistent with an October listing; no contradiction found. The amendment question has NEITHER box checked, so is_amendment is ''. Party 'Republican'. Pages 2-4 each carry a filled page header block (Page 2/3/4 of 4, Last Name 'DeBry', Date of Report 'Oct. 29, 2018').",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$7,090.00",
+     "schedule_total": "$64,793.50",
+     "itemized": "7090.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "*** THE DeBRY BASIS TRAP RECURS ON THIS FILING - CONFIRMED AT THE PAGE, NOT ASSUMED. *** The two printed anchors on Schedule A have DIFFERENT SCOPES. 'SUBTOTAL FOR THIS PAGE' = $7,090.00, which equals Summary Column A (the PERIOD figure). 'TOTAL CONTRIBUTIONS RECEIVED (Sum of subtotals from all Schedule A pages)' = $64,793.50, which equals Summary Column B (the CYCLE-CUMULATIVE figure) - and this is a ONE-PAGE schedule, so a 'sum of subtotals' can only be the one subtotal; it is not. The 6 transcribed rows sum to $7,090.00 EXACTLY, so the side reconciles against the page subtotal / summary-line-1. Gating on the schedule grand total would have manufactured a false $57,703.50 delta. In-kind IS included in the page subtotal here: the $3,690.00 row the filer marked '(in kind)' is needed to reach $7,090.00, so no schedule-total-vs-summary-gap arises."
+    },
+    "expenditures": {
+     "stated": "$5,252.66",
+     "schedule_total": "$25,228.58",
+     "itemized": "5252.66",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "Same inversion on Schedule B, verified independently at the page. 'SUBTOTAL FOR THIS PAGE' = $5,252.66 = Summary Column A (period). 'TOTAL EXPENDITUTRES MADE (Sum of subtotals from all Schedule B pages)' = $25,228.58 = Summary Column B (cycle-cumulative). The single transcribed row is $5,252.66, matching the page subtotal / summary-line-2 EXACTLY. Gating on the schedule grand total would have manufactured a false $19,975.92 delta."
+    }
+   },
+   "page_subtotal_gates": "BOTH sides gate on a printed page subtotal (unlike the other four filings in this chunk, where the subtotal cell was left blank). p3: rows 7,090.00 = printed SUBTOTAL FOR THIS PAGE $7,090.00. p4: row 5,252.66 = printed SUBTOTAL FOR THIS PAGE $5,252.66. The schedules' GRAND TOTAL cells were tested against both Summary columns and equal Column B, not Column A - they are recorded in recon.schedule_total for the reader and are deliberately NOT the anchor.",
+   "escalations": 5,
+   "escalation_note": "p3 Occupation column rows 1-6 at 1200 dpi (settled each occupation string AND revealed that the county's bar under-covers, leaking an address fragment 'Rd.' into the Occupation cell on row 3); p3 Amount column rows 1-6 at 1200 dpi (settled 3,690.00 and its '(in kind)' marker); p3 SUBTOTAL/TOTAL cells at 1200 dpi (settled $7,090.00 vs $64,793.50 - the basis test); p4 Date cell row 1 at 1200 dpi (settled the wrapped '10-1' / '18' as 10/1/18); p4 SUBTOTAL/TOTAL cells at 1200 dpi ($5,252.66 vs $25,228.58).",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "*** THE FILER-LEVEL BASIS INVERSION FLAGGED IN THE BRIEF IS PRESENT ON THIS FILING TOO - a third independent confirmation (chunk 03 on a 2015 DeBry filing, an earlier chunk on another, and now this 2018-10-29 one). On DeBry filings the schedule's `TOTAL ... (Sum of subtotals from all pages)` cell holds the CYCLE-CUMULATIVE figure (= Summary Column B) while `SUBTOTAL FOR THIS PAGE` on the same sheet holds the PERIOD figure (= Summary Column A). Test the scope, never the label. *** THE FORM IS AN OLDER TEMPLATE than the other four filings in this chunk: the header names SHERRIE SWENSEN, Salt Lake County Clerk, at the older clerk address and fax block, the title is a bare 'Financial Disclosure Report / For a Candidate' with NO year, and the footer path reads 'k://election/candidateinfo/financialdisclosures/04pccfindisc.doc'. form_year is therefore null (the printed title carries no year at all - the field does not exist on this document), matching the chunk file's form_family 'untitled-year'. Chunk-file agreement otherwise: candidate Steven L DeBry, County Council District 5 (the form's Office Sought reads 'County Council', District Number '#5'), date 2018-10-29 (the signature reads 'Oct. 29, 2018'; the clerk stamp reads RECEIVED IN OFFICE OCT 30 2018), 'Seven days before a general election' checked. The chunk flag \"listing label 'October'\" is BENIGN - the form's own checked box and its Oct. 29 2018 signature date are consistent with an October listing; no contradiction found. The amendment question has NEITHER box checked, so is_amendment is ''. Party 'Republican'. Pages 2-4 each carry a filled page header block (Page 2/3/4 of 4, Last Name 'DeBry', Date of Report 'Oct. 29, 2018')."
+  }
+ }
+}

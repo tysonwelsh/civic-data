@@ -1,0 +1,1081 @@
+[
+ {
+  "index_path": "raw/2010/2010_CountyCommissionSeatA-AndersonGaryJ-102610.pdf",
+  "key": "d493f815",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4,5,6",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED ($13,850.00) on the p2 Summary Page, which is also Schedule A's own printed 'Subtotal for this page' ($13,850.00) and its printed 'Total Contributions Received' ($13,850.00)",
+    "detail": "10 Schedule A rows sum to 1000.00 + 2500.00 + 500.00 + 2000.00 + 100.00 + 500.00 + 250.00 + 2500.00 + 2500.00 + 2000.00 = 13,850.00 exactly = the printed page subtotal = the printed total = the cover's PROMOTED per-period cell Column A. Column B 'Year-to-Date Total' prints $39,998.25 and is NOT summed as an increment (it is the cycle running total, and it happens to equal this period's 13,850.00 plus the June report's 26,148.25 - an observation, never an input)."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE ($15,360.99) on the p2 Summary Page, equal to the handwritten 'Total Expenditures Received' written on each of the three Schedule B pages (15,360.99)",
+    "detail": "47 rows across the three Schedule B pages sum to 15,360.99 exactly = the cover's Column A. THE PAGE-SUBTOTAL GATE CLOSES THREE TIMES INDEPENDENTLY: p4's 17 rows sum to 8,852.77 = its printed 'Subtotal for this page'; p5's 17 rows sum to 5,245.83 = its printed subtotal; p6's 13 rows sum to 1,262.39 = its printed subtotal; and 8,852.77 + 5,245.83 + 1,262.39 = 15,360.99. Column B YTD $36,910.11 is retained as cumulative and never summed. The p2 ladder is internally consistent: line 3 (4,599.13) + line 4 (13,850.00) = line 5 (18,449.13); 18,449.13 - line 6 (15,360.99) = line 7 (3,088.14, the one handwritten figure on that page)."
+   }
+  },
+  "in_kind_convention": "not applicable - no row on either schedule is marked in-kind and neither schedule prints an in-kind column, so monetary-only and monetary-plus-in-kind give the identical sums (13,850.00 / 15,360.99) and both close on Column A. Both were tested rather than inherited, since two other filings in this chunk (Thompson 2010 x2) do fold in-kind into Column A.",
+  "escalations": 0,
+  "escalation_note": "none needed: the whole filing is word-processed apart from the p2 closing balance and the Schedule B grand-total lines, and every figure rendered unambiguously in the mandatory geometry crops; no cell was in doubt, and all four page subtotals closed on the first read.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     81.57,
+     91.28
+    ],
+    "cells": [
+     [
+      7.12,
+      18.3
+     ],
+     [
+      19.83,
+      52.09
+     ],
+     [
+      53.5,
+      80.1
+     ],
+     [
+      81.57,
+      91.28
+     ]
+    ],
+    "rows": [
+     [
+      16.97,
+      20.88
+     ],
+     [
+      20.88,
+      24.79
+     ],
+     [
+      24.79,
+      28.71
+     ],
+     [
+      28.71,
+      32.62
+     ],
+     [
+      32.62,
+      36.54
+     ],
+     [
+      36.54,
+      40.43
+     ],
+     [
+      40.43,
+      44.32
+     ],
+     [
+      44.32,
+      48.23
+     ],
+     [
+      48.23,
+      52.15
+     ],
+     [
+      52.15,
+      56.04
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form (portrait). rowbands.py at 200 dpi returns 17 per-column underline rules at a regular pitch, and their 4 segments ARE the column bands. THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up from the first detected rule. p3 (Schedule A, the filer's page '3 of 6'): rules from 20.88 at pitch 3.91, columns Date 7.12-18.30, Name 19.83-52.09, Address 53.50-80.10, Amount 81.57-91.28; row 1 = 20.88 - 3.91 = 16.97. TWO-CROP PROOF at 900 dpi: pct:81.57,16.97,9.71,3.91@p3 rendered '$1,000.00' (recorded 1000.00, Lynn & Beth Crandall) and the LAST row box pct:81.57,52.15,9.71,3.89@p3 rendered '$2,000.00' (recorded 2000.00, the 10/14/2010 Al McKee row). The page is TYPED, so the figures render cleanly and the bands sit squarely on their own text."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     81.75,
+     91.4
+    ],
+    "cells": [
+     [
+      7.24,
+      18.42
+     ],
+     [
+      19.89,
+      52.2
+     ],
+     [
+      53.62,
+      80.28
+     ],
+     [
+      81.75,
+      91.4
+     ]
+    ],
+    "rows": [
+     [
+      17.08,
+      20.97
+     ],
+     [
+      20.97,
+      24.86
+     ],
+     [
+      24.86,
+      28.8
+     ],
+     [
+      28.8,
+      32.67
+     ],
+     [
+      32.67,
+      36.6
+     ],
+     [
+      36.6,
+      40.5
+     ],
+     [
+      40.5,
+      44.41
+     ],
+     [
+      44.41,
+      48.3
+     ],
+     [
+      48.3,
+      52.22
+     ],
+     [
+      52.22,
+      56.13
+     ],
+     [
+      56.13,
+      60.02
+     ],
+     [
+      60.02,
+      63.94
+     ],
+     [
+      63.94,
+      67.85
+     ],
+     [
+      67.85,
+      71.74
+     ],
+     [
+      71.74,
+      75.63
+     ],
+     [
+      75.63,
+      79.55
+     ],
+     [
+      79.55,
+      83.46
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form (portrait). rowbands.py at 200 dpi returns 17 per-column underline rules at a regular pitch, and their 4 segments ARE the column bands. THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up from the first detected rule. p4 (Schedule B, page '4 of 6'): rules from 20.97 at pitch 3.89, columns Date 7.24-18.42, Name 19.89-52.20, 'Mailing Address' 53.62-80.28 (which this filer uses as a PURPOSE column), Amount 81.75-91.40; row 1 = 20.97 - 3.89 = 17.08. TWO-CROP PROOF at 900 dpi: pct:81.75,17.08,9.65,3.89@p4 rendered '$6.64' (recorded 6.64, Jake's Brookside) and pct:81.75,79.55,9.65,3.91@p4 rendered '$50.00' (recorded 50.00, the 17th row, Payson City venue rental)."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     81.57,
+     91.22
+    ],
+    "cells": [
+     [
+      7.06,
+      18.3
+     ],
+     [
+      19.77,
+      52.03
+     ],
+     [
+      53.44,
+      80.1
+     ],
+     [
+      81.57,
+      91.22
+     ]
+    ],
+    "rows": [
+     [
+      17.26,
+      21.15
+     ],
+     [
+      21.15,
+      25.04
+     ],
+     [
+      25.04,
+      28.98
+     ],
+     [
+      28.98,
+      32.85
+     ],
+     [
+      32.85,
+      36.76
+     ],
+     [
+      36.76,
+      40.65
+     ],
+     [
+      40.65,
+      44.59
+     ],
+     [
+      44.59,
+      48.48
+     ],
+     [
+      48.48,
+      52.4
+     ],
+     [
+      52.4,
+      56.31
+     ],
+     [
+      56.31,
+      60.2
+     ],
+     [
+      60.2,
+      64.1
+     ],
+     [
+      64.1,
+      67.99
+     ],
+     [
+      67.99,
+      71.9
+     ],
+     [
+      71.9,
+      75.79
+     ],
+     [
+      75.79,
+      79.71
+     ],
+     [
+      79.71,
+      83.6
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form (portrait). rowbands.py at 200 dpi returns 17 per-column underline rules at a regular pitch, and their 4 segments ARE the column bands. THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up from the first detected rule. p5 (Schedule B, page '5 of 6'): rules from 21.15 at pitch 3.89; row 1 = 21.15 - 3.89 = 17.26. TWO-CROP PROOF at 900 dpi: pct:81.57,17.26,9.65,3.89@p5 rendered '$3.78' (recorded 3.78, Gas n Go) and pct:81.57,79.71,9.65,3.89@p5 rendered '$71.86' (recorded 71.86, the 17th row, IFA posts)."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     81.57,
+     91.22
+    ],
+    "cells": [
+     [
+      7.06,
+      18.24
+     ],
+     [
+      19.71,
+      52.02
+     ],
+     [
+      53.44,
+      80.1
+     ],
+     [
+      81.57,
+      91.22
+     ]
+    ],
+    "rows": [
+     [
+      17.44,
+      21.33
+     ],
+     [
+      21.33,
+      25.22
+     ],
+     [
+      25.22,
+      29.12
+     ],
+     [
+      29.12,
+      33.03
+     ],
+     [
+      33.03,
+      36.95
+     ],
+     [
+      36.95,
+      40.84
+     ],
+     [
+      40.84,
+      44.75
+     ],
+     [
+      44.75,
+      48.64
+     ],
+     [
+      48.64,
+      52.56
+     ],
+     [
+      52.56,
+      56.45
+     ],
+     [
+      56.45,
+      60.36
+     ],
+     [
+      60.36,
+      64.26
+     ],
+     [
+      64.26,
+      68.17
+     ]
+    ],
+    "measure_note": "legacy_colAB underline form (portrait). rowbands.py at 200 dpi returns 17 per-column underline rules at a regular pitch, and their 4 segments ARE the column bands. THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up from the first detected rule. p6 (Schedule B, page '6 of 6'): rules from 21.33 at pitch 3.89; row 1 = 21.33 - 3.89 = 17.44. TWO-CROP PROOF at 900 dpi: pct:81.57,17.44,9.65,3.89@p6 rendered '$51.37' (recorded 51.37, Home Depot stakes) and pct:81.57,64.26,9.65,3.91@p6 rendered '$680.00' (recorded 680.00, the 13th and last row, Fairways Magazine). The three underline rows below it are blank."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "07/23/2010",
+    "donor_raw": "Lynn & Beth Crandall",
+    "donor_city": "Provo",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell prints a street address followed by the city and NO state; only the city is carried. Typed page - the whole filing is word-processed except the p2 closing balance and the Schedule B grand totals, which are handwritten."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "08/20/2010",
+    "donor_raw": "Utah County Republican Party",
+    "donor_city": "Provo",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "address cell prints a mailing-box line then the city; only the city is carried"
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "08/25/2010",
+    "donor_raw": "Bill J. Anderson",
+    "donor_city": "Provo",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "08/26/2010",
+    "donor_raw": "Al McKee",
+    "donor_city": "Payson",
+    "donor_state": "Utah",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "this row's address cell prints ONLY 'Payson, Utah' - no street - and the state is spelled out; kept verbatim as 'Utah' rather than normalised to UT"
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "09/01/2010",
+    "donor_raw": "Michael Terry",
+    "donor_city": "Lindon",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "09/03/2010",
+    "donor_raw": "Steve White",
+    "donor_city": "Provo",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "09/14/2010",
+    "donor_raw": "Raymond Beckham",
+    "donor_city": "Provo",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "09/20/2010",
+    "donor_raw": "OMAG",
+    "donor_city": "Payson",
+    "donor_state": "Utah",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor entered as the acronym 'OMAG' with no expansion anywhere on the filing; kept verbatim and not guessed at. Address cell prints only 'Payson, Utah'"
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "09/21/2010",
+    "donor_raw": "Thunderbug, Inc",
+    "donor_city": "Pleasant Grove",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "10/14/2010",
+    "donor_raw": "Al McKee",
+    "donor_city": "Payson",
+    "donor_state": "Utah",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "second contribution from the same donor in this period; a separate dated entry, not a duplicate - the page subtotal counts both"
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "07/02/2010",
+    "vendor_raw": "Jake's Brookside",
+    "purpose": "Gas",
+    "amount": "6.64",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "⚠ COLUMN REPURPOSED BY THE FILER: this legacy Schedule B prints no Purpose column, so on all three expenditure pages the filer wrote the PURPOSE in the cell headed 'Mailing Address & Zip Code' - every one of the 47 rows holds a purpose there and not one holds an address. `purpose` is therefore the filer's own printed text, and the address field stays empty because the document carries no vendor addresses at all."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "07/06/2010",
+    "vendor_raw": "Prestwich Farms",
+    "purpose": "Campaign Meeting",
+    "amount": "67.86",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "07/06/2010",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Email services",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "07/07/2010",
+    "vendor_raw": "Utah County",
+    "purpose": "Maps",
+    "amount": "76.91",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "07/07/2010",
+    "vendor_raw": "Utah County",
+    "purpose": "Voter lists",
+    "amount": "53.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "07/09/2010",
+    "vendor_raw": "Copies Plus Printing",
+    "purpose": "Printing",
+    "amount": "2945.14",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "07/11/2010",
+    "vendor_raw": "Molly Anderson",
+    "purpose": "Parade supplies reimbursement",
+    "amount": "323.49",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "07/16/2010",
+    "vendor_raw": "Sam's Club",
+    "purpose": "Parade supplies",
+    "amount": "383.94",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "9",
+    "page": 4,
+    "row": 9,
+    "date": "07/28/2010",
+    "vendor_raw": "Pier 49 Pizza",
+    "purpose": "Campaign Meeting",
+    "amount": "55.39",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "10",
+    "page": 4,
+    "row": 10,
+    "date": "07/30/2010",
+    "vendor_raw": "Leo Lines",
+    "purpose": "Campaign services",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "11",
+    "page": 4,
+    "row": 11,
+    "date": "08/05/2010",
+    "vendor_raw": "Utah County",
+    "purpose": "Voter lists",
+    "amount": "51.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 4,
+    "row": 12,
+    "date": "08/06/2010",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Email services",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "13",
+    "page": 4,
+    "row": 13,
+    "date": "08/16/2010",
+    "vendor_raw": "Happy Sumo",
+    "purpose": "Campaign Meeting",
+    "amount": "179.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "14",
+    "page": 4,
+    "row": 14,
+    "date": "08/19/2010",
+    "vendor_raw": "Molly Anderson",
+    "purpose": "Partial loan repay",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own label 'Partial loan repay' - a repayment to the family lender whose 4,808.25 loan appears on the JUNE report's Schedule A (key 68bec774); recorded exactly as the filer classified it and not netted against anything"
+   },
+   {
+    "line_no": "15",
+    "page": 4,
+    "row": 15,
+    "date": "08/24/2010",
+    "vendor_raw": "Utah County Deputies Association",
+    "purpose": "Campaign supplies",
+    "amount": "260.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "16",
+    "page": 4,
+    "row": 16,
+    "date": "09/01/2010",
+    "vendor_raw": "Cal Ranch, Home Depot, Sunroc",
+    "purpose": "Misc. supplies",
+    "amount": "300.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "17",
+    "page": 4,
+    "row": 17,
+    "date": "09/20/2010",
+    "vendor_raw": "Payson City",
+    "purpose": "Venue rental",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "18",
+    "page": 5,
+    "row": 1,
+    "date": "09/07/2010",
+    "vendor_raw": "Gas n Go",
+    "purpose": "Gas",
+    "amount": "3.78",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 5,
+    "row": 2,
+    "date": "09/08/2010",
+    "vendor_raw": "Chase ATM",
+    "purpose": "Misc. supplies",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "20",
+    "page": 5,
+    "row": 3,
+    "date": "09/09/2010",
+    "vendor_raw": "Flextech",
+    "purpose": "Labels",
+    "amount": "469.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "21",
+    "page": 5,
+    "row": 4,
+    "date": "09/30/2010",
+    "vendor_raw": "Home Depot",
+    "purpose": "Stakes",
+    "amount": "29.33",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "22",
+    "page": 5,
+    "row": 5,
+    "date": "09/22/2010",
+    "vendor_raw": "Jiffy Lube",
+    "purpose": "Campaign vehicle repair",
+    "amount": "160.31",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "23",
+    "page": 5,
+    "row": 6,
+    "date": "09/30/2010",
+    "vendor_raw": "Home Depot",
+    "purpose": "Replace pole pounder",
+    "amount": "31.93",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "24",
+    "page": 5,
+    "row": 7,
+    "date": "10/01/2010",
+    "vendor_raw": "Gary Anderson",
+    "purpose": "Partial loan repay",
+    "amount": "2850.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'Partial loan repay' to the CANDIDATE HIMSELF (Gary Anderson), whose own 3,000.00 loan appears on the June report's Schedule A; transcribed as the expenditure the filer reports, never netted"
+   },
+   {
+    "line_no": "25",
+    "page": 5,
+    "row": 8,
+    "date": "10/04/2010",
+    "vendor_raw": "Sunroc",
+    "purpose": "Tools",
+    "amount": "16.95",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "26",
+    "page": 5,
+    "row": 9,
+    "date": "10/04/2010",
+    "vendor_raw": "Home Depot",
+    "purpose": "Poles",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "27",
+    "page": 5,
+    "row": 10,
+    "date": "10/06/2010",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Email service",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "28",
+    "page": 5,
+    "row": 11,
+    "date": "10/07/2010",
+    "vendor_raw": "Friends of CJC",
+    "purpose": "Campaign dinner fee",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "29",
+    "page": 5,
+    "row": 12,
+    "date": "10/08/2010",
+    "vendor_raw": "Flextech",
+    "purpose": "Labels for water bottles",
+    "amount": "341.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "30",
+    "page": 5,
+    "row": 13,
+    "date": "10/08/2010",
+    "vendor_raw": "Friends of CJC",
+    "purpose": "Purchases for campaign",
+    "amount": "430.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "31",
+    "page": 5,
+    "row": 14,
+    "date": "10/12/2010",
+    "vendor_raw": "Smiths Food",
+    "purpose": "Misc. supplies",
+    "amount": "67.82",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "32",
+    "page": 5,
+    "row": 15,
+    "date": "10/13/2010",
+    "vendor_raw": "Friends of CJC",
+    "purpose": "Dinner fee",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "33",
+    "page": 5,
+    "row": 16,
+    "date": "10/15/2010",
+    "vendor_raw": "Sunroc",
+    "purpose": "Wire, zip ties",
+    "amount": "23.35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "34",
+    "page": 5,
+    "row": 17,
+    "date": "10/18/2010",
+    "vendor_raw": "IFA",
+    "purpose": "Posts",
+    "amount": "71.86",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "35",
+    "page": 6,
+    "row": 1,
+    "date": "10/21/2010",
+    "vendor_raw": "Home Depot",
+    "purpose": "Stakes",
+    "amount": "51.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "36",
+    "page": 6,
+    "row": 2,
+    "date": "10/23/2010",
+    "vendor_raw": "Spanish Fork Chevron",
+    "purpose": "Gas",
+    "amount": "18.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "37",
+    "page": 6,
+    "row": 3,
+    "date": "10/13/2010",
+    "vendor_raw": "Clyde Co.",
+    "purpose": "Rebar",
+    "amount": "163.55",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "38",
+    "page": 6,
+    "row": 4,
+    "date": "10/11/2010",
+    "vendor_raw": "Shoga",
+    "purpose": "Campaign Meeting",
+    "amount": "61.52",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "39",
+    "page": 6,
+    "row": 5,
+    "date": "10/20/2010",
+    "vendor_raw": "Walkers",
+    "purpose": "Gas for sign placement",
+    "amount": "82.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "40",
+    "page": 6,
+    "row": 6,
+    "date": "08/21/2010",
+    "vendor_raw": "Sunroc",
+    "purpose": "Zip ties",
+    "amount": "13.63",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "41",
+    "page": 6,
+    "row": 7,
+    "date": "08/21/2010",
+    "vendor_raw": "Sunroc",
+    "purpose": "Gloves",
+    "amount": "12.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "42",
+    "page": 6,
+    "row": 8,
+    "date": "10/25/2010",
+    "vendor_raw": "Extra Mart, Spanish Fork",
+    "purpose": "Gas",
+    "amount": "18.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee written 'Extra Mart, Spanish Fork' - the filer put a place name inside the payee cell; kept verbatim as the payee, and no address is carried"
+   },
+   {
+    "line_no": "43",
+    "page": 6,
+    "row": 9,
+    "date": "08/11/2010",
+    "vendor_raw": "La Casita",
+    "purpose": "Campaign Meeting",
+    "amount": "82.06",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "44",
+    "page": 6,
+    "row": 10,
+    "date": "10/08/2010",
+    "vendor_raw": "Hickory Kist",
+    "purpose": "Workers' meals",
+    "amount": "27.09",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "45",
+    "page": 6,
+    "row": 11,
+    "date": "10/25/2010",
+    "vendor_raw": "Wingers",
+    "purpose": "Food for workers",
+    "amount": "12.91",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "46",
+    "page": 6,
+    "row": 12,
+    "date": "10/06/2010",
+    "vendor_raw": "La Casita",
+    "purpose": "Campaign Meeting",
+    "amount": "39.29",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "47",
+    "page": 6,
+    "row": 13,
+    "date": "10/23/2010",
+    "vendor_raw": "Fairways Magazine",
+    "purpose": "Copy Layout",
+    "amount": "680.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   }
+  ],
+  "notes": "PAGE-FACE CANDIDATE: 'Gary J. Anderson' - index.csv names NO candidate for this row; the page face governs. Party 'Republican'; residence city Springville, UT (the cover prints a street address, deliberately not recorded). ⚠ OFFICE: the page face prints only 'County Commissioner' with NO SEAT LETTER, while index.csv carries 'County Commission Seat A' from the acquisition channel's path - recorded, not adjudicated, and no seat inferred onto the page. legacy_colAB variant, 6 pages, each classified from its own printed header: p1 COVER ('Seven days preceding the General Election' checked, amendment 'No', signed 10/26/10, clerk stamp OCT 26 AM 11:52), p2 SUMMARY PAGE (the filer's own page box reads '2 of 6', so unlike the other filings in this chunk the cover IS counted in the filer's numbering), p3 SCHEDULE A, p4-p6 SCHEDULE B ('4 of 6', '5 of 6', '6 of 6'). ⚠ THE FILER REPURPOSED A COLUMN: on all three Schedule B pages the cell headed 'Mailing Address & Zip Code' holds the PURPOSE of each payment (Gas, Campaign Meeting, Voter lists, Partial loan repay...) and never an address - so this filing yields a purpose for all 47 expenditure rows and no vendor address exists to withhold. FORM CONTRAST WITH THE SAME FILER'S JUNE REPORT (68bec774): that one was handwritten with the ledgers on separate attachments; this one is word-processed straight onto the county form, with only the p2 closing balance ($3088.14) and the three Schedule B 'Total Expenditures Received' lines written by hand. THE SAME-FILER COVER CHAIN HOLDS EXACTLY: line 3 'Balance at Beginning' prints $4,599.13, which is precisely the June report's line 7 close; and the Column B year-to-date figures reproduce the two periods summed to the cent (26,148.25 + 13,850.00 = 39,998.25 contributions; 21,549.12 + 15,360.99 = 36,910.11 expenditures). Reported as an OBSERVATION - no figure in this record was obtained by differencing covers, and each filing was transcribed strictly on its own terms. Two expenditure rows are LOAN REPAYMENTS to the candidate and to Molly Anderson, matching loans reported as contributions on the June Schedule A; both are transcribed exactly as the filer classified them and nothing was netted."
+ }
+]

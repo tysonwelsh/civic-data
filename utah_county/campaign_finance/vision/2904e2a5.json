@@ -3,7 +3,9 @@
  "key": "2904e2a5",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T01:14:00Z",
- "pages_read": [1],
+ "pages_read": [
+  1
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 4.20",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +54,52 @@
    "notes": "NO TOTALS EXIST TO TRANSCRIBE - the county published this filing as a ONE-PAGE PDF containing only the cover sheet. There is no Summary Page, no Schedule A and no Schedule B in the document, so summary_page is null and every totals slot is '' . This is a DOCUMENT-LEVEL gap (the county posted an incomplete filing), NOT an illegible or blank cell on a page I read: nothing here was left blank by the filer and nothing may be inferred from the filer's other 2022 reports. Cover details that DO exist: office 'Utah County Attorney', report type '30 Days after the General Election', Date of Report and signature date both 'Dec 7, 2022', cover 'Page' box prints '1' with no 'of N'. NEITHER amendment radio is filled, so is_amendment is ''. Address block and signature are redacted upstream by the county (black bars), so residence_city is ''."
   }
  ],
- "notes": "index.csv records n_pages = 1 and the OCR locator found no summary page ('no SUMMARY page located - last page rendered as a fallback'); reading the page confirms the locator was right and the document is genuinely cover-only. Candidate for the unrecovered/incomplete-filing ledger rather than the totals layer."
+ "notes": "index.csv records n_pages = 1 and the OCR locator found no summary page ('no SUMMARY page located - last page rendered as a fallback'); reading the page confirms the locator was right and the document is genuinely cover-only. Candidate for the unrecovered/incomplete-filing ledger rather than the totals layer.",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r10_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "no-schedule-page",
+    "expenditures": "no-schedule-page"
+   },
+   "withheld_reason": {
+    "contributions": "The retained document has NO Schedule A page at all. `pdfinfo` reports Pages: 1, and that single page is the COVER SHEET only \u2014 it prints the Name of Candidate / Address / Office / Phone / Email boxes, the five-option 'Type of Report' block, the affirmation and signature block, 'Where to File', 'Office Use Only', and the Date of Report / Page foliation boxes. There is no schedule grid, no summary page and no printed total of any kind anywhere in the document.",
+    "expenditures": "Same evidence: `pdfinfo` Pages: 1 and that page is the cover sheet only. No Schedule B page exists in the retained document, and no summary page exists to carry a Box D."
+   },
+   "recon": {
+    "contributions": {
+     "result": "unknown",
+     "anchor": "NONE \u2014 no printed figure of any kind exists in this document. There is no Summary Page, so there is no Box B and no Box C; the module's published stated totals for this filing are correspondingly BLANK (the 2026-08-01 cover tranche recorded 'NO TOTALS EXIST TO TRANSCRIBE \u2014 the county published this filing as a ONE-PAGE PDF containing only the cover sheet').",
+     "detail": "No reconciliation is asserted or possible. Zero rows are published because no Schedule A page exists, not because the filer entered nothing. Nothing was synthesized and no other filing of this filer was differenced to manufacture a figure."
+    },
+    "expenditures": {
+     "result": "unknown",
+     "anchor": "NONE \u2014 no Summary Page and therefore no Box D or Box E; no schedule footer exists either.",
+     "detail": "No reconciliation is asserted or possible. Zero rows are published because no Schedule B page exists in the retained document."
+    }
+   },
+   "in_kind_convention": "not testable \u2014 the document contains no schedule and no total, so neither the monetary-only nor the monetary-plus-in-kind convention can be tested on it.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "2022 cycle, `modern_boxAF` variant, revision **v. 4.20** (footer-printed 'v. 4.20', bottom right). It is the \u00a7J1 CARRY-OVER blank, not the newer unversioned 2022 blank: FIVE report types (30 Days after withdrawal or elimination / Seven days preceding Convention / Seven days preceding the Primary Election / Seven days preceding the General Election / 30 Days after the General Election \u2014 no End-of-Year option), and the foliation boxes read 'Date of Report' + 'Page' (the newer blank prints 'Date of Filing' and is unfoliated). Page rot 0 (pdfinfo -f 1 -l 1), upright portrait; no rotation handling was needed. PAGE-FACE IDENTITY: candidate 'Jeff Gray'; Office box prints 'Utah County Attorney'; report type radio FILLED on '30 Days after the General Election'; Date of Report and signature date both 'Dec 7, 2022'; the foliation Page box prints '1' with no 'of N', so the filer's own foliation offers no evidence either way about missing sheets \u2014 the `pdfinfo` page count of 1 is the whole evidence. THE AMENDMENT QUESTION IS WHOLLY UNANSWERED (both the 'No' and the 'Yes, Date of Original Report' radios are empty open circles) \u2014 an honest blank, never read as 'No'. REDACTION IS REAL AND JUDGED PER CELL, not from the filename: the Address/City/State/Zip block is a solid black bar and the Signature block is a solid black bar (redacted by the county), while the Phone Number and Email cells are published in the clear. No street address is carried anywhere in this record. There is nothing else in this document: no Schedule A, no Schedule B, no Summary Page and no checklist decoy. This is a genuine `no-schedule-page` on BOTH sides \u2014 the document's non-existence of those pages, which is a different fact from the filer having entered nothing. It is also a GRAMA / re-fetch target: the missing sheets would carry both the itemized lines and the cover totals this filing entirely lacks. NOTE the same filer appears twice in this chunk \u2014 key c3d66073 is `raw/2022/2022_Jeff_Gray.pdf`, a different retained document; the two were transcribed independently and neither was used to fill the other (no differencing across covers)."
+  }
+ }
 }

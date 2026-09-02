@@ -16,8 +16,15 @@ document + provenance + **stated-totals** layer.
 > `utahcounty_schedab` family was wired in for the **17 filings whose text layer is real**
 > (`index.format == 'text'`, i.e. `pdftotext -layout` — never an OCR sidecar). **2 of the 17
 > ship: 72 contribution + 81 expenditure rows** (Tanner Ainge 2018, Isaac Paxman 2026), 100%
-> carrying `geometry`. Every other side emits **nothing** with a stated reason. **The
-> handwritten 245 remain unitemized** — *not transcribed*, never *no donors*.
+> carrying `geometry`. Every other side emits **nothing** with a stated reason.
+>
+> **2026-08-20 — THE HANDWRITTEN CORPUS IS ITEMIZED (TRANCHE 3 Phase B, wave B2). QUEUE
+> CLOSED.** All **245 of 245** scanned filings were vision-transcribed from the page:
+> **2,884 contribution + 3,629 expenditure rows over 247 reports, 100% `pct:`-geometry-anchored,
+> ZERO sides withheld.** The sentence this replaces — *"the handwritten 245 remain unitemized"* —
+> is retired. Read `AVAILABILITY.md` **"The SCAN itemization wave — QUEUE CLOSED 2026-08-20"**
+> before comparing across filings: the regime is PER-PERIOD, `cumulative-exact` sides leave
+> `reconciles_*` deliberately BLANK, and an empty itemized side has **three** distinct meanings.
 
 **The repo's first COUNTY campaign-finance dataset.** All 31 existing `campaign_finance/`
 datasets are municipal; this one is county-office, files under a different statute
@@ -76,8 +83,8 @@ vision/             CURATED — 267 vision transcripts, one per ACQUIRED filing,
                     sha1(index.csv `path`)[:8]. The authority for every figure below
 index.csv           DERIVED — one row per RETAINED FILING (263), deduped by sha256
 filing_totals.csv   DERIVED — one row per FILING/REPORT (265), SCHEMA.md §4
-contributions.csv   DERIVED — the machine-readable itemized layer, 72 rows (+ `geometry`)
-expenditures.csv    DERIVED — ditto, 81 rows
+contributions.csv   DERIVED — the itemized layer, 2,884 rows (100% `geometry`)
+expenditures.csv    DERIVED — ditto, 3,629 rows
 out_of_scope.csv    93 school-board filings: fetched, classified, ledgered, NOT retained
 unrecovered.csv     4 items that could not be fetched, with the reason
 office_overrides.csv  CURATED, evidence-cited office corrections (21 rows; 14 APPLIED)
@@ -95,10 +102,12 @@ build_finance.py      regenerates filing_totals/contributions/expenditures from 
 - **"What exactly does the page say"** → **`vision/<sha1(path)[:8]>.json`** — the curated
   transcript, with every line/box under its own printed label, per-field confidence, and an
   explicit `unreadable` list. Then open `raw/<year>/<file>` for the image itself.
-- **"Who donated / what did they buy"** → `contributions.csv` / `expenditures.csv`, but only
-  for **2 of 263 filings** (Ainge 2018, Paxman 2026). Everywhere else the answer is still
-  "open the raw PDF": the forms are handwritten and this module never quotes a figure off an
-  OCR sidecar. See "The machine-readable itemized layer" below.
+- **"Who donated / what did they buy"** → `contributions.csv` / `expenditures.csv`, now for
+  **247 of 265 reports** (245 scanned filings vision-transcribed 2026-08-20 + the 2
+  born-digital). The 18 without rows are documents with no schedule pages, or filers who
+  entered nothing — see the four honest side states below. This module still never quotes a
+  figure off an OCR sidecar: every scanned figure was READ FROM THE PAGE and is anchored by a
+  `pct:` geometry string you can render back. See "The itemized layer" below.
 - **"Was anything missed"** → `AVAILABILITY.md` §4 / §4a + `unrecovered.csv` + `out_of_scope.csv`.
 - **"How was this found at all"** → `RECON.md` (four dead URL schemes and one undocumented API).
 
@@ -277,9 +286,81 @@ cell the filer left empty, none is a failed read.
   **Taylor Dayton** (`Child 5.1.20 Redacted`). **`filing_totals.csv.candidate` is therefore the
   PAGE-FACE name**, and the channel's label is preserved as `candidate_index=` in `notes`
   wherever the two differ. Join to `index.csv` on `source_filing`, not on `candidate`.
-- **Do not sum the cumulative columns.** See "THE PROMOTION REGIME". And the donor/vendor
-  layer covers **2 filings only** — an empty itemized side on the other 261 means *not
-  transcribed*, **not** *no donors*, which is why their `reconciles_*` stay blank.
+- **Do not sum the cumulative columns.** See "THE PROMOTION REGIME".
+- **Do not read an empty itemized side as "no donors" — it has THREE distinct meanings**, and
+  the layer keeps them apart: `empty-schedule` (90 sides — the page exists and the filer entered
+  nothing), `no-schedule-page` (15 sides — the document has no such page), and *not transcribed*
+  (a filing with no vision record at all). Only the first is a statement about the campaign.
+- **Do not read `reconciles_*=False` as a transcription defect.** It is the FILER's arithmetic,
+  traced on the page and retained verbatim (34 sides, each with its explanation in `notes`).
+  And do not read a BLANK `reconciles_*` as a failure: on the 11 `cumulative-exact` sides the
+  schedule restates the WHOLE CYCLE and sums exactly to the cover's cumulative cell, which is a
+  DIFFERENT SCOPE from the per-period figure this module publishes — asserting True there would
+  claim a match the published columns do not make.
+- **Do not sum an AMENDMENT with its original.** An amendment RESTATES its original's period
+  rather than adding one. Buhman 2014 binds both in ONE PDF, each stating 15,209.58; summing
+  the per-period rows double-counts him. Filter on the `amendment=` marker in `notes`.
+
+## The VISION-ITEMIZED layer (built 2026-08-20, TRANCHE 3 Phase B, wave B2) — QUEUE CLOSED
+
+All **245 of 245** scanned (handwritten) filings are itemized, read from the page by Claude
+vision at 200 dpi with tight-crop escalation to 600–2000 dpi. **`$0` API.**
+
+| | |
+|---|---:|
+| scanned filings itemized | **245 of 245 — QUEUE CLOSED** |
+| reports (2 PDFs are genuine bundles) | **247** |
+| rows | **2,884 contributions · 3,629 expenditures = 6,513** |
+| rows carrying `pct:` geometry | **6,513 of 6,513 (100%)** |
+| money | **$2,313,294.88 monetary + $101,820.79 in-kind contributed · $2,231,657.43 spent** |
+| sides `transcribed` / `empty-schedule` / `no-schedule-page` / **withheld** | 389 / 90 / 15 / **0** |
+| verdicts `exact` / `delta` / `cumulative-exact` / `unknown` | 342 / 34 / 11 / 2 |
+| tight high-dpi escalation crops | **1,423** |
+
+**Every frame was proved by rendering it back off the page** — the contract required a crop of
+the FIRST and LAST row of each grid plus a control one band past the last row, which must render
+empty. That requirement is what caught the failures arithmetic cannot see (below).
+
+### What this layer will NOT tell you
+
+* **`reconciles_*=False` is the FILER's arithmetic**, never a transcription-defect claim.
+* **A BLANK `reconciles_*` is not a failure** — on `cumulative-exact` sides the schedule
+  restates the whole cycle and closes exactly on the cover's CUMULATIVE cell, a different scope
+  from the per-period figure published here.
+* **`recon_delta_*` is blank unless the transcriber recorded it.** It is deliberately NOT
+  derived as (itemized − stated): a delta side's anchor need not share the promoted cell's
+  scope. Ewell 2024 is the counterexample — cumulative schedule, Box D prints `0`, so the
+  derivation gives 2,729.23 where the page shows **119.27**. Tried, proved wrong, reverted.
+* **`needs_review` rides 1,394 rows but is dominated by blank filer dates** (1,292 of them);
+  only **102** rows are flagged for an actual reading concern.
+* **`extraction_confidence` is `medium`/`low` only** — never `high` on a scan, by contract.
+
+### Row-index traps — the failures arithmetic cannot see
+
+A side can close to the cent with every entry on the wrong printed line. Seven were found:
+the filer **skips the first ruled line**; a **continuation line** consumes a row; a **voided
+row** consumes a row; a **banner line** ("none since last report") occupies row 1; the ledger
+**continues below the last printed rule**; **two entries share one printed row**; and — tool-side
+— **`rowbands.py` can silently miss a grid's TOP rule**, opening the ledger at row 2 (verified
+at the source; recorded for [DEBT]). None of these is visible to the arithmetic gate.
+
+### Ten causes of a blank donor city/state
+
+Empty is not one fact: redacted by the county · filer left it empty · the form prints a ZIP but
+no city · lost in reproduction · city+zip but no state · **no address field on the blank at
+all** · a payment channel (`online`, `Paypal`) · the word `Anonymous` (the donor IS named, only
+the address is withheld) · the word `Unknown` · the cell prints a **COUNTY**. None was inferred.
+
+### Form variance — read it per FILING, never per cycle
+
+**There is no cycle → form-variant mapping.** `legacy_colAB` is alive in **2026** (one filing on
+the old Utah County Code 2-5-2 eagle-seal blank) alongside `modern_boxAF`; the `v. 12.23` footer
+appears on 2024 AND 2026 printings; **two different Schedule A blanks circulate within 2026**
+("City and Zip Code" vs "Address and Zip Code"); the `v. 12.23` blank itself has two print
+renderings with **different grid geometry**; and a v.12.23 COVER can sit over 2022 SCHEDULE
+sheets. **In-kind capability must be read per SHEET** — the column set is not monotonic across
+revisions. Orientation varies per PAGE (and within one report), so `pdfinfo` is a per-page oracle.
+
 
 ## The machine-readable itemized layer (built 2026-08-02, TRANCHE 3 Phase A)
 
@@ -369,9 +450,17 @@ city-scoped, and its dedup contract assumes an itemized layer this tranche does 
 
 Government-published public records, **redacted upstream by the county** (nearly every file is
 `*_Redacted.pdf`; donor addresses were blacked out by the clerk before publication). `raw/` and
-`text/` are verbatim reproductions and are not further edited, per repo-root `PRIVACY.md`. No
-structured donor rows exist in this package; if one is built later, it stores donor **city/state
-only**, never street addresses.
+`text/` are verbatim reproductions and are not further edited, per repo-root `PRIVACY.md`.
+
+**The structured donor layer exists (2026-08-20) and stores donor `city`/`state` ONLY — never a
+street address.** The rule was applied at **READ TIME**, not as a post-filter: no street line was
+ever transcribed into any field or note, including on filings the county published **unredacted**
+and on `_Redacted` filings where the clerk barred only the signature and left the candidate's own
+home address in the clear. A sweep of every published row for house-number-plus-street-type
+patterns, unit designators, PO boxes and ZIPs returns **zero hits in any column**. Where the
+county's own redaction removed a donor's **city** as well — inconsistently, row by row, on a
+document whose unredacted twin publishes it — the cell is honestly **blank** and was **not**
+backfilled from the sibling.
 
 The vision pass followed the same rule for the FILER: `vision/*.json` records
 `residence_city` only — **no street address and no phone number was transcribed**, even where

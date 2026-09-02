@@ -248,6 +248,20 @@ def main():
                 determinations[r["url"]] = r
                 determinations[r["url"].replace("%20", " ")] = r
 
+    # CURATED: candidate names read off the PAGE IMAGE for the handwritten generation, where
+    # `document_candidate` is tesseract noise. Keyed by the file's index path AND by url, so a
+    # determination is findable however the caller has the row. Absent file = old behaviour.
+    cand_det = {}
+    cpath = os.path.join(ROOT, "candidate_determinations.csv")
+    if os.path.exists(cpath):
+        with open(cpath, newline="", encoding="utf-8") as fh:
+            for r in csv.DictReader(fh):
+                if r.get("path"):
+                    cand_det[r["path"]] = r
+                if r.get("url"):
+                    cand_det[r["url"]] = r
+                    cand_det[r["url"].replace("%20", " ")] = r
+
     fetched, attempted = {}, {}
     for chan in sorted(os.listdir(RAW)):
         # ALL logs: the fetcher shards write _fetch_log.shard<N>.jsonl alongside the base log
@@ -467,11 +481,25 @@ def main():
                                      "portal listing, or filename - held out of index (never guessed)"))
             continue
 
+        # --- CURATED CANDIDATE DETERMINATIONS win over the OCR cascade -----------------
+        # Same contract as `office_determinations.csv`, for the same reason: on the HANDWRITTEN
+        # generation `doc_name` is tesseract's reading of a pen stroke, and on 36 files it is
+        # noise ("D A v 1 9) wh, TERE AD", "— .— Wier: Alber en ee", or a single stray letter).
+        # `candidate_determinations.csv` carries the name read from the PAGE IMAGE, with the
+        # cover line quoted as evidence, and it is the ONLY thing allowed to outrank the cascade
+        # here. It is a correction path, never a guess: a file with no determination row is
+        # untouched, and the OCR reading is always retained verbatim in `document_candidate`.
+        curated_cand = cand_det.get(rel) or cand_det.get(url) or {}
+
         portal_cand = (live_links.get(url, {}).get("portal_candidate", "")
                        or office_map.get(url.replace("%20", " "), {}).get("portal_candidate", ""))
         portal_cand = re.sub(r"\s*\((?:in|In)cumbent\)\s*$", "", portal_cand).strip()
-        candidate = portal_cand or doc_name
-        cand_src = "portal_listing" if portal_cand else ("document" if doc_name else "")
+        if curated_cand:
+            candidate = curated_cand["candidate"]
+            cand_src = "document(vision, candidate_determinations.csv)"
+        else:
+            candidate = portal_cand or doc_name
+            cand_src = "portal_listing" if portal_cand else ("document" if doc_name else "")
         if not candidate:
             # last resort: the county's own filename convention is
             # "<Office>_<Filer Name>_<period>_<posted>.pdf" -- take the first underscore

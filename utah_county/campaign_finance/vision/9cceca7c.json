@@ -3,7 +3,10 @@
  "key": "9cceca7c",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:36:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2012 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,339 @@
    "notes": "Handwritten block capitals. *** OFFICE SEEKING IS BLANK ON THE PAGE *** - the Office Seeking cell (and the phone/fax cells) are completely empty, so office_printed is '' . This DISAGREES with office_index, which carries 'County Commission Seat C'; nothing on either page of this filing states an office, so no office is transcribed. AMENDMENT: neither the 'Yes' nor the 'No' box is checked, so is_amendment is ''. Cents on lines 1 Column A and 2 (both columns) and line 7 are written as RAISED superscripts over the decimal point ('13,212' + raised '30'; '5,684.' + raised '06'; '7528.' + raised '24'); they are transcribed as full decimals. These readings were confirmed by enlarging the cells: line 4's thousands digit, which at page scale can look like an 8, is the filer's flat-topped 2 (13,212.30, matching lines 1 and 5). Line 3 is a hand-drawn oval zero. Line 7 alone is written WITHOUT a thousands comma ('7528.24'); kept as printed. TWO DIFFERENT DATES appear: the cover's signature Date reads '6-18-2012' (used for report_date) while the summary page's own 'Date of Report' box reads '6-19-12'; the clerk's Date received stamp is 'JUN 19 AM 11:22'. candidate_index was blank; the cover names LORNE W GRIERSON and the verification block LORNE GRIERSON. Page box reads 'Page 2 of 4'."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "5-1-12",
+   "donor_raw": "LORNE GRIERSON (LOAN TO SELF)",
+   "amount": "4836.30",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.16,18.50,9.88,3.94@p3",
+   "geometry_frame": "p3 axis=y cell=82.16-92.04 rowband=18.50-22.44 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "THE CANDIDATE'S OWN LOAN, written onto the contributions ledger with his own parenthetical '(LOAN TO SELF)' - kept verbatim as part of the donor string. Unlike Witney 2010 (ADDENDUM A4) the arithmetic makes this a real itemized contribution row: it is inside the schedule's printed subtotal and the summary's line 3 beginning balance is zero. Cents written RAISED ('4,836.' with a superscript 30). SURNAME LEGIBILITY: the fifth glyph carries a crossbar so the cell can be read 'GRIETSON'; the same hand prints GRIERSON in this sheet's own Last Name block and on the cover, and the row's address matches the candidate's, so GRIERSON is the reading. PRIVACY: the address cell prints a street line and a zip and NO CITY, so donor_city/donor_state are blank; the street is not carried and the city is NOT inferred from the zip code."
+  },
+  {
+   "line_no": "2",
+   "date": "5-3-12",
+   "donor_raw": "WOEL HUERMANN",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "verified": 1,
+   "geometry": "pct:82.16,22.44,9.88,3.95@p3",
+   "geometry_frame": "p3 axis=y cell=82.16-92.04 rowband=22.44-26.39 (2 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "NAME IS GENUINELY DOUBTFUL and is transcribed as the glyphs stand rather than normalised. A 1600 dpi crop shows the first name begins with an unmistakable four-stroke W (compare the filer's N in RONEY and JENSEN), giving 'WOEL'; the surname's third-to-fifth glyphs are a tall loop that could be read HUBERMANN as easily as HUERMANN. Flagged rather than guessed. Cents written RAISED. PRIVACY: street line and zip printed, no city on the form - city/state blank, and the city is not inferred from the zip."
+  },
+  {
+   "line_no": "3",
+   "date": "5-11-12",
+   "donor_raw": "CODY BURDICK",
+   "amount": "25.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.16,26.39,9.88,3.96@p3",
+   "geometry_frame": "p3 axis=y cell=82.16-92.04 rowband=26.39-30.35 (3 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Cents written RAISED. PRIVACY: street line and zip printed, no city on the form - city/state blank."
+  },
+  {
+   "line_no": "4",
+   "date": "5-18-12",
+   "donor_raw": "FRANCIS ROGERS",
+   "amount": "100.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.16,30.35,9.88,3.95@p3",
+   "geometry_frame": "p3 axis=y cell=82.16-92.04 rowband=30.35-34.30 (4 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Cents written RAISED. PRIVACY: street line and zip printed, no city on the form - city/state blank."
+  },
+  {
+   "line_no": "5",
+   "date": "6-11-12",
+   "donor_raw": "ROBERT GRIETING",
+   "amount": "1.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.16,34.30,9.88,3.93@p3",
+   "geometry_frame": "p3 axis=y cell=82.16-92.04 rowband=34.30-38.23 (5 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "A ONE-DOLLAR contribution, itemized like any other - kept because it is inside the schedule's printed subtotal and the side does not close without it. The leading digit of the date carries a short strike/overwrite; rows either side are June-dated and the glyph is the filer's 6. Surname kept verbatim as GRIETING (a different name from the candidate's own). Cents written RAISED. PRIVACY: street line and zip printed, no city on the form - city/state blank."
+  },
+  {
+   "line_no": "6",
+   "date": "6-11-12",
+   "donor_raw": "LINDA PETERSON",
+   "amount": "50.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.16,38.23,9.88,3.98@p3",
+   "geometry_frame": "p3 axis=y cell=82.16-92.04 rowband=38.23-42.21 (6 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Cents written RAISED. The filer wrote this row's zip ABOVE the address rule rather than on it. PRIVACY: street line and zip printed, no city on the form - city/state blank."
+  },
+  {
+   "line_no": "7",
+   "date": "6-11-12",
+   "donor_raw": "VALINE JENSEN",
+   "amount": "50.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.16,42.21,9.88,3.91@p3",
+   "geometry_frame": "p3 axis=y cell=82.16-92.04 rowband=42.21-46.12 (7 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "READ AS V, NOT U, ON THE FILER'S OWN GLYPH CONVENTION: this hand writes block-capital V with a fully rounded bowl indistinguishable from U - the identical glyph opens 'VISION' in 'SOUND VISION' on his Schedule B row 7, where the reading is not in doubt. Cents written RAISED. PRIVACY: street line and zip printed, no city on the form - city/state blank."
+  },
+  {
+   "line_no": "8",
+   "date": "6-12-12",
+   "donor_raw": "BROOK RONEY",
+   "amount": "600.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.16,46.12,9.88,3.95@p3",
+   "geometry_frame": "p3 axis=y cell=82.16-92.04 rowband=46.12-50.07 (8 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "PRIVACY: street line and zip printed, no city on the form - city/state blank."
+  },
+  {
+   "line_no": "9",
+   "date": "6-12-12",
+   "donor_raw": "JOSEPH SORENSON",
+   "amount": "5000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.16,50.07,9.88,3.96@p3",
+   "geometry_frame": "p3 axis=y cell=82.16-92.04 rowband=50.07-54.03 (9 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The largest contribution on the filing. DATE: the leading digit is heavily overwritten - a 1600 dpi crop shows one digit written on top of another - and is transcribed 6 because the neighbouring rows 8 and 10 are cleanly 6-12-12 and the pen correction is the filer's own (handwritten corrections over struck values govern); flagged. The first name also carries an overwrite across 'SEPH'. PRIVACY: street line and zip printed, no city on the form - city/state blank."
+  },
+  {
+   "line_no": "10",
+   "date": "6-12-12",
+   "donor_raw": "KATHLEEN SORENSON",
+   "amount": "2000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.16,54.03,9.88,3.90@p3",
+   "geometry_frame": "p3 axis=y cell=82.16-92.04 rowband=54.03-57.93 (10 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Same address block as row 9, written slightly differently by the filer ('RIDGECREEK' vs 'RIDGE CREEK'); both kept as observed and neither carried. PRIVACY: street line and zip printed, no city on the form - city/state blank."
+  },
+  {
+   "line_no": "11",
+   "date": "6-16-12",
+   "donor_raw": "GLORIA WINKEL",
+   "amount": "50.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.16,57.93,9.88,3.96@p3",
+   "geometry_frame": "p3 axis=y cell=82.16-92.04 rowband=57.93-61.89 (11 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Cents written RAISED. PRIVACY: street line and zip printed, no city on the form - city/state blank."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "3-28-12",
+   "vendor_raw": "UTAH COUNTY CLERK",
+   "amount": "519.48",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.06,19.55,9.88,3.93@p4",
+   "geometry_frame": "p4 axis=y cell=82.06-91.94 rowband=19.55-23.48 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The 2012 Utah County candidate filing fee, paid to the filing office itself; the identical 519.48 appears on Larry Alton Ellertson's 2012 pre-primary Schedule B. The 2012 Schedule B prints NO Purpose column, so purpose is honestly blank on every row of this side."
+  },
+  {
+   "line_no": "2",
+   "date": "3-28-12",
+   "vendor_raw": "X PEDX",
+   "amount": "21.78",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.06,23.48,9.88,3.95@p4",
+   "geometry_frame": "p4 axis=y cell=82.06-91.94 rowband=23.48-27.43 (2 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Written with a space, 'X PEDX'; a 1400 dpi crop confirms the final glyph is a crossed X, not a Y. The same vendor Ellertson writes 'XPEDX' on his own 2012 filing. Kept verbatim as this filer wrote it."
+  },
+  {
+   "line_no": "3",
+   "date": "3-29-12",
+   "vendor_raw": "FEDEX",
+   "amount": "42.47",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.06,27.43,9.88,3.91@p4",
+   "geometry_frame": "p4 axis=y cell=82.06-91.94 rowband=27.43-31.34 (3 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "4",
+   "date": "3-29-12",
+   "vendor_raw": "STAPLES",
+   "amount": "28.59",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.06,31.34,9.88,3.95@p4",
+   "geometry_frame": "p4 axis=y cell=82.06-91.94 rowband=31.34-35.29 (4 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "3-30-12",
+   "vendor_raw": "STAPLES",
+   "amount": "29.69",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.06,35.29,9.88,3.96@p4",
+   "geometry_frame": "p4 axis=y cell=82.06-91.94 rowband=35.29-39.25 (5 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "6",
+   "date": "4-11-12",
+   "vendor_raw": "ALPHA GRAPHICS",
+   "amount": "994.29",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.06,39.25,9.88,3.91@p4",
+   "geometry_frame": "p4 axis=y cell=82.06-91.94 rowband=39.25-43.16 (6 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "7",
+   "date": "5-18-12",
+   "vendor_raw": "SOUND VISION",
+   "amount": "391.07",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.06,43.16,9.88,3.95@p4",
+   "geometry_frame": "p4 axis=y cell=82.06-91.94 rowband=43.16-47.11 (7 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The V of VISION is the filer's rounded block-capital V - the same glyph read as V in 'VALINE JENSEN' on Schedule A row 7. The date's second digit carries a small overwrite."
+  },
+  {
+   "line_no": "8",
+   "date": "5-24-12",
+   "vendor_raw": "SPEAK BY DESIGN",
+   "amount": "1371.72",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.06,47.11,9.88,3.91@p4",
+   "geometry_frame": "p4 axis=y cell=82.06-91.94 rowband=47.11-51.02 (8 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The same consultancy that appears on Gregory Graves's 2014 Schedule B (the wave's reference record, key 40bd7997), spelled there 'Speakbydesign'/'Speak by design'. Amount written without a thousands comma."
+  },
+  {
+   "line_no": "9",
+   "date": "6-4-12",
+   "vendor_raw": "ALPHA GRAPHICS",
+   "amount": "885.44",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.06,51.02,9.88,3.96@p4",
+   "geometry_frame": "p4 axis=y cell=82.06-91.94 rowband=51.02-54.98 (9 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "DATE: the leading digit is written over an earlier one and reads as a heavy blot at 200 dpi; a 1400 dpi crop shows a pen correction. Transcribed 6-4-12 - it falls between row 8 (5-24-12) and row 10 (6-12-12) - and flagged rather than asserted."
+  },
+  {
+   "line_no": "10",
+   "date": "6-12-12",
+   "vendor_raw": "TIMPANOGOS",
+   "amount": "600.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.06,54.98,9.88,3.93@p4",
+   "geometry_frame": "p4 axis=y cell=82.06-91.94 rowband=54.98-58.91 (10 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Vendor written as a single word with no qualifier; kept verbatim and not expanded. The filer wrote 'RD' and the zip above the address rule."
+  },
+  {
+   "line_no": "11",
+   "date": "6-13-12",
+   "vendor_raw": "TIMPANOGOS",
+   "amount": "799.53",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:82.06,58.91,9.88,3.93@p4",
+   "geometry_frame": "p4 axis=y cell=82.06-91.94 rowband=58.91-62.84 (11 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Same payee and address as row 10."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r2_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED (13,212.30, the dollars written on the rule with the cents '30' RAISED above it) on the p2 Summary Page, which is ALSO Schedule A's own printed 'Subtotal for this page $ 13,212.30' and its printed 'Total Contributions Received $ 13,212.30', and is repeated in full at summary line 4",
+     "detail": "11 Schedule A rows sum to 4836.30 + 500.00 + 25.00 + 100.00 + 1.00 + 50.00 + 50.00 + 600.00 + 5000.00 + 2000.00 + 50.00 = 13,212.30 exactly = the schedule's own printed page subtotal = the schedule's printed total = the cover's promoted PER-PERIOD cell (Column A). THE LOAN QUESTION WAS DECIDED BY THE ARITHMETIC and it came out the OPPOSITE way from Witney 2010 (ADDENDUM A4): row 1 is the candidate's own 4,836.30 'LOAN TO SELF' written onto the contributions ledger, and here it IS an itemized contribution - without it the rows sum to 8,376.00 against a printed 13,212.30, and the summary's line 3 Balance at Beginning is an oval ZERO, so there is no beginning-balance slot for the loan to have gone into. Column B Year-to-Date also prints 13,212.30, the normal first-report-of-cycle case, so this is `exact` and not `cumulative-exact`. The ladder is internally exact: line 3 = 0, + line 4 13,212.30 = line 5 subtotal 13,212.30, - line 6 5,684.06 = line 7 close 7,528.24, all as printed."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 2 TOTAL EXPENDITURES MADE (5,684.06, cents raised) on the p2 Summary Page, which is ALSO Schedule B's own printed 'Subtotal for this page $ 5684.06' and its printed 'Total Expenditures Received $ 5684.06', and is repeated at summary line 6",
+     "detail": "11 Schedule B rows sum to 519.48 + 21.78 + 42.47 + 28.59 + 29.69 + 994.29 + 391.07 + 1371.72 + 885.44 + 600.00 + 799.53 = 5,684.06 exactly = the printed page subtotal = the printed total = Column A. No amount needed escalating; both sides closed on the first full-page read. Column B Year-to-Date prints 5,684.06 (first report of the cycle) and is never summed as an increment. CORROBORATION WORTH NOTING: row 1 pays the Utah County Clerk 519.48, the same figure to the cent that Larry Alton Ellertson pays the Utah County Clerk on his own 2012 pre-primary filing (key e00a4fae) - the 2012 county candidate filing fee. Two independent filings agreeing on a third-party figure is a useful check on both transcriptions; it was not used to derive anything."
+    }
+   },
+   "in_kind_convention": "monetary-only closed exactly on BOTH sides (13,212.30 and 5,684.06). This form prints no in-kind column and no row on either schedule is marked in-kind, so the monetary-plus-in-kind convention gives the identical sums and also closes. Both conventions tested per the per-filer rule.",
+   "escalations": 10,
+   "escalation_note": "Ten crops. Four are the geometry proofs. Six resolved LEGIBILITY of names and dates, none of amounts (no amount was in doubt - both sides closed to the cent on the 200 dpi read): the p3 row-1 name at 1600 dpi (the candidate's own 'LOAN TO SELF' line), the p3 row-2 and row-7 names at 1600 dpi, the p3 row-9 date at 1600 dpi (an overwritten leading digit), and the p4 row-2 and row-9 rows at 1400 dpi. Two 700 dpi full-width strips over p3 bands 1-5 and 6-11 served as the field-shift screen.",
+   "n_contrib_rows": 11,
+   "n_expend_rows": 11,
+   "geometry": {
+    "measured": 22,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Page-face candidate 'LORNE W GRIERSON' (verification block 'LORNE GRIERSON'), Political Party REPUBLICAN, residence city Orem UT. index.csv names NO candidate for this row (channel label 'Grierson - 06/19/12'), so the page face supplies the name. \u26a0 THE OFFICE SEEKING CELL IS BLANK ON THE PAGE, and so are the phone and fax cells - the filer left the whole bottom band of the cover's identity block empty. index.csv carries 'County Commission Seat C' from the acquisition channel (the 2008-2018 listing groups by office and encodes it in the PDF path), and NOTHING ON THIS DOCUMENT CORROBORATES OR CONTRADICTS THAT. Recorded here so the channel's office is visibly uncorroborated for this filing; no office is inferred, and this record does not adjudicate it. AMENDMENT: NEITHER the Yes box NOR the No box is ticked - an honest BLANK, never 'No' (ADDENDUM A4). Report type 'Seven days preceding the Primary Election' ticked. DATE DISAGREEMENT INSIDE THE FILING, not adjudicated: the cover signature is dated 6-18-2012 while all three following sheets print 'Date of Report 6-19-12'; the clerk stamp reads JUN 19 AM 11:22 and the county's filename says 061912. All transcribed as printed. Foliation 2/3/4 'of 4', INCLUDING the cover, like Ellertson and unlike Ballard. 4 pages on the 2012 legacy_colAB blank characterised on key 9630b1c7, each classified from its own printed header; the summary page (p2) was located by its printed heading. RAISED CENTS ARE THIS FILER'S HOUSE STYLE: most amounts on the summary page and on Schedule A print the dollars on the rule with the cents as a small superscript ('13,212' + raised '30', '5,684' + raised '06', '500' + raised '00'); each is that many cents, per the frozen contract. BOTH SIDES CLOSE EXACTLY on the promoted per-period Column A figure and on each schedule's own printed subtotal and total. \u26a0 A PRIVACY / COVERAGE PROPERTY WORTH REPORTING: NOT ONE ROW OF THIS SCHEDULE A NAMES A CITY. The filer wrote street line + ZIP CODE only on all eleven donor rows, so the privacy reduction to city/state yields NOTHING and donor_city/donor_state are honestly blank on every contribution row - blank because the form carries no city, not because the county redacted it (this is not a *_Redacted.pdf; ADDENDUM A5) and not because the filer left the cell empty. The zip codes were NOT converted into city names: that would be inference, not transcription. Analysts should expect legible, complete donor addresses in this era to still produce empty city/state columns."
+  }
+ }
 }

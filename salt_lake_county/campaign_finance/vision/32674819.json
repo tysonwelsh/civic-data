@@ -1,0 +1,145 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2016-10-27",
+   "donor_raw": "A. Scott Anderson",
+   "occupation": "President/CEO Zions",
+   "amount": "2,500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.41,23.25,86.62,4.00@p3",
+   "note": "Occupation cell reads 'President/CEO' with 'Zions' written above the line at the right; transcribed as one string. Address cell redacted at source. Name cell re-read at 900 dpi."
+  },
+  {
+   "line_no": 2,
+   "date": "2016-10-27",
+   "donor_raw": "Salt Lake Board of Realtors",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.41,27.25,86.62,4.00@p3",
+   "note": "name re-read at 900 dpi: 'Salt Lake' and 'Realtors' are clear, the middle word is compressed cursive read as 'Board of'. Occupation/Employer cell exists on this form and the FILER LEFT IT EMPTY (only a stray pen dot) - not redacted, not absent. Address cell redacted at source."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2016-12-19",
+   "vendor_raw": "City of Holladay",
+   "purpose": "Public Safety Officer Recognition Dinner",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:11.98,24.77,78.59,4.00@p4",
+   "note": "purpose written on two lines, 'Public Safety Officer' over 'Recognition Dinner'"
+  }
+ ],
+ "total_contributions": "3,000",
+ "total_expenditures": "500",
+ "beginning_balance": "23,984.36",
+ "ending_balance": "26,484.36",
+ "aggregate": {
+  "total_contributions_to_date": "29,229",
+  "total_expenditures_to_date": "2,744.93",
+  "line5_subtotal": "26,984.36"
+ },
+ "cover": {
+  "candidate": "SAMUEL FRANK GRANATO",
+  "party": "D",
+  "office_sought": "County Council",
+  "district_number": "4",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-17",
+  "form_year": "2016"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "medium",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2016_disclosures__2016_year_end__sam-granato_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Samuel Frank Granato",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2016_disclosures__2016_year_end__sam-granato_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Form title prints '2016 Financial Disclosure Report For a Candidate' (form_year 2016). YEAR-END box checked; neither amendment box ticked, so is_amendment is honestly blank. The Office cell (top row) reads 'County Council #4' and the Office Sought / District Number cells read 'County Council' / '4' - consistent, and both agree with the chunk file. The Page/of, Last Name and Date of Report header boxes on pages 2, 3 and 4 are ENTIRELY BLANK (the filer never filled them), so page order was established from the printed page titles alone. Schedule A's 'Complete Mailing Address' column is REDACTED AT SOURCE by a black box that also clips the right edge of the two contributor-name cells; donor_city/donor_state are blank as redacted at source, not as left empty. Confirms the juab finding for this form family: both inked rows are written ABOVE their ruling line.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "3,000",
+     "schedule_total": "3,000",
+     "itemized": "3000.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "2 rows (2,500 + 500) sum to 3,000 = the printed p3 SUBTOTAL = the printed TOTAL CONTRIBUTIONS RECEIVED = Summary line 1 Column A. No in-kind marker on the schedule."
+    },
+    "expenditures": {
+     "stated": "500",
+     "schedule_total": "500",
+     "itemized": "500.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "1 row of 500 = the printed p4 SUBTOTAL = the printed TOTAL EXPENDITURES MADE = Summary line 2 Column A."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 3,000 = printed subtotal 3,000 (EXACT); p4 rows 500 = printed subtotal 500 (EXACT).",
+   "escalations": 2,
+   "escalation_note": "p3 Name-of-Contributor column, two 900 dpi tight crops (row 1, row 2) - row 1 confirmed 'A. Scott Anderson'; row 2 confirmed the opening 'Salt Lake' and the closing 'Realtors', with the middle word compressed.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Form title prints '2016 Financial Disclosure Report For a Candidate' (form_year 2016). YEAR-END box checked; neither amendment box ticked, so is_amendment is honestly blank. The Office cell (top row) reads 'County Council #4' and the Office Sought / District Number cells read 'County Council' / '4' - consistent, and both agree with the chunk file. The Page/of, Last Name and Date of Report header boxes on pages 2, 3 and 4 are ENTIRELY BLANK (the filer never filled them), so page order was established from the printed page titles alone. Schedule A's 'Complete Mailing Address' column is REDACTED AT SOURCE by a black box that also clips the right edge of the two contributor-name cells; donor_city/donor_state are blank as redacted at source, not as left empty. Confirms the juab finding for this form family: both inked rows are written ABOVE their ruling line."
+  }
+ }
+}

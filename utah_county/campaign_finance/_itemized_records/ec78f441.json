@@ -1,0 +1,70 @@
+[{
+ "index_path": "raw/2014/2014_30DayAllen.pdf",
+ "key": "ec78f441",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r4_02)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3],
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "no-schedule-page", "expenditures": "transcribed"},
+ "withheld_reason": {
+  "contributions": "The retained document has NO Schedule A page at all. `pdfinfo` reports Pages: 3, and each page was read full-page and classified from its own printed heading: p1 the 2014 cover ('2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', Utah County Code 2-5), p2 'SUMMARY PAGE', p3 'SCHEDULE B / ITEMIZED EXPENDITURES MADE'. There is no fourth page and no Schedule A anywhere in the file. This is non-existence of the page, not a blank page and not an unread one — and it is consistent with the cover, whose line 1 Column A contributions cell is a handwritten oval ZERO."
+ },
+ "recon": {
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Column A 'Total this Period' expenditures, line 2 TOTAL EXPENDITURES MADE = 1,002.90 on the p2 SUMMARY PAGE — the same figure printed again at summary line 6 ('From Line 2 Column A'), at Schedule B's own 'Subtotal for this page' $1002.90, and at its 'Total Expenditures Received (Sum of subtotals from all Schedule B pages)' $1002.90",
+   "detail": "9 Schedule B rows sum to 109.93 + 63.82 + 342.77 + 219.91 + 21.34 + 102.48 + 60.85 + 63.86 + 17.94 = 1,002.90 exactly. That equals the schedule's printed page subtotal (1002.90), its printed Total Expenditures Received (1002.90), the cover's PROMOTED per-period cell (line 2 Column A = 1002.90) and summary line 6 (1002.90). FOUR printed anchors agree to the cent. Column B (Year-to-Date Total) is LEFT WHOLLY BLANK by this filer on both lines — there is no cumulative figure on this document to sum or to difference, and none was synthesized. The balance ladder also closes: line 3 beginning 0 + line 4 contributions 0 = line 5 subtotal 0, minus line 6 1002.90 = line 7 -1002.90, printed with the minus sign."
+  }
+ },
+ "in_kind_convention": "monetary-only closed exactly (1,002.90). Tested both: neither schedule on this form prints an in-kind column, no row on Schedule B is marked in-kind, and the cover prints no separate in-kind line, so the monetary-only and monetary-plus-in-kind conventions are numerically identical here and both close on the same figure.",
+ "escalations": 3,
+ "escalation_note": "Three 900 dpi tight-cell crops, all for GEOMETRY PROOF rather than to settle a figure: the row-1 amount box, the row-9 amount box and the row-10 (one-past-the-end) control band. A fourth 700 dpi strip crop of the Date + Name columns confirmed the two ditto marks and the vendor spellings. No amount was in doubt; nothing was re-read to change a value.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [82.53, 92.35],
+   "cells": [[8.35, 19.59], [21.00, 53.06], [54.53, 81.06], [82.53, 92.35]],
+   "rows": [[18.81, 22.68], [22.68, 26.52], [26.52, 30.39], [30.39, 34.25], [34.25, 38.14], [38.14, 42.00], [42.00, 45.84], [45.84, 49.75], [49.75, 53.61], [53.61, 57.50], [57.50, 61.36], [61.36, 65.25], [65.25, 69.11], [69.11, 72.98], [72.98, 76.84], [76.84, 80.70], [80.70, 84.59]],
+   "measure_note": "legacy_colAB UNDERLINE form (no boxed grid). rowbands.py on the RAW frame (deskew -0.1 deg, drift 0.13%) returns 17 per-column underlines at 22.68 .. 84.59 pct, fill 0.95, FOUR segments each — and those segments ARE the column bands: Date 8.35-19.59, Name 21.00-53.06, Address 54.53-81.06, Amount 82.53-92.35. Fitted pitch (84.59-22.68)/16 = 3.8694. THE TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch up from the first rule to [18.81, 22.68]. THE MANDATORY CONTROLS, both at 900 dpi with --value: (a) the §A1 FIRST-ENTRY crop pct:82.53,18.81,9.82,3.87@p3 rendered the printed word 'Amount' (the column header) ABOVE the handwritten '109.93' — i.e. the filer did NOT skip the first ruled line, and row 1 is the first written entry (recorded 109.93); (b) the LAST transcribed row, pct:82.53,49.75,9.82,3.86@p3, rendered '17.94' (recorded 17.94); (c) the §B5 NEGATIVE control one band past the end, pct:82.53,53.61,9.82,3.89@p3, rendered EMPTY — two bare rules and no ink — proving the band list is not off by one at the tail."
+  }
+ },
+ "contributions": [],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "3-24-14",
+   "vendor_raw": "Copies Plus Printing", "amount": "109.93", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "Schedule B on THIS 2014 filing reuses Schedule A's printed column headings — 'Date / Name of Contributor / Mailing Address & Zip Code / Amount' — and prints NO Purpose column, so purpose is honestly blank. (This is the older Schedule-B template; the other 2014 blank prints 'Purchased From/Source'.)"},
+  {"line_no": "2", "page": 3, "row": 2, "date": "3-24-14",
+   "vendor_raw": "Copies Plus Printing", "amount": "63.82", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "the payee cell is a DITTO MARK (\") repeating row 1; the value it repeats is carried per the filer's own notation. The address cell is a ditto mark too (not carried — expenditure rows hold no address)."},
+  {"line_no": "3", "page": 3, "row": 3, "date": "3-26-14",
+   "vendor_raw": "Copies Plus Printing", "amount": "342.77", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "payee cell is a DITTO MARK (\") repeating rows 1-2; value carried per the filer's own notation"},
+  {"line_no": "4", "page": 3, "row": 4, "date": "3-28-14",
+   "vendor_raw": "J-MART", "amount": "219.91", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "written in block capitals by the filer; the same vendor is written 'J. Mart' on line 6 and both spellings are kept verbatim"},
+  {"line_no": "5", "page": 3, "row": 5, "date": "3-24-14",
+   "vendor_raw": "Flags + Stuff", "amount": "21.34", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "the filer writes the ampersand as a plus sign"},
+  {"line_no": "6", "page": 3, "row": 6, "date": "4-3-14",
+   "vendor_raw": "J. Mart", "amount": "102.48", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "the date cell carries a small stray ink mark after the '4' (it reads '4.-3-14' at 700 dpi); the date itself is 4-3-14 and is kept in the filer's own hyphen form. Same vendor as line 4, spelled differently."},
+  {"line_no": "7", "page": 3, "row": 7, "date": "4-11-14",
+   "vendor_raw": "Copies Plus Printing", "amount": "60.85", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "the address cell on this row was LEFT EMPTY BY THE FILER (this era is unredacted — the county did not black out this document; the adjacent rows' address cells are fully visible)"},
+  {"line_no": "8", "page": 3, "row": 8, "date": "4-11-14",
+   "vendor_raw": "Walmart", "amount": "63.86", "in_kind": false,
+   "confidence": "medium", "verified": 1},
+  {"line_no": "9", "page": 3, "row": 9, "date": "4-11-14",
+   "vendor_raw": "Reams", "amount": "17.94", "in_kind": false,
+   "confidence": "medium", "verified": 1,
+   "note": "last written entry on the schedule; the 8 remaining printed rules (bands 10-17) are blank, confirmed by the one-past-the-end control crop"}
+ ],
+ "notes": "PAGE-FACE candidate 'Casey Allen' — index.csv names NO filer for this row ('(filer not named by the channel)'), so the page face fills an empty channel label; the page-face office is 'Ut County Commissioner Seat B', which agrees with the channel's 'County Commission Seat B'. Report type ticked: '30 Days after withdraw or elimination' (an X through the box), report date 5-19-14, party 'Republican', amendment question ticked 'No'. THREE pages only: cover / SUMMARY PAGE (located by its printed heading, at p2 as usual for legacy_colAB) / SCHEDULE B. NO SCHEDULE A PAGE EXISTS in the document — see withheld_reason.contributions. On the summary page, line 1 (contributions this period), line 3 (balance at beginning), line 4 and line 5 are all handwritten OVAL ZEROS and read 0 under the repo-wide zero-glyph ruling (the cover tranche read them the same way); they are numerals, not nil marks — this filer writes an unmistakable closed oval, and writes '-1002.90' with an explicit minus at line 7. BOTH Column B (Year-to-Date) cells are left entirely blank by the filer, so this filing carries no cumulative figure at all. PRIVACY: the 2014 filings in this batch are NOT redacted by the county — donor/vendor street lines are fully legible on the page — and no street line was carried into this record; expenditure rows carry no address field by contract. SOURCE PROPERTY worth recording: this 2014 filing's Schedule B uses the OLDER template that reuses Schedule A's headings ('Name of Contributor', 'Mailing Address & Zip Code'), confirming the brief's warning that 2014 circulates BOTH schedule templates."
+}]

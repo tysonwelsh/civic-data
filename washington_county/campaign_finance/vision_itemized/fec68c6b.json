@@ -1,0 +1,170 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W15.json",
+ "key": "fec68c6b",
+ "index_path": "raw/wayback_forms2018/June 19_Victor Iverson_FCR_06-19-2018.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/June 19_Victor Iverson_FCR_06-19-2018.pdf"
+ ],
+ "sha256_prefix": "2605e3b85d39cdf6",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "1,195.84",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "0",
+    "schedule_total": "1,195.84"
+   },
+   "itemized": "1195.84",
+   "basis": "schedule-total==cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A holds exactly one inked row, the candidate's own $1,195.84, and the sheet's printed footer TOTAL reads 1,195 with superscript 84 = 1,195.84, which equals cover line 1's CUMULATIVE cell. Both anchors agree, so the row set gates twice. The 'Totals from Last Report' and 'Totals from This report' columns are BLANK on all four cover lines (anchor \"\", the cells exist and the filer left them empty), so no per-period figure competes; the report covers 1/1/2018-6/19/2018, the filer's first of the 2018 cycle, and the scopes therefore coincide — recorded as cumulative. Cover line 2 (the $50-or-less aggregate) carries a single slashed-zero glyph in the cumulative cell = 0 per the zero-glyph ruling, so nothing is hidden in the un-itemized aggregate. Form A was scored against cover LINE 1 only, never line1+line2."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "1,195.84",
+    "schedule_total": "1,195.84"
+   },
+   "itemized": "1195.84",
+   "basis": "schedule-total==cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Five inked rows: 527.00 + 262.50 + 215.92 + 90.42 + 100.00 = 1,195.84, matching BOTH the sheet's printed footer TOTAL (1,195 superscript 84) and cover line 3's CUMULATIVE cell EXACTLY. The arithmetic is what settled two cramped cents groups: a low-resolution first pass read row 3 as 215.42 and row 2 as 262.50, which sums to 1,195.34 and misses the printed total by 0.50; the 1200-1800 dpi re-read resolved row 3's superscript as 92, and only 215.92 closes the schedule. Per §2, the document's own arithmetic outranks the glyph read. Last/This cover columns blank; first report of the 2018 cycle, so scope is cumulative."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: 1 row = 1,195.84 vs printed footer TOTAL 1,195.84 — closes exactly. p3: 5 rows sum 1,195.84 vs printed footer TOTAL 1,195.84 — closes exactly (running: 527.00, 789.50, 1005.42, 1095.84, 1195.84). Both schedule totals in turn equal their cover lines, so each side is double-anchored.",
+  "row_count": "rowbands.py exits 'gaps' on BOTH schedule pages (33 h-rules detected, interior rules missing at the measured pitch, positions INTERPOLATED; p2 deskew 0.5 deg, p3 deskew 0.1 deg) and explicitly warns 'ink found one pitch ABOVE the first rule (DEFECT 7 signature): the grid may open one row earlier'. That warning is CORRECT here and was crop-proven: the measured pitch is 1.75% and the first measured rule sits at 16.02/16.04%, so data row N occupies the band [rule N-1, rule N] with an unmeasured rule_0 at 14.29% — this filer writes ON the rule, with the ink body above it. Counting INK by eye on the full 200 dpi pages: p2 has exactly 1 inked row and p3 exactly 5 consecutive inked rows starting at the top of the grid, matching the 1 and 5 rows emitted. The tool's band count was NOT used as the row count.",
+  "geometry_proof": "p2: crop of the row-1 amount box (pct 72.02,14.29,11.15,1.75) at 1200 dpi renders that row's own '$ 1,195 84'; control crop one pitch below (y 16.04) renders only the pre-printed '$' = EMPTY. p3: first-row crop (pct 71.67,14.29,19.31,1.75) renders '$ 527 00'; last-row crop (row 5, y 21.32) renders '$ 100 00'; control one pitch past the last row (y 23.07) renders only the pre-printed '$' = EMPTY. Row index therefore confirmed unshifted on both sides. NOTE for consumers: every amount cell on this form carries a PRE-PRINTED '$', so 'empty' means '$ only'.",
+  "balance_chain": "DOES NOT CLOSE, and the discrepancy is the FILER's. Cover line 4 (balance at end of this reporting period) is written 1,195.84 in the CUMULATIVE cell. Contributions 1,195.84 minus expenses 1,195.84 = 0, so the balance line should read 0 (as this filer's own two schedules require, both spent to the dollar). The filer appears to have copied the expense total down into the balance line. Both printed figures are retained verbatim and NOTHING was recomputed or overwritten; the two itemized sides each still gate exactly against their own anchors, so this is a cover-line copy error, not an itemization error. No earlier filing by this filer in this chunk, so the cross-filing TOTALS-FROM-LAST-REPORT chain could not be run — and it would be uninformative here, since all three Last-Report cells are blank."
+ },
+ "escalations": 11,
+ "escalation_note": "600 dpi crop of the cover anchor grid (lines 1-3) and of line 4; 1200 dpi crops of the p2 row-1 amount cell + its control + the p2 footer TOTAL + the p2 date/name cells; 1200 dpi crops of the p3 amount column, date column, and the three geometry-proof boxes; 1800 dpi crops of the p3 vendor column, purpose column and the row-4/row-5 date cells; 2400 dpi crops of the row-4/row-5 day digits. The 2400 dpi step hit the SCAN's own raster floor (the source is an effectively ~200 dpi Xerox scan) and returned no new information beyond 1800 dpi — recorded so a later reader does not repeat it.",
+ "notes": "index.csv calls the candidate 'Victor Moses Iverson' and the office 'Commission Seat B'; the cover's 'Full Name of Candidate' reads Victor Moses Iverson and the 'Office' line reads 'Washington County Commission Seat B' — AGREES. County office, IN SCOPE (the 'Representative District' and 'In the ___ School District' lines are both blank, so this is not a school-board filing). ** FORM GENERATION: THIS IS A THIRD GENERATION THE ADDENDUM DOES NOT DESCRIBE. ** It is titled 'WASHINGTON COUNTY CANDIDATE / FINANCIAL CAMPAIGN REPORT' and cites 'Washington County Code 1-7-1' (not the Generation-1 Carr Printing 5-5-PG form, which cites Utah Code 17-16-6.5, and not the Generation-2 county-logo form). It shares Generation 1's dense ~33-40-line ruled grid and 3-page structure (no page-4 statute text) but, unlike Generation 1, it DOES print a footer TOTAL on both schedules and it DOES carry an 'In Kind?' column on Form A. So the addendum's rule 'Generation 1 prints no schedule total, the cover is your only anchor' does not hold for this form — good calibration-specimen candidate. Cover line 1's cumulative cell has a struck-out false start before the figure (a slashed-zero glyph the filer crossed through, then wrote 1,195 84 beside it); the crossed-out glyph is NOT a value and is not transcribed. Cents throughout this filing are written as SUPERSCRIPTS over a short rule (1,195 with a raised 84); per §3(g) they are transcribed with a decimal point. Form A's row-1 superscript cents physically OVERFLOW across the vertical rule into the 'In Kind?' column — that overflowing ink is the cents group, NOT an in-kind mark; the In Kind column is genuinely UNANSWERED on this row (blank, which per the addendum is not an 'N'). Privacy: the cover prints the candidate's street address, ZIP, home phone and business phone in the clear, and Form A's address cell holds a street address and ZIP with NO city; all discarded at read time — donor_city/donor_state are therefore honestly BLANK for the one contribution row rather than inferred from the ZIP. FIELD-SHIFT SCREEN: passed on both sides — every date cell holds date-shaped content, every name cell name-shaped content, and the count of names equals the count of amounts on each page (1 and 1 on p2; 5 and 5 on p3). Not a bundle (n_reports 1, agreeing with the chunk file) and not a cross-channel re-post of the other document in this chunk.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-01-01",
+   "donor_raw": "Victor Iverson",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "1195.84",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:72.02,14.29,11.15,1.75@p2",
+   "note": "Handwritten. Date cell reads '1/1/18'. Amount written '1,195' with superscript '84' over a rule = 1,195.84; the glyph group is cramped and the superscript overflows into the In Kind column, but the value is pinned exactly by the sheet's printed TOTAL and by cover line 1, which is why it is accepted at medium rather than low. In Kind column left BLANK (not answered 'N') -> in_kind false with the blank noted. The address cell held a street address and ZIP but NO city, so city/state are honestly blank after the privacy discard rather than inferred."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-03-09",
+   "vendor_raw": "Washington County",
+   "purpose": "Filing Fee",
+   "amount": "527.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:71.67,14.29,19.31,1.75@p3",
+   "note": "Handwritten. Date '3/9/18'. Amount '527' with superscript '00'. Filer writes the county as 'WAshington County' with a mid-word capital A; normalized spelling retained. Form B has no in-kind column on this generation."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2018-02-26",
+   "vendor_raw": "911 PENS",
+   "purpose": "Campaign Materials",
+   "amount": "262.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:71.67,16.04,19.31,1.78@p3",
+   "note": "Handwritten. Date '2/26/18'. Amount '262' with superscript '50'. Vendor written in mixed case as '911 PENS'."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2018-02-26",
+   "vendor_raw": "Bayside Candy",
+   "purpose": "Candy for Convention",
+   "amount": "215.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:71.67,17.82,19.31,1.75@p3",
+   "note": "Handwritten. Date '2/26/18'. Amount '215' with superscript '92'. THE CENTS GROUP WAS SETTLED BY ARITHMETIC, NOT BY THE GLYPH: a 200 dpi pass read it as 42, which leaves the schedule 0.50 short of its printed total; 92 is the only reading under which the five rows sum to the printed 1,195.84, and the 1800 dpi re-read is consistent with 92. Vendor glyphs 'BAyside CAndy'."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2018-04-12",
+   "vendor_raw": "Steam Rollers",
+   "purpose": "Campaign Flyers",
+   "amount": "90.42",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=low;purpose=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:71.67,19.57,19.31,1.75@p3",
+   "note": "Handwritten. Date cell reads '4/12/18' at low confidence — the day glyphs are cramped and the scan's raster floor was reached at 1800 dpi. Vendor glyph string reads 'SteAm RoMers'/'SteAmrollers'; transcribed as the legible reading 'Steam Rollers' at LOW confidence and flagged — it may be one word, and no plausible real business name was substituted. Amount '90' with superscript '42', pinned by the schedule total."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2018-04-16",
+   "vendor_raw": "Washington GOP",
+   "purpose": "Table for Convention",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:71.67,21.32,19.31,1.75@p3",
+   "note": "Handwritten. Date cell reads '4/16/18' but the DAY's second digit is BISTABLE between 6 and 8 ('4/16/18' vs '4/18/18'); escalation to 2400 dpi hit the source scan's own raster floor and could not separate them, and no arithmetic anywhere on the filing constrains a date. Best legible read retained at low confidence and FLAGGED — a human should re-read this cell against a better scan if one exists. Amount '100' with superscript '00'. Vendor 'WAshington GOP'."
+  }
+ ]
+}

@@ -3,7 +3,10 @@
  "key": "5c1545d3",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:50:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -63,5 +66,42 @@
    "notes": "A FAXED filing - both pages carry the transmission header '10/27/2014 3:18/3:19 PM FAX 8014651166 HANBY AND ASSOCIATES 0001/0002' - so the image is low-contrast and the pen strokes are broken. The Political Party cell holds only a short stray dash/stroke with no party word: transcribed '' and flagged unreadable, NOT inferred. The amendment question is ambiguous - a faint mark sits beside 'No' but it cannot be told from a scan artifact, so is_amendment is '' and flagged rather than assumed. On the summary page the filer entered slashed-zero glyphs ONLY at line 1 Column B, line 2 Column B, line 3 and line 7; lines 1 Column A, 2 Column A, 4, 5 and 6 are LEFT BLANK by the filer (blank, not zero) and are '' . A faint unidentifiable pen mark sits at the right edge of line 1 Column A; it is not a legible figure. The summary page's own header boxes (Page / of, Last Name, Date of Report) were left entirely blank, so report_date comes from the cover signature date 10-27-14. Index office 'County Sheriff' vs the page's 'SHERIFF' is a naming convention, not a conflict."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r3_02)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "no-schedule-page",
+    "expenditures": "no-schedule-page"
+   },
+   "withheld_reason": {
+    "contributions": "THE RETAINED DOCUMENT HAS NO SCHEDULE A PAGE AT ALL. `pdfinfo` reports Pages: 2, and both were read full-page: p1 is the cover ('2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES') and p2 is the SUMMARY PAGE, located by its printed heading. There is no third page. This is non-existence, not a blank schedule and not an unread one: no 'Subtotal for this page' line, no 'Total Contributions Received' line and no ruled grid exists anywhere in the file. INDEPENDENT CORROBORATION FROM THE DOCUMENT ITSELF: the filing is a FAX, and its own transmission banner numbers the sheets \u2014 p1 reads '10/27/2014 3:18 PM FAX 8014651166 HANBY AND ASSOCIATES 0001/0002' and p2 reads '... 3:19 PM ... 0002/0002' \u2014 so the fax that reached the Clerk was two pages, and the schedules were never sent. Nothing was lost in acquisition or by the county.",
+    "expenditures": "THE RETAINED DOCUMENT HAS NO SCHEDULE B PAGE AT ALL \u2014 same evidence as the contributions side: `pdfinfo` Pages: 2 (cover + Summary Page, both read full-page), and the fax's own page counter reads 0001/0002 and 0002/0002, so the two-sheet transmission is what the filer sent."
+   },
+   "recon": {},
+   "in_kind_convention": "not testable and not asserted \u2014 there are no schedule rows on this filing to test either convention against.",
+   "escalations": 3,
+   "escalation_note": "Three tight cell crops at 900 dpi on the p2 Summary Page, taken because this is a degraded FAX and an empty cell had to be told apart from a figure lost in reproduction (the C6 distinction). WHAT THEY RENDERED: (1) pct:58.3,40.5,11.4,5.0@p2, line 1 'TOTAL CONTRIBUTIONS RECEIVED' Column A \u2014 a GENUINELY EMPTY ruled cell (the only ink inside it is the overhanging tail of the neighbouring Column B glyph); (2) pct:58.3,49.0,11.4,5.2@p2, line 2 'TOTAL EXPENDITURES MADE' Column A \u2014 GENUINELY EMPTY; (3) pct:58.3,58.0,11.4,17.0@p2 covering lines 3 through 6 Column A \u2014 line 3 'Balance at Beginning of Reporting Period' renders a large SLASHED ZERO, and lines 4, 5 and 6 render EMPTY ruled cells. So the blanks are the filer's, not the fax's.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Rob Riding (page-face name; index.csv names NO candidate for this row \u2014 the 2008-2018 listing grouped by office), office printed 'SHERIFF', residence city Payson. Report type 'Seven days preceding the General Election', signed 10-27-14, and the amendment question IS answered here \u2014 the 'No' box carries a mark (unlike the two other write-in filings in this chunk, which leave it wholly blank). The Political Party field carries a single pen stroke and no party word; nothing is inferred from it.\n\nWHY BOTH SIDES ARE 'no-schedule-page' AND NOT 'empty-schedule': see withheld_reason. 'The filer entered nothing' and 'the page was never filed' are different facts and this is the second one \u2014 there is no Schedule A or Schedule B sheet in the document to be blank. A fax page counter printed by the sending machine ('0001/0002', '0002/0002') is a new and unusually strong form of evidence for that state, alongside the `pdfinfo` page count the brief names; it rules out a page dropped in transmission, in the county's scanning, or in this repo's acquisition.\n\nWHAT THE COVER DOES STATE, transcribed but NOT used to manufacture rows: on the p2 Summary Page, Column A ('Total this Period') is EMPTY at lines 1, 2, 4, 5 and 6, and carries a SLASHED ZERO at line 3 (Balance at Beginning) and at line 7 (Balance at Close). Column B ('Year-to-Date Total') carries a large SLASHED ZERO at line 1 and at line 2 \u2014 read 0 under the repo zero-glyph ruling. So the filing's own cumulative cells state ZERO contributions and ZERO expenditures year-to-date, which is consistent with there being no schedules to file, but it is a statement on the cover and it does not convert into itemized rows.\n\nTHE A3 BLANK-COVER RECOVERY WAS TESTED AND IS NOT AVAILABLE HERE \u2014 the B2 limit, and this is a clean second instance of it. Addendum A3 allows a blank Column A to be recovered from summary lines 4 ('From Line 1 Column A') and 6 ('From Line 2 Column A'); on this filing lines 4 and 6 are themselves EMPTY, proven by the 900 dpi crop above, so there is no per-period figure printed anywhere on the document. Nothing was differenced across covers and no figure was synthesized.\n\nThe blank Page/of, Last Name and Date of Report header boxes on p2 are a further foliation practice on top of the four Addendum C6 records and the blank-boxes practice seen on 06dd70a9 in this same chunk. Page ordinals locate nothing; both pages here were classified from their own printed headings.\n\nPRIVACY: no donor or vendor data exists on this filing; nothing was carried."
+  }
+ }
 }

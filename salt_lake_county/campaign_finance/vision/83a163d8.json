@@ -1,0 +1,98 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "0.00",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "0.00"
+ },
+ "cover": {
+  "candidate": "Erin Rider",
+  "party": "Republican",
+  "office_sought": "Salt Lake County Mayor",
+  "district_number": "County-Wide",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "02/02/26",
+  "form_year": null
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Rider-Erin__D43A7FAA.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Rider, Erin",
+  "office": "Mayor",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Rider-Erin__D43A7FAA.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Document name says 'Statement of Dissolution and Year End Report' but the file is the standard two-page cover + Summary with the Final/Dissolution box checked; there is NO separate dissolution statement page and no Schedule A or B page. Form title prints NO year ('Financial Disclosure Report For a Candidate'; 2026-form option set with Midterm Vacancy line). Every Summary figure (Columns A and B, lines 1-7) prints $0.00. 'Office' cell on cover left blank; Office Sought 'Salt Lake County Mayor', District Number 'County-Wide'. Signature Date field left blank; e-sign stamp reads '02/02/26 - 4:14 PM' (matches Summary header Date of Report 02/02/26).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page in the document; Summary line 1 prints $0.00"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page in the document; Summary line 2 prints $0.00"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages; nothing to gate",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Document name says 'Statement of Dissolution and Year End Report' but the file is the standard two-page cover + Summary with the Final/Dissolution box checked; there is NO separate dissolution statement page and no Schedule A or B page. Form title prints NO year ('Financial Disclosure Report For a Candidate'; 2026-form option set with Midterm Vacancy line). Every Summary figure (Columns A and B, lines 1-7) prints $0.00. 'Office' cell on cover left blank; Office Sought 'Salt Lake County Mayor', District Number 'County-Wide'. Signature Date field left blank; e-sign stamp reads '02/02/26 - 4:14 PM' (matches Summary header Date of Report 02/02/26)."
+  }
+ }
+}

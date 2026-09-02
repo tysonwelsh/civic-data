@@ -1,0 +1,131 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C15.json",
+ "key": "5cf963a5",
+ "index_path": "raw/2020/2020_st_CAMPAIGN_FINANCE_ERICKSON.pdf",
+ "applies_to": [
+  "raw/2020/2020_st_CAMPAIGN_FINANCE_ERICKSON.pdf"
+ ],
+ "sha256_prefix": "85833e3d800f5309",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr-5-5-pg-form-A",
+  "expenditures": "carr-5-5-pg-form-B"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "500.00",
+    "cover_over50_cum": "500.00",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "cover_balance_end": "2.05",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "500.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One row, 500.00, equals cover line 1 in BOTH the THIS and the CUMULATIVE column (LAST-REPORT is a slashed-O with a stroke, i.e. a zero glyph, so this is the only report of the cycle and the two scopes coincide). Cover line 2 - the never-itemized $50-or-less aggregate - is a zero glyph in all three columns, so there is no small-donor amount outside the itemisation; reconciling against line 1 alone is therefore also the whole story here. The Carr form prints NO schedule total on Form A; the cover line is the only anchor. The THIS and CUMULATIVE cells are written '500.' with a superscript 'oo' cents group over a short rule = 500.00."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "497.95",
+    "cover_expense_cum": "497.95",
+    "cover_balance_end": "2.05",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "497.95",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Two rows, 112.75 + 385.20 = 497.95, equal cover line 3 in BOTH the THIS and the CUMULATIVE column (LAST-REPORT is a zero glyph), so the two scopes coincide and scope is recorded cumulative. The Carr Form B prints no schedule total; the cover line is the only anchor."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "neither Carr schedule prints a subtotal or a total. p2 rows 500.00 = cover line 1 (500.00 THIS and CUMULATIVE); p3 rows 112.75 + 385.20 = 497.95 = cover line 3 (497.95 THIS and CUMULATIVE). Both gate EXACTLY.",
+  "row_count": "rowbands.py --dpi 200 returns geometry_status 'ok' with 36 bands on p2 and 36 on p3 - the ~35 writing lines plus the header band. Scored against INK, not bands: p2 has ink in exactly 1 band (plus a wrapped 'INC' continuation of the same contributor's name on the line below, which is NOT a second row - it carries no date, no amount and no digits) = 1 row emitted; p3 has ink in exactly 2 bands = 2 rows emitted.",
+  "geometry_proof": "p2 first-row box (pct:81.80,9.77,12.74,3.03) crops to '$500.oo'; it is also the last row; control one row-pitch below renders EMPTY (a single bare rule and three specks of scanner dust). p3 first-row box (pct:81.80,9.47,12.74,2.58) crops to '$112.75', last-row box (pct:81.80,12.05,12.74,2.73) crops to '$385.20', and the control one pitch below the last row renders EMPTY.",
+  "balance_chain": "CLOSES EXACTLY: 0 (nothing from a prior report) + 500.00 contributions - 497.95 expenditures = 2.05, and cover line 4 prints 2.05 in both the THIS and CUMULATIVE columns. This is the only filing in the chunk whose cover balance line is internally consistent. Its line-4 LAST-REPORT cell is genuinely BLANK (verified in a 600 dpi crop - lines 1, 2 and 3 all carry a visible zero glyph in that column, line 4 carries nothing), which is a DIFFERENT fact from a zero and is recorded as such."
+ },
+ "escalations": 6,
+ "escalation_note": "p2 amount cell + control at 1200 dpi; p3 amount cells (both rows in one band crop) + control at 1200 dpi; p3 date/vendor/purpose columns at 600 dpi; p1 cover lines 1-3 and line 4 at 600 dpi. The 600 dpi text crop corrected a contact-sheet misread of the row-2 vendor ('Sqmau One Printing' at 90 dpi -> 'Square One Printing' at 600 dpi).",
+ "notes": "Chunk file vs form: index candidate 'ERICKSON' - the form's 'Full Name of Candidate' reads DAVID ERICKSON (first name recoverable, should be attached downstream). Index office 'County Council' = the form's 'Name of Office: Cache County Council', 'Office District: North District', Political Party Republican. IN SCOPE (county office). Addressed TO 'Jess Bradfield' County Clerk; dated 10-27-20; clerk stamp 'CLERK-OCT 27 '20 AM 10:42:51'. || p4 is the printed Cache County Code 2.21.040/2.21.050 statute text that the Carr form carries as its page four - not a filer attachment, no data. || PRIVACY: the contributor's full street address and ZIP are printed in the clear on Form A and were reduced to city+state at read time; the candidate's own street address, ZIP and home phone on the cover were likewise discarded. || The single contribution is an organisational donor (a Realtors association), not an individual.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-10-02",
+   "donor_raw": "Cache Valley Assoc of Realtors INC",
+   "donor_city": "Logan",
+   "donor_state": "ut",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.80,9.77,12.74,3.03",
+   "note": "date written '10-2-20'. The contributor name WRAPS to a second line: 'Cache Valley Assoc of Realtors' then 'INC' on the line below, joined here - the continuation carries no digits, no date and no amount, so it is a wrapped name and not a second row. 'Assoc' is the filer's own abbreviation, kept verbatim. Amount written '$500.' with a superscript 'oo' cents group -> 500.00. The state is written lower-case 'ut' on the form and kept verbatim"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "Filing Fee for CC",
+   "amount": "112.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.80,9.47,12.74,2.58",
+   "note": "date written '3-13-20'. Purpose verbatim 'Filing Fee for CC' (CC = County Council, the filer's abbreviation - not expanded). Amount written '$112.' with a superscript '75' over a rule -> 112.75"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-08-11",
+   "vendor_raw": "Square One Printing",
+   "purpose": "Campaign Signs",
+   "amount": "385.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.80,12.05,12.74,2.73",
+   "note": "date written '8-11-20'. Vendor read as 'Sqmau One Printing' on the 90 dpi contact sheet; the 600 dpi crop reads 'Square One Printing' unambiguously"
+  }
+ ]
+}

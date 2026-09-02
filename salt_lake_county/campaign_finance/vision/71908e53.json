@@ -1,0 +1,91 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Jared Esselman",
+  "party": null,
+  "office_sought": null,
+  "district_number": null,
+  "report_type": "Small Budget Campaign Certificate",
+  "is_amendment": null,
+  "amendment_of": "",
+  "report_date": "2026-04-06",
+  "form_year": ""
+ },
+ "confidence": {},
+ "_meta": {
+  "index_path": "raw/easyvote/Esselman-Jared__D88DEC17.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Esselman, Jared",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Esselman-Jared__D88DEC17.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Single-page Salt Lake County Clerk 'Small Budget Campaign Certificate' (County and Local School Board Candidates), name 'Jared Esselman', digitally signed 04/06/26 1:50 PM, date field 04/06/26. No office, party, figures, Summary Page or schedules anywhere in the document - the chunk prior office 'County Council District 5' is not confirmable from the page. Not a school-board document on its face (certificate covers both county and school board candidates; no office line printed).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {
+    "contributions": "no Schedule A in the document - single-page Small Budget Campaign Certificate",
+    "expenditures": "no Schedule B in the document - single-page Small Budget Campaign Certificate"
+   },
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no figures anywhere in the document; certificate only attests the campaign does not expect to exceed $2,000 in aggregate contributions or expenditures"
+    },
+    "expenditures": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no figures anywhere in the document"
+    }
+   },
+   "page_subtotal_gates": "no printed subtotals in the document",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Single-page Salt Lake County Clerk 'Small Budget Campaign Certificate' (County and Local School Board Candidates), name 'Jared Esselman', digitally signed 04/06/26 1:50 PM, date field 04/06/26. No office, party, figures, Summary Page or schedules anywhere in the document - the chunk prior office 'County Council District 5' is not confirmable from the page. Not a school-board document on its face (certificate covers both county and school board candidates; no office line printed)."
+  }
+ }
+}

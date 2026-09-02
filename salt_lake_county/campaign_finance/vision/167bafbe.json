@@ -47,6 +47,57 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "BOTH the Year-End and the Final/Dissolution boxes are checked (solid squares); neither amendment box is checked. The Office Sought box is BLANK, so the value recorded is the top-row Office box, \"County Treasurer\" (per the two-office-box rule). District Number is blank. The cover's Report Verification Date line is blank (the signature is redacted); the date recorded, 1-24-23, is the Date of Report printed in the Summary Page header. Both Column B cells and Line 4 Column A were left BLANK (recorded as \"\", not 0)."
+  "notes": "BOTH the Year-End and the Final/Dissolution boxes are checked (solid squares); neither amendment box is checked. The Office Sought box is BLANK, so the value recorded is the top-row Office box, \"County Treasurer\" (per the two-office-box rule). District Number is blank. The cover's Report Verification Date line is blank (the signature is redacted); the date recorded, 1-24-23, is the Date of Report printed in the Summary Page header. Both Column B cells and Line 4 Column A were left BLANK (recorded as \"\", not 0).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A page p3 present and wholly blank (no lines; SUBTOTAL and TOTAL cells printed but left empty). Summary line 1 Column A prints 0.00; zero rows is a real zero."
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "Schedule B page p4 present and wholly blank (no lines; SUBTOTAL and TOTAL cells printed but left empty). Summary line 2 Column A prints 0.00; zero rows is a real zero."
+    }
+   },
+   "page_subtotal_gates": "no printed page subtotals to gate on (p3/p4 subtotal and total cells blank); zero rows vs stated 0.00/0.00",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2022 'Financial Disclosure Report For a Candidate' form. Filename/index reporting_period say 'K. Wayne Cushing - Dissolution' but the document is the full 2022 standard report with BOTH Year-End (January 31) AND Final/Dissolution boxes checked on the cover; amendment Yes/No both unchecked. Candidate/office confirmed at page: K. Wayne Cushing, County Treasurer, Republican. Summary p2 date of report 1-24-23 (index prior 2023-01-24 confirmed). Chunk stated priors 0.00/0.00 confirmed at p2. pp5-7 are the Other Campaign Accounts summary (all cells blank) and its two itemized pages (wholly blank). No page-number boxes filled on any page. Cover address block bar-redacted at source; no itemized rows exist, so no donor data."
+  }
  }
 }

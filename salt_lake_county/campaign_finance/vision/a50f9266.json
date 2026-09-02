@@ -1,0 +1,150 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2020-11-25",
+   "vendor_raw": "GO DADDY",
+   "purpose": "WEBSITE",
+   "amount": "19.99",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.52,23.48,79.10,4.14@p4",
+   "note": "all-capitals hand, blue ink. Schedule B prints no address column."
+  },
+  {
+   "line_no": 2,
+   "vendor_raw": "GO DADDY",
+   "purpose": "WEBSITE",
+   "amount": "19.99",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.52,27.61,79.10,4.09@p4",
+   "note": "DATE LEFT BLANK ON PURPOSE. The cell reads '12/2?/20': month 12 and year 20 are unambiguous, but the day's second digit is an open-topped rounded glyph that is NOT this writer's '5' (compare the clear angular 5 in the 11/25 and 1/25 rows on the same page). Re-rendered as a 900 dpi cell crop and still not resolvable - it is most consistent with a 4, but 6 cannot be excluded, and no arithmetic on this filing can settle a date. Per the strict-date rule the day is NOT completed; the verbatim is recorded here. The month and year are certain, so the row sits inside the reporting period either way."
+  },
+  {
+   "line_no": 3,
+   "date": "2021-01-25",
+   "vendor_raw": "GO DADDY",
+   "purpose": "WEBSITE",
+   "amount": "19.99",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.52,31.70,79.10,4.14@p4",
+   "note": "dated in 2021, inside a 2020 year-end report - correct for a January-31 report, and kept verbatim."
+  }
+ ],
+ "total_contributions": "0",
+ "total_expenditures": "59.97",
+ "beginning_balance": "1008.13",
+ "ending_balance": "948.16",
+ "aggregate": {
+  "total_contributions_to_date": "7981.22",
+  "total_expenditures_to_date": "7036.06",
+  "line5_subtotal": "1008.13"
+ },
+ "cover": {
+  "candidate": "AARON DEKEYZER",
+  "party": "DEMOCRAT",
+  "office_sought": "COUNTY COUNCIL",
+  "district_number": "6",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2/1/2021",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/forms__dekeyzer-financial-disclosure_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "AARON DEKEYZER",
+  "office": "County Council",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/forms__dekeyzer-financial-disclosure_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "THE CHUNK-FILE FLAG IS CONFIRMED AND IS BENIGN: the cover title prints '2020 Financial Disclosure Report' while the form is signed 2/1/2021 and its YEAR-END box is ticked - this is the 2020 YEAR-END report, filed in the January-31 window of 2021, on the 2020 form stock. form_year is the printed title VERBATIM ('2020') and is not the cycle; the reporting period is the 2020 year-end, agreeing with the chunk file. Its Schedule B rows run 11/25/20 to 1/25/21, which is what a January-31 year-end covers. || SEVEN-PAGE FORM, 2019-2021 VINTAGE: pages 5-7 are the trailing 'Other Campaign Accounts' block - a Summary Page whose Column B header reads 'YEAR TO DATE' (NOT 'Aggregate Total'), plus its own itemized contributions and itemized expenditures pages. That summary is a DIFFERENT TABLE and its figures were NOT merged into totals{}, which carries only the standard Summary Page on p2. All seven of its cells are a handwritten '0' and both trailing itemized grids are blank and struck through, so the filer is asserting no other campaign accounts - but they are recorded as their own fact, not folded into the county sides. || Cover: the top-row 'Office' cell is EMPTY; the office is taken from the 'Office Sought' cell, which reads 'COUNTY COUNCIL' with District Number '6' - agreeing with the chunk file. The amendment question is answered: the 'No' box carries a tick (the stroke's tail crosses the word 'Yes' above it but the Yes BOX is empty), so is_amendment is 'No' - the only filing in this chunk where either amendment box is marked. || Clerk 'For Office Use Only' box is EMPTY - there is no RECEIVED stamp anywhere on this document, so the only date it carries is the filer's own 2/1/2021. || SOURCE: this PDF was produced by 'TurboScan by Piksoft' (a phone-camera scanner app), page size 609x792 pts rather than 612x792, and every page carries a faint ghost of the FACING page bleeding through - the p2 render shows a Schedule A grid behind the Summary table and the p4 render shows the Summary table behind Schedule B. That bleed-through is NOT data and nothing was read from it. || PRIVACY: the cover street-address row, the phone/fax/email row and the signature line are black-barred at source. Schedule A is blank so no address question arises; Schedule B prints no address column at all.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "detail": "A REAL ZERO. The county Schedule A grid on p3 is present and wholly empty across all 15 ruled data rows, struck corner-to-corner with a single blue diagonal line, with a handwritten '0' in BOTH the SUBTOTAL FOR THIS PAGE and the TOTAL CONTRIBUTIONS RECEIVED cells; Summary line 1 Column A and line 4 both carry a plain '0'. All three period-scope anchors agree at zero, so the side is exact. (This filer's schedule totals are period-scope and correctly summed - the DeBry inversion in this chunk does NOT occur here; it was tested, not assumed.)",
+     "result": "exact"
+    },
+    "expenditures": {
+     "stated": "59.97",
+     "schedule_total": "59.97",
+     "itemized": "59.97",
+     "basis": "summary-line-2",
+     "detail": "3 rows of 19.99 sum to 59.97 = printed SUBTOTAL FOR THIS PAGE 59.97 = printed TOTAL EXPENDITUTRES MADE 59.97 = Summary line 2 Column A 59.97 = Summary line 6. EXACT on every anchor. No in-kind marker on the side.",
+     "result": "exact"
+    }
+   },
+   "page_subtotal_gates": "p3 zero rows = printed SUBTOTAL FOR THIS PAGE '0' (EXACT). p4 rows 19.99 + 19.99 + 19.99 = 59.97 = printed SUBTOTAL FOR THIS PAGE 59.97 (EXACT). The two Other-Campaign-Accounts itemized pages (p6, p7) each print their own SUBTOTAL/TOTAL of '0' against a blank grid - recorded here for completeness, NOT merged into either side.",
+   "escalations": 2,
+   "escalation_note": "p4 date column re-rendered as a 900 dpi cell crop twice (first attempt mis-placed, second at x=850,y=2400,W=1150,H=1150) to settle the day digit in row 2; it did not resolve and the date is left BLANK per the contract.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "THE CHUNK-FILE FLAG IS CONFIRMED AND IS BENIGN: the cover title prints '2020 Financial Disclosure Report' while the form is signed 2/1/2021 and its YEAR-END box is ticked - this is the 2020 YEAR-END report, filed in the January-31 window of 2021, on the 2020 form stock. form_year is the printed title VERBATIM ('2020') and is not the cycle; the reporting period is the 2020 year-end, agreeing with the chunk file. Its Schedule B rows run 11/25/20 to 1/25/21, which is what a January-31 year-end covers. || SEVEN-PAGE FORM, 2019-2021 VINTAGE: pages 5-7 are the trailing 'Other Campaign Accounts' block - a Summary Page whose Column B header reads 'YEAR TO DATE' (NOT 'Aggregate Total'), plus its own itemized contributions and itemized expenditures pages. That summary is a DIFFERENT TABLE and its figures were NOT merged into totals{}, which carries only the standard Summary Page on p2. All seven of its cells are a handwritten '0' and both trailing itemized grids are blank and struck through, so the filer is asserting no other campaign accounts - but they are recorded as their own fact, not folded into the county sides. || Cover: the top-row 'Office' cell is EMPTY; the office is taken from the 'Office Sought' cell, which reads 'COUNTY COUNCIL' with District Number '6' - agreeing with the chunk file. The amendment question is answered: the 'No' box carries a tick (the stroke's tail crosses the word 'Yes' above it but the Yes BOX is empty), so is_amendment is 'No' - the only filing in this chunk where either amendment box is marked. || Clerk 'For Office Use Only' box is EMPTY - there is no RECEIVED stamp anywhere on this document, so the only date it carries is the filer's own 2/1/2021. || SOURCE: this PDF was produced by 'TurboScan by Piksoft' (a phone-camera scanner app), page size 609x792 pts rather than 612x792, and every page carries a faint ghost of the FACING page bleeding through - the p2 render shows a Schedule A grid behind the Summary table and the p4 render shows the Summary table behind Schedule B. That bleed-through is NOT data and nothing was read from it. || PRIVACY: the cover street-address row, the phone/fax/email row and the signature line are black-barred at source. Schedule A is blank so no address question arises; Schedule B prints no address column at all."
+  }
+ }
+}

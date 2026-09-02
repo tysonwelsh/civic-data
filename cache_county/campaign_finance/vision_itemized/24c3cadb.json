@@ -1,0 +1,102 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C21.json",
+ "key": "24c3cadb",
+ "index_path": "raw/2024/2024_cc_2024_General_Barbara_Yost_Tidwell.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_General_Barbara_Yost_Tidwell.pdf"
+ ],
+ "sha256_prefix": "471016a98c8bdc6e",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other",
+  "5": "filer-attachment"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "Ø",
+    "cover_over50_cum": "Ø",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "301.13",
+    "box_A_balance_begin": "Ø",
+    "box_F_subtotal": "301.13",
+    "schedule_total": "Ø",
+    "page_subtotal": "Ø"
+   },
+   "itemized": "0",
+   "basis": "schedule-total==page-subtotal==cover-boxB==cover-boxC (all zero glyphs)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule A carries no ledger line: the filer wrote a large 'N/A' across the middle of the grid and put a slashed-zero glyph in BOTH the printed 'Subtotal for this page' and 'Total Contributions Received' cells. Per the repo zero-glyph ruling a slashed Oe/-0- IS zero (verbatim glyph kept), so the schedule is a real zero, not a gap. Box B (This Period) and Box C (Year to Date) carry the same slashed-zero glyph and are therefore equal - the two scopes coincide, recorded as cumulative."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "301.13",
+    "cover_expense_cum": "301.13",
+    "cover_balance_end": "301.13",
+    "schedule_total": "301.13",
+    "page_subtotal": "301.13"
+   },
+   "itemized": "301.13",
+   "basis": "schedule-total==page-subtotal==cover-boxD==cover-boxE",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One row, 301.13, equal to the printed 'Subtotal for this page $ 301.13', the printed 'Total Expenditures Made $ 301.13', Box D (This Period) AND Box E (Year to Date) - D and E are equal, so the two scopes coincide; recorded as cumulative."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: zero rows = printed subtotal (slashed-zero glyph) = printed total (slashed-zero glyph). p3: one row 301.13 = printed subtotal 301.13 = printed total 301.13. Both gate exactly.",
+  "row_count": "Independent amount-column ink profile: p2 (x 78-95%) returns NO value band anywhere between the header rule and the subtotal block - 0 rows, matching 0 emitted; the only handwriting on the sheet is the 'N/A' in the contributor/address columns and the two zero glyphs in the footer block. p3 returns exactly ONE value band (y 18.77-20.36 pct, maxdark 30 = pen ink) above the first rule and nothing below it, matching 1 row emitted.",
+  "geometry_proof": "p3: crop of the FIRST(=only) row's amount box pct:82.00,18.60,11.00,2.00 at 600 dpi renders '301.13'; the control box one row-pitch (4.55%) below renders EMPTY. Proof passes. NOTE ON METHOD: on-screen estimates of x-position in these renders proved unreliable, so every pct here is measured programmatically from the page's own ink profile, then proved by crop.",
+  "balance_chain": "DOES NOT CLOSE - filer arithmetic, retained verbatim. Box A (0, slashed-zero) + Box B (0, slashed-zero) should give Box F = 0, but the filer wrote F = 301.13; and Box F - Box D would then be 301.13 - 301.13 = 0, but the filer wrote Balance at Close = 301.13. The filer appears to have carried the expenditure total into F and into the close instead of the contribution total. Both printed figures are kept exactly as written and no figure was recomputed or overwritten. On the filer's own inputs an honest close would be -301.13 (spent 301.13 against zero contributions). No earlier filing by this filer in this chunk, so the cross-filing cumulative chain was not run here."
+ },
+ "escalations": 4,
+ "escalation_note": "600 dpi crops of the p2 'Subtotal' and 'Total Contributions' zero glyphs (both resolve to an oval with a diagonal stroke through it = slashed zero, not a numeral and not a stray mark); 500 dpi crop of the p4 A/B/C boxes (same slashed-zero glyph in all three); 600 dpi crops of the p3 amount cell and its control.",
+ "notes": "FORM VINTAGE DIFFERS FROM THE OTHER 2024 FILINGS IN THIS CHUNK: this cover is titled 'Financial Campaign Report for County Offices' with NO 'and Local School Board Candidates' clause, and its Type-of-Report list has FIVE options (adds the two Primary-Election rows). Office line reads 'County Council Seat 2' (chunk says 'County Council' - agrees, form is more specific). Report type marked 'Seven days preceding the General Election'; amendment = No. The cover's own 'Date of Report' box is BLANK; the signature is dated 10/29/24 and the p2/p3/p4 footers all read 10/29/24 - the chunk file's 2024-11-01 appears nowhere on the form. Left margin of p1 carries a clerk RECEIVED stamp ('CLERK/AUDITOR ... 2024 OCT 29') - a stamp, not a field. PAGE 5 is a FILER ATTACHMENT: Square One Printing invoice 442142, dated 07/12/2024, TOTAL $301.13, AMOUNT PAID $301.13 - it independently corroborates the single Schedule B row's date and amount, but it is an attachment, so its four invoice line items (36.10 / 42.90 / 2.43 / 200.00, subtotal 281.43 + state tax 19.70) are NOT transcribed as transactions. Candidate street address, phone and email printed in the clear on the cover were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-07-12",
+   "vendor_raw": "Square One Printing",
+   "purpose": "Print yard signs and cards",
+   "amount": "301.13",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,18.60,11.00,2.00@p3",
+   "note": "Purpose written on two lines ('Print yard signs' / 'and cards') - joined verbatim. Handwritten date 7/12/2024, independently corroborated by the invoice attached as p5 (invoice date 07/12/2024, total $301.13)."
+  }
+ ]
+}

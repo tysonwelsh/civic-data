@@ -1,0 +1,265 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2024-10-30",
+   "donor_raw": "Steve VanMaren",
+   "occupation": "Retired",
+   "amount": "55.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,11.52,85.69,3.00@p3",
+   "note": "address redacted at source; city/state do not survive"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-11-07",
+   "donor_raw": "Rashelle Hobbs",
+   "occupation": "Recorder",
+   "amount": "2497.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,14.52,85.69,2.96@p3",
+   "note": "address redacted at source; city/state do not survive"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-11-19",
+   "donor_raw": "Will Kocher",
+   "occupation": "Deputy Recorder",
+   "amount": "4000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,17.48,85.69,4.41@p3",
+   "note": "address redacted at source; city/state do not survive"
+  },
+  {
+   "line_no": 4,
+   "date": "2024-11-22",
+   "donor_raw": "Rashelle Hobbs",
+   "occupation": "Recorder",
+   "amount": "2200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,21.89,85.69,3.00@p3",
+   "note": "address redacted at source; city/state do not survive"
+  },
+  {
+   "line_no": 5,
+   "date": "2024-11-29",
+   "donor_raw": "Steve VanMaren",
+   "occupation": "Retired",
+   "amount": "55.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,24.89,85.69,3.00@p3",
+   "note": "address redacted at source; city/state do not survive"
+  },
+  {
+   "line_no": 6,
+   "date": "2024-12-29",
+   "donor_raw": "Steve VanMaren",
+   "occupation": "Retired",
+   "amount": "55.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.28,27.89,85.69,2.91@p3",
+   "note": "address redacted at source; city/state do not survive"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-10-31",
+   "purpose": "Transaction fees for ActBlue - October",
+   "amount": "5.55",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.30,13.70,86.13,1.64@p4",
+   "note": "recipient cell left blank by filer"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-11-07",
+   "vendor_raw": "May Bryant",
+   "purpose": "Video Production",
+   "amount": "2497.75",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.30,15.34,86.13,1.59@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-11-22",
+   "vendor_raw": "SL Democratic Party",
+   "purpose": "Electronic Outreach",
+   "amount": "6195.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.30,16.93,86.13,1.59@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2024-11-30",
+   "purpose": "Transaction fees for ActBlue - November",
+   "amount": "150.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.30,18.52,86.13,1.64@p4",
+   "note": "recipient cell left blank by filer"
+  },
+  {
+   "line_no": 5,
+   "date": "2024-12-19",
+   "purpose": "Wix Campaign Wegsite",
+   "amount": "244.53",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.30,20.16,86.13,1.61@p4",
+   "note": "recipient cell left blank by filer; purpose printed 'Wegsite' (sic), verbatim"
+  },
+  {
+   "line_no": 6,
+   "date": "2024-12-31",
+   "purpose": "Transaction fees for ActBlue - December",
+   "amount": "0.83",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.30,21.77,86.13,1.64@p4",
+   "note": "recipient cell left blank by filer"
+  }
+ ],
+ "total_contributions": "8862.75",
+ "total_expenditures": "9094.36",
+ "beginning_balance": "408.01",
+ "ending_balance": "176.40",
+ "aggregate": {
+  "total_contributions_to_date": "52026.00",
+  "total_expenditures_to_date": "51942.82",
+  "line5_subtotal": "9270.76"
+ },
+ "cover": {
+  "candidate": "Rashelle Hobbs",
+  "party": "DEM",
+  "office_sought": "County Recorder",
+  "district_number": "At Large",
+  "report_type": "Year-End Report: January 31 of each year (box checked)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2025-01-24",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Hobbs-Rashelle__8CB3F28E.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Hobbs, Rashelle",
+  "office": "Recorder",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Hobbs-Rashelle__8CB3F28E.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "4-page PDF self-paginates 1 of 3 / 2 of 3 / 3 of 3 with the cover an unnumbered extra sheet (matches audit prior). No county Schedule A/B grid pages; filer-produced replicas with a 'Complete Address' header ARE the schedules. Form titled '2024 Financial Disclosure Report For a Candidate'; year-end report signed January 24, 2025. Summary line 7 prints '176.40' with no dollar sign. Column B aggregates HANDWRITTEN: contributions $52,026.00; expenditures read at 600dpi as $51,942.82 \u2014 the chunk file's audit_notes prior says $51942.92; the page governs (cents read .82, not .92). The filer's Column B chain also carries its own arithmetic gaps (Sept ColB 31,621.00 + Oct 11,642.25 + Dec 8,862.75 = 52,126.00 vs the handwritten 52,026.00) \u2014 filer's arithmetic, retained verbatim. Schedule B row 5 purpose printed 'Wix Campaign Wegsite' (sic). Complete Address column bar-redacted on Schedule A; Occupation/Employer survives. Candidate herself appears as a contributor twice (11/7 and 11/22).",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "8862.75",
+     "schedule_total": "8862.75",
+     "itemized": "8862.75",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "6 rows sum 8862.75 = attachment Subtotal/TOTAL = Summary line 1 Column A"
+    },
+    "expenditures": {
+     "stated": "9094.36",
+     "schedule_total": "9094.36",
+     "itemized": "9094.36",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "6 rows sum 9094.36 = attachment SUBTOTAL/TOTAL = Summary line 2 Column A"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 8862.75 = printed Subtotal for this Page 8862.75 = TOTAL 8862.75; p4 rows 9094.36 = printed SUBTOTAL 9094.36 = TOTAL 9094.36",
+   "escalations": 6,
+   "escalation_note": "p2 Column B handwritten figures 600dpi crops x2; p3 600dpi half-width band x2; p4 600dpi half-width band x2 \u2014 all rows re-read identically, verified=1",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "4-page PDF self-paginates 1 of 3 / 2 of 3 / 3 of 3 with the cover an unnumbered extra sheet (matches audit prior). No county Schedule A/B grid pages; filer-produced replicas with a 'Complete Address' header ARE the schedules. Form titled '2024 Financial Disclosure Report For a Candidate'; year-end report signed January 24, 2025. Summary line 7 prints '176.40' with no dollar sign. Column B aggregates HANDWRITTEN: contributions $52,026.00; expenditures read at 600dpi as $51,942.82 \u2014 the chunk file's audit_notes prior says $51942.92; the page governs (cents read .82, not .92). The filer's Column B chain also carries its own arithmetic gaps (Sept ColB 31,621.00 + Oct 11,642.25 + Dec 8,862.75 = 52,126.00 vs the handwritten 52,026.00) \u2014 filer's arithmetic, retained verbatim. Schedule B row 5 purpose printed 'Wix Campaign Wegsite' (sic). Complete Address column bar-redacted on Schedule A; Occupation/Employer survives. Candidate herself appears as a contributor twice (11/7 and 11/22)."
+  }
+ }
+}

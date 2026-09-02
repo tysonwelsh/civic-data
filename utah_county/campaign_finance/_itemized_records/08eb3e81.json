@@ -1,0 +1,59 @@
+[{
+ "index_path": "raw/2020/2020_Andrea-4-15-22-General_Redacted.pdf",
+ "key": "08eb3e81",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r7_02)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "delta",
+   "anchor": "BOX B 'Contributions Received this Period' (3195.65) on the SUMMARY PAGE, which on this modern_boxAF filing is the LAST page (p4, located by its printed heading). ⚠ BOX B IS THE ONLY ANCHOR THAT EXISTS FOR THIS SIDE: the filer left BOTH of Schedule A's printed footers - 'Subtotal for this page' and 'Total Contributions Received (Sum of all Schedule A pages in this report)' - COMPLETELY BLANK, so there is no page-scope figure to gate against and none was synthesized",
+   "detail": "2 Schedule A rows sum to 500 + 2695.55 = 3,195.55 against Box B's 3,195.65 - a shortfall of 0.10, RETAINED VERBATIM. The trace: BOTH figures are machine-set type on a born-digital fillable form, escalated to 1600 dpi and 800 dpi crops respectively, and both are unambiguous - the row cell reads '2695.55' and Box B reads '3195.65'. 500 + 2695.65 would equal Box B exactly, so the discrepancy is a single typed digit inside the filer's own document; but the ROW is the document's own statement of that transaction and it is NOT nudged to make the box close (CHUNK_BRIEF section 3). Screening done first: the grid is FULLY BOXED and every one of its 15 cells was rendered in a single 500 dpi column crop - rows 3 to 15 are empty ruled cells, so trap H3 (two entries in one row) and trap F1.5 (a ledger continuing below the grid) are both excluded, and there is no third entry hiding anywhere. Correlated-error screen: the filer's OTHER 2020 filing in this chunk (key 55b040ff) closes to the cent on both sides, so this is a one-off, not a habit. Box C 'Contributions Received Year to Date' prints 12592.15 and is NEVER summed as an increment."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "BOX D 'Expenditures Made this Period' (3325.19) on the p4 Summary Page. As on Schedule A, the filer left BOTH of Schedule B's printed footers blank, so Box D is the only anchor this side has",
+   "detail": "4 Schedule B rows sum to 654.99 + 545 + 2050.20 + 75.00 = 3,325.19 exactly = Box D. Box E (Year to Date) prints 12592.15 and is never summed. The cover ladder is internally consistent up to Box F: Box A 129.54 + Box B 3195.65 = Box F 3325.19 as printed."
+  }
+ },
+ "in_kind_convention": "not applicable on this filing - tested both ways per ADDENDUM G1 with the same result: the v.4.20 form prints no in-kind column, no row is marked in-kind, and no contribution is mirrored by an equal offsetting expenditure. The expenditure side closes on the monetary-only reading, which here is also the monetary-plus-in-kind reading; the contribution side's 0.10 shortfall is unaffected by the convention either way.",
+ "escalations": 2,
+ "escalation_note": "Two cells escalated because the contribution side does not close: Schedule A row 2's amount (1600 dpi tight crop - rendered '2695.55' in clean machine type, no ambiguity) and summary Box B (800 dpi - rendered '3195.65', also machine type). Escalation resolves legibility, never truth: both figures are certain, so the 0.10 is a fact about the filer's own typed document and neither cell was changed.",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [78.77, 91.89],
+   "cells": [[6.68, 19.89], [19.89, 50.36], [50.36, 78.77], [78.77, 91.89]],
+   "rows": [[17.84, 22.21], [22.21, 26.62]],
+   "measure_note": "modern_boxAF Schedule A, a FULLY BOXED 15-row grid (a row lies between its own two rules; nothing is extrapolated), skew -0.3 deg. rowbands.py returns 19 horizontal rules of which 17.84..83.41 are the grid and 84.43/88.18/92.00 are the footer name/date box; the 5 vertical rules ARE the column bands (Date 6.68-19.89, Name of Contributor 19.89-50.36, Address and Zip Code 50.36-78.77, Amount 78.77-91.89). The filer used 2 of the 15 rows. TWO-CROP PROOF at 900-1600 dpi: the row-1 box pct:78.77,17.84,13.12,4.37@p2 rendered '500' inside its ruled cell under the printed 'Amount' header tab (first-entry control PASSED - the filer started on row 1); the row-2 box pct:78.8,22.21,13.1,4.41@p2 rendered '2695.55'; and the ONE-PAST-THE-END control pct:78.77,26.62,13.12,4.36@p2 (row 3) rendered an EMPTY ruled cell. A full-column 500 dpi crop of all 15 cells confirms rows 3-15 are empty."
+  },
+  "3": {
+   "axis": "y",
+   "cell": [78.70, 91.88],
+   "cells": [[6.67, 19.79], [19.79, 50.29], [50.29, 78.70], [78.70, 91.88]],
+   "rows": [[17.73, 22.09], [22.09, 26.43], [26.43, 30.84], [30.84, 35.21]],
+   "measure_note": "Same boxed grid, skew -0.2 deg: grid rules 17.73..83.27 (92.45 is the footer box) and columns Date 6.67-19.79, Provider/Vendor 19.79-50.29, Purpose 50.29-78.70, Amount 78.70-91.88. The filer used 4 of the 15 rows. TWO-CROP PROOF at 900 dpi: the row-1 box pct:78.70,17.73,13.18,4.36@p3 rendered '654.99' under the 'Amount' header tab (first-entry control PASSED); the row-4 box pct:78.70,30.84,13.18,4.37@p3 rendered '75.00'; and the ONE-PAST-THE-END control pct:78.70,35.21,13.18,4.31@p3 (row 5) rendered an EMPTY ruled cell - no figure, and no printed subtotal there either, because this filer left both footers blank."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 2, "row": 1, "date": "6-25-20",
+   "donor_raw": "Cottonwood Title", "donor_city": "Salt Lake City", "donor_state": "UT",
+   "amount": "500", "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "THIS ROW IS UNREDACTED - the county left the full address in the clear here while blacking out the row below, an inconsistency within a single page of a single filing (the file is named '_Redacted'). PRIVACY: the street and suite printed on the form are deliberately not carried; only city and state are. Amount typed as a bare integer with no cents, verbatim."},
+  {"line_no": "2", "page": 2, "row": 2, "date": "7-31-20",
+   "donor_raw": "Andrea Allen", "amount": "2695.55", "in_kind": false,
+   "confidence": "medium", "verified": 1, "needs_review": 1,
+   "note": "THE CANDIDATE'S OWN CONTRIBUTION, entered as a contribution row by the filer (no 'loan' wording appears anywhere on this filing). The whole address cell is covered by a black bar - REDACTED BY THE COUNTY, not left empty by the filer - so donor_city and donor_state are honestly BLANK and nothing was inferred, not even from the same filer's own address on the cover or on his other filing (cross-document inference is inadmissible, ADDENDUM C3). NEEDS REVIEW because this is the cell that carries the side's 0.10 shortfall: 500 + 2695.55 = 3195.55 against Box B's 3195.65. The figure is machine-set type, escalated to 1600 dpi, and reads 2695.55 beyond doubt; it is retained exactly as the document prints it."}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "6-27-20", "vendor_raw": "RumbleUp", "purpose": "Voter Outreach", "amount": "654.99", "in_kind": false, "confidence": "medium", "verified": 1, "note": "the v.4.20 Schedule B prints its own 'Purpose' column (Date / Provider/Vendor / Purpose / Amount), so purpose is a real printed field on this form, unlike every legacy_colAB blank."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "6-29-20", "vendor_raw": "Facebook", "purpose": "Advertising", "amount": "545", "in_kind": false, "confidence": "medium", "verified": 1},
+  {"line_no": "3", "page": 3, "row": 3, "date": "7-19-20", "vendor_raw": "BCR Political, LLC", "purpose": "Campaign Help", "amount": "2050.20", "in_kind": false, "confidence": "medium", "verified": 1, "note": "the same vendor appears on the filer's June report as 'BCR Political' without the LLC suffix; both spellings kept verbatim on their own documents."},
+  {"line_no": "4", "page": 3, "row": 4, "date": "7-19-20", "vendor_raw": "BCR Political, LLC", "purpose": "Website Hosting And Email", "amount": "75.00", "in_kind": false, "confidence": "medium", "verified": 1}
+ ],
+ "notes": "Andrea Allen, Utah County RECORDER, 2020 cycle - the SECOND of two Allen filings in this chunk. ⚠ THE TWO ARE NOT THE SAME REPORT AND WERE NOT MERGED. This one is 'Seven days preceding the General Election', report date 10-26-20, Box A 129.54 / Box B 3195.65 / Box D 3325.19, with two contribution rows and four expenditure rows; key 55b040ff is 'Seven days preceding the Primary Election', report date 6/23/20, Box A 0 / Box B 9396.50 / Box D 9266.96, with thirteen and fifteen rows. Different report type, different dates, different figures, disjoint row sets - two distinct reports by one filer in one cycle, each transcribed on its own terms. (Observation only, used as no gate: this report's Box A 129.54 is the other report's balance at close, and its Box C/E year-to-date figures are consistent with the two periods being additive - noted because it confirms they are sequential reports, NOT because any figure was differenced across covers, which the contract forbids.) ⚠ THE FILENAME IS MISLEADING: the county's channel names the file '2020_Andrea-4-15-22-General_Redacted.pdf', embedding a '4-15-22' that appears nowhere on the page - the page face carries 10-26-20 throughout. The page face governs. FORM: modern_boxAF v. 4.20, born-digital fillable, four pages - p1 cover / p2 Schedule A / p3 Schedule B / p4 SUMMARY PAGE (LAST, located by heading); boxes A / B / C / D / E / F with an UNLETTERED 'Balance at Close of Reporting Period (Box F - Box D)' box; no checklist decoy; the 'Page' field is blank on every page, so the filing carries no foliation. TWO DOCUMENT PROPERTIES WORTH RECORDING: (1) BOTH SCHEDULES HAVE THEIR PRINTED FOOTERS LEFT ENTIRELY BLANK - no page subtotal and no cycle total on either sheet - so each side has exactly ONE anchor, the summary box, and there is no second independent figure to cross-check; that is a real narrowing of the evidence and it is stated rather than papered over. (2) A FILER LADDER ERROR, transcribed as printed and NOT adjudicated: the 'Balance at Close of Reporting Period (Box F - Box D)' box is filled in as 3325.19, the same figure as Box F and Box D, where the form's own formula gives 3325.19 - 3325.19 = 0. Nothing was recomputed. REDACTION is inconsistent WITHIN this one page: Schedule A row 1's full address is published in the clear while row 2's is entirely blacked out, and the cover's signature is blacked out. Expenditures reconcile EXACTLY on Box D; contributions carry a 0.10 typed-digit delta, retained verbatim."
+}]

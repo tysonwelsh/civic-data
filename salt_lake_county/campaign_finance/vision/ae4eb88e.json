@@ -1,0 +1,142 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "COUNTY CLERK",
+   "purpose": "FILING FEE",
+   "amount": "1,001.97",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.81,23.38,77.54,3.73@p3",
+   "note": "handwritten"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-01-02",
+   "vendor_raw": "DESERET FIRST",
+   "purpose": "BANK FEES",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.81,27.11,77.54,3.73@p3",
+   "note": "handwritten"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-01-02",
+   "vendor_raw": "RICHARD SNELGROVE",
+   "purpose": "CAMPAIGN EXPENSE",
+   "amount": "26.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:12.81,30.84,77.54,3.72@p3",
+   "note": "handwritten; candidate reimbursement-style entry"
+  }
+ ],
+ "total_contributions": "0.00",
+ "total_expenditures": "1,051.97",
+ "beginning_balance": "1,077.97",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "1,077.27",
+  "total_expenditures_to_date": "1,051.97",
+  "line5_subtotal": "1,077.97"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "January 31 year-end",
+  "is_amendment": "Yes",
+  "amendment_of": "4-3-24",
+  "report_date": "4-3-24",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Snelgrove-Richard__774CD1F3.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Snelgrove, Richard ",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Snelgrove-Richard__774CD1F3.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Wholly handwritten. 2024 form 'For a Candidate'; YEAR-END January 31 box checked AND marked as an amendment dated 4-3-24; signed 4-3-24; clerk RECEIVED stamp APR 03 2024. The cover's Office cell reads 'COUNTY COUNCIL AT LARGE B' while the Office Sought cell is left blank. INTERNAL DISCREPANCY: stated line 2 = 1,051.97 vs schedule total / line 6 = 1,077.97 (matches audit prior). Dates on all three rows written '1-2-24' (or '1.2.24') style.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {
+    "contributions": "no Schedule A page anywhere in the document (cover + Summary + Schedule B only); Summary line 1 Col A reads 0.00 - a real zero, no contradiction"
+   },
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page in the document; Summary line 1 Col A 0.00 (Col B aggregate 1,077.27)"
+    },
+    "expenditures": {
+     "stated": "1,051.97",
+     "schedule_total": "1,077.97",
+     "itemized": "1,077.97",
+     "basis": "schedule-grand-total",
+     "result": "delta",
+     "detail": "3 rows 1,001.97 + 50.00 + 26.00 = 1,077.97 = Schedule B printed SUBTOTAL and TOTAL = Summary line 6 (1,077.97). Summary line 2 (Col A AND Col B) reads 1,051.97 - exactly 26.00 short, the amount of the third row; the page governs and line 2 appears to be the filer's slip, retained verbatim"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 1,077.97 = printed subtotal 1,077.97 = printed TOTAL 1,077.97",
+   "escalations": 2,
+   "escalation_note": "600dpi crops of p3 rows 1-3 left (date+recipient) and right (purpose+amount) - re-read identically",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 3,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Wholly handwritten. 2024 form 'For a Candidate'; YEAR-END January 31 box checked AND marked as an amendment dated 4-3-24; signed 4-3-24; clerk RECEIVED stamp APR 03 2024. The cover's Office cell reads 'COUNTY COUNCIL AT LARGE B' while the Office Sought cell is left blank. INTERNAL DISCREPANCY: stated line 2 = 1,051.97 vs schedule total / line 6 = 1,077.97 (matches audit prior). Dates on all three rows written '1-2-24' (or '1.2.24') style."
+  }
+ }
+}

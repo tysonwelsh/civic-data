@@ -1,0 +1,260 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C17.json",
+ "key": "e8fc486d",
+ "index_path": "raw/2020/2020_st_campaign_finance_tripp.pdf",
+ "applies_to": [
+  "raw/2020/2020_st_campaign_finance_tripp.pdf"
+ ],
+ "sha256_prefix": "b90f70b08b39e499",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg Form A, ruled grid, 9 hand-written rows",
+  "expenditures": "carr_5_5_pg Form B, ruled grid, 2 hand-written rows"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "2,350.00",
+    "cover_over50_cum": "",
+    "cover_le50_last": "",
+    "cover_le50_this": "25.00",
+    "cover_le50_cum": "",
+    "cover_expense_last": "",
+    "cover_expense_this": "697.00",
+    "cover_expense_cum": "",
+    "cover_balance_end": "1,678.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "2,485.00",
+   "basis": "cover-line1-this (the only anchor: the CUMULATIVE and LAST columns are left entirely blank by the filer and the Carr form prints no schedule total)",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "9 rows sum to 2,485.00. Subsets: rows STRICTLY over $50.00 = 2,360.00; all rows except the single 25.00 (which is exactly cover line 2's small-donor aggregate) = 2,460.00. Cover line 1 reads 2,350.00 - so NO reading of the schedule closes on the printed figure: the residual is +10.00 on the strict-over-$50 basis and +110.00 on the all-but-the-$25 basis. Every amount was re-read in 1200 dpi -normalize cell crops; the reading is as good as the page allows. Cause traced as far as the page permits: the COVER is internally consistent (2,350.00 + 25.00 - 697.00 = 1,678.00 = its own balance line, exactly), so the filer computed his balance from the 2,350.00 he wrote, and it is his cover total - not the transcription - that disagrees with his schedule. (Arithmetic curiosity, offered as an observation and NOT as a claim about intent: 1,000 + 600 + 500 + 100 + 100 + 50 = 2,350.00 exactly, i.e. the cover figure equals a subset of these rows; no such subset is stated anywhere on the document.) NOTE on this hand: the filer's '5' and '6' are near-identical; row 3 (60.00) and rows 2/6 (50.00) were separated by comparing lead-in strokes at 1200 dpi. Under the alternative reading row3=50.00 the totals become 2,475.00 / 2,300.00 / 2,450.00 - still a delta on every basis, so the delta finding does not depend on that digit."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "697.00",
+    "cover_expense_cum": "",
+    "cover_balance_end": "1,678.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "708.00",
+   "basis": "cover-line3-this (the only anchor; no schedule total is printed and the CUMULATIVE column is blank)",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "2 rows, 642.00 + 66.00 = 708.00, against cover line 3's printed 697.00 - a residual of +11.00. Both amounts were re-read at 1200 dpi with -normalize ('$642.00' and '$66.00' are unambiguous at that scale) and the schedule holds no third row (the control band below row 2 renders empty). Again the cover is self-consistent (697.00 is the figure its balance line is built from), so the 11.00 is the filer's own arithmetic."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "the Carr form prints NO schedule total on either schedule, so the cover lines are the only anchors (cache addendum §A). p2: rows-sum 2,485.00 (strict over-$50 subset 2,360.00) vs cover line 1's 2,350.00 - WILL NOT GATE, residual +10.00 / +110.00 depending on subset. p3: rows-sum 708.00 vs cover line 3's 697.00 - WILL NOT GATE, residual +11.00. Both figures are reported verbatim and no row was adjusted to close either gap.",
+  "row_count": "rowbands.py p2 returns geometry_status 'gaps' (it drops the rules under the dense ink - the known tool DEBT), so the ink rows were counted by eye at 200 dpi and again in the 600 dpi name/amount column crops: 9 rows of ink, then an empty grid to the foot of the sheet. 9 rows emitted; the geometry control crop one pitch below row 9 renders empty, which independently proves there is no 10th row. p3: 2 inked rows, control below renders empty. 2 rows emitted.",
+  "geometry_proof": "p2: first-row amount crop renders '$25', last-row (9) crop renders '$500', control one row-pitch below renders EMPTY. p3: the amount-column crop renders '$642.00' then '$66.00' in their two row boxes and the band below renders empty.",
+  "balance_chain": "cover: 2,350.00 (line 1) + 25.00 (line 2) - 697.00 (line 3) = 1,678.00 = line 4, EXACTLY. The cover therefore closes on its own figures while disagreeing with both schedules (see recon). CROSS-FILING - IMPORTANT: the same filer's post-general summary (key 4b42dae4 in this chunk, signed 11/18/2020) carries the IDENTICAL cover figures (2,350.00 / 25.00 / 697.00 / 1,678.00) in the same THIS column, leaves TOTALS FROM LAST REPORT blank, and re-itemizes the SAME 9 donors and 2 expenditures. So the pair does NOT chain in the form's intended sense - the later report restates the cycle rather than reporting a new period. A naive sum of this filer's two filings would DOUBLE-COUNT every donor and every expenditure; both are marked scope 'cumulative' for that reason."
+ },
+ "escalations": 11,
+ "escalation_note": "1200 dpi -normalize cell crops of cover lines 1, 2, 3 and 4; of Form A rows 2, 3, 4, 7, 8 and 9 amounts; of Form B rows 1 and 2 amounts; plus 600 dpi column crops of the whole date column, the whole name column and the whole amount column. The 5-vs-6 glyph question (rows 2/3 and rows 8/9) was worked by comparing lead-in strokes within THIS document only - the sibling copy was deliberately not used to settle any glyph (core §2: agreement across copies is correlated error).",
+ "notes": "index.csv says candidate 'tripp', office 'County Council'. The cover reads 'Full Name of Candidate: Adam K S Tripp', 'Name of Office: Cache county council', 'Office District: Logan 1', 'Political Party: Democratic', signed 10/27/2020. Agrees; in scope. This is the PRE-GENERAL INTERIM report; its post-general summary twin is key 4b42dae4 in this chunk. The candidate's street address and home phone are on the cover in the clear and were discarded at read time (core §5); every donor's street address and ZIP were likewise discarded and only the city/state written on the line were kept. WORTH A HUMAN'S EYE: (a) both money sides are deltas against the cover, in the same direction (schedules > cover); (b) the filer's two copies of the same list TRANSPOSE two amounts - here Jason Holmes is 600.00 and the Realtors association 500.00, on the summary copy the two are swapped - the pair total (1,100.00) is identical either way, and each document is transcribed from its own page; (c) this hand's 5 and 6 are near-identical, so several amounts and one day-of-month carry medium/low cell confidence. Every contribution and expenditure row carries needs_review:1 because its side is a delta.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-09-27",
+   "donor_raw": "paul Ray Andrus",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "25.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.00,12.15,11.00,2.20@p2",
+   "note": "written '$25' with no cents; this 25.00 is also exactly the cover's line-2 '$50.00 or less' aggregate, i.e. the filer itemized his small-donor line. The address cell holds a street and a ZIP but NO city, so donor_city/donor_state are left blank rather than inferred. needs_review because the contributions side is a delta."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-09-27",
+   "donor_raw": "christine manghan",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=low;amount=medium",
+   "verified": 1,
+   "geometry": "pct:83.00,14.80,11.00,2.20@p2",
+   "note": "surname written in a cramped hand; the legible glyph string is 'manghan' (m-a-n-g-h-a-n) and is transcribed as written rather than normalised to any real surname. Amount written '$50'; this hand's 5 and 6 are near-identical - read as 5 from the straight top bar (contrast row 3)."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2020-10-16",
+   "donor_raw": "Michelle Nelson",
+   "donor_city": "Logan",
+   "donor_state": "",
+   "amount": "60.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=low;amount=low",
+   "verified": 1,
+   "geometry": "pct:83.00,16.80,11.00,2.20@p2",
+   "note": "surname reads 'Nelson' on THIS page (the filer's other copy writes it differently - not used here). Amount written '$60': read as 6 from the curved lead-in stroke, contrasted at 1200 dpi with the 5s in rows 2 and 6; the digit is bistable in this hand, hence amount=low. Day of month likewise read as 16 (same 5/6 glyph question)."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2020-10-06",
+   "donor_raw": "weston Lewis",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "1000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.00,19.00,11.00,2.20@p2",
+   "note": "written '$1000' with no cents; unambiguous at 1200 dpi. Day of month is the same bistable 5/6 glyph, read as 6."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2020-10-06",
+   "donor_raw": "Nancy Davis Buckway",
+   "donor_city": "hyde park",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.00,21.30,11.00,2.20@p2",
+   "note": "city written lower-case 'hyde park' on the line; no state written. Amount '$100'."
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "2020-10-08",
+   "donor_raw": "Todd Sherman",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:83.00,23.50,11.00,2.20@p2",
+   "note": "surname written 'Sherman' on this page (one n)."
+  },
+  {
+   "line_no": "7",
+   "report_no": 1,
+   "date": "2020-10-22",
+   "donor_raw": "Sid Roderer",
+   "donor_city": "Lewiston",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.00,25.65,11.00,2.20@p2",
+   "note": "the filer wrote a word between 'Sid' and 'Roderer' and struck it out with heavy overwriting - the struck word is illegible and is NOT transcribed; the surviving name reads 'Sid Roderer'."
+  },
+  {
+   "line_no": "8",
+   "report_no": 1,
+   "date": "2020-10-13",
+   "donor_raw": "Jason Holmes",
+   "donor_city": "providence",
+   "donor_state": "",
+   "amount": "600.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:83.00,27.80,11.00,2.20@p2",
+   "note": "written '$600' on THIS page (6 read from the curved lead-in). On the same filer's summary copy this donor carries 500.00 and the next row 600.00 - the two are transposed between his copies; each document is transcribed from its own page and neither was used to correct the other. City written lower-case 'providence'; no state written."
+  },
+  {
+   "line_no": "9",
+   "report_no": 1,
+   "date": "2020-10-22",
+   "donor_raw": "cache valley Association of Realtors",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:83.00,30.15,11.00,2.20@p2",
+   "note": "written in blue ink (the rest of the schedule is black). The address cell is left EMPTY for this donor, so donor_city/donor_state are blank. Amount '$500' (flat-topped 5, contrasted with row 8's 6)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-09-24",
+   "vendor_raw": "Square one printing",
+   "purpose": "yard signs",
+   "amount": "642.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.00,12.40,11.00,2.20@p3",
+   "note": "date written '9/24/2020'. Amount unambiguous at 1200 dpi. needs_review because the expenditure side is a delta (708.00 rows vs 697.00 cover)."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-10-06",
+   "vendor_raw": "US postal service",
+   "purpose": "postage for mailers",
+   "amount": "66.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.00,14.80,11.00,2.20@p3",
+   "note": "date written '10/6/2020'. Amount '$66.00' unambiguous at 1200 dpi."
+  }
+ ]
+}

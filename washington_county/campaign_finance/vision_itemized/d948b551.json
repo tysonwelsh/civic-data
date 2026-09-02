@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W13.json",
+ "key": "d948b551",
+ "index_path": "raw/wayback_forms2020/Commission Seat C_Dean J_12-17-2020. Cox_December 17 2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Commission Seat C_Dean J_12-17-2020. Cox_December 17 2020.pdf"
+ ],
+ "sha256_prefix": "b85554e533383c5d",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "105.41",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "105.41",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A (p2) verified BLANK at 200dpi (every one of its ~50 ruled rows empty) and its printed TOTAL line was left blank. The cover's line-1 THIS cell is a struck zero glyph while LAST and CUMULATIVE both read 105.41 (written '105' with superscript cents '41'), so zero itemised rows is EXACT on the period scope: this is a genuinely empty reporting period sitting on a non-zero cumulative, not a gap. Cover arithmetic closes: 105.41 + 0 = 105.41. Line 2 (the $50-or-less aggregate) is BLANK in all three columns - blank, not zero - so the sub-$50 trap is not in play and line 1 is the only correct anchor."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "none - the cover's entire expense line is blank",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form B (p3) verified BLANK at 200dpi and its printed TOTAL line was left blank; the side is honestly TRANSCRIBED with zero rows. But the cover's line 3 is BLANK in ALL THREE columns - the filer entered nothing at all, not even a zero glyph - so there is NO printed anchor of any scope to reconcile against. result is 'unknown' for that reason alone, NOT because anything failed or was unreadable: a blank cell is a different fact from a zero, and I have not converted one into the other. Do not read 'unknown' here as a doubted row set; the row set is provably empty."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 and p3 each carry a printed TOTAL line and the filer left BOTH blank, so neither page-subtotal gate could fire - stated rather than invented. Zero rows on both sides is consistent with both blank totals.",
+  "row_count": "Doubled-rule grid; counted against INK at 200dpi on both schedule pages after re-rendering each in full. p2: ZERO inked lines. p3: ZERO inked lines. Field-shift screen not applicable (no rows).",
+  "geometry_proof": "Not applicable - zero rows emitted on both sides, so there is no row index to prove. Blankness was established by reading both full pages at 200dpi, not from the 90dpi contact sheet.",
+  "balance_chain": "Cover line 4: LAST blank, THIS blank, CUM '105.41'. 105.41 (cumulative contributions) - 0 (no expenses recorded anywhere on the form) = 105.41 = the printed cumulative balance. Closes exactly. This is the last report of the 2020 cycle for this filer (period 10-21-2020 .. 12-17-2020) and it leaves 105.41 unspent. No other Cox filing is in my chunk, so no cover-to-cover chain check was possible."
+ },
+ "escalations": 2,
+ "escalation_note": "Cover anchor grid re-cropped at 400dpi to confirm that line 1 THIS is a struck zero glyph while lines 2 and 3 are physically EMPTY (the distinction that decides the anchors); both schedule pages re-rendered at 200dpi to confirm blankness.",
+ "notes": "OFFICE VERIFIED IN THE DOCUMENT: the Office line reads 'Commission Seat C' - exactly the chunk file's office - and the Representative District and School District lines are blank. Candidate 'Dean J. Cox' agrees with the chunk file. TWO RECEIVED STAMPS on the cover, both dated DEC 17 2020 and overprinted on each other at the foot of the page (one over the 'Date' line, one at the top right) - a double-stamping artefact, not two filings. Period 10-21-2020 .. 12-17-2020, signed 12-17-2020, same-day receipt. PRIVACY: the cover prints home street address, city, ZIP, home phone and business phone in the clear - all discarded; there are no donor or vendor rows at all. PDF stores Page rot 270; pct: geometry (none needed here) would be in the portrait frame poppler renders.",
+ "contributions": [],
+ "expenditures": []
+}

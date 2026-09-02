@@ -1,0 +1,117 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C19.json",
+ "key": "cb9355b5",
+ "index_path": "raw/2022/2022_cc_John_D_Luthy_22G.pdf",
+ "applies_to": [
+  "raw/2022/2022_cc_John_D_Luthy_22G.pdf",
+  "raw/2022/2022_wb_John_D_Luthy_22G.pdf"
+ ],
+ "sha256_prefix": "e9f5e76c0bfeb772",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "$219.83 In-Kind",
+    "cover_over50_cum": "$219.83 In-Kind",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "219.83",
+    "page_subtotal": "219.83",
+    "box_A_balance_begin": "0",
+    "box_F_subtotal": "$219.83 In-Kind"
+   },
+   "itemized": "219.83",
+   "basis": "page-subtotal==schedule-total==Box-B==Box-C",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "2 rows: 32.26 + 187.57 = 219.83 exactly. The handwritten 'Subtotal for this page $ 219.83' and 'Total Contributions Received $ 219.83' (with the word 'In-Kind' written beneath it) both equal the row sum, and Box B (This Period) and Box C (Year-to-Date) both read '$219.83 In-Kind' - equal, so the two scopes coincide on this filing; recorded cumulative per addendum SS C. The arithmetic is what settled the two handwritten amounts: 32.26 and 187.57 are the only readings that close to the printed 219.83, and a 600 dpi tight crop of each cell agreed with that reading independently. Cache CFD prints no separate '$50.00 or less' aggregate line, so the le50 anchors do not exist (null, not zero). Box A is a slashed-zero glyph = 0 under the SS 3(f) zero-glyph ruling."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "Ø cash expenditure, $219.83 in use of in-kind contributions",
+    "cover_expense_cum": "Ø cash expenditure $219.83 in use of in-kind contributions",
+    "schedule_total": "0",
+    "page_subtotal": "0",
+    "cover_balance_end": "0"
+   },
+   "itemized": "0",
+   "basis": "schedule-total==page-subtotal==the cash-expenditure component of Box D",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "NIL SIDE. Schedule B carries no transaction lines; the filer wrote 'None' across the first writing line and a slashed-zero glyph in BOTH 'Subtotal for this page $' and 'Total Expenditures Made $'. Zero rows, sum 0, which equals both printed schedule figures. COMPETING ANCHOR REPORTED HONESTLY: Boxes D and E are not single figures - each is a prose cell reading 'cash expenditure [slashed zero], $219.83 in use of in-kind contributions'. The rows are scored against the CASH-EXPENDITURE component (zero), which is what Schedule B itemizes; the $219.83 the filer annotates is the in-kind already reported on Schedule A being consumed, NOT a second, separate expenditure, and it is not itemized anywhere on the form. Nothing was synthesized from it. D and E carry identical content, so the period and cumulative scopes coincide; recorded cumulative."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows sum 219.83 = handwritten 'Subtotal for this page' 219.83 = 'Total Contributions Received' 219.83 (gate fires exact; this is the gate that settled both handwritten cell values). p3 zero rows sum 0 = handwritten 'Subtotal for this page' slashed-zero = 'Total Expenditures Made' slashed-zero (gate fires exact).",
+  "row_count": "rowbands.py p2 geometry_status=ok, 15 bands, deskew -0.4 deg, first band y=15.80%. Ink falls in bands 1,2,3 and 5,6. Scored against INK, not bands: band 1 holds transaction line 1 (date 3-24-22, name, address line 1, amount $32.26) and bands 2-3 hold ONLY that row's wrapped address second line and its 'In-Kind: Table Decorations and Snacks' description - continuations, not transactions (no date, no separate amount). Band 5 holds transaction line 2 (3-18-22, name, address line 1, amount $187.57) and band 6 holds only its wrapped address line and 'In-Kind! 10 Yard Signs'. Bands 4 and 7-15 empty. => 2 rows emitted, and the count is corroborated by the row sum closing on the printed subtotal. rowbands.py p3: nil page, single prose word 'None'; 0 rows emitted.",
+  "geometry_proof": "p2: 600 dpi crop of the line_no=1 amount box renders '$32.26'; crop of the line_no=2 amount box renders '$187.57'. Control one row-pitch (4.55%) below line 2 renders the filer's own continuation text 'In-Kind! 10 Yard Signs' - NOT a transaction and NOT an amount - and the control two pitches below (band 7) renders empty but for the descender of the word 'Signs' from the band above. Reported this way rather than as a clean empty because it is what the page actually holds; no transaction row exists below line 2. Geometry emitted in the un-rotated portrait frame poppler renders (1700x2200 px at 200 dpi).",
+  "balance_chain": "DOES NOT CLOSE AS PRINTED, AND THE CAUSE IS ON THE PAGE - reported, not repaired. Box A (slashed zero = 0) + Box B 219.83 = Box F 219.83, and the printed F is '$219.83 In-Kind' - that half closes exactly. But Box F 219.83 - Box D (cash component 0) = 219.83, whereas the printed 'Balance at Close of Reporting Period' is a slashed-zero glyph = 0. The residual 219.83 is the FILER's arithmetic, not a transcription defect: he annotated Boxes D and E '$219.83 in use of in-kind contributions', i.e. he treated the in-kind goods as received and consumed within the period and therefore carried no cash balance forward. Both figures retained verbatim; neither recomputed. Cross-filing chain against this filer's other 2022 document in this chunk (key c0d691c5) is reported on that record."
+ },
+ "escalations": 6,
+ "escalation_note": "600 dpi tight cell crops: p2 line-1 amount, p2 line-2 amount, p2 'Subtotal for this page' cell, p2 'Total Contributions Received' cell, p2 line-1 date+name band, p2 line-2 date+name band. Per the Rhodes rule the escalations were treated as legibility evidence only - the acceptance of 32.26 and 187.57 rests on the schedule sum closing on the printed 219.83, not on the glyph reads.",
+ "notes": "ENTIRELY HANDWRITTEN CFD (blue ink), unlike the machine-set Bradfield filings in this chunk. || OFFICE LINE AGREES WITH THE CHUNK FILE: the p1 'Office' box reads, in the filer's hand, 'Cache County Attorney'; the chunk file / index.csv say 'County Attorney'. In scope - a county office, not school board or municipal, so the SS D county-instrument false-positive does not apply here. || Type of Report marked '30 Days after the General Election'; 'Is this report an amendment?' answered No. Signature date 12-8-22; Date of Report 12-8-22; clerk stamp 'CLERK/AUDITOR RCVD 2022 DEC 8 PM12:34'. Footer identity block 'John D. Luthy / 12-8-22 / Page n' present on p2, p3, p4; pages 1-4 complete, n_reports_in_pdf=1. || IN-KIND IS MARKED BY THE FILER, NOT INFERRED. This form has no in-kind column, so under the per-row contract in_kind would default false; it is set TRUE on both rows because the filer wrote 'In-Kind:' explicitly beside each amount in the Amount column, and wrote 'In-Kind' beneath the Total Contributions Received figure. The goods described ('Table Decorations and Snacks', '10 Yard Signs') are kept in each row's note, since Schedule A has no purpose column to hold them. || ROWS ARE OUT OF DATE ORDER ON THE PAGE (3-24-22 above 3-18-22). Printed order is preserved: line_no 1 is the 3-24-22 row as written. Not resequenced. || REDACTED AT SOURCE: on p1 the candidate's Address, City, State and Zip Code cells are covered by a solid black redaction bar applied by the county. Those cells would have been discarded at read time regardless. The candidate's handwritten phone number and personal email address ARE legible in the clear on this copy and were discarded at read time - they appear nowhere in this record. || PRIVACY: the donor's street address and ZIP were discarded at read time; only donor_city 'Hyrum' and donor_state 'UT' are emitted. || Field-shift screen: 2 dates, 2 names, 2 amounts on p2 - counts match, every date cell holds date-shaped content, every name cell name-shaped content. The extra ink in the Amount column on bands 2-3 and 6 is descriptive prose with no numeral, so it cannot be a shifted amount. No shift. || Minor metadata note: the chunk file records index_format 'text' for this document, but pdftotext returns no text layer at all (4 bytes) - the PDF is image-faced throughout and was read as images.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2022-03-24",
+   "donor_raw": "Terryl Warner",
+   "donor_city": "Hyrum",
+   "donor_state": "UT",
+   "amount": "32.26",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.00,15.80,19.00,4.55@p2",
+   "note": "handwritten '$32.26'; date written '3-24-22' (two-digit year, parses). Filer wrote 'In-Kind:' beneath the amount and, on the two continuation lines below, the description 'Table Decorations and Snacks' - hence in_kind true. Amount confirmed by the schedule sum closing on the printed 219.83 and independently by a 600 dpi cell crop."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2022-03-18",
+   "donor_raw": "Terryl Warner",
+   "donor_city": "Hyrum",
+   "donor_state": "UT",
+   "amount": "187.57",
+   "in_kind": true,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:75.00,34.05,19.00,4.55@p2",
+   "note": "handwritten '$187.57'; date written '3-18-22' (two-digit year, parses) - note this row is dated EARLIER than line 1 above it, which is how the filer ordered them. Filer wrote 'In-Kind!' beneath the amount with the description '10 Yard Signs' - hence in_kind true. Amount confirmed by the schedule sum closing on the printed 219.83 and independently by a 600 dpi cell crop."
+  }
+ ],
+ "expenditures": []
+}

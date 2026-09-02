@@ -1,0 +1,248 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W07.json",
+ "key": "706cb010",
+ "index_path": "raw/live_wp/2014-David-Whitehead.pdf",
+ "applies_to": [
+  "raw/live_wp/2014-David-Whitehead.pdf"
+ ],
+ "sha256_prefix": "a04b6de0f9305fb9",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "second-report-cover",
+  "5": "form-A",
+  "6": "form-B",
+  "7": "second-report-cover",
+  "8": "form-A",
+  "9": "form-B",
+  "10": "second-report-cover",
+  "11": "form-A",
+  "12": "form-B"
+ },
+ "n_reports_in_pdf": 4,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen1-ruled",
+  "expenditures": "gen1-ruled"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "Ø",
+    "cover_over50_this": "Ø",
+    "cover_over50_cum": "Ø",
+    "cover_le50_this": "Ø",
+    "cover_le50_cum": "Ø",
+    "schedule_total": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this==cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Report 1 (pp1-3, signed 1-12-15). Form A (p2) is an EMPTY Gen-1 ruled sheet - the only marks on it are MIRROR-IMAGE bleed-through from the reverse of the cover, verified at 200 dpi; no front-side ink in any of its 40 bands. Zero rows, a real zero. Cover lines 1 and 2 are struck-through zero glyphs (Ø = 0 per the zero-glyph ruling) in all three columns. Gen 1 prints no schedule total, so schedule_total is null by construction."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "Ø",
+    "cover_expense_this": "Ø",
+    "cover_expense_cum": "Ø",
+    "cover_balance_end": "-641.⁰⁰",
+    "schedule_total": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this==cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form B (p3) is likewise an EMPTY Gen-1 ruled sheet with mirror bleed-through only. Cover line 3 is a struck-through zero in all three columns. ⚠ FILER INCONSISTENCY, recorded not corrected: line 4's CUMULATIVE cell reads -641.⁰⁰ while line 3's CUMULATIVE cell reads Ø - the running balance still carries the April 2014 filing fee but the cumulative expense line has been reset to zero. The LAST-report column is a zero glyph on all four lines even though three earlier reports of this same cycle are stapled behind this one."
+  }
+ },
+ "recon_by_report": [
+  {
+   "report_no": 1,
+   "pages": "1-3",
+   "report_date": "2015-01-12",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "Ø",
+     "cover_over50_this": "Ø",
+     "cover_over50_cum": "Ø",
+     "cover_le50_this": "Ø",
+     "cover_le50_cum": "Ø",
+     "schedule_total": null
+    },
+    "itemized": "0.00",
+    "basis": "cover-line1-this==cover-line1-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "Report 1 (pp1-3, signed 1-12-15). Form A (p2) is an EMPTY Gen-1 ruled sheet - the only marks on it are MIRROR-IMAGE bleed-through from the reverse of the cover, verified at 200 dpi; no front-side ink in any of its 40 bands. Zero rows, a real zero. Cover lines 1 and 2 are struck-through zero glyphs (Ø = 0 per the zero-glyph ruling) in all three columns. Gen 1 prints no schedule total, so schedule_total is null by construction."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "Ø",
+     "cover_expense_this": "Ø",
+     "cover_expense_cum": "Ø",
+     "cover_balance_end": "-641.⁰⁰",
+     "schedule_total": null
+    },
+    "itemized": "0.00",
+    "basis": "cover-line3-this==cover-line3-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "Form B (p3) is likewise an EMPTY Gen-1 ruled sheet with mirror bleed-through only. Cover line 3 is a struck-through zero in all three columns. ⚠ FILER INCONSISTENCY, recorded not corrected: line 4's CUMULATIVE cell reads -641.⁰⁰ while line 3's CUMULATIVE cell reads Ø - the running balance still carries the April 2014 filing fee but the cumulative expense line has been reset to zero. The LAST-report column is a zero glyph on all four lines even though three earlier reports of this same cycle are stapled behind this one."
+   }
+  },
+  {
+   "report_no": 2,
+   "pages": "4-6",
+   "report_date": "2014-04-04",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "Ø",
+     "cover_over50_this": "Ø",
+     "cover_over50_cum": "Ø",
+     "cover_le50_this": "Ø",
+     "cover_le50_cum": "Ø",
+     "schedule_total": null
+    },
+    "itemized": "0.00",
+    "basis": "cover-line1-this==cover-line1-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "Report 2 (pp4-6, signed 4/4/14, clerk RECEIVED stamp APR 4 2014). Form A (p5) empty, bleed-through only. Cover lines 1 and 2 are zero glyphs in all three columns."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "Ø",
+     "cover_expense_this": "641.~",
+     "cover_expense_cum": "641.~",
+     "cover_balance_end": "641.~",
+     "schedule_total": null
+    },
+    "itemized": "641.00",
+    "basis": "cover-line3-this==cover-line3-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "The ONE itemized row in the whole 12-page bundle. 3/14/14, Washington County Clerk, Filing Fee, 641.00 - equal to cover line 3 in both the THIS and the CUMULATIVE column. Gen 1 prints no schedule total, so the cover is the only anchor. The LAST column is a zero glyph, so this is the first report of the cycle and the two scopes coincide. ⚠ The cover's line-4 balance is written 641.~ UNSIGNED here, and the same figure appears as -641.⁰⁰ on the June and January covers - the filer flipped the sign between reports; both are retained verbatim."
+   }
+  },
+  {
+   "report_no": 3,
+   "pages": "7-9",
+   "report_date": "2014-06-17",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "Ø",
+     "cover_over50_this": "Ø",
+     "cover_over50_cum": "Ø",
+     "cover_le50_this": "Ø",
+     "cover_le50_cum": "Ø",
+     "schedule_total": null
+    },
+    "itemized": "0.00",
+    "basis": "cover-line1-this==cover-line1-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "Report 3 (pp7-9, signed 6-17-14, clerk RECEIVED stamp JUN 17 2014). Form A (p8) empty, bleed-through only. Cover lines 1 and 2 are zero glyphs in all three columns."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "-641.⁰⁰",
+     "cover_expense_this": "Ø",
+     "cover_expense_cum": "-641.⁰⁰",
+     "cover_balance_end": "-641.⁰⁰",
+     "schedule_total": null
+    },
+    "itemized": "0.00",
+    "basis": "cover-line3-this (Ø) for the period; the CUMULATIVE column carries the April filing forward",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "Form B (p9) is EMPTY, and cover line 3's THIS column is a zero glyph - no activity in this period, a real zero. The LAST and CUMULATIVE columns both read -641.⁰⁰, i.e. the April report's 641.00 filing fee carried forward with the sign flipped to negative. Zero rows here does NOT mean the cycle had none: report 2 in this same PDF carries the 641.00 row."
+   }
+  },
+  {
+   "report_no": 4,
+   "pages": "10-12",
+   "report_date": "2014-10-28",
+   "contributions": {
+    "anchors": {
+     "cover_over50_last": "Ø",
+     "cover_over50_this": "Ø",
+     "cover_over50_cum": "Ø",
+     "cover_le50_this": "Ø",
+     "cover_le50_cum": "Ø",
+     "schedule_total": null
+    },
+    "itemized": "0.00",
+    "basis": "cover-line1-this==cover-line1-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "Report 4 (pp10-12, signed 10-28-14, no clerk stamp on this cover). Form A (p11) empty, bleed-through only. Cover lines 1 and 2 are zero glyphs in all three columns."
+   },
+   "expenditures": {
+    "anchors": {
+     "cover_expense_last": "Ø",
+     "cover_expense_this": "Ø",
+     "cover_expense_cum": "Ø",
+     "cover_balance_end": "-641.⁰⁰",
+     "schedule_total": null
+    },
+    "itemized": "0.00",
+    "basis": "cover-line3-this==cover-line3-cumulative",
+    "result": "exact",
+    "scope": "cumulative",
+    "detail": "Form B (p12) is EMPTY. ⚠ Same filer inconsistency as report 1: line 3 is a zero glyph in ALL THREE columns (the LAST column no longer carries the April 641.00 forward) while line 4's CUMULATIVE cell still reads -641.⁰⁰. Recorded as filed."
+   }
+  }
+ ],
+ "gates": {
+  "page_subtotal": "Only one side in the whole bundle has anything to gate: report 2's Form B, where the single row 641.00 equals cover line 3 in both the THIS and CUMULATIVE columns - gate fires. The other seven schedules are empty and their cover lines are zero glyphs, so 0 = 0 on each. Gen 1 prints no schedule totals anywhere in this PDF and none of the four filers' sheets carries a hand-written total, so the covers are the only anchors throughout.",
+  "row_count": "rowbands.py run on all eight schedule pages, geometry_status=ok on every one, 36 bands each at pitch 2.27-2.32%. p6 (report 2 Form B): row 1 = the band [9.13,11.59] ending at the first rule below the header - 1 inked band, 1 row emitted, 35 empty. p2/p3/p5/p8/p9/p11/p12: 0 inked bands each, 0 rows emitted. The faint marks on those seven pages were checked at 200 dpi and are MIRROR-IMAGE bleed-through from the reverse of the sheet (p2 shows the cover's 'TOTALS FOR THIS REPORT' header reversed; p9 shows the reversed statute text of the form's page 4) - reverse-side show-through, not front-side ink, and not transcribed.",
+  "geometry_proof": "p6: 600-dpi crop pct x 80-98, y 7.5-19.0 upscaled 4x renders row 1's '641.' + cents mark in its emitted band and the three bands below (the control pitch and beyond) render EMPTY. A companion full-width crop at pct y 7.5-13.5 renders '3/14/14 | washingTon cunTy clerk | filing fee | 641.' confirming the columns are not shifted.",
+  "balance_chain": "RUN ACROSS ALL FOUR REPORTS (four filings by one filer in one cycle, stapled in one PDF) - and it PARTIALLY closes, which is a finding. Chronologically: (a) 2014-04-04 reports expenses THIS 641.~ / CUM 641.~ and balance THIS 641.~ / CUM 641.~, all UNSIGNED, and its Form B row of 641.00 supports it exactly; (b) 2014-06-17 opens with LAST -641.⁰⁰ on lines 3 and 4 - the magnitude chains from (a) but the SIGN has flipped - reports THIS Ø, and closes CUM -641.⁰⁰; (c) 2014-10-28 does NOT carry the ladder: line 3 reads Ø in all three columns including LAST, and only line 4's CUMULATIVE still reads -641.⁰⁰; (d) 2015-01-12 repeats (c) exactly. So the expense ladder is dropped from the LAST column after June while the balance line keeps running. This is the FILER's bookkeeping, retained verbatim on every cover. Against the module's independent portal record the magnitudes agree: its wayback .xls summaries for the same four dates carry E 641 then 0/0/0 with the balance at -641 throughout."
+ },
+ "escalations": 3,
+ "escalation_note": "All twelve pages first rendered at 90 dpi as a classification contact sheet, then EVERY page re-rendered at 200 dpi and read there (the contact sheet was never the transcription source); p6's single row escalated to a 600-dpi render with a 1.6x full-row upscale and a 4x amount-column upscale.",
+ "notes": "GENERATION 1 form throughout (Carr Printing 5-5-PG, Utah Code 17-16-6.5) - no in-kind column, no printed schedule total, no reporting-period fields on any of the four covers. BUNDLE OF FOUR REPORTS, NOT IN CHRONOLOGICAL ORDER, exactly as the addendum warns: pp1-3 = 2015-01-12 (the year-end report, FIRST in the PDF), pp4-6 = 2014-04-04, pp7-9 = 2014-06-17, pp10-12 = 2014-10-28. The chunk file's n_reports=4 AGREES with what I count. report_no 1 is assigned to the report whose pages begin the PDF (the January 2015 one) per the addendum, so report_no order is NOT date order here. Every cover is a separate physical form with its own signature and its own money grid - these are NOT photocopies of one sheet (contrast key 703ce1ad/7194bf78 in this same chunk). Chunk file / index.csv say David Whitehead, Treasurer, 2014; all four covers read 'David Whitehead' or 'DAVID A WHITEHEAD' with 'Name of Office: Treasurer' and (on three of the four) 'Office District: Washington County' - AGREES, and this DOCUMENT-VERIFIES an office the index held only at office_confidence=medium from a portal listing. Political Party 'Republican' on all four. The module's published filing_totals row for this PDF describes only report 1 (C 0 / E 0 / begin 0 / end -641) and my report-1 reading matches it exactly; reports 2-4 of this bundle are NOT separately published from this PDF, though the module holds portal .xls Summary-form records for the same three dates from the wayback_financialreports channel - a cross-channel pair in the addendum's sense, not a duplicate to skip. Report 1's date cell reads '1-12-' then an overwritten/scribbled digit then '15'; read as 1-12-15 and the overwrite is noted rather than resolved. Report 2's amounts are written as '641.' followed by a wavy shorthand stroke where the cents belong; the same filer writes the same figure as '-641.⁰⁰' with an explicit superscript 00 on the June and January covers, which is what fixes the mark as 00 - handled under the trailing-mark convention, value 641.00, noted on the row. Candidate's home street address, city, ZIP, home phone and business phone are printed in the clear on all four covers and were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 2,
+   "date": "2014-03-14",
+   "vendor_raw": "washingTon cunTy clerk",
+   "purpose": "filing fee",
+   "amount": "641.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.20,9.13,10.60,2.46@p6",
+   "note": "the ONLY itemized row in this 4-report bundle; it belongs to report 2 (pp4-6, signed 4/4/14), not to the report that opens the PDF. vendor kept verbatim as the filer's lower-case hand wrote it. Amount cell reads '641.' followed by a wavy shorthand stroke in place of the cents - read as 641.00 under the trailing-mark convention and corroborated by cover line 3 (THIS and CUM) and by the same filer writing '-641.⁰⁰' with an explicit superscript 00 on the June 2014 and January 2015 covers. Gen 1 Form B has no in-kind column."
+  }
+ ]
+}

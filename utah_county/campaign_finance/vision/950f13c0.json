@@ -3,7 +3,10 @@
  "key": "950f13c0",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:25:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
@@ -54,5 +57,52 @@
    "notes": "Handwritten year-end report; same filer as key de1c36cb. Every zero on this page is written as a slashed-zero glyph (lines 1A, 2A, 4 and 6) and is transcribed as 0. The Office Seeking line is written 'Utah County Comission seat C' - the filer's own spelling with one 's' missing from 'Commission'; reproduced verbatim at medium confidence on spelling (the seat letter C is clear). Cents are raised superscripts, transcribed in decimal form. NAME NOTE: index.csv's reporting_period label for this filing spells the candidate 'Jeanie Bowen'; the page itself (cover name line, verification line and signature) reads 'Jeanne Bowen' throughout. Line 3 carries forward the 1174.69 that the same filer's 7-days-preceding-General report closed with - see the sign caveat on key de1c36cb, where that figure is arithmetically negative but was written without a minus sign. Neither amendment box is marked. The summary page's Page / Last Name / Date of Report header box was left entirely blank; its printed header, '2016 County Commission & Local School Board Candidate', is form boilerplate, not a school-board filer."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED, a SLASHED ZERO (\u00d8) on the p2 SUMMARY PAGE, matched by the SLASHED ZEROS printed on Schedule A's own 'Subtotal for this page' and 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' lines",
+     "detail": "ZERO-ACTIVITY PERIOD, closed at 0. Schedule A (p3) is a printed 16-row grid with NOT ONE entry on it \u2014 every Date, Name of Contributor, Mailing Address and Amount cell is blank \u2014 and the filer wrote a SLASHED ZERO on both printed footers. Zero rows sum to 0.00 = the printed \u00d8 = the cover's promoted per-period Column A cell = the cover's line 4. Under the repo-wide ZERO-GLYPH RULING (GOTCHAS 2026-08-02) a slashed zero DENOTES the digit and transcribes as 0; all four footer glyphs were escalated to 700 dpi tight crops and each is an unmistakable oval crossed by a full diagonal, not a bare dash. Column B Year-to-Date prints 145.00 \u2014 the cycle figure carried from this filer's own 10/31/16 report (de1c36cb) \u2014 and was NOT summed as an increment."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE, a SLASHED ZERO (\u00d8) on the p2 SUMMARY PAGE, matched by the SLASHED ZEROS on Schedule B's own 'Subtotal for this page' and 'Total Expenditures (Sum of subtotals from all Schedule B pages)' lines",
+     "detail": "Same shape as the contribution side: Schedule B (p4) is a wholly unfilled 16-row grid with slashed zeros on both printed footers; zero rows sum to 0.00 = the printed \u00d8 = Column A = the cover's line 6. The cover's ladder closes on those zeros: line 3 beginning balance 1,174.69 + line 4 \u00d8 = line 5 subtotal 1,174.69, minus line 6 \u00d8 = line 7 close 1,174.69, exactly as printed. Column B Year-to-Date prints 1,319.69 (the cycle figure from her 10/31/16 report) and was never summed. \u26a0 NOTE, NOT ADJUDICATED: her own prior report's line 7 should arithmetically have been NEGATIVE 1,174.69 (145.00 - 1,319.69); she wrote it unsigned there and carries it forward unsigned here. That is a filer inconsistency across her own cycle, transcribed as printed on both filings and corrected on neither, and it touches no itemized row on either side."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 there are no rows on either schedule, no in-kind column is printed, and no in-kind line appears on the summary page, so the monetary-only and monetary-plus-in-kind conventions both give 0.00 and both close against the printed slashed zeros.",
+   "escalations": 4,
+   "escalation_note": "4 tight --value crops at 700 dpi over the two printed footer cells of each schedule, run solely to confirm the NIL GLYPH under the zero-glyph ruling. All four render an oval crossed by a full diagonal stroke \u2014 a slashed zero, which DENOTES the digit and transcribes as 0 \u2014 and none is a bare dash, an N/A or an empty cell, which would have stayed BLANK. No amount cell existed to escalate.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "A ZERO-ACTIVITY YEAR-END REPORT \u2014 both schedules exist, both are wholly unfilled, and both print the filer's own slashed zeros. That is `empty-schedule` on both sides, not `no-schedule-page` (the sheets are present, foliated nowhere but headed SCHEDULE A and SCHEDULE B in print) and not `withheld` (nothing was unreadable). What the pages actually print: a 16-row four-column ruled grid, every cell blank, with a handwritten \u00d8 on 'Subtotal for this page' and a second handwritten \u00d8 on the schedule's grand-total line. SAME FILER, SAME STOCK AS de1c36cb: this is Jeanne Bowen's 30-Days-after-the-General report, on the same county-&-school-board cover blank (Utah County Code 2-5 & 17-16-6.5 & 20A-11-13, HEART of UTAH letterhead, 'Local School & County Candidates' set vertically down the left margin) with the same inner strapline '2016 County Commission & Local School Board Candidate' and the same Schedule B column heading 'Expenditure'. So the 'Expenditure' template is this filer's consistent stock across both her 2016 filings, while Voeks (17bb61d5) and Ivie (68f90974) used two OTHER Schedule-B headings in the same seat and cycle. 4 pages, each classified by its own printed header: p1 cover, p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B. The Page __ of __ / Last Name / Date of Report block is printed on pp2-4 and left WHOLLY BLANK on all three, exactly as on her earlier filing \u2014 page ordinals locate nothing on this filer's documents. PAGE-FACE NAME 'Jeanne Bowen'; index.csv names no candidate and the channel's label for THIS filing is 'Jeanie Bowen' while its label for her other 2016 filing is 'Jeanne Bowen' \u2014 a clerk name-drift of the Farren/Farron and Guernsey/Gurnsey class, and the PAGE FACE governs. OFFICE SEEKING is written 'Utah County Comission seat C', the filer's own spelling with one 'm' missing, reproduced verbatim; on her October filing the same field reads 'Commisson seat C', a DIFFERENT misspelling by the same hand. Neither is corrected. Report type: '30 Days after the General Election' (a hand tick). AMENDMENT QUESTION LEFT WHOLLY UNANSWERED again \u2014 neither Yes nor No ticked, an honest BLANK and never read as 'No' (addendum A4); this filer does it on both her filings. Report date written '23 Dec 2016', day-month-year in words, as on her October filing. PRIVACY: not a redacted file; the filer's own residence street line is printed on the cover and was not carried. No donor or vendor rows exist to reduce. \u26a0 AN EMPTY SCHEDULE IS A REAL ABSENCE OF ENTRIES, NOT AN UNTRANSCRIBED SIDE: this filer reported no contributions and no expenditures in the 11/1-12/23/2016 period and said so with a printed zero. Nothing was withheld."
+  }
+ }
 }

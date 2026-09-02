@@ -1,0 +1,176 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C16.json",
+ "key": "af7f83e1",
+ "index_path": "raw/2020/2020_st_Mansell.pdf",
+ "applies_to": [
+  "raw/2020/2020_st_Mansell.pdf"
+ ],
+ "sha256_prefix": "917e27087edc8768",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "200",
+    "cover_over50_cum": "200",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "200.00",
+   "basis": "cover-line1-this==cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Two Form A rows, 100.00 + 100.00 = 200.00, equal the cover's line-1 TOTALS FOR THIS REPORT cell (200) and its CUMULATIVE REPORT cell (200) - the two coincide because this is the only/first report of the cycle (line-1 TOTALS FROM LAST REPORT is blank). Scored against line 1 ONLY (the over-$50 line); the separate line-2 aggregate of contributions of $50.00 or less is 0 / 0 / 0 and is never itemized. Carr Form A prints no schedule total (schedule_total null by form design)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "1,032.76",
+    "cover_expense_cum": "1,032.76",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "1032.76",
+   "basis": "cover-line3-this==cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Four Form B rows, 12.00 + 500.76 + 20.00 + 500.00 = 1032.76, equal the cover's line-3 THIS REPORT and CUMULATIVE cells (both 1,032.76); THIS and CUMULATIVE coincide (no prior report). ARITHMETIC DECIDED row 2's leading digit: the glyph is a bistable cursive open-top 5/3, and only 500.76 closes the printed 1,032.76 (300.76 would give 832.76). This is the cache Rhodes rule applied - the form's own sum outranks the glyph read."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Form prints NO schedule total or page subtotal on either schedule (both sheets end with '(If additional space is needed, use blank paper ...)'), so the cover's own lines are the only anchors. p2 rows 100.00+100.00 = 200.00 = cover line-1 THIS/CUM 200. p3 rows 12.00+500.76+20.00+500.00 = 1032.76 = cover line-3 THIS/CUM 1,032.76. Both close exactly.",
+  "row_count": "p2 rowbands.py: ok, deskew -0.1 deg, 37 rules -> 36 writing bands, 2 inked (bands [9.86,12.68] and [12.68,14.98]) = 2 rows emitted. p3 rowbands.py: ok, deskew 0.3 deg, 37 rules -> 36 writing bands, 4 inked (bands [9.02,11.82],[11.82,14.11],[14.11,16.41],[16.41,18.70]) = 4 rows emitted. Scored against INK, not band index: this filer writes ON the rule, so row N occupies the band above rule N.",
+  "geometry_proof": "p2: 1200 dpi crops of the name/address/amount columns for bands 1 and 2 render those rows' own values (row1 'Stan palmer' / '190 ... Providence' / '100.00'; row2 'Nancy Doris Buckway' / '250 ... Hyde Park, UT' / '100.00'); 600 dpi control crop one pitch below the last row (y1010,H150) renders EMPTY. p3: 1200 dpi amount-column crop over bands 1-4 renders 12.00 / 500.76 / 20.00 / 500.00 top to bottom in printed order; control crop one pitch below row 4 (y2480,H300) renders EMPTY.",
+  "balance_chain": "Cover line 4 (Balance at end of period) reads LAST blank / THIS blank / CUM 0. The chain does NOT close: contributions 200 - expenditures 1,032.76 = -832.76, not 0. This is the FILER's arithmetic (or the filer treating a self-funded overspend as a zero balance); both figures are retained verbatim and nothing was recomputed. No earlier filing by this filer in this chunk, so no cross-filing cumulative chain was run."
+ },
+ "escalations": 9,
+ "escalation_note": "1200 dpi tight-crop escalations: p2 name column rows 1 and 2, p2 address column rows 1 and 2, p2 amount column rows 1-2 (twice, after a mis-placed first crop), p3 date+vendor column, p3 purpose column, p3 amount column; plus 600 dpi control crops on both pages. Row 2 of Form B (500.76) was escalated to 1200 dpi and remained bistable at the leading digit - resolved by the cover's printed total, not by resolution.",
+ "notes": "index.csv calls the candidate 'Mansell', office 'Recorder'; the cover reads 'Garrett Lloyd Mansell' and 'Name of Office: County Recorder' with 'Office District: Cache' - agrees (county office, in scope). Cover date 6/2/2020, clerk stamp 'CLERK-JUN2'20AM10:33:36'. Carr 5-5-PG family confirmed; page 4 is the printed Cache County Code 2.21.040/2.21.050 statute text. Candidate street address, ZIP and phone numbers printed in the clear on the cover and discarded at read time; contributor street addresses on Form A likewise discarded (city/state only). Contributor row 1's address cell names no state, so donor_state is left blank rather than inferred.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-02-18",
+   "donor_raw": "Stan palmer",
+   "donor_city": "Providence",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:82.50,9.86,11.50,2.82@p2",
+   "note": "Name written in cursive as 'Stan palmer' (lower-case p as written), verbatim. Amount separator glyph is ambiguous between a period and a comma at 1200 dpi; the value is $100.00 under either the US or the decimal-comma convention, and 100+100=200 closes the cover's line-1 figure. Carr Form A has no in-kind column. Contributor street address discarded at read time."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-03-04",
+   "donor_raw": "Nancy Doris Buckway",
+   "donor_city": "Hyde Park",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=medium",
+   "verified": 1,
+   "geometry": "pct:82.50,12.68,11.50,2.30@p2",
+   "note": "First name 'Nancy' and surname 'Buckway' read cleanly at 1200 dpi; the MIDDLE name is bistable - the glyphs read as a tall looped initial followed by 'o/a v/r i s' ('Doris' or 'Bovis'/'Davis'). Recorded as the legible-glyph string 'Nancy Doris Buckway' with needs_review=1; a human should confirm the middle name. Amount separator period/comma ambiguous, value $100.00 either way. Contributor street address discarded at read time."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Google",
+   "purpose": "Domain Name For Web",
+   "amount": "12.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,9.02,11.50,2.80@p3",
+   "note": "Purpose read at 1200 dpi as 'Domain Name For Web' (cursive 'Wame' form of Name)."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-03-13",
+   "vendor_raw": "Cache County",
+   "purpose": "Filing Fee",
+   "amount": "500.76",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:82.50,11.82,11.50,2.29@p3",
+   "note": "Leading digit is a bistable open-top cursive glyph (5 vs 3) that did not settle at 1200 dpi. RESOLVED BY ARITHMETIC, not by resolution: 12.00 + X + 20.00 + 500.00 = the cover's printed 1,032.76 requires X = 500.76. The same filer's row-4 leading glyph (500.00) is formed identically."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2020-03-25",
+   "vendor_raw": "Anvre Media",
+   "purpose": "website Hosting",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,14.11,11.50,2.30@p3",
+   "note": "Vendor glyphs at 1200 dpi read 'A n v/m r/n e  m e d i a' - the legible-glyph string is recorded as 'Anvre Media' at low confidence with needs_review=1 rather than normalising to a plausible firm name. Same vendor as line 4."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2020-04-01",
+   "vendor_raw": "Anvre Media",
+   "purpose": "Webpage & Facebook pg set up",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,16.41,11.50,2.29@p3",
+   "note": "Vendor as line 3 - legible-glyph string at low confidence, needs_review=1. Purpose written 'Webpage & Facebook pg set up'."
+  }
+ ]
+}

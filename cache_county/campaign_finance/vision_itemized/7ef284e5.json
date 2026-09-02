@@ -1,0 +1,240 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C01.json",
+ "key": "7ef284e5",
+ "index_path": "raw/2008/2008_wb_lworlton.pdf",
+ "applies_to": [
+  "raw/2008/2008_wb_lworlton.pdf"
+ ],
+ "sha256_prefix": "71426023e050d8c4",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "700.00",
+    "cover_over50_cum": "700.00",
+    "cover_le50_last": "",
+    "cover_le50_this": "185.00",
+    "cover_le50_cum": "185.00",
+    "cover_expense_last": "",
+    "cover_expense_this": "655.42",
+    "cover_expense_cum": "655.42",
+    "cover_balance_end": "229.58",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "700.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Two Form A rows sum 200.00+500.00 = 700.00, equal to cover line 1 in BOTH the THIS and CUMULATIVE columns (the LAST REPORT column is blank on all four lines, so this is the only report of the cycle and the scopes coincide). Cover line 2 carries a separate 185.00 <=$50 aggregate that is NEVER itemized and is deliberately EXCLUDED from the basis - scoring against line1+line2 (885.00) would manufacture a false 185.00 mismatch."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "655.42",
+    "cover_expense_cum": "655.42",
+    "cover_balance_end": "229.58",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "655.42",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Eight Form B rows sum 40.00+9.59+550.00+9.59+3.84+3.84+9.79+28.77 = 655.42, exactly cover line 3 in both the THIS and CUMULATIVE columns. Every amount is written with an explicit dollar sign and a decimal point (no superscript-cents convention on this filing), so no cents group needed reconstructing."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr form prints no schedule total or page subtotal on either schedule, and this filer wrote none. Cover lines are the only anchors and both gate exactly: p2 rows 700.00 = cover line 1; p3 rows 655.42 = cover line 3.",
+  "row_count": "rowbands.py p2: geometry ok, 39 bands; ink on bands 1-2 consecutively, nothing below = 2 rows emitted. rowbands.py p3: geometry ok, 39 bands; ink on bands 1-8 consecutively, nothing below = 8 rows emitted. A long vertical pen stroke runs down the LEFT EDGE of the p3 amount column through all eight rows - the filer's own tally bracket. It crosses every band at once and therefore belongs to none; it is not counted as a row and not transcribed.",
+  "geometry_proof": "p2: a 1200 dpi crop spanning bands 1-2 of the amount column renders '200.00' then '500.00' - first and last row both present and in position; the control crop one pitch below band 2 renders EMPTY. p3: a 1200 dpi crop spanning bands 1-8 renders '$40.00', '$9.59', '$550.00', '$9.59', '$3.84', '$3.84', '$9.79', '$28.77' in order; the control crop one pitch below band 8 renders empty.",
+  "balance_chain": "700.00 + 185.00 - 655.42 = 229.58, and cover line 4 prints 229.58 in both the THIS and CUMULATIVE columns. Closes exactly - the second filing in this chunk whose full four-line cover identity reconciles with no filer error. LAST REPORT is blank on every line, so no cross-filing chain check applies."
+ },
+ "escalations": 6,
+ "escalation_note": "1200 dpi amount-cell crops on p2 (bands 1-2, control) and p3 (bands 1-8, control); 900 dpi crops of the two p2 name/address rows; 800 dpi crops of the p3 date/vendor/purpose columns (which corrected row 7's date from 10/06 to 10/02); 600 dpi crop of the cover anchor block.",
+ "notes": "index.csv calls the candidate Linda Worlton / office County Council; the cover reads 'Linda Lee Worlton', 'Name of Office: Cache County Council', 'Office District: Logan 2', party Democrat - agrees, in scope, and the fuller name from the form is recorded here. The 'TO ____ County Clerk' line is LEFT BLANK by the filer (a printed field the filer did not fill; every other cover in this chunk names the clerk). Cover street address, ZIP, home phone and business phone discarded at read time. Form A row 2 pays in from 'Reid Worlton', a surname the candidate shares, at an OUT-OF-STATE address (Grand Junction CO) - transcribed verbatim, no relationship inferred. Form A row 1's donor is an organisation ('Cache Democrats') whose address cell holds only a PO box and ZIP, both discarded, leaving donor_city honestly blank - a DIFFERENT fact from the filer leaving the cell empty, which he did not.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2008-08-04",
+   "donor_raw": "Cache Democrats",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.26,7.77,10.79,2.41@p2",
+   "note": "date written '8/04/08' (two-digit year, parses to 2008). Address cell holds a PO box and a ZIP+4 only - both discarded at read time - so no city or state was written and both fields are honestly blank."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2008-09-05",
+   "donor_raw": "Reid Worlton",
+   "donor_city": "Grand Junction",
+   "donor_state": "CO",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.26,10.18,10.79,2.17@p2",
+   "note": "date written '9/05/08'. Out-of-state donor; street address and ZIP discarded at read time, city and state kept as written."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2008-03-13",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "40.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.60,8.10,11.10,1.96@p3",
+   "note": "date written '3/13/08'. Amount written with an explicit dollar sign and decimal point."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "FedEx Kinkos",
+   "purpose": "Copies",
+   "amount": "9.59",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.60,10.05,11.10,2.14@p3",
+   "note": "date cell reads '6/08' - MONTH AND YEAR ONLY, no day (the rows above and below carry full m/d/yy dates, so this is the filer abbreviating, not a mis-read). Date left blank per contract with the verbatim kept here."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2008-07-18",
+   "vendor_raw": "Taki Casuals",
+   "purpose": "Signs",
+   "amount": "550.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.60,12.19,11.10,2.05@p3",
+   "note": "date written '7/18/08'. Vendor glyphs read T-a-k-i C-a-s-u-a-l-s at 800 dpi, but the fourth glyph is a bare vertical that could be an i or nothing at all (Tak Casuals); recorded as the legible-glyph string at low confidence rather than normalised to a business name."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "FedEx Kinkos",
+   "purpose": "Copies",
+   "amount": "9.59",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.60,14.24,11.10,2.19@p3",
+   "note": "date cell reads '8/08' - month and year only, no day. Date left blank per contract with the verbatim kept here. Same vendor, purpose and amount as row 2; both retained as separate transactions because both are separately inked lines and the schedule sum requires both."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2008-09-13",
+   "vendor_raw": "Fed Ex Kinkos",
+   "purpose": "Copies",
+   "amount": "3.84",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.60,16.43,11.10,1.96@p3",
+   "note": "date written '9/13/08'."
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "2008-09-16",
+   "vendor_raw": "Fed Ex Kinkos",
+   "purpose": "Copies",
+   "amount": "3.84",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.60,18.39,11.10,2.19@p3",
+   "note": "date written '9/16/08'. Same amount as row 5 on a different date - both retained; the schedule sum requires both."
+  },
+  {
+   "line_no": "7",
+   "report_no": 1,
+   "date": "2008-10-02",
+   "vendor_raw": "Fed Ex Kinkos",
+   "purpose": "Copies",
+   "amount": "9.79",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.60,20.58,11.10,2.03@p3",
+   "note": "date written '10/02/08' - at 90 dpi this read as 10/06, and the 800 dpi crop corrected it to 10/02 (the row below is the genuine 10/06)."
+  },
+  {
+   "line_no": "8",
+   "report_no": 1,
+   "date": "2008-10-06",
+   "vendor_raw": "Fed Ex Kinkos",
+   "purpose": "Copies",
+   "amount": "28.77",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.60,22.60,11.10,2.16@p3",
+   "note": "date written '10/06/08'; it precedes the cover's own signature date of 10/28/08, so it falls inside the reporting period."
+  }
+ ]
+}

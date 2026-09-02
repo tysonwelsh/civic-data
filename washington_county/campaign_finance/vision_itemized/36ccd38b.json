@@ -1,0 +1,172 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W04.json",
+ "key": "36ccd38b",
+ "index_path": "raw/state_disclosures/washington_2010 Elections_James Eardley 4-9-10.pdf",
+ "applies_to": [
+  "raw/state_disclosures/washington_2010 Elections_James Eardley 4-9-10.pdf"
+ ],
+ "sha256_prefix": "cead5fffc4869c04",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "gen1-carr-ruled-lines",
+  "expenditures": "gen1-carr-ruled-lines"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "260.00",
+    "cover_over50_cum": "250.00",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "cover_balance_end": "(-520.97)",
+    "schedule_total": null
+   },
+   "itemized": "250.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "THE COVER CONTRADICTS ITSELF ON LINE 1 AND THE ARITHMETIC SETTLES IT. The two Form A rows (100.00 + 150.00) sum to exactly 250.00. Cover line 1 prints THIS = '260' (superscript 00) and CUMULATIVE = '250.' (superscript 00) with LAST blank - so THIS and CUMULATIVE disagree by 10.00 on a first report where they must be equal. Both cells were escalated to 1200 dpi and both read as written: the THIS glyph is unambiguously a 6, the CUMULATIVE glyph unambiguously a 5. Scored on the CUMULATIVE cell, which the rows match to the cent AND which the rest of the form corroborates: line 4's balance, printed in accounting parentheses in BOTH the THIS and CUMULATIVE columns as (-520.97), equals 250.00 - 770.97 exactly; under 260.00 it would be (-510.97). The 260.00 is the filer's own arithmetic slip and is retained verbatim as a competing anchor, never overwritten. The Gen-1 Carr form prints no schedule total, so the cover is the only anchor. LAST is blank, so this is the first report of the 2010 cycle and the two scopes coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "770.97",
+    "cover_expense_cum": "770.97",
+    "cover_balance_end": "(-520.97)",
+    "schedule_total": null
+   },
+   "itemized": "770.97",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Four Form B rows (448.57 + 75.00 + 220.00 + 27.40) sum to exactly 770.97, which the cover prints identically in the THIS and CUMULATIVE cells of line 3 with LAST blank - first report of the cycle, so the scopes coincide. The Gen-1 form prints no schedule total."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Gen-1 Carr form prints NO schedule total on either sheet, so no page-subtotal gate exists and the cover lines are the only anchors. Form B gates exactly (770.97). Form A gates exactly against the CUMULATIVE cell (250.00) and MISSES the THIS cell (260.00) by 10.00 - see the contributions recon detail; the balance line independently confirms 250.00.",
+  "row_count": "rowbands.py finds no boxed grid on these ruled-line sheets. Counted ink with a dark-pixel projection over the amount column: p2 returns one header band plus exactly 2 data bands out of ~40 writing lines; p3 returns one header band plus exactly 4 data bands out of ~40. 2 contribution rows and 4 expenditure rows emitted - matches.",
+  "geometry_proof": "p2: first-row crop at 800 dpi renders '4-6-10 | J E & Sharon Flohr | [street line] Ivins | 100 superscript-00'; last-row (2) crop renders '4-8-10 | Ellen V. [struck] Schunk | [street line] St. Geo. | 150 superscript-00'; control one row-pitch below row 2 renders EMPTY ruled lines. p3: rows 1-3 crop renders Office Max Impress / Dixie State College / Post Office with their amounts, row-4 crop renders 'Southern Utah Office Supply | mailout - material | 27.40', and the control one pitch below row 4 renders EMPTY ruled lines.",
+  "balance_chain": "Closes exactly under the CUMULATIVE contribution figure: 250.00 - 770.97 = -520.97, and the cover prints '(-520.97)' in BOTH the THIS and CUMULATIVE cells of line 4 (accounting parentheses AND an explicit minus sign in the cumulative cell - a doubly-marked negative, transcribed verbatim). Line 4 LAST is blank and the Gen-1 form has no beginning-balance field. A negative end balance means the candidate had spent 520.97 more than he had raised as of 4-8-10. This filer has only one filing in this chunk, so no cross-filing cumulative chain could be run."
+ },
+ "escalations": 6,
+ "escalation_note": "1200 dpi crops of cover line 1 (settles THIS=260 vs CUM=250) and of cover lines 3-4 (settles 770.97 and the parenthesised negative balance); 800 dpi band crops of p2 rows 1-2 + control and p3 rows 1-4 + control; 1600 dpi crop of the p3 row-2 vendor word (settles 'College', not 'Collage').",
+ "notes": "Generation 1 (Carr Printing 5-5-PG; cover cites Utah Code 17-16-6.5). The cover says 'The law is also printed on page four of this report' but THIS PDF HOLDS ONLY 3 PAGES - the statute page was not scanned/retained; no data is lost by that. Chunk file says candidate 'James Eardley', office 'Commission Seat A'. The cover's 'Full Name of Candidate' reads 'James Eardley' and 'Name of Office' reads 'County Commission Seat (a)' - both AGREE, and unlike the other 2016-era filing in this chunk the seat letter IS written on the form. County office, in scope. Political Party: Republican. Cover date '4-8-10'; RECEIVED stamp APR 8 2010, Washington County Clerk-Auditor - note the source filename says 4-9-10, one day after the stamp; the DOCUMENT's own date and stamp are 4-8-10. This filing is a good CALIBRATION-SPECIMEN CANDIDATE: it is a small, fully legible Gen-1 sheet whose cover carries a self-contradicting line-1 pair (260 vs 250) that only the balance line and the row sum can adjudicate - exactly the arithmetic-outranks-glyph situation the contract is built around, at a size that can be checked by hand in a minute. Both Form B rows 2 and 3 begin with a struck-out false start where the filer wrote the purpose into the payee column; those strikeouts are recorded in the row notes and excluded from vendor_raw. Candidate home street address, ZIP and both phone numbers are printed in the clear on the cover and were discarded at read time; donor street addresses and the ZIPs the filer wrote above the address lines likewise.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-04-06",
+   "donor_raw": "J E & Sharon Flohr",
+   "donor_city": "Ivins",
+   "donor_state": "",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,9.65,12.00,2.36@p2",
+   "note": "amount written '100' with a superscript '00' over the rule -> 100.00; the the address line ends with the city (Ivins) and the filer wrote the ZIP ABOVE the line; street line and ZIP discarded at read time, and no state token is printed, so donor_state is left blank"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2010-04-08",
+   "donor_raw": "Ellen V. Schunk",
+   "donor_city": "St. Geo.",
+   "donor_state": "",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,12.73,12.00,1.54@p2",
+   "note": "amount written '150' with a superscript '00' -> 150.00; the name cell carries a short struck-out word between 'V.' and 'Schunk' (illegible, ~3 glyphs, struck through by the filer) - excluded from donor_raw and recorded here instead; the address line ends with the city abbreviated 'St. Geo.' and the filer wrote the ZIP ABOVE the line; street line and ZIP discarded at read time, and no state token is printed"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-04-02",
+   "vendor_raw": "Office Max Impress",
+   "purpose": "Hand Outs",
+   "amount": "448.57",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,10.83,12.00,1.68@p3",
+   "note": "amount cell prefixed with a written '$'; vendor written as three words 'Office max Impress' with a lower-case m - normalised spacing only"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2010-04-08",
+   "vendor_raw": "Dixie State College",
+   "purpose": "Booth Space",
+   "amount": "75.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,13.59,12.00,1.18@p3",
+   "note": "the vendor cell begins with a struck-out 'Boo' before the name (the filer started the purpose in the wrong column); the final word was escalated to 1600 dpi and reads 'College', not 'Collage'"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2010-04-05",
+   "vendor_raw": "Post Office",
+   "purpose": "postage",
+   "amount": "220.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,15.68,12.00,1.00@p3",
+   "note": "the vendor cell begins with a struck-out 'Postage' before 'Post office.' (same wrong-column false start)"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2010-04-02",
+   "vendor_raw": "Southern Utah Office Supply",
+   "purpose": "mailout - material",
+   "amount": "27.40",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,18.17,12.00,1.18@p3",
+   "note": ""
+  }
+ ]
+}

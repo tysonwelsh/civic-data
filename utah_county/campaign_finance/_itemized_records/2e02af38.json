@@ -1,0 +1,2738 @@
+[
+ {
+  "index_path": "raw/2010/2010_CountyCommissionSeatA-WrightJoel-072210.pdf",
+  "key": "2e02af38",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk r2_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "itemized_pages_A": "3,4",
+  "itemized_pages_B": "5,6,7",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "delta",
+    "anchor": "the ledger's OWN printed 'TOTAL' (63,117) in the total box at the foot of p4 \u2014 a CUMULATIVE, whole-cycle figure identical to the cover's p2 Summary Page Column B 'Year-to-Date Total' (63,117.00), and NOT to Column A 'Total this Period' (47,652.00). CASH ONLY: the separately headed 'INKIND' table on p7 (1,500.00 + 3,102.00) sits outside that total. Escalation crop pct:40.0,41.46,27.0,1.75@p4 at 900 dpi rendered '63,117'; the crop pct:60.0,39.65,29.0,1.79@p7 rendered the expenditure counterpart '63,116.93'.",
+    "detail": "The 61 CASH rows sum to 43,832.22 (p3, 44 rows) + 19,285.00 (p4, 17 rows) = 63,117.22 against a printed TOTAL of 63,117 \u2014 a DELTA of exactly +0.22, TRACED to a single row: p3 row 6 (Joel Wright, Cedar Hills, 2.22), the ONLY cents-bearing figure in the whole contribution ledger; every other cash row is a whole-dollar amount and the filer's TOTAL cell displays no cents at all, so his own total drops that row's 22 cents. A 900 dpi crop of that cell rendered '2.22'. CORRELATED-ERROR SCREEN APPLIED AND PASSED IN THE CONFIRMING DIRECTION: the same filer's earlier 2010 report (raw/2010/2010_CountyCommissionSeatA-WrightJoel-061510.pdf) carries the IDENTICAL +0.22 against its own printed TOTAL of 47,652, from the same 2.22 row \u2014 a repeated spreadsheet display-rounding, i.e. filer arithmetic, not a transcription error. Nothing was nudged; the printed total is retained as printed. \u26a0 SCOPE \u2014 THIS LEDGER IS CUMULATIVE, established INTERNALLY and not by differencing covers: p4 carries a hand-drawn bracket in the right margin labelling everything from p3 row 1 down to p4 row 6 (Robert Oscanyan) 'Seven Days Preceding Primary Election' and everything below 'After Seven Days Preceding Primary Election'. Those earlier rows plus the filer's 'Aggregate $50 or less' 100.00 line (printed at the foot but belonging to that segment) sum to 47,652.22 = the Column A cell, so Column A on this filing restates the PRIOR report's total rather than this period's. The true per-period increment is also printed on this same page and closes EXACTLY: p4 rows 7-16 (Andrew Stevens 1,000.00 through Joel Wright 1,665.00) sum to 15,465.00 = the Summary Page's line 4 'Total Contributions Received (From Line 1 Column A)', and 63,117.22 - 47,652.22 = 15,465.00. The filer's own balance ladder uses line 4, not Column A, and closes: 4,701.85 (line 3) + 15,465.00 (line 4) = 20,166.85 (line 5); 20,166.85 - 20,166.78 (line 6) = 0.07 (line 7). \u26a0 READ THE CHECKREC SUM WITH THIS: checkrec reports 67,719.22 for this side because it sums every published row including the two in-kind lines; the figure the anchor tests is the CASH-ONLY 63,117.22, and 67,719.22 = 63,117.22 + 4,602.00 exactly."
+   },
+   "expenditures": {
+    "result": "cumulative-exact",
+    "anchor": "the ledger's OWN printed 'TOTAL' (63,116.93) at the foot of p7, which equals the cover's p2 Summary Page Column B 'Year-to-Date Total' expenditures (63,116.93) and NOT Column A 'Total this Period' (42,950.15). \u26a0 THE DOCUMENTED EXCEPTION: this side closes ONLY on the CUMULATIVE column, because the ledger restates the whole cycle rather than the period.",
+    "detail": "107 cash rows across three pages sum EXACTLY to the printed TOTAL: p5's 44 rows = 10,018.76, p6's 47 rows = 32,744.54, p7's 16 rows = 20,353.63, and 10,018.76 + 32,744.54 + 20,353.63 = 63,116.93 = the printed TOTAL = the cover's Column B. It is NOT Column A (42,950.15), which on this filing restates the prior report's cumulative expenditures \u2014 so the label is cumulative-exact, per ADDENDUM A6, and reconciles_expend must be left BLANK = UNKNOWN downstream rather than tested against the per-period figure this module publishes. The per-period increment is nevertheless printed on the page and ALSO closes to the cent: the handwritten bracket on p7 splits the sheet immediately below row 3 (Kneader's, 23.98), and p7 rows 4-15 (Home Depot 344.72 through BCR Political 8,023.30) sum to 20,166.78 = the Summary Page's line 6 'Total Expenditures Made (From Line 2 Column A)', which the filer's ladder subtracts from line 5 to reach his printed close of 0.07. This ledger prints NO per-page subtotals \u2014 it is a continuous typed table, so the grand total IS the page-subtotal gate \u2014 and the in-kind 4,602.00 is excluded from it."
+   }
+  },
+  "in_kind_convention": "MONETARY-ONLY on BOTH sides \u2014 tested both ways rather than inherited. This filer states in-kind wholly OUTSIDE both totals, in a separately headed 'INKIND' table at the foot of p7 with its own From / To / Amount columns and TWO lines (LaRae Savage -> UT County Republican Party (Lincoln Day Dinner) 1,500.00; Clear Satellite, Inc -> Regan Outdoor Advertising 3,102.00 = 4,602.00). Monetary-only leaves contributions off by only the traced 0.22 and expenditures EXACT; monetary-plus-in-kind misses contributions by 4,602.22 and expenditures by exactly 4,602.00, so it cannot be the convention. The two in-kind lines are nevertheless PUBLISHED as contribution rows flagged in_kind=true (the module's Paxman precedent: in-kind rides alongside the cash total, never inside it). NOTE the in-kind table GREW this period \u2014 the same filer's earlier 2010 report carried only the Clear Satellite line, so the LaRae Savage 1,500.00 is new.",
+  "escalations": 2,
+  "escalation_note": "Two escalations resolved LEGIBILITY (both sides had already closed or been traced on printed totals): (1) pct:52.0,20.68,15.0,1.80@p3 at 900 dpi rendered '2.22', fixing the row that causes the +0.22 contribution delta; (2) pct:8,38.41,32,1.75@p3 at 1200 dpi rendered 'Kashkoi Software, LLC' with a clearly dotted i (an independent earlier read of the same donor on this filer's OTHER 2010 filing recorded 'Kashkol' \u2014 worth the coordinator's attention as a cross-record divergence, not corrected here). Sixteen further tight crops at 900 dpi were geometry proofs and printed-total confirmations, listed in the per-page measure_notes.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     58.39,
+     66.33
+    ],
+    "cells": [
+     [
+      8.48,
+      38.05
+     ],
+     [
+      38.05,
+      58.39
+     ],
+     [
+      58.39,
+      66.33
+     ]
+    ],
+    "rows": [
+     [
+      11.81,
+      13.58
+     ],
+     [
+      13.58,
+      15.36
+     ],
+     [
+      15.36,
+      17.13
+     ],
+     [
+      17.13,
+      18.91
+     ],
+     [
+      18.91,
+      20.68
+     ],
+     [
+      20.68,
+      22.48
+     ],
+     [
+      22.48,
+      24.26
+     ],
+     [
+      24.26,
+      26.03
+     ],
+     [
+      26.03,
+      27.81
+     ],
+     [
+      27.81,
+      29.56
+     ],
+     [
+      29.56,
+      31.33
+     ],
+     [
+      31.33,
+      33.11
+     ],
+     [
+      33.11,
+      34.88
+     ],
+     [
+      34.88,
+      36.66
+     ],
+     [
+      36.66,
+      38.41
+     ],
+     [
+      38.41,
+      40.16
+     ],
+     [
+      40.16,
+      41.94
+     ],
+     [
+      41.94,
+      43.69
+     ],
+     [
+      43.69,
+      45.47
+     ],
+     [
+      45.47,
+      47.22
+     ],
+     [
+      47.22,
+      48.99
+     ],
+     [
+      48.99,
+      50.77
+     ],
+     [
+      50.77,
+      52.52
+     ],
+     [
+      52.52,
+      54.32
+     ],
+     [
+      54.32,
+      56.05
+     ],
+     [
+      56.05,
+      57.82
+     ],
+     [
+      57.82,
+      59.58
+     ],
+     [
+      59.58,
+      61.33
+     ],
+     [
+      61.33,
+      63.1
+     ],
+     [
+      63.1,
+      64.83
+     ],
+     [
+      64.83,
+      66.63
+     ],
+     [
+      66.63,
+      68.38
+     ],
+     [
+      68.38,
+      70.16
+     ],
+     [
+      70.16,
+      71.93
+     ],
+     [
+      71.93,
+      73.71
+     ],
+     [
+      73.71,
+      75.46
+     ],
+     [
+      75.46,
+      77.21
+     ],
+     [
+      77.21,
+      78.97
+     ],
+     [
+      78.97,
+      80.74
+     ],
+     [
+      80.74,
+      82.52
+     ],
+     [
+      82.52,
+      84.27
+     ],
+     [
+      84.27,
+      86.02
+     ],
+     [
+      86.02,
+      87.8
+     ],
+     [
+      87.8,
+      89.55
+     ]
+    ],
+    "measure_note": "THIS IS NOT A COUNTY SCHEDULE A: it is the candidate's own TYPED, FULLY BOXED table headed 'Joel Wright Contributions Report, Post-Primary 2010' (columns Name / City / Amount / Loan). Because it is a boxed grid and not the legacy underline form, a row lies BETWEEN its own two rules and nothing is extrapolated. A full-width rowbands.py scan returns 0 h_rules on this page (the grid's own verticals defeat it); the recovery of ADDENDUM A2 works \u2014 rowbands.py --col 58,67 restricted to the amount column returns 47 rules at a regular ~1.77 pitch, of which the first two (9.36, 10.01) are the table's double top border, band [10.01,11.81] is the printed HEADER row and the 44 bands from 11.81 to 89.55 are the data rows. Column bands are taken from p4's v_rules ([8.48, 38.05, 58.39, 66.33]), the same table continued; the narrow 'Loan' column is an unruled overflow box to the right of 66.33 and carries no money. \u00a7A1 FIRST-ENTRY CONTROL CROP: pct:52.0,10.01,15.0,1.80@p3 at 900 dpi rendered the printed word 'Amount' over the header cell \u2014 i.e. the band above row 1 is the header and this filer did NOT skip a line, so the first written entry IS band 1. TWO-CROP PROOF at 900 dpi: pct:52.0,11.81,15.0,1.77@p3 rendered '4,000' with a 'y' of 'yes' beyond the right rule (recorded 4000.00 with the Loan flag) and pct:52.0,87.80,15.0,1.75@p3 rendered '100' (recorded 100.00 for Phillip Windley) \u2014 no neighbour bleed, so the 44 bands are correctly indexed."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     58.39,
+     66.33
+    ],
+    "cells": [
+     [
+      8.48,
+      38.05
+     ],
+     [
+      38.05,
+      58.39
+     ],
+     [
+      58.39,
+      66.33
+     ]
+    ],
+    "rows": [
+     [
+      7.76,
+      9.51
+     ],
+     [
+      9.51,
+      11.28
+     ],
+     [
+      11.28,
+      13.08
+     ],
+     [
+      13.08,
+      14.86
+     ],
+     [
+      14.86,
+      16.63
+     ],
+     [
+      16.63,
+      18.43
+     ],
+     [
+      18.43,
+      20.21
+     ],
+     [
+      20.21,
+      21.96
+     ],
+     [
+      21.96,
+      23.78
+     ],
+     [
+      23.78,
+      25.51
+     ],
+     [
+      25.51,
+      27.28
+     ],
+     [
+      27.28,
+      29.06
+     ],
+     [
+      29.06,
+      30.83
+     ],
+     [
+      30.83,
+      32.61
+     ],
+     [
+      32.61,
+      34.38
+     ],
+     [
+      34.38,
+      36.16
+     ],
+     [
+      36.16,
+      37.91
+     ]
+    ],
+    "measure_note": "Continuation of the p3 boxed table with NO header row: rowbands.py --col 58,67 returns 22 rules, of which the 17 bands from 7.76 to 37.91 are the data rows at the same ~1.77 pitch. The remaining bands are NOT data: [37.91,41.46] is the blank spacer row, [41.46,43.21] is the printed 'TOTAL' row, and [46.74,48.49] is the printed 'Total of $50 or less' annotation row \u2014 both deliberately excluded from `rows`. v_rules on this page ([8.48, 38.05, 58.39, 66.33, 96.91]) give the column bands; 96.91 is the scanner's page-edge line, not a column. TWO-CROP PROOF at 900 dpi: pct:52.0,7.76,15.0,1.75@p4 rendered '2,500' (recorded 2500.00 for LTM) and pct:52.0,36.16,15.0,1.75@p4 rendered '100' (recorded 100.00 for the Aggregate line). A THIRD crop of the total band, pct:40.0,41.46,27.0,1.75@p4, rendered '63,117' \u2014 the anchor, printed with no cents."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     80.11,
+     88.47
+    ],
+    "cells": [
+     [
+      8.95,
+      37.32
+     ],
+     [
+      37.32,
+      80.11
+     ],
+     [
+      80.11,
+      88.47
+     ]
+    ],
+    "rows": [
+     [
+      13.1,
+      14.9
+     ],
+     [
+      14.9,
+      16.68
+     ],
+     [
+      16.68,
+      18.45
+     ],
+     [
+      18.45,
+      20.23
+     ],
+     [
+      20.23,
+      22.0
+     ],
+     [
+      22.0,
+      23.78
+     ],
+     [
+      23.78,
+      25.55
+     ],
+     [
+      25.55,
+      27.33
+     ],
+     [
+      27.33,
+      29.08
+     ],
+     [
+      29.08,
+      30.88
+     ],
+     [
+      30.88,
+      32.63
+     ],
+     [
+      32.63,
+      34.41
+     ],
+     [
+      34.41,
+      36.18
+     ],
+     [
+      36.18,
+      37.98
+     ],
+     [
+      37.98,
+      39.71
+     ],
+     [
+      39.71,
+      41.51
+     ],
+     [
+      41.51,
+      43.26
+     ],
+     [
+      43.26,
+      45.03
+     ],
+     [
+      45.03,
+      46.81
+     ],
+     [
+      46.81,
+      48.54
+     ],
+     [
+      48.54,
+      50.31
+     ],
+     [
+      50.31,
+      52.09
+     ],
+     [
+      52.09,
+      53.84
+     ],
+     [
+      53.84,
+      55.59
+     ],
+     [
+      55.59,
+      57.37
+     ],
+     [
+      57.37,
+      59.14
+     ],
+     [
+      59.14,
+      60.9
+     ],
+     [
+      60.9,
+      62.65
+     ],
+     [
+      62.65,
+      64.42
+     ],
+     [
+      64.42,
+      66.2
+     ],
+     [
+      66.2,
+      67.97
+     ],
+     [
+      67.97,
+      69.73
+     ],
+     [
+      69.73,
+      71.48
+     ],
+     [
+      71.48,
+      73.28
+     ],
+     [
+      73.28,
+      75.03
+     ],
+     [
+      75.03,
+      76.8
+     ],
+     [
+      76.8,
+      78.56
+     ],
+     [
+      78.56,
+      80.33
+     ],
+     [
+      80.33,
+      82.06
+     ],
+     [
+      82.06,
+      83.84
+     ],
+     [
+      83.84,
+      85.61
+     ],
+     [
+      85.61,
+      87.39
+     ],
+     [
+      87.39,
+      89.14
+     ],
+     [
+      89.14,
+      90.89
+     ]
+    ],
+    "measure_note": "The candidate's own typed boxed table headed 'Joel Wright Expenditure Report, Post-Primary 2010' (columns Person or Organization / Purpose of Expenditure / Amount). rowbands.py returns 46 rules / 45 bands at a ~1.78 pitch; band [11.33,13.10] is the printed HEADER row and the 44 bands from 13.10 to 90.89 are the data rows. CONTROL CROP for the first entry: pct:74.0,11.33,16.0,1.77@p5 at 900 dpi rendered the printed word 'Amount', proving the band above row 1 is the header and the filer skipped no line. TWO-CROP PROOF at 900 dpi: pct:74.0,13.10,16.0,1.80@p5 rendered '30.00' (recorded 30.00, Utah County / Precinct Maps) and pct:74.0,89.14,16.0,1.75@p5 rendered '1,578.87' (recorded 1578.87, BCR Political)."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     80.4,
+     88.7
+    ],
+    "cells": [
+     [
+      9.15,
+      37.52
+     ],
+     [
+      37.52,
+      80.4
+     ],
+     [
+      80.4,
+      88.7
+     ]
+    ],
+    "rows": [
+     [
+      8.04,
+      9.81
+     ],
+     [
+      9.81,
+      11.59
+     ],
+     [
+      11.59,
+      13.36
+     ],
+     [
+      13.36,
+      15.11
+     ],
+     [
+      15.11,
+      16.91
+     ],
+     [
+      16.91,
+      18.71
+     ],
+     [
+      18.71,
+      20.48
+     ],
+     [
+      20.48,
+      22.26
+     ],
+     [
+      22.26,
+      24.03
+     ],
+     [
+      24.03,
+      25.81
+     ],
+     [
+      25.81,
+      27.58
+     ],
+     [
+      27.58,
+      29.36
+     ],
+     [
+      29.36,
+      31.13
+     ],
+     [
+      31.13,
+      32.91
+     ],
+     [
+      32.91,
+      34.69
+     ],
+     [
+      34.69,
+      36.46
+     ],
+     [
+      36.46,
+      38.19
+     ],
+     [
+      38.19,
+      39.96
+     ],
+     [
+      39.96,
+      41.74
+     ],
+     [
+      41.74,
+      43.49
+     ],
+     [
+      43.49,
+      45.24
+     ],
+     [
+      45.24,
+      47.02
+     ],
+     [
+      47.02,
+      48.77
+     ],
+     [
+      48.77,
+      50.52
+     ],
+     [
+      50.52,
+      52.3
+     ],
+     [
+      52.3,
+      54.07
+     ],
+     [
+      54.07,
+      55.85
+     ],
+     [
+      55.85,
+      57.62
+     ],
+     [
+      57.62,
+      59.4
+     ],
+     [
+      59.4,
+      61.13
+     ],
+     [
+      61.13,
+      62.9
+     ],
+     [
+      62.9,
+      64.68
+     ],
+     [
+      64.68,
+      66.43
+     ],
+     [
+      66.43,
+      68.21
+     ],
+     [
+      68.21,
+      69.96
+     ],
+     [
+      69.96,
+      71.73
+     ],
+     [
+      71.73,
+      73.51
+     ],
+     [
+      73.51,
+      75.26
+     ],
+     [
+      75.26,
+      77.04
+     ],
+     [
+      77.04,
+      78.79
+     ],
+     [
+      78.79,
+      80.56
+     ],
+     [
+      80.56,
+      82.32
+     ],
+     [
+      82.32,
+      84.07
+     ],
+     [
+      84.07,
+      85.82
+     ],
+     [
+      85.82,
+      87.6
+     ],
+     [
+      87.6,
+      89.35
+     ],
+     [
+      89.35,
+      91.12
+     ]
+    ],
+    "measure_note": "Straight continuation of the p5 table with NO header row: rowbands.py returns 48 rules / 47 bands, ALL of them data rows, from 8.04 to 91.12 at the same ~1.78 pitch. v_rules [9.15, 37.52, 80.40, 88.70, 97.46] give the columns (97.46 is the scanner's page-edge line). TWO-CROP PROOF at 900 dpi: pct:74.0,8.04,16.0,1.77@p6 rendered '636.83' (recorded 636.83, FedEx Office) and pct:74.0,89.35,16.0,1.77@p6 rendered '16.00' (recorded 16.00, Office Max)."
+   },
+   "7": {
+    "axis": "y",
+    "cell": [
+     79.95,
+     88.28
+    ],
+    "cells": [
+     [
+      8.77,
+      37.14
+     ],
+     [
+      37.14,
+      79.95
+     ],
+     [
+      79.95,
+      88.28
+     ]
+    ],
+    "rows": [
+     [
+      7.69,
+      9.49
+     ],
+     [
+      9.49,
+      11.29
+     ],
+     [
+      11.29,
+      13.07
+     ],
+     [
+      13.07,
+      14.84
+     ],
+     [
+      14.84,
+      16.62
+     ],
+     [
+      16.62,
+      18.39
+     ],
+     [
+      18.39,
+      20.17
+     ],
+     [
+      20.17,
+      21.94
+     ],
+     [
+      21.94,
+      23.74
+     ],
+     [
+      23.74,
+      25.51
+     ],
+     [
+      25.51,
+      27.27
+     ],
+     [
+      27.27,
+      29.09
+     ],
+     [
+      29.09,
+      30.82
+     ],
+     [
+      30.82,
+      32.59
+     ],
+     [
+      32.59,
+      34.37
+     ],
+     [
+      34.37,
+      36.14
+     ]
+    ],
+    "measure_note": "Final continuation sheet. rowbands.py returns 24 rules / 23 bands; the 16 bands from 7.69 to 36.14 are the expenditure data rows and are what `rows` holds. The rest are NOT expenditure rows and are excluded: [36.14,39.65] blank spacer, [39.65,41.44] the printed 'TOTAL' row, then the separate 'INKIND' table \u2014 [44.97,46.75] its title band, [46.75,48.50] its From/To/Amount header, and [48.50,50.25] / [50.25,52.03] its two data lines, which are carried as CONTRIBUTION rows with hand-measured `geometry` strings in that table's own amount column (which happens to share the main table's x-band) rather than through this frame. TWO-CROP PROOF at 900 dpi: pct:74.0,7.69,16.0,1.80@p7 rendered '81.21' (recorded 81.21, ShopKo) and pct:74.0,34.37,16.0,1.77@p7 rendered '58.23' (recorded 58.23, Paypal). THREE further crops: the total band pct:60.0,39.65,29.0,1.79@p7 rendered '63,116.93' (the expenditure anchor), and the two in-kind bands rendered '1,500.00' beside '...ncoln Day Dinner)' and '3,102.00'."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "donor_raw": "Joel Wright",
+    "donor_city": "Cedar Hills",
+    "amount": "4000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'yes' in the Loan column \u2014 a candidate loan the filer books on the contribution ledger. THE LEDGER PRINTS NO DATE COLUMN AT ALL (columns are Name / City / Amount / Loan), so every contribution row on this filing is honestly date-less; no date was inferred."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "donor_raw": "David Wright",
+    "donor_city": "Provo",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "donor_raw": "Joel Wright",
+    "donor_city": "Cedar Hills",
+    "amount": "8000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'yes' in the Loan column \u2014 second candidate loan"
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "donor_raw": "Steven Lund",
+    "donor_city": "Provo",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "donor_raw": "Nathanael Bryhson",
+    "donor_city": "Provo",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "donor_raw": "Joel Wright",
+    "donor_city": "Cedar Hills",
+    "amount": "2.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE ROW THAT CAUSES THE +0.22 DELTA \u2014 the only cents-bearing figure anywhere in the contribution ledger; every other cash row is a whole-dollar amount and the filer's own TOTAL cell prints no cents at all. Escalation crop at 900 dpi (pct:52.0,20.68,15.0,1.80@p3) rendered '2.22'."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "donor_raw": "Michael Dutton",
+    "donor_city": "Orem",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "donor_raw": "Eugene Bramhall",
+    "donor_city": "Provo",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "donor_raw": "Matthew Wride",
+    "donor_city": "Salem",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "donor_raw": "John Updike",
+    "donor_city": "Provo",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "donor_raw": "Keith Wilson",
+    "donor_city": "Orem",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 12,
+    "donor_raw": "Joseph Johnson",
+    "donor_city": "Orem",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "13",
+    "page": 3,
+    "row": 13,
+    "donor_raw": "Told Plumbing",
+    "donor_city": "Pleasant Grove",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed 'Told Plumbing' in the typed ledger; kept verbatim rather than corrected to a presumed 'Todd'"
+   },
+   {
+    "line_no": "14",
+    "page": 3,
+    "row": 14,
+    "donor_raw": "Todd Gurney",
+    "donor_city": "Highland",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "15",
+    "page": 3,
+    "row": 15,
+    "donor_raw": "Craig Bryson",
+    "donor_city": "Provo",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 16,
+    "donor_raw": "Kashkoi Software, LLC",
+    "donor_city": "Dallas",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "1200 dpi escalation crop (pct:8,38.41,32,1.75@p3) rendered 'Kashkoi Software, LLC' with a dotted i. The City cell prints 'Dallas' and NO state \u2014 the ledger has no state column, so donor_state is honestly omitted and was not inferred from the city name."
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 17,
+    "donor_raw": "Meredith Oldroyd",
+    "donor_city": "Provo",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "18",
+    "page": 3,
+    "row": 18,
+    "donor_raw": "Brendan Wright",
+    "donor_city": "Heber",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 3,
+    "row": 19,
+    "donor_raw": "Derek Brown",
+    "donor_city": "Sandy",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "20",
+    "page": 3,
+    "row": 20,
+    "donor_raw": "Allen Alexander",
+    "donor_city": "Salt Lake City",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "21",
+    "page": 3,
+    "row": 21,
+    "donor_raw": "Mark & Denise Anderson",
+    "donor_city": "Cedar Hills",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "22",
+    "page": 3,
+    "row": 22,
+    "donor_raw": "Ryan Nelson",
+    "donor_city": "Idaho Falls",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "no state printed; the second out-of-Utah city on the ledger"
+   },
+   {
+    "line_no": "23",
+    "page": 3,
+    "row": 23,
+    "donor_raw": "Karen Herd",
+    "donor_city": "Cedar Hills",
+    "amount": "40.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "24",
+    "page": 3,
+    "row": 24,
+    "donor_raw": "Richard Thomas",
+    "donor_city": "Provo",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "25",
+    "page": 3,
+    "row": 25,
+    "donor_raw": "RPAC",
+    "donor_city": "Orem",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "26",
+    "page": 3,
+    "row": 26,
+    "donor_raw": "Piccione's",
+    "donor_city": "Spanish Fork",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "27",
+    "page": 3,
+    "row": 27,
+    "donor_raw": "Kevin Kelly",
+    "donor_city": "Provo",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "28",
+    "page": 3,
+    "row": 28,
+    "donor_raw": "Larry Cook",
+    "donor_city": "Salt Lake City",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "29",
+    "page": 3,
+    "row": 29,
+    "donor_raw": "Mark Steele",
+    "donor_city": "American Fork",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "30",
+    "page": 3,
+    "row": 30,
+    "donor_raw": "Piccione's",
+    "donor_city": "Spanish Fork",
+    "amount": "3000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "31",
+    "page": 3,
+    "row": 31,
+    "donor_raw": "LaRae Savage",
+    "donor_city": "Cedar Hills",
+    "amount": "5000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "32",
+    "page": 3,
+    "row": 32,
+    "donor_raw": "Bruce Gunther",
+    "donor_city": "Cedar Hills",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "33",
+    "page": 3,
+    "row": 33,
+    "donor_raw": "David Wright",
+    "donor_city": "Provo",
+    "amount": "5000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "34",
+    "page": 3,
+    "row": 34,
+    "donor_raw": "LaRae Savage",
+    "donor_city": "Cedar Hills",
+    "amount": "5000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a second 5,000.00 line for the same donor; kept as its own row exactly as the ledger prints it"
+   },
+   {
+    "line_no": "35",
+    "page": 3,
+    "row": 35,
+    "donor_raw": "Joel Wright",
+    "donor_city": "Cedar Hills",
+    "amount": "5000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'yes' in the Loan column \u2014 third candidate loan (4,000 + 8,000 + 5,000 = 17,000 of the ledger is the candidate's own money, marked as loans by the filer and left inside his own printed TOTAL where he put it)"
+   },
+   {
+    "line_no": "36",
+    "page": 3,
+    "row": 36,
+    "donor_raw": "Larry Johnson",
+    "donor_city": "Saratoga Springs",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "37",
+    "page": 3,
+    "row": 37,
+    "donor_raw": "Barbara Cramer",
+    "donor_city": "Salt Lake City",
+    "amount": "195.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "38",
+    "page": 3,
+    "row": 38,
+    "donor_raw": "Ryan Harris",
+    "donor_city": "Salt Lake City",
+    "amount": "150.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "39",
+    "page": 3,
+    "row": 39,
+    "donor_raw": "Matthew Jolley",
+    "donor_city": "Payson",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "40",
+    "page": 3,
+    "row": 40,
+    "donor_raw": "David Shaw",
+    "donor_city": "Lindon",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "41",
+    "page": 3,
+    "row": 41,
+    "donor_raw": "Dean Lindsay",
+    "donor_city": "Cedar Hills",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "42",
+    "page": 3,
+    "row": 42,
+    "donor_raw": "Brendan Wright",
+    "donor_city": "Heber",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "43",
+    "page": 3,
+    "row": 43,
+    "donor_raw": "Joseph Johnson",
+    "donor_city": "Orem",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "44",
+    "page": 3,
+    "row": 44,
+    "donor_raw": "Phillip Windley",
+    "donor_city": "Lindon",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "last row of p3 \u2014 proved by the geometry crop, which rendered '100'"
+   },
+   {
+    "line_no": "45",
+    "page": 4,
+    "row": 1,
+    "donor_raw": "LTM",
+    "amount": "2500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Springville"
+   },
+   {
+    "line_no": "46",
+    "page": 4,
+    "row": 2,
+    "donor_raw": "Derek Brown",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Sandy"
+   },
+   {
+    "line_no": "47",
+    "page": 4,
+    "row": 3,
+    "donor_raw": "John L. Valentine Re-Election Fund",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Orem",
+    "note": "a sitting state legislator's campaign committee giving to a county candidate; transcribed verbatim"
+   },
+   {
+    "line_no": "48",
+    "page": 4,
+    "row": 4,
+    "donor_raw": "Richard Martin",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Provo"
+   },
+   {
+    "line_no": "49",
+    "page": 4,
+    "row": 5,
+    "donor_raw": "Kathryn Shirts",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Provo"
+   },
+   {
+    "line_no": "50",
+    "page": 4,
+    "row": 6,
+    "donor_raw": "Robert Oscanyan",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Provo",
+    "note": "THE HANDWRITTEN PERIOD SPLIT SITS IMMEDIATELY BELOW THIS ROW: a hand-drawn bracket on the right margin labels everything from p3 row 1 down to here 'Seven Days Preceding Primary Election' and everything below it 'After Seven Days Preceding Primary Election'."
+   },
+   {
+    "line_no": "51",
+    "page": 4,
+    "row": 7,
+    "donor_raw": "Andrew Stevens",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Bethesda",
+    "donor_state": "MD",
+    "note": "FIRST ROW OF THE PERIOD SEGMENT (below the handwritten split). The City cell prints 'Bethesda, MD' \u2014 the only row on the ledger where the filer wrote a state, so donor_state is carried here and nowhere else."
+   },
+   {
+    "line_no": "52",
+    "page": 4,
+    "row": 8,
+    "donor_raw": "Western Financial Consultants",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Provo"
+   },
+   {
+    "line_no": "53",
+    "page": 4,
+    "row": 9,
+    "donor_raw": "LaRae Savage",
+    "amount": "6000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Cedar Hills"
+   },
+   {
+    "line_no": "54",
+    "page": 4,
+    "row": 10,
+    "donor_raw": "RPAC",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Orem"
+   },
+   {
+    "line_no": "55",
+    "page": 4,
+    "row": 11,
+    "donor_raw": "Ross Welch",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Alpine"
+   },
+   {
+    "line_no": "56",
+    "page": 4,
+    "row": 12,
+    "donor_raw": "Rob Muhlesein",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Springville"
+   },
+   {
+    "line_no": "57",
+    "page": 4,
+    "row": 13,
+    "donor_raw": "UT County Legislative PAC",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Provo"
+   },
+   {
+    "line_no": "58",
+    "page": 4,
+    "row": 14,
+    "donor_raw": "Susan Cluff",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Alpine"
+   },
+   {
+    "line_no": "59",
+    "page": 4,
+    "row": 15,
+    "donor_raw": "Howard Stephenson for Senate",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Draper"
+   },
+   {
+    "line_no": "60",
+    "page": 4,
+    "row": 16,
+    "donor_raw": "Joel Wright",
+    "amount": "1665.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Cedar Hills",
+    "note": "'Yes' in the Loan column \u2014 a fourth candidate loan, and the LAST row of the period segment: rows 7-16 of p4 sum to exactly 15,465.00, the Summary Page's line 4"
+   },
+   {
+    "line_no": "61",
+    "page": 4,
+    "row": 17,
+    "donor_raw": "Aggregate $50 or less",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "donor_city": "Utah County all",
+    "note": "THE FILER'S OWN AGGREGATE LINE, kept as ONE row and never split into imagined donors. It is printed at the FOOT of the ledger, below the period segment, but it belongs to the earlier segment: the rows above the handwritten split plus this 100.00 sum to 47,652.22, i.e. the Column A figure. The City cell reads 'Utah County all' verbatim. A separate printed line under the TOTAL box states 'Total of $50 or less  357' \u2014 an annotation about small-donor volume, NOT a ledger entry, and it is not transcribed as a row."
+   },
+   {
+    "line_no": "62",
+    "page": 7,
+    "row": 1,
+    "donor_raw": "LaRae Savage",
+    "amount": "1500.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "geometry": "pct:79.95,48.50,8.33,1.75@p7",
+    "note": "From the separately headed 'INKIND' table at the foot of p7 (its own columns From / To / Amount, two lines). The 'To' cell reads 'UT County Republican Party (Lincoln Day Dinner)' \u2014 the in-kind was given by paying that vendor, so it is published as a CONTRIBUTION row flagged in_kind=true (the module's Paxman precedent: in-kind rides ALONGSIDE the cash total, never inside it). This table is NEW this period \u2014 the filer's earlier 2010 report carried only the Clear Satellite line. No date and no city are printed for in-kind lines. Row geometry is hand-measured in the INKIND table's own amount column and wins over the p7 frame, which describes the expenditure grid."
+   },
+   {
+    "line_no": "63",
+    "page": 7,
+    "row": 2,
+    "donor_raw": "Clear Satellite, Inc",
+    "amount": "3102.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "geometry": "pct:79.95,50.25,8.33,1.78@p7",
+    "note": "Second line of the p7 'INKIND' table; the 'To' cell reads 'Regan Outdoor Advertising'. Published as an in-kind contribution row alongside \u2014 not inside \u2014 the cash total. No date, no city printed."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 5,
+    "row": 1,
+    "vendor_raw": "Utah County",
+    "purpose": "Precinct Maps",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THIS LEDGER PRINTS NO DATE COLUMN (columns are Person or Organization / Purpose of Expenditure / Amount), so every expenditure row is honestly date-less; nothing was inferred."
+   },
+   {
+    "line_no": "2",
+    "page": 5,
+    "row": 2,
+    "vendor_raw": "Laura Bunker Photography",
+    "purpose": "Campaign Photo Session",
+    "amount": "280.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 5,
+    "row": 3,
+    "vendor_raw": "Pro Digital Photos",
+    "purpose": "photos for campaign",
+    "amount": "401.38",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "4",
+    "page": 5,
+    "row": 4,
+    "vendor_raw": "Post Office",
+    "purpose": "Postage",
+    "amount": "114.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "5",
+    "page": 5,
+    "row": 5,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign services",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 5,
+    "row": 6,
+    "vendor_raw": "Post Office",
+    "purpose": "Postage",
+    "amount": "176.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "7",
+    "page": 5,
+    "row": 7,
+    "vendor_raw": "Mimi's Cafe",
+    "purpose": "Campaign Event",
+    "amount": "26.14",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed 'Mimi's Cafe' with an accented e"
+   },
+   {
+    "line_no": "8",
+    "page": 5,
+    "row": 8,
+    "vendor_raw": "Utah County",
+    "purpose": "Voter List",
+    "amount": "445.26",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "9",
+    "page": 5,
+    "row": 9,
+    "vendor_raw": "Utah Policy",
+    "purpose": "Subscription",
+    "amount": "35.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "10",
+    "page": 5,
+    "row": 10,
+    "vendor_raw": "Independence Caucus",
+    "purpose": "Dinner for Senate Debate",
+    "amount": "70.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "11",
+    "page": 5,
+    "row": 11,
+    "vendor_raw": "UT County Republican Women",
+    "purpose": "membership fee",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 5,
+    "row": 12,
+    "vendor_raw": "Magleby's",
+    "purpose": "Campaign Event",
+    "amount": "15.06",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "13",
+    "page": 5,
+    "row": 13,
+    "vendor_raw": "Constant Contact",
+    "purpose": "email service",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "14",
+    "page": 5,
+    "row": 14,
+    "vendor_raw": "Magleby's",
+    "purpose": "Campaign Event",
+    "amount": "15.06",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "15",
+    "page": 5,
+    "row": 15,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign services",
+    "amount": "750.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "16",
+    "page": 5,
+    "row": 16,
+    "vendor_raw": "SL County Republican Party",
+    "purpose": "Lincoln Day Dinner",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "17",
+    "page": 5,
+    "row": 17,
+    "vendor_raw": "UT County Republican Women",
+    "purpose": "Bus to Capitol",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "18",
+    "page": 5,
+    "row": 18,
+    "vendor_raw": "Infogenix",
+    "purpose": "campaign web page",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 5,
+    "row": 19,
+    "vendor_raw": "Utah County",
+    "purpose": "GRAMA Request for Convention Center Information",
+    "amount": "35.90",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "20",
+    "page": 5,
+    "row": 20,
+    "vendor_raw": "Constant Contact",
+    "purpose": "email service",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "21",
+    "page": 5,
+    "row": 21,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign services",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "22",
+    "page": 5,
+    "row": 22,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign signs",
+    "amount": "700.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "23",
+    "page": 5,
+    "row": 23,
+    "vendor_raw": "XPEDX Paper Store",
+    "purpose": "Paper",
+    "amount": "54.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "24",
+    "page": 5,
+    "row": 24,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "21.16",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "25",
+    "page": 5,
+    "row": 25,
+    "vendor_raw": "Post Office",
+    "purpose": "Postage",
+    "amount": "70.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "26",
+    "page": 5,
+    "row": 26,
+    "vendor_raw": "Constant Contact",
+    "purpose": "email service",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "27",
+    "page": 5,
+    "row": 27,
+    "vendor_raw": "Utah County",
+    "purpose": "filing fee",
+    "amount": "519.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "28",
+    "page": 5,
+    "row": 28,
+    "vendor_raw": "Post Office",
+    "purpose": "Postage",
+    "amount": "17.60",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "29",
+    "page": 5,
+    "row": 29,
+    "vendor_raw": "Constant Contact",
+    "purpose": "email service",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "30",
+    "page": 5,
+    "row": 30,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "70.98",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "31",
+    "page": 5,
+    "row": 31,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign services",
+    "amount": "515.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "32",
+    "page": 5,
+    "row": 32,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign services",
+    "amount": "525.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "33",
+    "page": 5,
+    "row": 33,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "82.94",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "34",
+    "page": 5,
+    "row": 34,
+    "vendor_raw": "funfinity",
+    "purpose": "campaign supplies",
+    "amount": "53.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "lower-case 'funfinity' as printed"
+   },
+   {
+    "line_no": "35",
+    "page": 5,
+    "row": 35,
+    "vendor_raw": "ShopKo",
+    "purpose": "folding tables`",
+    "amount": "85.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the purpose cell ends in a stray backtick/apostrophe as printed"
+   },
+   {
+    "line_no": "36",
+    "page": 5,
+    "row": 36,
+    "vendor_raw": "Tuesday Morning",
+    "purpose": "campaign supplies",
+    "amount": "162.98",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "37",
+    "page": 5,
+    "row": 37,
+    "vendor_raw": "Kohl's",
+    "purpose": "campaign supplies",
+    "amount": "96.03",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "38",
+    "page": 5,
+    "row": 38,
+    "vendor_raw": "Orange Legal",
+    "purpose": "Printing",
+    "amount": "533.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "39",
+    "page": 5,
+    "row": 39,
+    "vendor_raw": "Kneader's",
+    "purpose": "food for campaign event",
+    "amount": "43.04",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "40",
+    "page": 5,
+    "row": 40,
+    "vendor_raw": "UT County Republican Party",
+    "purpose": "booth rental at convention",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "41",
+    "page": 5,
+    "row": 41,
+    "vendor_raw": "Constant Contact",
+    "purpose": "email service",
+    "amount": "20.31",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "42",
+    "page": 5,
+    "row": 42,
+    "vendor_raw": "Joel Wright",
+    "purpose": "loan repayment",
+    "amount": "289.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the candidate repaying his own loans; entered as an expenditure by the filer and left where he put it"
+   },
+   {
+    "line_no": "43",
+    "page": 5,
+    "row": 43,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign services",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "44",
+    "page": 5,
+    "row": 44,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign services, signs",
+    "amount": "1578.87",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "last row of p5 \u2014 proved by the geometry crop, which rendered '1,578.87'"
+   },
+   {
+    "line_no": "45",
+    "page": 6,
+    "row": 1,
+    "vendor_raw": "FedEx Office",
+    "purpose": "Printing",
+    "amount": "636.83",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "first row of p6 \u2014 proved by the geometry crop, which rendered '636.83'. p6 carries NO header row: it is a straight continuation of the p5 table, so all 47 of its printed bands are data rows."
+   },
+   {
+    "line_no": "46",
+    "page": 6,
+    "row": 2,
+    "vendor_raw": "Let's Logo",
+    "purpose": "Pins",
+    "amount": "230.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "47",
+    "page": 6,
+    "row": 3,
+    "vendor_raw": "Let's Logo",
+    "purpose": "Pins",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "48",
+    "page": 6,
+    "row": 4,
+    "vendor_raw": "Costco",
+    "purpose": "Food for Event",
+    "amount": "108.54",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "49",
+    "page": 6,
+    "row": 5,
+    "vendor_raw": "EZ Publishing",
+    "purpose": "email service",
+    "amount": "19.90",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "50",
+    "page": 6,
+    "row": 6,
+    "vendor_raw": "iContact",
+    "purpose": "email service",
+    "amount": "25.45",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "51",
+    "page": 6,
+    "row": 7,
+    "vendor_raw": "Alexander's",
+    "purpose": "Printing",
+    "amount": "505.94",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "52",
+    "page": 6,
+    "row": 8,
+    "vendor_raw": "Wal-Mart",
+    "purpose": "campaign supplies",
+    "amount": "73.77",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "53",
+    "page": 6,
+    "row": 9,
+    "vendor_raw": "Alexander's",
+    "purpose": "Printing",
+    "amount": "597.53",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "54",
+    "page": 6,
+    "row": 10,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "317.53",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "55",
+    "page": 6,
+    "row": 11,
+    "vendor_raw": "Alexander's",
+    "purpose": "Printing",
+    "amount": "2460.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "56",
+    "page": 6,
+    "row": 12,
+    "vendor_raw": "Costco",
+    "purpose": "food for convention and campaign supplies",
+    "amount": "247.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "57",
+    "page": 6,
+    "row": 13,
+    "vendor_raw": "Utah County Republican Party",
+    "purpose": "our portion of rental fee for Rockwell Charter School",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "58",
+    "page": 6,
+    "row": 14,
+    "vendor_raw": "Utah County Republican Assembly",
+    "purpose": "annual dues",
+    "amount": "26.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "59",
+    "page": 6,
+    "row": 15,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "114.91",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "60",
+    "page": 6,
+    "row": 16,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "40.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "61",
+    "page": 6,
+    "row": 17,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "86.18",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "62",
+    "page": 6,
+    "row": 18,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "95.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "63",
+    "page": 6,
+    "row": 19,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "21.89",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "64",
+    "page": 6,
+    "row": 20,
+    "vendor_raw": "Joel Wright",
+    "purpose": "loan repayment",
+    "amount": "4114.68",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the largest of the candidate's own loan repayments"
+   },
+   {
+    "line_no": "65",
+    "page": 6,
+    "row": 21,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "95.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "66",
+    "page": 6,
+    "row": 22,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign services",
+    "amount": "3248.67",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "67",
+    "page": 6,
+    "row": 23,
+    "vendor_raw": "Press Publishing",
+    "purpose": "Printing & Postage",
+    "amount": "3507.34",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "68",
+    "page": 6,
+    "row": 24,
+    "vendor_raw": "Ace Hardware",
+    "purpose": "campaign supplies",
+    "amount": "25.60",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "69",
+    "page": 6,
+    "row": 25,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign supplies",
+    "amount": "6350.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "70",
+    "page": 6,
+    "row": 26,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "49.78",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "71",
+    "page": 6,
+    "row": 27,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "198.84",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "72",
+    "page": 6,
+    "row": 28,
+    "vendor_raw": "Press Publishing",
+    "purpose": "campaign mailer",
+    "amount": "3418.67",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "73",
+    "page": 6,
+    "row": 29,
+    "vendor_raw": "Colonial Flag",
+    "purpose": "flag purchase",
+    "amount": "116.60",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "74",
+    "page": 6,
+    "row": 30,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "339.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "75",
+    "page": 6,
+    "row": 31,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "19.15",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "76",
+    "page": 6,
+    "row": 32,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "587.12",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "77",
+    "page": 6,
+    "row": 33,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "76.60",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "78",
+    "page": 6,
+    "row": 34,
+    "vendor_raw": "Mimi's Cafe",
+    "purpose": "Young Republican Lunch",
+    "amount": "12.27",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "79",
+    "page": 6,
+    "row": 35,
+    "vendor_raw": "Staples",
+    "purpose": "campaign supplies",
+    "amount": "93.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "80",
+    "page": 6,
+    "row": 36,
+    "vendor_raw": "Fedex Kinkos",
+    "purpose": "Printing",
+    "amount": "5.09",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "81",
+    "page": 6,
+    "row": 37,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign services, website, design",
+    "amount": "3066.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "82",
+    "page": 6,
+    "row": 38,
+    "vendor_raw": "Les Olson",
+    "purpose": "Printer",
+    "amount": "533.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "83",
+    "page": 6,
+    "row": 39,
+    "vendor_raw": "Complete Campaigns",
+    "purpose": "Voter Filing",
+    "amount": "450.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "84",
+    "page": 6,
+    "row": 40,
+    "vendor_raw": "Complete Campaigns",
+    "purpose": "Voter Filing",
+    "amount": "450.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "85",
+    "page": 6,
+    "row": 41,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "12.17",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "86",
+    "page": 6,
+    "row": 42,
+    "vendor_raw": "Office Max",
+    "purpose": "campaign supplies",
+    "amount": "36.26",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "87",
+    "page": 6,
+    "row": 43,
+    "vendor_raw": "Wal-Mart",
+    "purpose": "campaign supplies",
+    "amount": "30.13",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "88",
+    "page": 6,
+    "row": 44,
+    "vendor_raw": "Constant Contact",
+    "purpose": "email service",
+    "amount": "17.98",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "89",
+    "page": 6,
+    "row": 45,
+    "vendor_raw": "iContact",
+    "purpose": "email service",
+    "amount": "49.30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "90",
+    "page": 6,
+    "row": 46,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "93.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "91",
+    "page": 6,
+    "row": 47,
+    "vendor_raw": "Office Max",
+    "purpose": "campaign supplies",
+    "amount": "16.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "last row of p6 \u2014 proved by the geometry crop, which rendered '16.00'"
+   },
+   {
+    "line_no": "92",
+    "page": 7,
+    "row": 1,
+    "vendor_raw": "ShopKo",
+    "purpose": "candy for parades",
+    "amount": "81.21",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "93",
+    "page": 7,
+    "row": 2,
+    "vendor_raw": "Wal-Mart",
+    "purpose": "campaign supplies",
+    "amount": "23.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "94",
+    "page": 7,
+    "row": 3,
+    "vendor_raw": "Kneader's",
+    "purpose": "food for volunteers",
+    "amount": "23.98",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THE HANDWRITTEN PERIOD SPLIT SITS IMMEDIATELY BELOW THIS ROW: a hand-drawn bracket on the right margin labels everything above it 'Seven days preceding Primary Election' and everything below 'After'."
+   },
+   {
+    "line_no": "95",
+    "page": 7,
+    "row": 4,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "344.72",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "FIRST ROW OF THE PERIOD SEGMENT (below the handwritten split); rows 4-15 of p7 sum to exactly 20,166.78, the Summary Page's line 6"
+   },
+   {
+    "line_no": "96",
+    "page": 7,
+    "row": 5,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "178.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "97",
+    "page": 7,
+    "row": 6,
+    "vendor_raw": "Home Depot",
+    "purpose": "campaign supplies",
+    "amount": "74.54",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "98",
+    "page": 7,
+    "row": 7,
+    "vendor_raw": "Press Media",
+    "purpose": "campaign mailer",
+    "amount": "8716.58",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "99",
+    "page": 7,
+    "row": 8,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign services",
+    "amount": "1544.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "100",
+    "page": 7,
+    "row": 9,
+    "vendor_raw": "Harmon's",
+    "purpose": "food for volunteers",
+    "amount": "21.71",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "101",
+    "page": 7,
+    "row": 10,
+    "vendor_raw": "Orem City",
+    "purpose": "parade fee",
+    "amount": "75.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "102",
+    "page": 7,
+    "row": 11,
+    "vendor_raw": "iContact",
+    "purpose": "email service",
+    "amount": "149.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "103",
+    "page": 7,
+    "row": 12,
+    "vendor_raw": "iContact",
+    "purpose": "email service",
+    "amount": "99.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "104",
+    "page": 7,
+    "row": 13,
+    "vendor_raw": "Complete Campaigns",
+    "purpose": "email service",
+    "amount": "919.74",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "105",
+    "page": 7,
+    "row": 14,
+    "vendor_raw": "XPEDX Paper Store",
+    "purpose": "cards and envelopes",
+    "amount": "19.21",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "106",
+    "page": 7,
+    "row": 15,
+    "vendor_raw": "BCR Political",
+    "purpose": "campaign services",
+    "amount": "8023.30",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "LAST ROW OF THE PERIOD SEGMENT"
+   },
+   {
+    "line_no": "107",
+    "page": 7,
+    "row": 16,
+    "vendor_raw": "Paypal",
+    "purpose": "Fees",
+    "amount": "58.23",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed BELOW the period segment and outside the handwritten bracket: it is the last line the filer's earlier report already carried, left in place at the foot of the cumulative ledger. Last row of p7 \u2014 proved by the geometry crop, which rendered '58.23'."
+   }
+  ],
+  "notes": "PAGE-FACE candidate name 'Joel Wright' (Republican, residence city Cedar Hills); index.csv names NO candidate for this row (the 2008-2018 listing grouped by office). Page-face Office Seeking reads 'Utah County Commission Seat A', agreeing with index.csv. legacy_colAB COVER + SUMMARY, but NO COUNTY SCHEDULE A OR SCHEDULE B EXISTS IN THIS FILING \u2014 a document property, verified by reading all 7 pages: p1 cover ('30 Days after the Primary Election' ticked, signed 7-22-10, stamped received JUL 22 PM 4:12, and the amendment question is left WHOLLY UNANSWERED \u2014 neither Yes nor No ticked, an honest blank, never 'No'), p2 SUMMARY PAGE (located by content; foliation reads 'Page 1 of __', the 'of' left empty), pp3-4 the candidate's own typed CONTRIBUTIONS ledger, pp5-7 his own typed EXPENDITURE ledger with an 'INKIND' table appended to p7. Both sides are `transcribed` (the lines were read) \u2014 what is missing is the county's schedule FORMS, not the filer's entries; this is the ADDENDUM A2 pattern, and it is the second Utah County filer found using it. TWO SOURCE PROPERTIES WORTH RECORDING. (1) THE LEDGERS ARE CUMULATIVE AND ARE RE-PRINTED IN FULL EACH REPORT, with the new period's rows appended and a HANDWRITTEN MARGIN BRACKET drawn to separate the periods ('Seven Days Preceding Primary Election' / 'After Seven Days Preceding Primary Election' on p4; 'Seven days preceding Primary Election' / 'After' on p7). Both handwritten splits land exactly where the printed summary figures say they should: the segment below the p4 split sums to 15,465.00 = line 4, and the segment below the p7 split sums to 20,166.78 = line 6. The annotation is therefore load-bearing evidence, not decoration. (2) THE FILER PUTS THE PRIOR REPORT'S CUMULATIVE IN 'COLUMN A \u2014 TOTAL THIS PERIOD' (47,652.00 / 42,950.15) and the true period increment on lines 4 and 6, while Column B holds the current cycle totals (63,117.00 / 63,116.93) that the ledgers' own printed TOTALs reproduce. His balance ladder uses lines 3/4/5/6/7 and closes to his printed 0.07, so nothing was recomputed and nothing was adjudicated. NEITHER LEDGER PRINTS A DATE COLUMN, so every row on this filing is honestly date-less and no date was inferred from the report date. The contribution ledger's City column prints no state; only one row (Andrew Stevens, 'Bethesda, MD') carries one, and it is the only row where donor_state is filled. The filer's 'Aggregate $50 or less' line is kept as ONE row, and the separate printed 'Total of $50 or less  357' line below the TOTAL box is an annotation about small-donor volume, not a ledger entry. Four rows carry 'yes' in the Loan column (4,000 + 8,000 + 5,000 + 1,665 = 18,665 of the candidate's own money) and TWO expenditure rows are 'loan repayment' (289.00 + 4,114.68); loans are transcribed exactly where the filer put them, inside his own printed TOTALs, and were not reclassified. Not a *_Redacted.pdf: this era was published in the clear. The ledgers print a City column but NO street addresses, so the privacy rule cost nothing here; no street line, PO box or phone number appears in any field or note."
+ }
+]

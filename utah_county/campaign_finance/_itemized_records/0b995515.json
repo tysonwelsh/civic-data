@@ -1,0 +1,313 @@
+[
+ {
+  "index_path": "raw/2014/2014_PostPrimary-Stanley.pdf",
+  "key": "0b995515",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_02)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "the p2 Summary Page line 1 'TOTAL CONTRIBUTIONS RECEIVED' Column A 'Total this Period' ($4,100.00), which is also Schedule A's own printed 'Subtotal for this page' ($4,100.00) and the cover's line 4 'From Line 1 Column A' ($4,100.00)",
+    "detail": "2 Schedule A rows sum to 4,000.00 + 100.00 = 4,100.00 exactly = the schedule's own printed PAGE SUBTOTAL = the cover's promoted PER-PERIOD cell (Column A line 1) = the cover's line 4 restatement. ⚠ NOTE WHICH SCHEDULE FOOTER IS WHICH ON THIS FILING: the second footer, 'Total Contributions Received (Sum of subtotals from all Schedule A pages)', prints $9,989.00 — the CUMULATIVE figure, equal to Column B Year-to-Date, not to this period. On the reference filing (Graves `40bd7997`) the two footers are equal because that filer restated only the period; here the filer used the 'sum of all pages' line as a CYCLE total, so ONLY the 'Subtotal for this page' footer is period-scoped. Reconciling to the wrong footer would have produced a false 5,889.00 delta. The cumulative footer and Column B were NOT summed as increments. The balance ladder closes independently on the per-period figures: 628.48 + 4,100.00 = 4,728.48, minus 4,490.63 = 237.85, all four printed and all four agreeing. Both controls came back clean — see the frame measure_note."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "the p2 Summary Page line 2 'TOTAL EXPENDITURES MADE' Column A 'Total this Period' ($4,490.63), which is also Schedule B's own printed 'Subtotal for this page' ($4,490.63) and the cover's line 6 'From Line 2 Column A' ($4,490.63)",
+    "detail": "4 Schedule B rows sum to 2,299.09 + 1,705.12 + 400.00 + 86.42 = 4,490.63 exactly = the schedule's own printed PAGE SUBTOTAL = the cover's promoted PER-PERIOD cell (Column A line 2) = the cover's line 6 restatement. As on Schedule A, the second footer 'Total Expenditures Received (Sum of subtotals from all Schedule B pages)' prints $9,751.15, which is the CUMULATIVE figure equal to Column B Year-to-Date; it was not used as the gate and was not summed as an increment. Both controls came back clean — see the frame measure_note."
+   }
+  },
+  "in_kind_convention": "monetary-only closed. Neither 2014 schedule blank prints an in-kind column or line, and no row is annotated in-kind, so the monetary-only and monetary-plus-in-kind conventions give the identical sums (4,100.00 and 4,490.63) on both sides. Both were tested; neither distinguishes.",
+  "escalations": 1,
+  "escalation_note": "One escalation, and it resolved LEGIBILITY only and did not settle it: the p4 name column at rows 3-4 was cropped at 900 dpi (pct:19,30.0,34,4.4@p4) to decide whether the vendor is written 'Voter Trove' or 'Votes Trove'. The crop rendered the two rows written identically in the same hand with the same address, and the terminal letter of the first word remained genuinely ambiguous between 'r' and 's'. NO ARITHMETIC BEARS ON IT — a name cannot be settled by closure — so the more natural reading was transcribed and the ambiguity is recorded in both rows' notes rather than hidden; nothing was corroborated from outside the document. The seven geometry-proof crops at 900 dpi are recorded in the frames' measure_notes and are not counted here. Note also that the filer writes his dollar sign as a '#' on one row and as a '$' elsewhere; both are the currency mark, not a digit, and neither affects a figure.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     81.98,
+     91.81
+    ],
+    "cells": [
+     [
+      6.04,
+      17.51
+     ],
+     [
+      19.04,
+      51.87
+     ],
+     [
+      53.4,
+      80.45
+     ],
+     [
+      81.98,
+      91.81
+     ]
+    ],
+    "rows": [
+     [
+      16.33,
+      20.28
+     ],
+     [
+      20.28,
+      24.23
+     ],
+     [
+      24.23,
+      28.16
+     ],
+     [
+      28.16,
+      32.09
+     ],
+     [
+      32.09,
+      36.03
+     ],
+     [
+      36.03,
+      39.98
+     ],
+     [
+      39.98,
+      43.93
+     ],
+     [
+      43.93,
+      47.84
+     ],
+     [
+      47.84,
+      51.78
+     ],
+     [
+      51.78,
+      55.71
+     ],
+     [
+      55.71,
+      59.66
+     ],
+     [
+      59.66,
+      63.59
+     ],
+     [
+      63.59,
+      67.53
+     ],
+     [
+      67.53,
+      71.46
+     ],
+     [
+      71.46,
+      75.39
+     ],
+     [
+      75.39,
+      79.34
+     ],
+     [
+      79.34,
+      83.27
+     ]
+    ],
+    "measure_note": "legacy_colAB Schedule A, the UNDERLINE form. rowbands.py (skew -0.2, raw frame, 0 bars) returns 17 per-column underline rules 20.28..83.27 at a pitch of 3.95, each with 4 segments, and those segments ARE the column bands (Date 6.04-17.51, Name of Contributor 19.04-51.87, Mailing Address & Zip Code 53.40-80.45, Amount 81.98-91.81). TEXT SITS ABOVE ITS UNDERLINE: row N spans [rule N-1, rule N], row 1 extrapolated one pitch up to [16.33, 20.28]. PROOF CROPS at 900 dpi and what they ACTUALLY RENDERED: (§A1 first-entry control) pct:81.98,16.33,9.83,3.95@p3 --value rendered the printed word 'Amount' above '$4,000' with the cents running past the tight box's right edge — so the filer did NOT skip the first ruled line and his first entry IS printed row 1 (recorded 4,000.00; the full-page read gives the cents as '.00' and the arithmetic closes uniquely on 4,000.00). (last transcribed row) pct:81.98,20.28,9.83,3.95@p3 --value rendered '$100.0' with the trailing '062' of row 1's WRAPPED zip line intruding at the top of the band — a §F1 trap-2 continuation, which is why the AMOUNT indexes the row (recorded 100.00 on printed row 2). (§B5 one-past control) pct:81.98,24.23,9.83,3.93@p3 --value rendered a completely EMPTY cell between two rules. (§F1 trap-5 control) the LAST band pct:81.98,79.34,9.83,3.93@p3 --value also rendered EMPTY, so no row continues below the last printed rule and the only writing below it is the printed subtotal and total labels with their figures."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     82.11,
+     92.0
+    ],
+    "cells": [
+     [
+      6.17,
+      17.64
+     ],
+     [
+      19.17,
+      52.06
+     ],
+     [
+      53.53,
+      80.64
+     ],
+     [
+      82.11,
+      92.0
+     ]
+    ],
+    "rows": [
+     [
+      18.35,
+      22.3
+     ],
+     [
+      22.3,
+      26.25
+     ],
+     [
+      26.25,
+      30.16
+     ],
+     [
+      30.16,
+      34.11
+     ],
+     [
+      34.11,
+      38.07
+     ],
+     [
+      38.07,
+      42.0
+     ],
+     [
+      42.0,
+      45.93
+     ],
+     [
+      45.93,
+      49.84
+     ],
+     [
+      49.84,
+      53.8
+     ],
+     [
+      53.8,
+      57.73
+     ],
+     [
+      57.73,
+      61.66
+     ],
+     [
+      61.66,
+      65.59
+     ],
+     [
+      65.59,
+      69.52
+     ],
+     [
+      69.52,
+      73.48
+     ],
+     [
+      73.48,
+      77.39
+     ],
+     [
+      77.39,
+      81.34
+     ],
+     [
+      81.34,
+      85.3
+     ]
+    ],
+    "measure_note": "Same underline grid as p3 but a different sheet with its own geometry (skew -0.1 vs p3's -0.2, first rule 22.30 vs 20.28) — grids are never interchangeable across pages of one PDF. rowbands.py returns 17 rules 22.30..85.30 at a pitch of 3.95; column bands from the rule-1 segments (Date 6.17-17.64, Name of Contributor 19.17-52.06, Mailing Address & Zip Code 53.53-80.64, Amount 82.11-92.00). Row 1 extrapolated one pitch up to [18.35, 22.30]. The single entry rowbands reports in `bars_pct` (y=92.81) is the printed underline beneath the 'Total Expenditures Received' label, not a redaction bar — this filing carries no redactions at all. ⚠ All four transcribed rows have a WRAPPED second address line falling below their own rule, physically inside the next row's band; the AMOUNT is what indexes the row. PROOF CROPS at 900 dpi and what they ACTUALLY RENDERED: (§A1 first-entry control) pct:82.11,18.35,9.89,3.95@p4 --value rendered the printed word 'Amount' above '$2,299.0' with the final digit at the box edge — the recorded 2,299.09 on printed row 1, and the filer did not skip line 1. (last transcribed row) pct:82.11,30.16,9.89,3.95@p4 --value rendered '# 86.42' — the recorded 86.42 on printed row 4, with the filer's '#'-shaped currency mark. (§B5 one-past control) pct:82.11,34.11,9.89,3.96@p4 --value rendered a completely EMPTY cell between two rules, so the bands are not off by one and §F1 trap 5 is screened negative."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "6-20-14",
+    "donor_raw": "Ben Stanley (loan)",
+    "donor_city": "Pleasant Grove",
+    "donor_state": "Ut",
+    "amount": "4000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Verbatim name cell 'Ben Stanley (loan)' — the candidate's own loan, kept whole in donor_raw because a contribution row has no purpose field to hold the parenthetical. CLASSIFIED BY THE LADDER, NOT BY THE WORD 'LOAN' (§B3): Schedule A's own 'Subtotal for this page' is 4,100.00 = 4,000.00 + 100.00, i.e. the subtotal INCLUDES the loan, and that subtotal is exactly the cover's Column A line 1; the cover's line 3 carries a real independent beginning balance of 628.48 which therefore cannot be the loan's slot. So it IS an itemized contribution row — the Kirk-2010 / Grierson-2012 branch. The state is written 'Ut' by the filer and kept verbatim. PRIVACY: the address cell gives a street line, city, state and zip; only city and state are carried and the street line is not written into this record in any field or note."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "6-21-14",
+    "donor_raw": "Aggregate small contributions",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "AN AGGREGATE LINE, KEPT AS THE DOCUMENT REPORTS IT (§7 / §D4): the filer wrote 'Aggregate small contributions' across the Name column as ONE entry with one date and one figure, and it is published as ONE row and never split into imagined donors. Its address cell is LEFT EMPTY BY THE FILER (not redacted by the county — this filing carries no redaction bars on any page), so donor_city and donor_state are honestly blank for that reason."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "6-20-14",
+    "vendor_raw": "Assured Direct",
+    "purpose": "printing mail piece",
+    "amount": "2299.09",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Verbatim name cell 'Assured Direct (printing / mail piece)' — the filer wrote 'printing' RAISED ABOVE 'mail piece' inside the same bracket, so the purpose is recorded as the two words together; its own address cell (city Lehi) corroborates the payee. Schedule B on this blank prints NO Purpose column — its columns are Date / 'Name of Contributor' (the unfixed 2012-era payee heading, ADDENDUM D §D2) / 'Mailing Address & Zip Code' / Amount — so the filer used the PARENTHESISED workaround, writing the purpose in brackets after the payee. Settled from THIS ROW'S OWN address cell, which corroborates the payee half. Expenditure rows carry no address field in this schema."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "6-24-14",
+    "vendor_raw": "Utah Republican Party",
+    "purpose": "postage",
+    "amount": "1705.12",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Verbatim name cell 'Utah Republican Party (postage)'; its own address cell (city Salt Lake City) corroborates the payee. Schedule B on this blank prints NO Purpose column — its columns are Date / 'Name of Contributor' (the unfixed 2012-era payee heading, ADDENDUM D §D2) / 'Mailing Address & Zip Code' / Amount — so the filer used the PARENTHESISED workaround, writing the purpose in brackets after the payee. Settled from THIS ROW'S OWN address cell, which corroborates the payee half. Expenditure rows carry no address field in this schema."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "7-15-14",
+    "vendor_raw": "Voter Trove",
+    "purpose": "data tool",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Verbatim name cell 'Voter Trove (data tool)'. ⚠ THE TERMINAL LETTER OF THE FIRST WORD IS AMBIGUOUS IN THIS HAND between 'r' and 's' ('Voter' vs 'Votes'); escalated to a 900 dpi crop of the name column, which did not settle it, and it is transcribed as the more natural reading with the ambiguity recorded rather than hidden. Rows 3 and 4 are written identically and share an address (city Austin, state TX). Schedule B on this blank prints NO Purpose column — its columns are Date / 'Name of Contributor' (the unfixed 2012-era payee heading, ADDENDUM D §D2) / 'Mailing Address & Zip Code' / Amount — so the filer used the PARENTHESISED workaround, writing the purpose in brackets after the payee. Settled from THIS ROW'S OWN address cell, which corroborates the payee half. Expenditure rows carry no address field in this schema."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "7-15-14",
+    "vendor_raw": "Voter Trove",
+    "purpose": "auto phone calls",
+    "amount": "86.42",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Verbatim name cell 'Voter Trove (auto phone calls)'; same vendor, same date and the same address cell as row 3. The same 'r'/'s' ambiguity applies (see row 3). The filer's dollar-sign glyph on this row is drawn as a '#'. Schedule B on this blank prints NO Purpose column — its columns are Date / 'Name of Contributor' (the unfixed 2012-era payee heading, ADDENDUM D §D2) / 'Mailing Address & Zip Code' / Amount — so the filer used the PARENTHESISED workaround, writing the purpose in brackets after the payee. Settled from THIS ROW'S OWN address cell, which corroborates the payee half. Expenditure rows carry no address field in this schema."
+   }
+  ],
+  "notes": "PAGE-FACE candidate 'Benjamin D. Stanley', party 'Republican', Office Seeking written out in full as 'Utah County Attorney', residence city Pleasant Grove, Ut — index.csv names NO candidate for this row (the 2008-2018 listing grouped by office), so the page face fills an empty channel label. 4 pages: p1 cover, p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B, each classified from its own printed header; the filer's own foliation ('2 of 4', '3 of 4', '4 of 4', counting the cover) agrees and says the document is complete as filed. Report type: '30 Days after the Primary Election' is ticked with a hand-drawn X and every other box is empty. ⚠ The amendment question is WHOLLY UNANSWERED — neither Yes nor No is ticked — an honest BLANK, never 'No' (§A4). Signature date written out as 'July 25, 2014'; the Date-of-Report box on pp2-4 reads 'July 25, 14' — the same date in two formats, both kept as printed. Clerk's received stamp: JUL 25 AM 11:35.\n\nMIXED-TEMPLATE FILING — the THIRD in this chunk, which now looks like the NORM for the 2014 wave rather than an exception, and is worth reporting as such. The p1 COVER is the common 2014 blank titled '2014 FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', while pp3-4 are the COUNTY-ONLY inner sheets: the address heading reads 'Mailing Address & Zip Code' and SCHEDULE B reuses 'Name of Contributor' over the vendor column with no Purpose column — the full 2012-era tell of §D2. Both were read on the page.\n\n⚠ THE MOST IMPORTANT PROPERTY ON THIS FILING, AND A GENUINE TRAP: THE TWO SCHEDULE FOOTERS CARRY DIFFERENT SCOPES. Each schedule prints 'Subtotal for this page' AND 'Total ... Received (Sum of subtotals from all Schedule A/B pages)'. On the wave's reference filing (Graves `40bd7997`) those two agree, because that filer restated only the period. HERE THEY DO NOT: the page subtotals are 4,100.00 and 4,490.63 (period, matching Column A), while the 'sum of all pages' totals are 9,989.00 and 9,751.15 (CYCLE, matching Column B Year-to-Date). Each side is gated on the PAGE SUBTOTAL. Reconciling to the other footer would have manufactured false deltas of 5,889.00 and 5,260.52 and might have been mislabelled `cumulative-exact` — but it is not the §A6 case at all: the SCHEDULE ROWS here are period-scoped, only the second footer is cumulative. Read which footer is which, per filing.\n\nTHE LOAN IS A CONTRIBUTION ROW HERE, decided by the ladder: the page subtotal 4,100.00 includes the 4,000.00 loan and equals Column A, and line 3 carries a real independent beginning balance of 628.48. That makes this chunk 4-1 on loans — Jackson `6b998b79`, Grierson `a23cc40d` and Stanley here treat the candidate's own loan as a contribution, while Tracy `7001a535` books his in the balance ladder and states zero contributions. The word never decides; the ladder does.\n\nAN AGGREGATE LINE, PUBLISHED AS ONE ROW: 'Aggregate small contributions' 100.00 (§D4). It is not split into imagined donors, and its blank address is the filer's own omission on a filing with no redactions anywhere.\n\nPRIVACY: this filing was published UNREDACTED — it is not a `*_Redacted.pdf` and carries no redaction bars on any page (the one entry rowbands reports as a bar on p4 is a printed underline), so the candidate's own street address, both phone numbers, and every donor and vendor street line are fully visible on the page. Per §A5 the reduction is applied at READ TIME: the contribution rows carry city and state only, expenditure rows carry no address field at all, and NO street line, suite number, phone number or zip has been written into this record — not into a field, not into a note."
+ }
+]

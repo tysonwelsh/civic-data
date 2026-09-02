@@ -1,0 +1,102 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "",
+ "total_expenditures": "",
+ "beginning_balance": "1736.34",
+ "ending_balance": "1736.34",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "1736.34"
+ },
+ "cover": {
+  "candidate": "BRENT H. GOODFELLOW",
+  "party": "DEMOCRAT",
+  "office_sought": "COUNTY COMMISSION 2",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "1-6-16",
+  "form_year": "2015"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2015_disclosures__2015_year_end__b_goodfellow_2015ye.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "BRENT H. GOODFELLOW",
+  "office": "County Council",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2015_disclosures__2015_year_end__b_goodfellow_2015ye.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "OFFICE - the form's Office Sought cell reads 'COUNTY COMMISSION 2' VERBATIM, an office that does not exist in Salt Lake County (Council-Mayor form since 2001; there is no County Commission). The chunk file's 'County Council / District 2' comes from the clerk listing, NOT from this form. Recorded as printed; the district number cell is blank and the '2' is part of the same handwritten string. Not a school-board filing (checked per AGENT_BRIEF section 2). / Summary lines 1 and 2 Column A and both Column B cells are BLANK; lines 4 and 6 print a bare '0' (a numeral, not a nil glyph). / 2-page filing: cover + Summary Page only, no Schedule A and no Schedule B - the chunk file's schedule_a='no-schedule-a-page-in-the-document' is CONFIRMED, and the same is true of Schedule B. / Cover: candidate address block and phone/fax/email block are both redacted at source by the county's black bar. Year-End box checked, amendment 'No' box checked. Signed 1-6-16; clerk stamp RECEIVED JAN 06 2016. / WARNING FOR THE MATERIALIZER: ending_balance is the verbatim '173634'; a naive parse makes it $173,634 rather than $1,736.34. Flagged for human review.",
+  "adjudications": [
+   "ending_balance: printed '173634' -> published '1736.34' (Summary Page p2 read at the source by the coordinator 2026-08-23. Line 7 is written 173634 with NO decimal point; THREE proofs on the same page give 1736.34: (1) the form's own printed instruction for line 7 is 'Subtract Line 6 from Line 5', and line 5 = 1736.34 with line 6 = 0; (2) line 5 prints the IDENTICAL six glyphs 1-7-3-6-3-4 but WITH the decimal point; (3) line 3 'Balance at Beginning' = 1736.34 with lines 4 and 6 both 0, so a period of zero activity must close where it opened. GOTCHAS: the document's own arithmetic outranks glyph reading. Same class as the utah Smith-2014 '$3446' adjudication (2026-08-20). Verbatim 173634 retained in totals_verbatim.)"
+  ],
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "Summary line 1 Column A is BLANK (the filer left it empty); line 4 states 0. The document has NO Schedule A page, so there is nothing to transcribe and no anchor to reconcile against."
+    },
+    "expenditures": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "Summary line 2 Column A is BLANK (the filer left it empty); line 6 states 0. The document has NO Schedule B page."
+    }
+   },
+   "page_subtotal_gates": "none available - the filing is 2 pages (cover + Summary Page); no schedule page exists in the document",
+   "escalations": 1,
+   "escalation_note": "p2 line-7 cell at 1200 dpi (-x 6100 -y 8600 -W 1700 -H 600) to test for a decimal point: there is none.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "OFFICE - the form's Office Sought cell reads 'COUNTY COMMISSION 2' VERBATIM, an office that does not exist in Salt Lake County (Council-Mayor form since 2001; there is no County Commission). The chunk file's 'County Council / District 2' comes from the clerk listing, NOT from this form. Recorded as printed; the district number cell is blank and the '2' is part of the same handwritten string. Not a school-board filing (checked per AGENT_BRIEF section 2). / Summary lines 1 and 2 Column A and both Column B cells are BLANK; lines 4 and 6 print a bare '0' (a numeral, not a nil glyph). / 2-page filing: cover + Summary Page only, no Schedule A and no Schedule B - the chunk file's schedule_a='no-schedule-a-page-in-the-document' is CONFIRMED, and the same is true of Schedule B. / Cover: candidate address block and phone/fax/email block are both redacted at source by the county's black bar. Year-End box checked, amendment 'No' box checked. Signed 1-6-16; clerk stamp RECEIVED JAN 06 2016. / WARNING FOR THE MATERIALIZER: ending_balance is the verbatim '173634'; a naive parse makes it $173,634 rather than $1,736.34. Flagged for human review."
+  }
+ },
+ "totals_verbatim": {
+  "ending_balance": "173634"
+ }
+}

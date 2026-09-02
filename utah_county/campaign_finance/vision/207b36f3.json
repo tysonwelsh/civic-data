@@ -3,7 +3,10 @@
  "key": "207b36f3",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T03:26:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -54,5 +57,52 @@
    "notes": "Handwritten. A ZERO-ACTIVITY CLOSING PERIOD: lines 1 and 2 Column A are plain handwritten '0's and lines 3-7 are all the filer's SLASHED-zero glyph; all transcribed as 0 at medium confidence. Column B carries the unchanged year-to-date 4677.47 on both lines, matching this filer's 10/25/2010 report (key 6c3330b1) exactly. Lines 1 and 2 Column B carry a leading '$', dropped per the schema. The 'Is this report an amendment?' Yes and No boxes are BOTH unchecked - is_amendment is '' (blank, not 'No'). On the Report Verification line the filer SIGNED where the printed name goes and then wrote the printed name beside it ('J. Smith  JEFFERY DEAN SMITH'); the printed name is transcribed as candidate_printed. Office Seeking reads 'UT. COUNTY RECORDER'; index.csv says 'County Recorder' - same office. The Page/of box on the summary page was left blank; Last Name (SMITH) and Date of Report (12/1/2010) are filled."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Schedule A's own printed 'Subtotal for this page' (a handwritten 0), which equals the p2 Summary Page's Column A 'Total this Period' line 1 (a handwritten 0)",
+     "detail": "ZERO-ACTIVITY CLOSING PERIOD. Schedule A (p3) is the blank county form: every one of its 16 printed ruled lines is empty, the whole body is struck through with a single hand-drawn diagonal line running from the lower-left of the Name column to the upper-right of the Address column, and the filer wrote a 0 on the 'Subtotal for this page' line. Zero rows transcribed sum to 0.00 = the printed page subtotal 0 = the cover's promoted PER-PERIOD cell (Column A line 1 = 0). The printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' line was LEFT BLANK by the filer. Column B 'Year-to-Date Total' prints 4677.47 and is NOT summed as an increment (utah is a per-period regime); it carries earlier periods this final report does not itemize."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Schedule B's own printed 'Subtotal for this page' (a handwritten 0), which equals the p2 Summary Page's Column A 'Total this Period' line 2 (a handwritten 0)",
+     "detail": "Same shape as Schedule A. Schedule B (p4) is the blank county form: 16 empty printed ruled lines, one hand-drawn diagonal strike through the body, and a handwritten 0 on 'Subtotal for this page'. Zero rows sum to 0.00 = the printed page subtotal 0 = the cover's Column A line 2 = 0. The 'Total Expenditures Received' line is blank. Column B YTD 4677.47 is retained as cumulative and never summed."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 both schedules are blank and neither the cover nor either schedule prints an in-kind line; the monetary-only and monetary-plus-in-kind conventions both give 0.00 and both close against the cover's Column A zeros",
+   "escalations": 2,
+   "escalation_note": "Two tight cell crops at 900 dpi on the 'Subtotal for this page' cells, to settle the glyph under the ZERO-GLYPH RULING before recording an empty-schedule state: pct:76,84,22,5@p3 rendered the printed label 'Subtotal for this page   $' followed by a single handwritten closed-loop ZERO, and pct:76,82,22,5@p4 rendered the same label followed by a handwritten ZERO. Both are numerals denoting zero, not bare dashes, so the schedules affirmatively state 0 rather than leaving the cell blank. No amount cell needed escalation because no amount cell is written on.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "PAGE-FACE candidate 'JEFFERY DEAN SMITH' (Republican, Orem UT), office printed 'UT. COUNTY RECORDER' \u2014 index.csv names NO candidate for this row (the 2008-2018 listing grouped by office), so the page face supplies it. legacy_colAB variant on the '2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES' blank citing Utah County Code 2-5 & Utah State Code 17-16-6.5. 4 pages, each classified from its own printed header: p1 cover ('30 Days after the General Election' ticked; report date 12/1/10; clerk's DEC 2 AM 8:35 received stamp), p2 SUMMARY PAGE (located by content, at the usual p2 position for this variant), p3 SCHEDULE A ITEMIZED CONTRIBUTIONS RECEIVED, p4 SCHEDULE B ITEMIZED EXPENDITURES MADE. BOTH SCHEDULES ARE EMPTY-SCHEDULE, NOT no-schedule-page and NOT withheld: the county form pages are present and printed, the filer entered no lines on either, struck each body through with a single diagonal pen line, and wrote a 0 on each page's 'Subtotal for this page'. This is a zero-activity closing period, consistent with the p2 cover: Column A lines 1 and 2 are plain handwritten '0's and lines 3-7 (balance ladder) are all SLASHED ZEROS. The AMENDMENT question is wholly unanswered - neither Yes nor No is ticked (ADDENDUM A4: an honest BLANK, never 'No'). Schedule B is dated 12/2/2010 on its own header while p1/p2/p3 are dated 12/1/2010 - the filer's own one-day inconsistency, transcribed as printed, not adjudicated. The 'Page __ of __' box is filled only on p4 (a '4'); p1-p3 leave it blank (ADDENDUM A4: foliation is inconsistent within a single filing). PRIVACY: the county did NOT redact this era - the filer's street address, ZIP and phone are fully visible on p1 and are deliberately not carried into this record."
+  }
+ }
 }

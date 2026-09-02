@@ -1,0 +1,103 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C23.json",
+ "key": "bbcaa626",
+ "index_path": "raw/2026/2026_cc_2026_Financial_Disclosure_Mar4_J_Brett_Chambers.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_Mar4_J_Brett_Chambers.pdf"
+ ],
+ "sha256_prefix": "c2770d5092f39eeb",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other",
+  "5": "filer-attachment"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "500",
+    "cover_over50_cum": "500",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "500",
+    "schedule_total": "500",
+    "page_subtotal": "500",
+    "box_A_balance_begin": "0",
+    "box_F_subtotal": "500"
+   },
+   "itemized": "500",
+   "basis": "page-subtotal==schedule-total==Box B==Box C",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One row, 500, equal to the printed 'Subtotal for this page $ 500', 'Total Contributions Received $ 500' and to BOTH Summary Page Box B (This Period, 500) and Box C (Year-to-Date, 500). B == C, so period and cumulative coincide on this filing."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "500",
+    "schedule_total": "0",
+    "page_subtotal": "0"
+   },
+   "itemized": "0",
+   "basis": "page-subtotal==schedule-total==Box D==Box E",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Schedule B (p3) carries a single filer nil-mark '0' in the Date column and no other ink -- an EMPTY SCHEDULE, zero rows. Printed 'Subtotal for this page $ 0' and 'Total Expenditures Made $ 0'; Summary Box D = 0 and Box E = 0. Period and cumulative coincide."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows-sum 500 = printed subtotal 500 = printed total 500. p3 rows-sum 0 = printed subtotal 0 = printed total 0. Both gate exactly.",
+  "row_count": "Born-digital JotformSIGN/pdf-lib rendering with NO printed row rules on either schedule (rowbands.py has no grid to score). Counted by ink and cross-checked against the PDF's embedded text layer via pdftotext -bbox-layout: p2 returns exactly ONE line between the column-header row and the footer block (the single 'Nixon & Nixon' contribution line) = 1 row emitted; p3 returns exactly one line, the bare token '0' = 0 rows emitted.",
+  "geometry_proof": "p2 first-and-only-row amount crop at pct x=19.60 y=19.80 (600 dpi) renders '$500,' -- that row's own amount; control one row-pitch below (y=21.69) renders EMPTY. Only one row exists, so first and last crops coincide.",
+  "balance_chain": "Summary p4: A=0, B=500, C=500, D=0, E=0, F(A+B)=500, Balance at Close (F - D) = 500. 0 + 500 - 0 = 500 CLOSES EXACTLY. No earlier 2026-cycle Chambers filing is in this chunk, so no cross-filing cumulative chain could be run (later 2026-04-03 and 2026-06-16 Chambers filings exist in the module but are out of this chunk)."
+ },
+ "escalations": 1,
+ "escalation_note": "The single amount re-read at 600 dpi as a tight cell crop plus an empty control, and corroborated against the embedded text layer; read identically. Born-digital type, no glyph in doubt.",
+ "notes": "OFFICE CONFIRMED AT THE PAGE, WITH A WORDING DIFFERENCE: index.csv says 'County Attorney'; the cover's Office line reads verbatim 'Interim Cache County Attorney'. Same county office, in scope; the filer's 'Interim' qualifier is recorded here rather than dropped silently. DATE AGREES with the chunk file (2026-03-04 vs the form's 03-04-2026 and the 'Signed at: 2026-03-04 11:33:01' stamp; p5 audit trail confirms 'Signed Mar 04, 2026 11:33 AM'). NAME: the cover's 'Name of Candidate' reads 'J. Brett Chambers' but the Affirmation line reads 'Jonathan Brett Chambers' -- both verbatim, same person. REPORT TYPE: none of the three printed radios is marked; the filer typed the free-text line '3 Days prior to Party Nominating Convention' instead. PAGE COUNT: the PDF has 5 pages but its own JotformSIGN audit trail (p5) states 'DOCUMENT PAGES 4' -- p5 is the platform-generated audit trail appended to the 4-page form, not a second report; n_reports_in_pdf is 1. p5 carries a signer IP address, deliberately not recorded. FILING SHAPE: the filer ignored the ruled columns and typed the whole transaction as one comma-delimited free-text line in a NON-STANDARD FIELD ORDER (name, amount, date, address) -- field assignment is from the content, not from cell position. FIELD-SHIFT SCREEN passed: exactly one name, one amount and one date on the line, each unambiguously typed. Donor street address discarded at read time (city only); the candidate's own address, phone and email on the cover likewise discarded.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2026-02-03",
+   "donor_raw": "Nixon & Nixon",
+   "donor_city": "Logan",
+   "donor_state": "",
+   "amount": "500",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:19.60,19.80,4.55,1.89@p2",
+   "note": "verbatim line with the street address ELIDED at read time: 'Nixon & Nixon, $500, Feb. 3 2026, [street address discarded], Logan'. Filer wrote the fields OUT OF COLUMN ORDER (name, amount, date, address). Date written 'Feb. 3 2026' -- unambiguous, parsed to 2026-02-03. donor_state left BLANK because the filer printed no state on this line (city 'Logan' only); not backfilled"
+  }
+ ],
+ "expenditures": []
+}

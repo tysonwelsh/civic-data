@@ -1,0 +1,164 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C25.json",
+ "key": "88c9c773",
+ "index_path": "raw/2026/2026_cc_2026_Financial_Disclosure_June16_David_Gillie.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_June16_David_Gillie.pdf"
+ ],
+ "sha256_prefix": "9a86770ba95c35cd",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "None",
+    "cover_over50_cum": "1,000",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "182.61",
+    "schedule_total": "1,000",
+    "page_subtotal": "1,000",
+    "box_A_balance_begin": "182.61",
+    "box_F_subtotal": "182.61"
+   },
+   "itemized": "1000.00",
+   "basis": "schedule-total==cover-box-C-year-to-date",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One contribution row of 1,000. Rows sum 1,000 = printed 'Subtotal for this page $ 1,000' = printed 'Total Contributions Received $ 1,000' = Summary Box C (Contributions Received Year-to-Date) 1,000. Box B (This Period) is the written word 'None', NOT a numeral and not a zero glyph, so it is carried verbatim as a string and is not treated as 0. Because the rows equal the Year-to-Date cell and the This-Period cell is 'None', the schedule restates the whole cycle -> scope cumulative."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "None",
+    "cover_expense_cum": "817.39",
+    "cover_balance_end": "182.61",
+    "schedule_total": "817,39",
+    "page_subtotal": "817.39",
+    "box_A_balance_begin": "182.61",
+    "box_F_subtotal": "182.61"
+   },
+   "itemized": "817.39",
+   "basis": "schedule-total==cover-box-E-year-to-date",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Four expenditure rows: 665 + 22.38 + 107.87 + 22.14 = 817.39, which equals the printed 'Subtotal for this page $ 817.39', the printed 'Total Expenditures Made $ 817,39' (the filer's comma-for-point slip in the Total cell only; the Subtotal cell on the same page has a clear decimal point), and Summary Box E (Expenditures Made Year-to-Date) 817.39. Box D (This Period) is the written word 'None'. Rows equal the Year-to-Date cell -> scope cumulative. The arithmetic gate is what fixed two otherwise-bistable amounts (see escalation_note)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: 1 row = 1,000.00 = printed Subtotal $ 1,000 = printed Total $ 1,000 (gates exactly). p3: 4 rows = 665 + 22.38 + 107.87 + 22.14 = 817.39 = printed Subtotal $ 817.39 = printed Total $ 817,39 (gates exactly to the cent). No page or side failed to gate.",
+  "row_count": "Handwritten on an UNRULED CFD schedule area (this family prints only the header rule and the footer rule - there are no writing lines), so rowbands.py has no row grid to score and its output would be meaningless here; counted by ink instead. p2: 1 inked transaction line (the address wraps onto a second physical line within the same row - it is a continuation, not a second row: it carries no date and no amount, and adding it would break the printed subtotal). p3: 4 inked transaction lines, each with its own date, vendor, purpose and amount, and the 4-row sum closes on the printed subtotal, which independently confirms no line was dropped or duplicated.",
+  "geometry_proof": "p2 row 1: 600 dpi crop at x=3900,y=1620,W=700,H=180 renders '1,000'; control one pitch below (y=1830) renders EMPTY. p3 first row: crop x=3930,y=1668,W=690,H=165 renders '665'; p3 last row: same x/W/H at y=2178 renders '22.14'; control one pitch past the last row (y=2343) renders EMPTY. Row indices confirmed on both sides.",
+  "balance_chain": "Box A 182.61 + Box B 'None' = Box F 182.61 (closes if 'None' is read as nil); Box F 182.61 - Box D 'None' = Balance at Close 182.61 (closes). Independently, Box C 1,000 - Box E 817.39 = 182.61, so the cycle-to-date figures also reproduce the stated closing balance exactly - a second, stronger closure. NOTE the filer used Box A for what is really the closing cycle balance rather than an opening balance; both cells are transcribed verbatim as printed. Cross-filing chain NOT run: this chunk holds only the June-16 Gillie filing (an Apr-3 2026 Gillie report exists in the county corpus but is outside this chunk)."
+ },
+ "escalations": 4,
+ "escalation_note": "p3 amount column re-rendered as a 600 dpi crop (x=3750,y=1500,W=1100,H=800) and p3 date column likewise (x=150,y=1500) after the 200 dpi read left two figures bistable. (1) Row 2 amount read as either 22.38 or 27.38; the schedule's own sum decides - 665 + 27.38 + 107.87 + 22.14 = 822.39, which breaks the printed 817.39, while 22.38 closes it exactly. ARITHMETIC, not resolution, settled it. (2) Row 4 amount 22.14 vs 22.16/22.11: 817.39 - 665 - 22.38 - 107.87 = 22.14 exactly. (3) Row 2 DAY glyph reads as a detached 'L' plus a short vertical bar, the classic bistable two-stroke open-top 4-vs-11; escalated to a 1200 dpi cell crop (x=320,y=3660,W=500,H=380) and resolved WITHIN THIS DOCUMENT rather than against any sibling copy: the same 'L + bar' shape is the final glyph of row 4's amount, and that glyph is arithmetically PROVEN to be a 4 by the schedule sum, whereas this filer's 1 (in '1,000', '107.87', '1 JAN 2026' and the '1' of '22.14') is a single vertical with both a flag serif and a base serif - a visibly different letterform. Day 2 is therefore 4. (4) p2 amount cell re-rendered at 600 dpi for the geometry control.",
+ "notes": "Handwritten (pencil) on the 2022+ Cache CFD form; the index's totals_source 'vision' is correct - the PDF's text layer is OCR and is materially wrong (it renders the office line as 'Cache County Clerk realeleetions@gillieforcounTy' and the county logo as 'Gache'), so nothing in this record comes from it. index.csv calls the office 'Clerk/Auditor'; the form's own Office line reads 'Cache County Clerk' - same office, form wording governs. index/chunk date 2026-06-16 matches the form's handwritten Date of Report '16 JUN 2026'. Page order: p1 cover, p2 Schedule A, p3 Schedule B, p4 lettered Summary Page; the footer block on every schedule page carries the candidate name, the report date and a handwritten page number (2, 3, 4), which confirms all pages of this filing are present and in order. Candidate's home street address, phone and email are printed in the clear on p1 and were discarded at read time; the Schedule A donor address is the candidate's own home address (self-funding) and only city/state were kept. SELF-CONTRIBUTION: the sole Schedule A row names the contributor as 'Self' - transcribed verbatim, not resolved to the candidate's name. FILER SLIP retained verbatim: the p3 'Total Expenditures Made' cell is written '817,39' with a comma where the Subtotal cell on the same page has a decimal point; both are recorded as printed and the value is unambiguous at 817.39 because the Subtotal cell and the sum agree. Boxes B and D on the Summary Page are the written word 'None' - a nil mark, not a zero glyph - so they are recorded as the verbatim string 'None' and are NOT reported as 0.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2026-01-01",
+   "donor_raw": "Self",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:76.47,24.55,13.71,2.73@p2",
+   "note": "Date written '1 JAN 2026'; the leading 1 carries this filer's distinctive flag-and-base serif, distinguishing it from his open-top 4. Amount written '1,000' with no cents and a stray pencil dot to its right, kept verbatim as printed. Address cell reads '1839 North 200 West / Logan, UT [street address discarded at read time per PRIVACY.md]' (the candidate's own home address, self-funding); street and ZIP discarded at read time, only city and state kept. Verified in a 600 dpi cell crop."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2026-01-07",
+   "vendor_raw": "Cache CounTy",
+   "purpose": "Filing Fee",
+   "amount": "665",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:77.06,25.27,13.53,2.50@p3",
+   "note": "Date written '7 JAN 2026'. Vendor written with a capital T mid-word ('CounTy') - kept verbatim. Amount written '665' with no cents and no decimal point; recorded as printed, worth 665.00 in the schedule sum. Verified in a 600 dpi cell crop."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2026-02-04",
+   "vendor_raw": "Go Daddy",
+   "purpose": "Online Services",
+   "amount": "22.38",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:77.06,27.77,13.53,2.50@p3",
+   "note": "DAY GLYPH ESCALATED: written as a detached 'L' plus a short vertical bar, bistable between 4 and 11. Resolved to 4 within this document - the identical shape is the final glyph of row 4's amount 22.14, which the schedule sum proves is a 4, while this filer's 1 is a serifed single vertical. Not settled by any sibling copy. AMOUNT ESCALATED: 22.38 vs 27.38 at 200 dpi; the schedule's own sum decides - 27.38 would total 822.39 and break the printed 817.39, 22.38 closes it exactly. Verified in a 600 dpi cell crop."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2026-02-05",
+   "vendor_raw": "Go Daddy",
+   "purpose": "Online Services",
+   "amount": "107.87",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:77.06,30.27,13.53,2.50@p3",
+   "note": "Date written '5 FEB 2026'. Verified in a 600 dpi cell crop."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2026-04-02",
+   "vendor_raw": "GoDaddy",
+   "purpose": "Online Services",
+   "amount": "22.14",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:77.06,33.00,13.53,2.50@p3",
+   "note": "Date written '2 APR 2026'. Vendor written closed-up as 'GoDaddy' on this row (spaced 'Go Daddy' on rows 2 and 3) - kept verbatim per row. Amount 22.14 confirmed by the schedule sum (817.39 - 665 - 22.38 - 107.87) and re-read in a 1200 dpi cell crop; this row's final 4 is the reference glyph used to settle row 2's day."
+  }
+ ]
+}

@@ -3,7 +3,10 @@
  "key": "26c3d3b9",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:45:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,67 @@
    "notes": "Handwritten cursive, crisp; no dollar signs written on this summary page. LINE 3 is written inside hand-drawn parentheses/angle brackets, '(3.46)' - the accountant's negative convention, carried forward from this filer's previous report (key d1bd54d2, which closed at '($3.46)'). Transcribed VERBATIM with the parentheses rather than converted to '-3.46'. Lines 2 Column A, 5, 6 and 7 are the filer's slashed-zero glyph, transcribed as '0' at medium confidence. Cover page Office Seeking reads 'Utah County Treasurer' here, where the same filer's June report (d1bd54d2) wrote only 'Treasurer' - both are transcribed as printed. office_index said 'County Treasurer'; the page says 'Utah County Treasurer' (naming-convention difference, not a conflict). candidate_index was blank; the page names Robert Kirk. Cover signature date is '10/26/2010'; the summary page's own Date of Report box writes it '10-26-10'. Page box reads 'Page 2 of 4'."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "7-1-10",
+   "donor_raw": "Personal Loan",
+   "amount": "3.46",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:81.57,17.96,9.54,3.82@p3",
+   "geometry_frame": "p3 axis=y cell=81.57-91.11 rowband=17.96-21.78 (1 of 17 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The filer wrote 'Personal Loan' in the Name of Contributor cell rather than a person or committee name; kept verbatim as the document reports it. The Mailing Address cell prints a STREET LINE ONLY with no city, state or zip - so donor_city/donor_state are honestly BLANK because the form carries no city, not because the county redacted anything (this 2010 filing is not a *_Redacted.pdf; ADDENDUM A5). PRIVACY: the street line is deliberately not carried, not even in this note. Cents written plainly ('3.46', no raised cents)."
+  }
+ ],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r2_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED (3.46) on the p2 Summary Page, which is also Schedule A's own printed 'Subtotal for this page $ 3.46' AND its printed 'Total Contributions Received $ 3.46', and is repeated at summary line 4 'Total Contributions Received (From Line 1 Column A)' = 3.46",
+     "detail": "The single Schedule A row sums to 3.46 = the schedule's printed page subtotal (3.46) = the schedule's printed Total Contributions Received (3.46) = the cover's promoted PER-PERIOD cell Column A (3.46). Column B 'Year-to-Date Total' prints 503.46 and is NOT summed as an increment (utah is a per-period regime). THE LOAN QUESTION WAS DECIDED BY THE ARITHMETIC, the opposite way from Witney 2010 (ADDENDUM A4): the row's donor cell reads 'Personal Loan', but here the cover assigns it to line 1 CONTRIBUTIONS, not to line 3 Balance at Beginning \u2014 line 3 prints a NEGATIVE (3.46) in hand-drawn accounting parentheses, and the ladder closes only that way: line 5 Subtotal = line 3 + line 4 = -3.46 + 3.46 = 0 (printed as a slashed zero), line 7 Balance at Close = line 5 - line 6 = 0 - 0 = 0 (printed as a slashed zero). So the personal loan IS this filing's itemized contribution row.",
+     "in_kind_convention_tested": "both"
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 2 TOTAL EXPENDITURES MADE, written as a SLASHED ZERO (read 0 under the repo zero-glyph ruling), matched by Schedule B's own printed 'Subtotal for this page $ -0-' and its printed 'Total Expenditures Received $ \u00d8'",
+     "detail": "Schedule B (p4) is present and every one of its 16 ruled rows is BLANK - no date, no payee, no address, no amount anywhere on the grid. The filer wrote the nil mark '-0-' on the page subtotal line and a slashed zero on the Total Expenditures Received line; both denote the digit zero under the repo zero-glyph ruling and both agree with the cover's promoted per-period cell (Column A line 2, also a slashed zero) and with summary line 6 'Total Expenditures Made (From Line 2 Column A)', also a slashed zero. Zero rows is the honest reading: the schedule EXISTS and the filer entered nothing. Column B YTD 503.46 is cumulative and never summed."
+    }
+   },
+   "in_kind_convention": "monetary-only closed exactly at 3.46; the form prints no in-kind column and no row is marked in-kind, so the monetary-plus-in-kind convention gives the identical sum and also closes. Both conventions tested, both agree.",
+   "escalations": 3,
+   "escalation_note": "Three tight crops at 900/600 dpi on p3, all geometry proofs rather than legibility disputes (no cell on this filing was doubtful at 200 dpi): the extrapolated band-1 amount box, the band-2 control box, and a wide band-1 strip across all four columns to field-shift-screen the single row.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 1,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Page-face candidate 'Robert Kirk', Republican, 'Utah County Treasurer' - index.csv names NO candidate for this row (its `candidate` cell is empty; the channel label is the period string 'Kirk - 10/26/10'), so the page face supplies the name. 4 pages, each classified from its own printed header: p1 COVER (2010 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES, Utah County Code 2-5 & Utah State Code 17-16-6.5; report type 'Seven days preceding the General Election' ticked; 'Is this report an amendment? No' ticked; signed and dated 10/26/2010; clerk date stamp OCT 26 PM 3:47), p2 SUMMARY PAGE (found at the usual legacy_colAB position but located by its printed 'SUMMARY PAGE' heading, not by ordinal), p3 SCHEDULE A - ITEMIZED CONTRIBUTIONS RECEIVED, p4 SCHEDULE B - ITEMIZED EXPENDITURES MADE. The filer foliates his own sheets 2/3/4 'of 4' in the top-right block, so foliation INCLUDES the cover here - the opposite of Poulson's 2010 practice (ADDENDUM A4) and one more reason an ordinal never locates a page. SUMMARY LADDER, verbatim: line 1 = 3.46 / 503.46; line 2 = slashed zero / 503.46; line 3 = (3.46) written inside hand-drawn parentheses, i.e. a NEGATIVE beginning balance of -3.46; line 4 = 3.46; line 5 = slashed zero; line 6 = slashed zero; line 7 = slashed zero. The ladder is internally exact. A NEGATIVE BALANCE AT BEGINNING IS REAL here, as it was for Poulson (ADDENDUM A4) - the campaign was 3.46 overdrawn and the personal loan of exactly 3.46 zeroes it out; that is why the itemized contribution and the beginning balance carry the same figure without either being a restatement of the other. Cycle context: Column B shows 503.46 raised and 503.46 spent year-to-date, so this final-period report itemizes only the closing 3.46; the earlier periods' donors are in the filer's earlier 2010 reports, not here. Schedule B is an EMPTY SCHEDULE, not a missing page and not an unread one."
+  }
+ }
 }

@@ -1,0 +1,149 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2026-01-07",
+   "donor_raw": "Nicholas J Roberts",
+   "occupation": "Retired",
+   "amount": "1050.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:8.31,22.49,86.62,4.04@p3",
+   "note": "date printed '1-7-26' (2-digit year expanded); address cell redacted at source (PDF annotation bar); candidate's own contribution"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2026-01-07",
+   "vendor_raw": "Salt Lake County Clerk",
+   "purpose": "Filing",
+   "amount": "1050.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,23.91,78.64,4.05@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2023-01-31",
+   "vendor_raw": "Brian Twede",
+   "purpose": "Closing account of campain,bills",
+   "amount": "1834.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.80,27.96,78.64,4.02@p4",
+   "note": "date 1-31-2023 falls outside the reporting period (kept verbatim); purpose prints 'campain,bills' (sic)"
+  }
+ ],
+ "total_contributions": "1050.00",
+ "total_expenditures": "2884.00",
+ "beginning_balance": "1834.",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "2884."
+ },
+ "cover": {
+  "candidate": "Nicholas J Roberts",
+  "party": "Republican",
+  "office_sought": "Sheriff",
+  "district_number": "N/A",
+  "report_type": "Year-End Report: January 31 of each year (box checked)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-31-2026",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Roberts-Nicholas__A9E110EA.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Roberts, Nicholas",
+  "office": "Sheriff",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Roberts-Nicholas__A9E110EA.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026 cycle, needs_totals=1: BOTH halves emitted. Cover form is the 2026 family 'Financial Disclosure Report For a Candidate' \u2014 NO year printed in the form title (form_year deliberately empty). Year-End Report (January 31) box checked; amendment question: NEITHER Yes nor No box checked (is_amendment left blank). Signature hand-signed; report date handwritten '1-31-2026'. Typed form-fill, not handwriting. Redaction bars are PDF annotations carrying sticky-note comment icons (cover address row, cover phone/email row, and the Schedule A row-1 address cell). Summary Col B (Aggregate Total) cells exist but are blank. Balance-summary figures print without cents: '1834.', '1050.', '2884.', '0' \u2014 transcribed verbatim. Schedule B row 2 is dated 1-31-2023, OUTSIDE the reporting period, purpose 'Closing account of campain,bills' (sic). p5 is an all-zero 'Summary Page \u2014 Other Campaign Accounts' (lines 1-7 all '0'); p6/p7 are its two wholly blank itemized pages (subtotals/totals '0') \u2014 not the county Schedule A/B, no rows emitted from them. Chunk-file priors confirmed: c_rows=1, e_rows=2, stated 1050.00/2884.00.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "1050.00",
+     "schedule_total": "",
+     "itemized": "1050.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "1 row 1050.00 = Summary line 1 Col A. Schedule A's SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED cells are PRINTED BUT LEFT BLANK \u2014 no schedule-side gate exists; reconciled against Summary line 1."
+    },
+    "expenditures": {
+     "stated": "2884.00",
+     "schedule_total": "2884.00",
+     "itemized": "2884.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "2 rows (1050.00 + 1834.00) = 2884.00 = Summary line 2 Col A = printed SUBTOTAL/TOTAL on Schedule B p4."
+    }
+   },
+   "page_subtotal_gates": "p3: subtotal cell printed blank \u2014 no gate; the single row 1050.00 ties to Summary line 1. p4: rows 2884.00 = printed SUBTOTAL 2884.00 = printed TOTAL 2884.00",
+   "escalations": 4,
+   "escalation_note": "600dpi crops x4 on p3/p4 (two aimed at the header band, two covering the 3 data rows); all 3 rows re-read identically",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026 cycle, needs_totals=1: BOTH halves emitted. Cover form is the 2026 family 'Financial Disclosure Report For a Candidate' \u2014 NO year printed in the form title (form_year deliberately empty). Year-End Report (January 31) box checked; amendment question: NEITHER Yes nor No box checked (is_amendment left blank). Signature hand-signed; report date handwritten '1-31-2026'. Typed form-fill, not handwriting. Redaction bars are PDF annotations carrying sticky-note comment icons (cover address row, cover phone/email row, and the Schedule A row-1 address cell). Summary Col B (Aggregate Total) cells exist but are blank. Balance-summary figures print without cents: '1834.', '1050.', '2884.', '0' \u2014 transcribed verbatim. Schedule B row 2 is dated 1-31-2023, OUTSIDE the reporting period, purpose 'Closing account of campain,bills' (sic). p5 is an all-zero 'Summary Page \u2014 Other Campaign Accounts' (lines 1-7 all '0'); p6/p7 are its two wholly blank itemized pages (subtotals/totals '0') \u2014 not the county Schedule A/B, no rows emitted from them. Chunk-file priors confirmed: c_rows=1, e_rows=2, stated 1050.00/2884.00."
+  }
+ }
+}

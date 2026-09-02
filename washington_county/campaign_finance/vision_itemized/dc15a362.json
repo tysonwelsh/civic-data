@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W14.json",
+ "key": "dc15a362",
+ "index_path": "raw/wayback_forms2020/Assessor_Tom Durrant_October 22 2020_10-23-2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Assessor_Tom Durrant_October 22 2020_10-23-2020.pdf"
+ ],
+ "sha256_prefix": "0869a69dc023ba02",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line1-this==cover-line1-cum",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is a completely blank grid - every one of the ~40 ruled data rows is empty; the printed TOTAL cell carries a slashed-zero glyph (a circled/oval 0 struck through by a long horizontal stroke), read as 0 per the zero-glyph ruling and confirmed in a 600 dpi cell crop. Cover line 1 prints a handwritten 0 in ALL THREE columns (LAST 0 + THIS 0 = CUM 0), and cover line 2 (the $50-or-less aggregate) is likewise 0 in all three, so there is no small-donor aggregate hiding anything. Rows sum 0.00 = schedule total 0 = both cover cells; the two scopes coincide at zero, recorded as cumulative."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "571.00",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "571.00",
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (p3) is a completely blank grid; its printed TOTAL cell carries the same slashed-zero glyph (confirmed at 600 dpi), i.e. 0. That equals the cover's THIS REPORT expense cell (0) and NOT the CUMULATIVE cell (571.00), which is the scope test firing cleanly: this filer's schedule is PER-PERIOD, not cycle-to-date. The 571.00 cumulative was itemized on an earlier filing that is not in this PDF. Zero rows here is a real per-period zero, not a gap."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows sum 0.00 = printed TOTAL 0 (slashed-zero glyph); p3 rows sum 0.00 = printed TOTAL 0 (slashed-zero glyph). Both gates fire.",
+  "row_count": "p2 and p3 are ruled ~40-row grids with ZERO inked data rows (verified on the full 200 dpi page read of each); 0 rows emitted per side. rowbands not needed for a wholly blank grid.",
+  "geometry_proof": "not applicable - zero rows emitted on either side, so no row geometry is claimed.",
+  "balance_chain": "Closes exactly on both columns. THIS column: contributions 0 - expenses 0 = 0 change; cover balance LAST -571.00 + 0 = THIS-column balance figure. CUMULATIVE column: contributions 0 - expenses 571.00 = -571.00 = cover line 4 cumulative -571.00. The filer carries a negative (self-funded/unreimbursed) balance and states it consistently."
+ },
+ "escalations": 2,
+ "escalation_note": "600 dpi cell crops of the p2 and p3 TOTAL cells to settle the total glyph: both render an oval zero struck by a long horizontal stroke (a slashed/nil zero), not a numeral 6 or 0-dash.",
+ "notes": "Generation-2 county-branded cover (WASHINGTON COUNTY CANDIDATE FINANCIAL CAMPAIGN REPORT, 'Washington County Code 1-7-1'), with the four-line anchor grid AND an In Kind? column on Form A. Chunk file says candidate 'Tom Durrant', office 'Assessor'; the cover's handwritten 'Full Name of Candidate' reads 'Tom Durrant' and the 'Office' line reads 'Assessor' - both AGREE, no contradiction. Certified period 6-17-2020 to 10-21-2020; signature date 10-21-2020; clerk RECEIVED stamp OCT 22 2020. Candidate street address, ZIP and business phone printed in the clear on the cover were discarded at read time per the privacy rule.",
+ "contributions": [],
+ "expenditures": []
+}

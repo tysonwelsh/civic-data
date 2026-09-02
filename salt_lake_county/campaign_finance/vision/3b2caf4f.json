@@ -1,0 +1,92 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Trent Staggs",
+  "party": "",
+  "office_sought": "County Mayor",
+  "district_number": "",
+  "report_type": "",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-20-21",
+  "form_year": ""
+ },
+ "confidence": {
+  "candidate": "high",
+  "office_sought": "high",
+  "report_date": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/forms__staggs-dissolution_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Trent Staggs",
+  "office": "Mayor",
+  "election_year": "2020",
+  "source_pdf": "raw/globalassets/forms__staggs-dissolution_redacted.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "KNOWN UNRECOVERABLE GAP, confirmed at the page (AGENT_BRIEF section 8). The whole PDF is ONE page: the county's 'Dissolution of a Candidate Campaign Committee [County and Local School Board Candidates and Officeholders]' notice. Handwritten entries: Name of Committee 'Staggs for Mayor'; Name of Candidate/Officeholder 'Trent Staggs'; County/Local School Board Office 'County Mayor'; Name of Committee Secretary 'Chris Harelson'; Date '1-20-21'. The signature block is redacted at source (black bar). Clerk stamp 'RECEIVED IN OFFICE JAN 2? 2021 SALT LAKE COUNTY CLERK' - the received day digit is partly clipped by the stamp edge (JAN 20 or JAN 29 2021), left unread rather than guessed. The PRE-PRINTED body text reads verbatim: 'Attached is a final summary financial report, showing all final financial activity of the committee. The ending balance on the final summary report filed is zero and the balance in the separate bank account required is zero.' NO such attachment is in this PDF - the file is one page and page 1 is the notice itself. Nothing reconstructed; totals are null by non-existence, both sides are 'none', zero rows. IN SCOPE: the office line inside the form reads 'County Mayor', not a school-board office (the form's title covers both populations). The chunk file's doc_kind 'dissolution-notice' and its flag are both CONFIRMED at the page.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": null,
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "the document is a one-page Dissolution notice: no Summary Page, no Schedule A, no stated total of any kind"
+    },
+    "expenditures": {
+     "stated": null,
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "same - one-page notice, no Schedule B and no stated total"
+    }
+   },
+   "page_subtotal_gates": "none - no schedule page exists in this document",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "KNOWN UNRECOVERABLE GAP, confirmed at the page (AGENT_BRIEF section 8). The whole PDF is ONE page: the county's 'Dissolution of a Candidate Campaign Committee [County and Local School Board Candidates and Officeholders]' notice. Handwritten entries: Name of Committee 'Staggs for Mayor'; Name of Candidate/Officeholder 'Trent Staggs'; County/Local School Board Office 'County Mayor'; Name of Committee Secretary 'Chris Harelson'; Date '1-20-21'. The signature block is redacted at source (black bar). Clerk stamp 'RECEIVED IN OFFICE JAN 2? 2021 SALT LAKE COUNTY CLERK' - the received day digit is partly clipped by the stamp edge (JAN 20 or JAN 29 2021), left unread rather than guessed. The PRE-PRINTED body text reads verbatim: 'Attached is a final summary financial report, showing all final financial activity of the committee. The ending balance on the final summary report filed is zero and the balance in the separate bank account required is zero.' NO such attachment is in this PDF - the file is one page and page 1 is the notice itself. Nothing reconstructed; totals are null by non-existence, both sides are 'none', zero rows. IN SCOPE: the office line inside the form reads 'County Mayor', not a school-board office (the form's title covers both populations). The chunk file's doc_kind 'dissolution-notice' and its flag are both CONFIRMED at the page."
+  }
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C05.json",
+ "key": "fc127b71",
+ "index_path": "raw/2012/2012_st_Barnard_Jon_White_10_16_12_general.pdf",
+ "applies_to": [
+  "raw/2012/2012_st_Barnard_Jon_White_10_16_12_general.pdf"
+ ],
+ "sha256_prefix": "8b3d3cb7f4bc6c18",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "none — no numeric anchor printed on this filing",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form A (p2) is entirely blank at 90 dpi and at 170 dpi normalized — an EMPTY SCHEDULE, zero rows, an honest zero. But EVERY money cell on the cover carries a bare horizontal DASH stroke rather than a numeral (confirmed at 600 dpi on both the line-1/2 block and the line-3/4 block: twelve plain pen strokes, no closed loop, no slashed zero, no written word). Under the repo zero-glyph ruling a bare dash is NOT a numeral and stays BLANK, so all cover anchors are '' and there is no numeric figure to score the zero-row schedule against. result is therefore 'unknown', not 'exact' — the rows are complete but unanchored."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "",
+    "cover_balance_end": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "none — no numeric anchor printed on this filing",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form B (p3) is entirely blank at 90 dpi and 170 dpi normalized — empty schedule, zero rows. Cover line 3 and line 4 cells all carry the same bare dash, so there is no numeric anchor. Carr form prints no schedule total (null by form design)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "None available. The Carr form prints no schedule or page subtotal, and this filer entered a bare dash in all twelve cover money cells, so no printed figure exists to gate against. Both schedules are visually empty at 170 dpi normalized, which is the only evidence available.",
+  "row_count": "Not applicable — zero inked rows on p2 and p3. Verified by eye on 170 dpi -normalize renders of the full pages: every one of the ~40 ruled writing lines on each sheet is clean, and the only ink on either page is the printed form itself.",
+  "geometry_proof": "Not applicable — no rows emitted, so no row pointer to prove.",
+  "balance_chain": "Cannot be run: all four cover lines carry bare dashes in all three columns, so there is no beginning balance, no contribution figure and no expenditure figure to chain. Consistent with a genuinely no-activity report (both schedules empty)."
+ },
+ "escalations": 2,
+ "escalation_note": "p1 cover money block, lines 1-2 at 600 dpi and lines 3-4 at 600 dpi, specifically to settle whether the marks are zeros or dashes — they are unambiguously plain horizontal strokes (dashes), not zeros. p2/p3 re-rendered at 170 dpi with ImageMagick -normalize to rule out faint pencil.",
+ "notes": "Chunk file says candidate 'Barnard Jon White', office 'County Council'. The form agrees: 'Full Name of Candidate: Barnard Jon White', 'Name of Office: County Council' (signature reads 'Jon White'), party Republican. TWO discrepancies with the chunk file to flag: (1) the cover's Date line reads only 'Oct 16' with NO YEAR written by the filer — the year 2012 comes from the clerk stamp 'CACHE COUNTY CLERK RCVD 19 OCT 2012 AM 09:30', not from the filer; (2) the 'Office District' line is left entirely BLANK. The 'TO ___ County Clerk' line is filled 'Cache' (the filer wrote the county, not the clerk's name). Candidate street address, ZIP, home phone and business phone are printed in the clear on the cover and were discarded at read time. This is a genuine NO-ACTIVITY report: both schedules blank and every cover money cell dashed.",
+ "contributions": [],
+ "expenditures": []
+}

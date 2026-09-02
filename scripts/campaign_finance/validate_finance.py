@@ -77,7 +77,19 @@ def main(dataset_dir):
         return _report()
     index_rows = _read(index_path)
     index_paths = {r.get("path", "") for r in index_rows}
+    # (candidate, year) pairs an itemized row may legitimately carry.
+    # ⚠ `election_year` DOES NOT MEAN THE SAME THING IN EVERY INDEX. washington_county documents
+    # its `index.election_year` as "the Election Year the DOCUMENT ITSELF PRINTED, and nothing
+    # else" — deliberately BLANK on 310 of its 409 rows — while the cycle lives in a separate
+    # `cycle_year` column and `filing_totals.election_year` is documented as cycle_year. An
+    # itemized row must carry the CYCLE (that is what every consumer joins on), so accepting only
+    # the document-stated column failed 487 rows on a semantic difference the module spells out.
+    # The pair set therefore admits `cycle_year` as well WHERE THE INDEX HAS THAT COLUMN (today:
+    # washington only). This WIDENS an over-strict check and cannot mask a wrong value — every
+    # row's `source_filing` is separately required to be in the index.
     index_cand_year = {(r.get("candidate", ""), r.get("election_year", "")) for r in index_rows}
+    index_cand_year |= {(r.get("candidate", ""), r.get("cycle_year", ""))
+                        for r in index_rows if r.get("cycle_year")}
 
     specs = [
         ("contributions.csv", common.CONTRIB_HEADER),
@@ -104,6 +116,12 @@ def main(dataset_dir):
             # other dataset omits it entirely). Same trailing-optional contract; accept both.
             if name in ("contributions.csv", "expenditures.csv"):
                 ok_headers.append(header + [common.GEOMETRY_COL])
+            # contributions.csv has a SECOND optional trailing column since 2026-08-23:
+            # `donor_occupation`, the Occupation/Employer field Salt Lake County's 2015-2021
+            # Schedule A pre-prints (owner decision 2026-08-20). It is emitted only after
+            # `geometry`, so the accepted shapes are base / +geometry / +geometry+occupation.
+            if name == "contributions.csv":
+                ok_headers.append(header + common.CONTRIB_OPTIONAL_TRAILING)
             if got not in ok_headers:
                 fail(f"{name} header mismatch\n    expected: {header}\n    got:      {got}")
             tables[name] = list(rd)

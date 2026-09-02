@@ -1,0 +1,50 @@
+[{
+ "index_path": "raw/2022/2022_Cox_Hyrum_Redacted.pdf",
+ "key": "9a60eabb",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r10_01)",
+ "transcribed_date": "2026-08-19",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "empty-schedule", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' on the p4 Summary Page, a typed bare '0'; corroborated by Schedule A's OWN two printed footers, 'Subtotal for this page $ 0' and 'Total Contributions Received (Sum of all Schedule A Pages in this report) $ 0'",
+   "detail": "The Schedule A page EXISTS at p2 and is wholly unmarked: all fifteen printed rows are blank across all five columns (Date / Name of Contributor / City and State / Amount / In-Kind) and no In-Kind box is ticked. Zero rows sum to 0.00 = all three printed figures, each a TYPED numeral '0' (not a dash, not an empty cell), which denotes zero under the repo zero-glyph ruling. This is a real absence of entries — empty-schedule — not an unread side. Box C 'Contributions Received Year to Date' prints 15,228 and is CUMULATIVE: never summed as an increment."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' (299.34) on the p4 Summary Page, which is also Schedule B's own printed 'Subtotal for this page' (299.34) AND its printed 'Total Expenditures Made — Sum of all Schedule B Pages in this report' (299.34)",
+   "detail": "The 3 Schedule B rows on p3 sum to 195.34 + 52 + 52 = 299.34 exactly, equal to all three printed figures; the page-subtotal gate and the sum-of-all-pages gate coincide because Schedule B is a single sheet. Box E 'Expenditures Made Year to Date' prints 14,828.66 and is CUMULATIVE — never summed. The summary ladder is internally consistent: Box F 698.68 = Box A 698.68 + Box B 0, and Box G 399.34 = Box F 698.68 − Box D 299.34."
+  }
+ },
+ "in_kind_convention": "monetary-only, and the expenditure side closes on it exactly (299.34). BOTH conventions were tested and are IDENTICAL here because no in-kind is claimed: this is the NEWER unversioned 2022 blank, which carries an 'In-Kind' checkbox column on both schedules, and per ADDENDUM J1 the Amount and In-Kind cells were cropped TOGETHER AS ONE BLOCK so the pairing is read from a single image rather than by vertical position. All three Schedule B checkboxes render EMPTY beside their own amounts, and the wholly-empty Schedule A's fifteen boxes are empty too.",
+ "escalations": 2,
+ "escalation_note": "(1) Schedule B rows 1-3, Amount + In-Kind cropped as ONE block at 900 dpi: rendered 195.34 / 52 / 52 with three EMPTY checkboxes. (2) the one-past-the-end control at 1200 dpi (see the frame measure_note). No figure was in doubt — this PDF is born-digital with 0.0 degrees of skew and the figures are machine type — and nothing was changed.",
+ "frames": {
+  "3": {
+   "axis": "y",
+   "cell": [74.60, 88.40],
+   "cells": [[5.90, 19.60], [19.60, 47.10], [47.10, 74.60], [74.60, 88.40], [88.40, 94.30]],
+   "rows": [[14.73, 19.00], [19.00, 23.30], [23.30, 27.59], [27.59, 31.89], [31.89, 36.18], [36.18, 40.52], [40.52, 44.80], [44.80, 49.14], [49.14, 53.43], [53.43, 57.73], [57.73, 62.02], [62.02, 66.32], [66.32, 70.61], [70.61, 74.91], [74.91, 79.20]],
+   "measure_note": "The newer unversioned 2022 blank's Schedule B, a FULLY BOXED 15-row grid with FIVE columns (Date / Provider/Vendor / Purpose / Amount / In-Kind) — a row lies between its own two printed rules and nothing is extrapolated. This PDF is born-digital: rowbands.py reports 0.0 skew and returns all SIX vertical rules cleanly ([5.9, 19.6, 47.1, 74.6, 88.4, 94.3]), which ARE the five column bands, so nothing had to be carried across from another page. It returns 18 h_rules / 16 data bands, of which the FIRST ([10.95, 14.73]) is the printed COLUMN-HEADING band and not a data row — the tell is its 3.78 height against the grid's regular 4.29 pitch — so the 15 data rows run from 14.73 and the last closes one pitch below the last top, at 79.20. PROOF at 900 dpi, taken as a JOINT Amount+In-Kind block per ADDENDUM J1: pct:74.2,14.73,20.5,12.86@p3 rendered, in band order, 195.34 / 52 / 52 (rows 1-3, exactly as recorded, this side having only three rows so EVERY row is proved), each beside an EMPTY in-kind checkbox. NEGATIVE CONTROL one band past the last entry: pct:74.2,27.59,20.5,4.30@p3 at 1200 dpi rendered an EMPTY amount cell and an EMPTY in-kind box between its two rules — the ledger stops at row 3 and the bands are not off by one."
+  }
+ },
+ "contributions": [],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "12/7/22",
+   "vendor_raw": "Meta", "purpose": "advertising", "amount": "195.34",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "dated the SAME DAY as the report itself (report date 12/7/2022). Transcribed as printed, not adjudicated. This filer bought the same service under the name 'facebook' on his earlier 2022 filings and under 'Meta' here — kept verbatim, never normalised."},
+  {"line_no": "2", "page": 3, "row": 2, "date": "11/1/22",
+   "vendor_raw": "Campaign Partner", "purpose": "web service", "amount": "52",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "amount printed as a bare '52' with no cents; carried as printed. OUT OF DATE SEQUENCE — this row is dated before row 1."},
+  {"line_no": "3", "page": 3, "row": 3, "date": "12/3/22",
+   "vendor_raw": "campaign partner", "purpose": "web service", "amount": "52",
+   "in_kind": false, "confidence": "medium", "verified": 1,
+   "note": "the SAME vendor as row 2 spelled in lower case by the filer — both kept verbatim, neither normalised to the other. Bare '52', no cents printed. Last transcribed row; the following twelve printed rows are empty (crop-proved)."}
+ ],
+ "notes": "Hyrum Cox, page-face office 'Sheriff' (index.csv says 'County Sheriff' — same office, naming convention only; the page face governs), report type '30 Days after the General Election', report date and Date of Filing both 12/7/2022. Page-face name agrees with index.csv.\n\nAMENDMENT QUESTION WHOLLY UNANSWERED: NEITHER the 'No' nor the 'Yes' box is ticked. That is an honest BLANK and is never read as 'No' (ADDENDUM A4 / J5) — note the same filer DID tick 'No' on both of his earlier 2022 filings.\n\nFORM: modern_boxAF on the NEWER UNVERSIONED 2022 blank (no version string in the footer), the same blank as his 5/9/2022 filing and NOT the v. 4.20 blank he used on 4/1/2022. Discriminators read off the page: Schedule A headed Date / Name of Contributor / 'City and State' / Amount / an 'In-Kind' checkbox column; close box LETTERED 'G'; SIX report types on the cover including End-of-Year; a 'Date of Filing' box; no Page field anywhere, so the filing is UNFOLIATED.\n\nFOUR PAGES, ALL FOUR REPORT SHEETS, AND NO CHECKLIST: p1 cover / p2 Schedule A (blank) / p3 Schedule B / p4 SUMMARY PAGE. Every page classified from its own printed header. There is no checklist page and no blank verso in this filing — which completes the chunk's picture of the decoy: of this filer's three filings here, one binds a checklist at p7, one at p5, and this one binds none.\n\nBORN-DIGITAL, NOT A SCAN: rowbands.py measures 0.0 skew on every page and all six vertical rules resolve cleanly. index.csv records format='scanned' for this filing; the page itself is a native render of the fillable PDF (the redaction bars over the address block and the signature were applied digitally). Recorded as an observation about the index's format column, not a correction — this record edits nothing.\n\nCONTRIBUTIONS ARE AN HONEST ZERO, NOT AN UNREAD SIDE — the Schedule A page exists and the filer entered nothing on it.\n\nCROSS-FILING OBSERVATION, NOT A GATE (no two covers were differenced): Box A 698.68 does NOT continue from his 5/9/2022 filing's closing 713.23, and Box C 15,228 / Box E 14,828.66 are far above that filing's 10,778.00 / 10,064.77. The explanation is on the index, not in these documents: a FOURTH Cox 2022 filing exists — raw/2022/2022_Cox_Hyrum_11.1.22.pdf, reporting period 'General' — which is not in this chunk and covers the intervening period. Nothing here is a gap.\n\nCORRELATED-ERROR SCREEN, COMPLETED FOR THE CHUNK'S ONE DELTA: this filing's expenditure side closes EXACTLY, as does 5/9/2022's, so the +0.01 recorded on 4/1/2022 (966dbc38) is a ONE-OFF slip, NOT a repeated filer habit — it is not the weber 'same +$40.00 on two filings' pattern. Screen result: not correlated.\n\nPRIVACY: the cover's address block and signature are county redaction bars; no street line exists to carry, and the contribution side has no rows."
+}]

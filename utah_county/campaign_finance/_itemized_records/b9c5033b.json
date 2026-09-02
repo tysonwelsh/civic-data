@@ -1,0 +1,1884 @@
+[
+ {
+  "index_path": "raw/2018/2018_COMA.Sakievich.pdf",
+  "key": "b9c5033b",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r6_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "itemized_pages_A": "2,3,4",
+  "itemized_pages_B": "5,6,7",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (10,421.17) on the SUMMARY PAGE, which on this filing is the LAST page (p8, located by its printed heading); the same figure is printed as 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' at the foot of all three Schedule A sheets, and again at summary lines 4 and 5",
+    "detail": "52 Schedule A rows over three sheets sum to 10,421.17 EXACTLY, and each sheet's rows sum to its own printed 'Subtotal for this page' to the cent: p2 4,167.95 (18 rows in 17 printed lines) + p3 836.48 (17) + p4 5,416.74 (17) = 10,421.17 = the schedule's printed grand total = the cover's PROMOTED PER-PERIOD cell, Column A = summary line 4 = line 5. Column B 'Year-to-Date Total' prints the same 10,421.17 because this is the cycle's first report (Seven days preceding the Primary); it is retained as cumulative and never summed as an increment. The ladder closes independently: line 3 is a SLASHED ZERO = 0 under the zero-glyph ruling, and 10,421.17 - 9,464.37 = 956.80 = line 7 exactly."
+   },
+   "expenditures": {
+    "result": "delta",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (9,464.37) on the p8 SUMMARY PAGE, which is also the printed 'Total Expenditures (Sum of subtotals from all Schedule B pages)' at the foot of all three Schedule B sheets and summary line 6",
+    "detail": "45 Schedule B rows over three sheets sum to 9,467.34 against the printed 9,464.37 - a delta of +2.97, the ROWS EXCEEDING the filer's own figures. The page-subtotal gate TRACES it to a single sheet and no other: p5's 17 rows sum to 2,676.00 against its printed 'Subtotal for this page' 2,673.03, SHORT BY 2.97 in the filer's addition; p6's 17 rows sum to 5,485.68 = printed subtotal 5,485.68 EXACT (after row 11 was corrected 28.00 -> 218.00 by escalation, see escalation_note); p7's 11 rows sum to 1,305.66 = printed subtotal 1,305.66 EXACT. The filer's own three printed subtotals add to his printed grand total exactly (2,673.03 + 5,485.68 + 1,305.66 = 9,464.37), so the discrepancy sits between his p5 rows and his p5 addition, not in his carry-forward. NOTHING WAS NUDGED: all 17 amount cells on p5 were escalated to tight 900 dpi cell crops and every one reproduced its full-page reading (12.00 / 748.80 / 1.00 / 648.22 / 189.20 / 214.00 / 218.00 / 25.00 / 30.00 / 25.00 / 50.00 / 53.36 / 6.05 / 6.61 / 184.74 / 189.02 / 75.00), so no cell can absorb the 2.97 - the ADDENDUM G6 standard. Trap F1.5 was ruled out on p5 by the one-past-the-end crop, which rendered the printed subtotal and nothing else. The correlated-error screen is inconclusive by absence: this is the only Sakievich filing in the chunk, and the filing's other five sheets all close exactly, so the slip is a one-off rather than a habit."
+   }
+  },
+  "in_kind_convention": "MONETARY-PLUS-IN-KIND on the contributions side - both conventions tested on both sides, as ADDENDUM G1 requires. Exactly ONE Schedule A row is in-kind (line 52, the 10.50 Rotary lunch, which the filer marks with an asterisk and explains in his own footnote below the grid); monetary-only would give 10,410.67 and FAILS Column A by that 10.50, while monetary-plus-in-kind gives 10,421.17 and closes to the cent against Column A, the schedule's printed grand total and every page subtotal. Schedule B marks no row in-kind, so both conventions are identical there and neither closes the +2.97 delta.",
+  "escalations": 58,
+  "escalation_note": "ONE figure was corrected: p6 row 11 read 28.00 on the full page and is 218.00 - the leading '2' is pushed left of '18' by the filer's '(x1000)' annotation written above the line. Confirmed BOTH by the glyph at 900 dpi AND by unique arithmetic closure (218.00 makes p6 sum to its printed subtotal 5,485.68 exactly), which is the ADDENDUM F6 standard. Beyond that: all 17 p5 amount cells were escalated and every one reproduced its full-page reading, leaving the +2.97 unattributable and unnudged; the p2 band-9 and p7 band-4 double-occupancy was proved by splitting each band and rendering the two figures separately; and eighteen geometry control crops were taken (first row, last row and one-past-the-end on each of the six schedule sheets). No name was corrected - line 44's surname is flagged rather than settled.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     82.46,
+     92.23
+    ],
+    "cells": [
+     [
+      7.42,
+      19.49
+     ],
+     [
+      20.49,
+      52.8
+     ],
+     [
+      54.27,
+      80.93
+     ],
+     [
+      82.46,
+      92.23
+     ]
+    ],
+    "rows": [
+     [
+      16.6,
+      20.42
+     ],
+     [
+      20.42,
+      24.06
+     ],
+     [
+      24.06,
+      28.21
+     ],
+     [
+      28.21,
+      31.77
+     ],
+     [
+      31.77,
+      35.77
+     ],
+     [
+      35.77,
+      39.21
+     ],
+     [
+      39.21,
+      43.26
+     ],
+     [
+      43.26,
+      47.17
+     ],
+     [
+      47.17,
+      50.81
+     ],
+     [
+      50.81,
+      54.82
+     ],
+     [
+      54.82,
+      58.62
+     ],
+     [
+      58.62,
+      62.42
+     ],
+     [
+      62.42,
+      66.22
+     ],
+     [
+      66.22,
+      70.02
+     ],
+     [
+      70.02,
+      73.69
+     ],
+     [
+      73.69,
+      77.66
+     ],
+     [
+      77.66,
+      81.53
+     ]
+    ],
+    "measure_note": "legacy_colAB SCHEDULE A sheet 1, underline form: rowbands.py returns 17 per-column rules 20.42->81.53 (4 segments = Date / Name of Contributor / Mailing Address & Zip Code / Amount). The sheet carries a physical FOLD (measured skew -0.7 deg) so the rule pitch is genuinely irregular, 3.44 to 4.15 against a mean of 3.819 - the detected rules are used as measured and no regular pitch was imposed. Text sits ABOVE its rule, row N = [rule N-1, rule N], row 1 extrapolated one pitch above rule 1. *** THIS SHEET HAS 18 ENTRIES IN 17 PRINTED ROWS: *** band 9 holds TWO, the filer having squeezed a second Apr-12 self-contribution in ALL CAPS immediately under rule 8. CROP-PROVED at 900 dpi: band 8 pct:82.46,43.26,9.77,3.91@p2 rendered '197.21' with the next figure beginning below its lower rule, and band 9 pct:82.46,47.17,9.77,3.64@p2 rendered BOTH '184.74' (top) and '20.00' (bottom); splitting it at 49.07 gave pct:82.46,47.17,9.77,1.90@p2 -> '184.74' and pct:82.46,49.07,9.77,1.74@p2 -> '20.00', and those two explicit geometries are stored on the rows. FIRST/LAST PROOF: row 1 pct:82.46,16.60,9.77,3.82@p2 rendered the 'Amount' header over '2,000.00' (recorded 2000.00; line 1 not skipped) and row 17 pct:82.46,77.66,9.77,3.87@p2 rendered '25.00' (recorded 25.00, Todd Cope). ONE-PAST control pct:82.46,81.53,9.77,3.82@p2 rendered the printed subtotal '4167.' - no extra row below the grid."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     84.79,
+     95.26
+    ],
+    "cells": [
+     [
+      4.33,
+      16.51
+     ],
+     [
+      17.98,
+      52.89
+     ],
+     [
+      54.48,
+      83.2
+     ],
+     [
+      84.79,
+      95.26
+     ]
+    ],
+    "rows": [
+     [
+      13.94,
+      18.05
+     ],
+     [
+      18.05,
+      22.13
+     ],
+     [
+      22.13,
+      26.27
+     ],
+     [
+      26.27,
+      30.36
+     ],
+     [
+      30.36,
+      34.43
+     ],
+     [
+      34.43,
+      38.51
+     ],
+     [
+      38.51,
+      42.63
+     ],
+     [
+      42.63,
+      46.7
+     ],
+     [
+      46.7,
+      50.84
+     ],
+     [
+      50.84,
+      54.91
+     ],
+     [
+      54.91,
+      59.05
+     ],
+     [
+      59.05,
+      63.12
+     ],
+     [
+      63.12,
+      67.22
+     ],
+     [
+      67.22,
+      71.36
+     ],
+     [
+      71.36,
+      75.45
+     ],
+     [
+      75.45,
+      79.59
+     ],
+     [
+      79.59,
+      83.76
+     ]
+    ],
+    "measure_note": "Same underline grid, 17 detected rules 18.05->83.76, pitch 4.107, all 17 rows used. TWO-CROP PROOF at 900 dpi: row 1 pct:84.79,13.94,10.47,4.11@p3 rendered the 'Amount' header over '50.00' (recorded 50.00, Aaron Bullen) and row 17 pct:84.79,79.59,10.47,4.17@p3 rendered '100.00' (recorded 100.00, Adam Asay). ONE-PAST control pct:84.79,83.76,10.47,4.11@p3 rendered the printed subtotal '836.48' - no extra row."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     85.42,
+     95.9
+    ],
+    "cells": [
+     [
+      4.96,
+      16.97
+     ],
+     [
+      18.62,
+      53.46
+     ],
+     [
+      55.11,
+      83.83
+     ],
+     [
+      85.42,
+      95.9
+     ]
+    ],
+    "rows": [
+     [
+      14.18,
+      18.28
+     ],
+     [
+      18.28,
+      22.4
+     ],
+     [
+      22.4,
+      26.49
+     ],
+     [
+      26.49,
+      30.59
+     ],
+     [
+      30.59,
+      34.66
+     ],
+     [
+      34.66,
+      38.73
+     ],
+     [
+      38.73,
+      42.85
+     ],
+     [
+      42.85,
+      46.92
+     ],
+     [
+      46.92,
+      51.04
+     ],
+     [
+      51.04,
+      55.16
+     ],
+     [
+      55.16,
+      59.27
+     ],
+     [
+      59.27,
+      63.35
+     ],
+     [
+      63.35,
+      67.44
+     ],
+     [
+      67.44,
+      71.56
+     ],
+     [
+      71.56,
+      75.68
+     ],
+     [
+      75.68,
+      79.82
+     ],
+     [
+      79.82,
+      83.96
+     ]
+    ],
+    "measure_note": "Same grid, 17 detected rules 18.28->83.96, pitch 4.106, all 17 rows used. TWO-CROP PROOF at 900 dpi: row 1 pct:85.42,14.17,10.48,4.11@p4 rendered the 'Amount' header over '100.00' (recorded 100.00, Emily & Karl Yates) and row 17 pct:85.42,79.82,10.48,4.14@p4 rendered '10.50' with the filer's asterisk (recorded 10.50, the Rotary in-kind lunch). ONE-PAST control pct:85.42,83.96,10.48,4.11@p4 rendered the printed subtotal '5,416.7' - the filer's in-kind footnote sits in the left margin below the grid and carries no figure."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     84.86,
+     95.33
+    ],
+    "cells": [
+     [
+      4.34,
+      16.41
+     ],
+     [
+      18.05,
+      53.01
+     ],
+     [
+      53.96,
+      83.5
+     ],
+     [
+      84.86,
+      95.33
+     ]
+    ],
+    "rows": [
+     [
+      16.4,
+      20.5
+     ],
+     [
+      20.5,
+      24.57
+     ],
+     [
+      24.57,
+      28.67
+     ],
+     [
+      28.67,
+      32.78
+     ],
+     [
+      32.78,
+      36.83
+     ],
+     [
+      36.83,
+      40.95
+     ],
+     [
+      40.95,
+      45.02
+     ],
+     [
+      45.02,
+      49.14
+     ],
+     [
+      49.14,
+      53.21
+     ],
+     [
+      53.21,
+      57.35
+     ],
+     [
+      57.35,
+      61.43
+     ],
+     [
+      61.43,
+      65.57
+     ],
+     [
+      65.57,
+      69.66
+     ],
+     [
+      69.66,
+      73.78
+     ],
+     [
+      73.78,
+      77.87
+     ],
+     [
+      77.87,
+      82.01
+     ],
+     [
+      82.01,
+      86.13
+     ]
+    ],
+    "measure_note": "legacy_colAB SCHEDULE B sheet 1, same underline form: 17 detected rules 20.50->86.13, pitch 4.102, all 17 rows used. TWO-CROP PROOF at 900 dpi: row 1 pct:84.86,16.40,10.47,4.10@p5 rendered the 'Amount' header over '12.00' (recorded 12.00, Google) and row 17 pct:84.86,82.01,10.47,4.12@p5 rendered '75.00' (recorded 75.00, Linda Housekeeper refund - the 7 is a CROSSED seven, the same form the filer uses in his own printed subtotal '2,673.03' one band below). ONE-PAST control pct:84.86,86.13,10.47,4.10@p5 rendered that printed subtotal '2,673.0' and nothing else, so trap F1.5 is ruled out on the page that carries this filing's only delta. EVERY ONE of the 17 amount cells on this page was additionally escalated to a tight 900 dpi cell crop and each reproduced its full-page reading."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     82.44,
+     92.15
+    ],
+    "cells": [
+     [
+      7.75,
+      19.99
+     ],
+     [
+      20.4,
+      52.77
+     ],
+     [
+      54.25,
+      80.91
+     ],
+     [
+      82.44,
+      92.15
+     ]
+    ],
+    "rows": [
+     [
+      18.68,
+      22.49
+     ],
+     [
+      22.49,
+      26.27
+     ],
+     [
+      26.27,
+      30.09
+     ],
+     [
+      30.09,
+      33.92
+     ],
+     [
+      33.92,
+      37.72
+     ],
+     [
+      37.72,
+      41.52
+     ],
+     [
+      41.52,
+      45.32
+     ],
+     [
+      45.32,
+      49.07
+     ],
+     [
+      49.07,
+      52.87
+     ],
+     [
+      52.87,
+      56.67
+     ],
+     [
+      56.67,
+      60.5
+     ],
+     [
+      60.5,
+      64.34
+     ],
+     [
+      64.34,
+      68.16
+     ],
+     [
+      68.16,
+      71.97
+     ],
+     [
+      71.97,
+      75.74
+     ],
+     [
+      75.74,
+      79.57
+     ],
+     [
+      79.57,
+      83.39
+     ]
+    ],
+    "measure_note": "Same Schedule B grid, 17 detected rules 22.49->83.39, pitch 3.806, all 17 rows used. TWO-CROP PROOF at 900 dpi: row 1 pct:82.44,18.68,9.71,3.81@p6 rendered the 'Amount' header over '6.47' (recorded 6.47) and row 17 pct:82.44,79.57,9.71,3.82@p6 rendered '1858.12' (recorded 1858.12, the Signs Now balance). ONE-PAST control pct:82.44,83.39,9.71,3.81@p6 rendered the printed subtotal '5,485' - no extra row. Row 11 was escalated separately and CORRECTED (see escalation_note)."
+   },
+   "7": {
+    "axis": "y",
+    "cell": [
+     84.93,
+     95.41
+    ],
+    "cells": [
+     [
+      4.47,
+      16.48
+     ],
+     [
+      18.13,
+      53.03
+     ],
+     [
+      54.15,
+      83.93
+     ],
+     [
+      84.93,
+      95.41
+     ]
+    ],
+    "rows": [
+     [
+      16.04,
+      20.14
+     ],
+     [
+      20.14,
+      24.21
+     ],
+     [
+      24.21,
+      28.33
+     ],
+     [
+      28.33,
+      32.4
+     ],
+     [
+      32.4,
+      36.52
+     ],
+     [
+      36.52,
+      40.63
+     ],
+     [
+      40.63,
+      44.71
+     ],
+     [
+      44.71,
+      48.8
+     ],
+     [
+      48.8,
+      52.92
+     ],
+     [
+      52.92,
+      57.01
+     ],
+     [
+      57.01,
+      61.11
+     ],
+     [
+      61.11,
+      65.23
+     ],
+     [
+      65.23,
+      69.32
+     ],
+     [
+      69.32,
+      73.46
+     ],
+     [
+      73.46,
+      77.51
+     ],
+     [
+      77.51,
+      81.67
+     ],
+     [
+      81.67,
+      85.79
+     ]
+    ],
+    "measure_note": "Same Schedule B grid, 17 detected rules 20.14->85.79, pitch 4.103, but only the first TEN bands carry entries and band 4 carries TWO - the second instance on this filing of the filer squeezing an extra line under a rule. CROP-PROVED at 900 dpi: band 4 pct:84.93,28.33,10.48,4.07@p7 rendered BOTH '5.00' (top, the Provo Rotary lunch) and '100.00' (bottom, the Facebook boost); splitting it at 30.23 gave pct:84.93,28.33,10.48,1.90@p7 -> '5.00' and pct:84.93,30.23,10.48,2.17@p7 -> '100.00', and those explicit geometries are stored on the two rows. Bands 5-10 were each cropped and rendered 86.58 / 143.10 / 9.70 / 15.10 / 35.55 / 31.62 in order, matching the transcription. FIRST/LAST PROOF: row 1 pct:84.93,16.04,10.48,4.10@p7 rendered the 'Amount' header over '454.01' and the last transcribed band 10 pct:84.93,52.92,10.48,4.09@p7 rendered '31.62'. ONE-PAST control pct:84.93,57.01,10.48,4.10@p7 rendered an EMPTY band between two rules."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 2,
+    "row": 1,
+    "date": "Mar 2, 2018",
+    "donor_raw": "Tom & Marji Sakievich",
+    "donor_city": "Span. Fk",
+    "amount": "2000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a self-contribution by the candidate and his wife; the cover books line 3 (Balance at Beginning) as a SLASHED ZERO, so the ADDENDUM B3 ladder leaves no beginning-balance slot and these are itemized contribution rows. donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "2",
+    "page": 2,
+    "row": 2,
+    "date": "Mar 9, 2018",
+    "donor_raw": "Tom & Marji Sakievich",
+    "donor_city": "Span. Fk",
+    "amount": "410.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a self-contribution by the candidate and his wife; the cover books line 3 (Balance at Beginning) as a SLASHED ZERO, so the ADDENDUM B3 ladder leaves no beginning-balance slot and these are itemized contribution rows. donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "3",
+    "page": 2,
+    "row": 3,
+    "date": "Mar 10, 2018",
+    "donor_raw": "Tom + Marji Sakievich",
+    "donor_city": "Span. Fk",
+    "amount": "602.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a self-contribution by the candidate and his wife; the cover books line 3 (Balance at Beginning) as a SLASHED ZERO, so the ADDENDUM B3 ladder leaves no beginning-balance slot and these are itemized contribution rows. donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "4",
+    "page": 2,
+    "row": 4,
+    "date": "Mar 28, 2018",
+    "donor_raw": "Tom & Marji Sakievich",
+    "donor_city": "Span. Fk",
+    "amount": "214.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a self-contribution by the candidate and his wife; the cover books line 3 (Balance at Beginning) as a SLASHED ZERO, so the ADDENDUM B3 ladder leaves no beginning-balance slot and these are itemized contribution rows. donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "5",
+    "page": 2,
+    "row": 5,
+    "date": "Mar 30, 2018",
+    "donor_raw": "Raquel Rex",
+    "donor_city": "Span Fk",
+    "amount": "5.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "6",
+    "page": 2,
+    "row": 6,
+    "date": "Mar 30, 2018",
+    "donor_raw": "Darin & Charity Bartholomew",
+    "donor_city": "Span. Fk",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "7",
+    "page": 2,
+    "row": 7,
+    "date": "Apr 12, 2018",
+    "donor_raw": "Tom + Marji Sakievich",
+    "donor_city": "Spanish Fork",
+    "amount": "175.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a self-contribution by the candidate and his wife; the cover books line 3 (Balance at Beginning) as a SLASHED ZERO, so the ADDENDUM B3 ladder leaves no beginning-balance slot and these are itemized contribution rows. donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "8",
+    "page": 2,
+    "row": 8,
+    "date": "Apr 12, 2018",
+    "donor_raw": "Tom + Marji Sakievich",
+    "donor_city": "Span Fk",
+    "donor_state": "UT",
+    "amount": "197.21",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a self-contribution by the candidate and his wife; the cover books line 3 (Balance at Beginning) as a SLASHED ZERO, so the ADDENDUM B3 ladder leaves no beginning-balance slot and these are itemized contribution rows. PRIVACY: the street line is not carried."
+   },
+   {
+    "line_no": "9",
+    "page": 2,
+    "row": 9,
+    "date": "Apr 12, 2018",
+    "donor_raw": "TOM + MARJI SAKIEVICH",
+    "donor_city": "S. FK",
+    "donor_state": "UT",
+    "amount": "184.74",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "geometry": "pct:82.46,47.17,9.77,1.90@p2",
+    "note": "a self-contribution by the candidate and his wife; the cover books line 3 (Balance at Beginning) as a SLASHED ZERO, so the ADDENDUM B3 ladder leaves no beginning-balance slot and these are itemized contribution rows. THIS ROW SHARES PRINTED ROW 9 WITH THE ONE BELOW IT - the filer squeezed it in ALL CAPS immediately under rule 8, so the sheet carries 18 entries in 17 printed rows. It has its own hand-measured geometry (crop-proved; see the p2 measure_note). The same 184.74 appears on Schedule B as a refund to the same family, which is how the filer's ledger balances."
+   },
+   {
+    "line_no": "10",
+    "page": 2,
+    "row": 9,
+    "date": "Apr 20, 2018",
+    "donor_raw": "Russell Graham",
+    "donor_city": "SpFk",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "geometry": "pct:82.46,49.07,9.77,1.74@p2",
+    "note": "shares printed row 9 with the squeezed row above it; own hand-measured geometry. donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "11",
+    "page": 2,
+    "row": 10,
+    "date": "Apr 20, 2018",
+    "donor_raw": "Jennifer Pelley",
+    "donor_city": "SP FK",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "12",
+    "page": 2,
+    "row": 11,
+    "date": "Apr 23, 2018",
+    "donor_raw": "Kevin Barnes",
+    "donor_city": "Am Fk",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "13",
+    "page": 2,
+    "row": 12,
+    "date": "Apr 26, 2018",
+    "donor_raw": "Alan Vincent",
+    "donor_city": "SpFk",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "14",
+    "page": 2,
+    "row": 13,
+    "date": "Apr 26, 2018",
+    "donor_raw": "Rob Mann",
+    "donor_city": "Highland",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. A struck-out character sits between the given name and surname and is not transcribed."
+   },
+   {
+    "line_no": "15",
+    "page": 2,
+    "row": 14,
+    "date": "Ap 26, 2018",
+    "donor_raw": "Raymond Mecham",
+    "donor_city": "SpFk",
+    "amount": "15.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "16",
+    "page": 2,
+    "row": 15,
+    "date": "Ap 26, 2018",
+    "donor_raw": "David Sakievich",
+    "donor_city": "Orem",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "17",
+    "page": 2,
+    "row": 16,
+    "date": "Apr 26, 2018",
+    "donor_raw": "Jeff Hansen",
+    "donor_city": "Payson",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "18",
+    "page": 2,
+    "row": 17,
+    "date": "Apr 26, 2018",
+    "donor_raw": "Todd Cope",
+    "donor_city": "SpFk",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "19",
+    "page": 3,
+    "row": 1,
+    "date": "Apr 27, 2018",
+    "donor_raw": "Aaron Bullen",
+    "donor_city": "Lehi",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "20",
+    "page": 3,
+    "row": 2,
+    "date": "Apr 27, 2018",
+    "donor_raw": "Thomas Liddle",
+    "donor_city": "Payson",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "21",
+    "page": 3,
+    "row": 3,
+    "date": "Apr 27, 2018",
+    "donor_raw": "Henry Donigan",
+    "donor_city": "Fallbrook",
+    "donor_state": "CA",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an out-of-state donor. PRIVACY: the street line is not carried."
+   },
+   {
+    "line_no": "22",
+    "page": 3,
+    "row": 4,
+    "date": "Apr 28, 2018",
+    "donor_raw": "Ross Carter",
+    "donor_city": "Lehi",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "23",
+    "page": 3,
+    "row": 5,
+    "date": "Apr 29, 2018",
+    "donor_raw": "Ben & Maegan Ricks",
+    "donor_city": "Fredericksburg",
+    "donor_state": "VA",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an out-of-state donor. PRIVACY: the street line is not carried."
+   },
+   {
+    "line_no": "24",
+    "page": 3,
+    "row": 6,
+    "date": "Apr 30, 2018",
+    "donor_raw": "Tom & Marji Sakievich",
+    "donor_city": "Spk",
+    "amount": "86.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a self-contribution by the candidate and his wife; the cover books line 3 (Balance at Beginning) as a SLASHED ZERO, so the ADDENDUM B3 ladder leaves no beginning-balance slot and these are itemized contribution rows. donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "25",
+    "page": 3,
+    "row": 7,
+    "date": "May 1, 2018",
+    "donor_raw": "Don Jarvis",
+    "donor_city": "Provo",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "26",
+    "page": 3,
+    "row": 8,
+    "date": "May 4, 2018",
+    "donor_raw": "Adam & Emily Sakievich",
+    "donor_city": "Flagstaff",
+    "donor_state": "AZ",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an out-of-state donor sharing the candidate's surname. PRIVACY: the street line is not carried."
+   },
+   {
+    "line_no": "27",
+    "page": 3,
+    "row": 9,
+    "date": "May 4, 2018",
+    "donor_raw": "Matthew Sakievich",
+    "donor_city": "Provo",
+    "amount": "10.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "28",
+    "page": 3,
+    "row": 10,
+    "date": "May 5, 2018",
+    "donor_raw": "Mark & Gina Sakievich",
+    "donor_city": "Herriman",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "29",
+    "page": 3,
+    "row": 11,
+    "date": "May 5, 2018",
+    "donor_raw": "Joanna Curtis",
+    "donor_city": "Provo",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "30",
+    "page": 3,
+    "row": 12,
+    "date": "May 6, 2018",
+    "donor_raw": "Jordan & Karli Petersen",
+    "donor_city": "Toluca Lake",
+    "donor_state": "CA",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an out-of-state donor. PRIVACY: the street line is not carried."
+   },
+   {
+    "line_no": "31",
+    "page": 3,
+    "row": 13,
+    "date": "May 8, 2018",
+    "donor_raw": "Robert Armstrong",
+    "donor_city": "Mapleton",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PRIVACY: the street line is not carried."
+   },
+   {
+    "line_no": "32",
+    "page": 3,
+    "row": 14,
+    "date": "May 8, 2018",
+    "donor_raw": "Bill Coolahan",
+    "donor_city": "Halethorpe",
+    "donor_state": "MD",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an out-of-state donor. PRIVACY: the street line is not carried."
+   },
+   {
+    "line_no": "33",
+    "page": 3,
+    "row": 15,
+    "date": "May 9, 2018",
+    "donor_raw": "Joanna Sakievich",
+    "donor_city": "Logan",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "34",
+    "page": 3,
+    "row": 16,
+    "date": "May 11, 2018",
+    "donor_raw": "David Sakievich",
+    "donor_city": "Orem",
+    "amount": "15.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "35",
+    "page": 3,
+    "row": 17,
+    "date": "May 12, 2018",
+    "donor_raw": "Adam Asay",
+    "donor_city": "Span. FK",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "36",
+    "page": 4,
+    "row": 1,
+    "date": "May 13, 2018",
+    "donor_raw": "Emily & Karl Yates",
+    "donor_city": "Draper",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "37",
+    "page": 4,
+    "row": 2,
+    "date": "May 14, 2018",
+    "donor_raw": "Mark Barlow",
+    "donor_city": "Am FK",
+    "amount": "10.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "38",
+    "page": 4,
+    "row": 3,
+    "date": "May 14, 2018",
+    "donor_raw": "Keith & Marvely Grover",
+    "donor_city": "Span FK",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "39",
+    "page": 4,
+    "row": 4,
+    "date": "May 15, 2018",
+    "donor_raw": "Lyle & Annette Goman",
+    "donor_city": "Lehi",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "40",
+    "page": 4,
+    "row": 5,
+    "date": "May 15, 2018",
+    "donor_raw": "Margaret Dillon",
+    "donor_city": "N. Augusta",
+    "donor_state": "SC",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an out-of-state donor. PRIVACY: the street line is not carried."
+   },
+   {
+    "line_no": "41",
+    "page": 4,
+    "row": 6,
+    "date": "May 16, 2018",
+    "donor_raw": "Brenda & Dennis Gillie",
+    "donor_city": "Spanish Fork",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "42",
+    "page": 4,
+    "row": 7,
+    "date": "May 18, 2018",
+    "donor_raw": "Tom & Marji Sakievich",
+    "donor_city": "Sp. Fork",
+    "amount": "75.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a self-contribution by the candidate and his wife; the cover books line 3 (Balance at Beginning) as a SLASHED ZERO, so the ADDENDUM B3 ladder leaves no beginning-balance slot and these are itemized contribution rows. donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "43",
+    "page": 4,
+    "row": 8,
+    "date": "May 21, 2018",
+    "donor_raw": "Tom & Marji Sakievich",
+    "donor_city": "SpFk",
+    "amount": "1858.12",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a self-contribution by the candidate and his wife; the cover books line 3 (Balance at Beginning) as a SLASHED ZERO, so the ADDENDUM B3 ladder leaves no beginning-balance slot and these are itemized contribution rows. donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded. The identical 1,858.12 appears as a Signs Now yard-sign deposit on Schedule B the same day."
+   },
+   {
+    "line_no": "44",
+    "page": 4,
+    "row": 9,
+    "date": "May 22, 2018",
+    "donor_raw": "DelVon & Alicia Bouwhuis",
+    "donor_city": "Cedar Hills",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "surname read at page scale as 'Bouwhuis'; the handwriting carries an extra minim that could be read 'Bouwhuius', so the row is flagged rather than settled. donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "45",
+    "page": 4,
+    "row": 10,
+    "date": "May 24, 2018",
+    "donor_raw": "David Sakievich",
+    "donor_city": "Orem",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "46",
+    "page": 4,
+    "row": 11,
+    "date": "May 28, 2018",
+    "donor_raw": "Steven & Cathleen Baugh",
+    "donor_city": "Orem",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "47",
+    "page": 4,
+    "row": 12,
+    "date": "May 28, 2018",
+    "donor_raw": "Tom & Marji Sakievich",
+    "donor_city": "SpFk",
+    "amount": "1858.12",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a self-contribution by the candidate and his wife; the cover books line 3 (Balance at Beginning) as a SLASHED ZERO, so the ADDENDUM B3 ladder leaves no beginning-balance slot and these are itemized contribution rows. donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded. The identical 1,858.12 appears as the Signs Now balance on Schedule B the same day."
+   },
+   {
+    "line_no": "48",
+    "page": 4,
+    "row": 13,
+    "date": "Jun 3, 2018",
+    "donor_raw": "Russell & Shelly Dailey",
+    "donor_city": "Cedar Hills",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the amount is printed '25.-' - a DASH IN THE CENTS POSITION, the module's one whitelisted handwriting repair, and the page's own subtotal confirms 25.00 exactly. donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "49",
+    "page": 4,
+    "row": 14,
+    "date": "Jun 3, 2018",
+    "donor_raw": "Marji Sakievich",
+    "donor_city": "SpFk",
+    "amount": "350.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the amount is printed '350.-' (dash in the cents position; the page subtotal confirms 350.00). donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "50",
+    "page": 4,
+    "row": 15,
+    "date": "Jun 12, 2018",
+    "donor_raw": "Tom + Marji Sakievich",
+    "donor_city": "SpFk",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a self-contribution by the candidate and his wife; the cover books line 3 (Balance at Beginning) as a SLASHED ZERO, so the ADDENDUM B3 ladder leaves no beginning-balance slot and these are itemized contribution rows. The amount is printed '500.-' (dash in the cents position; the page subtotal confirms 500.00). donor_state honestly BLANK for ADDENDUM E4's FIFTH reason - the filer wrote a city (and usually a zip) but NO STATE on this row; a state is never inferred from a zip. PRIVACY: the street line printed on the page is deliberately not carried. The city is the filer's own abbreviation and is transcribed as printed, never expanded."
+   },
+   {
+    "line_no": "51",
+    "page": 4,
+    "row": 16,
+    "date": "June 13, 2018",
+    "donor_raw": "KYLE BATEMAN",
+    "donor_city": "MAPLETON",
+    "donor_state": "UT",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "written in ALL CAPS in a different pen from the rows above - the filer finished the sheet in a second sitting. The amount is printed '250.-' (dash in the cents position; the page subtotal confirms 250.00). The year '2018' is written ABOVE the date line. PRIVACY: the street line is not carried."
+   },
+   {
+    "line_no": "52",
+    "page": 4,
+    "row": 17,
+    "date": "June 14, 2018",
+    "donor_raw": "UT TIMPANOGOS ROTARY CLUB / SPEAK TO ROTARY MEMBERS",
+    "donor_city": "PLESANT GROVE",
+    "donor_state": "UTAH",
+    "amount": "10.50",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "IN-KIND, and the filer says so in his own footnote written below the grid: '* (\"IN-KIND\" - ROTARIANS PAID FOR MY LUNCH)', keyed to this row by an asterisk after the amount. City transcribed exactly as the filer spelled it. PRIVACY: the street line is not carried."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 5,
+    "row": 1,
+    "date": "Mar 8, 2018",
+    "vendor_raw": "Google",
+    "purpose": "Domain Name Purchased",
+    "amount": "12.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "2",
+    "page": 5,
+    "row": 2,
+    "date": "Mar 13, 2018",
+    "vendor_raw": "Signs Now",
+    "purpose": "yard signs (x100)",
+    "amount": "748.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 5,
+    "row": 3,
+    "date": "Mar 14, 2018",
+    "vendor_raw": "UCCU",
+    "purpose": "Cashier's Check fee",
+    "amount": "1.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "4",
+    "page": 5,
+    "row": 4,
+    "date": "Mar 14, 2018",
+    "vendor_raw": "Utah County Clerk",
+    "purpose": "Register Run + Ck fee",
+    "amount": "648.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 2018 Utah County COMMISSION filing/register charge as this filer books it, with a check fee added in a second hand above the line. Recorded as an observation for the wave's fee table only - ADDENDUM E1/F5 forbid using a filing fee to settle a figure on another filing."
+   },
+   {
+    "line_no": "5",
+    "page": 5,
+    "row": 5,
+    "date": "Mar 20, 2018",
+    "vendor_raw": "Copies Plus",
+    "purpose": "4x6\" Card Flyers (x1000)",
+    "amount": "189.20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 5,
+    "row": 6,
+    "date": "Mar 28, 2018",
+    "vendor_raw": "Todd Sorensen",
+    "purpose": "Website Videos (x2)",
+    "amount": "214.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "7",
+    "page": 5,
+    "row": 7,
+    "date": "Mar 30, 2018",
+    "vendor_raw": "Copies Plus",
+    "purpose": "4x9\" Flyers (x1000)",
+    "amount": "218.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "8",
+    "page": 5,
+    "row": 8,
+    "date": "Mar 31, 2018",
+    "vendor_raw": "Facebook",
+    "purpose": "Boost Facebook Pg (1:3)",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "9",
+    "page": 5,
+    "row": 9,
+    "date": "Apr 6, 2018",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Mass email Subscrip (x2,200)",
+    "amount": "30.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "10",
+    "page": 5,
+    "row": 10,
+    "date": "Apr 7, 2018",
+    "vendor_raw": "Dreams Time",
+    "purpose": "Photo Files to Download (not used)",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own parenthetical '(not used)' is written above the line and is kept as part of the purpose."
+   },
+   {
+    "line_no": "11",
+    "page": 5,
+    "row": 11,
+    "date": "Apr 8, 2018",
+    "vendor_raw": "Facebook",
+    "purpose": "Boost Facebook Page (2:2)",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "12",
+    "page": 5,
+    "row": 12,
+    "date": "Apr 9, 2018",
+    "vendor_raw": "Costco",
+    "purpose": "DISPLAY TABLE",
+    "amount": "53.36",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "13",
+    "page": 5,
+    "row": 13,
+    "date": "Ap 9, 2018",
+    "vendor_raw": "WalMart",
+    "purpose": "BLUE TAPE FOR DISPLAY",
+    "amount": "6.05",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "14",
+    "page": 5,
+    "row": 14,
+    "date": "April 10, 2018",
+    "vendor_raw": "Facebook",
+    "purpose": "Boost Facebook Page (3:3)",
+    "amount": "6.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "15",
+    "page": 5,
+    "row": 15,
+    "date": "Apr 12, 2018",
+    "vendor_raw": "Tom & Marji Sakievich",
+    "purpose": "Refund - family paying 2nd set of \"Red\" cards",
+    "amount": "184.74",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the offsetting side of the 184.74 self-contribution squeezed onto Schedule A row 9; the purpose is written in the address column, which is the ADDENDUM G3 pattern."
+   },
+   {
+    "line_no": "16",
+    "page": 5,
+    "row": 16,
+    "date": "Apr 14, 2018",
+    "vendor_raw": "Copies Plus",
+    "purpose": "4x9\" Flyers (x1000)",
+    "amount": "189.02",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "17",
+    "page": 5,
+    "row": 17,
+    "date": "April 15, 2018",
+    "vendor_raw": "Linda Housekeeper",
+    "purpose": "Meet & Greet Refund",
+    "amount": "75.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the word 'Refund' is written on a continuation line below the payee; the amount's leading digit is a CROSSED SEVEN, matching the filer's own crossed seven in the printed subtotal below."
+   },
+   {
+    "line_no": "18",
+    "page": 6,
+    "row": 1,
+    "date": "Apr 18, 2018",
+    "vendor_raw": "Chom",
+    "purpose": "Planning Meeting BKFT w/ supporter",
+    "amount": "6.47",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "19",
+    "page": 6,
+    "row": 2,
+    "date": "Apr 28, 2018",
+    "vendor_raw": "Los Hermanos",
+    "purpose": "Planning Meeting Lunch w/ supporters",
+    "amount": "17.62",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "20",
+    "page": 6,
+    "row": 3,
+    "date": "Apr 28, 2018",
+    "vendor_raw": "Chevron",
+    "purpose": "Gas to cover County wide Travel",
+    "amount": "46.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "21",
+    "page": 6,
+    "row": 4,
+    "date": "Apr 28, 2018",
+    "vendor_raw": "FedEx",
+    "purpose": "Print 2 large UT COUNTY MAPS",
+    "amount": "6.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "22",
+    "page": 6,
+    "row": 5,
+    "date": "May 2, 2018",
+    "vendor_raw": "amazon.com",
+    "purpose": "1 Photo Tripod, Wireless Mic, USMC tie tac",
+    "amount": "118.60",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "23",
+    "page": 6,
+    "row": 6,
+    "date": "May 6, 2018",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Mass eMail Subscrp (x2500)",
+    "amount": "40.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "24",
+    "page": 6,
+    "row": 7,
+    "date": "May 10, 2018",
+    "vendor_raw": "Facebook",
+    "purpose": "Boost Facebook Page (1:3)",
+    "amount": "33.39",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "25",
+    "page": 6,
+    "row": 8,
+    "date": "May 10, 2018",
+    "vendor_raw": "City of Orem",
+    "purpose": "Orem Grand Parade 6/9/2018 Participation fee",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "26",
+    "page": 6,
+    "row": 9,
+    "date": "May 10, 2018",
+    "vendor_raw": "Utah County Republican Women",
+    "purpose": "Dinner x2",
+    "amount": "70.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "27",
+    "page": 6,
+    "row": 10,
+    "date": "May 15, 2018",
+    "vendor_raw": "UT County Rep. Women",
+    "purpose": "Display Table",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "28",
+    "page": 6,
+    "row": 11,
+    "date": "May 17, 2018",
+    "vendor_raw": "Copies Plus",
+    "purpose": "4x9\" Flyers (x1000)",
+    "amount": "218.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "ESCALATED AND CORRECTED: read 28.00 on the full page, settled as 218.00 at 900 dpi - the leading '2' is separated from '18' by the wrap of the filer's '(x1000)' annotation written above the line. Confirmed twice over: by the glyph at 900 dpi AND by unique arithmetic closure, since 218.00 makes this page sum to its printed subtotal 5,485.68 to the cent."
+   },
+   {
+    "line_no": "29",
+    "page": 6,
+    "row": 12,
+    "date": "May 19, 2018",
+    "vendor_raw": "\"C3\"",
+    "purpose": "Mass email (x57,000) Services",
+    "amount": "400.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer names the vendor only as \"C3\" and gives an email address in the address column, which is not carried."
+   },
+   {
+    "line_no": "30",
+    "page": 6,
+    "row": 13,
+    "date": "May 21, 2018",
+    "vendor_raw": "Signs Now",
+    "purpose": "yard signs (x600) Deposit",
+    "amount": "1858.12",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "matches the 1,858.12 self-contribution of the same date on Schedule A."
+   },
+   {
+    "line_no": "31",
+    "page": 6,
+    "row": 14,
+    "date": "May 21, 2018",
+    "vendor_raw": "\"C3\"",
+    "purpose": "Mass Email (+20,000) Services",
+    "amount": "600.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a struck-out word follows 'Services' and is not transcribed; the address column holds an email address, which is not carried."
+   },
+   {
+    "line_no": "32",
+    "page": 6,
+    "row": 15,
+    "date": "May 23, 2018",
+    "vendor_raw": "UT Valley Chamber of Commerce",
+    "purpose": "Chamber: Climate & Water Availability Conference",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "33",
+    "page": 6,
+    "row": 16,
+    "date": "May 26, 2018",
+    "vendor_raw": "Maverick",
+    "purpose": "Gas: County wide Travel",
+    "amount": "12.25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "34",
+    "page": 6,
+    "row": 17,
+    "date": "May 28, 2018",
+    "vendor_raw": "Signs Now",
+    "purpose": "yard signs (x600) bal",
+    "amount": "1858.12",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "matches the 1,858.12 self-contribution of the same date on Schedule A."
+   },
+   {
+    "line_no": "35",
+    "page": 7,
+    "row": 1,
+    "date": "Jun 1, 2018",
+    "vendor_raw": "Copies Plus",
+    "purpose": "4x9\" Flyer (x3000)",
+    "amount": "454.01",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "36",
+    "page": 7,
+    "row": 2,
+    "date": "Jun 6, 2018",
+    "vendor_raw": "Springville Government",
+    "purpose": "SpringFest Parade (6/9/2018) Fee",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "37",
+    "page": 7,
+    "row": 3,
+    "date": "Jun 6, 2018",
+    "vendor_raw": "Mail Chimp",
+    "purpose": "Mass eMail Subs (x72,000)",
+    "amount": "375.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "38",
+    "page": 7,
+    "row": 4,
+    "date": "Jun 7, 2018",
+    "vendor_raw": "Provo Rotary",
+    "purpose": "PROVO ROTARY LUNCH: SPEAK AT (Rotary meeting)",
+    "amount": "5.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "geometry": "pct:84.93,28.33,10.48,1.90@p7",
+    "note": "THIS ROW SHARES PRINTED ROW 4 WITH THE ONE BELOW IT - written in ALL CAPS squeezed under rule 3, the second instance of this filer's habit on this filing. It carries its own hand-measured geometry (crop-proved; see the p7 measure_note)."
+   },
+   {
+    "line_no": "39",
+    "page": 7,
+    "row": 4,
+    "date": "Jun 10, 2018",
+    "vendor_raw": "Facebook",
+    "purpose": "Boost Facebook Page",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "geometry": "pct:84.93,30.23,10.48,2.17@p7",
+    "note": "shares printed row 4 with the squeezed row above it; own hand-measured geometry. the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "40",
+    "page": 7,
+    "row": 5,
+    "date": "Jun 12, 2018",
+    "vendor_raw": "Signs Now",
+    "purpose": "yard sign Legs (x75)",
+    "amount": "86.58",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "41",
+    "page": 7,
+    "row": 6,
+    "date": "Jun 13, 2018",
+    "vendor_raw": "Copies Plus",
+    "purpose": "4x9\" (x500)",
+    "amount": "143.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "42",
+    "page": 7,
+    "row": 7,
+    "date": "Jun 15, 2018",
+    "vendor_raw": "JOE VERA'S RESTAURANT",
+    "purpose": "Lunch w/ supporters",
+    "amount": "9.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "43",
+    "page": 7,
+    "row": 8,
+    "date": "Jun 13, 2018",
+    "vendor_raw": "Gas for travel to MEET + GREETS",
+    "amount": "15.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "THE FILER NAMED NO PAYEE ON THIS ROW: the 'Name/Nature of Expenditure' cell carries only the nature of the expenditure and the address cell carries a Cedar Hills street address (the event location), not a vendor. The nature is recorded verbatim in vendor_raw with that caveat and the row is flagged - no vendor name was invented (the ADDENDUM F2 discipline). PRIVACY: the street line is not carried."
+   },
+   {
+    "line_no": "44",
+    "page": 7,
+    "row": 9,
+    "date": "Jun 16, 2018",
+    "vendor_raw": "WALMART",
+    "purpose": "GAS: TRAVEL TO MEET + GREET + SUPPORTERS",
+    "amount": "35.55",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee is named in the 'Mailing Address & Zip Code' column and the nature of the expenditure in the 'Name/Nature of Expenditure' column - the columns were assigned BY CONTENT, which the heading 'Name/NATURE of Expenditure' makes unambiguous (ADDENDUM G3)."
+   },
+   {
+    "line_no": "45",
+    "page": 7,
+    "row": 10,
+    "date": "Jun 19, 2018",
+    "vendor_raw": "STRIPE",
+    "purpose": "CARD FEES - TOTAL CREDIT CARD",
+    "amount": "31.62",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "written in ALL CAPS; the address column carries a San Francisco street address, which is not carried."
+   }
+  ],
+  "notes": "THOMAS V. SAKIEVICH, page-face office 'UTAH COUNTY COMMISSION, SEAT A', party 'REPUBLICAN'; index.csv names NO candidate for this row, so the PAGE FACE governs and the coordinator may promote the name through office_overrides.csv (the Ainge precedent). Note the page face DOES print the seat here ('SEAT A'), which is what index.csv already carries - so no seat was inferred. 8 pages, legacy_colAB: p1 cover ('Seven days preceding the Primary Election', amendment ticked 'No', signed June 19, 2018), pp2-4 SCHEDULE A ('Page 1..3 of 3'), pp5-7 SCHEDULE B ('Page 1..3 of 3'), p8 SUMMARY PAGE. *** THE SUMMARY PAGE IS THE LAST PAGE, NOT p2 - and its own foliation box reads 'Page 1 of 1'. *** That is the second summary-page position in this chunk alone (Hemingway also binds it last, foliated 'Page 3 of 3'), against the module's variant table which predicts p2 for legacy_colAB. Locate the summary page by CONTENT, never by ordinal. *** TEMPLATE VINTAGE: this is one of the filings ADDENDUM G5 flagged. *** The cover is the 'FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES' blank (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13) and every inner sheet is strap-lined '2016 County & Local School Board Candidates' - leftover 2016 stock filed in 2018. The filing is unambiguously 2018 (signed June 19 2018, every entry dated 2018, Seat A a 2018 contest). The year was NOT reclassified and the sheets are NOT a bound-in prior report. *** A SIXTH WAY A ROW INDEX CAN GO WRONG: TWO ENTRIES IN ONE PRINTED ROW. *** ADDENDUM F1 lists five mechanisms; this filing adds a sixth, twice. On Schedule A p2 the filer squeezed a second Apr-12 self-contribution (184.74) in ALL CAPS immediately BELOW rule 8, so 18 entries occupy 17 printed lines and band 9 holds two; on Schedule B p7 he did the same with the Provo Rotary lunch (5.00) under rule 3, so band 4 holds two. NO ARITHMETIC GATE CAN SEE IT - both pages sum exactly either way - and unlike the five known traps it does not shift the following indices, it COLLAPSES two rows into one band, so a one-row-per-band reader silently drops an entry. Only the per-band crops catch it; each doubled band was split and both figures rendered separately, and the four affected rows carry explicit hand-measured geometry. SCHEDULE B COLUMN VOCABULARY: 'Name/Nature of Expenditure' - ADDENDUM G4's third vocabulary. There is no Purpose column, and this filer exploits the heading's ambiguity: on roughly half his rows the payee is in the ADDRESS column ('Costco, Spanish Fork', 'www.facebook.com', 'City of Orem') and the nature is in the Name/Nature column. The columns were assigned BY CONTENT (ADDENDUM G3), which the heading makes safe; the reading taken is stated on each such row. One row (line 43) names no payee at all and is flagged rather than filled. NIL MARK: summary line 3 is a SLASHED ZERO and reads 0 under the zero-glyph ruling. DASH-IN-THE-CENTS: four Schedule A amounts are printed '25.-', '350.-', '500.-', '250.-'; the page subtotal confirms each to the cent and they are recorded as 25.00 / 350.00 / 500.00 / 250.00 under the module's one whitelisted handwriting repair, with the printed form named in each row's note. DONOR STATE: most Schedule A rows give a city and zip but NO STATE (ADDENDUM E4's fifth cause) and are honestly blank; the seven out-of-state donors (CA x2, VA, AZ, MD, SC) and two Utah rows do carry one. City names are the filer's own abbreviations ('Span. Fk', 'SpFk', 'Am Fk', 'Spk', 'S. FK') and are transcribed as printed, never expanded. PRIVACY: the county did NOT redact this filing; full street lines are visible on both schedules and are reduced to city/state (contributions) or dropped entirely (expenditures) at read time. Two Schedule B rows carry a vendor EMAIL address in the address column; it is not carried either. PEN CHANGE: the last two Schedule A rows and several Schedule B rows are written in ALL CAPS in a different pen - the filer finished the sheets in a later sitting. Transcribed as printed; nothing adjudicated."
+ }
+]

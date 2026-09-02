@@ -1,0 +1,278 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2024-04-03",
+   "donor_raw": "Suzanne Harrison",
+   "occupation": "Physician, Self",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,20.84,89.75,3.89@p3",
+   "note": "city/state redacted at source"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-04-06",
+   "donor_raw": "Shane Graham",
+   "occupation": "Professor, Utah State U",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,24.73,89.75,3.91@p3",
+   "note": "occupation clipped by cell width; city/state redacted at source"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-04-09",
+   "donor_raw": "Todd Schmidtke",
+   "occupation": "Pilot, FedEx",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,28.64,89.75,3.91@p3",
+   "note": "city/state redacted at source"
+  },
+  {
+   "line_no": 4,
+   "date": "2024-04-09",
+   "donor_raw": "Raelene Norman",
+   "occupation": "Homemaker",
+   "amount": "30.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,32.55,89.75,3.91@p3",
+   "note": "city/state redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-04-01",
+   "vendor_raw": "McDonald's",
+   "purpose": "Food for County Convention",
+   "amount": "75.92",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,22.18,89.75,3.93@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-04-02",
+   "vendor_raw": "Google G-Suite",
+   "purpose": "Marketing",
+   "amount": "15.45",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,26.11,89.75,3.91@p4"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-04-09",
+   "vendor_raw": "BW Productions",
+   "purpose": "Marketing",
+   "amount": "2025.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,30.02,89.75,3.89@p4"
+  },
+  {
+   "line_no": 4,
+   "date": "2024-04-12",
+   "vendor_raw": "MDW Communications",
+   "purpose": "Marketing",
+   "amount": "3030.99",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,33.91,89.75,3.89@p4"
+  },
+  {
+   "line_no": 5,
+   "date": "2024-06-16",
+   "vendor_raw": "Lyon Printing",
+   "purpose": "Marketing",
+   "amount": "4295.37",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,37.80,89.75,3.95@p4",
+   "note": "dated 06/16/2024, out of chronological order -- verbatim as printed"
+  },
+  {
+   "line_no": 6,
+   "date": "2024-04-17",
+   "vendor_raw": "Kim Davison",
+   "purpose": "Consulting",
+   "amount": "1400.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,41.75,89.75,3.91@p4"
+  },
+  {
+   "line_no": 7,
+   "date": "2024-06-30",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Fees",
+   "amount": "3.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,45.66,89.75,3.89@p4"
+  },
+  {
+   "line_no": 8,
+   "date": "2024-05-01",
+   "vendor_raw": "Elevate Strategies",
+   "purpose": "Consulting",
+   "amount": "650.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,49.55,89.75,3.93@p4"
+  },
+  {
+   "line_no": 9,
+   "date": "2024-05-02",
+   "vendor_raw": "Google G-Suite",
+   "purpose": "Marketing",
+   "amount": "7.72",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.25,53.48,89.75,3.93@p4"
+  }
+ ],
+ "total_contributions": "490.00",
+ "total_expenditures": "11503.45",
+ "beginning_balance": "0.00",
+ "ending_balance": "($11,013.45)",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "490.00"
+ },
+ "cover": {
+  "candidate": "Deondra Brown",
+  "party": "Dem",
+  "office_sought": "County Council At-Large",
+  "district_number": "NA",
+  "report_type": "FINAL / DISSOLUTION REPORT checked (index/doc_name says 'Primary Report' -- the page governs; flagged, not relabelled)",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "06/17/24",
+  "form_year": "2020"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Brown-Deondra__982273AF.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Brown, Deondra",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Brown-Deondra__982273AF.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "DOCUMENT CONTRADICTS ITS LABEL: chunk/index reporting_period says 'Primary Report' but the cover has the FINAL / DISSOLUTION REPORT box checked -- transcribed from the form, flagged not relabelled (matches audit_note). Form titled '2020 Financial Disclosure Report' filed for the 2024 cycle. Column B (Aggregate Total) prints $0.00 on both lines despite Column A activity -- filer's own entries on a final report, retained verbatim. Ending balance is negative: '($11,013.45)' in accounting parentheses, arithmetic closes. Cover address block bar-redacted; Schedule A 'Complete Mailing Address' column fully bar-redacted (city/state do not survive). Party printed 'Dem'; District Number printed 'NA'; Office field on cover blank. Row A2 occupation clipped by cell width. Schedule B dates are out of chronological order (06/16 before 04/17; 06/30 before 05/01) -- verbatim as printed.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "490.00",
+     "schedule_total": "490.00",
+     "itemized": "490.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "4 rows 200.00+10.00+250.00+30.00 = 490.00 = Summary line 1 Column A = printed subtotal/total"
+    },
+    "expenditures": {
+     "stated": "11503.45",
+     "schedule_total": "11503.45",
+     "itemized": "11503.45",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "9 rows sum 11503.45 = Summary line 2 Column A = printed subtotal/total"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 490.00 = printed subtotal 490.00; p4 rows 11503.45 = printed subtotal 11503.45",
+   "escalations": 0,
+   "escalation_note": "no legibility escalations; all rows re-read in 600-dpi bands for verification",
+   "n_contrib_rows": 4,
+   "n_expend_rows": 9,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "DOCUMENT CONTRADICTS ITS LABEL: chunk/index reporting_period says 'Primary Report' but the cover has the FINAL / DISSOLUTION REPORT box checked -- transcribed from the form, flagged not relabelled (matches audit_note). Form titled '2020 Financial Disclosure Report' filed for the 2024 cycle. Column B (Aggregate Total) prints $0.00 on both lines despite Column A activity -- filer's own entries on a final report, retained verbatim. Ending balance is negative: '($11,013.45)' in accounting parentheses, arithmetic closes. Cover address block bar-redacted; Schedule A 'Complete Mailing Address' column fully bar-redacted (city/state do not survive). Party printed 'Dem'; District Number printed 'NA'; Office field on cover blank. Row A2 occupation clipped by cell width. Schedule B dates are out of chronological order (06/16 before 04/17; 06/30 before 05/01) -- verbatim as printed."
+  }
+ }
+}

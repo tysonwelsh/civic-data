@@ -1,0 +1,81 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C08.json",
+ "key": "881d7a2c",
+ "index_path": "raw/2014/2014_cc_Buttars_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Buttars_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "f4e68b46ad3b6d1c",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "2,630.00",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "2630.00",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "220.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this-period",
+   "result": "exact",
+   "scope": "period",
+   "detail": "BOTH SCHEDULES ARE GENUINELY EMPTY — a real zero, not a gap. Form A exists, is unfilled, and the cover's line-1 TOTALS FOR THIS REPORT cell reads a plain handwritten '0' (as does line 2's), so zero itemized rows gates the printed this-period figure exactly. The LAST REPORT column is filled (line 1 2,630.00; line 2 220.00), so this is a later report of the cycle and the rows are on the PERIOD scope, not the cumulative one the module publishes; nothing was contributed in this period. The Carr form prints no schedule total."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "9,614.85",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "9,614 85",
+    "cover_balance_end": "-0-",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this-period",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B exists and is unfilled; cover line 3 TOTALS FOR THIS REPORT reads a plain '0'. Zero rows gates it exactly. Period scope, same reasoning as the contributions side. ⚠ THE 4/9 GLYPH IN 9,614.85 WAS ESCALATED TO 2400 dpi ON BOTH CELLS INDEPENDENTLY (LAST and CUMULATIVE) and both are an open-top two-stroke 4 with a stem below the baseline — 9,614.85, not 9,619.85. There is NO arithmetic on this document capable of adjudicating it (both schedules are empty and the balance line does not close, see balance_chain), so this rests on legibility alone and is recorded at medium confidence. The two cells are the same hand on the same page and are therefore NOT independent evidence."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints NO schedule total and NO page subtotal. p2: 0 rows = cover line 1 THIS REPORT ('0'). p3: 0 rows = cover line 3 THIS REPORT ('0'). Both exact by construction. ⚠ A GATE THAT WOULD NOT CLOSE: the cover's own CUMULATIVE column does not balance — cumulative contributions 2,630.00 + 220.00 = 2,850.00 against cumulative expenses 9,614.85 leaves -6,764.85, yet the filer wrote '-0-' in the cumulative balance cell. Every figure is transcribed verbatim and none was recomputed; see balance_chain.",
+  "row_count": "Every ruled writing line on p2 and p3 was examined at 200 dpi. THERE IS NO INK ON EITHER SCHEDULE. Both pages carry substantial faint grey content, but it is reverse-side SHOW-THROUGH from the scan — mirror-reversed running paragraph text matching the statute page, laid across the columns without regard to the rules — not entries. No rows emitted; rowbands.py was not needed because there is no ink to score against a band. The field-shift screen is vacuous on an empty schedule.",
+  "geometry_proof": "No rows were emitted on either side, so there is no row geometry to prove and none is claimed. The blankness itself was established by reading both full pages at 200 dpi (never a crop, per the full-page-first rule) and identifying the faint content as reverse-side show-through.",
+  "balance_chain": "⚠ THE COVER'S CUMULATIVE BALANCE DOES NOT CLOSE, AND THAT IS THE FILER'S ARITHMETIC, NOT A TRANSCRIPTION DEFECT. This-period: 0 contributed, 0 spent — consistent with the '-0-' the filer wrote in the LAST REPORT balance cell and with the THIS REPORT balance cell being left blank. Cumulative: 2,630.00 + 220.00 - 9,614.85 = -6,764.85, but the filer wrote '-0-' in the cumulative balance cell. The gap of 6,764.85 has no counterpart anywhere on the four-page document (the schedules are empty and no loan, transfer or in-kind line exists on this form). Both figures are retained verbatim; no total was recomputed or overwritten. A HUMAN SHOULD LOOK AT THIS ONE — the imbalance is large and it may indicate a prior filing in this filer's cycle whose figures do not chain. That check cannot be run here: this chunk contains only one Buttars filing."
+ },
+ "escalations": 6,
+ "escalation_note": "p1 cover four-line anchor block at 600 dpi; cover line 3 LAST cell and CUMULATIVE cell each re-rendered at 1200 dpi with -normalize; the single disputed 4-vs-9 glyph in each of those two cells re-rendered at 2400 dpi with -normalize (both are a 4); p2 and p3 re-rendered at 200 dpi full-page to confirm the schedules carry no ink.",
+ "notes": "⚠ DATE CONTRADICTION: the filename is '2014_cc_Buttars_Dec_4_2014_campaign_finance.pdf' and the chunk file gives 2014-12-04, but the cover is dated 11/20/14 over the signature and the clerk stamp reads 'RCVD 20 NOV 2014 PM 01:06'. The form says 20 November 2014; the December 4 label is contradicted by the document. Transcribed from the form. Cover 'Name of Office' reads 'County Executive', Office District blank — agrees with the chunk file's 'County Executive'; the blank district is the form's own state. Candidate 'Craig W Buttars' — chunk file says 'Buttars'; agrees. Cover cites Cache County Code 2.21 and page 4 prints the 2.21.040/2.21.050 text. Home phone left blank; the business phone and the street address were discarded at read time. This is a post-election summary report with no activity in the period: both schedules are honestly empty and the cover says so ('0' in the THIS REPORT column on lines 1, 2 and 3). Empty here means the filer reported no transactions, NOT that the itemisation is missing.",
+ "contributions": [],
+ "expenditures": []
+}

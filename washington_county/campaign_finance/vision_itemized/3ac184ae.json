@@ -1,0 +1,78 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W04.json",
+ "key": "3ac184ae",
+ "index_path": "raw/live_outpost/Chuck Goode_Commission Seat C_Final_01-14-2025.pdf",
+ "applies_to": [
+  "raw/live_outpost/Chuck Goode_Commission Seat C_Final_01-14-2025.pdf"
+ ],
+ "sha256_prefix": "19cc7dd2773dbfb0",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "3970.95",
+    "cover_over50_this": "0.00",
+    "cover_over50_cum": "3970.95",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "0.00",
+    "schedule_total": "0.00"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A (p2) is a printed 18-row boxed grid with NOT ONE inked cell; its footer cell prints a handwritten TOTAL CONTRIBUTIONS of 0.00, and the cover's line-1 THIS cell is a handwritten 0.00. Zero rows is therefore a REAL ZERO for this period, not a gap. The rows sum to 0.00 = THIS, not to the CUMULATIVE 3970.95, so the scope of the transcribed side is PERIOD - which for this filing means the itemisation behind the 3,970.95 cumulative figure lives in this candidate's EARLIER 2024 filings, not here. NOTE THE FORM VARIANT: this newer county-branded cover has only THREE anchor lines (contributions over $50, campaign expenses, balance). It has NO '$50.00 or less' aggregate line at all, so cover_le50_* are null - the field does not exist - and the sub-$50 trap cannot arise on this generation."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "3970.95",
+    "cover_expense_this": "0.00",
+    "cover_expense_cum": "3970.95",
+    "cover_balance_end": "0.00",
+    "schedule_total": "0.00-"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (p3) is likewise a fully blank 18-row grid; its footer prints a handwritten TOTAL EXPENDITURES of '0.00' with a trailing dash stroke ('0.00-'), which is a written zero, and the cover's line-3 THIS cell is 0.00. Rows sum 0.00 = THIS; CUMULATIVE is 3970.95, so PERIOD scope."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 zero inked rows = printed TOTAL CONTRIBUTIONS 0.00 EXACT. p3 zero inked rows = printed TOTAL EXPENDITURES '0.00-' EXACT. Both footer cells were escalated to 600 dpi and are handwritten numerals, not dashes - a real declared zero, distinct from the accounting-dash case in this chunk's other 2025-era filing.",
+  "row_count": "Both schedules are boxed grids of 18 data rows plus a header row and a footer TOTAL row. Counted by eye on the 200 dpi renders: 0 of 18 rows inked on p2, 0 of 18 on p3. 0 rows emitted on each side - matches.",
+  "geometry_proof": "NOT APPLICABLE - no rows exist on either schedule, so no row geometry is emitted and there is nothing a shifted row index could corrupt. In place of it, the two footer TOTAL cells and the cover's six-cell anchor grid were re-rendered at 600 dpi and read identically to the full-page read (0.00 / 0.00- and 3970.95 / 0.00 / 3970.95 twice over).",
+  "balance_chain": "Closes exactly: 3,970.95 - 3,970.95 = 0.00, and the cover prints 0.00 in all three balance cells (LAST, THIS and CUMULATIVE). The cycle is fully wound down - this is the closing report of the 2024 cycle, filed for the period NOV 5, 2024 to JAN 10, 2025."
+ },
+ "escalations": 3,
+ "escalation_note": "600 dpi crops of the p2 TOTAL CONTRIBUTIONS cell, the p3 TOTAL EXPENDITURES cell, and the p1 six-cell anchor grid.",
+ "notes": "Generation 2 county-branded form ('Campaign Financial Disclosure Per Title 1 Chapter 7 of Washington County Code of Ordinances'), but a LATER VARIANT than the 2018-era one also in this chunk: it drops the '$50.00 or less' aggregate line entirely (3 anchor lines, not 4), adds explicit Start Date / End Date fields, and adds an Office Use Only block with a Clerk/Auditor 'verifying inspection' signature. Its Form A keeps the 5 columns Date | Name of Donor | Mailing Address and Zip Code | Amount | In Kind? Y/N. SEAT CONTRADICTION: the chunk file and the source filename say 'Commission Seat C'; the form's 'Candidate for Office Of' line reads 'Washington County Commission' with NO seat letter, on all three pages. The document neither confirms nor denies Seat C - treat the seat as unattested by this filing. Candidate name agrees: 'Chuck Goode'. County office, in scope. Period NOV 5, 2024 to JAN 10, 2025; candidate signature dated JAN 14, 2025; RECEIVED stamp JAN 14 2025; Clerk/Auditor verification signed 1/14/2025. A ZERO-ACTIVITY CLOSING REPORT: no contributions, no expenditures, and a zero end balance, with the whole 3,970.95 cycle sitting in the LAST-report column. This is exactly the case where an empty itemised side must NOT be read as 'no donors' for the cycle - it means no donors IN THIS PERIOD.",
+ "contributions": [],
+ "expenditures": []
+}

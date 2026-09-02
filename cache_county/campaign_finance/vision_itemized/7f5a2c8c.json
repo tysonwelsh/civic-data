@@ -1,0 +1,187 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C04.json",
+ "key": "7f5a2c8c",
+ "index_path": "raw/2010/2010_wb_mdaines.pdf",
+ "applies_to": [
+  "raw/2010/2010_wb_mdaines.pdf"
+ ],
+ "sha256_prefix": "ba3996102ebeb505",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "2943.41",
+   "basis": "cover-line1 (both printed cells)",
+   "result": "delta",
+   "scope": "unknown",
+   "detail": "THE COVER AND FORM A CONTRADICT EACH OTHER, and this is the filer's own doing. Form A (p2) carries exactly one inked row - 10-26-10, 'Mark Daines (Self)', $2943 with superscript 41 = 2943.41 - annotated by the filer at the head of the name column 'N A for Others' (i.e. not applicable for anyone else). Cover line 1 (contributions over $50) nevertheless reads a SLASHED ZERO in both the LAST and the CUMULATIVE column (THIS left blank), and line 2 likewise. So the filer itemised his own self-funding on Form A but reported zero contributions on the cover, evidently treating self-funding as not a contribution: he carried the same 2943.41 onto line 3 (expenses) and line 4 (balance) instead. Rows published verbatim, needs_review on the row, nothing adjusted. Cover line 1 is the ONLY anchor - the Carr form prints no schedule total. Scope cannot be decided from the page because neither printed contribution cell matches the rows, so scope is unknown (the row is dated inside the reporting period and the amount equals the cycle-to-date expense figure)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "2943.41",
+    "cover_expense_this": "2943.41",
+    "cover_expense_cum": "2943.41",
+    "cover_balance_end": "2943.41",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "2943.41",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Six Form B rows sum to EXACTLY 2943.41, which the cover prints identically in all three of line 3's columns (LAST = THIS = CUMULATIVE, so the two scopes coincide - recorded as cumulative per the addendum). All four cover-line-3 cells are written in the superscript-cents convention (2943 with a raised 41 over a rule) = 2943.41. THE ARITHMETIC DECIDED ONE GLYPH: row 1's cents read as '83' on the 200 dpi full page, which sums to 2943.42 and breaks the cover by a cent; the 1200 dpi column crop shows a flat-based 2, and 47.82 closes the schedule to the cover EXACTLY. Glyph re-read and arithmetic agree on 47.82; the cover's own figure is what settles it."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr form prints no schedule or page subtotal. p3 rows 47.82+425.53+100.00+2100.00+144.06+126.00 = 2943.41 = cover line 3 (all three columns) - EXACT. p2 row 2943.41 vs cover line 1 = 0 - WOULD NOT GATE (see contributions detail); both figures retained.",
+  "row_count": "Counted by eye against ink on the 200 dpi full pages (Carr sheet, ~40 ruled bands, filers write ON the rule). p3: 6 consecutive inked bands at the top, all others blank -> 6 rows. p2: 1 inked band (plus the filer's 'N A for Others' annotation written above it in the name column, which is not a transaction and was not emitted as a row) -> 1 row.",
+  "geometry_proof": "p3: the 1200 dpi amount-column strip (y 1150-3100) renders rows 1-6's own amounts in printed order; the control crop one row-pitch below row 6 renders EMPTY. p2: the first-row crop renders '$2943 41'; the control one pitch below renders EMPTY.",
+  "balance_chain": "DOES NOT CLOSE as printed: cover contributions 0 (line 1) + 0 (line 2) - expenses 2943.41 = -2943.41, but line 4 balance reads 2943.41 in the LAST and THIS columns and a slashed zero in the CUMULATIVE column. The cumulative 0 is the internally consistent reading IF the 2943.41 self-contribution on Form A is counted as money in (2943.41 in - 2943.41 out = 0); the line-1 zeros are the inconsistency. All cells retained verbatim, nothing recomputed. No earlier filing by this filer in this cycle is in this chunk, so no cross-filing chain was available."
+ },
+ "escalations": 4,
+ "escalation_note": "p3 amount column strip at 1200 dpi + control; p2 amount cell at 1200 dpi + control. The p3 escalation reversed row 1's cents from 83 to 82, confirmed by the schedule closing to the cover exactly.",
+ "notes": "Form 'Name of Office' reads 'County Council NE District', Office District 'North East' - agrees with index.csv's 'County Council'. Candidate 'Mark E. Daines' agrees. Cover stamped RCVD 26 OCT 2010, chunk date 2010-10-26. Row 4's amount cell carries the filer's annotation '(Estim' (estimate) beside 2100.00 for ANTICIPATED printing - a forward-looking figure the filer nonetheless reported as spent; retained verbatim in the row note. The candidate's street address, ZIP and both phone numbers on the cover, and the donor street address on the single Form A row, were discarded at read time; only city/state kept.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2010-10-26",
+   "donor_raw": "Mark Daines (Self)",
+   "donor_city": "Hyde Park",
+   "donor_state": "UT",
+   "amount": "2943.41",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.13,11.55,17.21,1.75@p2",
+   "note": "self-funding, filer wrote '(Self)' after his own name. Amount written in the superscript-cents convention: '$2943' with a raised '41' over a rule = 2943.41. needs_review because the cover reports 0 contributions over $50 while this row exists - see recon.contributions.detail. Filer annotated the head of the name column 'N A for Others'. Street address discarded at read time."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Cache County",
+   "purpose": "Filing Fee",
+   "amount": "47.82",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:82.13,8.96,17.21,2.05@p3",
+   "note": "date cell reads verbatim 'March 19' - no year printed, so left BLANK per contract (never filled from the report date). Amount in superscript-cents convention '47' with raised cents; the cents glyph is bistable 82/83 - it reads 83 at 200 dpi and 82 in the 1200 dpi crop, and the filing's own arithmetic settles it as 82 (only 47.82 makes the six rows sum to the cover's 2943.41). Rhodes-type reversal."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2010-10-15",
+   "vendor_raw": "Wright Signs",
+   "purpose": "Sign Purchase",
+   "amount": "425.53",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.13,11.09,17.21,2.05@p3",
+   "note": "superscript cents '425' + raised '53' = 425.53"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2010-10-13",
+   "vendor_raw": "Watkins Printing",
+   "purpose": "Down payment Printing",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.13,13.41,17.21,2.05@p3",
+   "note": "superscript cents '100' + raised '00' = 100.00"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2010-10-26",
+   "vendor_raw": "Watkins Printing",
+   "purpose": "Anticipated Printing",
+   "amount": "2100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.13,15.76,17.21,2.05@p3",
+   "note": "superscript cents '2100' + raised '00' = 2100.00, followed in the same cell by the filer's annotation '(Estim' (estimate). Purpose says 'Anticipated Printing' - a not-yet-incurred expense the filer reported anyway; flagged for review, value retained verbatim."
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2010-10-23",
+   "vendor_raw": "Iron Gate Grill",
+   "purpose": "Dinner for flyer Labor",
+   "amount": "144.06",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.13,18.12,17.21,2.05@p3",
+   "note": "superscript cents '144' + raised '06' = 144.06"
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Mark Daines",
+   "purpose": "Mileage to PU signs, Pass out flyers",
+   "amount": "126.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.13,20.47,17.21,2.05@p3",
+   "note": "date cell reads verbatim '10/1 - 10/26' - a RANGE, so left BLANK per contract. Superscript cents '126' + raised '00' = 126.00. Reimbursement to the candidate himself."
+  }
+ ]
+}

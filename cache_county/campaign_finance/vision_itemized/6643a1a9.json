@@ -1,0 +1,82 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C13.json",
+ "key": "6643a1a9",
+ "index_path": "raw/2018/2018_cc_Jill_N_Zollinger_final.pdf",
+ "applies_to": [
+  "raw/2018/2018_cc_Jill_N_Zollinger_final.pdf",
+  "raw/2018/2018_st_Zollinger_Jill_N.pdf"
+ ],
+ "sha256_prefix": "346acf16ab7e0bae",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is entirely BLANK -- no ink on any of its ~40 writing lines (the faint grey marks are bleed-through from the reverse of the sheet, checked at 200 dpi with -normalize; no glyph sits in any cell). Cover line 1 reads 0 in all three columns (plain '0' numerals in blue ink, not a nil dash), and line 2 (<=$50 aggregate, never itemized) likewise 0/0/0. THIS and CUMULATIVE both 0, so the scopes coincide."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "454.24",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "454.24",
+    "cover_balance_end": "454.24",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (p3) is entirely BLANK -- zero inked rows, verified at 200 dpi with -normalize. That is COHERENT with the cover rather than a gap: line 3 reads TOTALS FROM LAST REPORT 454.24 + TOTALS FOR THIS REPORT 0 = CUMULATIVE 454.24, so this 2018-12-05 summary report has nothing new to itemize; the 454.24 was itemized on the filer's earlier interim report, which is NOT in this chunk. The rows therefore sit on the PERIOD scope (they equal the this-report cell, 0), a DIFFERENT scope from the cumulative 454.24 the module publishes -- honest and expected. Empty here means 'nothing occurred this period', never 'no vendors'."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints no schedule total and no page subtotal -- honestly none. Both schedules are empty; the only anchors are the cover lines, and both close: contributions rows 0 = cover line 1 (0/0/0); expenditures rows 0 = cover line 3 TOTALS FOR THIS REPORT (0).",
+  "row_count": "Not applicable to a row set of zero: both grids were read full-page at 200 dpi and again -normalize'd to raise faint pencil, and every band on both p2 and p3 is empty of ink. No rowbands run needed to count zero rows; the visual pass is the check.",
+  "geometry_proof": "No rows on either side, so there is no row box to prove. Recorded rather than skipped.",
+  "balance_chain": "Cover line 4 (balance at end of period): LAST 454.24, THIS 0, CUMULATIVE 454.24. Read as a balance the chain does not close -- beginning 0 + contributions 0 - expenditures 454.24 = -454.24, not +454.24; like the other 2018 Carr filers in this chunk, the filer copied the line-3 expense figure down into the balance line instead of entering a net balance. FILER arithmetic, retained verbatim. The line-1/line-2/line-3 identity LAST + THIS = CUMULATIVE closes exactly on every line (0+0=0, 0+0=0, 454.24+0=454.24). No earlier filing by this filer is in this chunk, so no cross-filing chain could be run."
+ },
+ "escalations": 1,
+ "escalation_note": "p1 cover totals block at 600 dpi (confirmed the line-1/line-2 cells hold plain '0' numerals, and that 454.24 sits in the LAST and CUMULATIVE columns with 0 in THIS). p2 and p3 re-read at 200 dpi with magick -normalize to rule out faint pencil before declaring both schedules empty.",
+ "notes": "index.csv gives candidate 'Jill N. Zollinger', office 'Clerk/Auditor', date 2018-12-05 -- the cover reads 'Full Name of Candidate: Jill N. Zollinger', 'Name of Office: Cache County Clerk/Auditor' and signature date '12-5-18': all agree, county office, in scope. The 'TO ___ County Clerk' line also reads 'Jill Zollinger' because the candidate is the incumbent clerk filing with her own office; the county-clerk name field is left off the printed 'County Clerk' slot. Candidate street address, ZIP and cell phone are printed in the clear on the cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

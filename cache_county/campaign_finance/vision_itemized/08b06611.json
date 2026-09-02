@@ -1,0 +1,142 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C18.json",
+ "key": "08b06611",
+ "index_path": "raw/2020/2020_cc_Barbara_Tidwell.pdf",
+ "applies_to": [
+  "raw/2020/2020_cc_Barbara_Tidwell.pdf"
+ ],
+ "sha256_prefix": "9de63f4c9ba3d744",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "500.00",
+    "cover_over50_cum": "500.00",
+    "cover_le50_this": "75.00",
+    "cover_le50_cum": "75.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "500.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A carries one row, 500.00. Cover line 1 prints LAST=zero-glyph, THIS=500.00, CUM=500.00, so the THIS and CUMULATIVE scopes coincide (first and only report of the cycle). The Carr 5-5-PG sheet prints NO schedule total on Form A (it ends with the '(If additional space is needed, use blank paper ...)' line), so the cover line is the only anchor; schedule_total recorded null. Cover line 2 (le-$50 aggregate 75.00) is NEVER itemized and is deliberately excluded from the score per the sub-$50 aggregate rule."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "659.32",
+    "cover_expense_cum": "659.32",
+    "cover_balance_end": "659.32",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "659.32",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Three rows 363.80 + 145.52 + 150.00 = 659.32, equal to cover line 3 in BOTH the THIS and CUMULATIVE columns (they coincide; LAST is the zero glyph). The filer also hand-wrote an UNLABELLED 659.32 on the ruled line below row 3 of Form B - it is the filer's own total, not a transaction, and is not emitted as a row; its arithmetic (363.80+145.52+150.00) is the proof it is a total. The form prints no schedule total of its own."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints NO page subtotal or schedule total on either schedule - stated, not invented. Gate run against the cover only: p2 rows 500.00 = cover line 1 THIS/CUM 500.00; p3 rows 659.32 = cover line 3 THIS/CUM 659.32. Both close exactly.",
+  "row_count": "rowbands.py p2 -> 34 h-rules / 33 bands (status 'gaps'); p3 -> 28 h-rules / 26 bands (status 'gaps' - the detector lost several rules under the heavy fax speckle, the known tool DEBT). Counted by INK instead: p2 has exactly 1 inked writing line, p3 exactly 3 dated inked lines plus one wrapped continuation ('Chris Wilson', part of row 3) and the filer's unlabelled total line. Emitted 1 C row and 3 E rows - matches.",
+  "geometry_proof": "p2: first-row amount-cell crop (600dpi, x=4374 y=615 W=500 H=95) renders '500.00'; control one row-pitch below renders EMPTY. p3: first-row crop renders '363.80', last-row (row 3) crop renders '150.00'; the control one pitch below row 3 renders the top of the filer's unlabelled hand-written total 659.32 rather than empty - EXPECTED here, because the filer wrote his own total on that ruled line. No further ink below it.",
+  "balance_chain": "DOES NOT CLOSE, and the defect is the filer's. 500.00 (line 1) + 75.00 (line 2) - 659.32 (line 3) = -84.32, but cover line 4 'Balance at the end of this reporting period' prints 659.32 in both the THIS and CUMULATIVE cells - i.e. the filer copied line 3 down onto line 4. Both figures retained verbatim; no anchor recomputed. Only report of this filer in this cycle in my chunk, so no cross-filing LAST->CUM chain test was possible."
+ },
+ "escalations": 4,
+ "escalation_note": "p2 amount cell at 1200dpi (500.00 vs 509.00 on the contact sheet); p3 amount column at 1200dpi (three rows + the filer total); p3 date column at 1200dpi (row 3 read 10/30/20 on the 90dpi sheet, resolves to 10/26/20 at 1200dpi); p2 donor band at 600dpi.",
+ "notes": "Cover office line reads 'Cache County Council', Office District 'Seat 2' - agrees with the chunk file's office 'County Council'. Candidate on the form is 'Barbara Y. Tidwell'; chunk file says 'Barbara Tidwell' - agrees. IN SCOPE (county office). The document is 3 pages, not the Carr form's usual 4 - the page-4 statute text was not scanned; nothing is missing from the money layer. Cover signature date is 12/3/20, while the chunk file's date column says 2020-12-17; the clerk's date stamp across the header is partly obscured by a handwritten mark. The cover LAST-REPORT column carries the slashed zero glyph on all four lines, recorded as 0 per the zero-glyph ruling. Form A's address cell gives street + zip only with no city name, so donor_city/donor_state are left blank rather than inferred from the ZIP.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-10-07",
+   "donor_raw": "Friends of Chris Wilson",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:85.70,9.32,9.80,1.44@p2",
+   "note": "date written 10/7/20; address cell held a street address and ZIP only, no city - discarded at read time, donor_city/state left blank rather than inferred. Amount escalated to 1200dpi (contact sheet suggested 509.00): reads 500.00 and the cover's line 1 confirms it."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-09-21",
+   "vendor_raw": "Square One Printing",
+   "purpose": "Yard signs",
+   "amount": "363.80",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:85.70,9.32,9.80,1.44@p3",
+   "note": "date written 9/21/20"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2020-10-07",
+   "vendor_raw": "Watkins Printing",
+   "purpose": "Postcards",
+   "amount": "145.52",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:85.70,11.78,9.80,1.44@p3",
+   "note": "date written 10/7/20"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2020-10-26",
+   "vendor_raw": "Return funds to Friends of Chris Wilson",
+   "purpose": "",
+   "amount": "150.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=none;amount=high",
+   "verified": 1,
+   "geometry": "pct:85.70,14.24,9.80,1.44@p3",
+   "note": "vendor cell wraps over two ruled lines ('Return funds to Friends of' / 'Chris Wilson') - one row, not two. Purpose column left empty by the filer. Date read 10/30/20 on the 90dpi contact sheet; escalated to 1200dpi and the middle group is unambiguously 26, so 10/26/20."
+  }
+ ]
+}

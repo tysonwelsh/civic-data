@@ -1,0 +1,95 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "419.61",
+ "ending_balance": "419.61",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "419.61"
+ },
+ "cover": {
+  "candidate": "Lori Wike",
+  "party": "D",
+  "office_sought": "",
+  "district_number": "",
+  "report_type": "Period ending March 31",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2026-04-05",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Wike-Lori__A62907B6.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Wike, Lori",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Wike-Lori__A62907B6.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "This IS the 'Financial Disclosure Report For an Open Campaign Account' form family (Period ending March 31 / Eight days before Primary / September 10 / Eight days before General / Midterm Vacancy option set; Column B labelled 'Aggregate Total (YTD)'). Period ending March 31 box checked; amendment No; e-sign stamp 04/05/26 - 8:07 PM. The Open-Account form has no Office Sought row and its 'Office' cell is blank \u2014 office_sought recorded blank, not inferred. Cover address/zip/phone/email blocks blacked at source. All seven Summary lines read $0.00 except the $419.61 carried balance on lines 3, 5 and 7. Two-page document; no Schedule A or B page exists.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page in the document; Summary line 1 Column A and Column B (YTD) both print $0.00"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page in the document; Summary line 2 Column A and Column B (YTD) both print $0.00"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages; nothing to gate",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "This IS the 'Financial Disclosure Report For an Open Campaign Account' form family (Period ending March 31 / Eight days before Primary / September 10 / Eight days before General / Midterm Vacancy option set; Column B labelled 'Aggregate Total (YTD)'). Period ending March 31 box checked; amendment No; e-sign stamp 04/05/26 - 8:07 PM. The Open-Account form has no Office Sought row and its 'Office' cell is blank \u2014 office_sought recorded blank, not inferred. Cover address/zip/phone/email blocks blacked at source. All seven Summary lines read $0.00 except the $419.61 carried balance on lines 3, 5 and 7. Two-page document; no Schedule A or B page exists."
+  }
+ }
+}

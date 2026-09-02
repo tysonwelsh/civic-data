@@ -1,0 +1,113 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W05.json",
+ "key": "4ba6f074",
+ "index_path": "raw/live_wp/Victor-Iverson-Financial-012026.pdf",
+ "applies_to": [
+  "raw/live_wp/Victor-Iverson-Financial-012026.pdf"
+ ],
+ "sha256_prefix": "eec72f1027fe2212",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "7,000.00",
+    "cover_over50_cum": "7,000.00",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_expense_last": "0",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "7,000.00",
+    "schedule_total": "7000"
+   },
+   "itemized": "7000.00",
+   "basis": "cover-line1-cumulative (== cover-line1-this == Form A printed TOTAL CONTRIBUTIONS)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Two Form A rows, 2,000.00 + 5,000.00 = 7,000.00. That equals the Form A printed TOTAL CONTRIBUTIONS cell (written '7000'), the cover's Total THIS Report cell (written '7,000 -', trailing dash after whole dollars per core sec.3(g) => 7,000.00) and the cover's Cumulative Report cell (written '7,000' with superscript '00' => 7,000.00). Total LAST Report is a slashed zero, so this is the filer's FIRST report of the cycle and the THIS and CUMULATIVE scopes COINCIDE - recorded as cumulative per addendum sec.B. Cover anchors recorded as '0' where the filer drew a slashed-Oe zero glyph (core sec.3(f) zero-glyph ruling); the verbatim glyph is a slashed Oe in blue ink."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "cover-line2-cumulative (Form B line; == cover-line2-this == Form B printed TOTAL EXPENDITURES)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form B (p3) is an entirely blank 18-row grid - not one inked data cell. All three cover expense cells carry a slashed-Oe zero glyph = 0 (core sec.3(f)). The Form B TOTAL EXPENDITURES cell carries a RED slashed-Oe drawn by the reviewing clerk (same red ink as the clerk's other annotations on this filing); the filer himself left it blank. Zero rows is a real zero, not a gap. Scopes coincide (first report of the cycle)."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 2,000.00 + 5,000.00 = 7,000.00 = printed TOTAL CONTRIBUTIONS '7000' - gates exactly. p3 has no rows and its printed TOTAL EXPENDITURES cell holds a nil mark - gates trivially at 0.",
+  "row_count": "rowbands.py p2 geometry_status=ok, 20 h-rules -> 19 bands at 3.114% pitch. Band i=1 (y 33.59, h 3.20) is the TWO-LINE HEADER row ('Date | Name of Donor | Amount | In Kind? Y/N'), verified by crop: the 1200dpi crop at y=36.86% renders row 1's amount. So bands 2..19 = 18 data rows, of which 2 are inked = 2 rows emitted. p3 grid is the same shape, 0 inked.",
+  "geometry_proof": "p2, amount column x=56.06..81.71 (rowbands v_rules). First-row box (y 36.80, h 3.16) crop renders '2,000 00'; last-row box (y 39.96, h 3.14) renders '5,000 00'; control box one pitch below (y 43.10) renders EMPTY. Confirms the row index is not shifted.",
+  "balance_chain": "Cover balance line: LAST and THIS balance cells were left blank by the filer (only the form's printed '-' shows); Cumulative balance = 7,000.00. 0 (beginning) + 7,000.00 (contributions) - 0 (expenses) = 7,000.00 = the printed cumulative balance - CLOSES EXACTLY. No earlier filing by this filer in this cycle is in my chunk (Total LAST Report = 0 says there is none), so no cross-filing chain test was possible."
+ },
+ "escalations": 4,
+ "escalation_note": "p2 1200 dpi cell crops: row1 amount, row2 amount, control band, and a wide 1200 dpi crop of the row1+row2 date+donor bands. p3 1200 dpi crop of the TOTAL EXPENDITURES cell to decide whether the red mark was a nil glyph or a numeral.",
+ "notes": "Chunk file says candidate 'Victor Iverson', office 'Commission Seat B', reporting_year 2025 - the cover's 'Full Name of Candidate' reads 'Victor Iverson' and 'Candidate for Office Of' reads 'County Commission Seat B'; AGREES, county office, in scope. Reporting period on the cover: Start Date 'Jan 2025', End Date written 'Jan 11 2026' then STRUCK THROUGH IN RED and re-written by the clerk as '12/31/25'; candidate signature dated 1-11-2026; clerk Date Received 1/12/26. Form A's own candidate/office header lines were filled by the filer; Form B's were left blank by the filer and filled in later IN RED by the clerk ('Victor Iverson' / 'Commission B'). Row 1's donor is the candidate himself (a self-contribution) - recorded verbatim, not flagged. In Kind column answered 'N' on both rows, so neither is in-kind.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2025-12-02",
+   "donor_raw": "Victor Iverson",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:56.06,36.80,25.65,3.16@p2",
+   "note": "Written '2,000' with superscript '00' over the cents position => 2000.00 (core sec.3(g)). Date written 12/2/2025. Donor is the candidate himself. In Kind? column answered 'N'. This Gen-2 Form A has no mailing-address column, so donor_city/donor_state are structurally unavailable, not withheld."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2025-12-11",
+   "donor_raw": "Doug Dennett",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "5000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:56.06,39.96,25.65,3.14@p2",
+   "note": "Written '5,000' with superscript '00' => 5000.00; the leading glyph is a cursive 5 (open-top), confirmed by the arithmetic: 2,000 + 5,000 = 7,000 = the printed TOTAL and both cover cells. Donor read at 1200dpi as 'Doug Dennett'; the third glyph of the first name is a bistable cursive u/n so 'Dong' cannot be excluded - hence donor=medium. Date cell reads '12/11/2025'; the middle group is two vertical strokes read as 11 - date=medium. In Kind? column answered 'N'."
+  }
+ ],
+ "expenditures": []
+}

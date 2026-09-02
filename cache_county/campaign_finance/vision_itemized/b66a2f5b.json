@@ -1,0 +1,82 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C12.json",
+ "key": "b66a2f5b",
+ "index_path": "raw/2018/2018_cc_Gordon_Andrew_Zilles_final.pdf",
+ "applies_to": [
+  "raw/2018/2018_cc_Gordon_Andrew_Zilles_final.pdf",
+  "raw/2018/2018_st_Zilles_Gordon_Andrew.pdf"
+ ],
+ "sha256_prefix": "fff75db9f2660cbb",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "97.36",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "97.36",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form A (page 2) exists and is entirely BLANK - a real zero, not a gap. The empty schedule equals the cover's line-1 THIS REPORT cell, a written 0, EXACTLY. SCOPE IS PERIOD, NOT CUMULATIVE, AND THAT MATTERS HERE: the line-1 CUMULATIVE cell reads 97.36 (carried from the earlier report of this cycle, which is not in my chunk), so the empty schedule matches the THIS cell and NOT the cycle-to-date figure the module publishes. Line 2 (the <=$50 aggregate, never itemized) reads 0 in the THIS column and is left blank in both the LAST and CUMULATIVE columns. The Carr form prints no schedule total; the cover is the only anchor."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "543.06",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "543.06",
+    "cover_balance_end": "640.42",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this-report",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B (page 3) exists and is entirely BLANK - a real zero. The empty schedule equals the cover's line-3 THIS REPORT cell, a written 0, EXACTLY; the CUMULATIVE cell reads 543.06, so again the rows are on PERIOD scope, not on the published cycle-to-date figure. Form B prints no schedule total."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Neither Carr schedule prints a total or a page subtotal - stated, not invented. Both schedules are blank, so the only gate available is against the cover: p2 rows 0.00 = cover line 1 THIS (written 0); p3 rows 0.00 = cover line 3 THIS (written 0).",
+  "row_count": "Not run with rowbands.py - zero data rows to count. Both ruled sheets were read at 200 dpi full-page and carry NO filer ink at all; the marks visible on p2 and p3 are MIRROR-IMAGE show-through of the printed statute text from page 4 (heavy on p3, lighter on p2), typeset and reversed, not handwriting. No ghost row was transcribed.",
+  "geometry_proof": "Not applicable - zero rows emitted.",
+  "balance_chain": "DOES NOT CLOSE, AND THE CAUSE IS THE FILER'S OWN ARITHMETIC. Carr cover has no beginning-balance line. Taking the CUMULATIVE column: 97.36 (line 1) + blank (line 2) - 543.06 (line 3) = -445.70, but the printed line-4 CUMULATIVE balance reads 640.42. 640.42 is exactly 97.36 + 543.06 - the filer ADDED his contributions and his expenses instead of subtracting, so his 'balance' is a gross total, not cash on hand. Both figures retained verbatim; nothing recomputed and nothing overwritten. LAST + THIS = CUMULATIVE does hold on lines 1 and 3 (97.36 + 0 and 543.06 + 0). No second Zilles filing for this cycle is in my chunk, so no cross-filing chain test was possible; the earlier report that produced the 97.36 / 543.06 LAST-column figures is not one of my documents."
+ },
+ "escalations": 2,
+ "escalation_note": "1200 dpi crops of the cover's LAST-REPORT and CUMULATIVE money columns; the schedules needed none (no ink to escalate).",
+ "notes": "index.csv says candidate 'Gordon Andrew Zilles', office 'County Council'; the form reads 'Gordon Andrew Zilles' and 'Cache County Council' with Office District 'S. East Dist.' - agrees, and the district is a detail the index does not carry. Political Party 'Rep.'. Signed/dated 'Dec 5 2018'; rotated right-margin clerk stamp reads 'CLERK - DEC 05 18 PM 5:48:57'. THE 'TO ___ County Clerk' LINE IS LEFT ENTIRELY BLANK on this filing - unlike the other 2018 covers in this chunk, which name the clerk. The 'Business' phone field carries an OCCUPATION rather than a number ('Dairy Farmer (same)') - noted because it is a field-content oddity, not a phone; the candidate's home street address, ZIP and home phone appear in the clear on the cover and were discarded at read time. Both schedules are honest blanks with zero rows: an EMPTY SCHEDULE, never 'no donors' by inference - the cover independently states 0 for this period while carrying 97.36 / 543.06 forward as the cycle totals. A HUMAN SHOULD NOTE the balance-line defect described in balance_chain: the published cycle balance for this filer is a sum, not a net.",
+ "contributions": [],
+ "expenditures": []
+}

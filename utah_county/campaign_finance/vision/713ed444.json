@@ -3,7 +3,10 @@
  "key": "713ed444",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:18:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 12.23",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,97 @@
    "notes": "Handwritten on the printed v. 12.23 form. Office field reads exactly 'Treasurer' (index.csv says 'County Treasurer' - naming convention, not a conflict). Street address, phone number and signature are redacted upstream by the county (black bars); the printed city 'Provo, UT 84604' survives. Box A and the Balance at Close are written with a raised double-o cents glyph ('$0.oo') - read as 0.00, Box A at medium confidence. Red clerk date stamp 'OCT 28 2024' plus a blue received mark over the Type-of-Report block (clerk markup). Same report content as key 449438fe (the unredacted copy of this same 7-days-before-General filing); index.csv gives them different reporting_period labels ('7 Days before General' here, blank on 449438fe) but the CHECKED box on both page faces is 'Seven days preceding the General Election'. Figures are identical on both copies."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "12/28/2023",
+   "donor_raw": "Kim Jackson (Loan)",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "1375.74",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.21,15.98,13.79,4.57@p2",
+   "geometry_frame": "p2 axis=y cell=80.21-94.00 rowband=15.98-20.55 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "The candidate's own money, annotated '(Loan)' by the filer inside the Name of Contributor cell; the parenthetical is kept verbatim as written. Published as a contribution row because the page's ladder requires it (\u00a7B3), not because of the wording. Dated 12/28/2023, the calendar year before the cycle. Address cell prints ONLY 'Provo UT 84604' \u2014 city, state and zip with NO street written at all, and NO redaction bar on this page \u2014 so city/state come straight off the page and the privacy reduction is a no-op here. Amount written '$1,375.' with the cents '74' RAISED above the line."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "1/2/2024",
+   "vendor_raw": "Utah County",
+   "purpose": "Candidate Filing Fee",
+   "amount": "712.74",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.05,16.00,13.65,4.59@p3",
+   "geometry_frame": "p3 axis=y cell=80.05-93.70 rowband=16.00-20.59 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Written '$ 712.' with RAISED cents '74', escalated to 900 dpi and confirmed by the side's unique arithmetic closure (1,375.74 - 663.00 = 712.74). Fee data point recorded as an OBSERVATION only (\u00a7E1/\u00a7F5/\u00a7L3), never used to corroborate anything."
+  },
+  {
+   "line_no": "2",
+   "date": "6/15/2024",
+   "vendor_raw": "BCR Political, LLC",
+   "purpose": "Campaign Expenses",
+   "amount": "663.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.05,20.59,13.65,4.59@p3",
+   "geometry_frame": "p3 axis=y cell=80.05-93.70 rowband=20.59-25.18 (2 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Written '663.' with the cents as two RAISED ovals '00'. Purpose is the filer's own generic caption; kept verbatim."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah r13_02)",
+   "transcribed_date": "2026-08-20",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' ($1,375.74, cents raised) on the p4 Summary Page, equal to Schedule A's own printed 'Subtotal for this page $ 1,375.74' AND its 'Total Contributions Received / Sum of all Schedule A pages in this report $ 1,375.74' (p2)",
+     "detail": "The single Schedule A row is 1,375.74, which is by itself the schedule's printed page subtotal, the schedule's printed grand total and the promoted PER-PERIOD cell Box B \u2014 three printed anchors agreeing to the cent. Box C YTD also prints 1,375.74 and is not summed as an increment. LOAN LADDER (\u00a7B3): the sole row is the candidate's own money labelled '(Loan)' by the filer; it is a CONTRIBUTION row because Box A 'Balance at Beginning' prints $0.00, leaving no beginning-balance slot, and Box B repeats the schedule's 1,375.74. The ladder closes: F = A + B = 1,375.74 and close = F - D = $0.00, exactly as printed. Classified by the ladder, never by the word 'loan'."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' ($1,375.74) on the p4 Summary Page, equal to Schedule B's own printed 'Subtotal for this page $ 1,375.74' AND its 'Total Expenditures Made / Sum of all Schedule B pages in this report $ 1,375.74' (p3)",
+     "detail": "2 Schedule B rows sum to 712.74 + 663.00 = 1,375.74 exactly = the printed page subtotal = the printed grand total = the promoted PER-PERIOD cell Box D. Box E YTD also prints 1,375.74 and is never summed. The closure is UNIQUE and it settles the raised cents on the filing-fee cell: 1,375.74 - 663.00 = 712.74 admits no other reading, so the raised pair is '74'. Recorded per \u00a7E1/\u00a7L3 as an observation only \u2014 the fee is never used to corroborate anything, and a 'correction' toward the 712.25 other 2024 filings print would break a page that closes exactly."
+    }
+   },
+   "in_kind_convention": "monetary-only, and no other convention is available: the schedules are the FOUR-column v. 12.23 sheets with NO in-kind checkbox column and no in-kind line, and no row is annotated in-kind. Both conventions give the same sums and both close at 1,375.74 / 1,375.74. Tested on THIS document per \u00a7G1 \u2014 not inherited from its two sibling copies, even though they carry the same ledger.",
+   "escalations": 5,
+   "escalation_note": "Five 900 dpi tight --value crops: every transcribed row on both sides (three in total) plus a one-band-past control on each schedule page. Measured and proved on THIS copy rather than carried from 449438fe, per \u00a7K1's rule that a frame is never carried across two copies of the same document. Nothing was changed.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 2,
+   "geometry": {
+    "measured": 3,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "MEMBER 2 OF THE KIM JACKSON THREE-DOCUMENT CLUSTER (449438fe / 713ed444 / ad8dc826), transcribed INDEPENDENTLY \u2014 nothing merged, netted or differenced with any sibling. CLUSTER VERDICT FOR THIS DOCUMENT (\u00a7K2): it is kind (3), THE SAME REPORT RE-PUBLISHED WITH A REDACTION PASS \u2014 not an original, not a revision, not a different report. The evidence is row-level, not total-level: the amendment question is ticked 'No' here exactly as on 449438fe; the report type is the same 'Seven days preceding the General Election'; the signature date and Date of Report are both 10/28/2024; the clerk RECEIVED stamp is the same OCT 28 2024 impression in the same position on the cover and again across the Schedule B grid; and EVERY ledger line is identical line for line \u2014 Schedule A's one row (12/28/2023 \u00b7 Kim Jackson (Loan) \u00b7 Provo UT 84604 \u00b7 1,375.74) and Schedule B's two rows (1/2/2024 \u00b7 Utah County \u00b7 Candidate Filing Fee \u00b7 712.74 and 6/15/2024 \u00b7 BCR Political, LLC \u00b7 Campaign Expenses \u00b7 663.00), with the same handwriting, the same raised-cents style and the same six summary boxes. THE ONLY DIFFERENCES ARE THE COUNTY'S: (a) on the cover the candidate's STREET ADDRESS, PHONE NUMBER and SIGNATURE are blacked out here and are in the clear on 449438fe, while City / State / Zip stay visible on both; (b) this copy is 4 pages against 449438fe's 6, because the blank duplex versos were dropped rather than any content being removed \u2014 the filer's own foliation is 1 / 2 / 3 / 4 on both documents, so both are the same FOUR-SHEET filing; (c) the channel differs (county_sheet here, state_municipal there). THE AGREEMENT IS CORROBORATION and is recorded as such: 3 of 3 amounts, all three dates, both schedules' two printed footers and all six summary boxes reproduce independently across the two documents, which strengthens both readings. No value was carried from the sibling \u2014 the geometry was re-measured and re-proved on this PDF (\u00a7K1). PAGE-FACE identity: 'Kim Jackson' handwritten; Office box reads exactly 'Treasurer' (index.csv's 'County Treasurer' is a naming convention, not a conflict; its candidate label 'Kim T Jackson' carries a middle initial the page does not print \u2014 the page face governs). FORM: modern_boxAF, footer 'v. 12.23' on all four pages, masthead 'Aaron Davidson / Clerk', four-column \u00a7M2 schedules, Schedule B with a real Purpose column, Summary located by content on the LAST page with an UNLETTERED close box. NO CHECKLIST DECOY is bound. Wholly handwritten on the printed blank. Both sides close EXACTLY on the promoted per-period figures."
+  }
+ }
 }

@@ -1,0 +1,1104 @@
+[
+ {
+  "index_path": "raw/2014/2014_30DayHJackson.pdf",
+  "key": "21f4b69e",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r4_02)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4,5",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' contributions, line 1 TOTAL CONTRIBUTIONS RECEIVED = $7,690.00 on the p2 SUMMARY PAGE - repeated at summary line 4 ('From Line 1 Column A') and line 5 (Subtotal), and equal to the filer's own ledger total printed as 'Total $7,690' at the foot of his p3 Schedule A table",
+    "detail": "12 ledger rows sum to 2000 + 1000 + 5 + 500 + 100 + 500 + 1000 + 50 + 2000 + 35 + 100 + 400 = 7,690 exactly, which equals the ledger's own printed Total ($7,690), the cover's PROMOTED per-period cell (line 1 Column A, $7,690.00) and summary lines 4 and 5. Column B Year-to-Date prints the SAME figure, $7,690.00 - which is not a cumulative-exact case: this is the cycle's first report for this filer, so period IS year-to-date and no scope distinction arises (the Ratcliffe lesson). Nothing was differenced across filings."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' expenditures, line 2 TOTAL EXPENDITURES MADE = $6,611.19 on the p2 SUMMARY PAGE - repeated at summary line 6 ('From Line 2 Column A') and equal to the filer's own ledger total, printed as '$6,611.19' in the Amount column two rows below his last entry on p5",
+    "detail": "45 ledger rows (40 on p4 + 5 on the p5 continuation sheet) sum to 6,611.19 exactly, matching the ledger's own printed total, the cover's Column A per-period cell and summary line 6. Column B Year-to-Date prints the same 6,611.19 for the same reason as the contribution side (first report of the cycle). The balance ladder closes on the printed figures: line 5 subtotal 7,690.00 - line 6 6,611.19 = line 7 1,078.81, exactly as printed. NOTE, recorded and not repaired: summary line 3 'Balance at Beginning of Reporting Period' is left WHOLLY BLANK (an empty cell, not a zero glyph and not a dash), so the ladder's own line 5 = line 3 + line 4 identity holds only if the blank is read as zero. Nothing was written into that cell and it stays blank."
+   }
+  },
+  "in_kind_convention": "monetary-only closed exactly on BOTH sides (7,690.00 and 6,611.19). Both conventions tested and numerically identical here: the filer's own ledgers have no in-kind column and mark no row in kind, and the county summary page prints no separate in-kind line.",
+  "escalations": 8,
+  "escalation_note": "Eight 900 dpi tight-cell crops, all for GEOMETRY PROOF - none was needed to settle a figure, because pages 3-5 are TYPED at high contrast and every amount is unambiguous at full-page resolution. The crops proved the first and last transcribed band of each of the three ledger pages plus two one-past-the-end negative controls; what each rendered is recorded in the frames' measure_notes.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     16.15,
+     26.52
+    ],
+    "cells": [
+     [
+      6.36,
+      16.15
+     ],
+     [
+      16.15,
+      26.52
+     ],
+     [
+      26.52,
+      50.76
+     ]
+    ],
+    "rows": [
+     [
+      6.66,
+      8.64
+     ],
+     [
+      8.64,
+      10.64
+     ],
+     [
+      10.64,
+      12.64
+     ],
+     [
+      12.64,
+      14.64
+     ],
+     [
+      14.64,
+      16.66
+     ],
+     [
+      16.66,
+      18.7
+     ],
+     [
+      18.7,
+      20.68
+     ],
+     [
+      20.68,
+      22.68
+     ],
+     [
+      22.68,
+      24.68
+     ],
+     [
+      24.68,
+      26.66
+     ],
+     [
+      26.66,
+      28.66
+     ],
+     [
+      28.66,
+      30.68
+     ],
+     [
+      30.68,
+      32.64
+     ],
+     [
+      32.64,
+      34.64
+     ],
+     [
+      34.64,
+      36.61
+     ],
+     [
+      36.61,
+      38.61
+     ],
+     [
+      38.61,
+      40.64
+     ],
+     [
+      40.64,
+      42.64
+     ],
+     [
+      42.64,
+      44.64
+     ],
+     [
+      44.64,
+      46.64
+     ]
+    ],
+    "measure_note": "⚠ THIS IS NOT THE COUNTY'S UNDERLINE FORM. Pages 3-5 are the candidate's OWN TYPED SPREADSHEET ledger (§A2 pattern), a fully BOXED grid, so a row lies BETWEEN ITS OWN RULES and the text-above-the-rule convention does NOT apply here - nothing is extrapolated. rowbands.py on the RAW frame (deskew 0.0 deg) returns 21 horizontal rules 6.66 .. 46.64 pct at a regular ~2.0 pct pitch and 4 vertical rules 6.36 / 16.15 / 26.52 / 50.76, which are the table's left edge and its three column dividers: Date 6.36-16.15, AMOUNT 16.15-26.52, Donor 26.52-50.76. The 20 stored bands are the full printed grid: band 1 is the ledger's own 'Schedule A | Contributions' caption row, band 2 is its 'Date | Amount | Donor' header, bands 3-14 are the TWELVE data rows, bands 15-17 are blank, band 18 is its 'Total $7,690' row and bands 19-20 are blank. Row indices in this record are these printed band numbers, so line 1 sits at row 3. PROOF at 900 dpi with --value: the first transcribed band, pct:16.15,10.64,10.37,2.00@p3, rendered '$2,000' (recorded 2000); the last, pct:16.15,32.64,10.37,2.00@p3, rendered '$400' (recorded 400); and the §B5 one-past-the-end control pct:16.15,34.64,10.37,1.97@p3 rendered an EMPTY boxed cell."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     16.06,
+     24.94
+    ],
+    "cells": [
+     [
+      6.42,
+      16.06
+     ],
+     [
+      16.06,
+      24.94
+     ],
+     [
+      24.94,
+      53.49
+     ]
+    ],
+    "rows": [
+     [
+      6.66,
+      8.66
+     ],
+     [
+      8.66,
+      10.66
+     ],
+     [
+      10.66,
+      12.75
+     ],
+     [
+      12.75,
+      14.77
+     ],
+     [
+      14.77,
+      16.75
+     ],
+     [
+      16.75,
+      18.7
+     ],
+     [
+      18.7,
+      20.7
+     ],
+     [
+      20.7,
+      22.68
+     ],
+     [
+      22.68,
+      24.7
+     ],
+     [
+      24.7,
+      26.73
+     ],
+     [
+      26.73,
+      28.75
+     ],
+     [
+      28.75,
+      30.75
+     ],
+     [
+      30.75,
+      32.75
+     ],
+     [
+      32.75,
+      34.75
+     ],
+     [
+      34.75,
+      36.75
+     ],
+     [
+      36.75,
+      38.77
+     ],
+     [
+      38.77,
+      40.73
+     ],
+     [
+      40.73,
+      42.68
+     ],
+     [
+      42.68,
+      44.68
+     ],
+     [
+      44.68,
+      46.68
+     ],
+     [
+      46.68,
+      48.68
+     ],
+     [
+      48.68,
+      50.73
+     ],
+     [
+      50.73,
+      52.73
+     ],
+     [
+      52.73,
+      54.7
+     ],
+     [
+      54.7,
+      56.7
+     ],
+     [
+      56.7,
+      58.73
+     ],
+     [
+      58.73,
+      60.75
+     ],
+     [
+      60.75,
+      62.8
+     ],
+     [
+      62.8,
+      64.84
+     ],
+     [
+      64.84,
+      66.82
+     ],
+     [
+      66.82,
+      68.82
+     ],
+     [
+      68.82,
+      70.8
+     ],
+     [
+      70.8,
+      72.77
+     ],
+     [
+      72.77,
+      74.82
+     ],
+     [
+      74.82,
+      76.82
+     ],
+     [
+      76.82,
+      78.82
+     ],
+     [
+      78.82,
+      80.82
+     ],
+     [
+      80.82,
+      82.82
+     ],
+     [
+      82.82,
+      84.82
+     ],
+     [
+      84.82,
+      86.82
+     ],
+     [
+      86.82,
+      88.84
+     ],
+     [
+      88.84,
+      90.82
+     ]
+    ],
+    "measure_note": "Same typed BOXED ledger, measured separately on its own page. rowbands.py returns 43 rules 6.66 .. 90.82 pct (~2.0 pct pitch, deskew 0.0) and vertical rules 6.42 / 16.06 / 24.94 / 53.49 giving Date 6.42-16.06, AMOUNT 16.06-24.94, Payable 24.94-53.49. The 42 stored bands are the whole printed grid: band 1 is the 'Schedule B | Expenditures' caption, band 2 the 'Date | Amount | Payable' header, and bands 3-42 are the FORTY data rows, so expenditure line 1 sits at row 3 and line 40 at row 42. PROOF at 900 dpi with --value: first transcribed band pct:16.06,10.66,8.88,2.09@p4 rendered '$60.81' (recorded 60.81); last transcribed band pct:16.06,88.84,8.88,1.98@p4 rendered '$46.00' (recorded 46.00). There is no band 43 to use as a negative control - the printed grid ENDS at rule 90.82 and the ledger continues on p5, whose band 1 was itself proved by crop; the p5 negative control stands for the tail of the side."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     15.97,
+     24.82
+    ],
+    "cells": [
+     [
+      6.33,
+      15.97
+     ],
+     [
+      15.97,
+      24.82
+     ],
+     [
+      24.82,
+      53.4
+     ]
+    ],
+    "rows": [
+     [
+      6.7,
+      8.73
+     ],
+     [
+      8.73,
+      10.7
+     ],
+     [
+      10.7,
+      12.7
+     ],
+     [
+      12.7,
+      14.68
+     ],
+     [
+      14.68,
+      16.73
+     ],
+     [
+      16.73,
+      18.7
+     ],
+     [
+      18.7,
+      20.75
+     ],
+     [
+      20.75,
+      24.7
+     ],
+     [
+      24.7,
+      26.7
+     ],
+     [
+      26.7,
+      28.73
+     ],
+     [
+      28.73,
+      30.7
+     ],
+     [
+      30.7,
+      32.73
+     ],
+     [
+      32.73,
+      34.73
+     ],
+     [
+      34.73,
+      36.73
+     ]
+    ],
+    "measure_note": "The CONTINUATION sheet of the same typed boxed ledger - it carries NO caption and NO header row, so band 1 is a DATA row here while on pages 3 and 4 band 1 is a caption. That is exactly why each page was measured on its own and no grid was carried across. rowbands.py returns 15 rules 6.70 .. 36.73 pct (deskew 0.0) and vertical rules 6.33 / 15.97 / 24.82 / 53.40 giving Date 6.33-15.97, AMOUNT 15.97-24.82, Payable 24.82-53.40. Bands 1-5 are the five data rows, band 6 is blank, band 7 is the ledger's own total row '$6,611.19'. ⚠ ONE FAINT RULE AT ~22.7 PCT WAS NOT DETECTED, so stored band 8 [20.75, 24.70] is a DOUBLE band spanning two printed rows; it lies below every transcribed row and below the total row, so no row index in this record is affected - recorded here rather than silently patched. PROOF at 900 dpi with --value: first transcribed band pct:15.97,6.70,8.85,2.03@p5 rendered '$150.00' (recorded 150.00); last transcribed band pct:15.97,14.68,8.85,2.05@p5 rendered '$705.09' (recorded 705.09); the §B5 one-past-the-end control pct:15.97,16.73,8.85,1.97@p5 rendered an EMPTY boxed cell."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 3,
+    "date": "12/5/2013",
+    "donor_raw": "Heather Jackson",
+    "amount": "2000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "$2,000 printed without cents. TWO things about this row are documented, not repaired: the date 12/5/2013 falls in the year BEFORE the 2014 cycle (well-formed but early - kept verbatim), and the donor is THE CANDIDATE HERSELF. It is on the contributions ledger and the cover's line 1 Column A only closes WITH it, so the ladder makes it an itemized contribution row - the loan/self-funding question decided by arithmetic, never by wording. the filer did NOT use the county's Schedule A form: this is his own typed ledger, whose columns are Date / Amount / Donor and which HAS NO ADDRESS COLUMN AT ALL. donor_city/donor_state are therefore blank because the document carries no address field whatever - not redacted by the county (this filing is unredacted), not left empty by the filer in a cell that exists, and no zip was converted."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 4,
+    "date": "1/30/2014",
+    "donor_raw": "Oquirrh Wood Ranch, LLC",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "$1,000 printed without cents the filer did NOT use the county's Schedule A form: this is his own typed ledger, whose columns are Date / Amount / Donor and which HAS NO ADDRESS COLUMN AT ALL. donor_city/donor_state are therefore blank because the document carries no address field whatever - not redacted by the county (this filing is unredacted), not left empty by the filer in a cell that exists, and no zip was converted."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 5,
+    "date": "2/10/2014",
+    "donor_raw": "Richard Jaussi",
+    "amount": "5",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "$5 - the smallest contribution in this chunk. The same name appears on this filing's OWN Schedule B as a payee of three large sums; that is noted as an observation only and nothing was carried across schedules (cross-schedule corroboration is not admissible). the filer did NOT use the county's Schedule A form: this is his own typed ledger, whose columns are Date / Amount / Donor and which HAS NO ADDRESS COLUMN AT ALL. donor_city/donor_state are therefore blank because the document carries no address field whatever - not redacted by the county (this filing is unredacted), not left empty by the filer in a cell that exists, and no zip was converted."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 6,
+    "date": "2/13/2014",
+    "donor_raw": "GSF - Riverton Preschool, LLC",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "$500 printed without cents the filer did NOT use the county's Schedule A form: this is his own typed ledger, whose columns are Date / Amount / Donor and which HAS NO ADDRESS COLUMN AT ALL. donor_city/donor_state are therefore blank because the document carries no address field whatever - not redacted by the county (this filing is unredacted), not left empty by the filer in a cell that exists, and no zip was converted."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 7,
+    "date": "3/1/2014",
+    "donor_raw": "J. Kent Millington",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "$100 printed without cents the filer did NOT use the county's Schedule A form: this is his own typed ledger, whose columns are Date / Amount / Donor and which HAS NO ADDRESS COLUMN AT ALL. donor_city/donor_state are therefore blank because the document carries no address field whatever - not redacted by the county (this filing is unredacted), not left empty by the filer in a cell that exists, and no zip was converted."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 8,
+    "date": "3/5/2014",
+    "donor_raw": "Disaster Professionals, LLC",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "$500 printed without cents the filer did NOT use the county's Schedule A form: this is his own typed ledger, whose columns are Date / Amount / Donor and which HAS NO ADDRESS COLUMN AT ALL. donor_city/donor_state are therefore blank because the document carries no address field whatever - not redacted by the county (this filing is unredacted), not left empty by the filer in a cell that exists, and no zip was converted."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 9,
+    "date": "3/20/2014",
+    "donor_raw": "James  & Tana Evans",
+    "amount": "1000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "$1,000 printed without cents. The ledger prints TWO spaces between 'James' and '&' and that spacing is kept verbatim. NOTE a corroboration of the wave's independent reads, used as a check only: Gary Anderson's 2014 filing in this same chunk records a $500 contribution from 'James & Tayna Evans' - two filers, two spellings of the same couple's name, transcribed as each page prints it and neither normalised to the other. the filer did NOT use the county's Schedule A form: this is his own typed ledger, whose columns are Date / Amount / Donor and which HAS NO ADDRESS COLUMN AT ALL. donor_city/donor_state are therefore blank because the document carries no address field whatever - not redacted by the county (this filing is unredacted), not left empty by the filer in a cell that exists, and no zip was converted."
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 10,
+    "date": "3/22/2014",
+    "donor_raw": "Mark Morris",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "$50 printed without cents the filer did NOT use the county's Schedule A form: this is his own typed ledger, whose columns are Date / Amount / Donor and which HAS NO ADDRESS COLUMN AT ALL. donor_city/donor_state are therefore blank because the document carries no address field whatever - not redacted by the county (this filing is unredacted), not left empty by the filer in a cell that exists, and no zip was converted."
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 11,
+    "date": "3/25/2014",
+    "donor_raw": "Tracy & Patricia Lunt",
+    "amount": "2000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "$2,000 printed without cents the filer did NOT use the county's Schedule A form: this is his own typed ledger, whose columns are Date / Amount / Donor and which HAS NO ADDRESS COLUMN AT ALL. donor_city/donor_state are therefore blank because the document carries no address field whatever - not redacted by the county (this filing is unredacted), not left empty by the filer in a cell that exists, and no zip was converted."
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 12,
+    "date": "3/28/2014",
+    "donor_raw": "Ethan Shumway",
+    "amount": "35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "$35 printed without cents the filer did NOT use the county's Schedule A form: this is his own typed ledger, whose columns are Date / Amount / Donor and which HAS NO ADDRESS COLUMN AT ALL. donor_city/donor_state are therefore blank because the document carries no address field whatever - not redacted by the county (this filing is unredacted), not left empty by the filer in a cell that exists, and no zip was converted."
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 13,
+    "date": "4/2/2014",
+    "donor_raw": "Ron Dean",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "$100 printed without cents the filer did NOT use the county's Schedule A form: this is his own typed ledger, whose columns are Date / Amount / Donor and which HAS NO ADDRESS COLUMN AT ALL. donor_city/donor_state are therefore blank because the document carries no address field whatever - not redacted by the county (this filing is unredacted), not left empty by the filer in a cell that exists, and no zip was converted."
+   },
+   {
+    "line_no": "12",
+    "page": 3,
+    "row": 14,
+    "date": "4/13/2014",
+    "donor_raw": "Mark Ridley",
+    "amount": "400",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "$400 printed without cents. Last written entry: bands 15-17 are blank, band 18 is the ledger's own 'Total $7,690' row, and the one-past-the-end control crop of band 15 rendered EMPTY. the filer did NOT use the county's Schedule A form: this is his own typed ledger, whose columns are Date / Amount / Donor and which HAS NO ADDRESS COLUMN AT ALL. donor_city/donor_state are therefore blank because the document carries no address field whatever - not redacted by the county (this filing is unredacted), not left empty by the filer in a cell that exists, and no zip was converted."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 3,
+    "date": "12/9/2013",
+    "vendor_raw": "Target",
+    "amount": "60.81",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 4,
+    "date": "12/9/2013",
+    "vendor_raw": "Chef's Table",
+    "amount": "43.33",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 5,
+    "date": "12/18/2013",
+    "vendor_raw": "Salt Lake Mailing",
+    "amount": "623.27",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 6,
+    "date": "12/20/2013",
+    "vendor_raw": "Texas Roadhouse",
+    "amount": "90.26",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 7,
+    "date": "1/13/2014",
+    "vendor_raw": "Harvest Restaurant",
+    "amount": "22.32",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 8,
+    "date": "1/15/2014",
+    "vendor_raw": "Chevron",
+    "amount": "61.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 9,
+    "date": "1/15/2014",
+    "vendor_raw": "Zupas",
+    "amount": "22.35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 10,
+    "date": "1/16/2014",
+    "vendor_raw": "Kneaders",
+    "amount": "16.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "9",
+    "page": 4,
+    "row": 11,
+    "date": "1/20/2014",
+    "vendor_raw": "Carma Gray",
+    "amount": "55.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "10",
+    "page": 4,
+    "row": 12,
+    "date": "1/21/2014",
+    "vendor_raw": "Chili's",
+    "amount": "14.61",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "11",
+    "page": 4,
+    "row": 13,
+    "date": "2/3/2014",
+    "vendor_raw": "Utah County Republican Party",
+    "amount": "522.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "12",
+    "page": 4,
+    "row": 14,
+    "date": "2/4/2014",
+    "vendor_raw": "Capitol Dining",
+    "amount": "7.28",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "13",
+    "page": 4,
+    "row": 15,
+    "date": "2/6/2014",
+    "vendor_raw": "Richard Jaussi",
+    "amount": "373.39",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the same name appears on this filing's own Schedule A as a $5 donor; observed, not carried the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "14",
+    "page": 4,
+    "row": 16,
+    "date": "2/8/2014",
+    "vendor_raw": "Walmart",
+    "amount": "14.88",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "15",
+    "page": 4,
+    "row": 17,
+    "date": "2/12/2014",
+    "vendor_raw": "Republican Women of Utah Valley",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "16",
+    "page": 4,
+    "row": 18,
+    "date": "2/12/2014",
+    "vendor_raw": "Mimi's Cafe",
+    "amount": "12.55",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "17",
+    "page": 4,
+    "row": 19,
+    "date": "2/21/2014",
+    "vendor_raw": "Texaco",
+    "amount": "61.90",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "18",
+    "page": 4,
+    "row": 20,
+    "date": "2/25/2014",
+    "vendor_raw": "Capitol Dining",
+    "amount": "5.42",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "19",
+    "page": 4,
+    "row": 21,
+    "date": "3/3/2014",
+    "vendor_raw": "American Fork Chamber",
+    "amount": "15.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "20",
+    "page": 4,
+    "row": 22,
+    "date": "3/12/2014",
+    "vendor_raw": "Mimi's Cafe",
+    "amount": "9.54",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "21",
+    "page": 4,
+    "row": 23,
+    "date": "3/13/2014",
+    "vendor_raw": "Salt Lake Mailing",
+    "amount": "632.60",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "22",
+    "page": 4,
+    "row": 24,
+    "date": "3/14/2014",
+    "vendor_raw": "Utah County Clerk's Office",
+    "amount": "569.48",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "THIRD-PARTY CROSS-CHECK: Gary J. Anderson's 2014 filing in this same chunk independently records 569.48 paid on 3/14/14 and labelled 'Utah County Filing Fee'. Two filers, two documents, two independent transcriptions, the same figure and the same date - a corroboration signal for the 2014 Utah County candidate filing fee, used as a check and never as a source. the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "23",
+    "page": 4,
+    "row": 25,
+    "date": "3/24/2014",
+    "vendor_raw": "Paradise Bakery",
+    "amount": "9.35",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "24",
+    "page": 4,
+    "row": 26,
+    "date": "3/25/2014",
+    "vendor_raw": "Walmart",
+    "amount": "25.26",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "25",
+    "page": 4,
+    "row": 27,
+    "date": "3/26/2014",
+    "vendor_raw": "Smith's",
+    "amount": "29.91",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "26",
+    "page": 4,
+    "row": 28,
+    "date": "3/26/2014",
+    "vendor_raw": "Wendy's",
+    "amount": "7.69",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "27",
+    "page": 4,
+    "row": 29,
+    "date": "3/27/2014",
+    "vendor_raw": "Chick-Fil-A",
+    "amount": "17.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "28",
+    "page": 4,
+    "row": 30,
+    "date": "3/28/2014",
+    "vendor_raw": "Smith's",
+    "amount": "61.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "29",
+    "page": 4,
+    "row": 31,
+    "date": "3/29/2014",
+    "vendor_raw": "Chick-Fil-A",
+    "amount": "34.64",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "30",
+    "page": 4,
+    "row": 32,
+    "date": "3/29/2014",
+    "vendor_raw": "Little Ceasars",
+    "amount": "28.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "spelled 'Ceasars' by the filer; kept verbatim the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "31",
+    "page": 4,
+    "row": 33,
+    "date": "3/29/2014",
+    "vendor_raw": "McDonalds",
+    "amount": "5.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "32",
+    "page": 4,
+    "row": 34,
+    "date": "3/31/2014",
+    "vendor_raw": "Chevron",
+    "amount": "62.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "33",
+    "page": 4,
+    "row": 35,
+    "date": "4/2/2014",
+    "vendor_raw": "Chevron",
+    "amount": "44.01",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "34",
+    "page": 4,
+    "row": 36,
+    "date": "4/3/2014",
+    "vendor_raw": "Casa Salza LLC",
+    "amount": "11.14",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "35",
+    "page": 4,
+    "row": 37,
+    "date": "4/7/2014",
+    "vendor_raw": "Walkers",
+    "amount": "51.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "36",
+    "page": 4,
+    "row": 38,
+    "date": "4/7/2014",
+    "vendor_raw": "Utah County Republican Party",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "37",
+    "page": 4,
+    "row": 39,
+    "date": "4/9/2014",
+    "vendor_raw": "Costco",
+    "amount": "96.01",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "38",
+    "page": 4,
+    "row": 40,
+    "date": "4/9/2014",
+    "vendor_raw": "Chick-Fil-A",
+    "amount": "15.82",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "39",
+    "page": 4,
+    "row": 41,
+    "date": "4/9/2014",
+    "vendor_raw": "Walmart",
+    "amount": "5.31",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "40",
+    "page": 4,
+    "row": 42,
+    "date": "4/10/2014",
+    "vendor_raw": "Maverik",
+    "amount": "46.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "last row on p4 - the printed grid ends at this band and the ledger continues on p5 the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "41",
+    "page": 5,
+    "row": 1,
+    "date": "4/11/2014",
+    "vendor_raw": "Utah County Republican Women",
+    "amount": "150.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "first row on the p5 continuation sheet, which carries NO header row - the table simply resumes the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "42",
+    "page": 5,
+    "row": 2,
+    "date": "4/11/2014",
+    "vendor_raw": "Fresh Market",
+    "amount": "47.57",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "43",
+    "page": 5,
+    "row": 3,
+    "date": "4/11/2014",
+    "vendor_raw": "Wendy's",
+    "amount": "16.68",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "44",
+    "page": 5,
+    "row": 4,
+    "date": "4/14/2014",
+    "vendor_raw": "Richard Jaussi",
+    "amount": "1836.54",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "printed '$1,836.54'; thousands separator dropped the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   },
+   {
+    "line_no": "45",
+    "page": 5,
+    "row": 5,
+    "date": "4/21/2014",
+    "vendor_raw": "Richard Jaussi",
+    "amount": "705.09",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "last written entry on the ledger; band 6 is blank and band 7 is the ledger's own total '$6,611.19', both confirmed by crop the filer's own typed ledger has columns Date / Amount / Payable and NO Purpose column, so purpose is honestly blank; it carries no address column either, and expenditure rows hold no address field in any case"
+   }
+  ],
+  "notes": "PAGE-FACE candidate 'Heather Jackson' - index.csv names NO filer for this row, so the page face fills an empty channel label. Page-face office 'County Commission Seat B', which agrees with the channel. Report type ticked '30 Days after withdraw or elimination'; amendment ticked 'No'; party 'Republican'; date '6 May 2014' (day-month-year in words, the same unusual form Guernsey uses in this chunk). FIVE pages, each classified from its own printed heading: p1 the 2014 cover (Utah County Code 2-5), p2 'SUMMARY PAGE', p3 the filer's OWN TYPED LEDGER captioned 'Schedule A | Contributions', p4 the same ledger captioned 'Schedule B | Expenditures', p5 its unheaded CONTINUATION sheet. ⚠ THE COUNTY'S SCHEDULE A AND SCHEDULE B FORMS ARE NOT USED AT ALL - the sides are still 'transcribed' because what is missing is the county's FORM, not the filer's entries (the §A2 precedent, and this is a second, cleaner instance of it: a portrait boxed spreadsheet rather than a skewed landscape one). Consequences worth carrying: the ledger has columns Date / Amount / Donor|Payable and NO ADDRESS COLUMN AND NO PURPOSE COLUMN, so every donor city/state and every purpose on this filing is blank BECAUSE THE DOCUMENT HAS NO SUCH FIELD - a distinct cause from redacted-by-the-county, left-empty-by-the-filer, form-prints-a-zip-and-no-city, and lost-in-reproduction, and the fifth such cause now on record. Both sides close exactly on the promoted per-period Column A cell and on the filer's own printed ledger totals. Summary line 3 (Balance at Beginning) is an EMPTY CELL - not a zero glyph, not a dash - and was left blank. Four of the 45 expenditure rows and one of the 12 contribution rows are dated in DECEMBER 2013, before the cycle year: well-formed, early, kept verbatim. PRIVACY: this filing is unredacted and the candidate's own street address is legible on the cover; none of it was carried, and the ledgers themselves contain no address to reduce."
+ }
+]

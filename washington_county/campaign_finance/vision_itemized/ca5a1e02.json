@@ -1,0 +1,110 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W12.json",
+ "key": "ca5a1e02",
+ "index_path": "raw/wayback_forms2020/Commission Seat C_Robert V Love_October 26 2020_10-27-2020.pdf",
+ "applies_to": [
+  "raw/wayback_forms2020/Commission Seat C_Robert V Love_October 26 2020_10-27-2020.pdf"
+ ],
+ "sha256_prefix": "d4b986879720be5e",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "-0-",
+    "cover_over50_this": "-0-",
+    "cover_over50_cum": "-0-",
+    "cover_le50_this": "-0-",
+    "cover_le50_cum": "3.00",
+    "schedule_total": "-0-"
+   },
+   "itemized": "",
+   "basis": "cover-line1 (all three cells are zero glyphs) and Form A's printed TOTAL (also a zero glyph)",
+   "result": "unknown",
+   "scope": "cumulative",
+   "detail": "Form A carries EXACTLY ONE inked row -- 8/15/20, 'Independant American Party', In Kind? = 'Yes' -- and its amount cell holds a BARE DASH. Per the repo zero-glyph ruling a bare dash is BLANK, not zero, so the row has no value to sum and no itemized figure can be claimed. The printed schedule TOTAL and all three cover line-1 cells are slashed-zero glyphs (= 0). Whether the filer valued this in-kind gift at zero or simply never valued it cannot be determined from the page, so the side's reconciliation is honestly 'unknown' rather than a manufactured 0 = 0. NOTE the $3.00 on cover line 2 is the sub-$50 AGGREGATE (LAST 3.00, THIS zero glyph, CUM 3.00) and is never itemized -- it must not be compared against Form A. First report shown in the cycle for line 1 (all LAST cells zero), so scope recorded cumulative."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "-0-",
+    "cover_expense_this": "-0-",
+    "cover_expense_cum": "-0-",
+    "cover_balance_end": "3.00",
+    "schedule_total": "-0-"
+   },
+   "itemized": "",
+   "basis": "cover-line3 (all zero glyphs) and Form B's printed TOTAL (zero glyph)",
+   "result": "unknown",
+   "scope": "cumulative",
+   "detail": "Form B carries EXACTLY ONE inked row, the mirror of the Form A row: 8/15/20, 'Independant American Party', purpose 'campaign signs 200 count', and in the AMOUNT column the filer wrote the WORDS 'In-Kind donation' instead of a figure. That is not a numeral, so the amount is blank and the side cannot be summed. Printed TOTAL and all cover line-3 cells are zero glyphs."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: printed TOTAL is a zero glyph; the single row's amount is a bare dash (blank) -- nothing to sum, so the gate cannot be run either way. p3: identical (printed TOTAL a zero glyph, the single amount cell holds words). Both figures named; no value invented.",
+  "row_count": "p2 rowbands.py geometry_status=gaps, 33 bands over the ~35-line ruled grid; exactly ONE inked row, emitted as one row -- its contributor name WRAPS onto the next ruled line ('Party'), which is a continuation of row 1 and NOT a second row (the amount and In Kind? cells of that band are empty). p3 identical: 33 bands, one inked row whose payee name wraps onto the following line.",
+  "geometry_proof": "p2 600dpi crop of the row-1 band renders '8/15/20 | Independant American | $ - | Yes'; the control crop one row-pitch below renders only the wrapped word 'Party' with EMPTY amount and In Kind? cells, confirming the row index is not shifted. p3 row-1 crop renders '8/15/20 | Independant American | campaign signs 200 count | $ In-Kind donation'.",
+  "balance_chain": "0 (over-$50) + 3.00 (sub-$50 aggregate, cumulative) - 0 (expenses) = 3.00, exactly the printed line-4 CUMULATIVE balance -- closes. The cover's THIS-REPORT balance cell is left blank by the filer. No earlier filing by this filer in this chunk, so no cross-filing cumulative chain could be run."
+ },
+ "escalations": 3,
+ "escalation_note": "p2 row-1 band and a control band at 600dpi; p3 row-1 band at 600dpi",
+ "notes": "Generation 2 county-branded form, the 'Washington County Code 1-7-1' printing (no logo). THE DOCUMENT DOES NOT STATE ITS OFFICE: the 'Office' line is left completely blank, as are 'Representative District' and the 'TO ___ County Clerk' line, so the chunk file's 'Commission Seat C' could NOT be confirmed at the page -- flagging loudly. 'In the ___ School District' is filled 'Washington County', a form-line filler; nothing on the page indicates a school-board race and the form is the county candidate report, so it is treated as in scope. THE FILER PUT THE WORD 'Utah' IN THE ZIP FIELD (City 'Hurricane', then ', Utah, ZIP: Utah') -- recorded here only as an oddity; the city is Hurricane and no ZIP exists to discard. IN-KIND WITHOUT A VALUE: the single transaction is one in-kind gift of campaign signs from the Independant American Party (the filer's own spelling), recorded on BOTH schedules with no dollar figure anywhere -- Form A's amount is a bare dash, Form B's amount cell holds the words 'In-Kind donation'. Both rows are published with blank amounts and needs_review. Candidate street address and home phone discarded at read time.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-08-15",
+   "donor_raw": "Independant American Party",
+   "donor_city": "",
+   "donor_state": "",
+   "amount": "",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=none;in_kind=high",
+   "verified": 1,
+   "geometry": "pct:72.19,12.92,11.79,1.84@p2",
+   "note": "amount cell holds a BARE DASH -- blank per the zero-glyph ruling, NOT zero. In Kind? column answered 'Yes' in full. Donor name is the filer's own spelling ('Independant'); it wraps onto the next ruled line ('Party') and that line is NOT a second row. Address cell left empty by the filer."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2020-08-15",
+   "vendor_raw": "Independant American Party",
+   "purpose": "campaign signs   200 count",
+   "amount": "",
+   "in_kind": true,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=none",
+   "verified": 1,
+   "geometry": "pct:72.09,12.77,20.00,1.87@p3",
+   "note": "the AMOUNT cell contains the words 'In-Kind donation', not a figure -- amount left blank. in_kind set true on the strength of that explicit label (Form B on this generation has no in-kind column). The quantity glyph reads '200 count'; a 2/3 first digit is possible, hence medium. Payee name wraps onto the next ruled line ('Party') and that line is not a second row."
+  }
+ ]
+}

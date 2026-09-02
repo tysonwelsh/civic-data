@@ -19,8 +19,9 @@ regional 977 / state 1,208; **vote 247,459** member-vote rows — city 180,980 /
 38,592 / regional 0 (tally-only by source) / state 27,887), the normalization layer
 (**motion_std 77,353**), elections (**election_race 688** audited races +
 **election_result 5,482** SLCo SOVC tallies), campaign finance (**cf_contribution
-19,685** / cf_expenditure 15,750 / cf_filing 1,889 / **cf_cycle 805** — the only
-sanctioned per-candidate totals), comments (**14,202**), ordinances (**7,550**, 5,480
+65,043** / cf_expenditure 48,220 / cf_filing 4,090 / **cf_cycle 805** (cities) +
+**cf_cycle_county 1,008** (counties) — the two sanctioned per-candidate totals, and two
+DIFFERENT measurements), comments (**14,202**), ordinances (**7,550**, 5,480
 motion-linked), the document catalog (**54,702**), rosters (**term 641**), regional
 projects (**regional_project 5,717** + project_vintage 3,453 + project_history 1,884),
 projections (**10,952**), development pipeline (869), GIS catalog (173), and the FTS5
@@ -69,11 +70,34 @@ motion_std rows BY DESIGN (see its `motion-std-deferred` caveat).
 RCV cities: take winners here, not from tallies) · `election_result` 5,482 (SLCo SOVC
 candidate×contest tallies 2007–2025; `rank_in_contest` is plurality order).
 
-**Campaign finance**: `cf_filing` 1,889 → `cf_contribution` 19,685 / `cf_expenditure`
-15,750 → `cf_cycle` 805 (the ONLY sanctioned per-candidate totals — filings overlap) ·
-`cf_candidate_person` 659 (212 person-matched). Structured rows carry donor
+**Campaign finance**: `cf_filing` 3,949 → `cf_contribution` 51,937 / `cf_expenditure`
+39,699 → the TWO cycle rollups (never sum `cf_filing` dollar columns — filings overlap) ·
+`cf_candidate_person` 1,403 (229 person-matched). Structured rows carry donor
 city/state only — never street addresses. Coverage: 29 of 31 cities (see the
-`cf-coverage` caveat; slc portal-blocked, draper unstructured).
+`cf-coverage` caveat; slc portal-blocked, draper unstructured) + all 8 counties.
+
+- **`cf_cycle` 805 — CITY ONLY.** `max(latest summary, summed interims)` of stated totals
+  per (candidate, election_year); `basis` ∈ summary | sum-interim | single | max-mixed |
+  override. No carryover concept, no governing-filing provenance, no gap rows.
+- **`cf_cycle_county` 1,008 — the COUNTY tier** (built 2026-08-23, regenerated 2026-09-01
+  after the salt_lake_county W2 wave,
+  `scripts/campaign_finance/COUNTY_CYCLE_REDUCER_SPEC.md`). One row per county
+  candidate-cycle, derived from THAT CYCLE'S OWN PRINTED ARITHMETIC via a balance-chain
+  closure proof (`BB_first + ΣC − ΣE == EB_last` within $0.51). **657 rows publish a figure;
+  351 are honest GAP rows** — blank `raised_gross` + a `gap_reason`, which is a GAP and
+  never a zero. Columns beyond the city set: `regime` (per-period | cumulative | *-single |
+  undetermined) + `regime_basis`; `carryover_opening` **separated and never folded into the
+  raised figure**, with `raised_net_of_carryover` deliberately BLANK for cumulative cycles
+  (owner ruling 2026-08-23 — the opening-balance column's semantics is not stable across
+  filings, so one blanket subtraction would be wrong); `is_floor`=1 on **222 rows whose
+  published number is a provable LOWER BOUND, not a total**; `chain_closes` / `chain_len`;
+  `governing_filings` (the reproducibility contract — every figure is re-derivable from
+  exactly those filings and nothing else) and `excluded_filings`; an ADVISORY
+  `itemized_check_*` that never gates. Tiers: A 112 · A-superseded 66 · B 281 · C 198 ·
+  GAP 351. Read the `cf-cycle-tiers` and `cf-cycle-county-method` caveat rows first.
+  **DERIVED** — regenerate with
+  `python3 scripts/campaign_finance/cycle_totals_county.py --all`; corrections go in
+  `<county>/campaign_finance/cycle_overrides_county.csv`, never as edits to the CSV.
 
 **Documents & text**: `document` 54,686 (doc_type × dataset catalog with
 has_text/text_path) · `ordinance` 7,550 (`motion_resolution='unique'` rows carry a
@@ -91,7 +115,7 @@ UDOT ePM `pin`; 4 caveat rows guard the semantics) · `projection` 10,952 (count
 regional city-area annual 2019–2050 9,832 / state 140) · `development_application` 869 ·
 `gis_layer` 173 (with per-layer license).
 
-**Apparatus**: `caveat` 104 (see below) · `build_info` 100 (built_at, per-layer counts,
+**Apparatus**: `caveat` 105 (see below) · `build_info` 100 (built_at, per-layer counts,
 join rates — the numeric source of truth).
 
 ## Search layer (FTS5)
@@ -116,7 +140,7 @@ statutes use a 40-char floor (short sections are real law) while other docs keep
 200-char stub guard; the only remaining unindexed ut_state items are the 2 image-only
 advisory opinions (#142/#145 — no text exists).
 
-## The `caveat` table (104 rows) — what it protects against
+## The `caveat` table (108 rows) — what it protects against
 
 `(city, dataset, code, caveat)`; `'*'` = applies across that axis. Every measurement
 ceiling — tally-only and dissent-only recording, vote-vocabulary limits, coverage floors,
@@ -149,6 +173,12 @@ at least one row (back-filled 2026-07-31). `v_coverage` prints the full text per
 - **`v_council_current`** — who serves now (193 seats / 31 entities); from `term`.
 - **`v_term_provenance`** — per-city roster confidence mix.
 - **`v_election_city`** — per-city audited race view over `election_race`.
+- **`v_cf_cycle_all`** — the deliberate cross-tier door over campaign finance: `cf_cycle`
+  (cities) UNION ALL `cf_cycle_county` (counties), with `gov_level`, `carryover_opening`,
+  `basis`/`regime`, `is_floor` and the `cf-cycle-tiers` caveat text on EVERY row. **The two
+  halves are different measurements** — read `basis`/`regime` and `is_floor` before ranking
+  a city figure against a county one. County GAP rows are excluded here (a gap is not a
+  total); ask coverage questions of `cf_cycle_county` itself.
 
 ## Example queries
 
@@ -231,7 +261,16 @@ JOIN cf_candidate_person cp
   ON cp.city = cc.city AND cp.candidate = cc.candidate AND cp.person_id IS NOT NULL
 WHERE cc.donor_type = 'business'
 GROUP BY cc.city, cc.candidate;
--- per-candidate/race TOTALS must come from cf_cycle, never cf_filing sums.
+-- per-candidate/race TOTALS must come from a cycle table, never cf_filing sums.
+
+-- "Who raised the most for county mayor?" — one query since 2026-08-23.
+SELECT city, candidate, election_year, raised_gross, carryover_opening,
+       regime, confidence, is_floor
+FROM cf_cycle_county
+WHERE office LIKE '%Mayor%' AND raised_gross IS NOT NULL
+ORDER BY raised_gross DESC LIMIT 10;   -- Ben McAdams (SLCo) 2012, $906,913.53
+-- is_floor=1 means a LOWER BOUND, not a total. carryover_opening is money carried IN,
+-- reported separately and NEVER included in raised_gross.
 ```
 
 **Projections + regional projects** (the data-forward tiers):

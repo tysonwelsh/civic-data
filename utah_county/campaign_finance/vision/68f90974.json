@@ -3,7 +3,10 @@
  "key": "68f90974",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:20:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13)",
@@ -50,9 +53,277 @@
     "balance_beginning": "high",
     "balance_close": "high"
    },
-   "unreadable": ["expend_cumulative", "line2_total_expenditures_colB"],
+   "unreadable": [
+    "expend_cumulative",
+    "line2_total_expenditures_colB"
+   ],
    "notes": "Handwritten. LINE 2 COLUMN B IS NOT FULLY READABLE: the dollar part reads '28,634' clearly but the raised superscript cents are a smudged two-character mark that cannot be resolved (it is over-written and crossed by the filer's underline), so the field is left empty and flagged unreadable rather than guessed - the '28,634' dollars are recorded here in the notes only. Cents elsewhere are written as raised superscripts and transcribed in decimal form; whole-dollar figures are written with a trailing dash ('8,550-'), reproduced without it. Same filer as key 672dd5a2 (the June 2016 pre-primary report); the cover name here is 'R. Nathan Ivie' while the verification line reads 'Nathan Ivie'. The summary page's Page / Last Name / Date of Report header box was left entirely blank; its printed header reads '2016 County & Local School Board Candidates' (form boilerplate - the Office Seeking line is a county commission seat). Clerk received stamp NOV 1 AM 7:5x."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "6/24",
+   "donor_raw": "David Hinkins",
+   "donor_city": "Ferron",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.90,18.00,9.46,3.77@p3",
+   "geometry_frame": "p3 axis=y cell=80.90-90.36 rowband=18.00-21.77 (1 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the filer gives a post-office-box line rather than a street; only city/state are carried (PRIVACY). Ferron is in EMERY County \u2014 an out-of-county donor, and the donor shares a name with a sitting state senator, which is NOT asserted here. DATE HAS NO YEAR \u2014 the filer wrote only month/day ('6/24') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. The amount is written as whole dollars followed by a RAISED DASH in the cents position (the filer's .00)."
+  },
+  {
+   "line_no": "2",
+   "date": "6/24",
+   "donor_raw": "Ben Markham",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.90,21.77,9.46,3.76@p3",
+   "geometry_frame": "p3 axis=y cell=80.90-90.36 rowband=21.77-25.53 (2 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the address is written on TWO lines inside this row's own cell \u2014 city/state/zip above, street below \u2014 a same-cell wrap, not a continuation row (the amount and the whole address stay in band 2). DATE HAS NO YEAR \u2014 the filer wrote only month/day ('6/24') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. The amount is written '2000' with no comma and no cents mark."
+  },
+  {
+   "line_no": "3",
+   "date": "6/24",
+   "donor_raw": "Creative Stream",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "3250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.90,25.53,9.46,3.78@p3",
+   "geometry_frame": "p3 axis=y cell=80.90-90.36 rowband=25.53-29.31 (3 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "a VENDOR that also appears four times on this filing's Schedule B (Video Production / Video Promotion) \u2014 the same name on both sides is recorded as the document prints it and nothing is inferred across schedules (ruling C3). DATE HAS NO YEAR \u2014 the filer wrote only month/day ('6/24') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. The amount is written as whole dollars followed by a RAISED DASH in the cents position (the filer's .00)."
+  },
+  {
+   "line_no": "4",
+   "date": "6/24",
+   "donor_raw": "Madsen for Senate",
+   "donor_city": "Lehi",
+   "donor_state": "UT",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.90,29.31,9.46,3.76@p3",
+   "geometry_frame": "p3 axis=y cell=80.90-90.36 rowband=29.31-33.07 (4 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "a legislative candidate committee; the address cell is a post-office box, so city/state only. DATE HAS NO YEAR \u2014 the filer wrote only month/day ('6/24') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. The amount is written as whole dollars followed by a RAISED DASH in the cents position (the filer's .00)."
+  },
+  {
+   "line_no": "5",
+   "date": "10/12",
+   "donor_raw": "Ut. Co. Republican Party",
+   "donor_city": "Orem",
+   "donor_state": "UT",
+   "amount": "750.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.90,33.07,9.46,3.75@p3",
+   "geometry_frame": "p3 axis=y cell=80.90-90.36 rowband=33.07-36.82 (5 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the county party committee, named in the filer's own abbreviation. The address cell is a post-office box, so city/state only. DATE HAS NO YEAR \u2014 the filer wrote only month/day ('10/12') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. The amount is written as whole dollars followed by a RAISED DASH in the cents position (the filer's .00)."
+  },
+  {
+   "line_no": "6",
+   "date": "10/31",
+   "donor_raw": "Craig Smith",
+   "donor_city": "SLC",
+   "donor_state": "ut",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.90,36.82,9.46,3.78@p3",
+   "geometry_frame": "p3 axis=y cell=80.90-90.36 rowband=36.82-40.60 (6 of 6 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the address cell carries a STRUCK-OUT house number with '2328' written above it \u2014 a handwritten correction over a struck value, which governs; only city/state are carried either way. City is written 'SLC' and state 'ut' in the filer's own hand and are recorded exactly so \u2014 the abbreviation is NOT expanded, since only the row's own cell may supply the row's value. DATE HAS NO YEAR \u2014 the filer wrote only month/day ('10/31') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. The amount is written as whole dollars followed by a RAISED DASH in the cents position (the filer's .00)."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "6/22",
+   "vendor_raw": "Mailinach",
+   "purpose": "Mailer",
+   "amount": "6515.45",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "verified": 1,
+   "geometry": "pct:80.87,19.94,9.48,3.76@p4",
+   "geometry_frame": "p4 axis=y cell=80.87-90.35 rowband=19.94-23.70 (1 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "VENDOR NAME IS A DOUBTFUL READ: escalated to a 1200 dpi tight crop, the hand reads 'Mailinach' letter by letter but no such firm is asserted; recorded verbatim as read, confidence low. The amount is not in doubt \u2014 '6,515' with a raised '45'. DATE HAS NO YEAR \u2014 the filer wrote only month/day ('6/22') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. \u26a0 FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position \u2014 the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column \u2014 which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+  },
+  {
+   "line_no": "2",
+   "date": "6/23",
+   "vendor_raw": "Creative Stream",
+   "purpose": "Video Production",
+   "amount": "3250.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.87,23.70,9.48,3.78@p4",
+   "geometry_frame": "p4 axis=y cell=80.87-90.35 rowband=23.70-27.48 (2 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "DATE HAS NO YEAR \u2014 the filer wrote only month/day ('6/23') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. \u26a0 FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position \u2014 the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column \u2014 which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+  },
+  {
+   "line_no": "3",
+   "date": "6/23",
+   "vendor_raw": "Creative Stream",
+   "purpose": "Video Promotion",
+   "amount": "2000.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.87,27.48,9.48,3.73@p4",
+   "geometry_frame": "p4 axis=y cell=80.87-90.35 rowband=27.48-31.21 (3 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "amount written '2,000' with no cents mark. DATE HAS NO YEAR \u2014 the filer wrote only month/day ('6/23') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. \u26a0 FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position \u2014 the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column \u2014 which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+  },
+  {
+   "line_no": "4",
+   "date": "6/24",
+   "vendor_raw": "Maceys",
+   "purpose": "Candy etc.",
+   "amount": "66.30",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.87,31.21,9.48,3.78@p4",
+   "geometry_frame": "p4 axis=y cell=80.87-90.35 rowband=31.21-34.99 (4 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "purpose written 'Candy etc.' \u2014 the filer's own wording, kept. DATE HAS NO YEAR \u2014 the filer wrote only month/day ('6/24') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. \u26a0 FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position \u2014 the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column \u2014 which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+  },
+  {
+   "line_no": "5",
+   "date": "6/29",
+   "vendor_raw": "Richard Jaussi",
+   "purpose": "Robo Calls",
+   "amount": "683.80",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.87,34.99,9.48,3.76@p4",
+   "geometry_frame": "p4 axis=y cell=80.87-90.35 rowband=34.99-38.75 (5 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "dated 6/29, LATER than the row below it (6/28) \u2014 the filer's own ordering, kept in printed row order. DATE HAS NO YEAR \u2014 the filer wrote only month/day ('6/29') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. \u26a0 FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position \u2014 the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column \u2014 which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+  },
+  {
+   "line_no": "6",
+   "date": "6/28",
+   "vendor_raw": "Ring LLC",
+   "purpose": "Robo Calls",
+   "amount": "2938.40",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.87,38.75,9.48,3.77@p4",
+   "geometry_frame": "p4 axis=y cell=80.87-90.35 rowband=38.75-42.52 (6 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the purpose cell is a DITTO MARK (\") repeating 'Robo Calls' from the row above; carried per the filer's own notation (CHUNK_BRIEF \u00a77) and the fact that it was a ditto is recorded here. DATE HAS NO YEAR \u2014 the filer wrote only month/day ('6/28') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. \u26a0 FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position \u2014 the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column \u2014 which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+  },
+  {
+   "line_no": "7",
+   "date": "7/9",
+   "vendor_raw": "Speak by Design",
+   "purpose": "Signs / Printing",
+   "amount": "2227.75",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.87,42.52,9.48,3.74@p4",
+   "geometry_frame": "p4 axis=y cell=80.87-90.35 rowband=42.52-46.26 (7 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "the date cell carries a HEAVILY STRUCK-OUT date followed by '7/9' \u2014 the handwritten correction over the struck value governs, so the operative date is 7/9. Escalated to a 1200 dpi crop; the struck value is scribbled through to illegibility and is NOT reconstructed. DATE HAS NO YEAR \u2014 the filer wrote only month/day ('7/9') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. \u26a0 FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position \u2014 the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column \u2014 which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+  },
+  {
+   "line_no": "8",
+   "date": "10/26",
+   "vendor_raw": "Creative Stream",
+   "purpose": "Video Promotion",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:80.87,46.26,9.48,3.77@p4",
+   "geometry_frame": "p4 axis=y cell=80.87-90.35 rowband=46.26-50.03 (8 of 8 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "DATE HAS NO YEAR \u2014 the filer wrote only month/day ('10/26') on every row of this filing. Kept VERBATIM; a year is NEVER filled in from the report date (CHUNK_BRIEF \u00a77), so the row is flagged for the build to blank. \u26a0 FIELD-ORDER NOTE (addendum F2 class, benign here): this Schedule B's third column is PRINTED 'Mailing Address & Zip Code', but the filer used it for the PURPOSE on every row and gave no vendor address anywhere. The columns were therefore assigned BY CONTENT, not by position \u2014 the payee is read from the 'Name/Nature of Expenditure' column and `purpose` from the address column \u2014 which is what the printed heading 'Name/NATURE of Expenditure' invites. The side is fully assignable, so it is transcribed rather than withheld. Vendor city/state do not exist on this filing, and expenditure rows carry no address field in this schema in any case."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (8,550) on the p2 SUMMARY PAGE, which is also Schedule A's own printed 'Subtotal for this page $8,550' AND its printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $8,550'",
+     "detail": "The 6 Schedule A rows sum to 500.00 + 2000.00 + 3250.00 + 2000.00 + 750.00 + 50.00 = 8,550.00 EXACTLY, equal to the printed page subtotal, the printed schedule total, the cover's PROMOTED per-period Column A cell and the cover's line 4 'Total Contributions Received (From Line 1 Column A)' 8,550. \u26a0 COLUMN B Year-to-Date prints 29,194 \u2014 a DIFFERENT and much larger figure, exactly as the per-period regime predicts; it was NOT summed as an increment and this schedule itemizes only the period. The cover's ladder closes independently: line 3 beginning balance 10,190.80 + line 4 8,550 = line 5 subtotal 18,740.80, minus line 6 18,181.70 = line 7 close 559.10, all as printed."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (18,181.70) on the p2 SUMMARY PAGE, equal to Schedule B's own printed 'Subtotal for this page $18,181.70' and its printed 'Total Expenditures (Sum of subtotals from all Schedule B pages) $18,181.70'",
+     "detail": "The 8 Schedule B rows sum to 6515.45 + 3250.00 + 2000.00 + 66.30 + 683.80 + 2938.40 + 2227.75 + 500.00 = 18,181.70 EXACTLY \u2014 equal to the printed page subtotal, the printed schedule total, the cover's per-period Column A cell and the cover's line 6. Column B Year-to-Date on line 2 is over-written and was flagged unreadable by the cover tranche; it is NOT reconstructed here and NOTHING was differenced across covers to supply it \u2014 the per-period anchor closes on its own."
+    }
+   },
+   "in_kind_convention": "not applicable / both conventions identical \u2014 no in-kind column is printed on either schedule, no row is marked in-kind, and the summary page carries no separate in-kind line, so monetary-only and monetary-plus-in-kind give the same sums (8,550.00 and 18,181.70). Tested, not inherited.",
+   "escalations": 9,
+   "escalation_note": "9 tight --value crops at 1200 dpi: Schedule A's first row, last row and one-past control; Schedule B's first row, last row and one-past control; plus three FIELD escalations that settled legibility only \u2014 Craig Smith's corrected address cell (a struck house number with '2328' written above), the Schedule B row-1 vendor name ('Mailinach', still a doubtful read, left at confidence low), and the Schedule B row-7 struck-out date (scribbled to illegibility, NOT reconstructed; the correction '7/9' governs). No figure was changed by any escalation and both sides closed exactly without one.",
+   "n_contrib_rows": 6,
+   "n_expend_rows": 8,
+   "geometry": {
+    "measured": 14,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "\u26a0 A FOURTH 2016 SHEET VARIANT \u2014 and the SECOND Schedule-B column vocabulary found in this chunk. The cover is the county-&-school-board blank ('Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13', HEART of UTAH letterhead) with 'County & Local School Board Candidates' set vertically down the LEFT margin, but its inner sheets are strap-lined '2016 County & Local School Board CandidateS' \u2014 not the '2016 County Commission & Local School Board Candidate' strapline on Voeks 17bb61d5 and Bowen de1c36cb \u2014 and its SCHEDULE B COLUMN 2 IS HEADED 'Name/Nature of Expenditure', where Bowen's reads 'Expenditure' and Voeks's reuses Schedule A's 'Name of Contributor'. THREE Schedule-B headings and (with Frost 7dbce577) TWO cover blanks are therefore in circulation in ONE cycle and ONE seat. Read the headings off every page \u2014 nothing about the cover predicts the schedules (addendum F6). No variant seen so far prints a Purpose column. 4 pages, all classified by their own printed headings: p1 cover, p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B. FOLIATION: the Page __ of __ / Last Name / Date of Report block is printed on pp2-4 and left WHOLLY BLANK on all three, as on Bowen \u2014 page ordinals locate nothing here. \u26a0 NOT ONE DATE ON EITHER SCHEDULE CARRIES A YEAR. All 14 itemized rows are month/day only ('6/24', '10/12', '7/9'...). Every one is kept VERBATIM and flagged needs_review=1 so the build blanks it \u2014 a year is never filled in from the report date, even though the report date (1 Nov 2016) and the cycle make the year obvious. This is the first filing in the chunk where the whole date column is year-less. PAGE-FACE NAME 'R. Nathan Ivie' (Office Seeking 'Ut. County Commissioner Seat C', party 'Rep.', residence Spanish Fork UT); he signs the verification 'Nathan Ivie'. index.csv names NO candidate for this row, so the page face supplies it \u2014 and note the channel's own labels for this filer differ across his three 2016 filings ('Nathan Ivie' twice, 'R. Nathan Ivie' once). Report type: 'Seven days preceding the General Election'; amendment ticked 'No'; report date written '1 Nov 2016'. \u26a0 THE SAME FILER IS ALSO A DONOR ELSEWHERE IN THIS CYCLE: 'Ronald Nathan Ivie (in-kind donation) 100.00' appears on Casey Voeks's 6/20/16 Schedule A (17bb61d5) at the same Benjamin UT address family. Recorded as an OBSERVATION across two documents; nothing was carried between them. PRIVACY: this filing is NOT redacted; full street lines and box numbers are published in the clear. Reduced to city/state at read time for contributions and dropped entirely for expenditures \u2014 no street line, box number or phone number reached this record. FIELD-SHIFT SCREEN: run on both sides and it CAUGHT SOMETHING on Schedule B \u2014 the filer uses the printed 'Mailing Address & Zip Code' column for the PURPOSE on all 8 rows and records no vendor address at all. The columns are assignable by content (the heading 'Name/NATURE of Expenditure' invites it), so the side is transcribed with purpose read from that column, not withheld. Schedule A's columns are unshifted. Row-index traps: the \u00a7A1 and \u00a7B5 controls passed on both sheets; there is one same-cell address wrap (contribution row 2) that does NOT consume a band, one ditto mark, one struck-and-corrected date and one struck-and-corrected address \u2014 none of which shifts an index."
+  }
+ }
 }

@@ -107,3 +107,91 @@ def payee_raw(row):
     fn = (row.get("PayeeFirstName") or "").strip()
     ln = (row.get("PayeeLastName") or "").strip()
     return re.sub(r"\s+", " ", (fn + " " + ln).strip())
+
+
+# --- globalassets channel (2015-2021 paper-filed county PDFs) -----------------------------
+# The county "Financial Disclosure Report For a Candidate" cover carries a "Type of Report"
+# block whose checkboxes sit under THREE printed headings. Those headings ARE the repo's
+# filing_type vocabulary -- this is the form's own taxonomy, not an inferred one (verified at
+# the page on dekeyzer 2020-04, dole 2016-YE, bradley 2018-amendment, guymon 2018-dissolution,
+# burdick 2020-09; see _audits/2026-08-20-globalassets-harvest/report.md):
+#
+#     INTERIM REPORTS: (Required only during election years)
+#         [ ] April 5   [ ] Seven days before a primary election
+#         [ ] September 15   [ ] Seven days before a general election
+#     YEAR-END REPORT:
+#         [ ] January 31 of each year (Required by all open campaign committees)
+#     FINAL / DISSOLUTION REPORT:
+#         [ ] Final / Dissolution Report
+#     Is this report an amendment?  [ ] Yes (date of report) ____   [ ] No
+#
+# The amendment tick is a SEPARATE question, never a report type.
+REPORT_TYPE_BOXES = {
+    "April 5": ("interim", "INTERIM REPORTS"),
+    "Seven days before a primary election": ("interim", "INTERIM REPORTS"),
+    "September 15": ("interim", "INTERIM REPORTS"),
+    "Seven days before a general election": ("interim", "INTERIM REPORTS"),
+    "Year-End (Jan 31)": ("year-end", "YEAR-END REPORT"),
+    "Final / Dissolution Report": ("final", "FINAL / DISSOLUTION REPORT"),
+    "Final/Dissolution": ("final", "FINAL / DISSOLUTION REPORT"),
+}
+# When two boxes are ticked together (Year-End AND Final/Dissolution is common) the report is
+# the campaign's LAST one, so the final/dissolution class governs.
+_FILING_TYPE_RANK = {"final": 3, "year-end": 2, "interim": 1}
+# Recorded non-box markers in doc_report_type_boxes. A parenthetical "(...)" whole-value is the
+# harvest's record that the document HAS no Type-of-Report block to read.
+_NO_BOX_MARKERS = {"NO BOX CHECKED"}
+
+
+def split_report_type_boxes(boxes):
+    """The checked Type-of-Report box labels recorded verbatim in
+    characterisation.csv:doc_report_type_boxes, as a list. Amendment clauses and explicit
+    no-box markers are dropped (they are not report types). A whole-value parenthetical is a
+    recorded absence and yields []. Raises ValueError on a label that is not a box on the form
+    -- an unrecognised label must stop the build, never be silently classed."""
+    s = (boxes or "").strip()
+    if not s:
+        return []
+    if s.startswith("(") and s.endswith(")"):
+        return []          # e.g. "(dissolution notice - no Type-of-Report box)"
+    segs = [s]
+    for sep in (";", "+", " AND "):
+        segs = [p for seg in segs for p in seg.split(sep)]
+    out = []
+    for seg in (x.strip() for x in segs):
+        if not seg or seg in _NO_BOX_MARKERS or seg.lower().startswith("amendment"):
+            continue
+        if seg not in REPORT_TYPE_BOXES:
+            raise ValueError(
+                f"unrecognised Type-of-Report box label {seg!r} in {boxes!r} -- add it to "
+                "build_lib.REPORT_TYPE_BOXES only after reading it on the form")
+        out.append(seg)
+    return out
+
+
+def filing_type_from_report_boxes(boxes):
+    """filing_type (interim | year-end | final | '') from the verbatim checked-box label(s).
+    '' means the document checks NO Type-of-Report box -- an honest blank, never a guess."""
+    cls = [REPORT_TYPE_BOXES[b][0] for b in split_report_type_boxes(boxes)]
+    if not cls:
+        return ""
+    return max(cls, key=lambda c: _FILING_TYPE_RANK[c])
+
+
+def filing_type_basis(boxes):
+    """Human-readable basis string for filing_type: the form heading(s) the class was read
+    from, or the recorded reason the class is blank."""
+    picked = split_report_type_boxes(boxes)
+    if picked:
+        parts = [f"{REPORT_TYPE_BOXES[b][1]}: {b}" for b in picked]
+        s = " + ".join(parts)
+        if len(picked) > 1:
+            s += " (final/dissolution governs)" if any(
+                REPORT_TYPE_BOXES[b][0] == "final" for b in picked) else ""
+        return "checked box -- " + s
+    s = (boxes or "").strip()
+    if s.startswith("(") and s.endswith(")"):
+        return "no Type-of-Report block to read -- " + s.strip("()")
+    if not s:
+        return "no Type-of-Report box checked"
+    return "no Type-of-Report box checked -- " + s

@@ -1,0 +1,78 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W05.json",
+ "key": "4ed5220e",
+ "index_path": "raw/wayback_forms2018/Oct 23_2018_Kim M Hafen_FCR_10-23-2018.pdf",
+ "applies_to": [
+  "raw/wayback_forms2018/Oct 23_2018_Kim M Hafen_FCR_10-23-2018.pdf"
+ ],
+ "sha256_prefix": "49eaa34bf5e2a09f",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative (== cover-line1-this == cover-line1-last, all zero)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A (p2) is entirely blank and the filer has written a large 'N/A' diagonally across the middle of the schedule - per core sec.3(f) that is the filer STRIKING THE SCHEDULE OUT = an EMPTY SCHEDULE, zero rows, a real zero. All six cover cells on lines 1 and 2 carry the filer's slashed-Oe zero glyph = 0, so every scope agrees at 0 and the scope test cannot discriminate; recorded cumulative. The form's printed TOTAL cell at the foot of Form A was left BLANK by the filer (anchor '' = exists, blank), so the cover is the only usable contribution anchor. Reconciled against cover LINE 1 only, per addendum sec.B; line 2 (the never-itemized $50-or-less aggregate) is reported separately above and is also 0."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "527.00",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "527.00",
+    "cover_balance_end": "(527.00)",
+    "schedule_total": ""
+   },
+   "itemized": "0.00",
+   "basis": "cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "SCOPE TEST FIRES HERE AND THE ANSWER IS 'period'. Form B (p3) is entirely blank with the same large 'N/A' struck across it = empty schedule, zero rows. The cover's Total THIS report expense cell is a slashed-Oe zero = 0, which the zero rows match EXACTLY; the Cumulative cell is 527.00, which they do NOT. So THIS FILER'S LEDGER IS PER-PERIOD, NOT CYCLE-TO-DATE: the $527.00 was itemized on his earlier report of the cycle and is carried forward here only as the 'Totals from Last Report' figure (also 527.00). This is a DIFFERENT SCOPE from the CUMULATIVE column the module publishes - reconciles_* should be left blank for this side, which is not a failure. The Cumulative expense cell reads '527.00' preceded by a blue slashed-Oe-like glyph that appears to be a struck/overwritten false start (the filer wrote a zero, then wrote the real figure beside it); escalated to 1200 dpi - the numeral 527.00 itself is unambiguous."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Neither schedule's printed TOTAL cell was filled in by the filer, so no page subtotal exists to gate against; both pages carry zero rows and the cover lines (0 contributions, 0 expenses THIS report) are the anchors. Nothing failed to gate.",
+  "row_count": "Not applicable in the usual sense: both p2 and p3 are struck-out empty schedules with ZERO inked data cells (verified by eye at 200 dpi over the full page - the only ink on either sheet is the single large 'N/A' across the middle and it spans no row). rowbands.py not needed to count zero rows.",
+  "geometry_proof": "n/a - zero rows emitted on both sides, so there is no row geometry to prove.",
+  "balance_chain": "CLOSES EXACTLY. Cover line 4: Totals from Last Report ( 527.00 ), Totals from This report slashed-Oe = 0, Cumulative ( 527.00 ). Accounting parentheses = negative (core sec.3(g)), i.e. a -527.00 balance. Chain: -527.00 (beginning) + 0 (contributions this) - 0 (expenses this) = -527.00 (ending) - matches the printed cumulative balance. Line 3 chain also closes: 527.00 (last) + 0 (this) = 527.00 (cumulative). No other filing by Kim M Hafen in this cycle is in my chunk, so the cross-filing cumulative->TOTALS-FROM-LAST-REPORT chain could not be run here; note for the orchestrator that the 527.00 'last report' figure implies an EARLIER 2018 Hafen filing exists that should carry a 527.00 cumulative."
+ },
+ "escalations": 1,
+ "escalation_note": "p1 1200 dpi crop of the whole cover line-3 row (LAST / THIS / CUMULATIVE cells) to resolve the glyph preceding '527.00' in the cumulative cell.",
+ "notes": "Chunk file says candidate 'Kim M Hafen', office 'Clerk/Auditor', 2018 - the cover's 'Full Name of Candidate' reads 'KIM M HAFEN' and the 'Office' line reads 'WASHINGTON COUNTY CLERK - AUDITOR'; AGREES, county office, in scope. Reporting period certified on the cover: beginning '4-1-18' STRUCK THROUGH by the filer and replaced with '6/12/18', ending '10/23/18'; signed and dated 10/23/18; clerk RECEIVED stamp OCT 23 2018. PRIVACY: the cover prints the candidate's home street address, city, ZIP, home phone and business phone in the clear - all discarded at read time per core sec.5 and written nowhere in this record. This filing has zero itemized rows on both sides, so it contributes no donor/vendor detail; the value of the record is the scope determination (this filer's schedules are PER-PERIOD) and the balance chain.",
+ "contributions": [],
+ "expenditures": []
+}

@@ -1,0 +1,140 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W03.json",
+ "key": "2d6daad8",
+ "index_path": "raw/live_outpost/06-18-2024-Adam Snow-Commission C_06-20-2024.pdf",
+ "applies_to": [
+  "raw/live_outpost/06-18-2024-Adam Snow-Commission C_06-20-2024.pdf"
+ ],
+ "sha256_prefix": "5260d2c5236c9b54",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": null,
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "8133.10",
+    "schedule_total": "0"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line1-this==cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form A is an EMPTY grid (its first row carries only a light pen strike through each cell, which is a nil mark, not a transaction) and its printed TOTAL CONTRIBUTIONS cell holds a hand-drawn zero - a ZERO GLYPH, so 0 per the repo-wide ruling, with the verbatim glyph noted. The cover's line 1 carries the same hand-drawn zero in all three columns. Rows-sum 0 therefore equals every printed contributions figure on the filing. LAST and THIS are both zero so the scopes coincide; recorded 'cumulative' with the coincidence stated. This form generation has only THREE cover lines and NO '$50.00 or less' aggregate line, so cover_le50_* are null (the field does not exist), and the sub-$50 trap does not arise."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "1286.75",
+    "cover_expense_cum": "1286.75",
+    "cover_balance_end": "8133.10",
+    "schedule_total": "1286.75"
+   },
+   "itemized": "1286.81",
+   "basis": "schedule-total==cover-line2-this==cover-line2-cumulative",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "DELTA OF +0.06, PUBLISHED VERBATIM AND NOT ADJUSTED. The row set is provably COMPLETE - exactly 4 inked rows, confirmed by rowbands' clean 3.11-pct ladder and by a geometry control that renders empty one pitch below row 4 - and it sums to 1,286.81. THREE printed figures disagree with it and AGREE WITH EACH OTHER at 1,286.75: the sheet's own TOTAL EXPENDITURES, the cover's line 2 THIS cell, and the cover's line 2 CUMULATIVE cell. The balance chain also closes exactly on 1,286.75 (9,419.85 - 1,286.75 = 8,133.10), so the filer's summary figures are internally consistent and the discrepancy is localised to a single row's cents. TRACED CAUSE, offered as a reading and NOT applied: line 1 is the candidate filing fee, written '640.26' - unambiguous at 1200 dpi, the final glyph is a looped 6 and not a 0 - whereas the 2024 Washington County filing fee appears elsewhere in this corpus as 640.20, and 640.20 would close the page to the cent. The filer appears to have mis-copied his own receipt onto the schedule while totalling from the correct figure. Per the contract the stated total is never recomputed and no row is adjusted to make it close; needs_review is set on every row of this side. Scope: LAST is zero and THIS equals CUMULATIVE, so this is the first report of the cycle and the scopes coincide - recorded 'cumulative'."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 (Form A): 0 rows, rows-sum 0.00 = printed TOTAL CONTRIBUTIONS (hand-drawn zero) - closes. p3 (Form B): 4 rows sum 640.26 + 550.83 + 20.00 + 75.72 = 1,286.81 versus the printed TOTAL EXPENDITURES 1,286.75 - WOULD NOT GATE. Both figures named here and both kept; every cent group was re-read at 1200 dpi before the delta was accepted (line 2's '83', line 3's superscript '00', line 4's '72' and line 1's '26' all hold at full resolution), and the total cell itself was re-read at 1200 dpi and reads 1286 with superscript 75.",
+  "row_count": "p3 rowbands.py returned geometry_status 'ok' - a clean 22-rule ladder at a 3.11-pct pitch plus 4 vertical rules (15.08 / 40.29 / 65.46 / 90.76) delimiting Date | Person Paid | Purpose | Amount. Rows 1-4 below the header carry ink, everything below is empty to the TOTAL band: 4 rows emitted. p2 (Form A) returned 'ok' likewise, 22 bands, ZERO inked (the first band holds only a light nil strike): 0 rows emitted.",
+  "geometry_proof": "p3 first-row box pct:65.46,25.61,25.30,3.11@p3 renders '640.26'; last-row box pct:65.46,34.93,25.30,3.11@p3 renders '75 (superscript)72'; the control one pitch below (y=38.04) renders EMPTY. Row indices unshifted, and the control is what proves the 4-row set is complete - which is what makes the delta a real filer discrepancy rather than a dropped line.",
+  "balance_chain": "CLOSES EXACTLY on the filer's own figures: beginning balance 9,419.85 + contributions 0 - expenditures 1,286.75 = 8,133.10 = the printed ending balance (THIS and CUMULATIVE cells both 8,133.10). Note what this means for the delta: the cover is self-consistent to the cent, so the 0.06 discrepancy lives in the SCHEDULE's rows, not in the summary. Cross-filing chain: chunk key 2bcac904 is the same filer (there 'K. Adam Snow', here 'Kenneth Adam Snow') but it is the 2025 ANNUAL officeholder report, a different cycle eighteen months later, and its own LAST-REPORT cells (16,875.51) descend from filings not present in this chunk - so the TOTALS-FROM-LAST-REPORT chain cannot be run between the two and no inference is drawn from the fact that 8,133.10 and 16,875.51 differ."
+ },
+ "escalations": 6,
+ "escalation_note": "(1) p3 line 1 amount at 1200 dpi - the deciding read for the delta; the final glyph is a looped 6, not a 0, so the value stands at 640.26 and the page is published as a delta rather than silently reconciled to 640.20. (2)-(4) p3 lines 2, 3 and 4 cent groups at 1200 dpi (superscript '83', 'oo', '72') - all hold. (5) p3 TOTAL EXPENDITURES cell at 1200 dpi - reads 1286 with superscript 75. (6) p3 date column at 900 dpi with the crop extended to the page edge - the leading '1' of each date is a small tick that the 200-dpi read nearly lost on lines 3 and 4; all four are January. Plus the three geometry-proof crops at 600 dpi and the vendor/purpose band at 500 dpi.",
+ "notes": "FORM vs CHUNK FILE: the chunk file says candidate 'Kenneth Adam Snow', office 'Commission Seat C'. The cover's Full Name line reads 'Kenneth Adam Snow' - agrees - but its 'Candidate for Office Of' line reads only 'Commission', with NO seat letter; the seat comes from the county's FILE NAME, not from the document. County office, in scope. Certified period 1/1/24 to 6/18/24, signed 6/18/24, clerk-received and inspected 6/18/2024 (the file name's '06-20-2024' is the posting date, not the filing date). SAME FILER AS chunk key 2bcac904 but a DIFFERENT REPORT: that one is the 2025 annual officeholder report signed 1/8/26 under the name 'K. Adam Snow'; neither is skipped as a duplicate and neither is a cross-channel re-post of the other. FORM GENERATION: modern county-branded ('WASHINGTON COUNTY / UTAH' logo variant, one generation earlier than 2bcac904's 'AMERICA'S COUNTY' logo); Form A carries Date | Name of Contributer | Mailing Address and Zip Code | Amount | In Kind? Y/N and Form B carries Date | Person or Organization Paid | Purpose of Expenditure | Amount, both with a printed footer total; the cover has only three money lines and no sub-$50 aggregate line. CURRENCY CONVENTION on this filing: every figure except line 1 of Form B is written with SUPERSCRIPT CENTS over a short rule ('1286 75', '20 oo'), and the cover additionally puts a trailing dash after each cell; transcribed with a decimal point per the currency convention, with the dash treated as the filer's end-of-entry mark rather than a nil mark. ZERO GLYPHS: the cover's line 1 (all three columns), the cover's line 2 LAST cell and Form A's TOTAL CONTRIBUTIONS cell each hold a hand-drawn open oval zero - read as 0 per the zero-glyph ruling, verbatim noted. Privacy: this cover prints no home address or phone; Form A is empty so no donor address existed to discard.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-08",
+   "vendor_raw": "Washington Co.",
+   "purpose": "Candidate filing fee",
+   "amount": "640.26",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:65.46,25.61,25.30,3.11@p3",
+   "note": "THE LIKELY SOURCE OF THIS SIDE'S 0.06 DELTA - see recon.expenditures.detail. The amount is written with an ordinary decimal point (unlike every other figure on the filing, which uses superscript cents) and reads 640.26 unambiguously at 1200 dpi: the final glyph is a closed loop with an entry stroke, a 6, not a 0. NOT adjusted to the 640.20 that would close the page. The vendor cell opens with a word the filer scribbled out beyond legibility before writing 'Washington Co.'; only the legible text is recorded and the struck word is left unread rather than guessed. needs_review is set on this and every row of the side because the side publishes as a delta."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2024-01-16",
+   "vendor_raw": "Got your back shack",
+   "purpose": "Campaign materials",
+   "amount": "550.83",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:65.46,28.72,25.30,3.12@p3",
+   "note": "cents written as a superscript pair over a rule ('550 83') - transcribed with a decimal point; re-read at 1200 dpi and the superscript holds as 83. needs_review set because the side publishes as a delta, not because of a reading doubt."
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2024-01-05",
+   "vendor_raw": "Washington County Rep. Women",
+   "purpose": "Campaign lunch",
+   "amount": "20.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:65.46,31.84,25.30,3.09@p3",
+   "note": "date written '1/5/24' with the leading 1 as a small tick at the cell edge - confirmed at 900 dpi against the identical tick on lines 1 and 2, which are unambiguous. Superscript cents ('20 oo'). Out of chronological order (the 5th listed after the 16th) - transcribed in printed order. needs_review set because the side publishes as a delta."
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Beehive State Consulting",
+   "purpose": "Campaign Consulting",
+   "amount": "75.72",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=high;amount=medium",
+   "verified": 1,
+   "geometry": "pct:65.46,34.93,25.30,3.11@p3",
+   "note": "date written '1/2/24', leading 1 a small tick as on line 3. Vendor is written cramped and overruns the column rule; read as 'Beehive State Consulting' with the middle word compressed. Superscript cents ('75 72'), re-read at 1200 dpi where the second superscript glyph is a cursive 2. needs_review set because the side publishes as a delta."
+  }
+ ]
+}

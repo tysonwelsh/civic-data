@@ -1,0 +1,114 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-07-01",
+   "vendor_raw": "Bruce Williams",
+   "purpose": "Campaign Reimbursement",
+   "amount": "314.89",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.38,24.31,76.38,3.91@p4",
+   "note": "date 7/1/2024 predates the report period label; verbatim"
+  }
+ ],
+ "total_contributions": "0",
+ "total_expenditures": "$$314.89",
+ "beginning_balance": "314.89",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "314.89"
+ },
+ "cover": {
+  "candidate": "Bruce A. Williams",
+  "party": "Republican",
+  "office_sought": "County Surveyor",
+  "district_number": "42",
+  "report_type": "Final / Dissolution Report",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2026-02-02",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Williams-Bruce__29203218.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Williams, Bruce",
+  "office": "Surveyor",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Williams-Bruce__29203218.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Full 4-page standard 'Financial Disclosure Report For a Candidate' form (NOT a one-page dissolution notice) with the Final/Dissolution box checked \u2014 doc_kind standard-report confirmed. Office Sought 'County Surveyor', District Number '42' \u2014 not a school-board filing. Amendment No; signed 2/2/2026; clerk stamp RECEIVED FEB 02 2026. Summary line 2 Column A is literally printed '$$314.89' (doubled dollar sign) \u2014 verbatim in totals; the numeric value 314.89 is confirmed by the Schedule B arithmetic and the closing balance chain. Column B Aggregate Total cells on lines 1 and 2 are blank (recorded as blank, not zero). The single expenditure is dated 7/1/2024 \u2014 a 2024-dated campaign reimbursement reported on this 2026 dissolution filing; date kept verbatim. Cover street-address row and signature block bar-redacted; schedule pages carry no redaction.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A grid (p3) present with $0 printed on both the subtotal and total lines; zero rows = Summary line 1 '$0'"
+    },
+    "expenditures": {
+     "stated": "$$314.89",
+     "schedule_total": "314.89",
+     "itemized": "314.89",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "1 row 314.89 = Schedule B printed SUBTOTAL and TOTAL $314.89 = Summary line 2 Column A, which is literally printed with a doubled dollar sign as '$$314.89' (recorded verbatim)"
+    }
+   },
+   "page_subtotal_gates": "p4 rows 314.89 = printed SUBTOTAL $314.89 = printed TOTAL $314.89; p3 prints $0 subtotal and $0 total with zero rows",
+   "escalations": 1,
+   "escalation_note": "p4 row 1 re-read in a 600dpi full-width band crop; read identically",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Full 4-page standard 'Financial Disclosure Report For a Candidate' form (NOT a one-page dissolution notice) with the Final/Dissolution box checked \u2014 doc_kind standard-report confirmed. Office Sought 'County Surveyor', District Number '42' \u2014 not a school-board filing. Amendment No; signed 2/2/2026; clerk stamp RECEIVED FEB 02 2026. Summary line 2 Column A is literally printed '$$314.89' (doubled dollar sign) \u2014 verbatim in totals; the numeric value 314.89 is confirmed by the Schedule B arithmetic and the closing balance chain. Column B Aggregate Total cells on lines 1 and 2 are blank (recorded as blank, not zero). The single expenditure is dated 7/1/2024 \u2014 a 2024-dated campaign reimbursement reported on this 2026 dissolution filing; date kept verbatim. Cover street-address row and signature block bar-redacted; schedule pages carry no redaction."
+  }
+ }
+}

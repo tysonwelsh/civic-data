@@ -3,7 +3,10 @@
  "key": "e73afe36",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T02:07:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5-2 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,146 @@
    "notes": "Handwritten. OFFICE DISAGREEMENT WITH THE PORTAL: index.csv carries the unresolved 'County Commission'; the page's own Office Seeking line reads 'Utah County Commission Seat (C)' - the parenthesised letter is a single cursive glyph read as C at medium confidence (it agrees with the county's own filename 'CountyCommissionSeatC-...' and disagrees with the Wayback listing heading 'Commission Seat B'). Line 2 (755.75) is written with a compressed '55' pair; read at medium confidence in both columns. Cover checkbox 'Seven days preceding the Primary Election' is marked with a hand check over the box; 'No' is checked for the amendment question."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [
+  {
+   "line_no": "1",
+   "date": "9-23-06",
+   "donor_raw": "Utah County Republican Party",
+   "donor_city": "Provo",
+   "donor_state": "UT",
+   "amount": "2000.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:84.48,15.11,10.13,4.08@p3",
+   "geometry_frame": "p3 axis=y cell=84.48-94.61 rowband=15.11-19.19 (1 of 2 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "date printed as '9-23-06' \u2014 well formed but two years before this 2008 cycle; kept VERBATIM, not repaired. The address cell prints a mailbox address in Provo, UT 84603; per the privacy rule only city/state are carried."
+  },
+  {
+   "line_no": "2",
+   "date": "5-16-08",
+   "donor_raw": "Interest earned to date WFB - Wells Fargo Bank",
+   "donor_city": "Lindon",
+   "donor_state": "UT",
+   "amount": "23.08",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:84.48,19.19,10.13,4.09@p3",
+   "geometry_frame": "p3 axis=y cell=84.48-94.61 rowband=19.19-23.28 (2 of 2 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "not a donor: the filer entered his own bank interest as a Schedule A line, writing 'Interest earned to date WFB -' on the rule with 'Wells Fargo Bank' inserted as a caret annotation above it; both carried verbatim in donor_raw. The address is the branch's, in Lindon, UT 84042 \u2014 city/state only."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "3-7-08",
+   "vendor_raw": "Utah County Clerk",
+   "amount": "473.46",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:84.43,15.02,10.25,4.08@p4",
+   "geometry_frame": "p4 axis=y cell=84.43-94.68 rowband=15.02-19.10 (1 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "Schedule B on this form prints no Purpose column (Date / Name of Contributor - the filer hand-corrected the header to 'Vendor' / Mailing Address & Zip Code / Amount), so purpose is honestly blank"
+  },
+  {
+   "line_no": "2",
+   "date": "3-26-08",
+   "vendor_raw": "Fox Hollow Elementary",
+   "amount": "168.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:84.43,19.10,10.25,4.09@p4",
+   "geometry_frame": "p4 axis=y cell=84.43-94.68 rowband=19.10-23.19 (2 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "3",
+   "date": "4-25-08",
+   "vendor_raw": "XPEDX",
+   "amount": "11.04",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:84.43,23.19,10.25,4.09@p4",
+   "geometry_frame": "p4 axis=y cell=84.43-94.68 rowband=23.19-27.28 (3 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "vendor written in capitals as 'XPEDX' (the paper distributor); kept verbatim"
+  },
+  {
+   "line_no": "4",
+   "date": "4-25-08",
+   "vendor_raw": "Copy Right Printing",
+   "amount": "53.25",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:84.43,27.28,10.25,4.07@p4",
+   "geometry_frame": "p4 axis=y cell=84.43-94.68 rowband=27.28-31.35 (4 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  },
+  {
+   "line_no": "5",
+   "date": "4-26-08",
+   "vendor_raw": "Utah County Republican Party",
+   "amount": "50.00",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:84.43,31.35,10.25,4.05@p4",
+   "geometry_frame": "p4 axis=y cell=84.43-94.68 rowband=31.35-35.40 (5 of 5 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-18 wave B2 utah, chunk_01)",
+   "transcribed_date": "2026-08-18",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (2,023.08) on the p2 Summary Page, which is also Schedule A's own printed 'Subtotal for this page' ($2,023.08) and its printed 'Total Contributions Received' ($2,023.08)",
+     "detail": "2 Schedule A rows sum to 2000.00 + 23.08 = 2,023.08 exactly = the schedule's printed page subtotal AND its printed Total Contributions Received AND the cover's promoted PER-PERIOD cell (Column A). Column B 'Year-to-Date Total' also prints 2,023.08 on this filing (it is the filer's first report of the cycle, so period and YTD coincide) and is NOT summed as an increment. The p2 balance ladder closes on its own terms too: line 3 5,996.56 + line 4 2,023.08 = line 5 8,019.64; 8,019.64 - line 6 755.75 = line 7 7,263.89."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (755.75) on the p2 Summary Page, equal to Schedule B's printed 'Subtotal for this page' ($755.75) and its printed 'Total Expenditures Received' ($755.75)",
+     "detail": "5 Schedule B rows sum to 473.46 + 168.00 + 11.04 + 53.25 + 50.00 = 755.75 exactly = the printed page subtotal = the printed schedule total = the cover's promoted per-period Column A cell, and equals line 6 of the balance ladder. Column B YTD 755.75 is retained as cumulative and never summed as an increment."
+    }
+   },
+   "in_kind_convention": "not applicable \u2014 neither schedule prints an in-kind column and no row is annotated in-kind, so the monetary-only and the monetary-plus-in-kind conventions give the identical sum; both were tested and both close (contributions 2,023.08; expenditures 755.75)",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 5,
+   "geometry": {
+    "measured": 7,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "legacy_colAB variant, 4 pages: p1 cover ('Seven days preceding the Primary Election', signed 6-16-08, amendment box marked No), p2 SUMMARY PAGE (located by its printed 'SUMMARY PAGE' header, at the expected p2 position for this variant), p3 Schedule A, p4 Schedule B. Both sides close EXACTLY on the promoted per-period Column A figures. PAGE-FACE candidate name is 'Larry Alton Ellertson' (Republican, residence city Lindon) \u2014 index.csv names NO candidate for this row, so the page face supplies it; the page-face Office Seeking line reads 'Utah County Commission Seat (c)', which agrees with index.csv's 'County Commission Seat C' and with the county's own filename, and is the same reading the 2026-08-01 vision pass used to retire the old 'seat unresolved' note. Schedule A row 1 is dated 2006 by the filer and Schedule A row 2 is bank interest rather than a contribution \u2014 both transcribed as printed, neither adjudicated. Every entry on both schedules is handwritten; this filing is NOT one of the county's *_Redacted.pdf files, so the address blocks were published in the clear by the county and were reduced to city/state at READ TIME by this transcription."
+  }
+ }
 }

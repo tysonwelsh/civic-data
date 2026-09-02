@@ -1,0 +1,227 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2024-08-13",
+   "donor_raw": "AIMEE NEWTON",
+   "occupation": "COUNCIL MEMBER",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.50,21.89,84.90,3.66@p3",
+   "note": "city/state redacted at source"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-08-24",
+   "donor_raw": "COUNTY REPUBLICAN PARTY",
+   "occupation": "REPUBLICAN PARTY",
+   "amount": "3,500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.50,25.55,84.90,3.73@p3",
+   "note": "city/state redacted at source"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-08-25",
+   "donor_raw": "JOLYNN SNELGROVE",
+   "occupation": "TESTING COORDINATOR JORDAN DISTRICT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:9.50,29.28,84.90,3.66@p3",
+   "note": "city/state redacted at source; occupation written on two lines 'TESTING COORDINATOR / JORDAN DISTRICT'"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2024-07-07",
+   "vendor_raw": "MORGAN + MAY",
+   "purpose": "POLITICAL CONSULTING",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.22,23.10,76.93,3.70@p4",
+   "note": "handwritten"
+  },
+  {
+   "line_no": 2,
+   "date": "2024-08-07",
+   "vendor_raw": "MORGAN + MAY",
+   "purpose": "POLITICAL CONSULTING",
+   "amount": "1,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.22,26.80,76.93,3.66@p4",
+   "note": "handwritten"
+  },
+  {
+   "line_no": 3,
+   "date": "2024-08-14",
+   "vendor_raw": "FED EX OFFICE",
+   "purpose": "PRINTING",
+   "amount": "13.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.22,30.46,76.93,3.68@p4",
+   "note": "handwritten"
+  },
+  {
+   "line_no": 4,
+   "date": "2024-06-20",
+   "vendor_raw": "DFCU",
+   "purpose": "BANK CHARGES",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.22,34.14,76.93,3.64@p4",
+   "note": "handwritten"
+  },
+  {
+   "line_no": 5,
+   "date": "2024-07-20",
+   "vendor_raw": "DFCU",
+   "purpose": "BANK CHARGES",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.22,37.78,76.93,3.66@p4",
+   "note": "handwritten"
+  },
+  {
+   "line_no": 6,
+   "date": "2024-08-20",
+   "vendor_raw": "DFCU",
+   "purpose": "BANK CHARGES",
+   "amount": "5.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.22,41.44,76.93,3.68@p4",
+   "note": "handwritten"
+  }
+ ],
+ "total_contributions": "4,600.00",
+ "total_expenditures": "2,028.00",
+ "beginning_balance": "26.00",
+ "ending_balance": "2,598.00",
+ "aggregate": {
+  "total_contributions_to_date": "4,626.00",
+  "total_expenditures_to_date": "2,028.00",
+  "line5_subtotal": "4,626.00"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "COUNTY RECORDER",
+  "district_number": "",
+  "report_type": "September 16",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "9-12-24",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Snelgrove-Richard__29666B95.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Snelgrove, Richard",
+  "office": "Recorder",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Snelgrove-Richard__29666B95.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Wholly handwritten including Summary figures. 2024 form 'For a Candidate'; September 16 interim; signed 9-12-24; clerk stamp RECEIVED IN OFFICE SEP 13 2024. Neither amendment box is visibly checked. Schedule A address column bar-redacted on all three rows. Amounts written with superscript-style cents; transcribed as plain decimals. Column B line 1 (4,626.00) is cumulative while Column A (4,600.00) is the period figure - schedule rows match the period scope.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "4,600.00",
+     "schedule_total": "4,600.00",
+     "itemized": "4,600.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "3 rows 1,000.00 + 3,500.00 + 100.00 = 4,600.00 = Summary line 1 Col A = Schedule A SUBTOTAL and TOTAL; Col B 4,626.00 is cumulative (includes prior 26.00)"
+    },
+    "expenditures": {
+     "stated": "2,028.00",
+     "schedule_total": "2,028.00",
+     "itemized": "2,028.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "6 rows 1,000.00 + 1,000.00 + 13.00 + 5.00 + 5.00 + 5.00 = 2,028.00 = Summary line 2 Col A = Schedule B SUBTOTAL and TOTAL"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 4,600.00 = printed subtotal 4,600.00; p4 rows 2,028.00 = printed subtotal 2,028.00",
+   "escalations": 4,
+   "escalation_note": "600dpi crops: p3 rows 1-3 left (date+donor) and right (occupation+amount); p4 rows 1-6 left (date+recipient) and right (purpose+amount) - all re-read identically",
+   "n_contrib_rows": 3,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Wholly handwritten including Summary figures. 2024 form 'For a Candidate'; September 16 interim; signed 9-12-24; clerk stamp RECEIVED IN OFFICE SEP 13 2024. Neither amendment box is visibly checked. Schedule A address column bar-redacted on all three rows. Amounts written with superscript-style cents; transcribed as plain decimals. Column B line 1 (4,626.00) is cumulative while Column A (4,600.00) is the period figure - schedule rows match the period scope."
+  }
+ }
+}

@@ -1,0 +1,1309 @@
+[
+ {
+  "index_path": "raw/2024/2024_Skyler_Beltran_Redacted.pdf",
+  "key": "0cb7a1c6",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah r13_02)",
+  "transcribed_date": "2026-08-20",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "itemized_pages_A": "2,3",
+  "itemized_pages_B": "4,5,6",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Box B 'Contributions Received this Period' ($13,894.23) on the p7 Summary Page, equal to the HANDWRITTEN 'Total Contributions Received (Sum of all Schedule A pages in this report)' printed on p3 (13,894.23) and to the sum of the two Schedule A sheets' own printed page subtotals (5350 + 8,544.23)",
+    "detail": "TWO Schedule A sheets, each gated on its OWN printed page subtotal first (\u00a7L2). p2: 15 rows sum to 500 + 100 + 300 + 50 + 2000 + 500 + 100 + 250 + 100 + 250 + 250 + 300 + 50 + 500 + 100 = 5,350.00 = its printed 'Subtotal for this page $ 5350'. p3: 8 rows sum to 100 + 5000 + 100 + 100 + 200 + 40 + 3000 + 4.23 = 8,544.23 = its printed 'Subtotal for this page $ 8,544.23'. Multi-sheet total 5,350.00 + 8,544.23 = 13,894.23 = the grand-total footer on p3 = the promoted PER-PERIOD cell Box B. Box C YTD also prints 13,894.23 and is not summed as an increment. p2's grand-total footer prints the superseded typed '5350' STRUCK THROUGH with '$13,894.23' handwritten and initialled 'SMB' \u2014 the handwritten correction over the struck typed value GOVERNS and agrees with p3's footer and with Box B. THE COUNTY'S REDACTION PASS TOUCHES NO FIGURE: every bar on this copy falls in the Address column (and on the cover), so the amount column and both footers are entirely legible and the side closes exactly. Ladder: F = A + B = 0 + 13,894.23 and close = F - D = 13,894.23 - 3,849.95 = 10,044.28, exactly as printed."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Box D 'Expenditures Made this Period' ($3,849.95) on the p7 Summary Page, equal to the HANDWRITTEN 'Total Expenditures Made (Sum of all Schedule B pages in this report)' printed on p5 and p6 (3,849.95) and to the sum of the three Schedule B sheets' own printed page subtotals (2,458.67 + 810.64 + 580.64)",
+    "detail": "THREE Schedule B sheets, each gated on its own printed page subtotal (\u00a7L2). p4: 15 rows sum to 2,458.67 = its printed subtotal; p5: 15 rows sum to 810.64 = its printed subtotal; p6: 9 rows sum to 580.64 = its printed subtotal; 2,458.67 + 810.64 + 580.64 = 3,849.95 = the handwritten grand-total footer on p5 and p6 = the promoted PER-PERIOD cell Box D. Box E YTD also prints 3,849.95 and is never summed. p4's typed grand-total footer prints the superseded '2458.67' struck through with '$3,849.95' handwritten and initialled 'SMB'; the handwritten correction governs. No Schedule B page carries any redaction bar at all."
+   }
+  },
+  "in_kind_convention": "monetary-only, and it is the only convention any sheet supports: all five schedule sheets are FOUR-column layouts with NO in-kind checkbox and no in-kind line, across both revisions bound here (v. 4.20 and v. 12.23), and no row is annotated in-kind. Both conventions give the same sums and both close at 13,894.23 / 3,849.95. Tested on this document per \u00a7G1.",
+  "escalations": 15,
+  "escalation_note": "Fifteen 900 dpi tight --value crops, measured and taken on THIS pdf rather than carried from either sibling (\u00a7K1): a first-row proof, a last-transcribed-row proof and a one-past control on each of the five schedule pages. On the three FULL grids (p2, p4, p5) the one-past control was taken OUTSIDE the grid per \u00a7J6 and rendered that sheet's printed page subtotal ('$ 5350', '$ 2458.67', '$ $810.64') rather than an entry. No figure was corrected. Note this copy's grid geometry matches 00c19030's to the hundredth of a percent on all five pages, which is itself evidence that the redaction was applied to the SAME digital file rather than to a re-scan (unlike ccccb017, whose grids sit ~1 pct lower) \u2014 but the frames were still re-measured and re-proved here rather than shared.",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     79.07,
+     92.25
+    ],
+    "cells": [
+     [
+      8.13,
+      21.22
+     ],
+     [
+      21.22,
+      51.04
+     ],
+     [
+      51.04,
+      79.07
+     ],
+     [
+      79.07,
+      92.25
+     ]
+    ],
+    "rows": [
+     [
+      16.75,
+      21.16
+     ],
+     [
+      21.16,
+      25.55
+     ],
+     [
+      25.55,
+      29.95
+     ],
+     [
+      29.95,
+      34.36
+     ],
+     [
+      34.36,
+      38.77
+     ],
+     [
+      38.77,
+      43.18
+     ],
+     [
+      43.18,
+      47.54
+     ],
+     [
+      47.54,
+      51.95
+     ],
+     [
+      51.95,
+      56.36
+     ],
+     [
+      56.36,
+      60.77
+     ],
+     [
+      60.77,
+      65.18
+     ],
+     [
+      65.18,
+      69.59
+     ],
+     [
+      69.59,
+      74.0
+     ],
+     [
+      74.0,
+      78.41
+     ],
+     [
+      78.41,
+      82.82
+     ]
+    ],
+    "measure_note": "pdfinfo -f 2 -l 2: 612x792 pts, rot 0 (portrait, axis y) \u2014 rotation read BEFORE measuring (\u00a7K1). rowbands.py at 200 dpi, skew -0.3: h_rules 16.75 / 21.16 / ... / 78.41 / 82.82 (16 grid rules = 15 boxed rows, pitch ~4.40) plus a footer rule at 87.63; all five vertical rules 8.13 / 21.22 / 51.04 / 79.07 / 92.25. This sheet is the v. 4.20 blank with the PREVIOUS clerk's masthead ('Amelia Powers Gardner / Clerk-Auditor'). \u26a0 rowbands reports 25 BARS on this page \u2014 the county's redaction rectangles over the Address column \u2014 and correctly excludes them from the rules, so the grid measures cleanly despite them (the bar/rule separation the tool is built for). THREE-CROP PROOF at 900 dpi: pct:79.07,16.75,13.18,4.41@p2 rendered '$500' (recorded row 1 = 500); pct:79.07,78.41,13.18,4.41@p2 rendered '$100' (recorded row 15 = 100, Majority 51); all fifteen rows being used, the one-past control was taken OUTSIDE the grid (\u00a7J6) \u2014 pct:79.07,82.82,13.18,4.81@p2 rendered the printed page subtotal '$ 5350', i.e. no sixteenth entry."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     79.07,
+     92.25
+    ],
+    "cells": [
+     [
+      8.1,
+      21.19
+     ],
+     [
+      21.19,
+      51.07
+     ],
+     [
+      51.07,
+      79.07
+     ],
+     [
+      79.07,
+      92.25
+     ]
+    ],
+    "rows": [
+     [
+      16.75,
+      21.18
+     ],
+     [
+      21.18,
+      25.59
+     ],
+     [
+      25.59,
+      30.0
+     ],
+     [
+      30.0,
+      34.41
+     ],
+     [
+      34.41,
+      38.8
+     ],
+     [
+      38.8,
+      43.2
+     ],
+     [
+      43.2,
+      47.59
+     ],
+     [
+      47.59,
+      51.98
+     ],
+     [
+      51.98,
+      56.39
+     ],
+     [
+      56.39,
+      60.77
+     ],
+     [
+      60.77,
+      65.2
+     ],
+     [
+      65.2,
+      69.61
+     ],
+     [
+      69.61,
+      74.02
+     ],
+     [
+      74.02,
+      78.41
+     ],
+     [
+      78.41,
+      82.84
+     ]
+    ],
+    "measure_note": "p3 measured independently (\u00a7B5): rot 0, skew -0.1; rowbands.py returns h_rules 16.75 / 21.18 / ... / 78.41 / 82.84 (16 grid rules = 15 boxed rows, pitch ~4.41) plus footer rules at 87.62 and 91.48. Only THREE vertical rules came back (8.10 / 21.19 / 51.07) on this lightly-inked v. 12.23 sheet; the amount band 79.07-92.25 was taken from the sibling sheet of the same print run and, per \u00a7L6, that borrow is admissible ONLY because it was PROVED BY RENDER on this page, which it was. THIS PAGE CARRIES NO REDACTION AT ALL (rowbands reports 4 bars, all form furniture, none over the grid) \u2014 the filer wrote city and state only in his own hand here, so there was nothing for the clerk to black out. THREE-CROP PROOF at 900 dpi: pct:79.07,16.75,13.18,4.43@p3 rendered '$100' (recorded row 1 = 100, Adonna Geddes); pct:79.07,47.59,13.18,4.39@p3 rendered '$4.23' (recorded row 8 = 4.23, MACU Interest); the ONE-BAND-PAST control pct:79.07,51.98,13.18,4.41@p3 rendered an EMPTY ruled cell."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     78.97,
+     92.03
+    ],
+    "cells": [
+     [
+      7.94,
+      20.97
+     ],
+     [
+      20.97,
+      50.91
+     ],
+     [
+      50.91,
+      78.97
+     ],
+     [
+      78.97,
+      92.03
+     ]
+    ],
+    "rows": [
+     [
+      16.77,
+      21.18
+     ],
+     [
+      21.18,
+      25.59
+     ],
+     [
+      25.59,
+      30.0
+     ],
+     [
+      30.0,
+      34.41
+     ],
+     [
+      34.41,
+      38.8
+     ],
+     [
+      38.8,
+      43.2
+     ],
+     [
+      43.2,
+      47.59
+     ],
+     [
+      47.59,
+      52.0
+     ],
+     [
+      52.0,
+      56.41
+     ],
+     [
+      56.41,
+      60.8
+     ],
+     [
+      60.8,
+      65.2
+     ],
+     [
+      65.2,
+      69.64
+     ],
+     [
+      69.64,
+      74.05
+     ],
+     [
+      74.05,
+      78.43
+     ],
+     [
+      78.43,
+      82.86
+     ]
+    ],
+    "measure_note": "p4 measured independently: rot 0, skew -0.3; rowbands.py returns h_rules 16.77 / 21.18 / ... / 78.43 / 82.86 (16 grid rules = 15 boxed rows, pitch ~4.41) and all five vertical rules 7.94 / 20.97 / 50.91 / 78.97 / 92.03. This sheet carries the THIRD masthead, v. 4.20 with 'Aaron R. Davidson / Clerk'. THREE-CROP PROOF at 900 dpi: pct:78.97,16.77,13.06,4.41@p4 rendered '$56.12' (recorded row 1 = 56.12); pct:78.97,78.43,13.06,4.43@p4 rendered '$25.79' (recorded row 15 = 25.79, Zac Green); the one-past control taken OUTSIDE the full grid, pct:78.97,82.86,13.06,4.5@p4, rendered the printed page subtotal '$ 2458.67'."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     79.0,
+     92.1
+    ],
+    "cells": [
+     [
+      8.11,
+      21.14
+     ],
+     [
+      21.14,
+      51.08
+     ],
+     [
+      51.08,
+      79.0
+     ],
+     [
+      79.0,
+      92.1
+     ]
+    ],
+    "rows": [
+     [
+      16.66,
+      21.07
+     ],
+     [
+      21.07,
+      25.5
+     ],
+     [
+      25.5,
+      29.89
+     ],
+     [
+      29.89,
+      34.3
+     ],
+     [
+      34.3,
+      38.73
+     ],
+     [
+      38.73,
+      43.11
+     ],
+     [
+      43.11,
+      47.5
+     ],
+     [
+      47.5,
+      51.91
+     ],
+     [
+      51.91,
+      56.32
+     ],
+     [
+      56.32,
+      60.7
+     ],
+     [
+      60.7,
+      65.11
+     ],
+     [
+      65.11,
+      69.54
+     ],
+     [
+      69.54,
+      73.95
+     ],
+     [
+      73.95,
+      78.36
+     ],
+     [
+      78.36,
+      82.79
+     ]
+    ],
+    "measure_note": "p5 measured independently: rot 0, skew -0.2; rowbands.py returns h_rules 16.66 / 21.07 / ... / 78.36 / 82.79 (16 grid rules = 15 boxed rows, pitch ~4.42) plus a footer rule at 92.06. Three vertical rules returned (8.11 / 21.14 / 51.08); the amount band 79.00-92.10 was taken from the print run and PROVED BY RENDER on this page (\u00a7L6). THREE-CROP PROOF at 900 dpi: pct:79.0,16.66,13.1,4.41@p5 rendered '$49.43' (recorded row 1 = 49.43); pct:79.0,78.36,13.1,4.43@p5 rendered '$243.91' (recorded row 15 = 243.91, Facebook); the one-past control OUTSIDE the full grid, pct:79.0,82.79,13.1,4.5@p5, rendered the printed page subtotal '$ $810.64'."
+   },
+   "6": {
+    "axis": "y",
+    "cell": [
+     79.0,
+     92.1
+    ],
+    "cells": [
+     [
+      8.07,
+      21.22
+     ],
+     [
+      21.22,
+      51.1
+     ],
+     [
+      51.1,
+      79.0
+     ],
+     [
+      79.0,
+      92.1
+     ]
+    ],
+    "rows": [
+     [
+      16.68,
+      21.09
+     ],
+     [
+      21.09,
+      25.5
+     ],
+     [
+      25.5,
+      29.89
+     ],
+     [
+      29.89,
+      34.32
+     ],
+     [
+      34.32,
+      38.73
+     ],
+     [
+      38.73,
+      43.14
+     ],
+     [
+      43.14,
+      47.52
+     ],
+     [
+      47.52,
+      51.93
+     ],
+     [
+      51.93,
+      56.34
+     ],
+     [
+      56.34,
+      60.73
+     ],
+     [
+      60.73,
+      65.14
+     ],
+     [
+      65.14,
+      69.57
+     ],
+     [
+      69.57,
+      73.98
+     ],
+     [
+      73.98,
+      78.41
+     ],
+     [
+      78.41,
+      82.82
+     ]
+    ],
+    "measure_note": "p6 measured independently: rot 0, skew -0.1; rowbands.py returns h_rules 16.68 / 21.09 / ... / 78.41 / 82.82 (16 grid rules = 15 boxed rows, pitch ~4.41) plus a footer rule at 92.07; three vertical rules (8.07 / 21.22 / 51.10), amount band 79.00-92.10 proved by render here (\u00a7L6). THREE-CROP PROOF at 900 dpi: pct:79.0,16.68,13.1,4.41@p6 rendered '$38.81' (recorded row 1 = 38.81, Costco); pct:79.0,51.93,13.1,4.41@p6 rendered '$16.78' (recorded row 9 = 16.78, Kneaders, the last entry); the ONE-BAND-PAST control pct:79.0,56.34,13.1,4.39@p6 rendered an EMPTY ruled cell. Every band on all five schedule pages measures one pitch (~4.4), so no doubled band and no \u00a7H3 collapse."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 2,
+    "row": 1,
+    "date": "01/05/2024",
+    "donor_raw": "Cory Maloy",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Street portion blacked out by the county; the city/state/zip survive to the right of the bar and are read off THIS page. PRIVACY: city/state only. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "2",
+    "page": 2,
+    "row": 2,
+    "date": "01/05/2024",
+    "donor_raw": "Laura Beltran",
+    "donor_state": "AZ",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "\u26a0 ON THIS REDACTED COPY THE COUNTY'S BAR COVERS THE CITY AS WELL AS THE STREET \u2014 only the state (and zip) survive to the right of the bar, so donor_city is HONESTLY BLANK because the county redacted it. The city is NOT carried from the unredacted sibling: that would be inference across documents, and each document is read on its own terms (\u00a7C3 / \u00a7L6). CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "3",
+    "page": 2,
+    "row": 3,
+    "date": "01/05/2024",
+    "donor_raw": "Don Olsen",
+    "donor_state": "UT",
+    "amount": "300",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "\u26a0 ON THIS REDACTED COPY THE COUNTY'S BAR COVERS THE CITY AS WELL AS THE STREET \u2014 only the state (and zip) survive to the right of the bar, so donor_city is HONESTLY BLANK because the county redacted it. The city is NOT carried from the unredacted sibling: that would be inference across documents, and each document is read on its own terms (\u00a7C3 / \u00a7L6). CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "4",
+    "page": 2,
+    "row": 4,
+    "date": "01/06/2024",
+    "donor_raw": "Nicole Kunze",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Street portion blacked out by the county; the city/state/zip survive to the right of the bar and are read off THIS page. PRIVACY: city/state only. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "5",
+    "page": 2,
+    "row": 5,
+    "date": "01/15/2024",
+    "donor_raw": "Jeff & Tina Beltran-Teal",
+    "donor_state": "CA",
+    "amount": "2000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "\u26a0 ON THIS REDACTED COPY THE COUNTY'S BAR COVERS THE CITY AS WELL AS THE STREET \u2014 only the state (and zip) survive to the right of the bar, so donor_city is HONESTLY BLANK because the county redacted it. The city is NOT carried from the unredacted sibling: that would be inference across documents, and each document is read on its own terms (\u00a7C3 / \u00a7L6). CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "6",
+    "page": 2,
+    "row": 6,
+    "date": "01/15/2024",
+    "donor_raw": "Grant Hardester",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Street portion blacked out by the county; the city/state/zip survive to the right of the bar and are read off THIS page. PRIVACY: city/state only. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "7",
+    "page": 2,
+    "row": 7,
+    "date": "01/17/2024",
+    "donor_raw": "Lori Le",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Street portion blacked out by the county; the city/state/zip survive to the right of the bar and are read off THIS page. PRIVACY: city/state only. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "8",
+    "page": 2,
+    "row": 8,
+    "date": "01/19/2024",
+    "donor_raw": "Misha Peay",
+    "donor_city": "Alpine",
+    "donor_state": "UT",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Street portion blacked out by the county; the city/state/zip survive to the right of the bar and are read off THIS page. PRIVACY: city/state only. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "9",
+    "page": 2,
+    "row": 9,
+    "date": "01/21/2024",
+    "donor_raw": "Dennis Housman",
+    "donor_state": "CA",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "\u26a0 ON THIS REDACTED COPY THE COUNTY'S BAR COVERS THE CITY AS WELL AS THE STREET \u2014 only the state (and zip) survive to the right of the bar, so donor_city is HONESTLY BLANK because the county redacted it. The city is NOT carried from the unredacted sibling: that would be inference across documents, and each document is read on its own terms (\u00a7C3 / \u00a7L6). CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "10",
+    "page": 2,
+    "row": 10,
+    "date": "01/24/2024",
+    "donor_raw": "Corey Astill",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Street portion blacked out by the county; the city/state/zip survive to the right of the bar and are read off THIS page. PRIVACY: city/state only. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "11",
+    "page": 2,
+    "row": 11,
+    "date": "02/01/2024",
+    "donor_raw": "Brad Bonham",
+    "donor_city": "Draper",
+    "donor_state": "UT",
+    "amount": "250",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Street portion blacked out by the county; the city/state/zip survive to the right of the bar and are read off THIS page. PRIVACY: city/state only. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "12",
+    "page": 2,
+    "row": 12,
+    "date": "02/13/2024",
+    "donor_raw": "Melvin & Elizabeth Tuxhorn",
+    "donor_state": "CA",
+    "amount": "300",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "\u26a0 ON THIS REDACTED COPY THE COUNTY'S BAR COVERS THE CITY AS WELL AS THE STREET \u2014 only the state (and zip) survive to the right of the bar, so donor_city is HONESTLY BLANK because the county redacted it. The city is NOT carried from the unredacted sibling: that would be inference across documents, and each document is read on its own terms (\u00a7C3 / \u00a7L6). CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "13",
+    "page": 2,
+    "row": 13,
+    "date": "03/07/2024",
+    "donor_raw": "Dane Harris",
+    "donor_state": "UT",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "\u26a0 ON THIS REDACTED COPY THE COUNTY'S BAR COVERS THE CITY AS WELL AS THE STREET \u2014 only the state (and zip) survive to the right of the bar, so donor_city is HONESTLY BLANK because the county redacted it. The city is NOT carried from the unredacted sibling: that would be inference across documents, and each document is read on its own terms (\u00a7C3 / \u00a7L6). CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "14",
+    "page": 2,
+    "row": 14,
+    "date": "03/25/2024",
+    "donor_raw": "Jessie Riddle",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "500",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Street portion blacked out by the county; the city/state/zip survive to the right of the bar and are read off THIS page. PRIVACY: city/state only. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "15",
+    "page": 2,
+    "row": 15,
+    "date": "04/08/2024",
+    "donor_raw": "Majority 51",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Street portion blacked out by the county; the city/state/zip survive to the right of the bar and are read off THIS page. PRIVACY: city/state only. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "16",
+    "page": 3,
+    "row": 1,
+    "date": "04/17/2024",
+    "donor_raw": "Adonna Geddes",
+    "donor_city": "Saratoga Springs",
+    "donor_state": "Utah",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "\u26a0 THE ADDRESS COLUMN CHANGES CONVENTION AT THE SHEET BREAK: every row on p3 is HANDWRITTEN and gives only a city and a state, with no street and no zip, where every p2 row is typed with a full street address. So on p3 the privacy reduction is a no-op and city/state come straight off the page. The state is spelled out 'Utah' in the filer's hand and is kept VERBATIM rather than normalised to UT. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "17",
+    "page": 3,
+    "row": 2,
+    "date": "05/17/2024",
+    "donor_raw": "UCAR",
+    "donor_city": "Orem",
+    "donor_state": "Utah",
+    "amount": "5000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The filing's largest single contribution. 'UCAR' is the filer's own abbreviation, transcribed verbatim; no expansion is inferred. Handwritten city/state only. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "18",
+    "page": 3,
+    "row": 3,
+    "date": "08/26/2024",
+    "donor_raw": "Debra Young",
+    "donor_city": "Lehi",
+    "donor_state": "Utah",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Dated 08/26/2024, AFTER the row below it (07/28/2024) \u2014 the filer's p3 ledger is not strictly chronological. Kept in printed row order; nothing reordered or adjudicated. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "19",
+    "page": 3,
+    "row": 4,
+    "date": "07/28/2024",
+    "donor_raw": "Mike Gooch",
+    "donor_city": "Provo",
+    "donor_state": "Utah",
+    "amount": "100",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "20",
+    "page": 3,
+    "row": 5,
+    "date": "09/03/2024",
+    "donor_raw": "Melvin & Elizabeth Tuxhorn",
+    "donor_city": "Santa Rosa",
+    "donor_state": "CA",
+    "amount": "200",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The second gift from this joint donor (see p2 row 12); a separate printed entry, never merged with it. Here the filer wrote the state as 'CA' rather than spelling it out \u2014 his own convention varies row to row on this sheet. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "21",
+    "page": 3,
+    "row": 6,
+    "date": "10/17/2024",
+    "donor_raw": "Emily Pearson",
+    "donor_city": "Lehi",
+    "donor_state": "Utah",
+    "amount": "40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "22",
+    "page": 3,
+    "row": 7,
+    "date": "10/24/2024",
+    "donor_raw": "UCRP",
+    "donor_city": "Orem",
+    "donor_state": "Utah",
+    "amount": "3000",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "'UCRP' is the filer's own abbreviation, transcribed verbatim; no expansion inferred. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "23",
+    "page": 3,
+    "row": 8,
+    "date": "10/28/2024",
+    "donor_raw": "MACU Interest",
+    "donor_city": "Lehi",
+    "donor_state": "Utah",
+    "amount": "4.23",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Bank INTEREST booked by the filer as a contribution row on Schedule A; published as the document reports it, and the schedule's own subtotal (8,544.23) includes it, so the page's arithmetic confirms the placement. Dated the same day as the report. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "01/04/2024",
+    "vendor_raw": "Fiverr",
+    "purpose": "Logo,Flyer,Social",
+    "amount": "56.12",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Purpose typed without spaces after the commas; kept verbatim. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "01/04/2024",
+    "vendor_raw": "Wordpress",
+    "purpose": "Website",
+    "amount": "36.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "01/08/2024",
+    "vendor_raw": "Utah County Elections",
+    "purpose": "Filing Fee",
+    "amount": "818.23",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Candidate filing fee, 2024 Commission Seat C. Recorded as an OBSERVATION only (\u00a7E1/\u00a7F5/\u00a7L3) and never used to corroborate any figure \u2014 note that it differs from the 747.11 the other 2024 Commission Seat C filer in this same chunk (Diane Garcia, 5f688615) records for her own fee, which is one more demonstration that the fee is not even constant within an office and cycle. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "01/15/2024",
+    "vendor_raw": "Etsy",
+    "purpose": "Template",
+    "amount": "5.79",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "01/15/2024",
+    "vendor_raw": "Paypal",
+    "purpose": "Processing Fee",
+    "amount": "14.95",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "01/24/2024",
+    "vendor_raw": "Chubbys",
+    "purpose": "Campaign Lunch",
+    "amount": "25.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "02/07/2024",
+    "vendor_raw": "Mailchimp",
+    "purpose": "Email",
+    "amount": "56.94",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "02/10/2024",
+    "vendor_raw": "McNeil Printing",
+    "purpose": "Flyers",
+    "amount": "438.21",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "9",
+    "page": 4,
+    "row": 9,
+    "date": "02/12/2024",
+    "vendor_raw": "Sticker Mule",
+    "purpose": "Logo Stickers",
+    "amount": "2.14",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "10",
+    "page": 4,
+    "row": 10,
+    "date": "02/15/2024",
+    "vendor_raw": "Walmart",
+    "purpose": "Meet The Candidates",
+    "amount": "16.57",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "11",
+    "page": 4,
+    "row": 11,
+    "date": "02/20/2024",
+    "vendor_raw": "Lehi Bakery",
+    "purpose": "Meet The Candidates",
+    "amount": "14.83",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "12",
+    "page": 4,
+    "row": 12,
+    "date": "02/21/2024",
+    "vendor_raw": "UCRW",
+    "purpose": "UCRW Table",
+    "amount": "280",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Printed '$280' with no cents. 'UCRW' is the filer's own abbreviation; no expansion inferred. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "13",
+    "page": 4,
+    "row": 13,
+    "date": "03/08/2024",
+    "vendor_raw": "Costco",
+    "purpose": "Meet The Candidates",
+    "amount": "29.84",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "14",
+    "page": 4,
+    "row": 14,
+    "date": "03/19/2024",
+    "vendor_raw": "Utah GOP/Salt Lake Print",
+    "purpose": "Mailer",
+    "amount": "638.08",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "Two payees written into one vendor cell by the filer, separated by a slash; kept verbatim as one row exactly as the document reports it. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "15",
+    "page": 4,
+    "row": 15,
+    "date": "03/22/2024",
+    "vendor_raw": "Zac Green",
+    "purpose": "Sign Clips",
+    "amount": "25.79",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "16",
+    "page": 5,
+    "row": 1,
+    "date": "04/20/2024",
+    "vendor_raw": "Minuteman Press",
+    "purpose": "Convention Stickers",
+    "amount": "49.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "17",
+    "page": 5,
+    "row": 2,
+    "date": "04/23/2024",
+    "vendor_raw": "Zurchers",
+    "purpose": "Convention Booth",
+    "amount": "29.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "18",
+    "page": 5,
+    "row": 3,
+    "date": "04/24/2024",
+    "vendor_raw": "Costco",
+    "purpose": "Volunteer Thank You's",
+    "amount": "79.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "19",
+    "page": 5,
+    "row": 4,
+    "date": "05/03/2024",
+    "vendor_raw": "Alicia Alba",
+    "purpose": "Campaign Donation",
+    "amount": "20",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "An outgoing 'Campaign Donation' to a named individual, booked on the EXPENDITURE side by the filer; transcribed under the heading the sheet prints and included in that sheet's own printed subtotal, so the page's arithmetic confirms the side. Printed '$20' with no cents. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "20",
+    "page": 5,
+    "row": 5,
+    "date": "05/07/2024",
+    "vendor_raw": "Mailchimp",
+    "purpose": "Email CRM",
+    "amount": "85.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "21",
+    "page": 5,
+    "row": 6,
+    "date": "05/11/2024",
+    "vendor_raw": "Lehi Bakery",
+    "purpose": "Booth Treats",
+    "amount": "16.63",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "22",
+    "page": 5,
+    "row": 7,
+    "date": "05/17/2024",
+    "vendor_raw": "Miss Lehi",
+    "purpose": "Program AD",
+    "amount": "25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "23",
+    "page": 5,
+    "row": 8,
+    "date": "05/20/2024",
+    "vendor_raw": "Mike Bird",
+    "purpose": "Campaign Donation",
+    "amount": "25",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "A second outgoing donation to a named individual; same handling as line 19. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "24",
+    "page": 5,
+    "row": 9,
+    "date": "05/25/2024",
+    "vendor_raw": "CVS",
+    "purpose": "Supplies",
+    "amount": "10.73",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "25",
+    "page": 5,
+    "row": 10,
+    "date": "05/25/2024",
+    "vendor_raw": "Chubbys",
+    "purpose": "Campaign Lunch",
+    "amount": "16.75",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "26",
+    "page": 5,
+    "row": 11,
+    "date": "06/08/2024",
+    "vendor_raw": "USPS",
+    "purpose": "Stamps",
+    "amount": "6.80",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "27",
+    "page": 5,
+    "row": 12,
+    "date": "06/10/2024",
+    "vendor_raw": "Cole Kelly",
+    "purpose": "Campaign Donation",
+    "amount": "28",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "A third outgoing donation to a named individual; same handling as line 19. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "28",
+    "page": 5,
+    "row": 13,
+    "date": "07/01/2024",
+    "vendor_raw": "X",
+    "purpose": "X Premium",
+    "amount": "123.56",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The vendor cell holds the single character 'X' (the platform's name); transcribed verbatim rather than expanded or treated as a placeholder \u2014 the purpose cell 'X Premium' makes the reading unambiguous by CONTENT. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "29",
+    "page": 5,
+    "row": 14,
+    "date": "08/13/2024",
+    "vendor_raw": "Tyler Smith Consulting",
+    "purpose": "Lehi Loop AD",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "30",
+    "page": 5,
+    "row": 15,
+    "date": "08/29/2024",
+    "vendor_raw": "Facebook",
+    "purpose": "Social Media ADs",
+    "amount": "243.91",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "31",
+    "page": 6,
+    "row": 1,
+    "date": "08/31/2024",
+    "vendor_raw": "Costco",
+    "purpose": "Supplies",
+    "amount": "38.81",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "32",
+    "page": 6,
+    "row": 2,
+    "date": "09/16/2024",
+    "vendor_raw": "Fiverr",
+    "purpose": "Design",
+    "amount": "8.34",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "33",
+    "page": 6,
+    "row": 3,
+    "date": "09/30/2024",
+    "vendor_raw": "Home Depot",
+    "purpose": "Supplies",
+    "amount": "21.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The purpose cell on this row renders inside its own thin box outline \u2014 a fillable-field artefact of the form, not an annotation. CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "34",
+    "page": 6,
+    "row": 4,
+    "date": "10/07/2024",
+    "vendor_raw": "Lowes",
+    "purpose": "Supplies",
+    "amount": "24.65",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "35",
+    "page": 6,
+    "row": 5,
+    "date": "10/17/2024",
+    "vendor_raw": "Blip",
+    "purpose": "Billboards",
+    "amount": "350.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "36",
+    "page": 6,
+    "row": 6,
+    "date": "10/18/2024",
+    "vendor_raw": "TruReligion",
+    "purpose": "Campaign Breakfast",
+    "amount": "59.51",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "37",
+    "page": 6,
+    "row": 7,
+    "date": "10/25/2024",
+    "vendor_raw": "American Fork Citizen",
+    "purpose": "AD",
+    "amount": "50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "38",
+    "page": 6,
+    "row": 8,
+    "date": "10/28/2024",
+    "vendor_raw": "Fiverr",
+    "purpose": "Design",
+    "amount": "11.15",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   },
+   {
+    "line_no": "39",
+    "page": 6,
+    "row": 9,
+    "date": "10/28/2024",
+    "vendor_raw": "Kneaders",
+    "purpose": "Campaign Meal",
+    "amount": "16.78",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "CORROBORATION: this row's date, name and amount are printed identically on the unredacted sibling 00c19030 (the same report published without the redaction pass); the two readings were taken independently and agree, and no VALUE was carried between them."
+   }
+  ],
+  "notes": "MEMBER 3 OF THE SKYLER BELTRAN THREE-DOCUMENT CLUSTER (00c19030 / ccccb017 / 0cb7a1c6). \u26a0\u26a0 CLUSTER VERDICT FOR THIS DOCUMENT (\u00a7K2): it is kind (3), THE SAME REPORT RE-PUBLISHED WITH A REDACTION PASS \u2014 the county's redacted issue of the very report 00c19030 publishes in the clear. Not an original, not a revision, not a different report. Row-level evidence, not total-level: same report type ticked ('Seven days preceding the General Election'), same amendment answer ('No'), same typed cover, same dotloop banners (dtlp.us/hJgj-FYBE-0IZc on pp1/3 and dtlp.us/vICx-xBiz-HQPm on pp2/4), same Date of Report 10/28/2024, same clerk RECEIVED stamp OCT 30 2024, same seven-page shape with the same three mastheads, and EVERY ledger line identical \u2014 all 23 contribution rows and all 39 expenditure rows, the same five page subtotals (5350 / 8,544.23 / 2,458.67 / 810.64 / 580.64), the same struck typed grand totals with the same 'SMB' corrections, and the same six summary boxes. The grids even measure identically to the hundredth of a percent, so the redaction was applied to the SAME digital file rather than to a re-scan. THE ONLY DIFFERENCES ARE THE COUNTY'S BLACK BARS, and they are consequential for the donor layer: on the cover the candidate's street address, phone number and signature are barred (all in the clear on 00c19030), and on p2 the county blacked out each donor's street \u2014 but NOT UNIFORMLY. On rows 1, 4, 6, 7, 8, 10, 11, 14 and 15 the bar stops short and the city, state and zip survive; on rows 2, 3, 5, 9, 12 and 13 THE BAR COVERS THE CITY TOO, leaving only the state and zip. Those six rows therefore carry an honestly BLANK donor_city on this record \u2014 the city was NOT carried across from the unredacted sibling, because a value may come only from the row's own cell on its own document (\u00a7C3 / \u00a7L6, and the same discipline as the riverton mislabeled-source precedent). This is the practical demonstration of \u00a7K2's point that a redaction pass WITHHOLDS disclosure the other copy makes, and of \u00a7I1's 'judge redaction from the page, per cell': p3, p4, p5 and p6 carry no bar at all, so the same filing is redacted on one Schedule A sheet and untouched on the other. Independent agreement with 00c19030 on all 62 amounts, all five page subtotals and both grand totals is CORROBORATION and is recorded on every row; the geometry was re-measured and re-proved on this PDF (\u00a7K1). PAGE-FACE identity: 'Skyler M. Beltran'; Office box prints 'Utah County Commissioner Seat C'; index.csv's channel label and its reporting_period '7 Days before General' agree with the page face. NO CHECKLIST DECOY is bound. PRIVACY: no street address and no phone number is carried into this record."
+ }
+]

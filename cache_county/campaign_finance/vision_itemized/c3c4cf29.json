@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C12.json",
+ "key": "c3c4cf29",
+ "index_path": "raw/2018/2018_cc_Craig_W_Buttars_final.pdf",
+ "applies_to": [
+  "raw/2018/2018_cc_Craig_W_Buttars_final.pdf",
+  "raw/2018/2018_st_Buttars_Craig_W.pdf"
+ ],
+ "sha256_prefix": "8e092c60804df360",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "-0-",
+    "cover_over50_this": "-0-",
+    "cover_over50_cum": "",
+    "cover_le50_this": "-0-",
+    "cover_le50_cum": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no-schedule-page-in-document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is ONE PAGE - the Carr cover only. Form 'A' (page 2 of the printed form) is not present in the document, so there is no schedule to transcribe and no itemized sum to claim; this is 'none', not a zero. The cover itself reports '-0-' on both the LAST REPORT and THIS REPORT columns of line 1 (and of line 2, the <=$50 aggregate), so on the filer's own statement nothing was itemizable. The whole CUMULATIVE column, lines 1 through 4, is crossed out with a single large vertical squiggle running the height of the column - recorded as '' with the strike described, not as 0."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "-0-",
+    "cover_expense_this": "-0-",
+    "cover_expense_cum": "",
+    "cover_balance_end": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no-schedule-page-in-document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Form 'B' (page 3 of the printed form) is not present in this one-page PDF - 'none', not a zero. Cover line 3 reads '-0-' in both LAST and THIS columns; line 4 (balance) likewise '-0-' in LAST and THIS, with the CUMULATIVE cell inside the struck-out column."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Not applicable - no schedule page exists in the document, and the Carr form prints no schedule total in any case.",
+  "row_count": "Not run - no ruled schedule page in the document.",
+  "geometry_proof": "Not applicable - zero rows emitted.",
+  "balance_chain": "All four cover lines are nil glyphs in the LAST and THIS columns: 0 + 0 - 0 = 0, which is consistent with the '-0-' balance, but the identity is vacuous here and the CUMULATIVE column is struck through rather than filled. No other Buttars filing in this cycle is in my chunk, so no cross-filing chain test was possible."
+ },
+ "escalations": 0,
+ "escalation_note": "No escalation needed: the cover is a clean 200 dpi read and every money cell is a nil glyph or a strike-out.",
+ "notes": "DOCUMENT CONTRADICTS THE CHUNK FILE ON OFFICE. index.csv says office 'County Executive'; the form's 'Name of Office' line reads, verbatim, 'Executive / Surveyor' - the filer named TWO county offices on one line. Both are county offices, so the filing is in scope, but the index's single-office label is not what the form says. Candidate line reads 'Craig W Buttars', agreeing with index. Political Party Republican; Office District left blank. Signed/dated 11/30/18; a rotated clerk stamp in the right margin reads 'CLERK - DEC 03 10PM 05:25'. The document is a ONE-PAGE PDF: the Carr form's Form 'A', Form 'B' and statute pages are simply absent, so both sides are 'none'. Candidate's street address, ZIP and both phone numbers appear in the clear on the cover and were discarded at read time. NOTE FOR A HUMAN: the entire CUMULATIVE column is voided by one long hand-drawn vertical squiggle spanning lines 1-4 - a deliberate strike, distinct from a blank cell and distinct from a nil glyph.",
+ "contributions": [],
+ "expenditures": []
+}

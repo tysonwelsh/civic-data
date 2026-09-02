@@ -1,0 +1,87 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C25.json",
+ "key": "0c96feb4",
+ "index_path": "raw/2026/2026_cc_2026_Financial_Disclosure_June16_N_George_Daines.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_June16_N_George_Daines.pdf"
+ ],
+ "sha256_prefix": "b32a9b290ea96b45",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "cover",
+  "3": "form-A",
+  "4": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "jotform-freetext-block",
+  "expenditures": "jotform-freetext-block"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "NONE",
+    "cover_over50_cum": "NONE",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_expense_last": null,
+    "cover_balance_end": null,
+    "schedule_total": "NONE",
+    "page_subtotal": null,
+    "box_A_balance_begin": "$0.00",
+    "box_F_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "listing-block==this-period-total==year-to-date-total (all the nil word NONE)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "This is the county's ONLINE JOTFORM variant, not the Schedule A/B CFD: contributions are a single free-text block headed 'Please List all Contributions Received / Date - Name of Contributor - Address - Amount *' with the instruction 'Please put each contribution on a separate line'. The filer entered the single word 'NONE' in the listing block, 'NONE' in 'Total amount of contributions received This Period', and 'NONE' in 'Total amount of contributions received year to date'. Listing and both totals agree, so the side reconciles; the this-period and year-to-date fields carry the same value, so the two scopes coincide and scope is recorded cumulative. 'NONE' is a NIL WORD, not the written word 'zero' and not a zero glyph, so the anchors keep it verbatim rather than being reported as 0. This form has no per-page subtotal, no <=$50 aggregate line, no Box F and no Balance-at-Close field - those keys are null because the FIELD DOES NOT EXIST, which is different from a blank cell."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "NONE",
+    "cover_expense_cum": "NONE",
+    "cover_balance_end": null,
+    "schedule_total": "NONE",
+    "page_subtotal": null,
+    "box_A_balance_begin": "$0.00",
+    "box_F_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "listing-block==this-period-total==year-to-date-total (all the nil word NONE)",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Same shape: a free-text block headed 'Please List all Expenditures Made / Date - Provider/Vendor - Purpose - Amount *' (p3), with 'Total amount of Expenditures made this period' and 'Total amount of Expenditures made this year to date' straddling the p3/p4 break. All three carry 'NONE'. Listing and both totals agree; the two scopes coincide, so scope is cumulative."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "This form prints NO page subtotal and NO schedule total in the ruled-form sense - only the filer-entered this-period and year-to-date total fields, which are the only anchors available. Zero rows on both sides against 'NONE' totals on both sides: both sides agree. No gate could be run against a printed subtotal because the form has none, and none was invented.",
+  "row_count": "Not a ruled grid at all - each side is one free-text box with the instruction 'Please put each <item> on a separate line', so rowbands.py has no row geometry to score and was not applicable. Counted by ink at 200 dpi: the contributions box holds exactly one line reading 'NONE' and the expenditures box exactly one line reading 'NONE'; the remainder of both boxes is blank. Zero transaction rows, zero rows emitted.",
+  "geometry_proof": "No rows emitted, so no row geometry to prove. Both free-text listing boxes were rendered full-page at 200 dpi and hold only the single word 'NONE' at the top of the box.",
+  "balance_chain": "Only ONE balance field exists on this form: 'Balance at Beginning of Reporting Period *' = $0.00. There is no closing-balance field and no Box F, so the beginning + contributions - expenditures = ending chain CANNOT be run on this document - the ending term does not exist. Stated rather than forced. What can be said: opening 0.00 with 'NONE' in and 'NONE' out is internally consistent. Cross-filing chain NOT run: this chunk holds only the June-16 Daines filing (an Apr-3 2026 N. George Daines report exists in the county corpus but is outside it)."
+ },
+ "escalations": 0,
+ "escalation_note": "Bitonal 300 dpi CCITT scan of a Jotform printout, with a text layer of only 4 characters (i.e. none) - so this was read purely as images, as the index's totals_source 'vision' expects. Every filled field is machine-printed browser text and renders unambiguously at 200 dpi; the only handwriting is the signature. No bistable glyphs, so no crop escalation was warranted.",
+ "notes": "FORM FAMILY CONFIRMED as the addendum's 'other' one-off: this is the county's ONLINE JOTFORM, printed and scanned, NOT the Schedule A/B Candidate Financial Disclosure. Its banner is printed 'CANIDIDATE FINANCIAL DISCLOSURE' - the county's own misspelling, quoted verbatim. Layout: p1 banner + how-to-file + name + street/city/state; p2 zip + Office + email/phone + report-type radios + amendment radio + Balance at Beginning; p3 contributions listing block + both contribution totals + expenditures listing block; p4 the expenditure totals, affirmation, signature and date. The contribution and expenditure listings therefore SHARE page 3 - the p3/p4 split falls inside the expenditure block, and both pages were read. OFFICE: index.csv says 'County Executive'; the form's own Office line reads 'Cache County Executive' - agrees, and it is a county office, so IN SCOPE. DATES: index/chunk date is 2026-06-16 (the county's posting batch); the form's own signed Date field reads 06-14-2026 and the clerk's received stamp reads 'CACHE CO CLERK RCVD 2026 JUN 15 PM4:26', so the DOCUMENT date is 2026-06-14, received 2026-06-15 - three different dates, none of them the 16th. REPORT TYPE: the '7 days preceding the General/Primary Election' radio is selected and the 'Other Report Type' free-text line is blank. The affirmation line was left with the Jotform PLACEHOLDER text 'Candidate Name' unreplaced - the filer never typed his name into it; the signature block instead carries a hand-drawn 'N G D'. The candidate's home street address, city, zip, email and phone are printed in the clear on p1/p2 and were discarded at read time. Both sides are an honest, filer-stated NONE.",
+ "contributions": [],
+ "expenditures": []
+}

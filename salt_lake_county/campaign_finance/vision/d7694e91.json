@@ -1,0 +1,259 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2025-06-06",
+   "donor_raw": "Joan Erickson",
+   "occupation": "Records",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.35,22.02,89.03,4.14@p3",
+   "note": "address incl. city/state redacted at source"
+  },
+  {
+   "line_no": 2,
+   "date": "2025-06-06",
+   "donor_raw": "Trevor Erickson",
+   "occupation": "Sales",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.35,26.16,89.03,4.14@p3",
+   "note": "address incl. city/state redacted at source"
+  },
+  {
+   "line_no": 3,
+   "date": "2025-06-06",
+   "donor_raw": "Jessica Erickson",
+   "occupation": "Not employed",
+   "amount": "10.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.35,30.30,89.03,4.11@p3",
+   "note": "address incl. city/state redacted at source"
+  },
+  {
+   "line_no": 4,
+   "date": "2025-06-06",
+   "donor_raw": "Courtney Mattson",
+   "occupation": "Adobe",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.35,34.41,89.03,4.14@p3",
+   "note": "address incl. city/state redacted at source"
+  },
+  {
+   "line_no": 5,
+   "date": "2025-06-07",
+   "donor_raw": "Tiffany Erickson",
+   "occupation": "PacifiCorp",
+   "amount": "677.94",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.35,38.55,89.03,4.13@p3",
+   "note": "address incl. city/state redacted at source"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2025-06-15",
+   "vendor_raw": "Dog Latin",
+   "purpose": "Campaign video production",
+   "amount": "1000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,23.48,80.76,4.13@p4",
+   "note": "amount printed without decimals"
+  },
+  {
+   "line_no": 2,
+   "date": "2025-06-30",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Banking fees",
+   "amount": "8",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,27.61,80.76,4.12@p4",
+   "note": "amount printed without decimals"
+  },
+  {
+   "line_no": 3,
+   "date": "2025-07-31",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Banking fees",
+   "amount": "8",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,31.73,80.76,4.13@p4",
+   "note": "amount printed without decimals"
+  },
+  {
+   "line_no": 4,
+   "date": "2025-08-31",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Banking fees",
+   "amount": "8",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,35.86,80.76,4.14@p4",
+   "note": "amount printed without decimals"
+  },
+  {
+   "line_no": 5,
+   "date": "2025-09-30",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Banking fees",
+   "amount": "8",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,40.00,80.76,4.14@p4",
+   "note": "amount printed without decimals"
+  },
+  {
+   "line_no": 6,
+   "date": "2025-10-31",
+   "vendor_raw": "Zions Bank",
+   "purpose": "Banking fees",
+   "amount": "8",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.03,44.14,80.76,4.11@p4",
+   "note": "amount printed without decimals"
+  }
+ ],
+ "total_contributions": "",
+ "total_expenditures": "",
+ "beginning_balance": "102.06",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "1040.00"
+ },
+ "cover": {
+  "candidate": "Tiffany Erickson",
+  "party": "Democrat",
+  "office_sought": "",
+  "district_number": null,
+  "report_type": "Final / Dissolution Report ('For an Open Campaign Account' form)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2026-02-02",
+  "form_year": ""
+ },
+ "confidence": {
+  "beginning_balance": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Erickson-Tiffany__80145A43.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Erickson, Tiffany",
+  "office": "County Council",
+  "election_year": "2026",
+  "source_pdf": "raw/easyvote/Erickson-Tiffany__80145A43.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "2026 'Financial Disclosure Report For an Open Campaign Account' form with Final/Dissolution box checked; no form year in title. The 'Office' cell on the cover is blank (chunk prior 'County Council District 1' not confirmable from this cover; the sibling 9A3F39D7 cover reads Office Sought 'County Council' District 1). Neither amendment box checked. Digitally signed 2026.02.02, date field 2/2/2026. Street/city/state/zip/phone/email redacted on the cover; address column bar-redacted on Schedule A rows. Expenditure amounts printed as bare integers ('1000', '8') transcribed verbatim. Pages 5-7 are the complete Other Campaign Accounts section (summary + both schedules), entirely blank. Summary Column B entirely blank. Schedule dates June-October 2025 on this 2026-cycle dissolution.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": "937.94",
+     "itemized": "937.94",
+     "basis": "summary-line-4",
+     "result": "exact",
+     "detail": "Summary line 1 Column A left BLANK by the filer; 5 rows sum 937.94 = Summary line 4 = Schedule A subtotal/total"
+    },
+    "expenditures": {
+     "stated": "",
+     "schedule_total": "1040.00",
+     "itemized": "1040.00",
+     "basis": "summary-line-6",
+     "result": "exact",
+     "detail": "Summary line 2 Column A left BLANK by the filer; 6 rows sum 1040.00 = Summary line 6 = Schedule B subtotal/total"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 937.94 = printed subtotal/total 937.94; p4 rows 1040.00 = printed subtotal/total 1040.00. Both gate.",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 5,
+   "n_expend_rows": 6,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "2026 'Financial Disclosure Report For an Open Campaign Account' form with Final/Dissolution box checked; no form year in title. The 'Office' cell on the cover is blank (chunk prior 'County Council District 1' not confirmable from this cover; the sibling 9A3F39D7 cover reads Office Sought 'County Council' District 1). Neither amendment box checked. Digitally signed 2026.02.02, date field 2/2/2026. Street/city/state/zip/phone/email redacted on the cover; address column bar-redacted on Schedule A rows. Expenditure amounts printed as bare integers ('1000', '8') transcribed verbatim. Pages 5-7 are the complete Other Campaign Accounts section (summary + both schedules), entirely blank. Summary Column B entirely blank. Schedule dates June-October 2025 on this 2026-cycle dissolution."
+  }
+ }
+}

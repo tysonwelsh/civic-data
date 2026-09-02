@@ -27,6 +27,7 @@ from __future__ import annotations
 
 import os
 import sys
+import re
 import unittest
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -478,6 +479,133 @@ class TestWashcoSplit(unittest.TestCase):
         self.assertEqual((first.donor_city, first.donor_state), ("St George", "UT"))
         for x in r["contrib_rows"]:
             self.assertNotIn("Sweetgum", x.donor_raw + x.donor_city)
+
+    # ---------------------------------------------------------------- 2026-08-23 parser wave
+
+    @staticmethod
+    def _boxes(text):
+        """A laid-out fixture -> the `bbox` word-box structure `bbox_lib.read_pdf_boxes` returns.
+
+        Character cell -> points at a nominal 6.0pt advance and 26.0pt line pitch, which
+        preserves every column RELATIONSHIP the real coordinates have. Used so the
+        true-coordinate reader can be tested without shipping a binary PDF fixture.
+        """
+        lines = []
+        for r, ln in enumerate(text.splitlines()):
+            words = []
+            for m in re.finditer(r"\S+", ln):
+                words.append((m.start() * 6.0, m.end() * 6.0, m.group(0)))
+            if words:
+                lines.append({"y0": 74.0 + r * 26.0, "y1": 84.0 + r * 26.0, "words": words})
+        return [{"width": 612.0, "height": 792.0, "lines": lines}]
+
+    def test_name_above_address_layout_never_ships_the_street_as_the_donor(self):
+        """The 2012 workbooks print the NAME ABOVE and the ADDRESS on the figures' own row.
+        Read as the 2014 layout, the ADDRESS becomes `donor_raw` — a wrong value and a privacy
+        breach at once."""
+        r = self.FAM.parse(fx("washco_gardner_2012_nameabove.xlstxt"),
+                           meta(candidate="Alan Gardner", election_year="2012"))
+        got = [(x.donor_raw, x.amount, x.donor_type, x.donor_city) for x in r["contrib_rows"]]
+        self.assertEqual([g[0] for g in got], ["Bob Holt", "AG LLC", "Jim Flohr"])
+        self.assertEqual([g[1] for g in got], ["100.00", "600.00", "200.00"])
+        for x in r["contrib_rows"]:
+            self.assertNotRegex(x.donor_raw, r"\d")          # no street number ever
+            self.assertNotIn("Joshua", x.donor_raw)
+
+    def test_loan_column_ships_as_a_loan_not_as_a_dropped_row(self):
+        r = self.FAM.parse(fx("washco_gardner_2012_nameabove.xlstxt"),
+                           meta(candidate="Alan Gardner", election_year="2012"))
+        loans = [x for x in r["contrib_rows"] if x.donor_type == "loan"]
+        self.assertEqual([(x.donor_raw, x.amount) for x in loans], [("AG LLC", "600.00")])
+        self.assertEqual(r["coverage"]["contributions"],
+                         {"logical": 3, "emitted": 3})
+
+    def test_in_kind_column_figure_is_a_contribution(self):
+        """Kevin Brooks 2010: J Ryan Lee's three entries right-align under `In Kind` while cash
+        amounts right-align under `Amount`, and the county's own summary row ($744.05) counts
+        them as contributions."""
+        text = (
+            "All Contributions for          Kevin Brooks                                  Sheriff\n"
+            "\n"
+            "Name                                    Received           Amount            In Kind       Loan\n"
+            "Address\n"
+            "J Ryan Lee                                     3/18/2010                         $400.00\n"
+            "2182 S 2440 E Cir, St George, UT\n"
+            "Ryan Lee                                       5/19/2010        $300.00\n"
+            "2182 S 2440 E Cir, St George, UT\n")
+        part = dict(ix={}, text=text, sidecar="", is_scanned=False, bbox=self._boxes(text))
+        r = self.FAM.parse_group([part], meta(candidate="Kevin Brooks", election_year="2010"))
+        got = [(x.donor_raw, x.amount, x.in_kind) for x in r["contrib_rows"]]
+        self.assertEqual(got, [("J Ryan Lee", "400.00", "True"),
+                               ("Ryan Lee", "300.00", "False")])
+        self.assertEqual(csum(r, "contrib_rows"), 700.00)
+
+    def test_malformed_money_is_refused_and_the_side_reads_short(self):
+        """`$5,00.00` is the county's own export typo (Cory Pulsipher 2010). It is never
+        repaired, so the row is refused AND the coverage counters say the side is short — which
+        is what makes the module withhold it rather than publish a short sum."""
+        text = (
+            "All Contributions for         Cory Pulsipher                              County Sheriff\n"
+            "\n"
+            "Name                                    Received           Amount         In Kind     Loan\n"
+            "Address\n"
+            "Cory Pulsipher                                 10/1/2009        $200.00       NO           NO\n"
+            "Accu Form Plastics                             10/5/2009       $5,00.00       NO           NO\n"
+            "Utah Bail Bond                                 2/17/2010        $100.00       NO           NO\n")
+        part = dict(ix={}, text=text, sidecar="", is_scanned=False, bbox=self._boxes(text))
+        r = self.FAM.parse_group([part], meta(candidate="Cory Pulsipher", election_year="2010"))
+        self.assertEqual([x.amount for x in r["contrib_rows"]], ["200.00", "100.00"])
+        cov = r["coverage"]["contributions"]
+        self.assertEqual((cov["logical"], cov["emitted"]), (3, 2))
+        self.assertIn("never repaired", r["notes"])
+
+    def test_rows_are_stamped_with_the_part_file_they_were_read_from(self):
+        """SCHEMA.md 2a caveat 1, fixed at emission: `(source_filing, line_no)` must point at
+        the LEDGER file, not at the group's Summary."""
+        parts = [dict(ix={"path": "raw/x/summary.xls"},
+                      text=fx("washco_iverson_2014_summary.xlstxt"), sidecar="",
+                      is_scanned=False),
+                 dict(ix={"path": "raw/x/contributions.xls"},
+                      text=fx("washco_iverson_2014_contributions.xlstxt"), sidecar="",
+                      is_scanned=False)]
+        r = self.FAM.parse_group(parts, meta(candidate="Victor Iverson", election_year="2014",
+                                             deadline="2014-04-04",
+                                             source_filing="raw/x/summary.xls"))
+        self.assertEqual({x.source_filing for x in r["contrib_rows"]},
+                         {"raw/x/contributions.xls"})
+
+    def test_bbox_reader_keeps_one_column_model_across_pages(self):
+        """The `-layout` grid drifts between pages of one document (Tersigni p1 cols 40-47 ->
+        p2 cols 19-26) while the PDF's own coordinates do not. Page 2 must parse."""
+        page1 = (
+            "All Expenditures for Rob Tersigni                           Sheriff\n"
+            "\n"
+            "Recipient                      Received Amount     In Kind   Description\n"
+            "\n"
+            "Staples                                   $9.54             Mailing\n")
+        pages = self._boxes(page1)
+        # a SECOND page, laid out differently in characters but at the SAME true x as page 1
+        p2 = {"width": 612.0, "height": 792.0, "lines": [
+            {"y0": 88.0, "y1": 98.0, "words": [(56.0, 104.0, "Office"), (106.0, 140.0, "Max"),
+                                               (252.0, 282.0, "$153.98"),
+                                               (360.0, 400.0, "Mailing")]}]}
+        pages.append(p2)
+        part = dict(ix={}, text=page1, sidecar="", is_scanned=False, bbox=pages)
+        r = self.FAM.parse_group([part], meta(candidate="Rob Tersigni", election_year="2010"))
+        self.assertEqual([(x.vendor_raw, x.amount, x.geometry.split("@")[-1])
+                          for x in r["expend_rows"]],
+                         [("Staples", "9.54", "p1"), ("Office Max", "153.98", "p2")])
+
+    def test_bbox_rows_carry_pct_geometry(self):
+        text = ("All Expenditures for Rob Tersigni                           Sheriff\n"
+                "\n"
+                "Recipient                      Received Amount     In Kind   Description\n"
+                "\n"
+                "Staples                                   $9.54             Mailing\n")
+        part = dict(ix={}, text=text, sidecar="", is_scanned=False, bbox=self._boxes(text))
+        r = self.FAM.parse_group([part], meta(candidate="Rob Tersigni", election_year="2010"))
+        for x in r["expend_rows"]:
+            self.assertRegex(x.geometry, r"^pct:[\d.]+,[\d.]+,[\d.]+,[\d.]+@p\d+$")
 
     def test_summary_sheet_declares_the_incremental_regime(self):
         r = self.FAM.parse_group(

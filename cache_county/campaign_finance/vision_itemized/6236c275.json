@@ -1,0 +1,114 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C08.json",
+ "key": "6236c275",
+ "index_path": "raw/2014/2014_cc_Zollinger_Oct_28_14_camp_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Zollinger_Oct_28_14_camp_finance.pdf"
+ ],
+ "sha256_prefix": "c077676c657e9405",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "-0-",
+    "cover_over50_this": "429.00",
+    "cover_over50_cum": "429.00",
+    "cover_le50_this": "-0-",
+    "cover_le50_cum": "-0-",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "429.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One row, 429.00, equal to cover line 1 in BOTH the THIS REPORT and CUMULATIVE columns. Line 1 LAST REPORT reads '-0-' (a zero glyph, so 0 per the repo-wide zero-glyph ruling) — this is the first report of the cycle, so the two scopes coincide; recorded as cumulative. Line 2 (the $50-or-less aggregate) is '-0-' in every column, so the sub-$50 trap does not bite here: line 1 and line1+line2 are the same figure. The Carr form prints no schedule total."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "-0-",
+    "cover_expense_this": "429.00",
+    "cover_expense_cum": "429.00",
+    "cover_balance_end": "-0-",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "429.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One row, 429.00, equal to cover line 3 in both the THIS REPORT and CUMULATIVE columns; LAST REPORT is '-0-', so first report of the cycle and the scopes coincide."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Carr 5-5-PG prints NO schedule total and NO page subtotal. p2: 1 row 429.00 = cover line 1 THIS = line 1 CUM. p3: 1 row 429.00 = cover line 3 THIS = line 3 CUM. Both exact.",
+  "row_count": "Counted against INK. This filing is machine-typed, not handwritten, so the ink is unambiguous: Form A has exactly 1 filled writing line and Form B exactly 1; every other line on both sheets is empty. 1 row emitted per side. Dates/names/amounts 1/1/1 on each side — field-shift screen passes.",
+  "geometry_proof": "p2 row-1 crop (pct 82.00,11.20,11.00,2.20) renders '$429.00'; control one pitch below renders EMPTY. p3 row-1 crop (pct 82.00,10.70,11.00,2.20) renders '$429.00'; control one pitch below renders EMPTY.",
+  "balance_chain": "Line 1 contributions 429.00 + line 2 aggregate 0 - line 3 expenses 429.00 = 0, and cover line 4 (balance at end of period) reads '-0-' in all three columns. Closes exactly. LAST REPORT column is '-0-' on all four lines, so there is no prior filing to chain to."
+ },
+ "escalations": 5,
+ "escalation_note": "p1 cover four-line anchor block re-rendered at 600 dpi (all twelve cells read: -0- / 429.00 / 429.00, -0- / -0- / -0-, -0- / 429.00 / 429.00, -0- / -0- / -0-); the clerk's date stamp re-rendered at 600 dpi and found to be printed VERTICALLY (rotated 90 degrees in the page block) reading 'CACHE COUNTY CLERK / RCVD ... OCT 2014'; plus 4 geometry-proof crops at 600 dpi.",
+ "notes": "Cover 'Name of Office' reads 'Cache County Clerk/Auditor' — agrees with the chunk file's 'Clerk/Auditor'. Candidate 'Jill N. Zollinger'; the chunk file's candidate string is 'Zollinger camp', which is a filename artefact ('..._Zollinger_Oct_28_14_camp_finance') and not what the form says — the form's name is authoritative. The report is addressed 'TO Jill N. Zollinger, County Clerk' — the candidate IS the incumbent county clerk, so she is both filer and addressee; that is not an error. The single contribution is the candidate self-funding her own filing fee, and the single expenditure is that filing fee paid to the Cache County Clerk — the two are the same 429.00 on the same day, 3/14/14. Cover signature date is 10/03/14; the chunk file records the filing as 2014-10-28 — noted, not resolved here (the clerk stamp is vertical and its day digits are not legible at any resolution tried). Cover line 3 LAST REPORT carries a scan speck over the leading dash so it images as 'Q0-'; the cell is '-0-' like the other eleven cells on the cover. Zero glyphs '-0-' are read as 0 per the repo-wide zero-glyph ruling, with the verbatim glyph kept here. The candidate's street address and both phone numbers on the cover, and the contributor's street address on Form A, were discarded at read time. This filing is machine-typed throughout — no handwriting, no bistable glyphs.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-03-14",
+   "donor_raw": "Jill Zollinger",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "429.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,11.20,11.00,2.20@p2",
+   "note": "machine-typed; the candidate self-funding (the cover's City line reads 'Logan / College Ward' but the Form A address line reads 'Logan, UT' — city taken from Form A verbatim)"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2014-03-14",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "Filing Fee",
+   "amount": "429.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.00,10.70,11.00,2.20@p3",
+   "note": "machine-typed"
+  }
+ ]
+}

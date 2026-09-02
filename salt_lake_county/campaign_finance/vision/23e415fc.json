@@ -1,0 +1,147 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2015-01-28",
+   "donor_raw": "Elizabeth Hunt",
+   "occupation": "Attorney",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.77,24.35,87.51,3.65@p3",
+   "note": "the Complete Mailing Address cell is REDACTED AT SOURCE by the county's black bar (which also overhangs into the row below), so donor_city/donor_state are honestly blank - redacted, not left empty by the filer. Occupation survives the bar."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2015-02-27",
+   "vendor_raw": "USPS",
+   "purpose": "PO Box Payment",
+   "amount": "62.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.33,27.50,80.58,3.40@p4"
+  },
+  {
+   "line_no": 2,
+   "date": "2016-01-29",
+   "vendor_raw": "Salt Lake Area Domestic Violence Coalition",
+   "purpose": "Donation",
+   "amount": "256.59",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.33,30.90,80.58,4.70@p4",
+   "note": "recipient name wraps to a second line within the same ruled band - one row, not two. Date 1/29/16 falls after the 12/31 period end and two days before the report date; kept verbatim as printed."
+  }
+ ],
+ "total_contributions": "$100.00",
+ "total_expenditures": "$318.59",
+ "beginning_balance": "$218.59",
+ "ending_balance": "$0",
+ "aggregate": {
+  "total_contributions_to_date": "$49,006.43",
+  "total_expenditures_to_date": "$49,006.43",
+  "line5_subtotal": "$318.59"
+ },
+ "cover": {
+  "candidate": "Steve Nelson",
+  "party": "Republican",
+  "office_sought": "Salt Lake County District Attorney",
+  "district_number": "",
+  "report_type": "FINAL / DISSOLUTION REPORT",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "01/31/2016",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2015_disclosures__2015_year_end__steve_nelson2015ye_dissolution.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Steve Nelson",
+  "office": "District Attorney",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2015_disclosures__2015_year_end__steve_nelson2015ye_dissolution.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "FLAGS CONFIRMED, both of them. (1) Untitled-year form on the 'SHERRIE SWENSEN' letterhead, footer 'k://election/candidateinfo/financialdisclosures/04pccfindisc.doc' - form_year is '' and is NOT used to date the cycle. Its interim boxes read April 5 / seven days before a primary / September 15 / seven days before a general, which is a DIFFERENT untitled vintage from the sim_gill filing in this chunk. (2) The FINAL / DISSOLUTION box is marked with a TYPED 'X' sitting beside the checkbox rather than inside it; the checkbox glyph itself is empty. It is the only Type-of-Report mark on the page and is recorded as the checked box. PAGE 5 IS A BUNDLED SECOND DOCUMENT - a 'Dissolution of a Candidate Campaign Committee' notice - and it sits AFTER the FDR, not in front of it. It names the committee 'Steve Nelson for District Attorney', the candidate 'Stephen L. Nelson' (the FDR cover says 'Steve Nelson' - a name variant, retained on both, not normalized) and the committee secretary; its 'County/Local School Board Office' line is blank. NOT A SCHOOL-BOARD FILING: that phrase appears only in the dissolution blank's own printed subtitle '[County and Local School Board Candidates and Officeholders]', a shared form; the FDR cover's own office line reads 'Salt Lake County District Attorney', which is in scope. COLUMN B IS SELF-INCONSISTENT: line 1 and line 2 Column B both read $49,006.43 - identical aggregate contributions and expenditures - the known 'Column B is filer-asserted' property; retained verbatim, never reconciled. Line 7 Column A is a plain typed '$0'. Cover street-address block and phone/fax/email block are both black-barred at source, as is the Schedule A row's address cell.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "$100.00",
+     "schedule_total": "$100.00",
+     "itemized": "100.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "the single Schedule A row 100.00 = the schedule's printed 'TOTAL CONTRIBUTIONS RECEIVED' $100.00 = Summary line 1 Column A = Summary line 4. The SUBTOTAL FOR THIS PAGE cell is printed but LEFT BLANK (the section 1(2) class), so the schedule grand total is the page-level gate."
+    },
+    "expenditures": {
+     "stated": "$318.59",
+     "schedule_total": "$318.59",
+     "itemized": "318.59",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "the two Schedule B rows 62.00 + 256.59 = 318.59 EXACTLY = the schedule's printed 'TOTAL EXPENDITUTRES MADE' $318.59 = Summary line 2 Column A = line 6. The SUBTOTAL FOR THIS PAGE cell is again printed and left blank."
+    }
+   },
+   "page_subtotal_gates": "NOT AVAILABLE on either side: 'SUBTOTAL FOR THIS PAGE' is printed but left blank on both p3 and p4 (the section 1(2) 'printed and left blank' class). Gated instead on each schedule's own printed grand total, which both sides hit exactly.",
+   "escalations": 2,
+   "escalation_note": "p3 row band and p4 row band re-rendered at 450 dpi (2.25x base) for the verified=1 pass; the filing is typed and needed no cell-level escalation.",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 2,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FLAGS CONFIRMED, both of them. (1) Untitled-year form on the 'SHERRIE SWENSEN' letterhead, footer 'k://election/candidateinfo/financialdisclosures/04pccfindisc.doc' - form_year is '' and is NOT used to date the cycle. Its interim boxes read April 5 / seven days before a primary / September 15 / seven days before a general, which is a DIFFERENT untitled vintage from the sim_gill filing in this chunk. (2) The FINAL / DISSOLUTION box is marked with a TYPED 'X' sitting beside the checkbox rather than inside it; the checkbox glyph itself is empty. It is the only Type-of-Report mark on the page and is recorded as the checked box. PAGE 5 IS A BUNDLED SECOND DOCUMENT - a 'Dissolution of a Candidate Campaign Committee' notice - and it sits AFTER the FDR, not in front of it. It names the committee 'Steve Nelson for District Attorney', the candidate 'Stephen L. Nelson' (the FDR cover says 'Steve Nelson' - a name variant, retained on both, not normalized) and the committee secretary; its 'County/Local School Board Office' line is blank. NOT A SCHOOL-BOARD FILING: that phrase appears only in the dissolution blank's own printed subtitle '[County and Local School Board Candidates and Officeholders]', a shared form; the FDR cover's own office line reads 'Salt Lake County District Attorney', which is in scope. COLUMN B IS SELF-INCONSISTENT: line 1 and line 2 Column B both read $49,006.43 - identical aggregate contributions and expenditures - the known 'Column B is filer-asserted' property; retained verbatim, never reconciled. Line 7 Column A is a plain typed '$0'. Cover street-address block and phone/fax/email block are both black-barred at source, as is the Schedule A row's address cell."
+  }
+ }
+}

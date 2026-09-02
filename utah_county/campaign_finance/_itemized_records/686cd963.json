@@ -1,0 +1,50 @@
+[{
+ "index_path": "raw/2022/2022_Renee_Tribe__2.pdf",
+ "key": "686cd963",
+ "wave": "itemized-vision(claude-opus-5; 2026-08-20 wave B2 utah chunk r12_02)",
+ "transcribed_date": "2026-08-20",
+ "pages_read": [1, 2, 3, 4],
+ "itemized_pages_A": "2",
+ "itemized_pages_B": "3",
+ "sides": {"contributions": "transcribed", "expenditures": "transcribed"},
+ "withheld_reason": {},
+ "recon": {
+  "contributions": {
+   "result": "exact",
+   "anchor": "Box B 'Contributions Received this Period' = 400.00 on the p4 Summary Page, which is also the printed 'Subtotal for this page $400.00' and the printed 'Total Contributions Received — Sum of all Schedule A Pages in this report $400.00' at the foot of the single Schedule A sheet",
+   "detail": "2 Schedule A rows sum to 200.00 + 200.00 = 400.00 exactly = the sheet's printed page subtotal = its printed Total Contributions Received = the cover's PROMOTED per-period cell Box B. Box C 'Contributions Received Year to Date' prints 28,390.00 and is NOT summed as an increment (per-period regime). Neither In-Kind box is ticked, so the monetary-only and monetary-plus-in-kind conventions give the same figure and both close at 400.00."
+  },
+  "expenditures": {
+   "result": "exact",
+   "anchor": "Box D 'Expenditures Made this Period' = 98.66 on the p4 Summary Page, equal to the printed 'Subtotal for this page $98.66' and the printed 'Total Expenditures Made — Sum of all Schedule B Pages in this report $98.66'",
+   "detail": "The single Schedule B row (Trader Joe's, 98.66) is the sheet's whole content and equals both printed footers and the promoted per-period cell Box D. Box E YTD 24,205.56 is retained as cumulative and never summed. No In-Kind box is ticked on this side either, so both conventions close at 98.66."
+  }
+ },
+ "in_kind_convention": "NOT APPLICABLE on this filing — the In-Kind checkbox column exists on both schedules (this is the newer 2022 blank) but every box is EMPTY, proved by an Amount+In-Kind block crop that shows both contribution rows' boxes unticked. Both conventions were tested and give the identical sum on each side. ⚠ Note this is the OPPOSITE of the same filer's other 2022 report (key 5afd8850), whose stated totals both INCLUDE a 3,000.00 in-kind gift — the G1 rule that in-kind treatment is per FILING and is never carried between a filer's own reports, demonstrated inside one filer's own cycle.",
+ "escalations": 0,
+ "escalation_note": "No cell needed escalation beyond the mandatory geometry proofs: only three figures exist on the two schedules and all three render unambiguously at 900 dpi (200.00 / 200.00 / 98.66), and each of the four printed footer figures plus every summary box reproduces to the cent.",
+ "frames": {
+  "2": {
+   "axis": "y",
+   "cell": [66.00, 76.00],
+   "cells": [[66.00, 76.00], [76.00, 82.00]],
+   "rows": [[3.24, 8.24], [8.24, 13.21], [13.21, 18.30], [18.30, 23.44], [23.44, 28.53], [28.53, 33.77], [33.77, 39.12], [39.12, 44.41], [44.41, 49.80], [49.80, 55.27], [55.27, 60.80], [60.80, 66.38], [66.38, 72.03], [72.03, 77.77], [77.77, 83.53]],
+   "measure_note": "⚠ ROTATION CHECKED FIRST (K1): pdfinfo reports rot 270 on all four pages, so poppler renders them UPRIGHT LANDSCAPE and the frame is an ordinary axis y — a different binding from the same filer's other 2022 report, which is rot 0. Skew +0.3. The pages are photographs cropped into the head and foot of the sheet, so the full-width rowbands scan misses the topmost rule; the --col 66,78 recovery returns the ladder 8.24..88.94, of which 8.24..83.53 are the grid rules (14 bands) and 88.94 is the 'Subtotal for this page' underline. ROW 1's top rule falls in the cropped header band and is not returned, so row 1's band was EXTRAPOLATED one pitch up (pitch ~5.0) to [3.24, 8.24] and PROVED by crop. TWO-CROP PROOF at 900 dpi --value: pct:66.0,3.24,10.5,5.0@p2 rendered '200.00' between two visible rules (recorded 200.00, Bonnie Wallace) and pct:66.0,8.24,10.5,4.97@p2 rendered '200.00' (recorded 200.00, Donna Deshazer). NEGATIVE CONTROL one band past the last entry, pct:66.0,13.21,10.5,5.09@p2, rendered an EMPTY cell — no off-by-one and no third entry. An Amount+In-Kind block crop pct:65.0,2.0,18.0,11.0@p2 shows the printed 'In-Kind' column header immediately above row 1 — independent proof that NO row was lost above the photograph's crop line — and both boxes empty."
+  },
+  "3": {
+   "axis": "y",
+   "cell": [66.00, 76.00],
+   "cells": [[66.00, 76.00], [76.00, 82.00]],
+   "rows": [[2.68, 7.56], [7.56, 12.91], [12.91, 18.06], [18.06, 23.35], [23.35, 28.62], [28.62, 33.97], [33.97, 39.32], [39.32, 44.70], [44.70, 50.14], [50.14, 55.70], [55.70, 61.29], [61.29, 66.94], [66.94, 72.64], [72.64, 78.41], [78.41, 84.20]],
+   "measure_note": "rot 270, axis y; skew -0.6. The --col 66,78 recovery returns 2.68..89.56; 2.68..84.20 are the 16 grid rules (15 boxed rows, pitch ~5.4) and 89.56 is the subtotal underline. Here the TOP rule IS captured (2.68), so nothing is extrapolated on this page. PROOF at 900 dpi --value (only one row exists, so it and its control were both cropped): pct:66.0,2.68,10.5,4.88@p3 rendered '98.66' (recorded 98.66, Trader Joe's) and the control band pct:66.0,7.56,10.5,5.35@p3 rendered an EMPTY cell. F1.5 SCREEN: a strip taken OUTSIDE the grid, pct:65.0,84.2,20.0,6.0@p3, rendered the printed 'for this page $ 98.66' subtotal line — the ledger does not continue below the last rule."
+  }
+ },
+ "contributions": [
+  {"line_no": "1", "page": 2, "row": 1, "date": "6/23/22", "donor_raw": "Bonnie Wallace", "donor_city": "Highland", "donor_state": "UT", "amount": "200.00", "in_kind": false, "confidence": "medium", "verified": 1, "note": "In-Kind box present and EMPTY (block-crop proved). The address column on this blank is 'City and State' by design, so the printed cell is already city/state and no reduction was needed"},
+  {"line_no": "2", "page": 2, "row": 2, "date": "6/23/22", "donor_raw": "Donna Deshazer", "donor_city": "Eagle Mountain", "donor_state": "UT", "amount": "200.00", "in_kind": false, "confidence": "medium", "verified": 1, "note": "surname reads 'Deshazer' (a single word, no space or capital Z) in this hand; In-Kind box empty"}
+ ],
+ "expenditures": [
+  {"line_no": "1", "page": 3, "row": 1, "date": "6/28/22", "vendor_raw": "Trader Joe's", "purpose": "Food for staff", "amount": "98.66", "in_kind": false, "confidence": "medium", "verified": 1, "note": "the only expenditure on the filing; Schedule B on this blank carries a real Purpose column and it is filled. Dated 6/28/22, five days after the last contribution and thirty-seven days before the report date — in-period, not out of sequence"}
+ ],
+ "notes": "PAGE-FACE candidate 'Renee Tribe' — printed WITHOUT the acute accent on this filing's cover, where the same filer's other 2022 report (key 5afd8850) prints 'Renée Tribe'. index.csv's channel label is 'Renee Tribe' and agrees with this page face. Page-face office: 'County Commissioner Seat A' (the sibling writes 'Utah County Commissioner Seat A'). FORM: the same NEWER UNVERSIONED 2022 BLANK as the sibling (Schedule A columns Date / Name of Contributor / CITY AND STATE / Amount / IN-KIND; Schedule B with a real PURPOSE column; close box lettered G; six report types; 'Date of Filing' foliation field, so UNFOLIATED); modern_boxAF, 15-row boxed grids. No form-version string printed. FOUR PAGES, each classified from its own printed content because the photographs are CROPPED at the head and foot and the sheet headings are partly lost: p1 cover (loses the 'Name of Candidate' label band and the Date of Filing value), p2 SCHEDULE A (identified by its 'Total Contributions Received — Sum of all Schedule A Pages in this report' footer and its In-Kind column header), p3 SCHEDULE B (identified by its 'Total Expenditures Made — Sum of all Schedule B Pages' footer and its Purpose column), p4 SUMMARY PAGE (loses the 'Summary Page' heading but prints boxes A-G): A 2,136.64 / B 400.00 / C 28,390.00 / D 98.66 / E 24,205.56 / F 2,536.64 / G 2,437.98. NO Elections-Division CHECKLIST is bound. REPORT TYPE: '30 Days after withdrawal or elimination' ticked (she was eliminated in the June primary). AMENDMENT QUESTION: NEITHER 'No' NOR 'Yes' is ticked — a wholly unanswered honest BLANK, never read as 'No' (A4). Signed and dated 08/04/2022. The ladder closes exactly on this filing: A+B = 2,136.64+400.00 = 2,536.64 = F, and F-D = 2,536.64-98.66 = 2,437.98 = G — unlike the sibling report, whose close box does not follow its own printed formula. Box A here (2,136.64) is identical to the sibling report's Box G; recorded as an observation about the filer's own reporting chain — NOTHING was differenced across covers and no figure was carried between documents. ⚠ NEAR-DUPLICATE VERDICT (the `__2` filename suffix is an acquisition dedup marker, not a bundle and not an amendment): raw/2022/2022_Renee_Tribe.pdf (key 5afd8850) and this document are A DIFFERENT REPORT ENTIRELY, not a revision and not a second redaction pass. The row-level evidence: different report-type tick (Seven days preceding the Primary vs 30 Days after withdrawal or elimination), different report date (06/21/2022 vs 08/04/2022), different page count (6 vs 4), different binding rotation (rot 0 vs rot 270), and ZERO overlapping ledger rows — 23 contributions / 23 expenditures there against 2 / 1 here, with no donor, vendor, date or amount in common. Both documents' figures are independent and consistent with each other in the way successive per-period reports should be (this one's Box A equals that one's Box G; its Box C 28,390.00 exceeds that one's Box C 27,990.00 by exactly this report's 400.00 of new contributions), which CORROBORATES both readings without either being used to fill the other. Neither file is named _Redacted and neither carries a redaction bar; this one prints no street address anywhere in its ledger."
+}]

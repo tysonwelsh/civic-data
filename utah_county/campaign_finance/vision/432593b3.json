@@ -3,7 +3,11 @@
  "key": "432593b3",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T03:32:00Z",
- "pages_read": [1, 4, 5],
+ "pages_read": [
+  1,
+  4,
+  5
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 4.20",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -53,5 +57,54 @@
    "notes": "Born-digital fillable form (footer v. 4.20); every summary box carries a TYPED '0' - a genuine all-zero report, not blank cells. Street address, city and signature are redacted upstream by the county (black bars), so residence_city is ''; the Date box, the 'Date of Report' box and the summary page all read '4 April 2022' (words - preserved verbatim). The Office field is typed in lower case as 'commission seat A' - casing preserved; it agrees with index.csv's 'County Commission Seat A'. Page 5 is the county's internal CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST (staff-reviewed 4/4/22 twice), not a second summary page - one report only."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r9_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' = a TYPED 0 on the p4 SUMMARY PAGE (located by content \u2014 the summary is p4 of 6, and p5 is the checklist decoy), corroborated by Schedule A's own two printed footers, both carrying a typed 0 ('Subtotal for this page $ 0' and 'Total Contributions Received \u2014 Sum of all Schedule A pages in this report $ 0')",
+     "detail": "ZERO itemized rows. Schedule A (PDF p2) exists and carries a single typed BANNER \u2014 the word 'none' in the row-1 'Name of Contributor' cell, with that row's Date, Address and Amount cells all empty. Per CHUNK_BRIEF \u00a77 and ADDENDUM E3 a banner is an ANNOTATION, not an entry: it publishes no row. It sits on printed row 1, which on a filing WITH entries would shift the index by one \u2014 here there are no entries to shift, and the whole amount column was crop-proved empty at 700 dpi across all 15 printed rows. 0 rows sum to 0.00 = Box B = both printed footers. Box C YTD also prints a typed 0 and is not summed as an increment."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' = a TYPED 0 on the p4 SUMMARY PAGE, corroborated by Schedule B's own two printed footers, both carrying a typed 0 ('Subtotal for this page $ 0' and 'Total Expenditures Made \u2014 Sum of all Schedule B pages in this report $ 0')",
+     "detail": "ZERO itemized rows. Schedule B (PDF p3) likewise carries the typed BANNER 'none' in the row-1 'Provider/Vendor' cell and nothing else; the amount column was crop-proved empty at 700 dpi across all 15 printed rows. 0 rows sum to 0.00 = Box D = both printed footers. Box E YTD also prints a typed 0. The cover ladder is internally consistent at zero: A 0 + B 0 = F 0, and the unlettered close box (Box F - Box D) prints 0."
+    }
+   },
+   "in_kind_convention": "not applicable, and note the FORM ITSELF DIFFERS: this v. 4.20 stock prints NO In-Kind column on either schedule (Schedule A is Date / Name of Contributor / Address and Zip Code / Amount; Schedule B is Date / Provider/Vendor / Purpose / Amount), unlike the unversioned 2022 stock used by the other filings in this chunk, which carries an In-Kind tick column on both. With no entries at all, monetary-only and monetary-plus-in-kind are identical at 0.00 and both close on the typed zeros.",
+   "escalations": 2,
+   "escalation_note": "700 dpi full-height crops of the Amount column on PDF p2 (Schedule A) and PDF p3 (Schedule B): each rendered fifteen empty boxed cells with the printed '$ 0' subtotal below the grid and no figure anywhere inside it \u2014 the proof behind the two `empty-schedule` states and behind treating the typed 'none' as a banner rather than a row. No amount cell existed to escalate.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "\u26a0 THIS FILING BINDS THE CHECKLIST DECOY \u2014 the registered `utah-checklist-decoy` specimen, caught in the act. PDF p5 is the Elections Division's 'CAMPAIGN FINANCIAL DISCLOSURE CHECKLIST': it recites summary-page labels verbatim ('Balance at Beginning of Period', 'Contributions Received this Period', 'Contributions Received Year to Date', 'Expenditures Made this Period', 'Expenditures Made Year to Date', 'Subtotal before Expenditures', 'Positive balance at Close of Reporting Period') and carries ZERO dollar figures, as TWO staff-signed review copies on one sheet \u2014 'Staff Signature #1' in red ink dated 4/4/22 and 'Staff Signature #2' in magenta dated 4/4/22, with a Website/Network/HOLD box top-right. IT IS NOT A SUMMARY PAGE and was not read as one. The GENUINE Summary Page is PDF p4, located by content. PDF p6 is a WHOLLY BLANK trailing sheet (rowbands returns 0 rules, 0 bars; skew -2.0 deg) \u2014 a scan artifact, not a missing page: pdfinfo reports 6 pages and every one is accounted for (cover / Schedule A / Schedule B / Summary / checklist / blank). FORM: modern_boxAF revision **v. 4.20** (footer-printed on all four report sheets) \u2014 and it matches the ADDENDUM I3 map exactly, INCLUDING the detail that the close box is UNLETTERED ('Balance at Close of Reporting Period (Box F - Box D)', no G). That is a real difference from the other four 2022 filings in this chunk, which are on an unversioned stock that letters the close box 'G' and adds an In-Kind column; two distinct 2022 revisions therefore circulated. \u26a0 MIXED MASTHEADS INSIDE ONE FILING: p1 (cover) and p3 (Schedule B) carry the **Josh Daniels** Clerk/Auditor masthead while p2 (Schedule A) and p4 (Summary) carry **Amelia Powers Gardner** \u2014 the previous Clerk/Auditor \u2014 all on the same v. 4.20 footer. The masthead is therefore NOT a vintage or ordering signal even within one revision, and this is the modern-era instance of ADDENDUM F6's 'cover and schedule blanks were stocked independently'. The v.4.20 cover also differs structurally: it offers only FIVE report types (no 'End-of-Year Report' line), adds an 'Office Use Only' box (Logged / Web / Transmission, all unticked) and a 'Page' field in the footer block, which the filer used \u2014 the sheets are foliated 1/2/3/4 and the foliation agrees with the PDF order. REDACTION IS UPSTREAM AND PER-CELL: the county blacked out the whole Address/City/State/Zip strip and the signature block, but LEFT THE PHONE NUMBER IN THE CLEAR on the same page. The redaction bars are the document, not a failed read; nothing behind them was reconstructed, and neither the phone number nor any address was transcribed. COVER: page-face candidate 'Jeanne Bowen', office typed 'commission seat A' (lower case \u2014 a THIRD wording of the same seat from this one filer across her three 2022 filings: 'commission seat A' 4 April, 'Utah County Commission seat A' 31 October, 'Commission A' 16 November; index.csv says 'County Commission Seat A'. All name seat A; the page face is recorded as printed and nothing was inferred or adjudicated). Report type 'Seven days preceding Convention'; not an amendment; dated '4 April 2022' in long form throughout. Both empty sides mean THE FILER REPORTED NO ACTIVITY \u2014 she typed 'none' on each schedule and zeros in every box \u2014 which is a different fact from the module-wide 'not transcribed' default; both are `empty-schedule`, never `withheld`."
+  }
+ }
 }

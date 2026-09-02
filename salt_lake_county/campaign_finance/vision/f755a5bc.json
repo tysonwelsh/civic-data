@@ -1,0 +1,101 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": "0.00",
+ "total_expenditures": "3261.09",
+ "beginning_balance": "3261.09",
+ "ending_balance": "0.00",
+ "aggregate": {
+  "total_contributions_to_date": "22526.00",
+  "total_expenditures_to_date": "22526.00",
+  "line5_subtotal": "3261.09"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "COUNTY RECORDER",
+  "district_number": "",
+  "report_type": "Final / Dissolution Report - 2024 form 'For a Candidate'",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "",
+  "form_year": "2024"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "medium",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Snelgrove-Richard__CE0A4B74.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Snelgrove, Richard",
+  "office": "Recorder",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Snelgrove-Richard__CE0A4B74.pdf",
+  "pages_read": [
+   1,
+   2
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Final/Dissolution: the FINAL/DISSOLUTION box is X'd on the standard 2024 two-page form (cover + Summary) - NOT a separate one-page dissolution notice; classified standard-report per the audit. Signature present but the cover Date field is BLANK (report_date left blank; the Summary header is dated 1-28-25 and the stamp reads RECEIVED JAN 29 2025; index.csv date 2025-02-03 not at the page - page governs). Amendment Yes/No neither checked. Cover Office RECORDER / Office Sought COUNTY RECORDER - not school board. Column B aggregates print 22,526.00 / 22,526.00 with clean '00' cents ticks - this corroborates the .00 reading adopted at low confidence for the cramped-cents Year-End sibling 401c6509 (audit prior there read 22,526.50): Oct-29 aggregates 22,526.00/19,264.91 + period 0.00/3,261.09 = 22,526.00/22,526.00, ending 0.00 - the chain closes only at .00. This is the brief's named stated-total-without-detail case (CE0A4B74): 3,261.09 stated expenditures, no Schedule B page exists.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {
+    "contributions": "no Schedule A page exists in the document - stated 0.00 is a consistent zero",
+    "expenditures": "Summary line 2 Col A and line 6 state 3,261.09 of period expenditures but the document contains NO Schedule B page at all - a stated-total-without-detail gap; transcribed what exists, reconstructed nothing"
+   },
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule A page in the document; stated 0.00 consistent (balance chain closes)"
+    },
+    "expenditures": {
+     "stated": "3261.09",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page in the document against stated 3,261.09. The itemization exists only in the same-day Year-End sibling 401c6509 (9 handwritten rows summing exactly 3,261.09) - sibling named, NOTHING copied from it"
+    }
+   },
+   "page_subtotal_gates": "no schedule pages - no printed subtotal gate exists",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Final/Dissolution: the FINAL/DISSOLUTION box is X'd on the standard 2024 two-page form (cover + Summary) - NOT a separate one-page dissolution notice; classified standard-report per the audit. Signature present but the cover Date field is BLANK (report_date left blank; the Summary header is dated 1-28-25 and the stamp reads RECEIVED JAN 29 2025; index.csv date 2025-02-03 not at the page - page governs). Amendment Yes/No neither checked. Cover Office RECORDER / Office Sought COUNTY RECORDER - not school board. Column B aggregates print 22,526.00 / 22,526.00 with clean '00' cents ticks - this corroborates the .00 reading adopted at low confidence for the cramped-cents Year-End sibling 401c6509 (audit prior there read 22,526.50): Oct-29 aggregates 22,526.00/19,264.91 + period 0.00/3,261.09 = 22,526.00/22,526.00, ending 0.00 - the chain closes only at .00. This is the brief's named stated-total-without-detail case (CE0A4B74): 3,261.09 stated expenditures, no Schedule B page exists."
+  }
+ }
+}

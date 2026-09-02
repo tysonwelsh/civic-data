@@ -1,0 +1,117 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2019-01-01",
+   "vendor_raw": "Robert Cundick",
+   "purpose": "Reimbursement for Campaign Loans to self",
+   "amount": "47.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 0,
+   "geometry": "pct:12.75,24.60,77.80,4.30@p4",
+   "note": "expenditure to the candidate himself (loan repayment); the date 1/1/19 falls after the 2018 reporting year but is what the form prints, retained verbatim. Amount gated twice (page subtotal and schedule total)."
+  }
+ ],
+ "total_contributions": "0",
+ "total_expenditures": "47.00",
+ "beginning_balance": "47.00",
+ "ending_balance": "0",
+ "aggregate": {
+  "total_contributions_to_date": "1049.00",
+  "total_expenditures_to_date": "1,049.00",
+  "line5_subtotal": "47.00"
+ },
+ "cover": {
+  "candidate": "Robert (Robb) Cundick",
+  "party": "UUP",
+  "office_sought": "SL County Council",
+  "district_number": "4",
+  "report_type": "FINAL / DISSOLUTION REPORT",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2019-01-30",
+  "form_year": "2018"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__2018_year_end__robert-cundick_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Robert (Robb) Cundick",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/2018_disclosures__2018_year_end__robert-cundick_redacted.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "Cover: Office written 'SL County Council Dist 4', Office Sought 'SL County Council', District Number '4' - the chunk file's 'District 4' is CONFIRMED at the form. Party written 'UUP' (recorded verbatim, not expanded). The FINAL / DISSOLUTION box is checked and the Year-End box is NOT, so the chunk file's reporting_period 'Final / Dissolution Report' is confirmed even though the file sits under a '2018_year_end' path. NEITHER amendment box is ticked; is_amendment left blank. Signature dated 1/30/19; clerk stamp RECEIVED IN OFFICE JAN 30 2019; the printed 'I, Robert Cundick' verification name is legible while the signature line itself is redacted at source. NOTED CORPUS PROPERTY (module CLAUDE.md finding 13): Column B is IDENTICAL on both sides ($1,049.00 contributions and $1,049.00 expenditures) while Column A shows 0 in / 47.00 out - kept verbatim, never reconciled. Line 1 Column B is written '1049.00' without a thousands comma and line 2 Column B '1,049.00' with one; both retained as printed.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "0",
+     "itemized": "0",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "p3 Schedule A exists and is WHOLLY BLANK - a real zero, not a gap. The filer wrote a plain '0' in both SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED, matching Summary line 1 Column A ('0'). Zero rows emitted."
+    },
+    "expenditures": {
+     "stated": "47.00",
+     "schedule_total": "47.00",
+     "itemized": "47.00",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "the single p4 row (47.00) = printed SUBTOTAL FOR THIS PAGE 47.00 = printed TOTAL EXPENDITURES MADE 47.00 = Summary line 2 Column A 47.00. All three anchors agree."
+    }
+   },
+   "page_subtotal_gates": "p3 rows 0 = printed subtotal 0 (blank schedule); p4 rows 47.00 = printed subtotal 47.00",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Cover: Office written 'SL County Council Dist 4', Office Sought 'SL County Council', District Number '4' - the chunk file's 'District 4' is CONFIRMED at the form. Party written 'UUP' (recorded verbatim, not expanded). The FINAL / DISSOLUTION box is checked and the Year-End box is NOT, so the chunk file's reporting_period 'Final / Dissolution Report' is confirmed even though the file sits under a '2018_year_end' path. NEITHER amendment box is ticked; is_amendment left blank. Signature dated 1/30/19; clerk stamp RECEIVED IN OFFICE JAN 30 2019; the printed 'I, Robert Cundick' verification name is legible while the signature line itself is redacted at source. NOTED CORPUS PROPERTY (module CLAUDE.md finding 13): Column B is IDENTICAL on both sides ($1,049.00 contributions and $1,049.00 expenditures) while Column A shows 0 in / 47.00 out - kept verbatim, never reconciled. Line 1 Column B is written '1049.00' without a thousands comma and line 2 Column B '1,049.00' with one; both retained as printed."
+  }
+ }
+}

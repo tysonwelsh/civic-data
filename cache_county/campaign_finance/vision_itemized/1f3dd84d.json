@@ -1,0 +1,251 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C14.json",
+ "key": "1f3dd84d",
+ "index_path": "raw/2018/2018_cc_Gordon_H_Zilles.pdf",
+ "applies_to": [
+  "raw/2018/2018_cc_Gordon_H_Zilles.pdf"
+ ],
+ "sha256_prefix": "1c3ac6cc7636cab6",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "97.36",
+    "cover_over50_cum": "97.36",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "97.36",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One itemized row of 97.36, equal to the cover's line 1 in BOTH the THIS and the CUMULATIVE column (LAST is blank, so this is the only report of the cycle and the two scopes coincide). Cover line 2, the sub-$50 aggregate, is blank in all three columns -- the filer reported no small-donor total at all -- so the line-1 basis and the line1+line2 basis are the same figure here and the sub-$50 trap cannot bite. The single contribution is corporate (a Logan food manufacturer) and its odd non-round amount, 97.36, is consistent with an in-kind-style reimbursement, but the form has NO in-kind column and the filer applied no in-kind label, star or legend anywhere, so in_kind is FALSE -- not inferred from the shape of the number."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "543.06",
+    "cover_balance_end": "640.42",
+    "schedule_total": null,
+    "page_subtotal": null,
+    "filer_written_total": "543.06"
+   },
+   "itemized": "543.06",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "10 itemized rows sum to exactly 543.06 (112.50 + 100.00 + 15.99 + 50.00 + 36.21 + 35.53 + 63.96 + 31.98 + 55.88 + 41.01), matching the cover's line 3 CUMULATIVE cell to the cent. It is doubly anchored: the filer also wrote his own 'total 543.06' on the ruled line immediately below the last entry, under a hand-drawn rule -- recorded as filer_written_total, not as schedule_total, because the Carr Form B prints no total box; it is not emitted as a row. Cover line 3's LAST and THIS columns are both blank and only the CUMULATIVE cell is filled, so the cumulative column is the only scope on offer and the rows sit on it."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "The Carr 5-5-PG prints no schedule total and no page subtotal on either sheet, so the cover is the only printed anchor. Form A gate: p2 row 97.36 = cover line 1 THIS = CUM 97.36, EXACT. Form B gate: p3 rows 543.06 = cover line 3 CUMULATIVE 543.06 = the filer's own hand-written 'total' line, EXACT on both. This is the cleanest filing in the chunk: every money figure on it agrees with every other except the balance line.",
+  "row_count": "rowbands.py is not usable on these sheets (the same rule-loss under ink as the rest of this chunk's Carr forms) and is reported rather than applied. Counted by ink at 200 dpi: p2 carries exactly ONE inked ledger line, complete across all four columns, with nothing below it; p3 carries TEN inked ledger lines plus an eleventh line holding only the word 'total' and the figure 543.06 under a hand-drawn rule -- that eleventh line is a total, not a transaction, so 10 rows are emitted. The independent amount-column crop showed the same ten figures in the same order, and the control crop one pitch past the total line renders empty.",
+  "geometry_proof": "p3: first-row crop pct:82.50,10.90,12.50,2.20 renders '112.50'; last-row crop pct:82.50,31.96,12.50,2.20 renders '41.01'; control one pitch past the filer's total line (36.64) renders EMPTY. p2: the single row's crop pct:82.50,10.90,12.50,2.20 renders '97.36', the same band cropped across the page renders '4/13/2018 Gossner Foods ... Logan, 84321', and the control one pitch below (13.24) renders EMPTY. Measured pitch 2.34 pct of page height, taken from the ink.",
+  "balance_chain": "IT DOES NOT CLOSE, AND THE CAUSE IS TRACEABLE TO THE OPERATOR: the filer ADDED where the form asks him to subtract. Cover line 4 reads 640.42, and 97.36 + 543.06 = 640.42 exactly, whereas the balance at the end of the period should be 97.36 - 543.06 = -445.70. Both inputs are independently confirmed by their own schedules, which gate exactly, so the error is isolated to the balance line and nothing else on the filing is affected. The figure is kept verbatim and not repaired. LAST is blank on every line, so there is no beginning balance and no prior report to chain to; no other filing by this candidate is in this chunk."
+ },
+ "escalations": 6,
+ "escalation_note": "Cover totals block read at 400 dpi. p3 amount column read at 200 dpi and each end re-read in 600 dpi single-cell crops; p2's single row re-read at 600 dpi both as an amount cell and as a full-width row band. Five 600 dpi geometry-proof crops in all. No cell needed 1200 dpi -- this filing is written in a firm, well-separated hand and every schedule gate closed on the first pass.",
+ "notes": "index.csv calls this Gordon H. Zilles / County Council / 2018; the cover's own lines read 'Full Name of Candidate Gordon Andrew Zilles' and 'Name of Office County Councilman', 'Political Party Republican'. NOTE THE MIDDLE NAME: the index says H., the form says ANDREW -- transcribed from the form and flagged; the surname, office, party and year all agree, so this is the same filer, differently middle-named. IN SCOPE (county office). Office District is blank -- one of the county's known honest blank-district cases; the office line itself is filled, so scope is not in doubt. The 'TO ______ County Clerk' line is left blank by the filer. DATES: the signature line reads '7/27/2018' while the clerk's stamp reads 'CLERK OCT 30 18 PM 4:15:38', and the chunk file's 2018-10-30 matches the STAMP, not the signature -- the only document in this chunk whose index date agrees with the page, and the ~3-month gap between signing and filing is the filer's, recorded here rather than reconciled. p1 also carries a blue 'SCANNED' stamp from the clerk's office. p4 is the statute page (Cache County Code 2.21.040 / 2.21.050). PRIVACY: the cover prints the candidate's home street address, ZIP, home phone and business phone in the clear, and the single Form A row prints the donor's street address -- all discarded at read time; only the donor's city is emitted.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-04-13",
+   "donor_raw": "Gossner Foods",
+   "donor_city": "Logan",
+   "donor_state": "",
+   "amount": "97.36",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,10.90,12.50,2.20@p2",
+   "note": "corporate donor; four-digit year written in full. No state written on the form, so donor_state is left blank rather than inferred; street and ZIP discarded"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-03-13",
+   "vendor_raw": "Cache County Government",
+   "purpose": "Filing Fee",
+   "amount": "112.50",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,10.90,12.50,2.20@p3",
+   "note": ""
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2018-04-06",
+   "vendor_raw": "Cache County Republican Party",
+   "purpose": "Convention table",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,13.24,12.50,2.20@p3",
+   "note": ""
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2018-03-19",
+   "vendor_raw": "Watkins Party Store",
+   "purpose": "paper",
+   "amount": "15.99",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,15.58,12.50,2.20@p3",
+   "note": ""
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2018-04-10",
+   "vendor_raw": "Postmaster",
+   "purpose": "stamps",
+   "amount": "50.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,17.92,12.50,2.20@p3",
+   "note": ""
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2018-04-10",
+   "vendor_raw": "Staples",
+   "purpose": "paper, stickers + cards",
+   "amount": "36.21",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,20.26,12.50,2.20@p3",
+   "note": "the day digits are written over an earlier attempt; 4/10/2018 at 600 dpi, matching the row above. The connector in the purpose is an ampersand-like '+' -- transcribed '+'"
+  },
+  {
+   "line_no": "6",
+   "report_no": 1,
+   "date": "2018-04-14",
+   "vendor_raw": "Watkins",
+   "purpose": "napkins + balloons",
+   "amount": "35.53",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,22.60,12.50,2.20@p3",
+   "note": "payee written as the bare 'Watkins' here where lines 3 and 8 give fuller names -- kept verbatim, not expanded to match them"
+  },
+  {
+   "line_no": "7",
+   "report_no": 1,
+   "date": "2018-04-14",
+   "vendor_raw": "Flower Shoppe",
+   "purpose": "Flowers for table",
+   "amount": "63.96",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,24.94,12.50,2.20@p3",
+   "note": ""
+  },
+  {
+   "line_no": "8",
+   "report_no": 1,
+   "date": "2018-04-15",
+   "vendor_raw": "Watkins Party Supply",
+   "purpose": "paper",
+   "amount": "31.98",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,27.28,12.50,2.20@p3",
+   "note": "'Party Supply' here vs 'Party Store' on line 3 -- both kept as written"
+  },
+  {
+   "line_no": "9",
+   "report_no": 1,
+   "date": "2018-04-14",
+   "vendor_raw": "Lowe's",
+   "purpose": "wood for signs",
+   "amount": "55.88",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,29.62,12.50,2.20@p3",
+   "note": ""
+  },
+  {
+   "line_no": "10",
+   "report_no": 1,
+   "date": "2018-04-14",
+   "vendor_raw": "Standard Plumbing",
+   "purpose": "PUC pipe for stand",
+   "amount": "41.01",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.50,31.96,12.50,2.20@p3",
+   "note": "the purpose is written 'PUC pipe' -- almost certainly meant as PVC, but transcribed exactly as the filer wrote it rather than corrected"
+  }
+ ]
+}

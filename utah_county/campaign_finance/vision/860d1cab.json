@@ -3,7 +3,10 @@
  "key": "860d1cab",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:24:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "legacy_colAB",
  "form_version": "",
  "form_title": "2012 FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES (Utah County Code 2-5 & Utah State Code 17-16-6.5)",
@@ -55,5 +58,52 @@
    "notes": "Handwritten cursive. TWO DIFFERENT NIL MARKS appear on this summary page and both are transcribed as written rather than normalized: lines 1 and 2 Column A carry a struck-through zero glyph (transcribed '0', medium confidence), while lines 4 and 6 carry a PLAIN DASH stroke with no zero at all (transcribed '-'). A dash is the filer's nil mark here, not a digit and not a blank cell, so it is preserved verbatim; a reader should not silently treat '-' as 0. Year-to-date figures on lines 1B and 2B are unchanged from this filer's 10-29-12 report (16,224.31 / 15,920.36), and the beginning balance (8,569.13) matches that report's line 7. Office Seeking reads 'Utah County Commission Seat C', AGREEING with office_index. candidate_index was blank. AMENDMENT: 'No' is checked. NOTE ON DATES: the index reporting_period and the filename say 11/27/12, but the filer dated both the signature and the summary page's Date of Report box '11-26-12'; the clerk's Date received stamp is 'NOV 27 PM 4:51'. report_date is the filer's own 11-26-12. Page box reads 'Page 2 of 4'."
   }
  ],
- "notes": ""
+ "notes": "",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r2_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 1 TOTAL CONTRIBUTIONS RECEIVED, written as a SLASHED ZERO (an oval with a horizontal stroke through it; read 0 under the repo zero-glyph ruling), matched by Schedule A's own printed 'Subtotal for this page $ \u00d8' AND its printed 'Total Contributions Received $ \u00d8' - two independent slashed zeros on the schedule itself",
+     "detail": "Schedule A (p3) carries NO entries: all 16 ruled lines are empty in every column. A 900 dpi crop of the footer (pct:70,84.5,26,10@p3) RENDERED a slashed zero on the 'Subtotal for this page' rule AND a second slashed zero on the 'Total Contributions Received' rule, so the schedule states 0 twice in its own hand. A 900 dpi crop of the p2 summary Column A (pct:58,40,22,38@p2) RENDERED the line-1 cell as the same slashed-zero glyph. 0 rows = 0.00 = every printed anchor. \u26a0 ADDENDUM A3 DOES NOT APPLY HERE AND THE REASON IS WORTH RECORDING: A3's recovery leans on summary lines 4 and 6 as figures that print even when the cells above are blank, but on this filing lines 4 and 6 carry BARE DASHES, not numerals - so they corroborate nothing and were not used. The zero comes from line 1 Column A and from the schedule's own two footer lines. Column B Year-to-Date prints 16,224.31 and is never summed as an increment."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Column A 'Total this Period' line 2 TOTAL EXPENDITURES MADE, written as a SLASHED ZERO (read 0 under the repo zero-glyph ruling), matched by Schedule B's own printed 'Subtotal for this page $ \u00d8' AND its printed 'Total Expenditures Received $ \u00d8'",
+     "detail": "Schedule B (p4) carries NO entries: all 16 ruled lines empty. A 900 dpi crop of the footer (pct:70,84.5,26,10@p4) RENDERED a slashed zero on the 'Subtotal for this page' rule and a second slashed zero on the 'Total Expenditures Received' rule. The p2 crop shows the line-2 Column A cell as the same slashed-zero glyph. Summary line 6 is a BARE DASH and is NOT read as a zero (see the contributions detail). 0 rows = 0.00 = the printed anchors. Column B YTD prints 15,920.36 and is never summed."
+    }
+   },
+   "in_kind_convention": "not applicable - both schedules are empty and this form prints no in-kind column or line anywhere. Both the monetary-only and the monetary-plus-in-kind conventions give 0.00, which is what every printed anchor states.",
+   "escalations": 3,
+   "escalation_note": "Three 900 dpi crops, all to settle NIL-GLYPH IDENTITY, which is the whole reconciliation on a zero-activity filing: the p2 summary Column A ladder (lines 1-7) and the p3 and p4 schedule footers. The p2 crop is what established that this page carries TWO DIFFERENT nil marks and that only one of them is a numeral.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "Page-face candidate 'Larry Alton Ellertson' (verification block the same), Republican, Office Seeking written 'Utah County Commission Seat C', residence city Lindon UT. index.csv names NO candidate for this row (channel label 'Ellertson - 11/27/12'), so the page face supplies the name; office agrees with index.csv. 4 pages on the 2012 legacy_colAB blank characterised on key 9630b1c7: p1 COVER, p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B - each classified from its own printed header. Report type '30 Days after the General Election' ticked; amendment 'No' ticked. NOTE A DATE DISAGREEMENT THAT IS NOT ADJUDICATED: the filer signs and dates the report 11-26-12 and writes 11-26-12 in every sheet's Date-of-Report block, while the county's own filename and index.csv reporting period say 11/27/12 - the clerk's date stamp reads NOV 27 PM 4:51, i.e. the county recorded the day it was RECEIVED. Both facts are transcribed; neither is corrected. Foliation 2/3/4 'of 4', including the cover, consistent with this filer's other two 2012 reports. \u26a0 THE FILING'S CENTRAL SOURCE PROPERTY: THIS SUMMARY PAGE USES TWO DIFFERENT NIL MARKS AND THEY MEAN DIFFERENT THINGS UNDER THE REPO RULES. Lines 1 and 2 Column A are SLASHED ZEROS -> 0 (zero-glyph ruling). Lines 4 and 6 - the very lines the form defines as copies of lines 1 and 2 Column A - are BARE DASHES -> BLANK, because a nil mark is not a numeral. The ladder is still internally exact read either way: line 3 beginning 8,569.13, line 5 subtotal 8,569.13, line 7 close 8,569.13, i.e. a period with no activity at all. The practical consequence is recorded in the recon: on THIS filing the ADDENDUM A3 blank-cover recovery has nothing to lean on, and the zero has to come from line 1/2 Column A and from the schedules' own footers - which it does, four times over. A ZERO-ACTIVITY FINAL REPORT: this is the last of the filer's three 2012 filings and it reports no contributions and no expenditures in the 30 days after the general election, closing the cycle with 8,569.13 on hand. UNLIKE Poulson's 2010 final report (ADDENDUM A4), this filer does NOT zero his Column B year-to-date cells - they carry the real cycle figures 16,224.31 and 15,920.36. COVER-CHAIN OBSERVATION ONLY, never a source of figures: line 3 here is character-for-character the line 7 close of his 10/29/12 filing, and the Column B cumulatives are unchanged from that filing because this period had no activity. Noted as a property of the record; no figure here was derived from another filing."
+  }
+ }
 }

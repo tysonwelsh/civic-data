@@ -1,0 +1,143 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C05.json",
+ "key": "0b60edfa",
+ "index_path": "raw/2012/2012_st_Cory_Yeates_10_30_12_general.pdf",
+ "applies_to": [
+  "raw/2012/2012_st_Cory_Yeates_10_30_12_general.pdf"
+ ],
+ "sha256_prefix": "01963cbdaec34067",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-B",
+  "3": "form-A"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "700.00",
+    "cover_over50_cum": "700.00",
+    "cover_le50_this": "125.00",
+    "cover_le50_cum": "125.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "700.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Two rows on Form A (PDF page 3) sum 200.00 + 500.00 = 700.00, which equals cover line 1 THIS (700.00) and CUMULATIVE (700.00) exactly. LAST is 0, so the two scopes coincide on this first report. SUB-$50 TRAP GUARD APPLIED: cover line 2 carries a separate 125.00 aggregate of contributions of $50.00 or less, which the form never itemizes; Form A was scored against LINE 1 ONLY, not against line1+line2 (=825.00), which would have manufactured a false mismatch. Carr form prints no schedule total (null by form design)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "1239.00",
+    "cover_expense_cum": "1239.00",
+    "cover_balance_end": "-414",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "1239.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Two rows on Form B (PDF page 2) sum 1128.00 + 111.00 = 1239.00, equal to cover line 3 THIS and CUMULATIVE. LAST is 0 so the scopes coincide. ARITHMETIC-OVER-GLYPH RESOLUTION: the first amount reads as '1/28' on a 90 dpi contact sheet (a leading 1 whose second stroke carries a long slashing descender, so '1128' looks like '1/28'). Read as 128.00 the side would sum 239.00 against a printed 1239.00 — a clean 1,000 short. A 600 dpi tight crop of the amount cell shows FOUR digits before the decimal, and the form's own arithmetic settles it: 1128.00. The figure was NOT adjusted to close; the crop and the sum agree independently."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No printed schedule or page subtotal on the Carr sheets (form design), so both sides were gated against the cover: Form A (PDF p3) rows 200.00 + 500.00 = 700.00 = cover line 1 THIS/CUM 700.00; Form B (PDF p2) rows 1128.00 + 111.00 = 1239.00 = cover line 3 THIS/CUM 1239.00. Both gates FIRED and CLOSED exactly.",
+  "row_count": "rowbands.py, geometry_status ok on both schedule pages. PDF p2 (Form B): 37 h-rules / 36 bands, first rule at 8.90 pct; ink occupies bands 1 (8.90-11.71) and 2 (11.71-13.99) only -> 2 rows emitted, matches. PDF p3 (Form A): 37 h-rules / 36 bands, first rule at 8.70 pct; ink in bands 1 (8.70-11.52) and 2 (11.52-13.80) only -> 2 rows emitted, matches.",
+  "geometry_proof": "PDF p2 (Form B): amount-column crop x=4150..5150 y=590..1010 @600dpi renders BOTH row values ('1128.00' over '111.00'); control crop one row-pitch below (y=925..1070) renders EMPTY. PDF p3 (Form A): the same amount-column crop renders '200.00' over '500.00'; control one pitch below (y=913..1058) renders EMPTY. Row bands also cross-checked against the date/name columns in the matching full-width crops, so the row index is not shifted.",
+  "balance_chain": "CLOSES EXACTLY: beginning 0 + contributions (700.00 over-$50 + 125.00 under-$50 = 825.00) - expenditures 1239.00 = -414.00, and cover line 4 is written '-414' in both the THIS and the CUMULATIVE column. Cover identity LAST + THIS = CUMULATIVE closes on all four lines (LAST is 0 or struck to 0 throughout). CROSS-FILING CHAIN with the same filer's later report in this chunk (647f463a, cover-dated 2012-12-04): it does NOT chain the way the form intends — that later cover leaves TOTALS FROM LAST REPORT entirely BLANK on all four lines, and instead REPEATS this report's figures (700 / 125 / 1239 / -414) in both its THIS and its CUMULATIVE columns, carrying the same four transactions on its schedules. So the December filing is a RESTATEMENT of this same cycle, not an increment on it: the two filings OVERLAP completely and their rows must never be summed together. Both are marked scope 'cumulative' for that reason. This is not a swapped-cover pair — the identities are consistent, the filer simply restated."
+ },
+ "escalations": 7,
+ "escalation_note": "PDF p2 amount cell at 600 dpi (settled 1128.00 vs 128.00); p2 row 2 date cell at 1200 dpi (month digit overwritten, left unresolved); p2 name column rows 1-2 at 1200 dpi plus an ImageMagick -normalize pass (first vendor's opening word still cramped); p2 purpose column at 1200 dpi; PDF p3 amount cell and full row band at 600 dpi; p1 cover money block lines 1-2 and lines 3-4 at 600 dpi (settled the struck-out LAST cell and the superscript-cents figures).",
+ "notes": "PAGE ORDER IS SCRAMBLED IN THIS PDF and this contradicts the usual Carr layout: PDF page 2 carries the sheet PRINTED 'Page 3' (ITEMIZED EXPENDITURE REPORT, Form B) and PDF page 3 carries the sheet PRINTED 'Page 2' (ITEMIZED CONTRIBUTION REPORT, Form A). page_map and every row geometry pointer use the PDF page number, not the printed one. The statute sheet (printed Page 4) is ABSENT — this PDF has only 3 pages, matching the chunk file's pages=3. Chunk file says candidate 'Cory Yeates', office 'County Council'; the form agrees — 'Full Name of Candidate: Cory Yeates', 'Name of Office: Cache County Council  Logan Seat #1' (the seat is written on the office line; the separate 'Office District' line is left BLANK), party Republican, Date 10/30/12, clerk stamp 'CACHE COUNTY CLERK RCVD 30 OCT 2012 AM 11:07'. Cover line 1 LAST cell had a '700.00' written and then heavily scribbled out, with a large '0' written beside it — the operative value is 0 and both marks are described here rather than one being picked silently. Candidate street address, ZIP, home phone and business phone are in the clear on the cover and were discarded at read time; donor street addresses and the PO box on Form A were likewise discarded, only city/state kept.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2012-06-01",
+   "donor_raw": "Ivy Trust",
+   "donor_city": "N. Logan",
+   "donor_state": "",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.10,8.70,14.70,2.82@p3",
+   "note": "Date written '6-1-12' (two-digit year -> 2012). Amount written with superscript cents over a rule ('200' with a raised '00'), transcribed with a decimal point per the currency convention. Address column gives a street address in North Logan; the street is discarded at read time, city kept as written 'N. Logan'; the filer wrote no state on this line so donor_state is blank. Carr form has no in-kind column."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2012-10-06",
+   "donor_raw": "C.C. Republican Party",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.10,11.52,14.70,2.28@p3",
+   "note": "Date written '10-6-12' -> 2012-10-06. Superscript cents over a rule ('500' with a raised '00'). Address column reads a PO box in Logan UT; the box number is discarded at read time, city/state kept. 'C.C.' is the filer's own abbreviation, kept verbatim."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2012-06-10",
+   "vendor_raw": "Screen One Printing",
+   "purpose": "Mailer",
+   "amount": "1128.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:81.10,8.90,14.70,2.81@p2",
+   "note": "AMOUNT: reads '1/28.00' at contact-sheet resolution because the second digit's stroke slashes downward; a 600 dpi crop of the cell shows four pre-decimal digits and the schedule's own sum (1128.00 + 111.00 = the printed 1239.00) confirms 1128.00. Superscript cents over a rule. VENDOR: the cell holds THREE tokens, not two. At 200-1200 dpi they smear into what looks like one long word; re-rendered at 2400 dpi with a -normalize pass ON THIS DOCUMENT'S OWN INK the word boundaries separate cleanly into 'S-reen' + 'one' + 'Printing', so the cell is transcribed 'Screen One Printing'. The second letter (a loop with a descender) still does not resolve, so the vendor stays at low confidence with needs_review:1 and a human should confirm the spelling. Date written '6/10-12' (mixed slash/dash separators) -> 2012-06-10."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Printing",
+   "purpose": "Flyers + Supply's",
+   "amount": "111.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=low;vendor=medium;amount=high;purpose=high",
+   "verified": 1,
+   "geometry": "pct:81.10,11.71,14.70,2.28@p2",
+   "note": "DATE LEFT BLANK: the cell reads [illegible month]/12/12 — the month character is written and then heavily overwritten with a correcting stroke (the underlying glyph could be a 5 or an 8, and a 4-like stroke sits on top of it). It did not resolve at 1200 dpi, so per the date rule the field stays blank with needs_review:1 and the verbatim is recorded here; the year is legibly '12' -> 2012 but the month is not, and no month was filled in from the report date. Vendor cell holds the single word 'Printing' with no company name. Purpose written 'Flyers + Supply's' (filer's spelling and apostrophe kept verbatim). Amount has superscript cents over a rule. FOR A HUMAN'S CONTEXT ONLY, NOT USED TO FILL THIS CELL: the same filer's 2012-12-04 restatement (key 647f463a) carries what appears to be the same 111.00 transaction with a legible date '5-12/12'; that value was deliberately NOT carried into this document's blank date field, per the never-fill-from-another-document rule."
+  }
+ ]
+}

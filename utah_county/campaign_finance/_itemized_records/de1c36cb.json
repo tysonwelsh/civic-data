@@ -1,0 +1,251 @@
+[
+ {
+  "index_path": "raw/2016/2016_G2016Bowen.pdf",
+  "key": "de1c36cb",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r5_03)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (145.00) on the p2 SUMMARY PAGE, which is also Schedule A's own printed 'Subtotal for this page $145.00' AND its printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages) $145.00'",
+    "detail": "The 4 Schedule A rows sum to 100.00 + 20.00 + 20.00 + 5.00 = 145.00 EXACTLY, equal to the printed page subtotal, the printed schedule total and the cover's PROMOTED per-period Column A cell, and to the cover's line 4 'Total Contributions Received (From Line 1 Column A)' 145.00 and line 5 Subtotal 145.00. The whole-dollar amounts are written with a RAISED DASH in the cents position and every one was escalated to a 1200 dpi tight crop; the exact closure at 145.00 is what settles that the dash is .00 and not a nil mark. Column B 'Year-to-Date Total' prints the SAME 145.00 and was NOT summed as an increment."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (1,319.69) on the p2 SUMMARY PAGE, equal to Schedule B's own printed 'Subtotal for this page $1319.69' and its printed 'Total Expenditures (Sum of subtotals from all Schedule B pages) $1319.69'",
+    "detail": "The 5 Schedule B rows sum to 647.22 + 52.07 + 528.95 + 90.28 + 1.17 = 1,319.69 EXACTLY — equal to the printed page subtotal, the printed schedule total, the cover's per-period Column A cell and the cover's line 6. Column B YTD prints the same 1,319.69 and was never summed. ⚠ THE COVER'S OWN LADDER DOES NOT CLOSE, and that is the FILER'S arithmetic, transcribed and not adjudicated: line 3 (Balance at Beginning) is left BLANK, line 5 Subtotal is 145.00, and line 7 Balance at Close is written '1174.69' with NO minus sign although 145.00 - 1,319.69 = -1,174.69. Both SIDES still close to the cent against their own printed anchors, which is what this record reconciles; the sign error lives on the balance ladder and touches neither side."
+   }
+  },
+  "in_kind_convention": "not applicable / both conventions identical — no in-kind column is printed on either schedule, no row is marked in-kind, and the summary page has no separate in-kind line, so monetary-only and monetary-plus-in-kind give the same sums (145.00 and 1,319.69). Tested, not inherited.",
+  "escalations": 8,
+  "escalation_note": "8 tight --value crops at 1200 dpi: all four Schedule A amount cells plus its one-past control (run to settle the raised-dash cents notation and to prove the band index), and Schedule B's first row, last row and one-past control. Every crop reproduced what was recorded and no figure was changed.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     82.1,
+     91.9
+    ],
+    "cells": [
+     [
+      7.85,
+      19.05
+     ],
+     [
+      20.55,
+      52.74
+     ],
+     [
+      54.0,
+      80.7
+     ],
+     [
+      82.1,
+      91.9
+     ]
+    ],
+    "rows": [
+     [
+      16.71,
+      20.62
+     ],
+     [
+      20.62,
+      24.56
+     ],
+     [
+      24.56,
+      28.47
+     ],
+     [
+      28.47,
+      32.34
+     ]
+    ],
+    "measure_note": "legacy_colAB UNDERLINE form. rowbands.py on p3: 17 per-column underline rules at 20.62..83.19, pitch 3.91, skew +0.1 deg (17 rules = 16 data rows), and the four per-column segments of each rule ARE the column bands: Date 7.85-19.05, Name of Contributor 20.55-52.74, Mailing Address & Zip Code 54.00-80.70, Amount 82.10-91.90. TEXT SITS ABOVE ITS UNDERLINE, so row N spans [rule N-1, rule N] and band 1 is extrapolated one pitch up to [16.71,20.62]. FIVE-CROP PROOF at 1200 dpi --value, every transcribed row plus the control: the §A1 FIRST-ENTRY control pct:82.21,16.71,9.66,3.91@p3 rendered the printed 'Amount' header WITH a handwritten '100' + raised dash beneath it — the filer did NOT skip the first ruled line, her first entry IS band 1; row 2 pct:82.21,20.62,9.66,3.94@p3 rendered '20' + raised dash; row 3 pct:82.21,24.56,9.66,3.91@p3 rendered '20' + raised dash; row 4 pct:82.21,28.47,9.66,3.87@p3 rendered '5' + raised dash; and the mandatory §B5 ONE-PAST control pct:82.21,32.34,9.66,3.94@p3 rendered an EMPTY cell between two rules — no trap-5 row below the grid and no off-by-one in either direction."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     82.17,
+     91.8
+    ],
+    "cells": [
+     [
+      6.9,
+      18.9
+     ],
+     [
+      20.4,
+      52.63
+     ],
+     [
+      54.0,
+      81.0
+     ],
+     [
+      82.17,
+      91.8
+     ]
+    ],
+    "rows": [
+     [
+      18.63,
+      22.54
+     ],
+     [
+      22.54,
+      26.44
+     ],
+     [
+      26.44,
+      30.34
+     ],
+     [
+      30.34,
+      34.26
+     ],
+     [
+      34.26,
+      38.18
+     ]
+    ],
+    "measure_note": "Same underline form, measured on THIS page: 17 rules at 22.54..85.06, pitch 3.91, skew +0.3 deg (p3 is +0.1 — the two sheets of one PDF do not share a grid). Column bands from this page's own rule segments: Date 6.90-18.90, EXPENDITURE 20.40-52.63, Mailing Address & Zip Code 54.00-81.00, Amount 82.17-91.80. Row 1 extrapolated one pitch up to [18.63,22.54]. THREE-CROP PROOF at 1200 dpi --value: the §A1 FIRST-ENTRY control pct:82.17,18.63,9.66,3.91@p4 rendered the 'Amount' header WITH '647' + raised '.22' beneath it (recorded 647.22) — first entry is on band 1; the LAST-ROW crop pct:82.17,34.26,9.66,3.92@p4 rendered '1' + raised '.17' (recorded 1.17, Go Daddy); and the §B5 ONE-PAST control pct:82.17,38.18,9.66,3.91@p4 rendered an EMPTY amount cell. NOTE that band 6 is NOT empty in the ADDRESS column — the Go Daddy address wraps onto it as a CONTINUATION LINE (trap F1.2). It carries no figure and no entry, and because Go Daddy is the LAST row it shifts no index here; it is recorded so the next reader of this filer's hand knows to expect it."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "7/1/2016",
+    "donor_raw": "Bonnie Bowen",
+    "donor_city": "Spanish Fork",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "shares the candidate's surname; transcribed as printed, relationship not inferred. the filer writes the dollars followed by a RAISED DASH in the cents position (glyph verbatim: '100 with a raised dash') — her own notation for .00, the module's whitelisted `2,250.-` form; the side's exact closure at 145.00 confirms the reading. Escalated to a 1200 dpi tight crop."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "9/20/2016",
+    "donor_raw": "Susan Chasson",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer writes the dollars followed by a RAISED DASH in the cents position (glyph verbatim: '20 with a raised dash') — her own notation for .00, the module's whitelisted `2,250.-` form; the side's exact closure at 145.00 confirms the reading. Escalated to a 1200 dpi tight crop."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "9/20/2016",
+    "donor_raw": "Tom and Bonnie Bennett",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "20.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a JOINT contribution naming two people in one cell — kept as the ONE row the document prints and never split into two donors. the filer writes the dollars followed by a RAISED DASH in the cents position (glyph verbatim: '20 with a raised dash') — her own notation for .00, the module's whitelisted `2,250.-` form; the side's exact closure at 145.00 confirms the reading. Escalated to a 1200 dpi tight crop."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "9/10/2016",
+    "donor_raw": "Hyrum Oaks",
+    "donor_city": "Provo",
+    "donor_state": "UT",
+    "amount": "5.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "dated 9/10/2016, EARLIER than the two rows above it (9/20/2016) — the filer's own ordering, kept. the filer writes the dollars followed by a RAISED DASH in the cents position (glyph verbatim: '5 with a raised dash') — her own notation for .00, the module's whitelisted `2,250.-` form; the side's exact closure at 145.00 confirms the reading. Escalated to a 1200 dpi tight crop."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "3/17/2016",
+    "vendor_raw": "Utah County Clerk Filing Fee",
+    "amount": "647.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the payee cell reads 'Utah County Clerk Filing Fee' — payee and purpose run together in one cell with no bracket and no hyphen (the appended-purpose workaround, addendum E5). It is the 2016 Commission FILING FEE, and it is the THIRD independent transcription of 647.22 for this office and cycle in this chunk (Voeks 6/20/16 and Frost 4/21/17 both record the same figure) — recorded as an OBSERVATION only; per addenda E1/F5 the fee is office- and cycle-specific and is NEVER used to settle a figure on another filing. this filing's Schedule B prints NO Purpose column — its four columns are Date / Expenditure / Mailing Address & Zip Code / Amount — so `purpose` is honestly blank as a FIELD and the filer's own bracketed or run-on purpose text is preserved inside vendor_raw exactly as written."
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "4/6/2016",
+    "vendor_raw": "Staples (sign and stand)",
+    "amount": "52.07",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "purpose written in PARENTHESES after the payee inside the Expenditure cell: '(sign and stand)'. Settled from this row's own cell — Staples is the vendor, the bracket is the purpose. this filing's Schedule B prints NO Purpose column — its four columns are Date / Expenditure / Mailing Address & Zip Code / Amount — so `purpose` is honestly blank as a FIELD and the filer's own bracketed or run-on purpose text is preserved inside vendor_raw exactly as written."
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "9/30/2016",
+    "vendor_raw": "Sign City (signs)",
+    "amount": "528.95",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "purpose in parentheses: '(signs)'. The zip '84003' is written ABOVE the address line rather than on it — a same-cell overflow, not a continuation row. this filing's Schedule B prints NO Purpose column — its four columns are Date / Expenditure / Mailing Address & Zip Code / Amount — so `purpose` is honestly blank as a FIELD and the filer's own bracketed or run-on purpose text is preserved inside vendor_raw exactly as written."
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "10/1/2016",
+    "vendor_raw": "Home Depot (zip ties & rebar)",
+    "amount": "90.28",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "purpose in parentheses: '(zip ties & rebar)'. The zip '84601' is written above the address line, and the word 'Online' is written BELOW it, in the top of printed band 5 — an annotation to this row's address that carries no figure and publishes no row. this filing's Schedule B prints NO Purpose column — its four columns are Date / Expenditure / Mailing Address & Zip Code / Amount — so `purpose` is honestly blank as a FIELD and the filer's own bracketed or run-on purpose text is preserved inside vendor_raw exactly as written."
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "9/10/2016",
+    "vendor_raw": "Go Daddy domain name",
+    "amount": "1.17",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "payee and purpose run together with no bracket ('Go Daddy domain name'). Its address WRAPS onto the next printed band (trap F1.2, a continuation line): the amount 1.17 sits on band 5 with the first address line, and only the city/state/zip half falls on band 6. The AMOUNT was followed, per the brief. Out-of-state vendor. this filing's Schedule B prints NO Purpose column — its four columns are Date / Expenditure / Mailing Address & Zip Code / Amount — so `purpose` is honestly blank as a FIELD and the filer's own bracketed or run-on purpose text is preserved inside vendor_raw exactly as written."
+   }
+  ],
+  "notes": "⚠ A THIRD 2016 SCHEDULE-B TEMPLATE — the 2016 blanks were stocked INDEPENDENTLY, cover from schedules (addendum F6), and this filing proves it INSIDE one cycle and one seat. The cover here is the SAME blank Voeks 17bb61d5 used — 'FINANCIAL CAMPAIGN REPORT FOR COUNTY & LOCAL SCHOOL BOARD CANDIDATES', 'Utah County Code 2-5 & Utah State Code 17-16-6.5 & 20A-11-13', 'HEART of UTAH' mountain letterhead, inner sheets strap-lined '2016 County Commission & Local School Board Candidate' — but its SCHEDULE B COLUMN IS HEADED 'Expenditure', where Voeks's Schedule B on the same cover blank reuses Schedule A's 'Name of Contributor'. So in 2016 at least TWO Schedule-B sheets circulate under ONE cover blank (and a third, wholly different 'FOR COUNTY CANDIDATES' / Code 2-5-2 cover blank is in use in the same seat and cycle — see Frost 7dbce577). Neither schedule template prints a Purpose column in any variant seen so far. This cover also differs from Voeks's in its left-margin vertical text ('Local School & County Candidates' here, none there). 4 pages, all classified by their own printed headings: p1 cover, p2 SUMMARY PAGE, p3 SCHEDULE A, p4 SCHEDULE B. FOLIATION: the Page __ of __ / Last Name / Date of Report block is printed on pp2-4 and left WHOLLY BLANK on all three — another instance of the 'Page/of left blank' practice; page ordinals locate nothing and every page here was classified from its own header. PAGE-FACE NAME 'Jeanne Bowen', party Democrat, residence Provo UT; index.csv names NO candidate for this row, so the page face supplies it. Note the channel's own two labels for this filer differ across her 2016 filings ('Jeanne Bowen' vs 'Jeanie Bowen' on 950f13c0) — the page face governs. OFFICE SEEKING is written 'Commisson seat C' — the filer's own spelling, missing an 'i', reproduced verbatim and not corrected. AMENDMENT QUESTION LEFT WHOLLY UNANSWERED — neither 'Yes' nor 'No' is ticked (addendum A4: an honest BLANK, never read as 'No'). The report-type box 'Seven days preceding the General Election' is the only one marked. Date of report is written '31 Oct 2016' — day-month-year in words, unlike every other filing in this chunk. PRIVACY: this filing is NOT redacted; the filer wrote full street lines for every donor and vendor and they are published in the clear. Reduced to city/state at read time for contributions and dropped entirely for expenditures; no street line and no phone number reached this record. FIELD-SHIFT SCREEN run on both sides — dates are dates, names are names, the address column holds addresses and the amount column holds money on all 9 rows; no inversion. Row-index traps: the §A1 and §B5 controls passed on both sheets; there is ONE continuation line (the Go Daddy address wrapping onto Schedule B band 6) and one in-band annotation ('Online' under the Home Depot address), neither of which shifts an index here because both sit at or after the last entry — but they are the live instances of trap F1.2 on this filer's hand."
+ }
+]

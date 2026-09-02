@@ -1,0 +1,116 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "vendor_raw": "KEY BANK",
+   "purpose": "FEES",
+   "amount": "93.60",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:13.04,25.62,76.67,3.82@p4",
+   "note": "date cell reads 'YTD' verbatim - not a parseable date, so date is BLANK + needs_review per the strict-date rule; never completed to a day from the report date. Amount written '$93,60' with the cents raised over a comma-like mark (this filer's decimal point); transcribed 93.60 per the superscript-cents convention and CONFIRMED by the balance chain 20,027.08 - 93.60 = 19,933.48. Purpose 'FOES'/'FEES' - read FEES at 200 dpi. No address column entry (the county grid's address column is empty on this row - the filer left it blank; nothing was redacted on this page)."
+  }
+ ],
+ "total_contributions": "0.00",
+ "total_expenditures": "$93.60",
+ "beginning_balance": "20,027.08",
+ "ending_balance": "19,933.48",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "$93.60",
+  "line5_subtotal": "20,027.08"
+ },
+ "cover": {
+  "candidate": "RICHARD SNELGROVE",
+  "party": "GOP",
+  "office_sought": "COUNCIL B",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "1-24-22",
+  "form_year": "2021"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "total_contributions_to_date": "high",
+  "total_expenditures_to_date": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/snelgrove-richard-2021ye.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "RICHARD SNELGROVE",
+  "office": "County Council",
+  "election_year": "2022",
+  "source_pdf": "raw/globalassets/snelgrove-richard-2021ye.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "CHUNK-FILE AGREEMENT: candidate 'RICHARD SNELGROVE' confirmed (handwritten on the cover and again in Report Verification); Year-End box checked; report date on the form is 1-24-22 (chunk file says 2022-01-24 - agrees); RECEIVED IN OFFICE JAN 26 2022; form_year is the printed title '2021 Financial Disclosure Report'. || OFFICE: the form's 'Office Sought' cell is EMPTY. The top-row 'Office' cell reads 'COUNCIL B' in the filer's hand, and that value is what office_sought carries - the 2008-vintage two-office-box substitution, stated here per the tranche convention. It is consistent with the chunk file's 'County Council / At-Large B' but the form itself never writes 'At-Large' or a district number (District Number cell is blank). || AMENDMENT: neither the Yes nor the No box is checked (verified at 1200 dpi), so is_amendment is '' - the filer answered nothing. Do not read that as 'No'. || The filer numbered the form 'Page 2 of 3' and 'Page 3 of 3' and left the Schedule B page's whole header box (page / name / date) blank - so the document is 4 PDF pages but self-numbered as 3. The Schedule B page is genuinely part of this filing (its figures are the ones the Summary Page states). || The Schedule B date cell reads 'YTD', not a date: date is BLANK with needs_review=1 and the verbatim kept in the row note. || This filing carries NO 'Other Campaign Accounts' pages (the 2021 form vintage here is the 4-page one).",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "Schedule A (p3) is the county grid, PRESENT and ENTIRELY BLANK - 15 ruled data rows with no ink, and its SUBTOTAL FOR THIS PAGE and TOTAL CONTRIBUTIONS RECEIVED cells are both left blank. Zero rows is a REAL ZERO here, and it agrees with Summary line 1 Column A = 0.00 (Column B also 0.00). schedule_total is '' because the filer printed no figure there, not because none exists."
+    },
+    "expenditures": {
+     "stated": "$93.60",
+     "schedule_total": "$93.60",
+     "itemized": "93.60",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "The single Schedule B row (KEY BANK / FEES / $93.60) equals the printed SUBTOTAL FOR THIS PAGE 93.60, the printed TOTAL EXPENDITUTRES MADE 93.60, Summary line 2 Column A 93.60, Column B 93.60 and line 6 93.60. BASIS TEST (the DeBry trap): the schedule grand total here equals BOTH Summary columns - A and B are identical on this filing - so there is no cumulative-vs-period scope conflict and any of the three anchors gives the same verdict. No in-kind marker anywhere on the filing."
+    }
+   },
+   "page_subtotal_gates": "p4 (Schedule B): rows sum 93.60 = printed SUBTOTAL FOR THIS PAGE 93.60 = printed TOTAL 93.60. GATE PASSES. p3 (Schedule A): the subtotal/total cells are printed but LEFT BLANK by the filer, so no page-subtotal gate is available on that side; it gates instead on Summary line 1 Column A = 0.00 against a blank grid.",
+   "escalations": 2,
+   "escalation_note": "1200 dpi tight crops: (1) the 'Is this report an amendment?' block on p1 - BOTH the Yes and the No box are EMPTY, so is_amendment is honestly '' rather than 'No'; (2) the Summary Page lines 3-7 cell column on p2 - digits confirmed 20,027.08 / 0.00 / 20,027.08 / $93.60 / 19,933.48, with cents written raised over a comma-like mark.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "CHUNK-FILE AGREEMENT: candidate 'RICHARD SNELGROVE' confirmed (handwritten on the cover and again in Report Verification); Year-End box checked; report date on the form is 1-24-22 (chunk file says 2022-01-24 - agrees); RECEIVED IN OFFICE JAN 26 2022; form_year is the printed title '2021 Financial Disclosure Report'. || OFFICE: the form's 'Office Sought' cell is EMPTY. The top-row 'Office' cell reads 'COUNCIL B' in the filer's hand, and that value is what office_sought carries - the 2008-vintage two-office-box substitution, stated here per the tranche convention. It is consistent with the chunk file's 'County Council / At-Large B' but the form itself never writes 'At-Large' or a district number (District Number cell is blank). || AMENDMENT: neither the Yes nor the No box is checked (verified at 1200 dpi), so is_amendment is '' - the filer answered nothing. Do not read that as 'No'. || The filer numbered the form 'Page 2 of 3' and 'Page 3 of 3' and left the Schedule B page's whole header box (page / name / date) blank - so the document is 4 PDF pages but self-numbered as 3. The Schedule B page is genuinely part of this filing (its figures are the ones the Summary Page states). || The Schedule B date cell reads 'YTD', not a date: date is BLANK with needs_review=1 and the verbatim kept in the row note. || This filing carries NO 'Other Campaign Accounts' pages (the 2021 form vintage here is the 4-page one)."
+  }
+ }
+}

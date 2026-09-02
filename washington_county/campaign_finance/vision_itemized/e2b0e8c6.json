@@ -1,0 +1,110 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W14.json",
+ "key": "e2b0e8c6",
+ "index_path": "raw/live_outpost/Adam Snow _ Commsssion Seat C_FCR_10-29-2024.pdf",
+ "applies_to": [
+  "raw/live_outpost/Adam Snow _ Commsssion Seat C_FCR_10-29-2024.pdf"
+ ],
+ "sha256_prefix": "a2b1aa2194621c63",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "9,419.00",
+    "cover_over50_this": "2,250.00",
+    "cover_over50_cum": "11,669.00",
+    "cover_le50_last": null,
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "2,250.00"
+   },
+   "itemized": "2250.00",
+   "basis": "schedule-total==cover-line1-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Two rows, 250.00 + 2,000.00 = 2,250.00 = Form A's printed TOTAL CONTRIBUTIONS 2,250.00 = the cover's THIS REPORT cell. It is NOT the CUMULATIVE cell (11,669.00) and not the LAST cell (9,419.00), so the scope test fires unambiguously: this schedule is PER-PERIOD, a DIFFERENT scope from the cumulative figure this module publishes. The 9,419.00 of prior contributions was itemized on earlier filings not present in this PDF. NOTE: this newest cover variant has NO '$50.00 or less aggregate' line at all (only three money lines), so cover_le50_* are null - the field does not exist, which is not a zero."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "1,286.00",
+    "cover_expense_this": "-",
+    "cover_expense_cum": "1,286.00",
+    "schedule_total": "-"
+   },
+   "itemized": "0.00",
+   "basis": "schedule-total==cover-line3-this",
+   "result": "exact",
+   "scope": "period",
+   "detail": "Form B carries no transactions: the first data row holds the single word 'None' in the 'Person or Organization Paid' column and an accounting dash in the amount cell, and the printed TOTAL EXPENDITURES cell is likewise an accounting dash. 'None' is a filer annotation, not a transaction, so it was NOT transcribed as a row (zero rows, side transcribed). The empty schedule matches the cover's THIS REPORT expense cell, which is the same accounting dash; the CUMULATIVE cell is 1,286.00, again showing this schedule is per-period. Anchors are kept verbatim as '-' rather than 0 per the bare-dash rule; in this machine-generated Excel-style form the dash is the spreadsheet's zero format, which is why the balance chain closes treating it as 0."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 rows 250.00 + 2,000.00 = 2,250.00 = printed TOTAL CONTRIBUTIONS 2,250.00 (gate fires). p3 zero rows against a printed TOTAL EXPENDITURES of an accounting dash - consistent, nothing to sum.",
+  "row_count": "rowbands.py p2 -> geometry_status 'ok', 20 h-rules; header band 32.66-35.75, data band 1 = 35.75-40.16 (tall, holds the 2-line address), data band 2 = 40.16-43.27, then a regular ~3.11 pitch to 93.07. Exactly 2 inked bands, 2 rows emitted. p3: single 'None' annotation, no inked transaction rows.",
+  "geometry_proof": "p2: 600 dpi crop of the amount column across bands 1-3 renders '$ 250.00' (band 1), '$ 2,000.00' (band 2) and an EMPTY band 3 - first row, last row and the one-pitch-below control all as expected, so no row-index shift. Column x taken from rowbands v_rules (66.21% to 83.06%).",
+  "balance_chain": "Closes exactly on both columns. THIS column: 8,133.00 (balance last) + 2,250.00 contributions - 0 expenses = 10,383.00 = cover cumulative balance. CUMULATIVE column: 11,669.00 contributions - 1,286.00 expenses = 10,383.00 = cover line 4 cumulative 10,383.00. No second filing by this filer is in my chunk, so the cross-filing cumulative chain could not be run; the cover's own LAST-column figures (9,419.00 / 1,286.00 / 8,133.00) are internally consistent with it (9,419.00 - 1,286.00 = 8,133.00)."
+ },
+ "escalations": 2,
+ "escalation_note": "600 dpi crops of the p2 amount column (bands 1-3, doubling as the geometry proof) and of the p2 date/name/address columns; both render identically to the full-page read.",
+ "notes": "Generation-2 county-branded form, newest variant: mountain-logo cover headed 'Campaign Financial Disclosure Per Title 1 Chapter 7 of Washington County Code of Ordinances', machine-filled (typed) but image-faced, and its anchor grid has only THREE money lines - the '$50.00 or less aggregate' line present on the older generation-2 covers is ABSENT here. Form A columns are Date | Name of Donor | Mailing Address and Zip Code | Amount | In Kind? Y/N; both rows answer 'N'. The DOCUMENT CONTRADICTS ITS FILENAME on the seat: the file is named 'Adam Snow _ Commsssion Seat C' [sic] and the chunk file records office 'Commission (seat not stated)', but the form's 'Candidate for Office Of' line reads simply 'Commission' with NO seat letter anywhere in the document - the form governs, and no seat is stated. Candidate name on the form is 'Kenneth Adam Snow', matching the chunk file. Period 6/18/2024 to 10/28/2024; signed and clerk-received 10/28/2024. Donor street address / PO box / ZIP were discarded at read time; only city and state retained.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-10-15",
+   "donor_raw": "Stephen Studdert",
+   "donor_city": "St George",
+   "donor_state": "UT",
+   "amount": "250.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.21,35.75,16.85,4.41@p2",
+   "note": "In Kind? column answered 'N'. Address cell wrapped over two printed lines; street line and ZIP discarded at read time, city/state retained."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2024-10-22",
+   "donor_raw": "Washington County Republican Central Committee",
+   "donor_city": "St George",
+   "donor_state": "UT",
+   "amount": "2,000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.21,40.16,16.85,3.11@p2",
+   "note": "Donor name wrapped over two printed lines in the cell ('Washington County Republican' / 'Central Committee'); joined verbatim. In Kind? column answered 'N'. PO box and ZIP discarded at read time."
+  }
+ ],
+ "expenditures": []
+}

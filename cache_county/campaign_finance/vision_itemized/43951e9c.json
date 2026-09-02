@@ -1,0 +1,82 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C10.json",
+ "key": "43951e9c",
+ "index_path": "raw/2014/2014_cc_Potter_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Potter_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "12752afb0273e273",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "cover_expense_last": "0",
+    "cover_expense_this": "199.00",
+    "cover_expense_cum": "199.00",
+    "cover_balance_end": "-199.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "none - the Form A page is not in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "This PDF is ONE page: the Carr 5-5-PG cover only. Page 2 (Form A) is not present in the scan, so there is no schedule to transcribe and this is NOT a transcribed zero. The cover does report zero contributions on both lines in all three columns, so nothing would have been itemizable, but the classification is 'none' (schedule absent from the document) rather than 'transcribed'."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "199.00",
+    "cover_expense_cum": "199.00",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_balance_end": "-199.00",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "none - the Form B page is not in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "IMPORTANT: the cover reports $199.00 of campaign expenses for this report and cumulatively, but page 3 (Form B) is NOT present in this one-page PDF, so that $199.00 is unitemized AT SOURCE-AS-SCANNED. Zero rows are emitted and no sum is claimed. This is an absent schedule, not an empty one."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Not applicable - no schedule page exists in this document. The Carr form prints no schedule totals in any case; only the cover lines were read.",
+  "row_count": "Not applicable - no ruled schedule page in this document.",
+  "geometry_proof": "Not applicable - zero rows emitted.",
+  "balance_chain": "Closes exactly on the cover's own figures: 0 contributions - 199.00 expenses = -199.00, which is what the filer wrote on line 4 in both the THIS REPORT and CUMULATIVE columns (LAST REPORT column is 0 on all four lines). The negative balance is written with an explicit minus sign."
+ },
+ "escalations": 1,
+ "escalation_note": "600 dpi crop of the cover totals block to confirm the four lines and the minus signs. No schedule pages exist to escalate.",
+ "notes": "index.csv calls the office County Council; the cover's 'Name of Office' line reads 'Cache County Council' with 'Office District: North East' - agrees. Candidate on the form is 'Val K. Potter' (index: Potter) - agrees. Cover date 'December 4, 2014'; clerk stamp 'RCVD 03 DEC 2014'. THE DOCUMENT IS A ONE-PAGE SCAN: cover only, no Form A, no Form B, no statute page. Both sides are therefore 'none' (schedule absent), NOT 'transcribed' zeros - and the $199.00 of expenses the cover reports has no itemisation available in this document. A human may want to check whether the county holds a fuller scan of this filing.",
+ "contributions": [],
+ "expenditures": []
+}

@@ -1,0 +1,112 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2025-06-02",
+   "donor_raw": "Ana Valdemoros",
+   "occupation": "Loan",
+   "amount": "5000.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.31,20.84,89.60,3.89@p3",
+   "note": "candidate loan; address cell redacted at source (black bar); city/state not recoverable"
+  }
+ ],
+ "expenditures": [],
+ "total_contributions": "5000.00",
+ "total_expenditures": "0.00",
+ "beginning_balance": "0.00",
+ "ending_balance": "5000.00",
+ "aggregate": {
+  "total_contributions_to_date": "0.00",
+  "total_expenditures_to_date": "0.00",
+  "line5_subtotal": "5000.00"
+ },
+ "cover": {
+  "candidate": "Ana Valdemoros",
+  "party": "Democrat",
+  "office_sought": "County Council District",
+  "district_number": "1",
+  "report_type": "Midterm Vacancy",
+  "is_amendment": "No",
+  "amendment_of": "",
+  "report_date": "2025-06-03",
+  "form_year": ""
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high"
+ },
+ "_meta": {
+  "index_path": "raw/easyvote/Valdemoros-Ana__C940EF2C.pdf",
+  "era": "easyvote_2024_2026",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Valdemoros, Ana",
+  "office": "County Council",
+  "election_year": "2024",
+  "source_pdf": "raw/easyvote/Valdemoros-Ana__C940EF2C.pdf",
+  "pages_read": [
+   1,
+   2,
+   3
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(kimi-k3; 2026-08-24 wave W2 totals tranche)",
+  "transcribed_date": "2026-08-24",
+  "notes": "Form titled 'Financial Disclosure Report For a Candidate' (no year printed in the title). Midterm Vacancy box checked; amendment No; e-signature stamp 06/03/25. The single contribution is a candidate loan (Occupation/Employer cell reads 'Loan'). Column B Aggregate Total prints $0.00 on both lines 1 and 2 despite the $5,000.00 period contribution \u2014 recorded verbatim. The document contains NO Schedule B page (page 3 is the last page) and stated expenditures are $0.00 \u2014 an honest no-schedule-page, as the audit prior said. Donor address bar-redacted; city/state discarded per bar.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "5000.00",
+     "schedule_total": "5000.00",
+     "itemized": "5000.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "1 row 5000.00 = Summary line 1 Column A $5,000.00 = Schedule A printed TOTAL $5,000.00"
+    },
+    "expenditures": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "no Schedule B page in the document; Summary line 2 Column A prints $0.00, consistent with the absence"
+    }
+   },
+   "page_subtotal_gates": "p3 rows 5000.00 = printed SUBTOTAL FOR THIS PAGE $5,000.00 = printed TOTAL CONTRIBUTIONS RECEIVED $5,000.00",
+   "escalations": 1,
+   "escalation_note": "p3 row 1 re-read in a 600dpi full-width band crop; read identically",
+   "n_contrib_rows": 1,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Form titled 'Financial Disclosure Report For a Candidate' (no year printed in the title). Midterm Vacancy box checked; amendment No; e-signature stamp 06/03/25. The single contribution is a candidate loan (Occupation/Employer cell reads 'Loan'). Column B Aggregate Total prints $0.00 on both lines 1 and 2 despite the $5,000.00 period contribution \u2014 recorded verbatim. The document contains NO Schedule B page (page 3 is the last page) and stated expenditures are $0.00 \u2014 an honest no-schedule-page, as the audit prior said. Donor address bar-redacted; city/state discarded per bar."
+  }
+ }
+}

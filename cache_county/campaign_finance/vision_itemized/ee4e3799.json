@@ -1,0 +1,100 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C14.json",
+ "key": "ee4e3799",
+ "index_path": "raw/2018/2018_cc_Jill_N_Zollinger.pdf",
+ "applies_to": [
+  "raw/2018/2018_cc_Jill_N_Zollinger.pdf"
+ ],
+ "sha256_prefix": "23488df5b0c72885",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "A DECLARED ZERO, and unlike the other nil filing in this chunk it is a printed zero rather than a blank: the filer wrote a hand-drawn 0 in ALL SIX cells of lines 1 and 2 (LAST, THIS and CUMULATIVE on each). Form A (p2) carries no transaction. What p2 DOES carry is a band of blue marks across the first ruled line, and they were examined at 800 dpi before being dismissed: they are offset/show-through from the facing cover sheet -- glyph fragments in the same blue ink, running across the Date, Name and Address columns without forming a word, with NO figure in the Amount column and no date. They are not an entry, and no row is emitted for them. The cover's six explicit zeros corroborate that reading. Scope cumulative: THIS equals CUMULATIVE equals LAST equals 0."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "454.24",
+    "cover_expense_this": "454.24",
+    "cover_expense_cum": "454.24",
+    "cover_balance_end": "454.24",
+    "cover_balance_last": "454.24",
+    "cover_balance_this": "454.24",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "454.24",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "The single itemized row is 454.24 and it equals the cover's line 3 figure exactly. THE COVER LINE IS INTERNALLY INCONSISTENT AND BOTH READINGS ARE KEPT: the filer wrote 454.24 in ALL THREE columns of line 3, so the form's own printed identity LAST + THIS = CUMULATIVE does not hold (454.24 + 454.24 would be 908.48). Per the county-addendum rule for a cover cell that disagrees with another cover cell, every cell is transcribed verbatim into the anchors and none is picked silently or recomputed. The sensible reading -- one filing fee, paid once, reported once -- is corroborated by the schedule, which holds exactly one line; the filer appears to have copied his single figure across the row rather than distinguishing the period from the cycle. Scope is recorded cumulative because the CUMULATIVE cell is the figure the module publishes and the row equals it; it equally equals the THIS cell, so no double-count risk arises either way here."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "The Carr 5-5-PG prints no schedule total and no page subtotal, so the cover is the only anchor. Form B gate: p3 rows 454.24 = cover line 3 (every column), EXACT. Form A gate: zero rows against six explicit hand-written zeros on cover lines 1-2, consistent, EXACT.",
+  "row_count": "rowbands.py not usable on these sheets (same rule-loss under ink as the rest of this chunk's Carr forms) and not relied on. Counted by ink on the full 200 dpi renders: p3 carries exactly ONE inked ledger line, complete across all four columns, and nothing below it to the footer -- 1 row emitted, and the control crop one pitch below renders empty. p2 carries ZERO inked ledger lines; the only blue on the page is the offset band described in recon.contributions, which has no amount and no date and is not counted as a row.",
+  "geometry_proof": "p3: first-row crop pct:80.00,11.29,13.70,2.20 renders '454.24'; the same row cropped across the left of the page renders '3/9/18 Cache County', so the row's four cells belong together; control one pitch below (13.48) renders EMPTY (bare rule only). With a single row the first-row and last-row crops are the same crop, so the control is what carries the proof that the index is not shifted.",
+  "balance_chain": "IT DOES NOT CLOSE, AND THE SIGN IS THE PROBLEM. With contributions of 0 and expenses of 454.24 the balance at the end of the period should be -454.24, but cover line 4 reads a positive 454.24 -- and again in all three columns. The filer copied his expense figure into the balance line instead of subtracting it. Both lines are kept verbatim and neither is repaired. The LAST column carries 454.24 on lines 3 and 4, which would imply a prior report, but no earlier filing by this candidate is in this chunk, so the cross-filing chain could not be run; a reviewer with the full cycle should check whether an earlier Zollinger report exists and whether that 454.24 in the LAST column is a real carry-forward or the same copying habit."
+ },
+ "escalations": 5,
+ "escalation_note": "Cover totals block read in two 400 dpi crops (lines 1-3 and lines 2-4) to confirm all twelve cells including the six zeros. p2's first ruled line escalated to 800 dpi specifically to decide whether the blue marks were an entry or offset -- the check that kept a ghost out of the data. p3's single row read at 600 dpi across both the amount cell and the date/payee cells, plus the 600 dpi control crop.",
+ "notes": "index.csv calls this Jill N. Zollinger / Clerk/Auditor / 2018 and the cover agrees: 'Full Name of Candidate Jill N. Zollinger', 'Name of Office Cache County Clerk/Auditor', 'Political Party Republican'. IN SCOPE (county office). Office District is blank, as expected for a county-wide row office. A NOTABLE SELF-REFERENCE, recorded because it explains the form: the candidate IS the County Clerk, so the 'TO ______ County Clerk' line is addressed to herself and reads 'Jill N. Zollinger'. THE DOCUMENT CONTRADICTS THE CHUNK FILE ON DATE, and carries two dates of its own: the signature line reads '10/11/18' and the clerk's stamp reads 'CLERK OCT 12 18 AM 9:18:43', while the chunk row says 2018-10-17. Signed the 11th, stamped the 12th, indexed the 17th; transcribed from the form and flagged. The filer wrote 'NONE' on the home-phone line and relabelled the Business field 'Cell'. PRIVACY: the cover prints the candidate's home street address, ZIP and cell number in the clear -- all discarded at read time. No donor privacy question arises, the contributions schedule being empty. p4 is the statute page (Cache County Code 2.21.040 / 2.21.050), carrying no filer data.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2018-03-09",
+   "vendor_raw": "Cache County",
+   "purpose": "Filing Fee",
+   "amount": "454.24",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:80.00,11.29,13.70,2.20@p3",
+   "note": "the only transaction on the filing -- the candidate's own filing fee, paid to the county she serves as Clerk"
+  }
+ ]
+}

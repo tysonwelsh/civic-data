@@ -1,5 +1,567 @@
 # TODO_ARCHIVE — closed historical entries moved from TODO.md
 
+## ARCHIVE ANCHOR 2026-08-20-SLCO-REOPENED-BANNER
+
+# HANDOFF — resume point (2026-08-20: SALT LAKE COUNTY RE-OPENED, SIZED, AND PARTLY RECOVERED)
+
+> **Read in order: root `CLAUDE.md` → this file → `TODO.md` → `GOTCHAS.md`. Options menu:
+> `LEADS.md`. Publish criteria: `SHIP_GATE.md`. One session banner, overwritten per handoff
+> (prior banner: TODO_ARCHIVE.md anchor 2026-08-20-UTAH-B2-BANNER).**
+
+## The headline: "SLCo B2 closed" was true and misleading, and this session proved it
+
+A fresh instance was handed cache + washington (the last two Phase B counties). Before starting
+it asked whether salt_lake was really finished. It is not — and the answer cost four agents to
+establish, all four of which corrected the brief that launched them.
+
+## What landed 2026-08-20 (all federated, ONE build 18:26:52)
+
+**1. An office gate was silently dropping rows we already owned. [DEBT] filed AND closed.**
+`build_finance.py` resolved EasyVote offices only through `raw/easyvote_api/offices.json` — a
+snapshot of CURRENTLY-ACTIVE offices. **12 historical `OfficeGuid`s are absent from it**, so the
+lookup returned `""` and the row was dropped with no error.
+
+| | before | after |
+|---|---:|---:|
+| cf_contribution (slco) | 19,702 / $8,733,183.27 | **20,930 / $9,003,802.56** |
+| cf_expenditure (slco) | 11,403 / $6,453,253.40 | **11,882 / $6,828,672.55** |
+| cf_filing (slco) | 834 | **841** |
+
+0 rows lost · every `stated_*` byte-identical · zero school-board/municipal rows admitted ·
+API carries no address field, so `donor_city`/`donor_state` are honestly blank.
+
+⚠ **GUID-first resolution is load-bearing and the coordinator's brief had it BACKWARDS.** The
+brief said resolve from filing metadata; the agent read the covers and inverted it. Charlotte
+Fife-Jepperson's filer label says "Salt Lake County Council District 2" while her 2024 covers
+read **Office Sought = Salt Lake School Board, District 2**. Metadata-first would have imported
+73 school-board contributions + 40 expenditures into a county dataset.
+
+**An unlooked-for cross-validation.** The 26 filings that gained an itemized half already had
+vision-transcribed covers from wave B2. **All 52 sides now reconcile EXACTLY** (`recon_delta`
+0.00) — a page-image vision read matching born-digital API rows to the cent (Chapman
+$102,508.83 across 556 rows). First place in the program where the two channels measured the
+same filings. They agree.
+
+**2. The 2016–2021 portal: the DIAGNOSIS WAS WRONG. It is not WAF-blocked — the application is
+DEAD.** Path-selective, deterministic: app-pool paths RST at a flat ~0.23 s, every other path
+returns a clean catch-all 302. Anti-bot discriminates by CLIENT; this discriminates by PATH.
+Real Chrome with full TLS+JS gets the same reset; so does unrelated infrastructure. Wayback's
+last HTTP 200 is **2026-01-15**, cert still current — a maintained VIP over a dead pool.
+**A browser route does not exist**; GRAMA is the only way to that era's online filings.
+Also: the report route is **`/Search/PublicSearch/Report/{id}`** (ids 1069–2104), NOT
+`/Report/{id}` — the 2026-08-01 probe hit a non-route, so its Wayback 404 was never evidence
+about the reports. GOTCHAS.md's standing rule carried both errors and has been corrected.
+
+**3. 130 acquirable filings nobody had looked for.** The county CMS serves 2015–2021 county-office
+disclosures at a `globalassets` path — **130 unique PDFs, ZERO overlap** with the 547 held, live
+today (verified 200/application/pdf). `AVAILABILITY.md` recorded that URL family on 2026-08-01
+**from the metro-township page only**, filed as an out-of-scope "BONUS"; the county-offices page
+was never opened. New standing rule in GOTCHAS: *a URL family found on one page is a reason to
+re-check every sibling page.*
+
+**4. The row-less EasyVote filings are a GAP, not an honest zero — now SIZED.** Every page of
+240 filings read (1,719 pages): **197 (82%) carry real itemized detail, ~18,433 lines** over 980
+pages — an ESTIMATE (~86% line-by-line counts). **0 withheld, 0 undetermined.** 8 empty-schedule,
+35 no-schedule-page. **143 filings (all 2024 + all 2026) have NO `filing_totals` row at all.**
+Blind re-read of 191 sides against the 2026-08-02 vision caches: **zero disagreements.**
+
+## Traps a transcription wave MUST carry (each would corrupt at scale)
+
+- **`schedule-total-vs-summary-gap`** — on ~a quarter of has-detail filings the schedule's printed
+  grand total sits below Summary line 1/2, uniformly because **page subtotals exclude In-Kind rows
+  the schedule does list**. Reconciling against the schedule total manufactures false deltas.
+- **Three structural shapes, not one.** 62% of has-detail sides are typed onto the county's OWN
+  Schedule A/B grid; a third group has **no county schedule page at all** (the filer's sheet IS
+  the schedule). A wave keyed on finding a "See Attached" stub silently misses >1,000 rows.
+- **2015–2021 adds `Occupation/Employer`** to Schedule A — a field the CF schema has no home for.
+  **OWNER DECISION 2026-08-20: add a column and capture it.**
+- Folder years LIE (a file under `2016_disclosures/` is a 2018 document — form governs); filings
+  are SPLIT across PDFs, so "one PDF = one filing, page 1 = cover" does not hold in that era.
+
+## Where Salt Lake County actually stands
+
+| slice | state |
+|---|---|
+| clerk-legacy ~2006–2015 | ✅ CLOSED 496/496, 22,871 rows |
+| EasyVote 2022/2024/2026 itemized | ✅ 197 filings (after today's repair) |
+| EasyVote row-less residue | ⚠️ **245 filings; 197 hold detail, ~18,433 lines — SIZED, not started** |
+| 2015–2021 paper-filed | ❌ **130 PDFs, free, never harvested** |
+| 2015–2021 online-filed | ❌ **249 county reports, GRAMA-only** (draft written, NOT sent) |
+
+## Next — OWNER-APPROVED 2026-08-20
+
+**W1: harvest + transcribe the 130 free 2015–2021 PDFs**, capturing `Occupation/Employer` as a
+new column. W2 (the 197-filing / ~18,433-row residue — ~3× the utah wave) is SIZED AND QUEUED,
+not approved. W3 = owner sends the GRAMA draft at
+`campaign_finance/_recon/2026-08-20-portal-probe/GRAMA_EMAIL_2026-08-20.txt`.
+
+⚠ **`rowbands.py` DEFECT 7 is still open [DEBT] and W1/W2 both lean on that tool.** The utah wave
+established the pattern: fix tooling BEFORE the wave leans on it. This is the defect class where
+a shifted row index still SUMS, so no arithmetic gate can see it.
+
+**Then: cache_county (150 scanned) + washington_county (95 scanned + a 314-filing
+machine-readable PARSER tranche) — the original assignment, still untouched.** Brief:
+`_backups/2026-08-20-phaseb-remaining/BRIEF.md`.
+
+## Gates, this build
+
+Federation **44/44** · integrity ok · FK 0 · caveat **104** · `check_doc_numbers` 13/13 ·
+marquee 5/5 · `validate_entity salt_lake_county` 15 PASS / 2 WARN / 0 FAIL (both WARNs
+pre-existing). **All three SHIP_GATE predicates PASS. Remaining = G9 (owner declares).**
+**[DEBT] 3 open** — rowbands DEFECT 7, make_snippet corpus re-check, index.csv school-board
+mislabel. None makes a published value wrong.
+
+**NOT COMMITTED** — today's work sits in the working tree with the prior utah wave.
+
+## The lesson worth keeping
+
+Four agents ran today; **all four corrected the brief that launched them**, and in every case the
+correction came from reading the primary document. The coordinator's brief was wrong about office
+resolution order, about which rows to admit, about the online-report filer count, about the
+row-less cohort size, and about the document shape. *A named example in guidance is an
+illustration, never a fact — the page governs.*
+
+
+## ARCHIVE ANCHOR 2026-08-20-UTAH-B2-BANNER
+
+# HANDOFF — resume point (2026-08-20: UTAH WAVE B2 CLOSED — the largest Phase B corpus is done)
+
+> **Read in order: root `CLAUDE.md` → this file → `TODO.md` → `GOTCHAS.md`. Options menu:
+> `LEADS.md`. Publish criteria: `SHIP_GATE.md`. One session banner, overwritten per handoff
+> (prior banner: TODO_ARCHIVE.md anchor 2026-08-20-UTAH-B2-CLOSE).**
+
+## What landed 2026-08-20 — utah_county campaign finance, Phase B wave B2
+
+**QUEUE CLOSED: 245 of 245 scanned filings itemized**, over 247 reports.
+
+| | |
+|---|---:|
+| rows | **2,884 contributions · 3,629 expenditures = 6,513** |
+| `pct:` geometry | **6,513 of 6,513 (100%)** |
+| money | **$2,313,295 monetary + $101,821 in-kind contributed · $2,231,657 spent** |
+| sides: transcribed / empty-schedule / no-schedule-page / **withheld** | 389 / 90 / 15 / **0** |
+| verdicts: exact / delta / cumulative-exact / unknown | **342** / 34 / 11 / 2 |
+| escalation crops | 1,423 |
+
+Fan-out: **≤3 concurrent Opus chunk agents**, per charter. `$0` API (Read-tool vision).
+
+**Gates all green:** `validate_finance.py` PASS · `validate_entity.py utah_county`
+**13 PASS / 1 WARN / 0 FAIL** (== baseline; the WARN is pre-existing, 4 duplicated legislative
+dates, unrelated) · federation run **ONCE** at close, **44/44 in step** · rebuild proved
+**byte-identical** · cover tranche **provably unmoved** (263 rows, zero changes to any stated
+total or identity column) · privacy sweep **0 hits** across all 6,513 rows.
+
+**NOT COMMITTED.** 263 modified files + 4 new paths sit in the working tree for owner review:
+`scripts/campaign_finance/rowbands.py`, `.../fitgrid.py`,
+`utah_county/campaign_finance/make_itemized_caches.py`, and `_itemized_records/`.
+
+## Prerequisites, closed before any bulk transcription
+
+- **(a) Tooling:** 6 `rowbands`/`fitgrid` defects fixed and promoted to
+  `scripts/campaign_finance/`, each proved on a real page. Closed the standing [DEBT]
+  (archived). Frozen wave-kit copies left byte-unchanged on purpose.
+- **(b) Calibration:** **13/13 PASS** pre-flight recorded in
+  `_audits/cf-calibration-suite/runs.md`, all five negative controls holding; suite grown
+  **13 → 21 specimens**.
+- **(c) The claimed bound-in 2018 Schedule B: VERIFIED FALSE** at the source (three
+  independent confirmations). That page is the filing's own 2020 Summary Page. No sibling
+  exists → the true queue is the full 245.
+
+## What the corpus taught (details in the module's CLAUDE.md + AVAILABILITY.md)
+
+- **utah's regime is PER-PERIOD and INVERTED** vs summit/weber: promote Column A / Box B / Box D;
+  the cumulative Column B / Box C / Box E is **never** summed as an increment.
+- **`cumulative-exact`** (11 sides) — the schedule restates the whole cycle, so `reconciles_*`
+  is left **BLANK (unknown), not True**. Asserting True would only pass by weakening the shared
+  validator, which this wave did not do.
+- **`recon_delta_*` is NOT derivable** as (itemized − stated): a delta side's anchor need not
+  share the promoted cell's scope. Tried, proved wrong on Ewell 2024 (derivation 2,729.23 vs the
+  page's 119.27), **reverted**, counterexample recorded in the code.
+- **Seven invisible row-index traps** — six document-side, one tool-side. All share one property:
+  **a shifted row index still sums**, so the arithmetic gate cannot see them. Only the mandatory
+  two-crop proof catches them.
+- **Form variance is per FILING, never per cycle**: `legacy_colAB` is alive in **2026**; the
+  `v. 12.23` footer spans 2024 and 2026; **two Schedule A blanks circulate within 2026**; the
+  v.12.23 blank has two print renderings with different grid geometry.
+- **Eight specimen-by-name pointers in this wave's guidance proved wrong while the underlying
+  RULE held** — the last two authored by the coordinator mid-wave. Every one was caught by an
+  agent reading the page. **A named example is an illustration, never a fact.**
+
+## Since the wave closed, same session (2026-08-20)
+
+**Ledger bookkeeping (owner-directed).** `rowbands.py` [DEBT] CLOSED (its terminating condition
+was "fix BEFORE promotion" — prerequisite (a) did exactly that); record archived verbatim under
+`TODO_ARCHIVE.md` anchor **2026-08-20-UTAH-B2-CLOSE**. `make_snippet.py` [DEBT] annotated as
+PARTIALLY closed — the `/Rotate` tool fix is verified done; the residual is a corpus re-check of
+SLCo B2 + summit geometry, plus a high-dpi blank-crop defect. 7 wave leads filed in LEADS.md.
+Root `CLAUDE.md` corrected (it still listed utah as un-itemized). Module CLAUDE.md +
+AVAILABILITY.md carry the close-out.
+
+**Smith 2014 [DEBT] — filed and CLOSED the same session.** The page prints `$3446` with **no
+decimal point**, so the transcript was faithful and the *filer* omitted it. Value proved **34.46**
+three ways (line 5 subtotal 1,500.00 − line 4 1,465.54; line 7 closes at 0; the prior report's
+line 7 = 34.46, which the form's own arrow points at). Fixed via `vision/a0202d15.json` + rebuild;
+verbatim `3446` retained in `totals_verbatim`; balance chain now continuous. Re-federated.
+
+**SHIP GATE — all three predicates PASS** (declaration row added to `SHIP_GATE.md`). Federation
+44/44, integrity ok, FK 0, caveat 104, `check_doc_numbers` PASS, marquee 5/5. **G9 (publish
+provisionally) is an OWNER DECISION, not a technical blocker.** 2 open [DEBT], neither of which
+makes a published value wrong, so by this repo's own policy neither blocks publish.
+⚠ G1 owner residue still stands: rotate `ANTHROPIC_API_KEY`; enable secret scanning + push
+protection (only available once the repo is public).
+
+**A false alarm, resolved:** predicate 2 surfaced ut_state showing zero `Aye` votes over 24k rows.
+The state tier uses **`Yea`**. The shipped views already handle it — `v_contested_all.named_ayes`
+for ut_state sums to 9,100, exactly matching ground truth. No published value is affected; the
+only real gap is that the `vote_values` crosswalk has no `Yea` row (filed as a lead).
+
+## ⚠ PHASE B IS NOT FINISHED — audited across all 8 counties 2026-08-20
+
+Closed: juab · wasatch · summit · weber · utah · salt_lake (**clerk-legacy queue only**).
+**NEVER RUN: cache (150 scanned) · washington (95 scanned).**
+
+**salt_lake has a residue outside its closed queue: 274 scanned filings with no itemized rows,
+including ALL 123 filings of the 2022 cycle** — an entire county election cycle with stated
+totals only. Documented and caveat-carried (an honest gap, not a defect), but "SLCo B2 closed"
+reads as finished and it is not. Upstream of Phase B, SLCo's **county portal ~2016–2021 was never
+acquired** (WAF-blocked).
+
+⚠ **"scanned without rows" is NOT a completeness measure** — empty-schedule / no-schedule-page /
+zero-activity filings are honest. Measure whether a filing was TRANSCRIBED.
+
+**Owner decision 2026-08-20: hand off to a fresh instance to work cache + washington.**
+Working brief: **`_backups/2026-08-20-phaseb-remaining/BRIEF.md`** — read it first for those two.
+Headline: washington is ~77% machine-readable (189 spreadsheet + 125 text vs 95 scanned) so its
+bulk is a **PARSER tranche, not a vision wave**; cache is a true 150-filing vision wave and is
+**where the Rhodes reversal happened**, so its calibration specimens matter most there.
+
+## Next (owner picks — see TODO.md [GATED] Tranche 3 Phase B)
+
+Remaining Phase B corpora are **not the same kind of job** (measured 2026-08-20):
+
+- **cache — 239 filings, 150 SCANNED.** A true vision wave, ~60% of utah's size.
+- **washington — 409 filings but only 95 SCANNED** (125 text + **189 spreadsheet**): ~77%
+  machine-readable, so the bulk is a **PARSER tranche**, far cheaper per row. Its blank
+  `election_year` (310 of 409) is **BY DESIGN, not a gap** — `reporting_year` is filled 407/409
+  (95/95 of the scanned) and `cycle_year` 382/409, each with a `*_source` companion. Join on
+  those and confirm the three columns' intended semantics with the owner.
+
+So "largest first" by filing count mis-orders these two.
+
+Also open and unstarted: the **retro-anchor + blind-reverify** program ([GATED]) — its
+text-parsed tier gets geometry ~free via deterministic re-parse.
+
+
+## ARCHIVE ANCHOR 2026-08-20-ROWBANDS-DEFECT7-CLOSED
+
+**✅ CLOSED 2026-08-20.** Filed record, verbatim:
+
+- [ ] **[DEBT] `rowbands.py` DEFECT 7 — it can silently MISS a grid's TOP rule, and no
+  arithmetic gate can see that.** OBSERVED 2026-08-20 (utah wave B2, reported by a chunk
+  agent and then **reproduced by the coordinator at the source**): on
+  `utah_county/campaign_finance/raw/2026/2026_Taylor_Fox_Redacted.pdf` p3 the tool returns
+  **15 horizontal rules for a 15-row grid** (16 are required — it drops the TOP one, which
+  sits at 20.52 − 4.22 = 16.30 pct) and **1 of 5 vertical rules**. Trusting it opens the
+  ledger at row 2. **Why this is the dangerous class:** a shifted row index STILL SUMS, so
+  the side reconciles EXACTLY while every entry is filed against the wrong printed line —
+  invisible to the gate that catches almost everything else. It was contained only by the B2
+  contract's mandatory two-crop proof (the agent extrapolated one pitch, crop-proved it, and
+  row 1 was a real entry: 901.50 Elections Division). Two siblings seen the same day: the
+  tool proposed a **subtotal underline as a data band** (2 pages), and returned **zero
+  rules** on four filings' schedule pages. Terminating fix: adopt the recovery that worked
+  every time — a **background-normalised dark-run scan** (subtract a Gaussian blur, then
+  threshold) restricted to the target column — and add a rule-count-vs-expected-rows assert.
+  NOT fixed during the wave by design (a chunk agent was live against the tool; mid-flight
+  edits to a shared aid caused the weber geometry regression during prerequisite (a)).
+  Record: `_backups/2026-08-18-utah-cf/workdir/ROWBANDS_PROMOTION.md` "DEFECT 7".
+
+**CLOSURE.** Fixed in `scripts/campaign_finance/rowbands.py` (477 → 841 lines). Reproducer now
+returns **16 horizontal rules, top at 16.25 pct** (the wave's independently crop-proved box put it
+at 16.30), **5 vertical rules**, 15 data bands, `geometry_status: ok`; `--no-normalize` reproduces
+the old 15-rule answer, isolating the cause. Coordinator re-ran the reproducer and confirmed.
+
+⚠ **THE FILED CAUSE WAS WRONG IN THREE PLACES** — the fourth filed diagnosis to fail at the source
+today. (1) The rule is NOT faint-and-missed: it is present and dark, and a `fill >= 0.80` gate
+added by the 2026-08-18 defect-3 fix rejects it — on a faded photocopy the rule splits into two
+runs of fill 0.71 and 0.40 and both are discarded. (2) The vertical failure has a SEPARATE cause
+the record never named: the column rules **shear** because the page is curved (Amount right rule
+at 87.9 pct beside row 1, 91.1 pct beside row 15), so rigid deskew cannot straighten them and no
+pixel column accumulates. (3) The "subtotal underline read as a data band" sibling was
+misattributed — the underline is not detected at all; the false bands came from the half-width
+**footer box** ("Name of Candidate" / "Date of Report"). The filed NUMBERS were all exact.
+
+Fix: background-normalised dark-run mask (Gaussian-blur subtraction) **unioned** with the old mask
+so nothing can be lost, ladder run on both, more-regular grid wins, ties to raw; per-band column
+scan when the projection returns <3 rules; off-grid rule exclusion by width; ink-probed grid
+self-audit; `--expect-rows N` assert. Deviation on evidence: the filed fix specified normalisation
+*restricted to the target column* — full-width normalisation recovers it, so the restriction was
+unnecessary.
+
+**Regression — this is what makes it trustworthy.** 180 pages across **6 counties**, sampled
+(seed 20260820) from the 1,186 (filing, page) pairs that already carry a `pct:` box, checked
+against **1,942 wave-proven row boxes**. 0 crashes; 138/180 byte-identical. Wave-proven boxes
+contained in a detected band **1,048 -> 1,072**; tight (<=0.5 pct) matches **871 -> 892**; **no
+county lost containment** (juab 143->143 · summit 213->213 · weber 126->126 · utah 260->261 ·
+wasatch 130->139 · salt_lake 176->190). All 3 diff-flagged candidates opened at the page: two are
+improvements (one an undiscovered DEFECT 7 instance inside the sample), one honest. The
+2026-08-18/19 proven specimens are byte-identical.
+
+Honest degradation added (the point of the fix): four states — `ok` / `gaps` / `row-count-mismatch`
+/ `no-reliable-geometry`, nonzero CLI exit on the last two. Measured across the sample: ok 130,
+gaps 30, no-reliable 20. The 15 genuinely unruled pages now SAY so instead of silently returning an
+empty list; sampled at the page, `2022_Gray_Jeff` p2 is a typed list with no printed grid at all —
+no geometry exists to find.
+
+Report: `_audits/cf-calibration-suite/ROWBANDS_DEFECT7_FIX_2026-08-20.md`; run record appended to
+`runs.md`; backups + the full regression harness and both raw output sets in
+`_backups/2026-08-20-rowbands-defect7/`.
+
+## ARCHIVE ANCHOR 2026-08-20-SLCO-EASYVOTE-GATE
+
+**[DEBT] salt_lake_county EasyVote build DROPS itemized rows that are provably county-office —
+the `OfficeGuid` gate fails open-loop when `offices.json` lacks the GUID. ✅ CLOSED 2026-08-20,
+same session it was filed.**
+
+OBSERVED (coordinator, at the source): `salt_lake_county/campaign_finance/build_finance.py`
+gated every EasyVote API row with `BL.is_county_officename(offices.get(guid.upper(), ""))`, where
+`offices` loads from `raw/easyvote_api/offices.json` — a snapshot of CURRENTLY-ACTIVE offices.
+**12 distinct historical `OfficeGuid`s appearing on itemized rows are absent from it**, so the
+lookup returned `""`, the test was False, and the row was dropped SILENTLY. Reproducing the old
+gate outside the build returned kept-counts matching RECON.md's published 4,956 / 3,278, so the
+reproduction was faithful.
+
+FIX (agent wave, 1 Opus, `build_finance.py` only): two-step resolution — **row-level GUID first,
+filing metadata (`documentsearch.json` / `_fetch_log.jsonl` `officename`) only as fallback** —
+county-scope test applied to the resolved name. The 26 newly-admitted filings that already had a
+vision cover row get their itemized half filled via a new `apply_api_itemized()` rather than
+creating a duplicate filing row.
+
+**GUID-first was load-bearing and the coordinator's brief had it backwards.** The brief proposed
+metadata-first; the agent read the pages and inverted it. Charlotte Fife-Jepperson's filer label
+reads "Salt Lake County Council District 2" while her 2024 covers read **Office Sought = Salt Lake
+School Board, District 2** (coordinator rendered the cover and confirmed). Metadata-first would
+have imported **73 school-board contributions + 40 expenditures** into a county dataset. The agent
+also ADMITTED 11 rows the brief had set aside as unadjudicated, after reading their covers
+("_Council - District", districts 3/1/1/2). The page governed over the brief in both directions.
+
+RESULT (each independently re-verified by the coordinator):
+
+| | before | after | delta |
+|---|---:|---:|---:|
+| contributions | 19,702 / $8,733,183.27 | **20,930 / $9,003,802.56** | +1,228 / +$270,619.29 |
+| expenditures | 11,403 / $6,453,253.40 | **11,882 / $6,828,672.55** | +479 / +$375,419.15 |
+| filing_totals | 834 | 841 | +7 |
+
+Added-row offices (C/E): Clerk 1006/133 · Sheriff 115/137 · Auditor 37/37 · Council D5 34/83 ·
+D1 20/12 · At-Large B 4/39 · D3 4/30 · Council-seat-blank 5/6 · Recorder 2/2 · Surveyor 1/0.
+**Zero school-board or municipal rows.**
+
+Proof obligations, all PASS and all re-verified by the coordinator: (1) strict superset — 0 rows
+lost, headers identical; (2) county-only admission; (3) **cover tranche unmoved** — every
+`stated_*` and identity column byte-identical on all 834 pre-existing rows, movement confined to
+itemized-derived columns on exactly 26 rows; (4) the 2000/2030 oddities adjudicated at the page
+(2000 = an EasyVote `datesubmitted "01/01/01"` placeholder on a filing excluded anyway as school
+board; 2030 = a filename-token mis-parse on a Jan-2014 year-end for the 2012 county-mayor cycle,
+already adjudicated in wave B2 — the defect is in `index.csv`, flagged below); (5) privacy — the
+API carries no address key at all, `donor_city`/`donor_state` blank on all added rows;
+(6) determinism — two runs byte-identical. Validator PASS, 0 fails, 148 warns (was 155; the 7
+closed warnings are exactly the new filing rows).
+
+**An unlooked-for cross-validation.** The 26 filings that gained an itemized half already carried
+vision-transcribed cover totals from wave B2. **All 52 sides now reconcile EXACTLY**
+(`recon_delta_* = 0.00`, `reconciles_* = True`) — a page-image vision read matching born-digital
+API rows to the cent (Chapman: $102,508.83 across 556 rows). Nothing was nudged; there were no
+deltas to publish. This is the first place in the program where the vision channel and a
+born-digital channel measured the same filings, and they agree.
+
+Record: `salt_lake_county/campaign_finance/_audits/2026-08-20-easyvote-office-gate/report.md`.
+Backups + SHA256s: `_backups/2026-08-20-slco-gate/`.
+
+## ARCHIVE ANCHOR 2026-08-20-UTAH-B2-CLOSE
+
+### Closed [DEBT] — `rowbands.py` pre-promotion defects (filed 2026-08-17, CLOSED 2026-08-20)
+
+The record as filed, verbatim:
+
+- [x] **[DEBT] `rowbands.py` returns non-row bands on typed sheets and drifts on skewed
+  scans.** OBSERVED 2026-08-17 (weber wave): on typed sheets it registers TEXT BASELINES as
+  printed rules (the real grid is every other one) and returns header/shaded-spacer bands as
+  rows; redaction bars throw spurious rules. Separately its percentages are measured on a
+  DESKEWED copy while crops are taken from the RAW render — a full row of drift on the
+  skewed 2026 scans. Consequence: 18 weber filings now carry blank `geometry` by design
+  (values never in doubt; a wrong measurement is withheld, not published weaker) and need a
+  geometry-only re-measure. This is the tool LEADS.md proposes promoting to
+  `scripts/campaign_finance/` before the utah wave — fix BEFORE promotion.
+
+**How it was closed.** The utah wave's prerequisite (a) fixed the tool and promoted it to
+`scripts/campaign_finance/rowbands.py` + `fitgrid.py`, which is exactly the terminating
+condition this item stated ("fix BEFORE promotion"). **Six** defects were repaired, each proved
+on a real page — the five filed here plus one found during the work:
+
+1. **`deskewed_to_raw()` inverted the rotation the WRONG WAY** — it re-applied PIL's forward
+   map instead of its inverse, so every band measured on a deskewed page landed wrong on the
+   raw one. This is the "full row of drift" symptom filed above; the cause was not what the
+   filing guessed.
+2. **Rule-vs-text classification used the MAXIMUM column height**, which a single descender or
+   speck lifts over threshold. Now uses the **median** column height plus a fill fraction and a
+   segment count, calibrated on real pages (printed rules fill ≥0.88 of their span in ≤6
+   segments; text baselines fill 0.25–0.70 in 8–40). This is the "TEXT BASELINES as printed
+   rules" symptom.
+3. A **"continuity" metric** tried first broke the underline form outright (22 rules → 4).
+4. **`fitgrid.py` returned SUB-MULTIPLE pitches** (1.35 where the truth is 4.05, "explaining"
+   17 of 17 rows because every third line is still a line). Search range is now derived from
+   the page's own median adjacent gap (0.7–1.4×) → 4.0500 at residual 0.0097.
+5. An **adaptive vertical-rule ladder regressed weber's audited geometry**, replacing correct
+   column bands with text stems 0.6 pct apart. Reverted to strict-first / relax-only-on-failure;
+   weber's audited `4.72/12.87/43.17/85.24/95.90` is preserved exactly.
+6. Header/shaded-spacer bands are excluded via the longest regular-pitch consecutive run
+   (`data_bands_trimmed`).
+
+The two frozen wave-kit copies were left **byte-unchanged** on purpose: summit's
+`make_itemized_caches.py` pins its import to the backup path, and weber's materializer never
+imports `rowbands` at all — repairing a shared tool must not retroactively alter a closed
+wave's provenance.
+
+**Proof of fitness:** the promoted tool then measured **6,513 rows at 100% `pct:` geometry**
+across 245 utah filings, every frame proved by rendering it back off the page.
+
+**What did NOT close, and is refiled as a new [DEBT]:** a **seventh** defect found in
+production on 2026-08-20 and reproduced by the coordinator — the tool can silently miss a
+grid's **TOP rule**. It is a different failure from any filed here, and it is the dangerous
+kind: a shifted row index still sums, so a side reconciles exactly while every entry is
+attributed to the wrong printed line. See TODO.md "[DEBT] `rowbands.py` DEFECT 7".
+
+Record: `_backups/2026-08-18-utah-cf/workdir/ROWBANDS_PROMOTION.md`.
+
+### Closed [DEBT] — utah_county Smith 2014 beginning balance (filed AND closed 2026-08-20)
+
+The record as filed, verbatim:
+
+- [x] **[DEBT] utah_county cover tranche: Smith 2014 `stated_beginning_balance` is published
+  as `3446`; the page's own ladder proves `34.46`.** OBSERVED 2026-08-20 (utah wave B2),
+  proved from the filing's printed arithmetic: line 5 − line 4 = 1,500.00 − 1,465.54 =
+  **34.46**. A decimal-point loss, not a misread digit. Terminating fix: correct the figure in
+  that filing's `vision/<key>.json` with a note saying what was re-read at the source, then
+  rebuild (`build_finance.py`) — never hand-edit `filing_totals.csv`. Blast radius is nil for
+  the itemized layer (the wave gated on Box/Column figures, not on the beginning balance), so
+  it was flagged and deliberately NOT fixed inside a wave whose charter froze the cover
+  tranche. Record: `_backups/2026-08-18-utah-cf/workdir/COVER_TRANCHE_DEFECTS.md`.
+
+**How it was closed, and what the source actually showed.** The filing's page 2 was rendered and
+read: line 3 **PRINTS `$3446` with NO decimal point.** So the vision transcript was never wrong —
+it faithfully recorded the glyphs, and the filed characterisation ("a decimal-point loss") was
+right about the value but wrong about the agent: **this is the FILER omitting a decimal point, not
+a transcription defect.**
+
+The VALUE 34.46 is proved three independent ways, per GOTCHAS' cardinal rule that ARITHMETIC
+CLOSURE OUTRANKS GLYPH READING:
+
+1. line 5 "Subtotal (Add lines 3 and 4)" prints **1,500.00** against line 4's **1,465.54**,
+   requiring line 3 = **34.46**;
+2. line 7 "Balance at Close" prints **0**, and 1,500.00 − 1,500.00 = 0 closes exactly — where
+   3,446 + 1,465.54 = 4,911.54 does not;
+3. the SAME FILER's prior report (`raw/2014/2014_6-14Rec-Smith.pdf`) closes at line 7 = **34.46**,
+   and the form prints an arrow beside line 3 reading *"Refer to Line 7 on your last report."*
+
+Fixed through the module's documented correction path — `vision/a0202d15.json` only, with the
+evidence in its `notes`, then `build_finance.py` rebuilt. **`totals_verbatim` keeps the verbatim
+`3446` untouched** (cardinal rule 2: faithful values are never overwritten; the normalized slot
+carries the corrected figure alongside). `stated_beginning_balance` now publishes **34.46** and
+the balance chain is continuous: June closes 34.46 → October opens 34.46 → closes 0.
+`validate_finance.py` PASS.
+
+### Prior HANDOFF banner (2026-08-18 state), verbatim
+
+# HANDOFF — resume point (2026-08-18: PHASE B — 4 COUNTIES CLOSED, FEDERATED & COMMITTED)
+
+> **Read in order: root `CLAUDE.md` → this file → `TODO.md` → `GOTCHAS.md`. Options menu:
+> `LEADS.md`. Publish criteria: `SHIP_GATE.md`. One session banner, overwritten per handoff
+> (prior banner: TODO_ARCHIVE.md anchor 2026-08-17-PHASEB-RESUME).**
+
+## CONSOLIDATION DONE 2026-08-18 — the tree is banked
+
+Federation rebuilt 2026-08-18T01:12 (FK 0, integrity ok, reconciliation exact);
+`check_doc_numbers.py` 13/13 PASS; `validate_entity.py --federation` **44/44 in step**.
+slc CF no longer stale (248C/176E in db = disk). All four wave caveats federated.
+County itemized rows now in `gov.db`: slco 19,702 · weber 1,360 · summit 1,298 ·
+wasatch 346 · washington 181 · utah 72 · juab 46 · cache 32.
+
+## Wave state — Phase B county itemization
+
+- **juab — CLOSED & VERIFIED** (2026-08-14). 27/27 filings, 187 rows.
+- **wasatch — CLOSED & VERIFIED** (2026-08-14). 111/111 filings, 851 rows.
+- **summit — CLOSED & VERIFIED** (2026-08-17). Queue closed **116/116 scans; 131/131
+  filings itemized**; 2,600 vision rows (1,193C+1,407E), 100% geometry. 181 sides exact,
+  29 filer deltas verbatim, 15 no-schedule, **5 withheld** (1250 amount column off the
+  scan; 1268 contrib + 4278 expend where neither printed figure closes; 12943/12944 blank
+  pages, no gate). `validate_entity` 12 PASS / 3 WARN / 0 FAIL.
+- **weber — CLOSED & VERIFIED** (2026-08-18). **98/98 filings itemized** (93 vision +
+  5 born-digital); **1,360C + 1,256E = 2,616 rows, 100% geometry-anchored**; 186 sides =
+  149 transcribed / 26 empty-schedule / 11 no-schedule-page / **0 withheld**; 134 of 149
+  close exactly on a printed figure (62 exact + 72 period-exact), 15 filer deltas verbatim.
+  The 18 geometry re-measures came back **18/18 measured, zero unmeasurable**.
+  `validate_entity` 13 PASS / 1 WARN / 0 FAIL (== baseline).
+
+The weber audit WITHDREW 70 already-published rows and replaced 16 more — its killed-leg
+output had reached the canonical CSVs (summit's had not). Nothing survived because it was
+already published.
+
+## OWNER RULING RATIFIED 2026-08-17 — reconciliation basis
+
+> Reconcile each itemized side against the printed cover figure that MATCHES ITS OWN SCOPE
+> — Current Report for a period ledger, Cumulative for a cumulative one. Tag rows with
+> `is_incremental`. NEVER synthesize a figure by differencing covers. Withhold only where
+> NEITHER printed figure closes.
+
+Applied to summit: **16 sides / 81 rows promoted**, 5 correctly still withheld; no
+`stated_*` cell changed, CSV diffs additions-only, rebuild byte-identical. Weber had
+ALREADY implemented the rule (`period-exact`); one divergence corrected (verified period
+sides were leaving `reconciles_*` blank). Full record: LEADS.md 2026-08-17 blocks.
+
+⚠ **Shared-script change to review:** `scripts/campaign_finance/validate_finance.py` check 6
+now admits ONE declared exception (every row `is_incremental=True` AND a literal
+`ITEMIZED <side> PERIOD-SCOPED (is_incremental=True)` marker in notes). All 38 CF modules
+re-run, all PASS, none newly relaxed. **SCHEMA.md §4 was NOT updated to record it — owed.**
+
+## New [DEBT] (queue was empty since 2026-08-01) — both are TOOLING, both repo-wide
+
+- ~~`make_snippet.py` rotation bug~~ **FIXED 2026-08-18** (page size now returned as
+  poppler renders it; one fix covers the pct/px/span paths; `/Rotate 0` control 80/80
+  byte-identical; the oversized-mediabox blank-crop defect fixed too, with a dpi clamp).
+  **STILL OPEN: the repo-wide RE-PROOF of geometry previously "validated" with the broken
+  tool on rotated pages** (closed SLCo B2 + summit work) — that re-audit was out of scope.
+- **`rowbands.py`** registers text baselines as rules on typed sheets, returns
+  header/spacer bands, and measures on a DESKEWED copy while cropping from the RAW render.
+  **Fix BEFORE the LEADS-proposed promotion to `scripts/campaign_finance/`.**
+
+## Owner decisions open
+
+- Next wave go: **utah 245** · cache pre-2022 Carr era · washington scans.
+- **SLC GRAMA send** (drafted, not sent — `slc_city_council/campaign_finance/GRAMA_PREP_2026-08-14.md`).
+- **4278 Adair summit expend** — 10 rows held out over **+$0.30** after full escalation;
+  extend the delta-verbatim contract to withheld-then-promoted sides?
+- G9 (public flip) parked; [GATED] retro-anchor/blind-reverify program unchanged.
+
+## Highest-value leads from this wave (full text: LEADS.md 2026-08-17)
+
+- **Cross-county cover-chain sweep** — the swapped Gibson pair proves the 2026-08-01 totals
+  tranche can file a CORRECT reading under the WRONG key; no arithmetic gate sees it. Cheap
+  detector, no vision cost: chain each filing's Last-Report vs the prior Cumulative across
+  all 8 counties' 1,911 cover rows. **Run before the utah wave.**
+- **In-kind treatment is PER-FILER, not a form property** — test both conventions per filing.
+- **Ogden Valley City** appears in weber's 2026 filings (incorporated off the 2024 ballot) —
+  not in `registry/entities.csv`.
+- Cross-channel corroboration record: weber Harvey 2016 transcribed twice, independently,
+  hours apart — **all 60 donor + 101 vendor rows agree** on name and amount.
+
+## Discipline reminders (unchanged)
+
+Cardinal rules (CLAUDE.md); GOTCHAS.md before touching portals or builders; ONE federation
+per work package; after any federation run `check_doc_numbers.py` and reconcile; leads →
+LEADS.md; [DEBT] needs primary-source evidence; agent waves need owner approval
+(count/model/effort); wave agents never run `build_cities_db.py` and never edit root docs.
+
+
 ## ARCHIVE ANCHOR 2026-08-14-PHASEB-PAUSE
 
 ### Prior HANDOFF banner (2026-08-03 state + 08-02/08-03/08-14 addenda), verbatim
@@ -5747,3 +6309,196 @@ Cardinal rules (CLAUDE.md); GOTCHAS.md before touching portals or builders; ONE 
 per work package; after any federation run `check_doc_numbers.py` and reconcile; leads →
 LEADS.md; [DEBT] needs primary-source evidence; agent waves need owner approval
 (count/model/effort).
+
+
+<a id="2026-08-24-CACHE-WASHINGTON-BANNER"></a>
+## 2026-08-24 — prior HANDOFF banner (Phase-B final wave: cache + washington), archived 2026-09-01
+
+# HANDOFF — resume point (2026-08-24: PHASE B COUNTY ITEMIZATION IS COMPLETE except SLCo's residue)
+
+> **Read in order: root `CLAUDE.md` → this file → `TODO.md` → `GOTCHAS.md`. Options menu:
+> `LEADS.md`. Publish criteria: `SHIP_GATE.md`. One session banner, overwritten per handoff
+> (prior banner: TODO_ARCHIVE.md anchor 2026-08-23-SLCO-W1P2-BANNER).**
+
+## What landed 2026-08-24 — the Phase-B FINAL wave (cache + washington)
+
+Both remaining Phase-B counties are closed. **Every campaign-finance document either county
+holds is now itemized**, and washington is the first Phase-B county with BOTH its eras closed.
+
+| | washington | cache |
+|---|---:|---:|
+| queue (RE-DERIVED, not inherited) | **100 documents / 401 pages** | **176 distinct documents / 647 pages** |
+| documents transcribed | **100 of 100** | **176 of 176** |
+| rows transcribed | **530 C + 778 E** | **556 C + 1,119 E** |
+| rows published in the CSVs | 2,048 C / 2,516 E (both eras) | 756 C / 1,466 E (after the byte-duplicate fan-out) |
+| `pct:` geometry | **100%** | **100%** |
+| sides exact / delta / unknown / **withheld** | 173 / 12 / 15 / **0** | 282 / 26 / 44 / **0** |
+| amounts blank for illegibility | **0** | **0** |
+
+Calibration pre-flight **21/21 per county** (two fresh runs, recorded in
+`_audits/cf-calibration-suite/runs.md`). Configuration `claude-opus-5`, Read-tool, **$0 API**;
+41 disjoint chunks.
+
+## ⚠ FOUR THINGS THE NEXT SESSION MUST NOT RE-LEARN THE HARD WAY
+
+**1. A handwritten cents group is a 100× hazard in TWO directions.** `63 75` (space-separated
+cents) becomes **6375** under every module's space-stripping `dec()`/`money()`, and `300,00`
+becomes **30000**. Group length is the ONLY separator: a 3-digit group after a space is
+thousands, a 2-digit group is cents. Both are now read by the new shared
+**`common.parse_vision_amount`**, which deliberately does NOT delegate to `repair_money_line`
+(that helper repairs any `$`-prefixed token, so prefixing a bare filer cell would silently "fix"
+`23,744,71` — the value the `utah-malformed-decimal` specimen requires to stay BLANK). These
+were caught in the build, before any row shipped.
+
+**2. Reconcile against the THRESHOLD line, not the published total.** Form "A" itemizes only
+contributions **over $50**; `stated_total_contributions` publishes line 1 + the never-itemized
+≤$50 aggregate. The trap runs both ways — many filers itemize sub-$50 gifts anyway, and one
+**transposed her two cover lines** so each subset closed exactly, crosswise.
+
+**3. `sha256`-distinct is not document-distinct, and cache needed a SECOND detector.** Beyond the
+42 byte-identical cross-channel copies, **26 cache filings are the same report RE-SCANNED with
+different bytes** (one is a photocopy of an earlier filing re-dated, betrayed by the earlier
+clerk stamp reproduced at its foot). Flagged `CONTENT-DUPLICATE`, never dropped.
+
+**4. Fix an OCR'd index field in the layer that OWNS it.** Reading all 100 washington covers
+found **36 `index.csv` candidate values that are tesseract noise**. They were corrected through a
+new `candidate_determinations.csv` on the `office_determinations.csv` contract — page line quoted
+as evidence, OCR reading still retained in `document_candidate`, change bounded by a column-level
+diff (36 rows × 3 derived columns, 0 other values moved). **Not** by writing the good name into a
+downstream row and leaving the index wrong.
+
+## Gates, this build (gov.db built 2026-08-24T00:28:36)
+
+Federation **44/44** · integrity ok · FK **0** · caveat **108** · `check_doc_numbers` **all
+PASS** · `validate_finance` **PASS** on both counties (repo-wide **38 PASS + 1 known
+non-regression**, draper) · 93 family tests · `validate_entity` **0 FAIL** on both ·
+both modules **rebuild byte-identical** · `prove_additive` **0 moved values, no `stated_*` or
+`amount` touched** · **`cf_cycle_county` published totals UNCHANGED** in both counties (only the
+itemized cross-check improved: washington 0→15 cycles, cache 5→50).
+**[DEBT] open: unchanged (3).**
+
+⚠ `check_doc_numbers` also surfaced a **`cf_cycle_county` drift the SLCo W1 wave left behind**
+(968→**1,009**; salt_lake 350→391) — that wave added filings without re-running the county
+reducer. Corrected here across CLAUDE.md / README.md / gov_db_SCHEMA.md. **Re-run
+`cycle_totals_county.py --all` after any wave that adds filings.**
+
+**NOT COMMITTED** — this sits in the working tree with the prior utah, washington-parser and
+SLCo W1 waves.
+
+## Next
+
+**The only county itemization left in the programme is SALT LAKE's**:
+**W2** — the 197-filing / ~18,433-row EasyVote residue (sized and queued at
+`_audits/2026-08-20-easyvote-residue/classification.csv`, **NOT approved**); **W3** — the owner
+sends the GRAMA draft at
+`salt_lake_county/campaign_finance/_recon/2026-08-20-portal-probe/GRAMA_EMAIL_2026-08-20.txt`
+for the 251 online-filed reports. Also outstanding: **~20 new calibration-specimen candidates**
+from this wave (recorded in `_backups/2026-08-23-cache-washington-cf/CLOSEOUT.md`) plus the 5
+drafted at `_backups/2026-08-23-slco-w1p2/SPECIMEN_CANDIDATES.md`, none yet promoted into the
+suite; and the LEADS filed 2026-08-24 (washington's unverified `seat` values, cache's cover-only
+PDFs, the Scan_2/Scan_3 merge decision).
+
+
+<a id="2026-08-23-SLCO-W1P2-BANNER"></a>
+## 2026-08-23 — prior HANDOFF banner (SLCo W1 phase 2), archived 2026-08-24
+
+# HANDOFF — resume point (2026-08-23: SLCo 2015–2021 PAPER SLICE CLOSED; W2 IS NEXT AND NOT APPROVED)
+
+> **Read in order: root `CLAUDE.md` → this file → `TODO.md` → `GOTCHAS.md`. Options menu:
+> `LEADS.md`. Publish criteria: `SHIP_GATE.md`. One session banner, overwritten per handoff
+> (prior banner: TODO_ARCHIVE.md anchor 2026-08-20-SLCO-REOPENED-BANNER).**
+
+## What landed 2026-08-23 — W1 phase 2, the 2015–2021 paper slice
+
+Phase 1 (2026-08-20) harvested and characterised the 130 paper-filed county PDFs. **This session
+transcribed them, and unlike every earlier SLCo tranche it did BOTH halves in one pass** — stated
+totals AND itemized Schedule A/B — because the era had no `filing_totals` row at all.
+
+| | |
+|---|---:|
+| filings / pages | **130 of 130 · 717 pages** |
+| rows | **3,422 contributions + 2,606 expenditures = 6,028** |
+| sides transcribed / `none` / **withheld** | 244 / 16 / **0** |
+| amounts blank for illegibility | **0** |
+| reconciliation as read | 226 exact · 13 delta-with-cause · 21 unknown |
+| `donor_occupation` captured | **2,292 of 3,422** contribution rows |
+| `pct:` geometry | 5,744 of 6,028 (284 deliberately WITHDRAWN — see below) |
+| money (period figures — **NEVER sum across filings**) | $2,163,611.66 in · $1,726,036.30 out |
+
+**Calibration pre-flight 21/21 PASS** — the first run of the full suite (the 7 specimens added
+2026-08-18 had been authored, never run). `_audits/cf-calibration-suite/runs.md` §2026-08-23.
+Configuration `claude-opus-5`, Read-tool, **$0 API**; 31 disjoint chunks.
+
+## The schema change — `donor_occupation` (owner decision 2026-08-20)
+
+The 2015–2021 Schedule A pre-prints an **Occupation/Employer** column no other SLCo era has. It
+is now a trailing-optional column on `contributions.csv` and `gov.db.cf_contribution`
+(**SCHEMA §2c**), populated ONLY by this slice. **NULL elsewhere means the form HAS no such
+field**, never "no occupation"; within the slice a blank is one of three facts and each row's
+note says which. Proved safe: 10 CF modules rebuilt, **all 37 non-SLCo modules byte-identical**,
+`prove_additive.py` shows **0 field-level differences** across the frozen pre-wave block.
+
+## ⚠ THREE THINGS THE NEXT SESSION MUST NOT RE-LEARN THE HARD WAY
+
+**1. The reconciliation SCOPE TEST is PER PAGE — not per filer, not per filing.** Six filings
+print a schedule total and a Summary figure that measure different things, **in both
+directions**, and one filer *flips convention between his original and his amendment*. On some,
+Summary Column A is itself cumulative with the period figure only at lines 4/6. Gating naively
+would have fabricated **>$180,000** of deltas. `build_finance.py::apply_itemized` now decides with
+two tests (record anchored on a different FIGURE; on a different LINE) and lets a same-scope filer
+disagreement fall through to a real published delta. 5 filings ship `reconciles_*` **BLANK** under
+the `SCHEDULE-SCOPE SPLIT` marker. **It took FOUR revisions, each forced by a different filing.**
+
+**2. `sha256`-distinct is NOT document-distinct.** `2020_…_burdick-fin-report-3.pdf` is a SECOND
+SCAN of a Schedule B sheet inside another filing — identical rows and printed total, differing by
+one pixel row in the embedded raster. The 2026-08-20 harvest report calls them a split filing
+needing pairing; that is **wrong**, and summing the pair double-counts $9,533.28.
+
+**3. ⚠ A COUNTY-PUBLISHED PDF'S REDACTION IS COSMETIC — OWNER DECISION PENDING.**
+`2020_…_staggs-mayor_redacted.pdf` has black bars drawn over an **intact text layer**: 40,598
+extractable characters, **156 ZIP-shaped tokens against exactly 156 contribution rows**. Nothing
+was extracted; no address token from it exists anywhere in the repo. Three decisions are the
+owner's — telling the Clerk, sweeping the 442 EasyVote PDFs, and whether PRIVACY.md gains a
+distinct class. Full write-up: **`_backups/2026-08-23-slco-w1p2/OWNER_DECISION_PRIVACY.md`**.
+
+## Two coordination failures worth more than any data finding — both MINE, both gate-invisible
+
+* **Two chunks were never launched.** Rejected by the 20-agent cap; I relaunched two others and
+  never went back for these. Found by a *liveness* probe (empty render dirs), not by any gate.
+* **A partial save looks exactly like a finished chunk.** Several waits reported "31 records
+  present" while two chunks held 3-of-6 filings — behaving exactly as the brief instructs
+  ("re-save every ~3 filings").
+
+Either would have shipped a short queue **with every gate green**: `checkpoint.py` only asserts
+rows never shrink, `prove_additive.py` only compares to the pre-wave baseline, `validate_finance`
+only checks what IS there, and a completion notification proves an agent FINISHED, not that it
+STARTED. **Completion must be measured on the DERIVED quantity** — `vision_coverage.py` showing
+`remaining 0`, never a file count. Same lesson, third form: I hand-wrote chunk listings for
+17–31 instead of using the generator and introduced **four wrong office labels**; chunks 01–16,
+generated by script, have zero. In all four the CSV was right and my prose was wrong.
+
+## Gates, this build (gov.db built 18:45:37)
+
+Federation **44/44 in step** · integrity ok · FK **0** · caveat **105** · `check_doc_numbers`
+**13/13 PASS** · `validate_finance` salt_lake **PASS (0 fails)** · `prove_additive` **PASS**
+(0 field diffs in the frozen block) · `vision_coverage` globalassets **0 remaining**.
+**[DEBT] open: 3** (rowbands DEFECT 7 residual re-check, make_snippet corpus re-check,
+index.csv catalog defects — the last one GREW: two globalassets `seat` labels are provably wrong
+and the `seat` column was never document-verified for that channel).
+
+**NOT COMMITTED** — this sits in the working tree with the prior utah + washington waves.
+
+## Next
+
+**W2 — the 197-filing / ~18,433-row EasyVote residue — is SIZED AND QUEUED, NOT APPROVED.**
+It is ~3× this wave. Its closest model is now this wave's working set
+(`_backups/2026-08-23-slco-w1p2/`), the only SLCo wave that did totals + itemization in one pass;
+143 of its filings need stated totals too. Per-filing plan:
+`_audits/2026-08-20-easyvote-residue/classification.csv`.
+**W3** = owner sends the GRAMA draft at
+`campaign_finance/_recon/2026-08-20-portal-probe/GRAMA_EMAIL_2026-08-20.txt` for the 251
+online-filed reports (COMPLEMENTARY to this slice — 34 of 54 portal filers have no clerk PDF).
+Also outstanding: **cache_county (150 scanned) + washington_county** per
+`_backups/2026-08-20-phaseb-remaining/BRIEF.md`; and **5 new calibration specimens** are drafted
+at `_backups/2026-08-23-slco-w1p2/SPECIMEN_CANDIDATES.md` awaiting promotion into the suite.
+

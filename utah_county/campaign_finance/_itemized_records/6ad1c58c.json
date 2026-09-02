@@ -1,0 +1,815 @@
+[
+ {
+  "index_path": "raw/2018/2018_Commission.Dixon.pdf",
+  "key": "6ad1c58c",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r6_01)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "4,5",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL CONTRIBUTIONS RECEIVED (4,105.43) on the p2 SUMMARY PAGE, which is also Schedule A's own printed 'Subtotal for this page' 4,105.43 and its printed 'Total Contributions Received (Sum of subtotals from all Schedule A pages)' 4,105.43, and summary lines 4 and 5",
+    "detail": "The 11 Schedule A rows sum to 500.00 + 200.00 + 100.00 + 50.00 + 1,000.00 + 1,000.00 + 250.00 + 25.00 + 100.00 + 457.00 + 423.43 = 4,105.43 EXACTLY - equal to all three printed anchors (page subtotal, schedule grand total, cover Column A) and to summary lines 4 and 5. Column B 'Year-to-Date Total' prints the SAME 4,105.43 because this is the filer's only report of the cycle ('30 Days after withdraw or elimination'); it is retained as cumulative and never summed as an increment. The ladder closes independently: line 3 and line 7 are SLASHED ZEROS read 0 under the zero-glyph ruling, and 0 + 4,105.43 - 4,105.43 = 0."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Column A 'Total this Period' TOTAL EXPENDITURES MADE (4,105.43) on the p2 SUMMARY PAGE, which is also the printed 'Total Expenditures Received (Sum of subtotals from all Schedule B pages)' 4,105.43 at the foot of Schedule B sheet 2, and summary line 6",
+    "detail": "29 Schedule B rows over two sheets sum to 4,105.43 EXACTLY, and each sheet's rows sum to its own printed 'Subtotal for this page' to the cent: p4 2,658.90 (17 rows) + p5 1,446.53 (12 rows) = 4,105.43 = the schedule's printed grand total = the cover's PROMOTED PER-PERIOD cell, Column A = summary line 6. NOTE the 'Total Expenditures Received' line on SHEET 1 is left BLANK with a hand-drawn arrow pointing right, the filer's own instruction to look on the next sheet - an annotation, not a figure, and no total was inferred from it. Column B YTD prints the same 4,105.43 and is never summed as an increment."
+   }
+  },
+  "in_kind_convention": "not applicable, and TESTED BOTH WAYS on both sides as ADDENDUM G1 requires: neither schedule prints an in-kind column, no row is marked in-kind, and the summary page carries no in-kind line. Monetary-only and monetary-plus-in-kind therefore give the identical sum on each side and both close at 4,105.43.",
+  "escalations": 9,
+  "escalation_note": "No figure needed correcting - every amount reproduced its full-page reading, which is worth saying because this filing is a FAX TRANSMISSION (the fax header prints '05/16/2018 12:40 01' and 'PAGE 01/05' .. 'PAGE 05/05' across the top of every sheet) and the scan is coarse and high-contrast. The nine escalations are the geometry controls: first row, last transcribed row and one-past-the-end on each of the three schedule sheets. Both sides close to the cent on every printed anchor, so no arithmetic escalation was called for.",
+  "frames": {
+   "3": {
+    "axis": "y",
+    "cell": [
+     82.88,
+     92.23
+    ],
+    "cells": [
+     [
+      9.89,
+      20.9
+     ],
+     [
+      22.37,
+      53.8
+     ],
+     [
+      55.27,
+      81.35
+     ],
+     [
+      82.88,
+      92.23
+     ]
+    ],
+    "rows": [
+     [
+      18.52,
+      22.31
+     ],
+     [
+      22.31,
+      26.16
+     ],
+     [
+      26.16,
+      29.96
+     ],
+     [
+      29.96,
+      33.71
+     ],
+     [
+      33.71,
+      37.53
+     ],
+     [
+      37.53,
+      41.34
+     ],
+     [
+      41.34,
+      45.11
+     ],
+     [
+      45.11,
+      48.89
+     ],
+     [
+      48.89,
+      52.69
+     ],
+     [
+      52.69,
+      56.49
+     ],
+     [
+      56.49,
+      60.29
+     ],
+     [
+      60.29,
+      64.05
+     ],
+     [
+      64.05,
+      67.87
+     ],
+     [
+      67.87,
+      71.65
+     ],
+     [
+      71.65,
+      75.47
+     ],
+     [
+      75.47,
+      79.27
+     ],
+     [
+      79.27,
+      83.03
+     ]
+    ],
+    "measure_note": "legacy_colAB SCHEDULE A, underline form: rowbands.py returns 17 per-column rules 22.31->83.03 (4 segments = Date / Name of Contributor / Mailing Address & Zip Code / Amount) at a regular pitch of 3.795. Text sits ABOVE its rule, so row N spans [rule N-1, rule N] and row 1 is extrapolated one pitch above rule 1; ELEVEN of the 17 lines carry entries. TWO-CROP PROOF at 900 dpi: row 1 pct:82.88,18.52,9.35,3.79@p3 rendered the printed 'Amount' header over '500' with raised cents (recorded 500.00, Lisa Dixon - line 1 not skipped, the ADDENDUM A1 control) and the last transcribed row 11 pct:82.88,56.49,9.35,3.80@p3 rendered '423' with raised '43' (recorded 423.43). ONE-PAST-THE-END control pct:82.88,60.29,9.35,3.76@p3 rendered an EMPTY band between two rules - trap F1.5 ruled out and the ledger ends at row 11."
+   },
+   "4": {
+    "axis": "y",
+    "cell": [
+     82.51,
+     92.11
+    ],
+    "cells": [
+     [
+      9.53,
+      20.54
+     ],
+     [
+      22.07,
+      53.44
+     ],
+     [
+      54.91,
+      81.04
+     ],
+     [
+      82.51,
+      92.11
+     ]
+    ],
+    "rows": [
+     [
+      20.52,
+      24.31
+     ],
+     [
+      24.31,
+      28.16
+     ],
+     [
+      28.16,
+      31.91
+     ],
+     [
+      31.91,
+      35.74
+     ],
+     [
+      35.74,
+      39.51
+     ],
+     [
+      39.51,
+      43.32
+     ],
+     [
+      43.32,
+      47.07
+     ],
+     [
+      47.07,
+      50.89
+     ],
+     [
+      50.89,
+      54.74
+     ],
+     [
+      54.74,
+      58.49
+     ],
+     [
+      58.49,
+      62.3
+     ],
+     [
+      62.3,
+      66.07
+     ],
+     [
+      66.07,
+      69.85
+     ],
+     [
+      69.85,
+      73.67
+     ],
+     [
+      73.67,
+      77.45
+     ],
+     [
+      77.45,
+      81.28
+     ],
+     [
+      81.28,
+      85.03
+     ]
+    ],
+    "measure_note": "legacy_colAB SCHEDULE B, same underline form: 17 rules 24.31->85.03, pitch 3.795, all 17 used. TWO-CROP PROOF at 900 dpi: row 1 pct:82.51,20.52,9.60,3.79@p4 rendered the 'Amount' header over '42.74' (recorded 42.74, Pioneer Party & Copy) and row 17 pct:82.51,81.28,9.60,3.75@p4 rendered '10.00' (recorded 10.00, Sign City). ONE-PAST control pct:82.51,85.03,9.60,3.80@p4 rendered the printed page subtotal '2,658.9' - no extra row."
+   },
+   "5": {
+    "axis": "y",
+    "cell": [
+     82.93,
+     92.52
+    ],
+    "cells": [
+     [
+      9.89,
+      20.89
+     ],
+     [
+      22.31,
+      53.97
+     ],
+     [
+      55.26,
+      81.45
+     ],
+     [
+      82.93,
+      92.52
+     ]
+    ],
+    "rows": [
+     [
+      20.38,
+      24.16
+     ],
+     [
+      24.16,
+      27.97
+     ],
+     [
+      27.97,
+      31.74
+     ],
+     [
+      31.74,
+      35.54
+     ],
+     [
+      35.54,
+      39.3
+     ],
+     [
+      39.3,
+      43.08
+     ],
+     [
+      43.08,
+      46.85
+     ],
+     [
+      46.85,
+      50.63
+     ],
+     [
+      50.63,
+      54.41
+     ],
+     [
+      54.41,
+      58.19
+     ],
+     [
+      58.19,
+      61.99
+     ],
+     [
+      61.99,
+      65.72
+     ],
+     [
+      65.72,
+      69.5
+     ],
+     [
+      69.5,
+      73.32
+     ],
+     [
+      73.32,
+      77.06
+     ],
+     [
+      77.06,
+      80.83
+     ],
+     [
+      80.83,
+      84.61
+     ]
+    ],
+    "measure_note": "Same Schedule B grid, sheet 2: 17 rules 24.16->84.61, pitch 3.778; TWELVE of the 17 lines carry entries. TWO-CROP PROOF at 900 dpi: row 1 pct:82.93,20.38,9.59,3.78@p5 rendered the 'Amount' header over '10.39' (recorded 10.39) and the last transcribed row 12 pct:82.93,61.99,9.59,3.73@p5 rendered '26.10' (recorded 26.10, Facebook). ONE-PAST control pct:82.93,65.72,9.59,3.78@p5 rendered an EMPTY band."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "1/18/18",
+    "donor_raw": "Lisa Dixon",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the donor's address is the candidate's own address as printed on the cover; transcribed as printed and NOT adjudicated. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "2/8/18",
+    "donor_raw": "Goldesign",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "200.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a business donor. the filer gave only a city and state for this donor - no street line and no zip. "
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "2/8/18",
+    "donor_raw": "Nan Anderson",
+    "donor_city": "Torrey",
+    "donor_state": "UT",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer gave only a city and state for this donor - no street line and no zip. "
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "date": "2/13/18",
+    "donor_raw": "Garr Judd",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "3/9/18",
+    "donor_raw": "Lisa Dixon",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell carries a struck character; the surviving handwriting governs. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "3/9/18",
+    "donor_raw": "Frank Dixon",
+    "donor_city": "Ivins",
+    "donor_state": "UT",
+    "amount": "1000.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "7",
+    "page": 3,
+    "row": 7,
+    "date": "3/9/18",
+    "donor_raw": "David Dixon",
+    "donor_city": "No. Las Vegas",
+    "donor_state": "NV",
+    "amount": "250.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an out-of-state donor; the city is the filer's own abbreviation 'No. Las Vegas' and is transcribed as printed. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "8",
+    "page": 3,
+    "row": 8,
+    "date": "4/3/18",
+    "donor_raw": "Seth Cox",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer gave only a city and state for this donor - no street line and no zip. "
+   },
+   {
+    "line_no": "9",
+    "page": 3,
+    "row": 9,
+    "date": "4/3/18",
+    "donor_raw": "Linda Schlauder",
+    "donor_city": "Las Vegas",
+    "donor_state": "NV",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an out-of-state donor; the city is written over a struck word and the correction governs. PRIVACY: the street line printed on the page is deliberately not carried."
+   },
+   {
+    "line_no": "10",
+    "page": 3,
+    "row": 10,
+    "date": "4/14/18",
+    "donor_raw": "Goldesign",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "457.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "a business donor. the filer gave only a city and state for this donor - no street line and no zip. "
+   },
+   {
+    "line_no": "11",
+    "page": 3,
+    "row": 11,
+    "date": "4/14/18",
+    "donor_raw": "Lisa Dixon",
+    "donor_city": "Lehi",
+    "donor_state": "UT",
+    "amount": "423.43",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the only cents-bearing contribution on the filing; it is what makes the schedule close on 4,105.43 rather than a round figure. PRIVACY: the street line printed on the page is deliberately not carried."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 4,
+    "row": 1,
+    "date": "1/13/18",
+    "vendor_raw": "Pioneer Party & Copy",
+    "amount": "42.74",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "2",
+    "page": 4,
+    "row": 2,
+    "date": "1/19/18",
+    "vendor_raw": "Home Depot",
+    "amount": "7.82",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "3",
+    "page": 4,
+    "row": 3,
+    "date": "1/19/18",
+    "vendor_raw": "Costco",
+    "amount": "15.44",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "4",
+    "page": 4,
+    "row": 4,
+    "date": "1/19/18",
+    "vendor_raw": "Sign City",
+    "amount": "231.60",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "5",
+    "page": 4,
+    "row": 5,
+    "date": "1/22/18",
+    "vendor_raw": "Pioneer Party & Copy",
+    "amount": "53.76",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "6",
+    "page": 4,
+    "row": 6,
+    "date": "2/2/18",
+    "vendor_raw": "Ut County Republican Party",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "7",
+    "page": 4,
+    "row": 7,
+    "date": "2/9/18",
+    "vendor_raw": "Pioneer Party & Copy",
+    "amount": "26.85",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "8",
+    "page": 4,
+    "row": 8,
+    "date": "2/9/18",
+    "vendor_raw": "Data Elect",
+    "amount": "230.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "9",
+    "page": 4,
+    "row": 9,
+    "date": "2/12/18",
+    "vendor_raw": "Staples",
+    "amount": "26.70",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "10",
+    "page": 4,
+    "row": 10,
+    "date": "2/27/18",
+    "vendor_raw": "Data Elect",
+    "amount": "457.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "11",
+    "page": 4,
+    "row": 11,
+    "date": "3/8/18",
+    "vendor_raw": "Pioneer Party & Copy",
+    "amount": "27.46",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "12",
+    "page": 4,
+    "row": 12,
+    "date": "3/13/18",
+    "vendor_raw": "Pioneer Party & Copy",
+    "amount": "228.41",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is a row of DITTO MARKS (\") repeating the row above"
+   },
+   {
+    "line_no": "13",
+    "page": 4,
+    "row": 13,
+    "date": "3/13/18",
+    "vendor_raw": "Data Elect",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "14",
+    "page": 4,
+    "row": 14,
+    "date": "3/13/18",
+    "vendor_raw": "Utah County Elections",
+    "amount": "647.22",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the 2018 Utah County COMMISSION filing fee. Recorded as an observation for the wave's fee table only - ADDENDUM E1/F5 forbid using a filing fee to settle a figure on another filing."
+   },
+   {
+    "line_no": "15",
+    "page": 4,
+    "row": 15,
+    "date": "3/23/18",
+    "vendor_raw": "Pioneer Party & Copy",
+    "amount": "32.53",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "16",
+    "page": 4,
+    "row": 16,
+    "date": "3/24/18",
+    "vendor_raw": "Pioneer Party & Copy",
+    "amount": "21.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the VENDOR CELL IS A ROW OF DITTO MARKS (\") repeating 'Pioneer Party & Copy' from the row above, as is the address cell; the value the notation repeats is carried, which is reading the document (CHUNK_BRIEF section 7)"
+   },
+   {
+    "line_no": "17",
+    "page": 4,
+    "row": 17,
+    "date": "3/28/18",
+    "vendor_raw": "Sign City",
+    "amount": "10.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "18",
+    "page": 5,
+    "row": 1,
+    "date": "3/30/18",
+    "vendor_raw": "Pioneer Party & Copy",
+    "amount": "10.39",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "19",
+    "page": 5,
+    "row": 2,
+    "date": "4/5/18",
+    "vendor_raw": "Vinyl Tech Signs",
+    "amount": "396.16",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an out-of-state vendor (Alabama); no address is carried for expenditure rows"
+   },
+   {
+    "line_no": "20",
+    "page": 5,
+    "row": 3,
+    "date": "4/6/18",
+    "vendor_raw": "Primo Print",
+    "amount": "150.51",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "an out-of-state vendor (North Carolina)"
+   },
+   {
+    "line_no": "21",
+    "page": 5,
+    "row": 4,
+    "date": "4/6/18",
+    "vendor_raw": "Primo Print",
+    "amount": "82.99",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the address cell is a DITTO MARK (\") repeating the row above"
+   },
+   {
+    "line_no": "22",
+    "page": 5,
+    "row": 5,
+    "date": "4/7/18",
+    "vendor_raw": "Pioneer Party & Copy",
+    "amount": "21.36",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "23",
+    "page": 5,
+    "row": 6,
+    "date": "4/9/18",
+    "vendor_raw": "Facebook",
+    "amount": "25.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the filer left the address cell empty for all three Facebook rows"
+   },
+   {
+    "line_no": "24",
+    "page": 5,
+    "row": 7,
+    "date": "4/11/18",
+    "vendor_raw": "Primo Print",
+    "amount": "125.50",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "25",
+    "page": 5,
+    "row": 8,
+    "date": "4/12/18",
+    "vendor_raw": "Michaels",
+    "amount": "23.39",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "26",
+    "page": 5,
+    "row": 9,
+    "date": "4/13/18",
+    "vendor_raw": "Elevate Promo",
+    "amount": "112.73",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "the city in the address cell is written over a struck word; the correction governs"
+   },
+   {
+    "line_no": "27",
+    "page": 5,
+    "row": 10,
+    "date": "4/15/18",
+    "vendor_raw": "Data Elect",
+    "amount": "457.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1
+   },
+   {
+    "line_no": "28",
+    "page": 5,
+    "row": 11,
+    "date": "4/20/18",
+    "vendor_raw": "Facebook",
+    "amount": "15.40",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "address cell left empty by the filer"
+   },
+   {
+    "line_no": "29",
+    "page": 5,
+    "row": 12,
+    "date": "4/20/18",
+    "vendor_raw": "Facebook",
+    "amount": "26.10",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "address cell left empty by the filer"
+   }
+  ],
+  "notes": "James A. Dixon, page-face office 'Ut. County Commission Seat A', party 'Republican'; index.csv names NO candidate for this row, so the PAGE FACE governs and the coordinator may promote the name through office_overrides.csv (the Ainge precedent). The page face DOES print the seat ('Seat A'), matching what index.csv already carries - no seat was inferred. 5 pages, legacy_colAB: p1 cover ('30 Days after withdraw or elimination' ticked, amendment ticked 'No', signed May 14 2018), p2 SUMMARY PAGE, p3 SCHEDULE A ('Page 1 of 1'), pp4-5 SCHEDULE B ('Page 1 of 2', 'Page 2 of 2'). *** A FAX PAGE COUNTER PROVES THE DOCUMENT IS COMPLETE. *** Every sheet carries the sending machine's header '05/16/2018 12:40 01' with 'PAGE 01/05' through 'PAGE 05/05'. ADDENDUM D6 records the fax counter as admissible `no-schedule-page` evidence when sheets are MISSING; this is the converse and is just as useful - the counter says all five transmitted sheets are present, so neither side's absence question arises and the filing is complete as filed. It also dates the transmission two days after the candidate signed. *** GENUINELY 2018-DATED STOCK, IN TWO MORE WORDINGS. *** The inner sheets are strap-lined '2018 County Candidate' (p2, p4, p5) and '2018 County Candidates' (p3) - the filing mixes singular and plural within itself. Together with Grunander's '2018 County & Local School Candidates', Hemingway's '2018 County Candidate(s)' and Phelps's '2018 County & Local School Candidates', this chunk establishes beyond doubt that genuinely 2018-dated inner sheets circulate, which ADDENDUM G5 left open - and that at least THREE 2018 straplines were in use, alongside the leftover 2016 stock that Thompson and Sakievich filed on. The cover here is the county-only blank ('FINANCIAL CAMPAIGN REPORT FOR COUNTY CANDIDATES', Utah County Code 2-5 & Utah State Code 17-16-6.5) with the vertical sidebar 'COUNTY COMMISSION CANDIDATES' - the same Commission-sidebar cover Hemingway used for a CLERK/AUDITOR filing, confirming the sidebar is decorative stock and not an office claim. SCHEDULE B COLUMN VOCABULARY: 'Provider/Vendor', with NO Purpose column and no purpose written anywhere, so `purpose` is honestly blank on all 29 expenditure rows. DITTO MARKS: the filer uses them freely in the address column and ONCE in the vendor column (p4 row 16, repeating 'Pioneer Party & Copy'); the repeated value is carried and the notation named in each row's note. INTRA-DOCUMENT DATE DISCREPANCY: the cover is signed 'May 14, 2018' while the Date of Report box on all four following sheets reads '5/1/18', and the fax header is dated 05/16/2018. All three recorded, none adjudicated. NIL MARKS: summary lines 3 and 7 are SLASHED ZEROS and read 0 under the zero-glyph ruling. PRIVACY: the county did NOT redact this filing; street lines are visible on Schedule A and on both Schedule B sheets and the cover prints the candidate's home address and phone. None is carried - contributions reduce to city/state at read time and expenditure rows carry no address field at all. FEE-TABLE OBSERVATION (never used to settle a figure): this filing's 2018 Utah County COMMISSION filing fee is 647.22, which is ADDENDUM G6's recorded 2016 and 2018 Commission figure. It also explains the 648.22 on Thomas Sakievich's 2018 Commission filing in this same chunk, which he labels 'Register Run + Ck fee' and pairs with a separate 1.00 cashier's-check fee: 647.22 + 1.00. That is an observation about two documents in the same office and cycle, in the sense ADDENDUM F5 allows, and nothing on either filing was settled by it."
+ }
+]

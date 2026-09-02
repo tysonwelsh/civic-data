@@ -1,0 +1,76 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C11.json",
+ "key": "92b4dd83",
+ "index_path": "raw/2014/2014_cc_Zilles_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Zilles_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "ef0f1fed2387078b",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "90 00",
+    "cover_over50_this": "0.00",
+    "cover_over50_cum": "90.00",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no Form A page exists in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "The PDF is ONE page: the Carr cover only. Form A (page 2) and Form B (page 3) are not present, so there is nothing to itemise and no schedule to reconcile. The Carr form prints no schedule total in any case (schedule_total null). Cover line 1 reads 90 00 (LAST) + 0.00 (THIS) = 90.00 (CUM); the LAST cell is written without a decimal point, as a gap. ESCALATION NOTE: at 600 dpi the CUM cell's second glyph is bistable 0/6 (90.00 vs 96.00). Arithmetic settles it at 90.00 and outranks the glyph, per the Rhodes rule: the cover's own identity LAST+THIS=CUM gives 90 00 + 0.00 = 90.00, and the balance line's magnitude |90.00 - 454.72| = 364.72 equals the printed balance exactly. Nothing closes under 96.00."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "454 72",
+    "cover_expense_this": "0.00",
+    "cover_expense_cum": "454.72",
+    "cover_balance_end": "364.72",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "no Form B page exists in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Same as contributions: the document is a one-page cover. Line 3 reads 454 72 (LAST, written without a decimal point) + 0.00 (THIS) = 454.72 (CUM), verified in a 600 dpi crop of the whole line-3 band. Line 4 balance reads 364.72 / 0.00 / 364.72, likewise verified at 600 dpi."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "not applicable - no schedule page exists in this document; the Carr 5-5-PG form prints no schedule total on either schedule in any case",
+  "row_count": "not applicable - no ruled schedule page in this document",
+  "geometry_proof": "no rows emitted, so no row geometry to prove; the four cover lines were each crop-proved at 600 dpi (line 1 band, line 1 CUM cell, line 2 band = empty rules, line 3 band, line 4 band)",
+  "balance_chain": "LAST + THIS = CUM closes on every printed line (90 00+0.00=90.00; 454 72+0.00=454.72; 364.72+0.00=364.72). The period identity does NOT close as signed arithmetic: contributions cum 90.00 - expenses cum 454.72 = -364.72, while line 4 prints 364.72 with no minus sign. The printed balance is therefore the MAGNITUDE of a negative balance; both figures retained verbatim, nothing recomputed. No earlier filing by this filer is in this chunk, so the cross-filing LAST-column chain could not be run here."
+ },
+ "escalations": 4,
+ "escalation_note": "600 dpi band crops of cover lines 1, 2, 3 and 4, plus a tight 600 dpi crop of the line-1 CUMULATIVE cell to settle the bistable 0/6 glyph (settled by arithmetic, not by resolution)",
+ "notes": "Chunk file says candidate 'Zilles', office 'County Council' - the cover's own lines read 'Full Name of Candidate: Gordon Andrew Zilles' and 'Name of Office: County Council Southeast District' / 'Office District: South East'. AGREES; office is in scope (county office). Date on the form reads 'Dec 4, 2014', matching the chunk file's 2014-12-04, and the clerk stamp reads RCVD 04 DEC 2014 PM 01:06. This cover is the UTAH CODE 17-16-6.5 variant of the Carr 5-5-PG form (the 2016 filings in this chunk cite Cache County Code 2.21 instead) - same four-line, three-column anchor grid. ONE-PAGE DOCUMENT: the itemisation pages were never scanned or never filed; the county's copy is the cover alone. This is an honest non-scope, not an empty schedule. Line 2 (the aggregate of contributions of $50.00 or less) is blank in all three columns - the filer left it empty, which is NOT a zero. Candidate street address, ZIP and both phone numbers are printed in the clear on this cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

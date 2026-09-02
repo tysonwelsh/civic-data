@@ -1,0 +1,143 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C11.json",
+ "key": "75017d86",
+ "index_path": "raw/2016/2016_cc_Barbara_Tidwell_Campaign_Finance_Report.pdf",
+ "applies_to": [
+  "raw/2016/2016_cc_Barbara_Tidwell_Campaign_Finance_Report.pdf"
+ ],
+ "sha256_prefix": "12a370ea86cefcba",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr-5-5-pg-form-A",
+  "expenditures": "carr-5-5-pg-form-B"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Cover lines 1 and 2 carry a hand-drawn slashed zero in all six cells (= 0 per the zero-glyph ruling; the verbatim glyph is a circle with a stroke through it). Form A (page 2) is an entirely EMPTY ruled schedule: rows sum 0 = cover line 1. All three columns are zero, so the THIS and CUMULATIVE scopes coincide; recorded as cumulative on that coincidence. This candidate self-funded and reported no contributions at all."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "332.77",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "332.77",
+    "cover_balance_end": "332.77",
+    "schedule_total": "332.77",
+    "page_subtotal": null
+   },
+   "itemized": "332.77",
+   "basis": "cover-line3-cumulative == filer-written schedule total",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "4 rows sum to EXACTLY 332.77 (115.31 + 51.17 + 25.58 + 140.71). That equals cover line 3's LAST REPORT and CUMULATIVE cells (both 332.77) and the filer's own hand-written 332.77 on the line below row 4 (reached by a long diagonal lead-in stroke; the Carr form prints no schedule total, so this figure is the FILER's addition). It does NOT equal the THIS REPORT cell, which is a slashed zero. ***SCOPE WARNING: this filing reports ZERO expenditure for the period yet RE-LISTS THE WHOLE CYCLE on Form B.*** The rows are therefore CUMULATIVE, and a cycle sum that also counts this filer's earlier filing would double-count. Note too that the last row is dated 10/11/16 while the cover's THIS-period cell is zero and the form is signed 12/8/2016 - the filer treated everything as already reported."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p3 rows sum 332.77 = the filer-written 332.77 = cover line 3 LAST 332.77 = cover line 3 CUM 332.77. The Carr form prints no schedule total of its own.",
+  "row_count": "ink-projection over p3's amount column (x_200 1400-1620) returns exactly FIVE thick inked bands among the printed rules: four data rows (y_200 267-307, 319-355, 366-398, 414-445) and one tall band at 456-534 which is the filer's diagonal lead-in stroke plus the 332.77 total. 4 rows emitted. Form A's amount column returns zero inked bands.",
+  "geometry_proof": "p3 rows 1-4 were crop-proved in one 600 dpi band (y_200 217-483) which renders those four rows and nothing else; the control two row-pitches below the last row (y_200 523-597) renders empty rules plus the tail of the total's diagonal stroke. Row bands MEASURED by ink projection, not interpolated.",
+  "balance_chain": "LAST + THIS = CUM closes on lines 1, 2, 3 and 4 (all THIS cells are slashed zeros). The period identity does NOT close as signed arithmetic: contributions cum 0 - expenses cum 332.77 = -332.77, while line 4 prints 332.77 with no minus sign and no parentheses. As on the Zilles cover in this chunk, the printed balance is the MAGNITUDE of a negative balance; both figures retained verbatim, nothing recomputed. No earlier filing by this filer is in this chunk, so the cross-filing LAST-column chain could not be run here - which matters here, because the cumulative scope means an earlier filing very likely carries these same four rows."
+ },
+ "escalations": 3,
+ "escalation_note": "600 dpi crops: the cover's four-line anchor block (to read 332.77 and confirm the slashed zeros); the p3 rows 1-4 band; the control band below row 4",
+ "notes": "Chunk file says candidate 'Barbara Tidwell', office 'County Council'. The cover reads 'Full Name of Candidate: Barbara Y. Tidwell' and 'Name of Office: Cache County Council' / 'Office District: Seat 2'. AGREES; county office, in scope. Form date reads '12/8/2016', matching the chunk file's 2016-12-08; clerk stamp CLERK REC'D DEC 8 '15:03. THE SCOPE OF THIS FILING'S FORM B IS CUMULATIVE WHILE ITS COVER REPORTS ZERO FOR THE PERIOD - see recon.expenditures.detail; this is the single most important fact about the document. Candidate street address, ZIP, home phone and cell number are printed in the clear on the cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2016-03-11",
+   "vendor_raw": "Cache County Clerk",
+   "purpose": "File for candidacy",
+   "amount": "115.31",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.35,12.14,12.94,1.86@p3",
+   "note": "date written 3/11/16 (two-digit year, parses cleanly)"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2016-03-22",
+   "vendor_raw": "Square One Printing",
+   "purpose": "Fliers for campaign",
+   "amount": "51.17",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.35,14.50,12.94,1.68@p3",
+   "note": "date written 3/22/16 (two-digit year, parses cleanly)"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2016-08-11",
+   "vendor_raw": "Square One Printing",
+   "purpose": "2 Coroplast signs for campaign",
+   "amount": "25.58",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.35,16.64,12.94,1.50@p3",
+   "note": "date written 8/11/16 (two-digit year, parses cleanly)"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2016-10-11",
+   "vendor_raw": "Square One Printing",
+   "purpose": "12 yard signs for campaign",
+   "amount": "140.71",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:82.35,18.82,12.94,1.45@p3",
+   "note": "date written 10/11/16 (two-digit year, parses cleanly)"
+  }
+ ]
+}

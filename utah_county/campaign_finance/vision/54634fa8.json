@@ -3,7 +3,10 @@
  "key": "54634fa8",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:20:00Z",
- "pages_read": [1, 4],
+ "pages_read": [
+  1,
+  4
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 4.20",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,81 @@
    "notes": "Typed fillable form, photocopied/scanned (greyish, still fully legible). The candidate marked TWO report-type radio buttons - '30 Days after withdrawal or elimination' AND '30 Days after the Primary Election' - both are transcribed, separated by a semicolon. The amendment Yes/No question was left UNMARKED by the filer, so is_amendment is '' (not 'No'). Box C is printed '14,770' with no cents; Balance at Close is printed as a bare '.06' with no leading zero - both transcribed exactly as printed, not normalized. The candidate lower-cased his own office line ('county commission seat c') and state ('ut'). Signature redacted upstream by the county (black bar); the Date box and Date of Report both read '27 july 2020' (filer's lower-case month). Page face agrees with candidate_index (Nathan Ivie / printed Ronald Nathan Ivie) and office_index."
   }
  ],
- "notes": "variant_guess said legacy_colAB; the page face is the modern Box A-F form (v. 4.20)."
+ "notes": "variant_guess said legacy_colAB; the page face is the modern Box A-F form (v. 4.20).",
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "date": "2 July 2020",
+   "vendor_raw": "Carolina Herrin",
+   "purpose": "campaing managment",
+   "amount": "2248.97",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:74.00,18.58,12.40,3.79@p3",
+   "geometry_frame": "p3 axis=y cell=74.00-86.40 rowband=18.58-22.37 (1 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "PURPOSE column is real on this 2020 v.4.20 blank (Date / Provider/Vendor / Purpose / Amount) and is captured verbatim including the filer's spelling 'campaing managment'. Machine-typed fillable-form text; figure escalated to a 1200 dpi tight crop and read '2,248.97'."
+  },
+  {
+   "line_no": "2",
+   "date": "28 June 2020",
+   "vendor_raw": "digital printing",
+   "purpose": "cards",
+   "amount": "515.31",
+   "in_kind": false,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:74.00,22.37,12.40,3.80@p3",
+   "geometry_frame": "p3 axis=y cell=74.00-86.40 rowband=22.37-26.17 (2 of 15 measured bands)",
+   "geometry_provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)",
+   "note": "vendor written in lower case as a trade description ('digital printing'); kept verbatim as the Provider/Vendor cell prints it. Figure escalated to a 1200 dpi tight crop and read '515.31'. Date 28 June 2020 is EARLIER than row 1's 2 July 2020 \u2014 the filer did not order his rows chronologically; transcribed as printed."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah r9_01)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "3",
+   "sides": {
+    "contributions": "empty-schedule",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' on the p4 Summary Page, printed as a typed '0', which equals Schedule A's own printed 'Subtotal for this page $ 0' and 'Total Contributions Received $ 0'",
+     "detail": "Schedule A (p2) is a wholly unmarked 15-row boxed grid: zero rows, sum 0.00 = the printed page subtotal 0 = the printed Total Contributions Received 0 = Box B 0. All three zeros are TYPED numerals (a fillable-form '0', not a nil dash), so the zero-glyph ruling reads them as 0. Box C 'Contributions Received Year to Date' prints 14,770 and is CUMULATIVE \u2014 never summed as an increment (utah is a per-period regime). Faint grey shapes visible in Schedule A's first two bands are show-through/ghosting of the Schedule B sheet, not ink on this page: a 900 dpi crop of pct:20,15,75,14@p2 renders the empty printed grid with no legible character in any cell."
+    },
+    "expenditures": {
+     "result": "delta",
+     "anchor": "Box D 'Expenditures Made this Period' (2764.22) on the p4 Summary Page, which is also Schedule B's own printed 'Subtotal for this page $ 2764.22' AND its printed 'Total Expenditures Made $ 2764.22' \u2014 all three carry the identical figure",
+     "detail": "The 2 Schedule B rows sum to 2248.97 + 515.31 = 2,764.28, which is 0.06 MORE than the filer's own printed subtotal/total/Box D of 2,764.22. The delta is TRACED and it lies in the filer's stated figures, not in a missing or extra row: (a) both amount cells are MACHINE TYPE on a born-digital fillable form and were escalated to 1200 dpi tight crops, rendering '2,248.97' and '515.31' unambiguously \u2014 no digit is in doubt, so neither cell can be nudged; (b) the one-past-the-end control (band 3 of the p3 grid) renders an EMPTY cell, and bands 3-15 plus the white space above the 'Subtotal for this page' label are unmarked, so trap F1.5 (a row below the last rule) and trap H3 (two entries in one band) are both ruled out \u2014 nothing is missing, the row sum is genuinely 2,764.28; (c) the document itself corroborates 2,764.28 as the true expenditure total, because Box A 'Balance at Beginning' and Box F 'Subtotal before Expenditures (A+B)' both print 2,764.28 (with Box B = 0) and the filer's own 'Balance at Close (Box F - Box D)' prints '.06' \u2014 i.e. the 6-cent residue of understating Box D is visible on the filer's own summary page. CORRELATED-ERROR SCREEN: not correlated \u2014 this filer's other 2020 filing (167d8f91, 22 June 2020) closes its ladder exactly (232.80 + 14,770 = 15,002.80 - 12,238.52 = 2,764.28 = this filing's Box A), so the 0.06 is a one-off slip in the 27 July report, not a repeated pattern. Nothing was nudged; the printed anchor is retained verbatim and the rows are published as read. Box E 'Expenditures Made Year to Date' 14,769.92 is CUMULATIVE and is never summed as an increment."
+    }
+   },
+   "in_kind_convention": "monetary-only \u2014 no in-kind mark appears anywhere on either schedule and this form revision prints no in-kind line, so the monetary-only and monetary-plus-in-kind conventions give the identical sum (2,764.28) on the expenditure side and 0 on the contribution side; both were tested and neither closes the 0.06 gap (there is no in-kind figure to add).",
+   "escalations": 4,
+   "escalation_note": "1200 dpi tight --value crops of BOTH Schedule B amount cells (rendered '2,248.97' and '515.31'), a 1200 dpi crop of the two p3 printed footers (rendered 'Subtotal for this page $ 2764.22' and 'Total Expenditures Made $ 2764.22'), and a 900 dpi crop of the p4 Box D/E band (rendered 'D 2764.22' and 'E 14769.92'). Escalation resolved LEGIBILITY only; it confirmed the +0.06 delta rather than removing it.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 2,
+   "geometry": {
+    "measured": 2,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "modern_boxAF, revision 'v. 4.20' (footer). 4 pages, each classified from its own printed header: p1 cover ('Financial Campaign Report for County and Local School Board Candidates'), p2 SCHEDULE A - Itemized Contributions Received, p3 SCHEDULE B - Itemized Expenditures Made, p4 SUMMARY PAGE (LAST, as ADDENDUM I3 describes for this variant, but located by its heading). PAGE-FACE candidate name 'Ronald Nathan Ivie' vs the channel label 'Nathan Ivie' in index.csv \u2014 the page face governs. Office field prints 'county commission seat c' in the filer's own lower case. TWO report-type radio buttons are filled on the cover: '30 Days after withdrawal or elimination' AND '30 Days after the Primary Election' \u2014 both are transcribed as marked; nothing is adjudicated. The amendment question has NEITHER 'No' nor 'Yes' ticked \u2014 an honest BLANK, never read as 'No'. The signature block is BLACKED OUT BY THE COUNTY (a solid redaction bar covering the signature only; the Date cell beside it prints '27 july 2020' in the clear) \u2014 redacted upstream, not a failed read. CONTRIBUTIONS SIDE: the Schedule A page EXISTS and is entirely unmarked, with typed zeros on both of its printed footers ('Subtotal for this page $ 0', 'Total Contributions Received $ 0') matching Box B '0' \u2014 an empty-schedule (the filer reported no contributions this period), NOT an unread or missing page. EXPENDITURE DELTA: rows sum 2,764.28 against a printed 2,764.22 (+0.06), traced in recon.expenditures and retained verbatim \u2014 the filer's own Box A/Box F (2,764.28) agree with the row sum while his Box D and both Schedule B footers are 6 cents short, and his printed closing balance '.06' is that residue. No expenditure row carries an address field on this form. Foliation: the 'Page' box is left blank on every sheet (a fifth utah foliation practice), so page ordinals locate nothing here."
+  }
+ }
 }

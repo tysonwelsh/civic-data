@@ -1,0 +1,115 @@
+{
+ "contributions": [],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2014-12-31",
+   "vendor_raw": "Mike Fife",
+   "purpose": "partial repayment of loan to self",
+   "amount": "$571.31",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.33,24.60,80.58,3.05@p4",
+   "note": "typed row; the recipient is the candidate himself (loan repayment). Amount printed with a dollar sign, kept verbatim."
+  }
+ ],
+ "total_contributions": "0.00",
+ "total_expenditures": "$571.31",
+ "beginning_balance": "$571.31",
+ "ending_balance": "$0",
+ "aggregate": {
+  "total_contributions_to_date": "",
+  "total_expenditures_to_date": "",
+  "line5_subtotal": "$571.31"
+ },
+ "cover": {
+  "candidate": "Mike Fife",
+  "party": "Democratic",
+  "office_sought": "Treasurer",
+  "district_number": "",
+  "report_type": "YEAR-END REPORT: January 31 of each year AND FINAL / DISSOLUTION REPORT (both boxes checked)",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "2/12/2016",
+  "form_year": "2014"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "high",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2014_disclosures__2014_year_end__mike_fife2014ye.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Mike Fife",
+  "office": "Treasurer",
+  "election_year": "2016",
+  "source_pdf": "raw/globalassets/2014_disclosures__2014_year_end__mike_fife2014ye.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "FORM YEAR vs FILING DATE - the chunk-file flag is CONFIRMED: the cover is the '2014 Financial Disclosure Report For a Candidate' form but the filing is signed 2/12/2016 and clerk-stamped RECEIVED FEB 18 2016, and the single expenditure is dated 12/31/2014. form_year records the printed title verbatim and is NOT the cycle. / TYPE OF REPORT - BOTH the Year-End (January 31) box AND the Final/Dissolution box are checked; the chunk file's filing_type='final' is consistent but the form asserts both. / AMENDMENT - neither Yes nor No is checked; is_amendment is honestly ''. / Cover is typed except the Office cell, which is handwritten 'Treasurer'; the typed 'Office Sought' cell also reads 'Treasurer'. Not a school-board filing. / The filer's own page numbering starts at the Summary Page ('Page 1 of 3'), so PDF page 2 = form page 1; the Date of Report cell is blank on all three form pages. / Cover address block and phone number redacted at source; Column B is blank on both summary lines (left empty by the filer).",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0.00",
+     "schedule_total": "",
+     "itemized": "0.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "p3 Schedule A is present, wholly BLANK, and struck through with a single diagonal pen line (the filer's 'nothing here' mark). Its SUBTOTAL and TOTAL cells are printed but LEFT BLANK, so no schedule-level anchor exists for this side; the gate is Summary line 1 Column A = 0.00, which matches zero rows. A real zero."
+    },
+    "expenditures": {
+     "stated": "$571.31",
+     "schedule_total": "$571.31",
+     "itemized": "571.31",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "One row on p4 sums to 571.31 = the schedule's printed TOTAL EXPENDITURES MADE $571.31 = Summary line 2 Column A $571.31 = lines 3, 5 and 6. Three independent printed figures agree with the single row."
+    }
+   },
+   "page_subtotal_gates": "p4 SUBTOTAL FOR THIS PAGE is printed but LEFT BLANK (the AGENT_BRIEF section 1 case) - gated instead on the schedule grand total: rows 571.31 = printed TOTAL 571.31. p3 subtotal also printed and left blank; gated on Summary line 1 = 0.00.",
+   "escalations": 1,
+   "escalation_note": "p4 row 1 re-read as a tight 800 dpi band crop (-x 750 -y 2130 -W 5550 -H 380); read identically - date, recipient, purpose and amount all confirmed, so the row carries verified=1.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 1,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FORM YEAR vs FILING DATE - the chunk-file flag is CONFIRMED: the cover is the '2014 Financial Disclosure Report For a Candidate' form but the filing is signed 2/12/2016 and clerk-stamped RECEIVED FEB 18 2016, and the single expenditure is dated 12/31/2014. form_year records the printed title verbatim and is NOT the cycle. / TYPE OF REPORT - BOTH the Year-End (January 31) box AND the Final/Dissolution box are checked; the chunk file's filing_type='final' is consistent but the form asserts both. / AMENDMENT - neither Yes nor No is checked; is_amendment is honestly ''. / Cover is typed except the Office cell, which is handwritten 'Treasurer'; the typed 'Office Sought' cell also reads 'Treasurer'. Not a school-board filing. / The filer's own page numbering starts at the Summary Page ('Page 1 of 3'), so PDF page 2 = form page 1; the Date of Report cell is blank on all three form pages. / Cover address block and phone number redacted at source; Column B is blank on both summary lines (left empty by the filer)."
+  }
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C20.json",
+ "key": "5da412a4",
+ "index_path": "raw/2024/2024_cc_2024_David_Erickson.pdf",
+ "applies_to": [
+  "raw/2024/2024_cc_2024_David_Erickson.pdf"
+ ],
+ "sha256_prefix": "f81e028c0eb2169e",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "other",
+  "4": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "2983.08",
+    "cover_over50_cum": "380.00",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "cover_balance_end": "0",
+    "box_A_balance_begin": "0",
+    "box_F_subtotal": "3,363.08",
+    "schedule_total": "2983.08",
+    "page_subtotal": "2983.08",
+    "schedule_total_struck": "380.00",
+    "page_subtotal_struck": "380.00"
+   },
+   "itemized": "3363.08",
+   "basis": "box-F(Box A + Box B, Box A = 0) == Box B + Box C == rows; the amended Schedule A total does NOT close",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "5 inked rows sum to 100.00 + 100.00 + 100.00 + 80.00 + 2983.08 = 3363.08. That equals Box F (Subtotal Before Expenditures = Box A + Box B) 3,363.08 EXACTLY, and equals Box B 2983.08 + Box C 380.00 exactly. It does NOT equal the amended Schedule A figures: both 'Subtotal for this page' and 'Total Contributions Received' were originally 380.00 (the four black-ink rows) and were struck through in green and rewritten as 2983.08 (the one green-ink row) - the amendment REPLACED the total with the added row instead of adding to it, dropping the 380.00 already itemized. CAUSE TRACED, and it is the FILER's arithmetic: the same green pen also entered Box B = 2983.08 (this period) and left Box C = 380.00 (year-to-date), a split that is internally inconsistent (YTD below this-period) but sums to the correct 3,363.08 the filer then wrote in Box F and matched against expenditures. Per the contract this side is published verbatim as a delta with needs_review on every row; the row VALUES themselves are not in doubt - each was re-read at 600 dpi and the five of them close to Box F to the cent. Scope: Box A = 0 and this is the first report of the 2024 cycle (cover annotation 'Financial Report for Primary election', dated 6-18-24), so period and cycle-to-date coincide for the report as a whole - recorded cumulative."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "3,363.08",
+    "cover_expense_cum": "3,363.08",
+    "cover_balance_end": "0",
+    "box_A_balance_begin": "0",
+    "box_F_subtotal": "3,363.08",
+    "schedule_total": "3363.08",
+    "page_subtotal": "3363.08"
+   },
+   "itemized": "3363.08",
+   "basis": "page-subtotal==schedule-total==BoxD==BoxE",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "5 emitted rows sum to 170.00 + 600.00 + 294.98 + 35.00 + 2263.10 = 3363.08, exactly the printed 'Subtotal for this page' 3363.08, 'Total Expenditures Made' 3363.08, Box D (this period) and Box E (year-to-date). Box D == Box E so period and YTD coincide; scope cumulative. NOTE on row 5: the filer braced SIX dates (1-23, 3-05, 4-30, 5-01, 5-09, 5-10 of 2024) to a single vendor 'Square One Printing' and gave ONE boxed amount, 'Square One Total: $2,263.10'. The form presents one amount, so ONE row is emitted with a blank date; splitting it into six would fabricate six amounts the document does not carry."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2 (Schedule A): rows sum 3363.08 vs the amended printed subtotal/total 2983.08 - WOULD NOT GATE; both printed figures reported verbatim (struck 380.00, amended 2983.08) and the rows close instead against Box F 3,363.08 and against Box B + Box C. p4 (Schedule B): rows sum 3363.08 = printed 'Subtotal for this page' 3363.08 = 'Total Expenditures Made' 3363.08. Gates EXACTLY.",
+  "row_count": "rowbands.py p2: geometry ok, 15 ruled bands; ink in bands 1-5 = 5 rows emitted (bands 1-4 black pen, band 5 green pen), bands 6-15 empty. rowbands.py p4: 15 bands; ink in bands 1-4 (four ordinary rows) plus a braced block occupying bands 5-10 in the DATE column only, whose single boxed amount sits across bands 8-9 - 5 rows emitted, and the count deliberately does NOT match the 10 inked date-bands because six dates share one amount. Bands 11-15 empty.",
+  "geometry_proof": "p2: row-1 amount crop renders '$100.00'; row-5 amount crop renders '$2,983.08' (green); control one pitch below row 5 renders EMPTY (only a stray green descender from row 5, no figure). p4: row-1 crop renders '170.00'; row-4 crop renders '35.00'; the row-5 geometry crop renders '$2,263.10' inside the filer's hand-drawn box; a control one pitch below the box renders EMPTY.",
+  "balance_chain": "Box A (slashed zero = 0) + Box B 2983.08 = Box F, which the filer wrote as 3,363.08 - so Box F does NOT equal A + B as the form's own formula requires (short by the 380.00 the filer parked in Box C). Box F 3,363.08 - Box D 3,363.08 = Balance at Close, written as a slashed zero = 0, which closes. Read as (contributions 3363.08) - (expenditures 3363.08) = 0 the filing is internally consistent; the single broken link is Box B, which carries only the amended green contribution instead of the full 3,363.08. Only one Erickson filing in this chunk (the county also holds a separate 2024 GENERAL Erickson report, not in this chunk), so no cross-filing chain was run."
+ },
+ "escalations": 12,
+ "escalation_note": "600 dpi crops: p2 row-1 / row-5 / control amount cells, p2 date column rows 1-5, p2 subtotal+total block (struck 380.00 -> 2983.08), p4 amount column rows 1-4, p4 row-1 / row-4 / row-5-box / control cells, p4 date column bands 1-5 and 5-10, p4 subtotal+total block; 1200 dpi crop of the p2 row-4 contributor name over the ink blot (NOT resolved).",
+ "notes": "PDF PAGE ORDER DIFFERS FROM THE FORM'S OWN PAGINATION: PDF page 3 is the SUMMARY PAGE (its footer block is blank) and PDF page 4 is 'Schedule B - Itemized Expenditures Made' (footer 'Page 3'). All geometry pointers use the poppler/PDF page index, so Schedule B rows carry @p4. BLANK OFFICE LINE: the cover's 'Office' box is EMPTY - this is one of the county's known blank-office filings, so scope cannot be confirmed from the office line; the money is transcribed normally per the addendum and the blank is recorded here. The chunk file's 'County Council' is therefore NOT confirmed at the page. TYPE OF REPORT: none of the three printed checkboxes is marked; the filer instead hand-wrote 'Financial Report for Primary election' with a circled mark below them. Date of Report and signature both 6-18-24; the Office Use box carries a red-pen 'Received 4:55pm' annotation and initials rather than a date stamp. AMENDED IN GREEN: four Schedule A rows, both Schedule A totals and the Summary boxes were originally completed in black ink; a green pen later added row 5 (a 2,983.08 self-contribution by the candidate), struck both Schedule A totals and rewrote them, and completed the Summary page. Both the struck and the replacement figures are recorded verbatim in the anchor block; nothing was picked silently. The candidate's home street address, city, zip, phone and email are printed in the clear on the cover and are DISCARDED at read time; contributor addresses on Schedule A are city/state only as written by the filer. Contributor on row 4 is UNREADABLE at the head: a solid teal ink blot covers the first character(s) of the first name; 1200 dpi does not recover them, so only the legible glyphs are recorded and the row is flagged. This filer's handwritten '2' has a flat top that reads as '7' at page scale (e.g. '4-76-2024' for 4-26-2024); resolved by comparing against the unambiguous 7 in the '170.00' amount and against the leading 2 of every '2024'.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-03-26",
+   "donor_raw": "Barbra Tidwell",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.70,13.72,21.00,4.39@p2",
+   "note": "black ink; amount written '$100' with superscript '00'. needs_review is the contract flag for a delta side, not doubt about this value"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2024-03-28",
+   "donor_raw": "Paul Broup",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.70,18.11,21.00,4.23@p2",
+   "note": "black ink; surname could also read 'Bruup'/'Broup' - transcribed as written; superscript cents"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2024-05-04",
+   "donor_raw": "Chris Olsen",
+   "donor_city": "Smithfield",
+   "donor_state": "UT",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.70,22.33,21.00,4.29@p2",
+   "note": "black ink; superscript cents"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2024-05-19",
+   "donor_raw": "issa Hamud",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "80.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.70,26.63,21.00,4.34@p2",
+   "note": "NAME PARTIAL: a solid teal ink blot at source covers the first character(s) of the first name; only the legible glyphs '...issa Hamud' are recorded, and no plausible full first name is guessed. 1200 dpi does not recover the covered strokes. Amount '$80' with superscript '00'"
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "2024-06-18",
+   "donor_raw": "David Erickson",
+   "donor_city": "Smithfield",
+   "donor_state": "UT",
+   "amount": "2983.08",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.70,30.97,21.00,4.32@p2",
+   "note": "GREEN INK, added when the filing was amended: the candidate's own self-contribution. Written '$2,983.08' with superscript cents; re-read at 600 dpi. This is the row the amended schedule total 2983.08 reflects - the amendment dropped the 380.00 of black-ink rows above it"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Cache County Gov.",
+   "purpose": "County Filing Fee",
+   "amount": "170.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.00,14.34,18.00,4.32@p4",
+   "note": "amount '170' with superscript '00'; date day-glyph is this filer's flat-topped 2 (reads as 7 at page scale)"
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2024-01-12",
+   "vendor_raw": "Cache GOP",
+   "purpose": "Lincoln Dinner Table",
+   "amount": "600.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.00,18.67,18.00,4.30@p4",
+   "note": "amount '600' with superscript '00'"
+  },
+  {
+   "line_no": "3",
+   "report_no": 1,
+   "date": "2024-04-14",
+   "vendor_raw": "Oriental Trading",
+   "purpose": "Smithfield Health Days Parade Candy",
+   "amount": "294.98",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.00,22.97,18.00,4.28@p4",
+   "note": "purpose written on two lines, the first line rising into the band above"
+  },
+  {
+   "line_no": "4",
+   "report_no": 1,
+   "date": "2024-04-26",
+   "vendor_raw": "Smithfield City",
+   "purpose": "Booth",
+   "amount": "35.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.00,27.25,18.00,4.35@p4",
+   "note": "date reads '4-76-2024' at page scale; the day is 26 - the same flat-topped 2 the filer uses in every '2024', distinct from the clean 7 in the '170.00' amount"
+  },
+  {
+   "line_no": "5",
+   "report_no": 1,
+   "date": "",
+   "vendor_raw": "Square One Printing",
+   "purpose": "Election signs. Stickers - Handouts. Flyers - Re-Elect Stickers",
+   "amount": "2263.10",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=low;vendor=high;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:78.00,43.80,18.00,3.50@p4",
+   "note": "AGGREGATE ROW AS THE FILER WROTE IT: six dates are braced to one vendor and one hand-boxed amount, 'Square One Total: $2,263.10'. Date left BLANK per the multiple-dates rule; the six verbatim dates are 1-23-2024, 3-05-2024, 4-30-2024, 5-01-2024, 5-09-2024, 5-10-2024. Not split into six rows - the document carries only one amount. The Schedule B page total closes exactly with this single 2,263.10"
+  }
+ ]
+}

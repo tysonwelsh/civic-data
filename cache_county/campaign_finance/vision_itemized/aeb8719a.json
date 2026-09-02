@@ -1,0 +1,83 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C11.json",
+ "key": "aeb8719a",
+ "index_path": "raw/2014/2014_cc_Zollinger_Dec_4_2014_campaign_finance_2a24cd.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_Zollinger_Dec_4_2014_campaign_finance_2a24cd.pdf",
+  "raw/2014/2014_cc_Zollinger_Dec_4_2014_campaign_finance_fd5839.pdf"
+ ],
+ "sha256_prefix": "6d6c44f351a51a0c",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr-5-5-pg-form-A",
+  "expenditures": "carr-5-5-pg-form-B"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "0",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "EVERY cell of the cover's 4x3 grid carries a hand-drawn slashed zero (a circle with a stroke through it). Per the repo-wide zero-glyph ruling a glyph DENOTING zero is 0, so all twelve anchors are 0 with the verbatim glyph recorded here. Form A (page 2) is an entirely EMPTY ruled schedule, which agrees exactly: rows sum 0 = cover line 1. Because all three columns are zero the THIS and CUMULATIVE scopes coincide; scope recorded as cumulative."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "0",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "0",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Form B (page 3) is likewise an entirely EMPTY ruled schedule; rows sum 0 = cover line 3, itself a slashed zero in all three columns. Same scope coincidence as the contributions side."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "the Carr 5-5-PG form prints NO schedule total on either schedule (the sheet ends with the '(If additional space is needed...)' note), so the cover's own lines are the only anchors; both are zero and both schedules are empty",
+  "row_count": "scored by eye against ink at 200 dpi on both schedule pages: ~40 ruled writing lines each, ZERO of them inked. Every mark on pages 2 and 3 is show-through of the page-4 statute text from the reverse of the sheet - it is set in the statute's serif body type, runs edge to edge across the Name/Address/Purpose columns without respecting them, and carries no figure in any Amount cell. rowbands.py not needed: there is no ink to score.",
+  "geometry_proof": "no rows emitted, so no row geometry to prove",
+  "balance_chain": "0 + 0 - 0 = 0 closes exactly; LAST + THIS = CUM holds trivially on all four lines (all cells zero)"
+ },
+ "escalations": 0,
+ "escalation_note": "none needed - both schedules are empty and every cover cell is an unambiguous slashed zero",
+ "notes": "Chunk file says candidate 'Zollinger', office 'Clerk/Auditor'. The cover reads 'Full Name of Candidate: Jill N. Zollinger' and 'Name of Office: Clerk/Auditor' - AGREES, and the office is a county office, so in scope. The 'TO ___ County Clerk' line also reads 'Jill Zollinger': the filer is the incumbent County Clerk/Auditor filing her own report, which is normal, not a mis-scan. Form date reads 11/20/14 and the clerk stamp RCVD 21 NOV 2014 PM 01:26 - note the chunk file's date field says 2014-12-04, which is the county's index date, NOT the date on the form; the FORM governs and says 20 November 2014. BOTH SCHEDULES ARE HONEST ZEROS, not gaps: the pages exist and are blank. Two index paths share these bytes (…_2a24cd.pdf and …_fd5839.pdf); transcribed once from the canonical path per the one-transcription-per-distinct-document rule. Candidate street address, ZIP and both phone numbers are printed in the clear on the cover and were discarded at read time.",
+ "contributions": [],
+ "expenditures": []
+}

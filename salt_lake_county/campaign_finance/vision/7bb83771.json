@@ -50,6 +50,55 @@
   "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
   "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-02 totals tranche, continuation)",
   "transcribed_date": "2026-08-02",
-  "notes": "5-page BUNDLE: page 1 is the one-page \"Dissolution of a Candidate Campaign Committee\" notice (committee \"DeBry County Council\", secretary Lorraine DeBry, signed 12-6-2022), page 2 is the report cover (older Sherrie Swensen form, no year in the title), and page 3 is the Summary Page transcribed here. Neither amendment box is checked. ARITHMETIC INCONSISTENCY kept verbatim: Line 5 is $16,267.41 and Line 6 is 0, yet Line 7 is 0 - beside Line 7 the filer wrote \"(Account closed on 11-29-2022 @ Cyprus CU\". Lines 1, 2, 4, 6 and 7 Column A are written as a plain hand-drawn 0."
+  "notes": "5-page BUNDLE: page 1 is the one-page \"Dissolution of a Candidate Campaign Committee\" notice (committee \"DeBry County Council\", secretary Lorraine DeBry, signed 12-6-2022), page 2 is the report cover (older Sherrie Swensen form, no year in the title), and page 3 is the Summary Page transcribed here. Neither amendment box is checked. ARITHMETIC INCONSISTENCY kept verbatim: Line 5 is $16,267.41 and Line 6 is 0, yet Line 7 is 0 - beside Line 7 the filer wrote \"(Account closed on 11-29-2022 @ Cyprus CU\". Lines 1, 2, 4, 6 and 7 Column A are written as a plain hand-drawn 0.",
+  "itemized": {
+   "wave": "W2 EasyVote residue (2026-08-24; kimi-k3)",
+   "transcribed_date": "2026-08-24",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "itemized_pages_A": "4",
+   "itemized_pages_B": "5",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "0",
+     "schedule_total": "119268.90",
+     "itemized": "0",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "blank Schedule A grid (no ink in any row); printed SUBTOTAL 0 = Summary line 1 Column A 0. The schedule TOTAL cell prints 119,268.90, the Column B aggregate (lifetime) figure, not a period figure - not a reconciliation target. Zero rows is a real zero at this filing."
+    },
+    "expenditures": {
+     "stated": "0",
+     "schedule_total": "103001.49",
+     "itemized": "0",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "blank Schedule B grid; printed SUBTOTAL 0 = Summary line 2 Column A 0. The TOTAL cell prints 103,001.49, the Column B aggregate (lifetime) figure. Zero rows is a real zero at this filing."
+    }
+   },
+   "page_subtotal_gates": "p4 blank grid, printed SUBTOTAL 0 = 0 rows; p5 blank grid, printed SUBTOTAL 0 = 0 rows",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "Page 1 is a separate 'Dissolution of a Candidate Campaign Committee' notice (committee 'DeBry County Council', candidate Steven L DeBry, County Council - Dist. 5, signed 12-6-2022). Pages 2-5 are the standard report numbered 1-4 of 4 (Final/Dissolution box checked; Sherrie Swensen cover variant; handwritten throughout; cover street-address block blacked at source). Summary Column A lines 1/2 are both 0 (period); Column B aggregates 119,268.90 / 103,001.49 are lifetime figures. Both schedule TOTAL cells carry the Column B aggregates. Index prior (candidate/office/date) confirmed at the page."
+  }
  }
 }

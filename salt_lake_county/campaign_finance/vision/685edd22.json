@@ -1,0 +1,88 @@
+{
+ "contributions": [],
+ "expenditures": [],
+ "total_contributions": null,
+ "total_expenditures": null,
+ "beginning_balance": null,
+ "ending_balance": null,
+ "aggregate": {
+  "total_contributions_to_date": null,
+  "total_expenditures_to_date": null,
+  "line5_subtotal": null
+ },
+ "cover": {
+  "candidate": "Adam Guymon",
+  "party": "",
+  "office_sought": "Salt Lake County Council At-Large C",
+  "district_number": "At-Large C",
+  "report_type": "",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "12/05/2018",
+  "form_year": ""
+ },
+ "confidence": {},
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__2018_year_end__adam-guyman_redacted.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "Adam Guymon",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/2018_disclosures__2018_year_end__adam-guyman_redacted.pdf",
+  "pages_read": [
+   1
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": false,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "CONFIRMED at the page: a ONE-PAGE 'Statement of Campaign Dissolution' (masthead 'Sherrie Swensen, Salt Lake County Clerk'), subtitle 'Dissolution of a Candidate Campaign Committee'. There is NO Type-of-Report block and NO Summary Page, so summary_page_found is false and both sides are 'none' - the honest shape of this document type, not a failure. What the notice itself states, verbatim from its four fill-in lines: Name of Committee 'Adam Guymon'; Name of County Office Candidate 'Adam Guymon'; County Office 'Salt Lake County Council At-Large C'; Name of Committee Secretary 'Adam Guymon'. Signed and dated 12/05/2018; clerk stamp 'RECEIVED IN OFFICE DEC 05 2018 SALT LAKE COUNTY CLERK'. The signature line is covered by the county's black bar (redacted at source). The printed instruction reads 'Attach a final summary financial report, which shows all final financial activity of the committee. The ending balance on the final summary report filed must be zero...' - THE ATTACHMENT IS NOT IN THIS PDF (the file is one page), an honest gap of the same class as forms__staggs-dissolution_redacted.pdf; it is recorded, never reconstructed. NAME SPELLING, per the chunk flag and verified here: this notice spells the filer 'Guymon' in all four hand-written lines (the PDF FILENAME says 'adam-guyman'). The chunk flag reports 'GUYMAN' on his report covers - those covers are not in this chunk, so the pair is flagged, not resolved, and neither spelling was normalized to the other.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "",
+   "sides": {
+    "contributions": "none",
+    "expenditures": "none"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "The document is a one-page 'Statement of Campaign Dissolution' notice. It has no Summary Page and no Schedule A - nothing exists to reconcile. Honest non-existence, not a zero."
+    },
+    "expenditures": {
+     "stated": "",
+     "schedule_total": "",
+     "itemized": "",
+     "basis": "",
+     "result": "unknown",
+     "detail": "Same: no Summary Page and no Schedule B page in the document."
+    }
+   },
+   "page_subtotal_gates": "n/a - no schedule page in the document",
+   "escalations": 0,
+   "escalation_note": "",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "CONFIRMED at the page: a ONE-PAGE 'Statement of Campaign Dissolution' (masthead 'Sherrie Swensen, Salt Lake County Clerk'), subtitle 'Dissolution of a Candidate Campaign Committee'. There is NO Type-of-Report block and NO Summary Page, so summary_page_found is false and both sides are 'none' - the honest shape of this document type, not a failure. What the notice itself states, verbatim from its four fill-in lines: Name of Committee 'Adam Guymon'; Name of County Office Candidate 'Adam Guymon'; County Office 'Salt Lake County Council At-Large C'; Name of Committee Secretary 'Adam Guymon'. Signed and dated 12/05/2018; clerk stamp 'RECEIVED IN OFFICE DEC 05 2018 SALT LAKE COUNTY CLERK'. The signature line is covered by the county's black bar (redacted at source). The printed instruction reads 'Attach a final summary financial report, which shows all final financial activity of the committee. The ending balance on the final summary report filed must be zero...' - THE ATTACHMENT IS NOT IN THIS PDF (the file is one page), an honest gap of the same class as forms__staggs-dissolution_redacted.pdf; it is recorded, never reconstructed. NAME SPELLING, per the chunk flag and verified here: this notice spells the filer 'Guymon' in all four hand-written lines (the PDF FILENAME says 'adam-guyman'). The chunk flag reports 'GUYMAN' on his report covers - those covers are not in this chunk, so the pair is flagged, not resolved, and neither spelling was normalized to the other."
+  }
+ }
+}

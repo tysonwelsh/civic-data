@@ -1,0 +1,117 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C24.json",
+ "key": "8c081c46",
+ "index_path": "raw/2026/2026_cc_2026_Financial_Disclosure_June16_Allison_Goulais.pdf",
+ "applies_to": [
+  "raw/2026/2026_cc_2026_Financial_Disclosure_June16_Allison_Goulais.pdf"
+ ],
+ "sha256_prefix": "69dfedf8ed45c1d6",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "other"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "cache_cfd",
+  "expenditures": "cache_cfd"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": null,
+    "cover_over50_this": "0.0",
+    "cover_over50_cum": "140.94",
+    "cover_le50_this": null,
+    "cover_le50_cum": null,
+    "schedule_total": "0.0",
+    "page_subtotal": "0.0",
+    "box_A_balance_begin": "0.0",
+    "box_F_subtotal": "0",
+    "cover_balance_end": "0"
+   },
+   "itemized": "140.94",
+   "basis": "cover-box-C-year-to-date (the schedule's own printed total does NOT close)",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "COMPETING ANCHORS DISAGREE AND BOTH ARE PUBLISHED VERBATIM. The one itemized line reads $140.94. The schedule's own printed 'Subtotal for this page $0.0' and 'Total Contributions Received $ 0.0' read ZERO, as does Box B (this period) 0.0 - none of those close on the row. Box C (Contributions Received Year-to-Date) reads 140.94 and closes EXACTLY. Cause traced on the page: the transaction is dated 01.08.2026, well before this 06-16-2026 report's period, so the filer reported 0.0 for the period and carried the January transaction only in the year-to-date box, while still listing it on the schedule. Scored on Box C because that is the anchor whose SCOPE matches the row; result kept as delta because the side's own printed schedule total does not close, and every row carries needs_review:1. No figure was synthesized and no row was adjusted."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": null,
+    "cover_expense_this": "0.0",
+    "cover_expense_cum": "140.94",
+    "schedule_total": "0.0",
+    "page_subtotal": "0.0",
+    "cover_balance_end": "0"
+   },
+   "itemized": "140.94",
+   "basis": "cover-box-E-year-to-date (the schedule's own printed total does NOT close)",
+   "result": "delta",
+   "scope": "cumulative",
+   "detail": "Same pattern as the contributions side. The one itemized line reads $140.94. Printed page subtotal 0.0, printed Total Expenditures Made 0.0, Box D (this period) 0.0 - none close. Box E (Expenditures Made Year-to-Date) reads 140.94 and closes exactly. Same cause: a 01.08.2026 filing-fee payment carried only in the year-to-date box. Scored on Box E; result delta because the schedule's own total does not close; needs_review:1 on the row."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "GATE DOES NOT FIRE ON EITHER SIDE, both figures named. p2: rows-sum 140.94 vs printed 'Subtotal for this page $0.0' and printed 'Total Contributions Received $ 0.0'. p3: rows-sum 140.94 vs printed 'Subtotal for this page $ 0.0' and printed 'Total Expenditures Made $ 0.0'. The rows instead equal the summary page's year-to-date boxes C and E (140.94 each), which close exactly. No row was adjusted to make anything close.",
+  "row_count": "No per-row grid on the CFD schedule; independent ink count at 200 dpi plus PDF-text cross-check: p2 = 1 transaction line, p3 = 1 transaction line, each a single semicolon-delimited free-text string. 600 dpi control crops one line-pitch below each render empty, so nothing was dropped.",
+  "geometry_proof": "p2: pct:40.50,20.40,7.00,1.40@p2 renders '$140.94' (the amount fragment of the only row); a control band one pitch below renders empty. p3: pct:36.90,20.70,7.00,1.40@p3 renders '$140.94'; control below renders empty. As with the Jensen filing, the geometry points at where the text ACTUALLY sits (inside the Date column, left of centre), not under the printed 'Amount' header.",
+  "balance_chain": "Box A 0.0 + Box B 0.0 = Box F 0 (closes). Box F 0 - Box D 0.0 = Balance at Close 0 (closes). The chain closes on the PERIOD figures, which are all zero; the 140.94 year-to-date pair sits outside the chain. Consistent with the delta traced above. No earlier Goulais filing is in this chunk; a 2026_cc_2026_Financial_Disclosure_Mar20_Allison_Goulais.pdf exists in the same corpus folder and is the document a human should chain the 140.94 year-to-date figures against."
+ },
+ "escalations": 4,
+ "escalation_note": "600 dpi crops of the single transaction line and the control band on each of p2 and p3, plus two amount-box crops for the geometry proof. Born-digital PDF whose text layer corroborates the visual read exactly; no ambiguous glyph. The 140.94 / 0.0 conflict is a SCOPE conflict in the filer's own figures, not a legibility problem, so no amount of resolution could settle it - the summary page's own boxes did.",
+ "notes": "FIELD PLACEMENT - FLAGGED, NOT WITHHELD: on BOTH schedules the filer typed the whole transaction as one semicolon-delimited free-text string into the DATE cell - Schedule A verbatim '01.08.2026; Shannon Rhodes; Logan, UT; $140.94', Schedule B verbatim '01.08.2026; Cache County; Filing fee; $140.94'. The other cells are physically empty. Columns are assignable with high confidence because the filer used the form's own column order and delimited it explicitly, so the sides are transcribed rather than withheld under the field-shift screen. Cover confirms candidate 'Allison Goulais' and office 'Cache County Council' - AGREES with the chunk file's 'County Council'. Date of Report 06-16-2026 on all pages, signed 2026-06-16 - AGREES with the chunk file. Type of Report: 'Seven days preceding the General Election'; Amendment = No. Note the contributor surname RHODES appears here; this is a 2026 born-digital Goulais filing and is UNRELATED to the cache_county 'Rhodes reversal' calibration specimen (a handwritten Carr-era cover) - flagging it only so a later reader does not conflate the two. Candidate's own street address on the cover discarded at read time; the contributor line prints city/state only ('Logan, UT'), no street.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2026-01-08",
+   "donor_raw": "Shannon Rhodes",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "$140.94",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:40.50,20.40,7.00,1.40@p2",
+   "note": "WHOLE ROW TYPED INTO THE DATE CELL as one semicolon-delimited string, verbatim: '01.08.2026; Shannon Rhodes; Logan, UT; $140.94'. Fields parsed from that string in the form's own column order; needs_review:1 both for the placement and because the side is a delta (the schedule's printed total reads 0.0 while the row reads 140.94 - see recon). Date verbatim '01.08.2026' read as month-first per the form's US convention -> 2026-01-08"
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2026-01-08",
+   "vendor_raw": "Cache County",
+   "purpose": "Filing fee",
+   "amount": "$140.94",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:36.90,20.70,7.00,1.40@p3",
+   "note": "WHOLE ROW TYPED INTO THE DATE CELL as one semicolon-delimited string, verbatim: '01.08.2026; Cache County; Filing fee; $140.94'. Fields parsed from that string in the form's own column order; needs_review:1 both for the placement and because the side is a delta (the schedule's printed total reads 0.0 while the row reads 140.94 - see recon). Date verbatim '01.08.2026' -> 2026-01-08"
+  }
+ ]
+}

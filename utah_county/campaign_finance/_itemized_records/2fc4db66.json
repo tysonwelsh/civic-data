@@ -1,0 +1,338 @@
+[
+ {
+  "index_path": "raw/2022/2022_Balderree_Heidi_5.9.2022_Redacted.pdf",
+  "key": "2fc4db66",
+  "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah chunk r9_02)",
+  "transcribed_date": "2026-08-19",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "itemized_pages_A": "3",
+  "itemized_pages_B": "2",
+  "sides": {
+   "contributions": "transcribed",
+   "expenditures": "transcribed"
+  },
+  "withheld_reason": {},
+  "recon": {
+   "contributions": {
+    "result": "exact",
+    "anchor": "Box B 'Contributions Received this Period' ($1,650) on the p4 SUMMARY PAGE, which is also Schedule A's own printed 'Subtotal for this page' ($1,650) and its printed 'Total Contributions Received - Sum of all Schedule A Pages in this report' ($1,650)",
+    "detail": "6 Schedule A rows sum to 500.00 + 100.00 + 50.00 + 150.00 + 800.00 + 50.00 = 1,650.00 exactly = the schedule's printed page subtotal AND its printed total AND the promoted PER-PERIOD cell Box B (all three print the whole-dollar '1,650'). *** IN-KIND: BOTH CONVENTIONS TESTED AND ONLY MONETARY-PLUS-IN-KIND CLOSES. *** FOUR of the six rows carry a TICKED In-Kind checkbox (rows 3, 4, 5 and 6 - 50.00 + 150.00 + 800.00 + 50.00 = 1,050.00) and all four are inside the filer's own subtotal: monetary-only gives 600.00, which is 1,050.00 short of every printed figure. This is the second filing in this chunk whose anchor includes in-kind, and it is why the convention is tested per FILING (addendum G1) - the same filer's OTHER 2022 report, six weeks earlier, has no in-kind at all. THE CLOSURE ALSO SETTLED A DIGIT: row 5 reads 800.00, not the 200.00 a first full-page reading gave, because only 800.00 makes the six rows equal the printed 1,650. Box C 'Contributions Received Year to Date' prints $5,359.09 and is NOT summed as an increment."
+   },
+   "expenditures": {
+    "result": "exact",
+    "anchor": "Box D 'Expenditures Made this Period' ($755.37) on the p4 SUMMARY PAGE, equal to Schedule B's printed 'Subtotal for this page' ($755.37) and its printed 'Total Expenditures Made - Sum of all Schedule B Pages in this report' ($755.37)",
+    "detail": "2 Schedule B rows sum to 500.00 + 255.37 = 755.37 exactly = the printed page subtotal = the printed total = Box D. Neither row's In-Kind checkbox is ticked, so monetary-only and monetary-plus-in-kind are the same sum on this side and both close. Box E YTD $3,478.84 is the cumulative and is never summed. The filer's ladder is internally consistent: Box F $2,635.62 = Box A $985.62 + Box B $1,650, and Box G $1,880.25 = F - D."
+   }
+  },
+  "in_kind_convention": "MONETARY-PLUS-IN-KIND on the contribution side - tested both ways and only this one closes: four of the six Schedule A rows carry a ticked In-Kind checkbox and all four are inside the printed 1,650 subtotal (monetary-only misses by 1,050.00). The expenditure side has no ticked box, so both conventions give 755.37 there. Nothing was carried over from this filer's earlier 2022 report, which has no in-kind at all.",
+  "escalations": 8,
+  "escalation_note": "900 dpi tight value crops: p2 r1 rendered '$500.00', p2 r2 rendered '$255.37', p2 r3 (one band past the last entry) rendered EMPTY; p3 r1 rendered '$500.00', p3 r6 rendered '$50.00', p3 r7 (one band past) rendered EMPTY; p3 r4's DATE cell rendered '4 - [ink blot merged with a 4] - 22', which is why that date is left blank. Plus a 700 dpi crop of p3's whole Amount + In-Kind block, read to map the half-row-offset checkboxes onto their amounts (empty, empty, X, X, X, X, empty).",
+  "frames": {
+   "2": {
+    "axis": "y",
+    "cell": [
+     68.5,
+     81.0
+    ],
+    "cells": [
+     [
+      14.0,
+      24.5
+     ],
+     [
+      24.5,
+      48.5
+     ],
+     [
+      48.5,
+      68.5
+     ],
+     [
+      68.5,
+      81.0
+     ],
+     [
+      81.0,
+      86.0
+     ]
+    ],
+    "rows": [
+     [
+      17.79,
+      21.36
+     ],
+     [
+      21.36,
+      24.8
+     ],
+     [
+      24.8,
+      28.32
+     ],
+     [
+      28.32,
+      31.77
+     ],
+     [
+      31.77,
+      35.26
+     ],
+     [
+      35.26,
+      38.83
+     ],
+     [
+      38.83,
+      42.42
+     ],
+     [
+      42.42,
+      46.03
+     ],
+     [
+      46.03,
+      49.74
+     ],
+     [
+      49.74,
+      53.46
+     ],
+     [
+      53.46,
+      57.26
+     ],
+     [
+      57.26,
+      61.03
+     ],
+     [
+      61.03,
+      64.89
+     ],
+     [
+      64.89,
+      68.73
+     ],
+     [
+      68.73,
+      72.59
+     ]
+    ],
+    "measure_note": "SCHEDULE B, bound at p2 AHEAD of Schedule A - classified from its own printed header, never from the ordinal (the addendum-F3 swapped-schedules class, live). The full-width scan fails on this faint skewed photocopy, so the --col recovery was used: `rowbands.py <pdf> 2 --col 68,84` returns 18 rules, of which the SIXTEEN running 17.79 .. 72.59 at a regular pitch of ~3.65 are the printed 15-row grid; 75.77 and 80.34 lie below it. This blank's schedules carry FIVE columns (Date / Provider-Vendor / Purpose / Amount / IN-KIND checkbox); the four non-amount bands were measured off the page image and are provenance only, while the AMOUNT band is what the geometry stamps and is set wide enough (68.5-81.0) that a right-aligned figure cannot clip. PROOF at 900 dpi: the row-1 amount box pct:68.5,17.79,12.5,3.57@p2 rendered '$500.00' (recorded 500.00), the LAST transcribed row's box pct:68.5,21.36,12.5,3.44@p2 rendered '$255.37' (recorded 255.37, row 2), and the ONE-PAST control pct:68.5,24.80,12.5,3.52@p2 rendered an EMPTY cell."
+   },
+   "3": {
+    "axis": "y",
+    "cell": [
+     68.0,
+     80.5
+    ],
+    "cells": [
+     [
+      15.0,
+      26.5
+     ],
+     [
+      26.5,
+      47.5
+     ],
+     [
+      47.5,
+      68.0
+     ],
+     [
+      68.0,
+      80.5
+     ],
+     [
+      80.5,
+      85.5
+     ]
+    ],
+    "rows": [
+     [
+      18.21,
+      21.92
+     ],
+     [
+      21.92,
+      25.53
+     ],
+     [
+      25.53,
+      28.94
+     ],
+     [
+      28.94,
+      32.46
+     ],
+     [
+      32.46,
+      35.96
+     ],
+     [
+      35.96,
+      39.52
+     ],
+     [
+      39.52,
+      43.07
+     ],
+     [
+      43.07,
+      46.64
+     ],
+     [
+      46.64,
+      50.2
+     ],
+     [
+      50.2,
+      53.82
+     ],
+     [
+      53.82,
+      57.45
+     ],
+     [
+      57.45,
+      61.06
+     ],
+     [
+      61.06,
+      64.77
+     ],
+     [
+      64.77,
+      68.36
+     ],
+     [
+      68.36,
+      72.04
+     ]
+    ],
+    "measure_note": "SCHEDULE A, bound at p3 BEHIND Schedule B. --col recovery again: `rowbands.py <pdf> 3 --col 68,84` returns the SIXTEEN rules 18.21 .. 72.04 at a pitch of ~3.59, the printed 15-row grid. Column bands: Date / Name of Contributor / City and State / Amount / IN-KIND checkbox; the non-amount bands were measured off the page image and are provenance only. A REGISTRATION QUIRK WORTH RECORDING: on this blank the In-Kind checkboxes are printed about half a row HIGHER than the amount cells they belong to, so the two columns look misaligned; a 700 dpi crop of the whole Amount + In-Kind block (pct:60.0,17.0,28.0,28.0@p3) was read to map them, and each box tracks exactly one amount - empty, empty, X, X, X, X, empty - which is how rows 3-6 were assigned in-kind. PROOF at 900 dpi: the row-1 amount box pct:68.0,18.21,12.0,3.71@p3 rendered '$500.00' (recorded 500.00), the LAST transcribed row's box pct:68.0,35.96,12.0,3.56@p3 rendered '$50.00' (recorded 50.00, row 6), and the ONE-PAST control pct:68.0,39.52,12.0,3.55@p3 rendered an EMPTY cell."
+   }
+  },
+  "contributions": [
+   {
+    "line_no": "1",
+    "page": 3,
+    "row": 1,
+    "date": "4-13-22",
+    "donor_raw": "Republican Women Lead",
+    "donor_city": "Riverton",
+    "donor_state": "UT",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The county's black redaction bar covers the upper line of the cell - the filer wrote a street line even though this blank's column asks only for 'City and State' - and the city/state/zip line below the bar is published in the clear and is what city/state come from. Redacted-by-the-county, not left-empty-by-the-filer. In-Kind checkbox EMPTY."
+   },
+   {
+    "line_no": "2",
+    "page": 3,
+    "row": 2,
+    "date": "4-15-22",
+    "donor_raw": "Lydia Balderree",
+    "donor_city": "Venice",
+    "donor_state": "FL",
+    "amount": "100.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The county's black redaction bar covers the upper line of the cell - the filer wrote a street line even though this blank's column asks only for 'City and State' - and the city/state/zip line below the bar is published in the clear and is what city/state come from. Redacted-by-the-county, not left-empty-by-the-filer. In-Kind checkbox EMPTY. An out-of-state donor (Florida) sharing the candidate's surname; not adjudicated."
+   },
+   {
+    "line_no": "3",
+    "page": 3,
+    "row": 3,
+    "date": "4-15-22",
+    "donor_raw": "Casey Voeks",
+    "donor_city": "Spring",
+    "donor_state": "TX",
+    "amount": "50.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The county's black redaction bar covers the upper line of the cell - the filer wrote a street line even though this blank's column asks only for 'City and State' - and the city/state/zip line below the bar is published in the clear and is what city/state come from. Redacted-by-the-county, not left-empty-by-the-filer. IN-KIND: the checkbox at the right of this row is TICKED with an X. An out-of-state donor (Texas)."
+   },
+   {
+    "line_no": "4",
+    "page": 3,
+    "row": 4,
+    "donor_raw": "Marcus Jessop",
+    "donor_city": "Orem",
+    "donor_state": "UT",
+    "amount": "150.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "needs_review": 1,
+    "note": "The county's black redaction bar covers the upper line of the cell - the filer wrote a street line even though this blank's column asks only for 'City and State' - and the city/state/zip line below the bar is published in the clear and is what city/state come from. Redacted-by-the-county, not left-empty-by-the-filer. IN-KIND: checkbox TICKED. DATE NOT SETTLED: the cell reads '4 - [ink blot merged with a 4] - 22', so the day ends in 4 but could be 4, 14 or 24; it is left BLANK with needs_review rather than guessed, and no year or day was supplied from the report date or from any other filing."
+   },
+   {
+    "line_no": "5",
+    "page": 3,
+    "row": 5,
+    "date": "4-15-22",
+    "donor_raw": "Amelia Powers Gardner",
+    "donor_city": "Pleasant Grove",
+    "donor_state": "UT",
+    "amount": "800.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The county's black redaction bar covers the upper line of the cell - the filer wrote a street line even though this blank's column asks only for 'City and State' - and the city/state/zip line below the bar is published in the clear and is what city/state come from. Redacted-by-the-county, not left-empty-by-the-filer. IN-KIND: checkbox TICKED. THE FIGURE IS 800.00, NOT 200.00: the leading digit is the filer's looped 8 and a first full-page reading of '200.00' left the sheet 600.00 short of its own printed 1,650 subtotal; 800.00 closes it exactly, and arithmetic closure outranks glyph reading. The largest single item on the filing."
+   },
+   {
+    "line_no": "6",
+    "page": 3,
+    "row": 6,
+    "date": "3-20-22",
+    "donor_raw": "Kelly Allen",
+    "donor_city": "Saratoga Springs",
+    "donor_state": "UT",
+    "amount": "50.00",
+    "in_kind": true,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "The county's black redaction bar covers the upper line of the cell - the filer wrote a street line even though this blank's column asks only for 'City and State' - and the city/state/zip line below the bar is published in the clear and is what city/state come from. Redacted-by-the-county, not left-empty-by-the-filer. IN-KIND: checkbox TICKED. Last written row of Schedule A, whose printed subtotal is $1,650."
+   }
+  ],
+  "expenditures": [
+   {
+    "line_no": "1",
+    "page": 2,
+    "row": 1,
+    "date": "4-15-22",
+    "vendor_raw": "Jared Whitley",
+    "purpose": "Campaign Consulting",
+    "amount": "500.00",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "In-Kind checkbox EMPTY. First row of the filing's ONLY Schedule B sheet, which is bound at p2 AHEAD of Schedule A."
+   },
+   {
+    "line_no": "2",
+    "page": 2,
+    "row": 2,
+    "date": "4-6-22",
+    "vendor_raw": "PG Printers",
+    "purpose": "Campaign Stickers",
+    "amount": "255.37",
+    "in_kind": false,
+    "confidence": "medium",
+    "verified": 1,
+    "note": "In-Kind checkbox EMPTY. Same vendor as the filer's earlier 2022 report; each transcribed on its own document only."
+   }
+  ],
+  "notes": "HEIDI BALDERREE, 2022, her SECOND report of the cycle and an AMENDMENT. FIVE pages, each classified from its own printed header: p1 cover, p2 'Schedule B - Itemized Expenditures Made', p3 'Schedule A - Itemized Contributions Received', p4 'Summary Page', p5 the CHECKLIST DECOY. *** THE SCHEDULES ARE BOUND IN REVERSE ORDER - SCHEDULE B BEFORE SCHEDULE A *** the addendum-F3 'summit-swapped-pages' class occurring in utah 2022. A page-ordinal assumption would have swapped the two sides wholesale. *** THE SAME FILER USED TWO DIFFERENT BLANKS SIX WEEKS APART *** her 4-2-22 report (key ef961762) is on the v. 4.20 stock; this 5-9-22 report is on the NEWER 2022 blank - no printed version string in the footer, SIX report types including 'End-of-Year Report', square checkboxes instead of radio circles, a correctly-headed 'Affirmation' block, a 'Date of Filing' box in place of the 'Date of Report / Page' box, and schedules with FIVE columns whose last is an IN-KIND CHECKBOX and whose address column asks only for 'City and State'. That is the addendum-G4 'a filer's previous filing predicts nothing about his next' property, in the modern era. THE CHECKLIST DECOY IS BOUND IN AT p5, and it is a NEWER REVISION than the one in her April filing: the top-right box offers only 'Website' and 'Network' (the 'HOLD' line is gone) and the two staff blocks are both labelled plain 'Staff Signature' rather than '#1' and '#2'. It recites every summary-page label and carries ZERO dollar figures; both review copies are dated 5/18/2022, one in blue and one in red. Not a summary page. THE SUMMARY PAGE IS p4 and its close box is LETTERED 'G' on this blank (the v. 4.20 stock leaves it unlettered) - the same lettering seen on the other newer-blank 2022 filing in this chunk. AMENDMENT: 'Yes, Date of Original Report' is ticked with the handwritten date 4-15-22 (and the 'No' box is empty), while the report-type radio filled is '30 Days after withdrawal or elimination'. The report it amends is dated 4-15-22, which is NOT the 4-2-22 filing also in this chunk; recorded as printed and not adjudicated. The cover's 'Date of Filing' box is EMPTY. OFFICE IS GENUINELY UNSTATED: the cover's Office cell is empty and the county's redaction bar sits on the Address row above it, not on the Office cell. Nothing was inferred. Page-face candidate 'Heidi Balderree' agrees with the channel label. Signature blacked out by the county; the Date box beside it reads 5-9-22, matching every Date of Report box. OBSERVATION ONLY, NOTHING RESTS ON IT: Box A here prints $985.62, which is also what her April report printed as its closing balance. No figure in this record was differenced across the two filings, and no field was filled from the other document. PRIVACY: this filing is redacted upstream - a black bar over the street line in every Schedule A address cell, even though this blank's column asks only for city and state - and the city/state/zip line below each bar is published in the clear. No street line reached this record. Columns were assigned by CONTENT as well as position (field-shift screen): no inversion on either sheet, and the In-Kind checkbox column was mapped by crop rather than by position because this blank prints it about half a row high. All six row-index traps screened on both sheets: the first written entry is band 1 on each (crop-proved), no continuation line, no voided row, no banner line, nothing below the last printed rule (neither grid is full, and the one-past control rendered empty on both), and no doubled band. Both sides close to the cent."
+ }
+]

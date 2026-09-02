@@ -3,7 +3,10 @@
  "key": "790a6019",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-02T00:28:00Z",
- "pages_read": [1, 3],
+ "pages_read": [
+  1,
+  3
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "v. 4.20",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -52,5 +55,98 @@
    "notes": "NEITHER amendment radio (No / Yes) is filled, so is_amendment is '' rather than assumed 'No'. Thousands separators are inconsistent on the filer's own page and are kept verbatim: Box C prints '53,396.62' with a comma while Box E prints '53299.33' without one; A, B, D, F and the close box carry no comma either. Not redacted: address prints '718 E 1050 S, Spanish Fork, UT 84660'; only residence_city recorded. The close box (97.29) carries forward exactly to Box A of the filer's 30-days-after-general report (key 0fcfc066). Minor scan artifact: the 'Seven days preceding the Primary Election' radio renders as a clipped arc rather than a clean empty circle - the only SOLID-filled radio is 'Seven days preceding the General Election'. Footer 'v. 4.20'; the 'Page' boxes are left blank on both pages read."
   }
  ],
- "notes": "index.csv variant_guess was legacy_colAB; the filing is the modern Box A-F form, v. 4.20."
+ "notes": "index.csv variant_guess was legacy_colAB; the filing is the modern Box A-F form, v. 4.20.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "donor_raw": "David Flinders MD",
+   "amount": "100",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:46.0,37.60,12.0,2.10@p2",
+   "note": "HAND-MEASURED GEOMETRY (there is no printed grid on this sheet): the amount column band was measured with rowbands.py --text-lines --col 44,62, which returned text bands at 38.05 and 40.09 pct for the two contribution figures; the stored box was crop-proved and rendered '100'. The filer's own ledger has NO DATE COLUMN AND NO ADDRESS COLUMN AT ALL, so the date is honestly absent (needs_review=1 \u2014 a date is NEVER filled in from the report date) and donor_city/donor_state are blank because THE FIELD DOES NOT EXIST on this document, which is a different fact from a redacted or a filer-left-empty address."
+  },
+  {
+   "line_no": "2",
+   "donor_raw": "UCAOR",
+   "amount": "2500",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:46.0,39.65,12.0,2.10@p2",
+   "note": "crop rendered '2500'. Donor written as the bare acronym 'UCAOR', kept verbatim and NOT expanded. No date and no address field on this ledger (see row 1); amount printed as a whole number with no decimal point, which the section total 2600 confirms."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "vendor_raw": "Brandon Gordon",
+   "purpose": "Reimbursement",
+   "amount": "2200",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:46.0,14.30,12.0,2.10@p2",
+   "note": "A CONTINUATION LINE: the entry occupies TWO printed lines \u2014 'Brandon Gordon' on line 1 with no figure, 'Reimbursement' on line 2 carrying the amount 2200 \u2014 so `row` follows the AMOUNT (line 2), and the fields are assigned by CONTENT, not position: the person is the payee (the candidate reimbursing himself) and 'Reimbursement' is the purpose. The two-entry total 4600 printed below is what proves this is one entry and not two. Crop rendered '2200'. No date column exists on this ledger (needs_review=1)."
+  },
+  {
+   "line_no": "2",
+   "vendor_raw": "BCR Political",
+   "amount": "2400",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "medium",
+   "verified": 1,
+   "geometry": "pct:46.0,16.35,12.0,2.10@p2",
+   "note": "single-line entry on printed line 3; crop rendered '2400'. The ledger prints NO purpose for this line \u2014 honestly blank, the field is simply not filled \u2014 and no date column exists (needs_review=1)."
+  }
+ ],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r10_02)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2,
+    3
+   ],
+   "itemized_pages_A": "2",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "result": "exact",
+     "anchor": "Box B 'Contributions Received this Period' = 2600.00 on the p3 Summary Page, equal to the filer's own printed total under his 'Contributions' heading on p2 (2600)",
+     "detail": "The 2 contribution lines of the filer's own typed ledger sum to 100 + 2500 = 2600 exactly = the 2600 he prints below them = the promoted PER-PERIOD cell Box B (2600.00). A crop of the whole strip between the last entry and that 2600 renders BLANK, so 2600 is the section's own total and not a third entry (the \u00a7H4 in-grid-subtotal test, applied to a gridless ledger). Box C 'Contributions Received Year to Date' prints 53,396.62 and is CUMULATIVE \u2014 never summed as an increment; it carries the whole cycle, which this seven-days-pre-General report does not itemize. The summary ladder also closes on its own terms: A 2097.29 + B 2600.00 = F 4697.29, and F - D = 97.29 = the printed Balance at Close."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Box D 'Expenditures Made this Period' = 4600.00 on the p3 Summary Page, equal to the filer's own printed total under his 'Expenditures' heading on p2 (4600)",
+     "detail": "The 2 expenditure entries sum to 2200 + 2400 = 4600 exactly = the 4600 printed below them = the promoted PER-PERIOD cell Box D (4600.00). The first entry's payee WRAPS ONTO TWO PRINTED LINES ('Brandon Gordon' on line 1, 'Reimbursement' on line 2) with the amount 2200 on the second line \u2014 the documented continuation-line trap; the amount was followed, so it is ONE entry, not two, and reading it as two would have produced three entries against a two-entry total. The strip between the last entry and the printed 4600 renders BLANK, so 4600 is the total, not an entry. Box E (YTD) prints 53299.33 and is never summed as an increment."
+    }
+   },
+   "in_kind_convention": "monetary-only closed on both sides, and both conventions were tested. The filer substituted his OWN typed ledger for the county's Schedule A/B, and it carries no in-kind column, no in-kind marking on any line, and no in-kind line on the summary page; there is also no offsetting contribution/expenditure pair of equal amount. Monetary-only gives 2600 = Box B and 4600 = Box D exactly, so the monetary-plus-in-kind reading adds nothing and both conventions agree.",
+   "escalations": 6,
+   "escalation_note": "6 crops at 600 dpi, all named 790a6019_*: the four entry amounts (rendering 2200, 2400, 100, 2500 \u2014 each the figure recorded) plus two TALL control strips, one per section, covering everything between the section's last entry and its printed total. Both strips rendered BLANK white down to the total itself (4600 / 2600). Because the filer's sheet has NO PRINTED GRID, those strips are how the invisible-row traps were ruled out on this page: there is no row below the last entry (\u00a7F1.5), no doubled band (\u00a7H3), and the trailing figure in each section is the section's own total, not an entry (\u00a7H4).",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 2,
+   "geometry": {
+    "measured": 0,
+    "explicit": 4,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "A 3-PAGE FILING WITH NO COUNTY SCHEDULE A/B SHEET AT ALL, and that is NOT a `no-schedule-page` state: p1 COVER (v. 4.20, 'Financial Campaign Report for County and Local School Board Candidates', Office box prints 'Utah County Commission Seat B', report type radio filled = 'Seven days preceding the General Election', signed and dated 'Nov 1, 2022'), p2 THE FILER'S OWN TYPED PORTRAIT LEDGER carrying BOTH sides on one sheet under his own headings 'Expenditures' and 'Contributions', each with its own printed total, p3 SUMMARY PAGE (boxes A/B/C/D/E/F + an UNLETTERED 'Balance at Close of Reporting Period (Box F - Box D)' \u2014 the v. 4.20 signature). What is missing is the county's FORM, not the filer's entries, so both sides are `transcribed` (the \u00a7E5 portrait analogue of the landscape own-ledger case). pdfinfo counts 3 pages and the filing is complete as filed: the cover's Page box is left BLANK, so this document is unfoliated and no sheet can be shown missing. NO CHECKLIST is bound to this filing \u2014 two of the four Gordon/Gray November filings in this chunk carry none. THE AMENDMENT QUESTION IS WHOLLY UNANSWERED \u2014 neither the No nor the Yes radio is filled \u2014 which is an honest blank and is never read as 'No'; note the first radio of the report-type list ('Seven days preceding the Primary Election') carries a broken crescent mark that is part of the printed circle, while the filled solid dot sits on 'Seven days preceding the General Election'. THE FILER'S OWN THOUSANDS SEPARATORS ARE INCONSISTENT ON ONE PAGE and were kept verbatim: Box C prints '53,396.62' with a comma while Box E prints '53299.33' without one. THE LEDGER PRINTS WHOLE DOLLARS WITH NO DECIMAL POINT (2200 / 2400 / 100 / 2500 and the totals 4600 / 2600) while the summary boxes print cents \u2014 the two agree exactly, so nothing is ambiguous here (this is NOT the \u00a7C6 'no decimal separator' case, where two digit groups compete). PRIVACY: this filing is NOT named `_Redacted` and the county published the candidate's own street address and phone in the clear on the cover \u2014 neither is carried into this record, per the standing rule, and a filename is never evidence of redaction either way. There are NO donor addresses to redact because the filer's ledger has no address field. PAGE-FACE NAME 'Brandon Gordon' matches index.csv; page-face office 'Utah County Commission Seat B'. The module's standing note that 'Gordon's close box has the wrong sign' does NOT describe this filing \u2014 here A + B = F (2097.29 + 2600.00 = 4697.29) and F - D = 97.29 both close exactly; that observation belongs to another Gordon filing and was not carried over."
+  }
+ }
 }

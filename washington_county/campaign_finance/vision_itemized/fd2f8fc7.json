@@ -1,0 +1,110 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/washington/chunk_W15.json",
+ "key": "fd2f8fc7",
+ "index_path": "raw/live_outpost/06-12-2024-Gary L_06-13-2024. Christensen-Recorder.pdf",
+ "applies_to": [
+  "raw/live_outpost/06-12-2024-Gary L_06-13-2024. Christensen-Recorder.pdf"
+ ],
+ "sha256_prefix": "3f5c221f28d0d69b",
+ "pages_read": [
+  1,
+  2,
+  3
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "county-grid",
+  "expenditures": "county-grid"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "0",
+    "cover_over50_this": "640.2",
+    "cover_over50_cum": "640.2",
+    "cover_le50_last": "0",
+    "cover_le50_this": "0",
+    "cover_le50_cum": "0",
+    "schedule_total": ""
+   },
+   "itemized": "640.20",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "Generation-2 county-branded form. Form A holds exactly one inked row, $640.20. The printed TOTAL CONTRIBUTIONS footer cell EXISTS but the filer left it BLANK (anchor \"\"), verified empty in a 1200 dpi crop, so the cover is the only usable anchor. Cover line 1 reads 0 + 640.2 = 640.2: the THIS and CUMULATIVE cells are equal because this is the filer's first (and only) report of the 2024 cycle, so the two scopes coincide; recorded as cumulative. Line 2 (the $50-or-less aggregate) is 0 in all three cells, so line1+line2 happens to equal line 1 here, but line 1 alone is what was scored on per the addendum."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "0",
+    "cover_expense_this": "640.2",
+    "cover_expense_cum": "640.2",
+    "schedule_total": ""
+   },
+   "itemized": "640.20",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "One inked row, $640.20 (Washington County / Filing Fee). Printed TOTAL EXPENDITURES footer cell exists and was left BLANK by the filer. Cover line 3 reads 0 + 640.2 = 640.2; first report of the cycle so THIS and CUMULATIVE coincide."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "p2: rows sum 640.20; printed TOTAL CONTRIBUTIONS cell verified EMPTY (filer left it blank) — gate run against cover line 1 (640.2), closes exactly. p3: rows sum 640.20; printed TOTAL EXPENDITURES cell likewise EMPTY — gate run against cover line 3 (640.2), closes exactly.",
+  "row_count": "rowbands.py p2: geometry ok, 21 bands = 20 ruled data rows + 1 footer TOTAL row; exactly 1 band inked (band 1, y 26.68) = 1 row emitted. rowbands.py p3: geometry ok, 21 bands = 20 data + 1 TOTAL row; exactly 1 band inked (band 1, y 26.23) = 1 row emitted. Bands 2-20 on both pages read empty on the 200 dpi full-page read.",
+  "geometry_proof": "p2: crop of the row-1 amount box (pct 66.06,26.68,17.00,3.11) at 1200 dpi renders '$640.20'; control crop one row-pitch below (y 29.80) renders EMPTY. p3: crop of the row-1 amount box (pct 66.44,26.23,25.32,3.09) at 1200 dpi renders '$640.20'; control one pitch below (y 29.32) renders EMPTY. Only one row per side, so the first-row and last-row crops are the same crop.",
+  "balance_chain": "Cover line 4 (balance at end of period) prints 0 / 0 / 0. 0 + 640.2 - 640.2 = 0 — closes exactly. This filer has no earlier filing in this chunk, so no cross-filing TOTALS-FROM-LAST-REPORT chain could be run."
+ },
+ "escalations": 4,
+ "escalation_note": "1200 dpi cell crops of the p2 and p3 row-1 amount cells plus their one-pitch-below controls; 600 dpi full-width row-band strips of both row 1s to confirm column assignment.",
+ "notes": "index.csv calls the candidate 'Gary L Christensen' and the office 'Recorder'; the cover's 'Full name of Candidate' reads Gary L Christensen and 'Candidate for Office Of' reads Recorder — AGREES. County row office, IN SCOPE. Form generation 2 (WASHINGTON COUNTY UTAH logo, 'Campaign Financial Disclosure Per Title 1 Chapter 7 of Washington County Code of Ordinances'), entries TYPED, not handwritten. Reporting period printed Beginning 2-Jan-24 / Ending 14-Jun-24; signature date 6/14/24; clerk RECEIVED stamp JUN 14 2024. CONTRADICTION WITH THE CHUNK FILE: the index_path embeds '06-12-2024' and '06-13-2024'; neither date appears anywhere in the document — the filename is mangled and is not evidence of a report date. Cover cells are typed '640.2' (no trailing zero) while both schedules print '$640.20'; each retained verbatim in its own field. The candidate's street address, ZIP, home phone and personal email are printed in the clear on the cover, and a street address + ZIP in the Form A address cell; all discarded at read time per §5, city/state only retained. Layout twin of the brief's illustration filing (Tom Durrant / Assessor, same cycle, same $640.20 filing fee) but a DIFFERENT candidate and a different document — not a duplicate and not a cross-channel re-post of anything else in this chunk.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "donor_raw": "Self/Gary L Christensen",
+   "donor_city": "St George",
+   "donor_state": "UT",
+   "amount": "640.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;amount=high;in_kind=high",
+   "verified": 1,
+   "geometry": "pct:66.06,26.68,17.00,3.11@p2",
+   "note": "Typed row. Date printed '2-Jan-24'. The 'In Kind? Y/N' column is answered 'N' -> in_kind false. Street address and ZIP discarded at read time (privacy); city/state only."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2024-01-02",
+   "vendor_raw": "Washington County",
+   "purpose": "Filing Fee",
+   "amount": "640.20",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:66.44,26.23,25.32,3.09@p3",
+   "note": "Typed row. Date printed '2-Jan-24'. Form B on this generation has NO in-kind column, so in_kind is false by absence of the field, not by a filer answer."
+  }
+ ]
+}

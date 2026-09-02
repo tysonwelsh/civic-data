@@ -1,0 +1,188 @@
+{
+ "contributions": [
+  {
+   "line_no": 1,
+   "date": "2018-02-23",
+   "donor_raw": "ROBERT SAMPSON",
+   "occupation": "POLICY ANALYST. SL.CO. COUNCIL / JIM BRADLEY",
+   "amount": "1500.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;occupation=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:7.47,22.24,89.06,4.09@p3",
+   "note": "address block redacted at source (county black bar) - city/state blank for that reason, not left empty by the filer. Amount written as '1500' with a raised '00' over a rule -> 1500.00 (superscript-cents convention). Occupation cell verbatim; the filer wrote it across two lines with a slash."
+  },
+  {
+   "line_no": 2,
+   "date": "2018-03-06",
+   "donor_raw": "RICHARD ROMANO",
+   "occupation": "PRINCIPLE - HOPKINS, ROMANO & COLLARD",
+   "amount": "1,000",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=high;occupation=medium;amount=medium",
+   "verified": 1,
+   "geometry": "pct:7.47,26.33,89.06,4.09@p3",
+   "note": "address block redacted at source. Amount written '1,000' with a horizontal no-cents rule drawn through the trailing zeros (the '1000-' convention) -> $1,000.00; kept verbatim as '1,000'. Independently confirmed by the printed TOTAL 2500.00 less row 1's 1500.00. Occupation spelled 'PRINCIPLE' by the filer, kept verbatim."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": 1,
+   "date": "2018-01-02",
+   "vendor_raw": "CHEERS & SWIZZLES - /NPOL. /FUNDRAISER",
+   "purpose": "POLITICAL FUNDRAISER COST",
+   "amount": "105.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=low;purpose=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.13,23.72,80.82,4.09@p4",
+   "note": "date printed '1-2-18'. Recipient cell: 'CHEERS & SWIZZLES' is clear; the trailing annotation is faint and written across two lines, best-read '- /NPOL. /FUNDRAISER' - kept verbatim at low cell confidence rather than smoothed into a plausible phrase. Amount written '105' with a raised '00' over a rule -> 105.00."
+  },
+  {
+   "line_no": 2,
+   "date": "2018-03-09",
+   "vendor_raw": "SL Co. CLERK",
+   "purpose": "FILING FEE",
+   "amount": "340.98",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.13,27.81,80.82,4.09@p4",
+   "note": "date printed '3-9-18'. Amount written '340' with a raised '98' over a rule -> 340.98; confirmed by the page's rows summing to the printed TOTAL 810.98."
+  },
+  {
+   "line_no": 3,
+   "date": "2018-03-26",
+   "vendor_raw": "SL Co. DEMO. Party",
+   "purpose": "CONVENTION COSTS",
+   "amount": "265.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.13,31.90,80.82,4.14@p4",
+   "note": "date printed '3-26-18'. Recipient best-read 'SL Co. DEMO. Party' (a trailing loop on 'DEM' makes DEMO/DEM. ambiguous) - kept as written at medium confidence. Amount '265' with a raised '00' over a rule -> 265.00."
+  },
+  {
+   "line_no": 4,
+   "date": "2018-01-02",
+   "vendor_raw": "SLCo. Dem. Party",
+   "purpose": "Donation",
+   "amount": "100.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;vendor=high;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:11.13,36.04,80.82,4.14@p4",
+   "note": "date printed '1-02-18'. This row is written in a markedly darker, heavier pen than rows 1-3 and is out of chronological order (a January entry sitting below a March one) - it reads as a later addition to the same page. Kept in PRINTED order; nothing re-sorted. It is nonetheless inside the printed TOTAL: the four rows sum to 810.98 exactly."
+  }
+ ],
+ "total_contributions": "2500.00",
+ "total_expenditures": "810.98",
+ "beginning_balance": "8935.21",
+ "ending_balance": "10.624.23",
+ "aggregate": {
+  "total_contributions_to_date": "20,610.2",
+  "total_expenditures_to_date": "9985.98",
+  "line5_subtotal": "11,435.21"
+ },
+ "cover": {
+  "candidate": "JIM BRADLEY",
+  "party": "DEM",
+  "office_sought": "COUNCIL AT-LARGE C",
+  "district_number": "",
+  "report_type": "April 5",
+  "is_amendment": "",
+  "amendment_of": "",
+  "report_date": "4-3-18",
+  "form_year": "2018"
+ },
+ "confidence": {
+  "total_contributions": "high",
+  "total_expenditures": "high",
+  "beginning_balance": "high",
+  "ending_balance": "medium",
+  "total_contributions_to_date": "low",
+  "total_expenditures_to_date": "medium",
+  "line5_subtotal": "high"
+ },
+ "_meta": {
+  "index_path": "raw/globalassets/2018_disclosures__april__jim-bradley.pdf",
+  "era": "globalassets_2015_2021",
+  "tranche": "stated-totals (cover + Summary Page); itemization deferred",
+  "candidate": "JIM BRADLEY",
+  "office": "County Council",
+  "election_year": "2018",
+  "source_pdf": "raw/globalassets/2018_disclosures__april__jim-bradley.pdf",
+  "pages_read": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "render": "pdftoppm -jpeg -r 150",
+  "summary_page_found": true,
+  "transcription_method": "read-tool-vision (Claude Code allotment, $0 API)",
+  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 wave W1 paper slice)",
+  "transcribed_date": "2026-08-23",
+  "notes": "FLAG CONFIRMED (both halves of the chunk-file flag are real). (1) The clerk's RECEIVED IN OFFICE stamp reads APR 0 2 2018 while the Report Verification signature is dated 4-3-18 - the stamp PREDATES the signature by one day. Both recorded verbatim; nothing resolved. (2) The Summary Page's Column B is struck through and rewritten by hand on BOTH money lines, and line 7 of Column A is struck and rewritten as well. Per the clerk-legacy rule the handwritten correction governs the value and the struck figure is kept verbatim here: line 1 Column B struck figure best-read '17,455.2?' (heavily crossed, not confidently legible) rewritten '20,610.2'; line 2 Column B struck figure best-read '9885.98' rewritten '9985.98'; line 7 Column A struck '10.724.23' rewritten '10.624.23'. Nothing was reconciled silently. (3) total_contributions_to_date is recorded as the partial '20,610.2': the cell's final glyph sits ON the table's right-hand vertical rule and a possible trailing digit cannot be separated from the rule even at 1200dpi, so the value is left PARTIAL at low confidence rather than completed (per the superscript-runs-off-the-cell convention). (4) ending_balance is recorded verbatim as '10.624.23' - the filer's thousands separator on this line is a round dot indistinguishable from his decimal point (he uses a clear tailed comma on line 5 '11,435.21' and on line 1 Column B). The arithmetic 11,435.21 - 810.98 = 10,624.23 settles the VALUE as $10,624.23; the verbatim string is kept as printed and the shared whitelisted repair should read it as such. (5) Cover 'Is this report an amendment?' has NEITHER the Yes nor the No box checked - is_amendment is honestly blank, not 'No'. (6) The top-row Office box reads 'SLCo. COUNCIL AT-LARGE C' and the separate Office Sought box reads 'COUNCIL AT-LARGE C'; office_sought takes the Office Sought box. Both agree with index.csv (JIM BRADLEY / County Council / At-Large C, 2018-04-03, April 5). (7) The chunk file records schedule_a as 'not-inspected (the Schedule A page was not among the pages read)'; it EXISTS - p3 is a county-grid Schedule A with two filled rows. (8) Schedule A's Complete Mailing Address column is covered by the county's black bar on both rows: donor_city/donor_state are blank as 'redacted at source', NOT left empty by the filer - different facts. Occupation/Employer survives the bar on both rows and is captured verbatim.",
+  "itemized": {
+   "wave": "W1 2015-2021 paper slice (2026-08-23)",
+   "transcribed_date": "2026-08-23",
+   "pages_read": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "itemized_pages_A": "3",
+   "itemized_pages_B": "4",
+   "sides": {
+    "contributions": "transcribed",
+    "expenditures": "transcribed"
+   },
+   "withheld_reason": {},
+   "recon": {
+    "contributions": {
+     "stated": "2500.00",
+     "schedule_total": "2500.00",
+     "itemized": "2500.00",
+     "basis": "summary-line-1",
+     "result": "exact",
+     "detail": "rows 1500.00 + 1,000 = 2500.00 = Schedule A printed TOTAL CONTRIBUTIONS RECEIVED 2500.00 = Summary Page line 1 Column A 2500.00. SUBTOTAL FOR THIS PAGE is pre-printed but the filer left it BLANK, so the page-subtotal gate is unavailable and the schedule grand total is the gate used."
+    },
+    "expenditures": {
+     "stated": "810.98",
+     "schedule_total": "810.98",
+     "itemized": "810.98",
+     "basis": "summary-line-2",
+     "result": "exact",
+     "detail": "rows 105.00 + 340.98 + 265.00 + 100.00 = 810.98 = Schedule B printed TOTAL EXPENDITUTRES MADE [sic] 810.98 = Summary Page line 2 Column A 810.98. SUBTOTAL FOR THIS PAGE again printed and left BLANK."
+    }
+   },
+   "page_subtotal_gates": "p3 SUBTOTAL FOR THIS PAGE printed but LEFT BLANK by the filer - gated on the schedule grand total instead (rows 2500.00 = printed TOTAL 2500.00). p4 identical: subtotal blank, rows 810.98 = printed TOTAL 810.98.",
+   "escalations": 10,
+   "escalation_note": "10 tight cell crops, all on the handwritten Bradley form: p2 Column B line 1 (x3, incl. one at the cell's right-hand rule to test for a clipped final digit), p2 Column B line 2 (x2, struck + rewritten), p2 line 7 Column A, p1 amendment checkbox pair at 600dpi, p3 date/name columns and occupation/amount columns at 1200dpi, p4 recipient/purpose at 600dpi and the amount column at 1200dpi. Full-page 200 dpi first read on all four pages; no crop was used before the full page.",
+   "n_contrib_rows": 2,
+   "n_expend_rows": 4,
+   "geometry": {
+    "converted": 0,
+    "clamped": 0,
+    "unparsed": 0,
+    "no_pagesize": 0,
+    "provenance": ""
+   },
+   "notes": "FLAG CONFIRMED (both halves of the chunk-file flag are real). (1) The clerk's RECEIVED IN OFFICE stamp reads APR 0 2 2018 while the Report Verification signature is dated 4-3-18 - the stamp PREDATES the signature by one day. Both recorded verbatim; nothing resolved. (2) The Summary Page's Column B is struck through and rewritten by hand on BOTH money lines, and line 7 of Column A is struck and rewritten as well. Per the clerk-legacy rule the handwritten correction governs the value and the struck figure is kept verbatim here: line 1 Column B struck figure best-read '17,455.2?' (heavily crossed, not confidently legible) rewritten '20,610.2'; line 2 Column B struck figure best-read '9885.98' rewritten '9985.98'; line 7 Column A struck '10.724.23' rewritten '10.624.23'. Nothing was reconciled silently. (3) total_contributions_to_date is recorded as the partial '20,610.2': the cell's final glyph sits ON the table's right-hand vertical rule and a possible trailing digit cannot be separated from the rule even at 1200dpi, so the value is left PARTIAL at low confidence rather than completed (per the superscript-runs-off-the-cell convention). (4) ending_balance is recorded verbatim as '10.624.23' - the filer's thousands separator on this line is a round dot indistinguishable from his decimal point (he uses a clear tailed comma on line 5 '11,435.21' and on line 1 Column B). The arithmetic 11,435.21 - 810.98 = 10,624.23 settles the VALUE as $10,624.23; the verbatim string is kept as printed and the shared whitelisted repair should read it as such. (5) Cover 'Is this report an amendment?' has NEITHER the Yes nor the No box checked - is_amendment is honestly blank, not 'No'. (6) The top-row Office box reads 'SLCo. COUNCIL AT-LARGE C' and the separate Office Sought box reads 'COUNCIL AT-LARGE C'; office_sought takes the Office Sought box. Both agree with index.csv (JIM BRADLEY / County Council / At-Large C, 2018-04-03, April 5). (7) The chunk file records schedule_a as 'not-inspected (the Schedule A page was not among the pages read)'; it EXISTS - p3 is a county-grid Schedule A with two filled rows. (8) Schedule A's Complete Mailing Address column is covered by the county's black bar on both rows: donor_city/donor_state are blank as 'redacted at source', NOT left empty by the filer - different facts. Occupation/Employer survives the bar on both rows and is captured verbatim."
+  }
+ }
+}

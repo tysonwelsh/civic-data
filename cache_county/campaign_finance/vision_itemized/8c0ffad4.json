@@ -1,0 +1,81 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C10.json",
+ "key": "8c0ffad4",
+ "index_path": "raw/2014/2014_cc_White_Dec_4_2014_campaign_finance.pdf",
+ "applies_to": [
+  "raw/2014/2014_cc_White_Dec_4_2014_campaign_finance.pdf"
+ ],
+ "sha256_prefix": "b20912b648edec57",
+ "pages_read": [
+  1
+ ],
+ "page_map": {
+  "1": "cover"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "none",
+  "expenditures": "none"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "",
+    "cover_over50_cum": "0",
+    "cover_le50_last": "",
+    "cover_le50_this": "",
+    "cover_le50_cum": "0",
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "0",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "none - the Form A page is not in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "One-page PDF: the Carr 5-5-PG cover only; page 2 (Form A) is absent from the scan, so 'none', not a transcribed zero. The cover itself is a NIL report - the filer entered a zero glyph on all four lines of the CUMULATIVE REPORT column and left the LAST REPORT and THIS REPORT columns entirely blank - so there would have been nothing to itemize."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "",
+    "cover_expense_cum": "0",
+    "cover_over50_cum": "0",
+    "cover_balance_end": "0",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": null,
+   "basis": "none - the Form B page is not in this document",
+   "result": "unknown",
+   "scope": "unknown",
+   "detail": "Page 3 (Form B) is absent from this one-page scan. The cover reports 0 campaign expenses cumulatively, so nothing is unaccounted for, but the classification is 'none' (schedule absent), not a transcribed zero."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "Not applicable - no schedule page in this document; the Carr form prints no schedule totals in any case.",
+  "row_count": "Not applicable - no ruled schedule page in this document.",
+  "geometry_proof": "Not applicable - zero rows emitted.",
+  "balance_chain": "Trivially closes: every filled cover cell is a zero glyph (0 + 0 - 0 = 0 on line 4). Only the CUMULATIVE column is filled; LAST REPORT and THIS REPORT are blank on all four lines, and blanks are recorded as '' (cell exists, filer left it empty), never as 0."
+ },
+ "escalations": 1,
+ "escalation_note": "600 dpi crop of the cover totals block to confirm that the LAST and THIS columns are genuinely blank and that the four CUMULATIVE marks are zero glyphs rather than an illegible numeral. They are cursive zeros - per the repo-wide zero-glyph ruling they are 0, with the glyph noted.",
+ "notes": "index.csv calls the office County Council; the cover's 'Name of Office' line reads 'County Council' (Office District left blank) - agrees. Candidate on the form is 'Barnard Jon White', signed 'Jon White' (index: White) - agrees. Cover date 'Nov 24 - 14'; clerk stamp 'RCVD 25 NOV 2014'. Political party 'Rep'. THE DOCUMENT IS A ONE-PAGE SCAN: cover only, no Form A, no Form B, no statute page - hence both sides 'none'. This is a NIL filing (all four cumulative lines zero), so no itemisation is missing in substance.",
+ "contributions": [],
+ "expenditures": []
+}

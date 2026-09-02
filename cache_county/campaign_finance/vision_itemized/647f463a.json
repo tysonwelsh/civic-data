@@ -1,0 +1,146 @@
+{
+ "schema": "cf_vision_itemized_v1",
+ "wave": "Phase B final wave -- cache + washington (2026-08-23)",
+ "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-23 Phase-B final wave)",
+ "method": "pdftoppm full-page render + Read tool (Claude Code allotment; no Anthropic API)",
+ "written_utc": "2026-08-24T04:21:14Z",
+ "source_record": "records/cache/chunk_C05.json",
+ "key": "647f463a",
+ "index_path": "raw/2012/2012_cc_C_Yeates_finance_campaign_12_6_12.pdf",
+ "applies_to": [
+  "raw/2012/2012_cc_C_Yeates_finance_campaign_12_6_12.pdf",
+  "raw/2012/2012_st_Cory_Yeates_12_4_12_General.pdf"
+ ],
+ "sha256_prefix": "cb3d4768b05dd0d0",
+ "pages_read": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "page_map": {
+  "1": "cover",
+  "2": "form-A",
+  "3": "form-B",
+  "4": "statute-page"
+ },
+ "n_reports_in_pdf": 1,
+ "sides": {
+  "contributions": "transcribed",
+  "expenditures": "transcribed"
+ },
+ "withheld_reason": {},
+ "shape": {
+  "contributions": "carr_5_5_pg",
+  "expenditures": "carr_5_5_pg"
+ },
+ "recon": {
+  "contributions": {
+   "anchors": {
+    "cover_over50_last": "",
+    "cover_over50_this": "700.00",
+    "cover_over50_cum": "700.00",
+    "cover_le50_this": "125",
+    "cover_le50_cum": "125",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "700.00",
+   "basis": "cover-line1-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "THE TWO SCHEDULES ARE SWAPPED IN THIS DOCUMENT (see notes). The CONTRIBUTION rows are written on PDF page 3, which is the sheet printed 'ITEMIZED EXPENDITURE REPORT (Form B)'. Those two rows sum 200.00 + 500.00 = 700.00, exactly equal to cover line 1 THIS (700.00) and CUMULATIVE (700.00). The assignment is proved by ARITHMETIC, not by the sheet heading: the page-3 rows close on the contributions line and the page-2 rows close on the expenses line, and no other pairing closes at all. Three independent corroborations: the page-3 rows carry donor ADDRESSES in the column the Form B sheet labels 'Purpose of Expenditure'; the two payees are a trust and a party committee; and the same two entries appear as contributions on the same filer's 2012-10-30 report (key 0b60edfa, transcribed elsewhere in this chunk). SUB-$50 TRAP GUARD APPLIED: cover line 2 carries a separate 125 aggregate of $50-or-less contributions that is never itemized; Form A was scored against LINE 1 ONLY, not line1+line2 (=825). THIS and CUMULATIVE are equal on every line and TOTALS FROM LAST REPORT is entirely blank, so the scopes coincide -> cumulative. Carr form prints no schedule total (null by form design)."
+  },
+  "expenditures": {
+   "anchors": {
+    "cover_expense_last": "",
+    "cover_expense_this": "1239.00",
+    "cover_expense_cum": "1239",
+    "cover_balance_end": "-414",
+    "schedule_total": null,
+    "page_subtotal": null
+   },
+   "itemized": "1239.00",
+   "basis": "cover-line3-cumulative",
+   "result": "exact",
+   "scope": "cumulative",
+   "detail": "The EXPENDITURE rows are written on PDF page 2, which is the sheet printed 'ITEMIZED CONTRIBUTION REPORT (Form A)'. They sum 1128.00 + 111.00 = 1239.00, exactly equal to cover line 3 THIS (written '1239' with superscript cents) and CUMULATIVE (written '1239' with a trailing dash for no cents). Corroboration beyond the arithmetic: the page-2 rows carry PURPOSES ('Mailer', 'Flyers') in the column the Form A sheet labels 'Mailing Address & Zip Code', and the payees are printers. THIS equals CUMULATIVE and TOTALS FROM LAST REPORT is blank -> cumulative."
+  }
+ },
+ "recon_by_report": [],
+ "gates": {
+  "page_subtotal": "No printed schedule or page subtotal on the Carr sheets (form design), so both sides were gated against the cover: PDF p3 rows 200.00 + 500.00 = 700.00 = cover line 1 THIS/CUM; PDF p2 rows 1128.00 + 111.00 = 1239.00 = cover line 3 THIS/CUM. BOTH gates fired and closed exactly — and the pair of gates is what proves the schedules are swapped, because the cross-assignment (p2 to line 1, p3 to line 3) closes on neither.",
+  "row_count": "rowbands.py, geometry_status ok on both schedule pages. PDF p2: 37 h-rules / 36 bands, first rule 8.45 pct, ink in bands 1 (8.45-11.23) and 2 (11.23-13.55) only -> 2 rows. PDF p3: 37 h-rules / 36 bands, first rule 8.98 pct, ink in bands 1 (8.98-11.75) and 2 (11.75-14.08) only -> 2 rows. Every other band on both pages is clean.",
+  "geometry_proof": "PDF p2: amount-column crop x=2500..5150 y=580..1000 @600dpi renders BOTH row values ('1128.00' over '111 00'); control crop one row-pitch below (x=4200 y=900 W=950 H=150) renders EMPTY. PDF p3: the matching crop renders '200.00' over '500.00'; control (y=930 H=150) renders EMPTY. Row indices cross-checked against the date and name columns in the paired left-half crops, so the index is not shifted.",
+  "balance_chain": "CLOSES EXACTLY: 700.00 (over-$50) + 125 (under-$50) - 1239.00 = -414, and cover line 4 is written '-414' in both the THIS and the CUMULATIVE column. CROSS-FILING CHAIN with the same filer's earlier report in this chunk (0b60edfa, cover dated 2012-10-30): this December cover's TOTALS FROM LAST REPORT column is ENTIRELY BLANK on all four lines, so it does NOT chain forward from the October report in the way the form intends. Instead its THIS and CUMULATIVE columns REPEAT the October report's figures verbatim (700 / 125 / 1239 / -414), and its two schedules carry the SAME four transactions the October filing carried. So this is a RESTATEMENT of the whole cycle, not an incremental period report — treat the two filings as overlapping, and never add their rows together. That is exactly the double-count a naive cycle sum would produce, and it is why recon.scope is 'cumulative' on both sides."
+ },
+ "escalations": 8,
+ "escalation_note": "PDF p2 and p3 each read at 600 dpi in a left-half (date + name) and a right-half (third column + amount) crop; the p2 amount cell independently confirms four pre-decimal digits on row 1 (1128, not 128); two single-cell control crops at 600 dpi for the geometry proof; the p1 cover money block in two 600 dpi crops, which is what established that TOTALS FROM LAST REPORT is blank rather than dashed or zeroed.",
+ "notes": "*** THE TWO SCHEDULES ARE SWAPPED IN THIS FILING. *** The sheet printed 'ITEMIZED CONTRIBUTION REPORT (Form A)' (PDF page 2) carries the EXPENDITURES, and the sheet printed 'ITEMIZED EXPENDITURE REPORT (Form B)' (PDF page 3) carries the CONTRIBUTIONS. The document contradicts its own labels, so it was transcribed FROM THE CONTENT, per the brief: rows are filed under the side their arithmetic and their column content prove, while every geometry pointer still names the PDF page the ink is actually on. The proof is the pair of gates (p3 sums to the contributions line, p2 sums to the expenses line; the reverse assignment closes on neither) plus the column content (donor street addresses written under 'Purpose of Expenditure'; purposes 'Mailer'/'Flyers' written under 'Mailing Address & Zip Code'). A human should look at this one — it is a strong new CALIBRATION-SPECIMEN candidate for a whole-schedule swap, a defect no single-page arithmetic can see. THIS PDF IS A BYTE-DUPLICATE: sha256 cb3d4768... is shared with raw/2012/2012_st_Cory_Yeates_12_4_12_General.pdf (verified with shasum), which is the second path in the chunk file's applies_to; one transcription covers both. Chunk file says candidate 'C Yeates', office 'County Council'; the form reads 'Full Name of Candidate: Cory Yeates', 'Name of Office: Cache County Council', 'Office District: Logan Seat #1', party Republican — office AGREES, and note the chunk file's abbreviated 'C Yeates' is the county-site filename, not the form. DATE DISCREPANCY WITH THE CHUNK FILE: the chunk row is dated 2012-12-06 and the county filename says 12_6_12, but the filer wrote 'Date 12/4/12' on the cover and the clerk stamp reads 'CACHE COUNTY CLERK RCVD 12 DEC 2012 AM 08:58' — three different dates for one filing; the form's own 12/4/12 governs the report date. Candidate street address, ZIP, home phone and business phone are in the clear on the cover and were discarded at read time; the donor street address and PO box on PDF page 3 were likewise discarded, city/state only kept.",
+ "contributions": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2012-06-01",
+   "donor_raw": "Ivy trust",
+   "donor_city": "N. Logan",
+   "donor_state": "",
+   "amount": "200.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=high;donor=medium;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.50,8.98,11.00,2.77@p3",
+   "note": "WRITTEN ON THE SHEET PRINTED 'Form B' — see notes; filed as a contribution because the page's rows sum to the cover's contributions line and the row carries a donor address. Date written '6-1-12' -> 2012-06-01. Payee cell reads 'Ivy trust' (lower-case t as written). Address column holds a street address in North Logan; the street is discarded at read time, city kept as written 'N. Logan', and the filer wrote no state. Superscript cents over a rule. Carr form has no in-kind column."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2012-10-06",
+   "donor_raw": "CCRP.",
+   "donor_city": "Logan",
+   "donor_state": "UT",
+   "amount": "500.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;donor=low;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.50,11.75,11.00,2.33@p3",
+   "note": "WRITTEN ON THE SHEET PRINTED 'Form B' — see notes. Date '10-6-12' -> 2012-10-06. The donor cell is a cramped four-or-five-character abbreviation that I read as 'CCRP.'; it did not fully resolve at 600 dpi, so it is kept as the legible-glyph string at low confidence with needs_review:1 rather than expanded. (For a human's context only, NOT used to fill the cell: the same donor and amount appear on this filer's 2012-10-30 report written out as 'C.C. Republican Party'.) Address column reads 'P.O. Box  Logan UT' with NO box number written; the PO-box designation is discarded at read time and city/state kept. Superscript cents."
+  }
+ ],
+ "expenditures": [
+  {
+   "line_no": "1",
+   "report_no": 1,
+   "date": "2012-06-10",
+   "vendor_raw": "Screen One",
+   "purpose": "Mailer",
+   "amount": "1128.00",
+   "in_kind": false,
+   "needs_review": 1,
+   "confidence": "low",
+   "cell_confidence": "date=high;vendor=low;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.50,8.45,11.00,2.78@p2",
+   "note": "WRITTEN ON THE SHEET PRINTED 'Form A' — see notes; filed as an expenditure because the page's rows sum to the cover's expenses line and the row carries a purpose, not an address. Date '6-10-12' -> 2012-06-10. VENDOR: the cell reads as two words, a capital S followed by a descender loop then '-reen', and then 'One'; my best glyph read is 'Screen One', kept at low confidence with needs_review:1 because the second letter did not resolve at 600 dpi. AMOUNT: four pre-decimal digits confirmed in a tight 600 dpi crop, and the schedule's own sum (1128.00 + 111.00 = the printed 1239) agrees; superscript cents over a rule."
+  },
+  {
+   "line_no": "2",
+   "report_no": 1,
+   "date": "2012-05-12",
+   "vendor_raw": "Printing",
+   "purpose": "Flyers",
+   "amount": "111.00",
+   "in_kind": false,
+   "needs_review": 0,
+   "confidence": "medium",
+   "cell_confidence": "date=medium;vendor=medium;purpose=high;amount=high",
+   "verified": 1,
+   "geometry": "pct:83.50,11.23,11.00,2.32@p2",
+   "note": "WRITTEN ON THE SHEET PRINTED 'Form A' — see notes. Date written '5-12/12' with mixed dash and slash separators -> 2012-05-12; the month digit is legible on THIS document (it is NOT on the same filer's 2012-10-30 copy of the same transaction, where it is overwritten and was left blank there — no value was carried between the two documents in either direction). Vendor cell holds the single word 'Printing' with no company name. AMOUNT: written '111 00' with the cents as a separate two-digit group and NO printed decimal point; transcribed 111.00 per the superscript-cents convention."
+  }
+ ]
+}

@@ -3,7 +3,10 @@
  "key": "802834e3",
  "transcribed_by": "vision-transcribed(claude-opus-5; 2026-08-01 totals tranche)",
  "transcribed_utc": "2026-08-01T23:10:00Z",
- "pages_read": [1, 2],
+ "pages_read": [
+  1,
+  2
+ ],
  "form_variant": "modern_boxAF",
  "form_version": "",
  "form_title": "Financial Campaign Report for County and Local School Board Candidates",
@@ -56,5 +59,52 @@
    "notes": "THE PDF CONTAINS NO SUMMARY PAGE. It is 2 pages: p1 cover, p2 Schedule B (Itemized Expenditures Made, every row blank). The filer did not submit the Box A-F summary page, so every normalized total is \"\" - NOT zero, and NOT derived from Schedule B. The two figures recorded in totals_verbatim are the Schedule B page's own printed totals ('Subtotal for this page $ 0.00' and 'Total Expenditures Made $ 0.00'), kept under explicit schedule-B keys so they can never be mistaken for summary boxes. Born-digital typed form; address is NOT redacted here (3024 Comanche Ln, Provo, UT 84604 printed in the clear). Phone and Email fields left blank by the filer. Checked report type is 'End-of-Year Report' - the index carries reporting_period 'Midterm', which the page face does not support."
   }
  ],
- "notes": "OCR locator correctly reported 'no SUMMARY page located' - there genuinely is none in this 2-page filing."
+ "notes": "OCR locator correctly reported 'no SUMMARY page located' - there genuinely is none in this 2-page filing.",
+ "contributions": [],
+ "expenditures": [],
+ "itemized_transcribed": true,
+ "_meta": {
+  "itemized": {
+   "wave": "itemized-vision(claude-opus-5; 2026-08-19 wave B2 utah, chunk r10_03)",
+   "transcribed_date": "2026-08-19",
+   "pages_read": [
+    1,
+    2
+   ],
+   "itemized_pages_A": "",
+   "itemized_pages_B": "2",
+   "sides": {
+    "contributions": "no-schedule-page",
+    "expenditures": "empty-schedule"
+   },
+   "withheld_reason": {
+    "contributions": "The retained document has NO Schedule A page at all, and no Summary Page either. `pdfinfo` reports Pages: 2, and both were read full-page and classified from their own printed headers: p1 is the COVER ('Financial Campaign Report for County and Local School Board Candidates') and p2 is 'Schedule B - Itemized Expenditures Made'. There is therefore no contributions grid to read and no Box B to gate against. NOTE this filing is on the newer unversioned 2022 blank, which is UNFOLIATED (its footer box prints 'Date of Filing' / 'Date of Report' and no Page field), so the filer's own foliation offers no evidence either way about whether a Schedule A sheet was filed and dropped \u2014 the `pdfinfo` page count and the two pages' own headers are the whole evidence."
+   },
+   "recon": {
+    "contributions": {
+     "result": "unknown",
+     "anchor": "NONE \u2014 there is no Summary Page in this document, so no Box B and no Box C exist, and no Schedule A page exists to carry a printed subtotal or total. The module's published stated totals for this filing are correspondingly BLANK (the 2026-08-01 cover tranche recorded 'THE PDF CONTAINS NO SUMMARY PAGE').",
+     "detail": "No reconciliation is asserted or possible on the contributions side. Nothing was synthesized, and the filer's other filings were not differenced to manufacture a figure."
+    },
+    "expenditures": {
+     "result": "exact",
+     "anchor": "Schedule B's own two printed footers on p2 \u2014 'Subtotal for this page $ 0.00' and 'Total Expenditures Made $ 0.00 (Sum of all Schedule B Pages in this report)'. THERE IS NO COVER CROSS-CHECK: this document has no Summary Page, so no Box D and no Box E exist, and the schedule's own footers are the ONLY anchor. Nothing was synthesized to replace them.",
+     "detail": "Schedule B (p2) exists and is entirely unmarked: all 15 printed boxed rows are empty in every column (Date / Provider/Vendor / Purpose / Amount) and every In-Kind checkbox is untouched. Zero itemized rows sum to 0.00, which equals the printed page subtotal (0.00) and the printed Total Expenditures Made (0.00). Both zeros are typed as '0.00' \u2014 actual numerals, not dashes or other nil marks. This is a genuine absence of entries by the filer, so the state is `empty-schedule`, not `withheld` and not `no-schedule-page`."
+    }
+   },
+   "in_kind_convention": "not testable on the contributions side (no Schedule A page exists). On the expenditures side the two conventions are indistinguishable: this is the NEWER 2022 blank and its Schedule B DOES carry an In-Kind checkbox column, but every checkbox on the page is empty and the side is zero, so monetary-only and monetary-plus-in-kind both give 0.00 and both close against the schedule's printed footers.",
+   "escalations": 1,
+   "escalation_note": "One GHOST/SHOW-THROUGH + in-kind screen per \u00a7K4 and \u00a7J1 before concluding Schedule B is unmarked. A 500 dpi crop of the grid band (pct:63.0,15.0,30.0,45.0@p2, rendered as a full-width row strip since --value was not passed -> 802834e3_p2_amt_ink.png) rendered the printed column headings 'Date / Provider/Vendor / Purpose / Amount / In-Kind' over eleven completely empty rows with all eleven In-Kind checkboxes EMPTY \u2014 no ink, no ghost, no show-through, no tick. The Amount and In-Kind cells were cropped TOGETHER as one block per \u00a7J1, so the half-row-high checkbox offset could not misassign anything; there was nothing to assign. The remaining lower rows were read clean on the full page.",
+   "n_contrib_rows": 0,
+   "n_expend_rows": 0,
+   "geometry": {
+    "measured": 0,
+    "explicit": 0,
+    "no_frame": 0,
+    "row_out_of_frame": 0,
+    "provenance": "printed-rule detection on the rendered page (scripts/campaign_finance/rowbands.py, raw-render frame): per-page frame = the Amount column band x one measured band per printed table row; a row's box is their intersection, in pct of the page as poppler renders it (rotation included)"
+   },
+   "notes": "2022 cycle, `modern_boxAF`, and it is **the NEWER UNVERSIONED 2022 BLANK** of \u00a7J1, not the `v. 4.20` carry-over \u2014 confirmed on three tells read off the pages themselves: the cover offers **SIX report types** (the sixth is 'End-of-Year Report \u2014 Due on December 31 for current County and local school board officers'), the cover's bottom-right box is headed **'Date of Filing'** and there is **NO Page field anywhere in the document** (so this filing is UNFOLIATED), and Schedule B's grid carries a fifth column, an **In-Kind checkbox**. No 'v.' revision string is printed in either page footer. Both pages rot 0 (pdfinfo -f 1 -l 2); no rotation handling needed. Producer metadata is 'Adobe PSL 1.3e for Canon' / Creator 'Canon iR-ADV C7770 PDF' \u2014 a scan, not a born-digital fillable form (Form: none). PAGE-FACE IDENTITY: candidate 'Kim Jackson'; Office box prints 'Utah County Treasurer'; the report-type radio FILLED is 'End-of-Year Report'; the amendment question is answered \u2014 'No' is ticked; signature is present in the clear and the Date box and the Date of Filing box both read '12/20/2022'. That matches index.csv's channel label ('Kim Jackson', 'County Treasurer'), though index.csv's period label 'Midterm' does not match the page's own 'End-of-Year Report' \u2014 **the page face governs; both are recorded and neither is adjudicated.** NO REDACTION ANYWHERE, judged per cell from the page: the filename carries no `_Redacted` suffix and, consistently with that, the candidate's own address block and her signature are published in the clear (the address is deliberately NOT carried into this record \u2014 privacy is applied at read time regardless of what the page publishes). The Phone Number and Email cells are BLANK because the filer left them empty, not because anything was redacted. NEW SOURCE PROPERTY worth recording: \u00a7J1 documented the In-Kind checkbox as a Schedule A feature of the newer 2022 blank; **this filing shows the newer blank's SCHEDULE B carries the In-Kind checkbox column too** (Date / Provider/Vendor / Purpose / Amount / In-Kind), so the half-row-high checkbox hazard applies to the expenditure side as well. The document is a two-page End-of-Year report with zero expenditure activity and no contributions sheet: one side is a real absence of ENTRIES (`empty-schedule`) and the other is a real absence of a PAGE (`no-schedule-page`) \u2014 two different facts in one filing. It is also a GRAMA / re-fetch target, since the missing Schedule A and Summary Page would carry both the contribution lines and every cover total this filing lacks."
+  }
+ }
 }

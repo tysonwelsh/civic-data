@@ -121,9 +121,13 @@ Ordered. Full detail per item: `_audits/2026-07-31-publication-review/report.md`
   Closed with ONE federation (build 2026-07-31T17:00:54): auto-gate 44/44, integrity ok,
   reconciliation exact; docs reconciled (check_doc_numbers 13/13); coverage.json + sample db
   + data dictionary regenerated; marquee examples 5/5.
-- [ ] **G9. Declare against SHIP_GATE.md → publish provisionally** (public repo + gov.db.gz
-  release + Zenodo DOI + municipalsky.com link). Then: [DEBT] → GitHub issues; leads stay in
-  LEADS.md or become unmilestoned enhancement issues; honest ceilings NEVER become issues.
+- [x] **G9. Declared + PUBLISHED 2026-09-02 (owner-directed).** All three SHIP_GATE
+  predicates re-run PASS on commit `059b332cf`; repo flipped PUBLIC
+  (github.com/tysonwelsh/civic-data) with secret scanning + push protection enabled;
+  release **v2026-09-02** cut with gov.db.gz (407 MB, sha256 sidecar); the 3 open [DEBT]
+  items became issues #1–#3 (leads stayed in LEADS.md; honest ceilings became nothing).
+  OWNER RESIDUE: mint the Zenodo DOI (CITATION.cff ready; wire DOI into README/CITATION
+  when minted), link from municipalsky.com, rotate the ANTHROPIC_API_KEY.
 
 ## COUNTY DATA ACQUISITION — active work package (owner-authorized 2026-08-01)
 

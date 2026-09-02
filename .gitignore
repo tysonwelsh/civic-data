@@ -68,3 +68,5 @@ __pycache__/
 # the face of the filing — PRIVACY.md keeps unredacted source PDFs local-only. Local
 # demo use is fine; publishing them is not.
 interface_prototype/examples/campaign_finance/*.pdf
+/gov.db.gz
+/gov.db.gz.sha256
